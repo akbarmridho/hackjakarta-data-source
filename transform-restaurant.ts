@@ -61,10 +61,12 @@ const combine = (data: {
   for (const restaurant of restaurants.values()) {
     result.push({
       id: restaurant.id,
-      cuisine: [...restaurant.cuisine.values()],
+      cuisine: [...restaurant.cuisine.values()].map((each) =>
+        each.toLowerCase()
+      ),
       link: restaurant.link,
       name: restaurant.name,
-      tags: [...restaurant.tags.values()],
+      tags: [...restaurant.tags.values()].map((each) => each.toLowerCase()),
     });
   }
 
