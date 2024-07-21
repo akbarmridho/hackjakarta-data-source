@@ -45,8 +45,7 @@ interface Restaurant {
 
     for (const element of elements) {
       const linkElement = await element.findElement(By.css("a"));
-      const relativeLink = await linkElement.getAttribute("href");
-      const absoluteLink = `${baseGrabUrl}${relativeLink}`;
+      const absoluteLink = await linkElement.getAttribute("href");
 
       const restaurantNameElement = await element.findElement(
         By.className("name___2epcT")
