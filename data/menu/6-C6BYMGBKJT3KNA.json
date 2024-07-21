@@ -1,0 +1,248 @@
+[
+  {
+    "price": "21000",
+    "name": "Americano",
+    "description": "espresso dengan kopi houseblend dengan rasio arabika(80%) dan robusta (20%)",
+    "section": "coffee base"
+  },
+  {
+    "price": "25000",
+    "name": "Cappuccino",
+    "description": "A Blend Of Coffee And Fresh Milk",
+    "section": "coffee base"
+  },
+  {
+    "price": "25000",
+    "name": "Latte",
+    "description": "perpaduan antara kopi yang ringan dan susu segar",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Mochaccino",
+    "description": "perpaduan antara kopi, susu segar dan coklat bubuk",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Caramel Latte",
+    "description": "A Blend Of Coffee, Fresh Milk And Caramel Syrup",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Hazelnut Latte",
+    "description": "perpaduan antara kopi, susu segar dan sirup hazelnut",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Caramel Machiatto",
+    "description": "perpaduan antara kopi, susu segar dan caramel saus",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Brown Sugar Coffee",
+    "description": "perpaduan antara kopi, susu segar dan gula aren",
+    "section": "coffee base"
+  },
+  {
+    "price": "30000",
+    "name": "Avocado Coffee",
+    "description": "A Blend Of Coffee, Sweet Cream, Fresh Milk, And Avocado Powder",
+    "section": "coffee base"
+  },
+  {
+    "price": "27000",
+    "name": "Chocolate",
+    "description": "perpaduan antara susu segar dan coklat bubuk",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Red Velved",
+    "description": "perpaduan antara susu segar dan red velved bubuk",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Vanilla Shake",
+    "description": "perpaduan antara susu segar, sirup vanilla dan krimer manis",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Jeruk Peras",
+    "description": "",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Soursoup Juice",
+    "description": "Juice Sirsak With Sweet Creamy",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Avocado Juice",
+    "description": "Avocado Juice And Sweet Cream",
+    "section": "milk & juice"
+  },
+  {
+    "price": "27000",
+    "name": "Strawberry Juice",
+    "description": "Strawberry Juice With Sweet Creamy",
+    "section": "milk & juice"
+  },
+  {
+    "price": "21000",
+    "name": "Jasmine Tea",
+    "description": "menggunakan teh hitam pilihan",
+    "section": "tea"
+  },
+  {
+    "price": "33500",
+    "name": "Lychee Tea",
+    "description": "Black Tea And Syrup",
+    "section": "tea"
+  },
+  {
+    "price": "33500",
+    "name": "Berry Tea",
+    "description": "Black Tea And A Mixture Of Syrup",
+    "section": "tea"
+  },
+  {
+    "price": "24500",
+    "name": "Ginger Drink",
+    "description": "Herbal Hot Drink Made From Ginger",
+    "section": "local drink"
+  },
+  {
+    "price": "24500",
+    "name": "Wedang Classic",
+    "description": "Herbal Drinks Are Made From Ginger, Lemon, Honey",
+    "section": "local drink"
+  },
+  {
+    "price": "24500",
+    "name": "Uwuh Drink",
+    "description": "Herbal Drinks Are Made Of Spices",
+    "section": "local drink"
+  },
+  {
+    "price": "33500",
+    "name": "Wedang Ronde",
+    "description": "",
+    "section": "local drink"
+  },
+  {
+    "price": "21000",
+    "name": "Lemon Refreshner",
+    "description": "perasan lemon segar",
+    "section": "freshner"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Curry Katsu",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "33500",
+    "name": "English Breakfast",
+    "description": "French Fries, Toats Bread, Sausage, Egg",
+    "section": "main course"
+  },
+  {
+    "price": "36000",
+    "name": "Sandwich",
+    "description": "Toast Bread Triple Cake, Eggs And Smoked Beef",
+    "section": "main course"
+  },
+  {
+    "price": "23000",
+    "name": "Toast Bread",
+    "description": "Toast With Jam",
+    "section": "main course"
+  },
+  {
+    "price": "33500",
+    "name": "Mie Gokil",
+    "description": "Instan Noodles, And Egg",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Spaghetti Bolognese",
+    "description": "Spaghetti, Bolognese Sauce, Smoked Beef",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Black Pepper Chicken",
+    "description": "Black Paper Sauce, Chicken, Fried Eggs",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Butter Rice Chicken",
+    "description": "Rice Cooked With Chicken Katsu And Matah Sambal",
+    "section": "main course"
+  },
+  {
+    "price": "43000",
+    "name": "Butter Rice Dory",
+    "description": "Rice Cooked With Butter, Dory Katsu And Matah Sambal",
+    "section": "main course"
+  },
+  {
+    "price": "46500",
+    "name": "Empal Gentong",
+    "description": "Cirebon'S Signature Rice And Empal",
+    "section": "main course"
+  },
+  {
+    "price": "37500",
+    "name": "Green Sambal Fried Rice",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "31000",
+    "name": "Chocolate Banana",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "27000",
+    "name": "Dimsum",
+    "description": "3 Pcs",
+    "section": "snack"
+  },
+  {
+    "price": "31000",
+    "name": "French Fries",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "33500",
+    "name": "Chicken Wings",
+    "description": "4 Pcs",
+    "section": "snack"
+  },
+  {
+    "price": "36000",
+    "name": "Mix Platter",
+    "description": "French Fries, Sausage And Nugget",
+    "section": "snack"
+  },
+  {
+    "price": "24500",
+    "name": "Cassava Cheese",
+    "description": "Fried Cassava With Abundant Grated Lung Cheese",
+    "section": "snack"
+  }
+]

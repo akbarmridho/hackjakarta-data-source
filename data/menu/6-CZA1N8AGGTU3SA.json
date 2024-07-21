@@ -1,0 +1,524 @@
+[
+  {
+    "price": "20000",
+    "name": "Nasi Ayam Geprek Seutuhnya + Sambal",
+    "description": "Edisi Ayam Geprek terbaru! Dibalut tepung lezat dan renyah yang bikin kamu kenyang SEUTUHNYA! Lengkap pake nasi, kremes, dan sambalnya yang bikin ketagihan!",
+    "section": "today's offer"
+  },
+  {
+    "price": "41818",
+    "name": "2 Pcs Moon Fried Chicken Rice Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "38182",
+    "name": "THAIsty! Tomyum Fried Rice + Wai Thai Tea",
+    "description": "Combo Best Seller Thailand! Harga spesial untuk Tomyum Fried Rice + Wai Thai Tea dari Wai Thai Food!",
+    "section": "today's offer"
+  },
+  {
+    "price": "51818",
+    "name": "Hot Combo Special 2 (Nashville Fried Chicken with Cheese)",
+    "description": "2 Nashville Chicken + Rice + Cheese Sauce + Sweet Tropical",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Paket Lengkap Ayam Penyet Ketumbar",
+    "description": "Lengkap & Hemat! Nasi Ayam Penyet Ketumbar Sambal matah + Extra Kulit + Es Teh Manis",
+    "section": "today's offer"
+  },
+  {
+    "price": "40909",
+    "name": "Geprek Nasi Wangi Sambal Matah + Nasi Kulit Renyah Idolaku",
+    "description": "Perpaduan nikmat segarnya Geprek Nasi Wangi Sambal Matah dengan kegurihan Nasi Kulit Renyah Idolaku",
+    "section": "today's offer"
+  },
+  {
+    "price": "68090",
+    "name": "Chicken Biryani Bowl + Butter Chicken Naan Combo",
+    "description": "Makan hemat dengan ACCHA! Nikmati Chicken Biryani Bowl dan Butter Chicken Naan dan bisa Tebus Murah Es Teh , dijamin bikin ketagihan!",
+    "section": "today's offer"
+  },
+  {
+    "price": "45364",
+    "name": "Aburi Gyudon Regular FREE Upgrade to Nori Rice",
+    "description": "Nikmati menu Aburi Gyudon Regular dengan harga spesial!",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Nasi Ayam Geprek Seutuhnya + Sambal",
+    "description": "Edisi Ayam Geprek terbaru! Dibalut tepung lezat dan renyah yang bikin kamu kenyang SEUTUHNYA! Lengkap pake nasi, kremes, dan sambalnya yang bikin ketagihan!",
+    "section": "flash sale"
+  },
+  {
+    "price": "41818",
+    "name": "2 Pcs Moon Fried Chicken Rice Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "38182",
+    "name": "THAIsty! Tomyum Fried Rice + Wai Thai Tea",
+    "description": "Combo Best Seller Thailand! Harga spesial untuk Tomyum Fried Rice + Wai Thai Tea dari Wai Thai Food!",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "51818",
+    "name": "Hot Combo Special 2 (Nashville Fried Chicken with Cheese)",
+    "description": "2 Nashville Chicken + Rice + Cheese Sauce + Sweet Tropical",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "37273",
+    "name": "Paket Lengkap Ayam Penyet Ketumbar",
+    "description": "Lengkap & Hemat! Nasi Ayam Penyet Ketumbar Sambal matah + Extra Kulit + Es Teh Manis",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "40909",
+    "name": "Geprek Nasi Wangi Sambal Matah + Nasi Kulit Renyah Idolaku",
+    "description": "Perpaduan nikmat segarnya Geprek Nasi Wangi Sambal Matah dengan kegurihan Nasi Kulit Renyah Idolaku",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "68090",
+    "name": "Chicken Biryani Bowl + Butter Chicken Naan Combo",
+    "description": "Makan hemat dengan ACCHA! Nikmati Chicken Biryani Bowl dan Butter Chicken Naan dan bisa Tebus Murah Es Teh , dijamin bikin ketagihan!",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "45364",
+    "name": "Aburi Gyudon Regular FREE Upgrade to Nori Rice",
+    "description": "Nikmati menu Aburi Gyudon Regular dengan harga spesial!",
+    "section": "treat yourself!"
+  },
+  {
+    "price": "1818.182",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "47273",
+    "name": "2 pcs Fried Chicken Hot Nashville Rice Set",
+    "description": "Ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan. Dilengkapi dengan nasi putih",
+    "section": "new hot nashville by hot side story"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Hot Nashville A La Carte",
+    "description": "Sayap ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin ketagihan! Cocok untuk snack time!",
+    "section": "new hot nashville by hot side story"
+  },
+  {
+    "price": "47273",
+    "name": "2 pcs Fried Chicken Fire Mala Rice Set",
+    "description": "Ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Dilengkapi dengan nasi putih",
+    "section": "new fire mala by hot side story"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Fire Mala A La Carte",
+    "description": "Sayap ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Cocok untuk snack time!",
+    "section": "new fire mala by hot side story"
+  },
+  {
+    "price": "18091",
+    "name": "NEW! Roti Paratha (Ala Carte)",
+    "description": "Roti pipih berlapis khas India",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "47182",
+    "name": "NEW! Butter Chicken + Roti Paratha (Contain: Ayam Tikka)",
+    "description": "Baru dari Accha! Roti Paratha gurih disajikan dengan kari best seller Accha, Butter Chicken. (Lebih nikmat disantap dengan Masala sachet)",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "40818",
+    "name": "Chicken Kofta Biryani Rice Bowl (Contain: Bakso Ayam, Nasi Biryani)",
+    "description": "Nasi Basmati yang dimasak dengan rempah khas India dan Chicken Kofta si Bakso khas India! (Tambahkan Biryani Sachet untuk rasa yang lebih gurih)",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "63545",
+    "name": "2 Pcs Signature Fried Chicken Biryani Set",
+    "description": "Perpaduan paling yahud dari nasi biryani dan ayam goreng juicy dengan saus rempah yang gurih dan aromatik khas ACCHA.",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "48182",
+    "name": "3 Pcs Signature Chicken Wings Biryani Set",
+    "description": "Perpaduan paling yahud dari nasi biryani dan Chicken Wings juicy dengan saus rempah gurih dan aromatik khas ACCHA.",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "45364",
+    "name": "Butter Chicken + Naan (Contain: Ayam Tikka)",
+    "description": "(NEW PORTION,MORE CHICKEN) Best Seller! Potongan ayam panggang dicampur kuah kari tomat & saus butter yang creamy!Disajikan sama roti naan(Tambahkan Masala Sachet agar lebih gurih)",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "45364",
+    "name": "Chicken Tikka Masala + Naan (Contain: Ayam Tikka)",
+    "description": "(NEW PORTION,MORE CHICKEN) Potongan ayam tikka panggang dicampur kuah kari rempah spesial Accha. Disajikan dengan roti naan(Tambahkan Masala Sachet agar lebih gurih)",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "63545",
+    "name": "Butter Chicken Big Bowl (Contain: Ayam Tikka)",
+    "description": "Potongan ayam yang juicy dimasak sama bumbu kari tomat dan butter yang creamy dan smooth abisss~ cocok buat dimakan berdua! Cocok buat dimakan ramean!",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "63545",
+    "name": "Chicken Tikka Masala Big Bowl (Contain: Ayam Tikka)",
+    "description": "Potongan ayam dimarinasi dan dipanggang gaya tikka dalam kuah kari yang spesial dari ACCHA! Cocok buat dimakan berdua! Cocok buat dimakan ramean!",
+    "section": "accha indian soul food"
+  },
+  {
+    "price": "40000",
+    "name": "2 Pcs Moon Fried Chicken Ala Carte",
+    "description": "Pilih 1 rasa",
+    "section": "moon chicken - fried chicken"
+  },
+  {
+    "price": "114545",
+    "name": "6 Pcs Moon Fried Chicken Ala Carte",
+    "description": "6 Pcs Moon Fried Chicken. Pilih 2 rasa",
+    "section": "moon chicken - fried chicken"
+  },
+  {
+    "price": "30909",
+    "name": "1 Pc Moon Fried Chicken Rice Set",
+    "description": "1 Pc Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "moon chicken - fried chicken"
+  },
+  {
+    "price": "42727",
+    "name": "5 Pcs Korean Chicken Wings",
+    "description": "5 Pcs Korean Chicken Wings. Pilih 1 rasa",
+    "section": "moon chicken - chicken wings"
+  },
+  {
+    "price": "154545",
+    "name": "20 Pcs Korean Chicken Wings",
+    "description": "Pilih 4 rasa",
+    "section": "moon chicken - chicken wings"
+  },
+  {
+    "price": "84545",
+    "name": "10 Pcs Korean Chicken Wings Rice Set",
+    "description": "10 Pcs Korean Chicken Wings + Nasi. Pilih 2 rasa",
+    "section": "moon chicken - chicken wings"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice",
+    "description": "Popcorn Chicken (boneless) + Nasi + Telur Mata Sapi + Extra Mayo. Pilih 1 rasa",
+    "section": "moon chicken - meteor chicken & snacks"
+  },
+  {
+    "price": "62273",
+    "name": "XL Meteor Chicken (Chicken Only, 2x Portion)",
+    "description": "2x porsi Popcorn Chicken (boneless) + Extra Mayo. Pilih 1 rasa",
+    "section": "moon chicken - meteor chicken & snacks"
+  },
+  {
+    "price": "27273",
+    "name": "Moon Mandu (Moon Snack)",
+    "description": "5pcs Mandu goreng Korea isi ayam dan sayur cincang.",
+    "section": "moon chicken - meteor chicken & snacks"
+  },
+  {
+    "price": "27273",
+    "name": "Korean Chicken Skin (Moon Snack)",
+    "description": "Kulit ayam garing dengan Flavors of the Galaxy. Pilih 1 rasa",
+    "section": "moon chicken - meteor chicken & snacks"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Original",
+    "description": "Nasi dengan potongan Ayam bumbu ketumbar yang harum dilumuri sambal spesial khas Bu Tumbar yang gurih dan pedas.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Korek",
+    "description": "Penggemar pedas wajib coba! Nasi dengan potongan Ayam bumbu ketumbar yang harum dan dilumuri sambal Korek yang pedas nikmat. (Potongan Ayam yang tersedia)",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Matah",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, ditemani sambal Matah yang segar dan sedikit pedas.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Kecombrang",
+    "description": "Kelezatan ganda! Nasi dengan potongan ayam berbumbu ketumbar yang harum, ditemani sambal kecombrang yang wangi, segar, dan memberikan sentuhan pedas, dijamin bikin ketagihan.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Kacang",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, disertai sensasi gurih dan pedas dari sambal kacang yang pasti akan memikat selera kamu.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "26273",
+    "name": "Ayam Geprek Ambyar Nasi Wangi Sambal Original",
+    "description": "Nasi Wangi TerENAK Sejagat Raya (agak pedes ya). Makannya pake Ayam Koplo Sambel Original dicampur sama Telur Orak-Arik, Serundeng, dan Kremesan (alat makan hanya disediakan berdasarkan permintaan)",
+    "section": "ayam koplo - paket ayam geprek"
+  },
+  {
+    "price": "26273",
+    "name": "Ayam Geprek Ambyar Nasi Wangi Sambal Matah",
+    "description": "Nasi Wangi Paling JUARA (agak pedes ya). Pake Ayam Koplo Sambel Matah Campuran Tiga Diva Bawang, Cabe, dan Daun Jeruk (alat makan hanya disediakan berdasarkan permintaan)",
+    "section": "ayam koplo - paket ayam geprek"
+  },
+  {
+    "price": "31273",
+    "name": "Ayam Geprek Ambyar Sambal Ori. Mozza",
+    "description": "Paket Nasi + Ayam Khas Ayam Koplo Pake Keju Mozza Meler-Meler Enak Suer! (alat makan hanya disediakan berdasarkan permintaan)",
+    "section": "ayam koplo - paket ayam geprek"
+  },
+  {
+    "price": "23182",
+    "name": "Nasi Ayam Penyet",
+    "description": "",
+    "section": "ayam koplo - penyet series"
+  },
+  {
+    "price": "28182",
+    "name": "Indomie Ayam Penyet",
+    "description": "",
+    "section": "ayam koplo - penyet series"
+  },
+  {
+    "price": "47273",
+    "name": "Aburi Gyudon (Beef Rice Bowl)",
+    "description": "Menu Beef Gyudon ala San Gyu, menggunakan 100% daging sapi US Premium yang sedikit dibakar, memberikan kamu sensasi smokey yang nikmat di porsi menu makan mu. (alat makan diberikan saat request).",
+    "section": "san gyu - gyu don"
+  },
+  {
+    "price": "50909",
+    "name": "Teriyaki Gyudon (Beef Rice Bowl)",
+    "description": "Menu favorit Beef Gyudon Teriyaki ala San Gyu menggunakan 100% daging sapi US Premium & dengan bahan-bahan terbaik.",
+    "section": "san gyu - gyu don"
+  },
+  {
+    "price": "50909",
+    "name": "Combo Don (Beef Rice Bowl)",
+    "description": "Menu Beef Gyudon dengan 2 rasa daging yang berbeda, menggunakan 100% daging sapi US Premium bikin waktu makan mu jadi lebih nikmat & seru (alat makan diberikan saat request).",
+    "section": "san gyu - gyu don"
+  },
+  {
+    "price": "40000",
+    "name": "Tori Steak Teriyaki Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang, dipadukan dengan saus Teriyaki Jepang yang autentik.",
+    "section": "san gyu - tori don"
+  },
+  {
+    "price": "40000",
+    "name": "Tori Steak Hickory Smoke Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang dipadukan dengan saus smokey, manis, dan tajam",
+    "section": "san gyu - tori don"
+  },
+  {
+    "price": "41818",
+    "name": "Curry Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Kari disajikan dengan nasi khas Jepang",
+    "section": "san gyu - tori don"
+  },
+  {
+    "price": "34545",
+    "name": "Mentai Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Mentai yang sedikit dibakar dan tobiko, disajikan dengan nasi khas Jepang",
+    "section": "san gyu - tori don"
+  },
+  {
+    "price": "54455",
+    "name": "Favorite Onigiri Bento A",
+    "description": "Bento dengan isian tori mayo + egg chicken roll dengan onigiri yang berbumbu dan salad.",
+    "section": "san gyu - onigiri bento"
+  },
+  {
+    "price": "54455",
+    "name": "Favorite Onigiri Bento B",
+    "description": "Bento dengan isian tori katsu + egg chicken roll dengan Onigiri yang berbumbu dan salad.",
+    "section": "san gyu - onigiri bento"
+  },
+  {
+    "price": "71818",
+    "name": "Premium Onigiri Bento A",
+    "description": "Bento dengan isian Onigiri berbumbu, Gyudon dan Tori mayo pilihanmu. Disajikan dengan salad.",
+    "section": "san gyu - onigiri bento"
+  },
+  {
+    "price": "59000",
+    "name": "Premium Onigiri Bento B",
+    "description": "Bento dengan isian Onigiri berbumbu, Tori Mayo dan Tori Katsu pilihanmu. Disajikan dengan salad.",
+    "section": "san gyu - onigiri bento"
+  },
+  {
+    "price": "32273",
+    "name": "Agemono A (Value Meal Bento)",
+    "description": "Perpaduan 2 Egg Roll + 2 Tori Ball disajikan dengan Nasi Jepang dan salad.",
+    "section": "san gyu - onigiri bento"
+  },
+  {
+    "price": "31818",
+    "name": "Tom Yum Seafood Khao Pad (Fried Rice/Nasi Goreng)",
+    "description": "Nasi Goreng Tomyum ala Thailand yang segar, asam, dan sedikit pedas. Dengan topping telur mata sapi, dan bakso seafood yang bisa dipilih sesuai keinginanmu. Level kepedasan 1.",
+    "section": "wai thai food - thai must try!"
+  },
+  {
+    "price": "20000",
+    "name": "Pop Bowl",
+    "description": "Rice bowl ayam goreng dengan saus yang bisa kamu pilih, dilengkapi telur orak arik",
+    "section": "value meal"
+  },
+  {
+    "price": "17636",
+    "name": "Nasi Kulit Renyah Idolaku Sambal Original",
+    "description": "Nasi kulit renyah, se-renyah jokes Bapack2. Kulit yang gurih dipadu dengan telur orak-arik dan sambal khas Indonesia. Makin komplit dengan taburan serundeng!",
+    "section": "value meal"
+  },
+  {
+    "price": "12727",
+    "name": "Extra Japanese Nori Rice",
+    "description": "Nasi yang dibumbui dengan rumput laut dan wijen.",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "9000",
+    "name": "Extra Nasi Wangi",
+    "description": "Nasi wangi bumbu spesial Koplo. Wangi-wangi pedes-pedes gimana gitu. Pokoknya manteubh!",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "36273",
+    "name": "Plain Biryani Bowl",
+    "description": "Nasi Basmati dimasak pake rempah spesial khas India",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "5455",
+    "name": "White Rice",
+    "description": "Extra porsi nasi putih",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "16364",
+    "name": "Basmati Rice",
+    "description": "Extra porsi nasi basmati, nasi khas India",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "42727",
+    "name": "Aburi Gyudon Ala Carte",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "19091",
+    "name": "1 pc Ayam Goreng Penyet A La Carte",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "16273",
+    "name": "Butter Naan",
+    "description": "Roti panggang khas India yang dioles mentega spesial.",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "9091",
+    "name": "Papadum (Kerupuk India)",
+    "description": "Kerupuk ala India yang gurih. Hati-hati bikin nagih!",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "4545",
+    "name": "Mint Chutney",
+    "description": "Saus nikmat khas India. Campuran cilantro, mint, dan rempah spesial yang membuat makananmu makin enak!",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "4545",
+    "name": "Yoghurt Sauce",
+    "description": "Saus kombinasi yogurt dan rempah spesial yang cocok bikin makanan makin enak!",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "2000",
+    "name": "Extra Kremes",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "7636",
+    "name": "Extra Indomie Goreng",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Honey Mustard Sauce",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "455",
+    "name": "Extra Chili & Tomato Sauce",
+    "description": "",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Extra Japanese Spicy Nori Rice",
+    "description": "Nasi Jepang lembut yang dibumbui dengan rumput laut, wijen dan bubuk cabai.",
+    "section": "ala carte - hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Teman Makan",
+    "description": "Pink Lemonade Tea",
+    "section": "drinks by dari pada"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks by dari pada"
+  },
+  {
+    "price": "13636",
+    "name": "Premium Series",
+    "description": "Tulis di note Custom Message. Template : Dari : [X] Pada : [X] Pesan : [max. 50 karakter]",
+    "section": "drinks by dari pada"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks by dari pada"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks by dari pada"
+  },
+  {
+    "price": "28182",
+    "name": "Bangkok Popcorn Chicken Rice Bowl",
+    "description": "Popcorn Chicken dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "wai thai food - rice box"
+  }
+]

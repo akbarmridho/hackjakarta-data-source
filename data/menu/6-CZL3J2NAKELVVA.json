@@ -1,0 +1,321 @@
+[
+  {
+    "price": "27000",
+    "name": "Rendang Rice With Meat",
+    "description": "Rice + Rendang + Cassava Leaves / Jackfruit + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Chicken Rice",
+    "description": "Rice + Grilled Chicken + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "26000",
+    "name": "Fried Chicken Rice",
+    "description": "Rice + Fried Chicken + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "26000",
+    "name": "Curry Chicken Rice",
+    "description": "Rice + Chicken Curry + Cassava Leaves / Jackfruit + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "26000",
+    "name": "Lung Rice",
+    "description": "Rice + Lung + Cassava Leaves / Jackfruit + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "26000",
+    "name": "Balado Liver Potato Rice",
+    "description": "Rice + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "rice menu #rames"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Goldfish Rice",
+    "description": "Rice + Fried Masal Fish + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Mackerel Fish Rice",
+    "description": "Rice + Fried Bamboo Shoots + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Catfish Rice With Green Chili",
+    "description": "Rice + Grilled Catfish Green Chili + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Mackerel Fish Rice",
+    "description": "Rice + Grilled Spiced Chicken + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Mujair Fish Rice",
+    "description": "Rice + Fried Mujair + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Catfish Rice",
+    "description": "Rice + Fried Catfish + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Balado Mackarel Tuna Fish Rice",
+    "description": "Rice + Delicious Cob Balado + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Pomfret Fish Rice",
+    "description": "Rice + Grilled Pomfret Fish + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Goldfish Curry Rice",
+    "description": "Rice + Delicious Masket Fish + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "fish rames rice menu"
+  },
+  {
+    "price": "32500",
+    "name": "Rendang Rice + Egg",
+    "description": "Nasi Rendang + Egg + With A Delicious Curry Sauce Mix + And Vegetables Of Cassava Leaves Healthy + Delicious Green Sambal (Choose Your Favorite Egg Menu Available, The Egg Menu Can Be Replaced With Cakes, If There Is No Note We Will Provide It Randomly",
+    "section": "paket combo seru"
+  },
+  {
+    "price": "32500",
+    "name": "Chicken Rice + Egg",
+    "description": "Chicken Rice + Egg + With A Delicious Mix Of Curry Sauce + And Vegetables Of Cassava Leaves Healthy + Delicious Green Sambal (Choose Your Favorite Chicken / Egg Menu Available, The Egg Menu Can Be Replaced With Cakes, If There Is No Note We Will Provide It Randomly",
+    "section": "paket combo seru"
+  },
+  {
+    "price": "3500",
+    "name": "White Crackers",
+    "description": "Pcs",
+    "section": "snack"
+  },
+  {
+    "price": "7500",
+    "name": "Skin Crackers",
+    "description": "/ Pack",
+    "section": "snack"
+  },
+  {
+    "price": "9000",
+    "name": "Potato Cakes",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "3000",
+    "name": "Tempeh",
+    "description": "",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "6000",
+    "name": "Terong Balado",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "9700",
+    "name": "White Rice",
+    "description": "/ Portion",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Paru",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Mackerel Tuna Balado",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "9000",
+    "name": "Telor Dadar",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "9000",
+    "name": "Telor Balado",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "20000",
+    "name": "Beef Jerky",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "20000",
+    "name": "Rendang",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "20000",
+    "name": "Gravel / Support",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Ikan Lele Goreng",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Grilled Catfish",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Carp Fish",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Mackerel Fish",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Grilled Mackerel Fish",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Mujaer Fish",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "17000",
+    "name": "Ayam Goreng",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "17000",
+    "name": "Ayam Bakar",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "17000",
+    "name": "Curry Chicken",
+    "description": "/ Cut",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "20000",
+    "name": "Minced",
+    "description": "/ Portion",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "9000",
+    "name": "Telor Bulat",
+    "description": "Pcs",
+    "section": "a la carte / side dish menu"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "Hot / Cool",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh Manis Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Mineral Water 600 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  { "price": "8000", "name": "S-Tea", "description": "", "section": "minuman" },
+  {
+    "price": "8000",
+    "name": "Teh Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Jeruk Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Deluxe 1",
+    "description": "Rice + Chicken + Rendang (Choose Chicken Menu Available) + Cassava / Jackfruit Vegetables + Delicious Green Sambal",
+    "section": "paket deluxe"
+  },
+  {
+    "price": "55000",
+    "name": "Paket Deluxe 2",
+    "description": "Rice + Chicken + Rendang + Egg + Cassava / Jackfruit Leaf Vegetables + Delicious Green Sambal",
+    "section": "paket deluxe"
+  },
+  {
+    "price": "60000",
+    "name": "Paket Deluxe 3",
+    "description": "Rice + Chicken + Rendang + Egg + White Crackers + Cassava / Jackfruit Vegetables + Delicious Green Sambal",
+    "section": "paket deluxe"
+  },
+  {
+    "price": "31500",
+    "name": "Rice Box Rendang Meat",
+    "description": "Rendang Rice Using A Box, With Vegetables Separate Green Sambal, Free Complete Cutlery",
+    "section": "rice box package / catering"
+  },
+  {
+    "price": "30500",
+    "name": "Chicken Rice Box Package",
+    "description": "Chicken Rice Using A Box, With Vegetables Separate Green Sambal, Free Cutlery (Choose Your Favorite Chicken Menu Available, If There Is No Note, We Will Provide Randomly)",
+    "section": "rice box package / catering"
+  }
+]

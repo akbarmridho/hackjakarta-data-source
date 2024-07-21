@@ -1,0 +1,698 @@
+[
+  {
+    "price": "17909",
+    "name": "Candle : I Love You",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "17909",
+    "name": "Candle : We Love You",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "17909",
+    "name": "Candle : Hbd",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "6455",
+    "name": "Blank Card",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "6455",
+    "name": "Eid Mubarak Card",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "467364",
+    "name": "Ruby",
+    "description": "1 Golden Nastar + 1 Caramel Almond + 1 Cat'S Tounge + 1 St. Choco",
+    "section": "hampers"
+  },
+  {
+    "price": "412273",
+    "name": "Pearl",
+    "description": "1 Gold Nasar + 1 Thigh + Choco Strip M + 1 Cheese Strip M",
+    "section": "hampers"
+  },
+  {
+    "price": "932000",
+    "name": "Diamond",
+    "description": "1 Thigh + 2 Menus Of Tounge + 1 Gold Nastar + 1 Stick. Choco + 2 Caramelmonds + 1 Cheese Ball",
+    "section": "hampers"
+  },
+  {
+    "price": "1137.636",
+    "name": "Emerald",
+    "description": "1 Caramel Almond + 1 Kastengels + 1 St. Choco + 1 Golden Nastar + 1 Choco Strip M + 1 Strip Cheese M + 2 Oatmeal Raisin + 2 Choco Strip + 2 Cheese Strip",
+    "section": "hampers"
+  },
+  {
+    "price": "516000",
+    "name": "Amber",
+    "description": "1 Caramel Almond + 1 St. Choco + 2 Oatmeal Raisin + 1 Strip Cheese M + 1 Choco Strip + 1 Cheese",
+    "section": "hampers"
+  },
+  {
+    "price": "274545",
+    "name": "Chantilly 22X22",
+    "description": "Soft Cake With Fresh Fruit Flavors, Namely Cherry, Grape And Peach Combined With Delicious Vanilla Cream Added With White Chocolate And Fruit On Top. Notes : And A Variety Of Flavors And A Variety Can Be Different From Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "264091",
+    "name": "Tiramisu 22X22",
+    "description": "A Cake With A Soft Cake Of Coffee Flavor With Coffee And Chocolate Sprinkle. Notes : Form And Decorations Can Be Different In Several Stocks",
+    "section": "wholecake"
+  },
+  {
+    "price": "160727",
+    "name": "Chantilly 15X14,5",
+    "description": "Soft Cake With Fresh Fruit Flavors, Namely Cherry, Grape And Peach Combined With Delicious Vanilla Cream Added With White Chocolate And Fruit On Top. Notes : And A Variety Of Flavors And A Variety Can Be Different From Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "186364",
+    "name": "Chantilly Blush 15X14,5",
+    "description": "Soft Vanilla Cake Pink Bewarna With A Layer Of White Cream And Fruits With Strawberry Gabche Inside. Notes: Form And Decoration Can Be Different In The Stores",
+    "section": "wholecake"
+  },
+  {
+    "price": "204273",
+    "name": "Chantilly (D15)",
+    "description": "Soft Cake With Fresh Fruit Flavors, Namely Cherry, Grape And Peach Combined With Delicious Vanilla Cream Added With White Chocolate And Fruit On Top. Notes : And A Variety Of Flavors And A Variety Can Be Different From Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "186364",
+    "name": "Rich Chocolate (D15)",
+    "description": "A Cake Of Chocolate Cream With Soft Vanilla Cream And A Sprinkling Of Thin Chocolate On Top. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "wholecake"
+  },
+  {
+    "price": "237818",
+    "name": "Red Velvet (D15)",
+    "description": "Soft Cake Made From Bites With Butter Cream Cheese, And Crunchy Cashew Nuts On Top. Notes : Form And Decorations Can Be Different From Several Stocks",
+    "section": "wholecake"
+  },
+  {
+    "price": "160727",
+    "name": "Rich Chocolate 11X22",
+    "description": "Chocolate Creamed Cake With Soft Vanilla Cream And A Sprinkling Of Thin Chocolate On Top",
+    "section": "wholecake"
+  },
+  {
+    "price": "212091",
+    "name": "Rainbow Cream Cheese (D:15)",
+    "description": "A Cake With Cream Cheese Inside And Soft Sponge Cake With Warni Color, Plus Rainbow Coloring",
+    "section": "wholecake"
+  },
+  {
+    "price": "160727",
+    "name": "Tiramisu 11X22",
+    "description": "A Cake With A Soft Cake Of Coffee Flavor With Coffee Cream And A Tender Aroma Of Chocolate",
+    "section": "wholecake"
+  },
+  {
+    "price": "207545",
+    "name": "Black Forest (D15)",
+    "description": "Soft Cake Filled With Chocolate And Cherry Cream With Pure Chocolate Shavings. Notes : Forms And Decorations Can Be Different In Some Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "274545",
+    "name": "Black Forest 22X22",
+    "description": "Soft Cake Filled With Chocolate And Cherry Cream With Pure Chocolate Shavings. Notes : Forms And Decorations Can Be Different In Some Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "264091",
+    "name": "Rich Chocolate 22X22",
+    "description": "A Cake Of Chocolate Cream With Soft Vanilla Cream And A Sprinkling Of Thin Chocolate On Top. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "wholecake"
+  },
+  {
+    "price": "279091",
+    "name": "Chantilly Blush 22X22",
+    "description": "Soft Vanilla Cake Pink Bewarna With A Layer Of White Cream And Fruits With Strawberry Gabche Inside. Notes: Form And Decoration Can Be Different In The Stores",
+    "section": "wholecake"
+  },
+  {
+    "price": "160727",
+    "name": "Black Forest 15X14,5",
+    "description": "Soft Cake Filled With Chocolate And Cherry Cream With Pure Chocolate Shavings. Notes : Forms And Decorations Can Be Different In Some Stock",
+    "section": "wholecake"
+  },
+  {
+    "price": "31636",
+    "name": "Cheese Swirl Toast",
+    "description": "Soft Bread Rolls With A Sprinkling Of Cheddar Cheese. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "24364",
+    "name": "Whole Meal Toast",
+    "description": "Wheat Fresh Bread Made From Selected Wheat Flour. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "31182",
+    "name": "Raisin Toast",
+    "description": "Soft Bread Filled With Raisins And Toppings. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "27091",
+    "name": "White Toast",
+    "description": "Soft White Bread Made From Quality Flour. Notes: Form And Decorations Can Be Different In Some Stock",
+    "section": "toast"
+  },
+  {
+    "price": "22000",
+    "name": "Plain Mini Bun",
+    "description": "Soft Sweet Bread With Round Forms. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "26182",
+    "name": "Choco Cheese",
+    "description": "Torn Bread Filled With Cheese With Chocolate And Cheese Topping",
+    "section": "toast"
+  },
+  {
+    "price": "31182",
+    "name": "Raisin Choco",
+    "description": "Chocolate Soft Bread Filled With Raisins And Chocolate Chips And Chocolate Topping Shakeies. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "27545",
+    "name": "Unskin-White Toast",
+    "description": "Soft White Bread Without Skin Made From Quality Flour. Notes: Form And Decorations Can Be Different In Some Stock",
+    "section": "toast"
+  },
+  {
+    "price": "24818",
+    "name": "Unskin-Whole Meal",
+    "description": "Wheat Bread Without Skin Made From Selected Wheat Flour. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "toast"
+  },
+  {
+    "price": "22000",
+    "name": "Tiramisu Cup",
+    "description": "A Cake With Tiramisu Base And Soft Sponge Cake And A Sprinkling Of Chocolate On Top. Notes : Form And Decoration Can Be Different In Several Stocks",
+    "section": "slice cake"
+  },
+  {
+    "price": "22000",
+    "name": "Oreo Cup",
+    "description": "Soft Sponge Cake With Oreo Flavor Cutlets And Delicious Oreo Cream. Notes: Forms And Decorations Can Be Different In Some Of The Stores",
+    "section": "slice cake"
+  },
+  {
+    "price": "28455",
+    "name": "Rich Chocolate Slice",
+    "description": "A Cake Of Chocolate Cream With Soft Vanilla Cream And A Sprinkling Of Thin Chocolate On Top. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "slice cake"
+  },
+  {
+    "price": "28455",
+    "name": "Tiramisu Slice",
+    "description": "A Cake With A Soft Cake Of Coffee Flavor With Coffee And Chocolate Sprinkle. Notes : Form And Decorations Can Be Different In Several Stocks",
+    "section": "slice cake"
+  },
+  {
+    "price": "30273",
+    "name": "Chantilly Slice",
+    "description": "Soft Cake With Fresh Fruit Flavors, Namely Cherry, Grape And Peach Combined With Delicious Vanilla Cream And White Chocolate Flavors On Top. Notes : And A Variety Of Dreadlocks And Can Be Different From Stock",
+    "section": "slice cake"
+  },
+  {
+    "price": "33545",
+    "name": "Chantilly Blush Slice",
+    "description": "Soft Vanilla Cake Pink Bewarna With A Layer Of White Cream And Fruits With Strawberry Gabche Inside. Notes: Form And Decoration Can Be Different In The Stores",
+    "section": "slice cake"
+  },
+  {
+    "price": "37636",
+    "name": "Red Velvet Slice",
+    "description": "Soft Cake Made From Extraks. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "slice cake"
+  },
+  {
+    "price": "28455",
+    "name": "Black Forest Slice",
+    "description": "Soft Cake Filled With Chocolate And Cherry Cream With Pure Chocolate Shavings. Notes : Forms And Decorations Can Be Different In Some Stock",
+    "section": "slice cake"
+  },
+  {
+    "price": "14727",
+    "name": "Choco Muffin",
+    "description": "Chocolate Cake With Choco Chip Sprinkling. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "14727",
+    "name": "Cheese Muffin",
+    "description": "Soft Cake Made From Delicious Cheddar Cheese. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "16545",
+    "name": "Cheese Roll",
+    "description": "Soft Cheese Sponge Rolls With Vanilla Cream Inside And Grated Cheese On Top. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "15182",
+    "name": "Choco Roll",
+    "description": "Chocolate Rolled Sponge With Chocolate Cream Inside And Sprinkled With Chocolate Meises On Top. Notes : Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "15636",
+    "name": "Pandan Roll",
+    "description": "Pandan Flavored Sponge Cake With Vanilla Cream Inside. Notes: Form And Decorations Can Be Different In Some Stock",
+    "section": "dry cake"
+  },
+  {
+    "price": "382909",
+    "name": "Surabaya Layer Cake 20X20",
+    "description": "Soft Layer Cake With A Layer Of Chocolate And Vanilla And Fresh Strawberries Jam In The Inside. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "196455",
+    "name": "Surabaya Layer 19X9,5",
+    "description": "Soft Layer Cake With A Layer Of Chocolate And Vanilla And Fresh Strawberries Jam In The Inside. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "17909",
+    "name": "Surabaya Sliced Layer Cake",
+    "description": "Soft Layer Cake With A Layer Of Chocolate And Vanilla And Fresh Strawberries Jam In The Inside. Notes : Form And Decoration Can Be Different From Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "721727",
+    "name": "Lapis Legit Original 19X19",
+    "description": "Soft Layer Cake With Indonesian Traditional Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "391182",
+    "name": "Lapis Legit Original 19X9",
+    "description": "Soft Layer Cake With Indonesian Traditional Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "19727",
+    "name": "Lapis Legit Original Slice",
+    "description": "Soft Layer Cake With Indonesian Traditional Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "721727",
+    "name": "Lapis Legit Fortune 19X19",
+    "description": "Soft Layer Cake With A Special Taste Of P Spring Dry Fruit And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "391182",
+    "name": "Lapis Legit Fortune 19X9",
+    "description": "Soft Layer Cake With A Special Taste Of P Spring Dry Fruit And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "19727",
+    "name": "Lapis Legit Prune Slice",
+    "description": "Soft Layer Cake With A Special Taste Of P Spring Dry Fruit And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "15636",
+    "name": "Oreo Roll",
+    "description": "Delicious Soft Rolled Sponge Combined With Oreos",
+    "section": "dry cake"
+  },
+  {
+    "price": "15182",
+    "name": "Choco Mocha Roll",
+    "description": "Soft Rolled Sponge With Mocha Cream Inside",
+    "section": "dry cake"
+  },
+  {
+    "price": "44545",
+    "name": "Pandan Fluffy Cake",
+    "description": "Soft And Fluffy Cake With A Special Pandan Taste",
+    "section": "dry cake"
+  },
+  {
+    "price": "44545",
+    "name": "Choco Fluffy Cake",
+    "description": "Soft Chocolate Cake With Choco Chips Inside And On Top",
+    "section": "dry cake"
+  },
+  {
+    "price": "74818",
+    "name": "Spikoek Kenari Cake",
+    "description": "Soft Sponge Cake With Sugar Palm And Special Spices And A Walnut Topping",
+    "section": "dry cake"
+  },
+  {
+    "price": "67909",
+    "name": "Marble Pound Cake",
+    "description": "Soft Sponge Cake With Vanilla And Chocolate Flavor",
+    "section": "dry cake"
+  },
+  {
+    "price": "65636",
+    "name": "Choco Mocha Long",
+    "description": "Soft Chocolate Sponge Rolls With Mocha Cream And Wrapped In A Unique Options",
+    "section": "dry cake"
+  },
+  {
+    "price": "68909",
+    "name": "Long Oreos",
+    "description": "Soft Oreo Sponge Cake With Vanilla Cream",
+    "section": "dry cake"
+  },
+  {
+    "price": "65636",
+    "name": "Pandan Long",
+    "description": "Pandan Rolled Sponge With Vanilla Cream Inside Wrapped In A Unique Selection",
+    "section": "dry cake"
+  },
+  {
+    "price": "65636",
+    "name": "Choco Meises Long",
+    "description": "Chocolate Rolled Sponge With Chocolate Cream Inside And Rich In A Sprinkling Of Meise Chocolate On Top. Favorite For Chocolate Lovers.",
+    "section": "dry cake"
+  },
+  {
+    "price": "68909",
+    "name": "Cheese Long",
+    "description": "Soft Cheese Sponge Rolls With Vanilla Cream Inside And Grated Cheese On Top",
+    "section": "dry cake"
+  },
+  {
+    "price": "721727",
+    "name": "Lapis Legit Cheese 19X19",
+    "description": "Soft Layer Cake With Special Grated Cheese And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "391182",
+    "name": "Lapis Legit Cheese 19X9",
+    "description": "Soft Layer Cake With Special Grated Cheese And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "19727",
+    "name": "Lapis Legit Cheese Slice",
+    "description": "Soft Layer Cake With Special Grated Cheese And Traditional Indonesian Spices. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "dry cake"
+  },
+  {
+    "price": "15636",
+    "name": "Croissant Chocolate",
+    "description": "Farissant With Chocolate Topping. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "danish"
+  },
+  {
+    "price": "17000",
+    "name": "Double Choco",
+    "description": "Chocolate Coated Bread With Chocolate Coating. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "danish"
+  },
+  {
+    "price": "13273",
+    "name": "Croissant",
+    "description": "Farissant Plain. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "danish"
+  },
+  {
+    "price": "17000",
+    "name": "Spicy Beef Puff",
+    "description": "Puff Filled With Minced Meat And Eggs, Wrapped In Korean Spicy Sauce, And A Sprinkling Of Sesame And Parsley On Top.",
+    "section": "danish"
+  },
+  {
+    "price": "13273",
+    "name": "Banana Cheese Puff",
+    "description": "Pastry Puff Filled With Banana Raj And Parmesan Cheese, The Combination Of Sweet Bananas And Savory Cheese Aroma",
+    "section": "danish"
+  },
+  {
+    "price": "17909",
+    "name": "Martabak Croissant",
+    "description": "Farissant Filled With Peanuts And Chocolate Toppings Of Crunchy Choco And Grated Cheese And Sweetened Condensed Cheese",
+    "section": "danish"
+  },
+  {
+    "price": "14727",
+    "name": "Duo Choco Stick",
+    "description": "Long Banana With Delicious Chocolate Coating",
+    "section": "danish"
+  },
+  {
+    "price": "17000",
+    "name": "Sausage Bun",
+    "description": "Andish Filled With Chicken Sausage With Sauce. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "danish"
+  },
+  {
+    "price": "15636",
+    "name": "Tuna Cheese Puff",
+    "description": "Puff Filled With Tuna Mayo With Slice Cheese And A Sprinkling Of Parsley. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "danish"
+  },
+  {
+    "price": "15636",
+    "name": "Spicy Tuna Puff",
+    "description": "Puff Filled With Tuna Sambal And Mayonnaise And Tomato Sauce Topping And Parsley. Notes : Form And Decorations Can Be Different In Some Stock",
+    "section": "danish"
+  },
+  {
+    "price": "14273",
+    "name": "Cheese Croissant",
+    "description": "Farissant Cheese With A Sprinkling Of Parmesan Cheese. Notes: Forms And Decorations Can Be Different In Some Stock",
+    "section": "danish"
+  },
+  {
+    "price": "13273",
+    "name": "Korean Spicy Floss",
+    "description": "Soft Bread With Special Mayonnaise And A Sprinkling Of Shredded Chicken With Korean Spicy Seasoning, And Sesame On Top.",
+    "section": "bread"
+  },
+  {
+    "price": "13273",
+    "name": "Spicy Floss",
+    "description": "Soft Bread With Special Mayonnaise And Sprinkled With Spicy Chicken Shredded. Notes : Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "14273",
+    "name": "Floss Roll",
+    "description": "Bread Rolled In A Sprinkling Of Spicy Chicken And Sesame Seeds. Notes : Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "12818",
+    "name": "Choco Meisis",
+    "description": "Bread Filled With Ganache Chocolate Cream And A Sprinkling Of Chocolate Meises. Notes: Form And Decorations Can Be Different In Some Stock",
+    "section": "bread"
+  },
+  {
+    "price": "13273",
+    "name": "Rendang Floss",
+    "description": "Bread With A Special Topping Of Mayonnaise And Shredded Chicken Rendang Flavors. Notes : Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "13273",
+    "name": "Floss",
+    "description": "Soft Bread With Special Mayonnaise And A Sprinkling Of Savory Chicken Shredded. Notes: Form And Decorations Can Be Different In Some Stock",
+    "section": "bread"
+  },
+  {
+    "price": "13818",
+    "name": "Sausage Diva",
+    "description": "Bread With Chicken Sausage, Mayonnaise, Tomato Sauce And A Sprinkling Of Cheese And Parsley",
+    "section": "bread"
+  },
+  {
+    "price": "16091",
+    "name": "Meat N Cheese",
+    "description": "Bread Filled With Smoked Meat And Slice Cheese, With Tomato Sauce And Mayonnaise And A Sprinkling Of Parsley Leaves",
+    "section": "bread"
+  },
+  {
+    "price": "14273",
+    "name": "Almond Bread",
+    "description": "Bread Filled With Vanilla Cream And Sliced Almonds On Top",
+    "section": "bread"
+  },
+  {
+    "price": "11455",
+    "name": "Cheese On Boat",
+    "description": "Bread With Melted Slice Cheese And A Sprinkling Of Parmesan And Parsley Leaves",
+    "section": "bread"
+  },
+  {
+    "price": "13273",
+    "name": "Gulai Floss",
+    "description": "Soft Bread With Special Mayonnaise And A Sprinkling Of Shredded Chicken With The Taste Of Indonesian Curry",
+    "section": "bread"
+  },
+  {
+    "price": "13636",
+    "name": "Binoq Spicy Floss",
+    "description": "Bread Filled With Chicken Sausage With Special Mayonnaise. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "9545",
+    "name": "Spicy Floss Sesame Bun",
+    "description": "Soft Bread Filled With Delicious Spicy Chicken With Sesame Toppings And Chili On Top",
+    "section": "bread"
+  },
+  {
+    "price": "13182",
+    "name": "Smoked Beef Floss",
+    "description": "Soft Bread Filled With Smoked Beef With Special Mayonnaise And A Sprinkling Of Savory Chicken, Sesame, And Scallions On Top",
+    "section": "bread"
+  },
+  {
+    "price": "13273",
+    "name": "Smoked Beef Spicy Floss",
+    "description": "Soft Bread Filled With Smoked Beef With Special Mayonnaise And A Sprinkling Of Spicy Chicken, Sesame, And Onions On Top",
+    "section": "bread"
+  },
+  {
+    "price": "9182",
+    "name": "Sugar Pillow",
+    "description": "Bread With Spread Butter And A Sprinkling Of Sugar. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "9182",
+    "name": "Choco Bun",
+    "description": "Soft Bread Filled With Chocolate And Chocolate Topping. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "12727",
+    "name": "Banana Choco Cheese",
+    "description": "Banana And Chocolate Bread And A Sprinkling Of Grated Cheese",
+    "section": "bread"
+  },
+  {
+    "price": "11455",
+    "name": "Martabak Bread",
+    "description": "Soft Bread With Chocolate Topping Cream, Peanuts And Grated Cheese. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "21364",
+    "name": "Garlic Cheese",
+    "description": "Bread With Filling Cream Cheese Garlic And A Sprinkling Of Parsley. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "bread"
+  },
+  {
+    "price": "11455",
+    "name": "Rich Cheese",
+    "description": "Diced Cheese Filling",
+    "section": "bread"
+  },
+  {
+    "price": "17000",
+    "name": "Big Sausage Pizza",
+    "description": "Soft Bread With Delicious Special Sauce And Chicken Sausage Topping, Cheddar Cheese, And Parsley Leaves On Top",
+    "section": "bread"
+  },
+  {
+    "price": "12364",
+    "name": "Coffee Bun",
+    "description": "Bread With A Savory Coffee Aroma And Butter Filling.",
+    "section": "bread"
+  },
+  {
+    "price": "73455",
+    "name": "Original Mede",
+    "description": "Special Cashew Nuts Baked",
+    "section": "cookies"
+  },
+  {
+    "price": "73455",
+    "name": "Crunchy Mede",
+    "description": "Cashews Fried With Crispy Flour",
+    "section": "cookies"
+  },
+  {
+    "price": "67000",
+    "name": "Choco Strip",
+    "description": "Crunchy Bits Covered With Premium Chocolate",
+    "section": "cookies"
+  },
+  {
+    "price": "46818",
+    "name": "Choco Strip Medium",
+    "description": "Crunchy Bits Covered With Premium Chocolate",
+    "section": "cookies"
+  },
+  {
+    "price": "67000",
+    "name": "Strip Cheese",
+    "description": "Crispy Kris With Sliced Cheese Inside",
+    "section": "cookies"
+  },
+  {
+    "price": "98273",
+    "name": "Choco Almond",
+    "description": "Crispy And Sweet Chocolate Paru With Grilled Almond Slices. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "cookies"
+  },
+  {
+    "price": "98273",
+    "name": "Cheese Ball",
+    "description": "Round Kukis Made From Cheese With A Sprinkling Of Grated Cheese. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "cookies"
+  },
+  {
+    "price": "84909",
+    "name": "St. Choco",
+    "description": "Crispy Chocolate Sauce With Cashews. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "cookies"
+  },
+  {
+    "price": "98273",
+    "name": "Golden Nastar",
+    "description": "Special Flavored Cake With Special Pineapple Jam. Notes: Form And Dekoations Can Be Different In Several Stocks",
+    "section": "cookies"
+  },
+  {
+    "price": "46818",
+    "name": "Strip Cheese Medium",
+    "description": "Crispy Kris With Sliced Cheese Inside",
+    "section": "cookies"
+  },
+  {
+    "price": "98273",
+    "name": "Original Almond",
+    "description": "Crunchy And Sweetkis With Grilled Almond Slices. Notes: Forms And Decorations Can Be Different In Several Stocks",
+    "section": "cookies"
+  },
+  {
+    "price": "98273",
+    "name": "Kastengels",
+    "description": "A Special Sauce Made From Cheese With A Sprinkling Of Cheese. Notes: Form And Decorations Can Be Different In Several Stocks",
+    "section": "cookies"
+  }
+]

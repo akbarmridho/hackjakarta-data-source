@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "28000",
+    "name": "PROMO - 2pcs Choco Caramel Pie",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "50th Hello Kitty Limited Edition Plush Bag Toy",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "30500",
+    "name": "Paket HeBat Korean Soy Garlic Wings",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Paket HeBat Beef Burger Deluxe",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Paket HeBat Chicken Burger Deluxe",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "PROMO - 2pcs Choco Caramel Pie",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "44500",
+    "name": "Mac & Cheese Beef Burger, A la Carte",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "69500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger with French Fries, Large",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "61500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger with French Fries, Medium",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "67500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger with French Fries & Coke, Large",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "59500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger with French Fries & Coke, Medium",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "15000",
+    "name": "Sprite x Italian Soda",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Coffee Macadamia",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "21500",
+    "name": "Iced Coffee Macadamia with Jelly",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "25000",
+    "name": "Iced Coffee Macadamia Float",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "26000",
+    "name": "Iced Coffee Macadamia with Jelly Float",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "39000",
+    "name": "Iced Chocolate Hazelnut Medium",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "18000",
+    "name": "Banana McFlurry with Sprinkle Crumbs",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "18000",
+    "name": "Banana McFlurry with OREO",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "17000",
+    "name": "Choco Caramel Pie",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "37500",
+    "name": "50th Hello Kitty Limited Edition Plush Bag Toy",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "74500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger, Large",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "66500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger, Medium",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "29500",
+    "name": "Spicy Korean McShaker Fries, Large",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "24500",
+    "name": "Spicy Korean McShaker Fries, Medium",
+    "description": "",
+    "section": "promosi"
+  },
+  {
+    "price": "150000",
+    "name": "Paket Kenyang, Krispy",
+    "description": "",
+    "section": "paket eksklusif delivery"
+  },
+  {
+    "price": "150000",
+    "name": "Paket Kenyang, Spicy",
+    "description": "",
+    "section": "paket eksklusif delivery"
+  },
+  {
+    "price": "110000",
+    "name": "Paket Ngemil",
+    "description": "",
+    "section": "paket eksklusif delivery"
+  },
+  {
+    "price": "83000",
+    "name": "Paket Manis Special",
+    "description": "",
+    "section": "paket eksklusif delivery"
+  },
+  {
+    "price": "71500",
+    "name": "Paket Manis",
+    "description": "",
+    "section": "paket eksklusif delivery"
+  },
+  {
+    "price": "66500",
+    "name": "Paket Hemat Big Mac, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "58000",
+    "name": "Paket Hemat Big Mac, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "85000",
+    "name": "Paket Hemat Triple Cheeseburger, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "76500",
+    "name": "Paket Hemat Triple Cheeseburger, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "65000",
+    "name": "Paket Hemat Double Cheeseburger, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "56500",
+    "name": "Paket Hemat Double Cheeseburger, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "63500",
+    "name": "Paket Hemat McSpicy, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "55000",
+    "name": "Paket Hemat McSpicy, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "56000",
+    "name": "Paket Hemat McChicken, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "47500",
+    "name": "Paket Hemat McChicken, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "56000",
+    "name": "Paket Hemat Fish Fillet Burger, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "47500",
+    "name": "Paket Hemat Fish Fillet Burger, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "61000",
+    "name": "Paket Hemat McNuggets 6 pcs, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Hemat McNuggets 6 pcs, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "58000",
+    "name": "Paket Hemat Cheeseburger Deluxe, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "49500",
+    "name": "Paket Hemat Cheeseburger Deluxe, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "56500",
+    "name": "Paket Hemat Cheeseburger, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "48000",
+    "name": "Paket Hemat Cheeseburger, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "50500",
+    "name": "Paket Hemat Beef Burger Deluxe, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "42000",
+    "name": "Paket Hemat Beef Burger Deluxe, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "50500",
+    "name": "Paket Hemat Chicken Burger Deluxe, Large",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "42000",
+    "name": "Paket Hemat Chicken Burger Deluxe, Medium",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "43500",
+    "name": "Big Mac",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "62500",
+    "name": "Triple Cheeseburger",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "41500",
+    "name": "Double Cheese Burger",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "34500",
+    "name": "Cheeseburger Deluxe",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "32500",
+    "name": "Cheeseburger",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "42000",
+    "name": "McSpicy",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "32500",
+    "name": "McChicken",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "33000",
+    "name": "Fish Fillet Burger",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "26500",
+    "name": "Beef Burger Deluxe",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "26500",
+    "name": "Chicken Burger Deluxe",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "55000",
+    "name": "McNuggets 9 pcs",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "40000",
+    "name": "McNuggets 6 pcs",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "27000",
+    "name": "McNuggets 4 pcs",
+    "description": "",
+    "section": "burger & mcnuggets"
+  },
+  {
+    "price": "61500",
+    "name": "PaNas 2 Krispy with Fries, Large",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "53000",
+    "name": "PaNas 2 Krispy with Fries, Medium",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "58000",
+    "name": "PaNas 2 Krispy, Large",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "51500",
+    "name": "PaNas 2 Krispy, Medium",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "53500",
+    "name": "PaNas Special Krispy, Large",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "47000",
+    "name": "PaNas Special Krispy, Medium",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "45500",
+    "name": "PaNas 1 Krispy, Large",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "39000",
+    "name": "PaNas 1 Krispy, Medium",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "45000",
+    "name": "PaNas Wings Korean Soy Garlic",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "124500",
+    "name": "PaMer 7 Krispy",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "124500",
+    "name": "PaMer 7 Mix",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "97500",
+    "name": "PaMer 5 Krispy",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "97500",
+    "name": "PaMer 5 Mix",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "45000",
+    "name": "2 pcs Krispy Chicken McD",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "24500",
+    "name": "1pc Krispy Chicken",
+    "description": "",
+    "section": "ayam mcd krispy"
+  },
+  {
+    "price": "61500",
+    "name": "PaNas 2 Spicy with Fries, Large",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "53000",
+    "name": "PaNas 2 Spicy with Fries, Medium",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "53500",
+    "name": "PaNas Special Spicy, Large",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "47000",
+    "name": "PaNas Special Spicy, Medium",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "45500",
+    "name": "PaNas 1 Spicy, Large",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "39000",
+    "name": "PaNas 1 Spicy, Medium",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "58000",
+    "name": "PaNas 2 Spicy, Large",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "51500",
+    "name": "PaNas 2 Spicy, Medium",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "124500",
+    "name": "PaMer 7 Spicy",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "124500",
+    "name": "PaMer 7 Mix",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "97500",
+    "name": "PaMer 5 Spicy",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "97500",
+    "name": "PaMer 5 Mix",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "43000",
+    "name": "2 pcs Spicy Chicken McD",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "24500",
+    "name": "1pc Spicy Chicken",
+    "description": "",
+    "section": "ayam mcd spicy"
+  },
+  {
+    "price": "74500",
+    "name": "Paket Keluarga Seru - McFlurry Feat. OREO, Tanpa Mainan",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "93000",
+    "name": "Paket Keluarga Seru - McFlurry Feat. OREO, Dengan Mainan",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "184000",
+    "name": "PaMer 7 Krispy Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "184000",
+    "name": "PaMer 7 Spicy Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "184000",
+    "name": "PaMer 7 Mix Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "131500",
+    "name": "PaMer 5 Krispy Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "131500",
+    "name": "PaMer 5 Spicy Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "131500",
+    "name": "PaMer 5 Mix Medium",
+    "description": "",
+    "section": "paket keluarga"
+  },
+  {
+    "price": "45000",
+    "name": "Happy Meal Ayam McD",
+    "description": "",
+    "section": "happy meal"
+  },
+  {
+    "price": "45000",
+    "name": "Happy Meal McNuggets",
+    "description": "",
+    "section": "happy meal"
+  },
+  {
+    "price": "45000",
+    "name": "Happy Meal Beef Burger",
+    "description": "",
+    "section": "happy meal"
+  },
+  {
+    "price": "30500",
+    "name": "Paket HeBat Korean Soy Garlic Wings",
+    "description": "",
+    "section": "paket hebat"
+  },
+  {
+    "price": "33000",
+    "name": "Paket HeBat Beef Burger Deluxe",
+    "description": "",
+    "section": "paket hebat"
+  },
+  {
+    "price": "33000",
+    "name": "Paket HeBat Chicken Burger Deluxe",
+    "description": "",
+    "section": "paket hebat"
+  },
+  {
+    "price": "12000",
+    "name": "Choco Sundae",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "12000",
+    "name": "Strawberry Sundae",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "12000",
+    "name": "French Fries Regular",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "12000",
+    "name": "McFloat Fanta",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "12000",
+    "name": "Coke Float",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "12500",
+    "name": "Apple Pie",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "13000",
+    "name": "Spicy Chicken Bites",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "13500",
+    "name": "Iced Coffee",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "14000",
+    "name": "McFlurry Feat. OREO",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "14000",
+    "name": "McFlurry Choco",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "16500",
+    "name": "2pcs Korean Soy Garlic Wings",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "17500",
+    "name": "Chicken Snack Wrap",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "22500",
+    "name": "Beef Burger",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Burger",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "21500",
+    "name": "Nasi Uduk McD",
+    "description": "",
+    "section": "menu receh"
+  },
+  {
+    "price": "13000",
+    "name": "Spicy Chicken Bites",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "27000",
+    "name": "French Fries Large",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "20500",
+    "name": "French Fries Medium",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "49500",
+    "name": "6pcs Korean Soy Garlic Wings",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "55000",
+    "name": "McNuggets 9 pcs",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "40000",
+    "name": "McNuggets 6 pcs",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "27000",
+    "name": "McNuggets 4 pcs",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "17500",
+    "name": "Chicken Snack Wrap",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "12500",
+    "name": "Apple Pie",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "13000",
+    "name": "Sweet Corn",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "14000",
+    "name": "McFlurry Feat. OREO",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "14000",
+    "name": "McFlurry Choco",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "13500",
+    "name": "Double Choco Sundae",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "13500",
+    "name": "Chocolate Strawberry Sundae",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "12000",
+    "name": "Choco Sundae",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "12000",
+    "name": "Strawberry Sundae",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "14500",
+    "name": "Coca-Cola, Large",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "14500",
+    "name": "Fanta, Large",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "14500",
+    "name": "Sprite, Large",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "14500",
+    "name": "Fruit Tea Lemon, Large",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "15000",
+    "name": "Sprite x Italian Soda",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Tehbotol Kotak",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Tehbotol Tawar",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "12000",
+    "name": "McFloat Fanta",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "12000",
+    "name": "Coke Float",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Lychee Tea",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "19500",
+    "name": "Milo, Medium",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11500",
+    "name": "Bottled Mineral Water",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Fruit Tea Blackcurrant",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "23000",
+    "name": "Iced Coffee Jelly Float",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Iced Coffee Float",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "16000",
+    "name": "Iced Coffee Jelly",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "13500",
+    "name": "Iced Coffee",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "12000",
+    "name": "Hot Coffee",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "12000",
+    "name": "Hot Tea",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "39000",
+    "name": "Iced Chocolate Hazelnut Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "43000",
+    "name": "Frappe Hazelnut Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "43500",
+    "name": "Matcha Frappe Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "38000",
+    "name": "Latte Frappe Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "39000",
+    "name": "Mocha Frappe Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "39000",
+    "name": "Choco Frappe Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "34000",
+    "name": "Mango Frappe Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Vanilla Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Caramel Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Hazelnut Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Cappucino Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Cafe Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "31000",
+    "name": "Iced Coffee Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "40000",
+    "name": "Iced Cafe Matcha Fusion Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Matcha Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "35000",
+    "name": "Iced Chocolate Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "32000",
+    "name": "Vanilla Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "32000",
+    "name": "Caramel Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "32000",
+    "name": "Hot Hazelnut Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "32000",
+    "name": "Hot Matcha Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "30000",
+    "name": "Mocha Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "30000",
+    "name": "Hot Chocolate Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "28000",
+    "name": "Cappucino Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "28000",
+    "name": "Cafe Latte Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "28000",
+    "name": "Flat White Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "28000",
+    "name": "Long Black Medium",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "22500",
+    "name": "Taseo Java Jasmin Tea",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "22500",
+    "name": "Tasseo Lemon Grass Tea",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "22500",
+    "name": "Tasseo Pure Green Regular",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "36000",
+    "name": "Choco Lover",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "36000",
+    "name": "Klepon Cake",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "26000",
+    "name": "Choco Chip Muffin",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "26000",
+    "name": "Banana Muffin",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "34000",
+    "name": "Cheese Croissant",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "34000",
+    "name": "Tuna Puff Pastry",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "24500",
+    "name": "Cheese Stick",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "24500",
+    "name": "Butter Croissant",
+    "description": "",
+    "section": "mccafe"
+  },
+  {
+    "price": "13000",
+    "name": "Large Rice",
+    "description": "",
+    "section": "nasi"
+  },
+  {
+    "price": "21500",
+    "name": "Nasi Uduk McD",
+    "description": "",
+    "section": "nasi"
+  },
+  {
+    "price": "84500",
+    "name": "Paket Hemat Mac & Cheese Beef Burger, Medium + Banana McFlurry with OREO",
+    "description": "",
+    "section": "promo eksklusif delivery"
+  },
+  {
+    "price": "79500",
+    "name": "Mac & Cheese Beef Burger + Banana McFlurry with Oreo + Choco Caramel Pie",
+    "description": "",
+    "section": "promo eksklusif delivery"
+  },
+  {
+    "price": "153500",
+    "name": "2pcs Mac & Cheese Beef Burger + Korean McShaker Fries, Large + Banana McFlurry w",
+    "description": "",
+    "section": "promo eksklusif delivery"
+  }
+]

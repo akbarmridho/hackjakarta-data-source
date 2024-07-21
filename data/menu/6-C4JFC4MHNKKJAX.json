@@ -1,0 +1,548 @@
+[
+  {
+    "price": "45800",
+    "name": "Paket Hemat Nasi Ayam Geprek + Ala Carte Spicy Wings",
+    "description": "Kenyang Anti Haus (Pilihan Nasi + Ayam Geprek (Tidak Bisa Pilih Dada/Paha) + Pilihan Sambal + Kremes + Ala Carte Spicy Wings)",
+    "section": "today's offer"
+  },
+  {
+    "price": "43800",
+    "name": "Paket Nasi + 2 Ayam Geprek",
+    "description": "Kenyang Dua Kali Lipat, Nasi + 2 Ayam Geprek + Pilihan Saus/Sambal + Kremes + Crispy Kailan (Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "39800",
+    "name": "Paket Hemat Nasi Ayam Geprek + Minuman + Kulit Crispy",
+    "description": "Paket Nasi Ayam dengan Pilihan Sambal dan Minuman Favoritmu serta 1 pax Kulit Crispy (Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "59800",
+    "name": "2 Paket Hemat Nasi Ayam Geprek + 2 Minuman",
+    "description": "2 Paket Nasi Ayam dengan Sambal/Saus dan 2 Minuman (Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Geprek Kopi Susu Bung Kus",
+    "description": "Kopi Susu Bung Kus + Pilihan Nasi + Ayam Geprek + Pilihan Saus/Sambal + Crispy Kailan + Telur + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Popcorn Kopi Susu Bung Kus",
+    "description": "Kopi Susu Bung Kus + Pilihan Nasi + Ayam Popcorn + Pilihan Saus/Sambal + Crispy Kailan + Telur + Kremes",
+    "section": "today's offer"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Katsu Kopi Susu Bung Kus",
+    "description": "Bundling Anti Ngantuk, Kopi Susu Bung Kus + Pilihan Nasi, Chicken Katsu, Crispy Kailan, Pilihan Telur, Pilihan Saus/Sambal, Kremes",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Paket Hemat Spicy Wings",
+    "description": "Extra Spicy! Pilihan Nasi + 4 pcs Spicy Chicken Wings + Kremes",
+    "section": "today's offer"
+  },
+  {
+    "price": "33800",
+    "name": "Paket Komplit Spicy Wings",
+    "description": "Extra Spicy! Pilihan Nasi + 4 pcs Spicy Chicken Wings + Scrambled Egg + Crispy Kailan + Kremes",
+    "section": "today's offer"
+  },
+  {
+    "price": "24200",
+    "name": "Ala Carte 4 Spicy Wings",
+    "description": "Extra Spicy! 4 pcs Spicy Chicken Wings",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Teriyaki",
+    "description": "Saus Otentik ala Jepang, Must Try! (Pilihan Nasi + Ayam Geprek Saus Teriyaki + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Geprek Sambal Original + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Geprek Sambal Daun Jeruk + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Geprek Sambal Matah + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Bbq",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Geprek Saus BBQ + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Geprek Saus Nashville + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Teriyaki",
+    "description": "Saus Otentik ala Jepang, Must Try! (Pilihan Nasi + Ayam Popcorn Saus Teriyaki + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Popcorn Sambal Original + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Popcorn Sambal Daun Jeruk + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Popcorn Sambal Matah + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Bbq",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Popcorn Saus BBQ + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Popcorn Saus Nashville + Telur + Crispy Kailan + Kremes)",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Signature Es Kopi Susu Bung Kus",
+    "description": "Espresso + Fresh Milk + Sugar",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Kopi Bung Kus Gula Aren",
+    "description": "Espresso + Fresh Milk + Gula Aren",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Kopi Bung Kus Caramel",
+    "description": "Espresso + Fresh Milk + Caramel Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "45800",
+    "name": "Paket Hemat Nasi Ayam Geprek + Ala Carte Spicy Wings",
+    "description": "Kenyang Anti Haus (Pilihan Nasi + Ayam Geprek (Tidak Bisa Pilih Dada/Paha) + Pilihan Sambal + Kremes + Ala Carte Spicy Wings)",
+    "section": "bundling irit, lebih worth it!"
+  },
+  {
+    "price": "43800",
+    "name": "Paket Nasi + 2 Ayam Geprek",
+    "description": "Kenyang Dua Kali Lipat, Nasi + 2 Ayam Geprek + Pilihan Saus/Sambal + Kremes + Crispy Kailan (Tidak Bisa Pilih Dada/Paha)",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "39800",
+    "name": "Paket Hemat Nasi Ayam Geprek + Minuman + Kulit Crispy",
+    "description": "Paket Nasi Ayam dengan Pilihan Sambal dan Minuman Favoritmu serta 1 pax Kulit Crispy (Tidak Bisa Pilih Dada/Paha)",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "59800",
+    "name": "2 Paket Hemat Nasi Ayam Geprek + 2 Minuman",
+    "description": "2 Paket Nasi Ayam dengan Sambal/Saus dan 2 Minuman (Tidak Bisa Pilih Dada/Paha)",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Geprek Kopi Susu Bung Kus",
+    "description": "Kopi Susu Bung Kus + Pilihan Nasi + Ayam Geprek + Pilihan Saus/Sambal + Crispy Kailan + Telur + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Popcorn Kopi Susu Bung Kus",
+    "description": "Kopi Susu Bung Kus + Pilihan Nasi + Ayam Popcorn + Pilihan Saus/Sambal + Crispy Kailan + Telur + Kremes",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "50800",
+    "name": "Paket Komplit Katsu Kopi Susu Bung Kus",
+    "description": "Bundling Anti Ngantuk, Kopi Susu Bung Kus + Pilihan Nasi, Chicken Katsu, Crispy Kailan, Pilihan Telur, Pilihan Saus/Sambal, Kremes",
+    "section": "lebih hemat!"
+  },
+  {
+    "price": "28800",
+    "name": "Paket Hemat Spicy Wings",
+    "description": "Extra Spicy! Pilihan Nasi + 4 pcs Spicy Chicken Wings + Kremes",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "33800",
+    "name": "Paket Komplit Spicy Wings",
+    "description": "Extra Spicy! Pilihan Nasi + 4 pcs Spicy Chicken Wings + Scrambled Egg + Crispy Kailan + Kremes",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "24200",
+    "name": "Ala Carte 4 Spicy Wings",
+    "description": "Extra Spicy! 4 pcs Spicy Chicken Wings",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "22800",
+    "name": "Ala Carte Ayam Spicy",
+    "description": "Special Extra Spicy! 1 Pcs Ala Carte Ayam Spicy (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "28800",
+    "name": "Paket Hemat Nasi Ayam Spicy",
+    "description": "Special Extra Spicy! Pilihan Nasi + Ayam Spicy + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "32800",
+    "name": "Paket Komplit Nasi Ayam Spicy",
+    "description": "Special Extra Spicy! Pilihan Nasi + Ayam Spicy + Crispy Kailan + Scrambled Egg + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "45800",
+    "name": "Paket Nasi Dua Ayam Spicy",
+    "description": "Ayamnya Double Nih! Pilihan Nasi + 2 pcs Spicy Chicken + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "baru! ayam spicy bang dava"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Teriyaki",
+    "description": "Saus Otentik ala Jepang, Must Try! (Pilihan Nasi + Ayam Geprek Saus Teriyaki + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Geprek Sambal Original + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Geprek Sambal Daun Jeruk + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Geprek Sambal Matah + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Bbq",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Geprek Saus BBQ + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Geprek Saus Nashville + Telur + Crispy Kailan + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "best seller! paket komplit geprek"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Teriyaki",
+    "description": "Saus Otentik ala Jepang, Must Try! (Pilihan Nasi + Ayam Popcorn Saus Teriyaki + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Popcorn Sambal Original + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "30800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Popcorn Sambal Daun Jeruk + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Popcorn Sambal Matah + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Bbq",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Popcorn Saus BBQ + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "29800",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Popcorn Saus Nashville + Telur + Crispy Kailan + Kremes)",
+    "section": "best seller! paket komplit popcorn"
+  },
+  {
+    "price": "23800",
+    "name": "Paket Hemat Nasi Ayam Geprek Saus Teriyaki",
+    "description": "Saus Otentik khas Jepang, Must Try! (Pilihan Nasi + Ayam Geprek Saus Teriyaki + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Geprek Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Geprek Sambal Original + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Geprek Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Geprek Sambal Daun Jeruk + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Geprek Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Geprek Sambal Matah + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Geprek Saus Bbq",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Geprek Saus BBQ + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "23800",
+    "name": "Paket Hemat Nasi Ayam Geprek Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Geprek Saus Nashville + Kremes) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "paket hemat ayam geprek"
+  },
+  {
+    "price": "23800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Saus Teriyaki",
+    "description": "Saus Otentik khas Jepang, Must Try! (Pilihan Nasi + Ayam Popcorn Saus Teriyaki + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Sambal Pedas Original",
+    "description": "Sambal Favorit Abang Yang Pedas Banget! (Pilihan Nasi + Ayam Popcorn Sambal Original + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Sambal Daun Jeruk",
+    "description": "Cocok Buat Yang Pengen Pedas Tapi Gak Pedas (Pilihan Nasi + Ayam Popcorn Sambal Daun Jeruk + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Sambal Matah",
+    "description": "Best Seller! Sambal Otentik khas Pulau Dewata (Pilihan Nasi + Ayam Popcorn Sambal Matah + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "24800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Saus BBQ",
+    "description": "Saus Favorit! Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Ayam Popcorn Saus BBQ + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "23800",
+    "name": "Paket Hemat Nasi Ayam Popcorn Saus Nashville",
+    "description": "Saus Khas Amerika Yang Pedas Manis Kaya Rempah! (Pilihan Nasi + Ayam Popcorn Saus Nashville + Kremes)",
+    "section": "paket hemat ayam popcorn"
+  },
+  {
+    "price": "32800",
+    "name": "Signature Paket Komplit Nasi Ayam Spicy",
+    "description": "Special Extra Spicy! Pilihan Nasi + Ayam Spicy + Crispy Kailan + Scrambled Egg + Kremes (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "signature menu, must try!"
+  },
+  {
+    "price": "39800",
+    "name": "Signature Paket Hemat Beef Bowl Tanpa Sambal",
+    "description": "Made from 100% AUS Beef! (Pilihan Nasi + AUS Beef)",
+    "section": "signature menu, must try!"
+  },
+  {
+    "price": "19800",
+    "name": "Signature Paket Hemat Nasi Kulit Crispy Sambal Original",
+    "description": "Sini Dienakin Lidahnya, Sambalnya Pedas Banget! (Pilihan Nasi + Kremes + Kulit Crispy + Sambal Original)",
+    "section": "signature menu, must try!"
+  },
+  {
+    "price": "35800",
+    "name": "Signature Paket Komplit Katsu Saus Hickory Smoke",
+    "description": "Gurih & Smoky, Kaya Rasa di Setiap Gigitan! (Pilihan Nasi + Chicken Katsu Saus Hickory Smoke + Crispy Kailan + Telur + Kremes)",
+    "section": "signature menu, must try!"
+  },
+  {
+    "price": "24800",
+    "name": "Signature Paket Komplit Bento Popcorn Saus Bbq",
+    "description": "Value Meal Best Seller, Cocok Buat Yang Gak Suka Pedas! (Pilihan Nasi + Kremes + Ayam Popcorn Saus BBQ + Telur + Crispy Kailan)",
+    "section": "signature menu, must try!"
+  },
+  {
+    "price": "17200",
+    "name": "Ala Carte Ayam Geprek",
+    "description": "Ayam Geprek + Saus/Sambal Pilihanmu! (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "menu ala carte"
+  },
+  {
+    "price": "17800",
+    "name": "Ala Carte Ayam Popcorn",
+    "description": "Ayam Popcorn + Saus/Sambal Pilihanmu!",
+    "section": "menu ala carte"
+  },
+  {
+    "price": "23800",
+    "name": "Traktir Driver Paket Hemat Nasi Ayam Geprek Sambal Daun Jeruk",
+    "description": "Bantu Driver Ojol Dengan Cara Mentraktir Mereka (Nasi+Kremes+Ayam Geprek+Sambal Daun Jeruk) (Mohon Maaf Tidak Bisa Pilih Dada/Paha)",
+    "section": "ayo traktir driver ojolmu!"
+  },
+  {
+    "price": "15000",
+    "name": "Traktir Driver - Es Thai Tea Latte",
+    "description": "Bantu Driver Ojol Dengan Cara Mentraktir Mereka Satu Gelas Es Thai Tea Latte",
+    "section": "ayo traktir driver ojolmu!"
+  },
+  {
+    "price": "8800",
+    "name": "Traktir Driver Air Mineral",
+    "description": "Bantu Driver Ojol dengan Cara Mentraktir Mereka 1 Botol Air Mineral",
+    "section": "ayo traktir driver ojolmu!"
+  },
+  {
+    "price": "6200",
+    "name": "Extra Nasi",
+    "description": "Pilih Varian Nasimu!",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "6800",
+    "name": "Extra Crispy Kailan",
+    "description": "",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "8800",
+    "name": "Extra Scrambled Egg",
+    "description": "",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "8800",
+    "name": "Ala Carte Kulit Crispy",
+    "description": "Kulit Ayam yang Digoreng Crispy!",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "17800",
+    "name": "Ala Carte Kulit Crispy Double",
+    "description": "Porsi double! Kulit Ayam yang Digoreng Crispy!",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "8800",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "tambahan & cemilan"
+  },
+  {
+    "price": "18000",
+    "name": "Signature Es Kopi Susu Bung Kus",
+    "description": "Espresso + Fresh Milk + Sugar",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "18000",
+    "name": "Kopi Bung Kus Gula Aren",
+    "description": "Espresso + Fresh Milk + Gula Aren",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "18000",
+    "name": "Kopi Bung Kus Caramel",
+    "description": "Espresso + Fresh Milk + Caramel Sauce",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "15000",
+    "name": "Es Matcha Latte",
+    "description": "PERFECT COMFORT MILK! (Matcha + Fresh Milk)",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "15000",
+    "name": "Es Thai Tea Latte",
+    "description": "PERFECT COMFORT MILK! (Thai Tea + Fresh Milk)",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "11800",
+    "name": "Es Teh Jasmine",
+    "description": "BASIC TAPI ASIK (Fresh and aromatic jasmine tea + ice cubes)",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "11800",
+    "name": "Es Teh Lychee",
+    "description": "BASIC TAPI ASIK (Refreshing lychee tea + ice cubes)",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "11800",
+    "name": "Es Teh Lemon",
+    "description": "",
+    "section": "minuman by kopi bung kus"
+  },
+  {
+    "price": "39733",
+    "name": "Paket Komplit Nasi Ayam Geprek Saus Gochujang",
+    "description": "Spicy Sweet Korean! Pilihan Nasi + Ayam Geprek + Saus Gochujang + Scrambled Egg + Crispy Kailan + Kremes",
+    "section": "new menu wajib coba!"
+  },
+  {
+    "price": "31733",
+    "name": "Paket Hemat Nasi Ayam Geprek Saus Gochujang",
+    "description": "Spicy Sweet Korean! Pilihan Nasi + Ayam Geprek + Saus Gochujang + Kremes",
+    "section": "new menu wajib coba!"
+  },
+  {
+    "price": "39733",
+    "name": "Paket Komplit Nasi Ayam Popcorn Saus Gochujang",
+    "description": "Spicy Sweet Korean! Pilihan Nasi + Ayam Popcorn + Saus Gochujang + Scrambled Egg + Crispy Kailan + Kremes",
+    "section": "new menu wajib coba!"
+  },
+  {
+    "price": "31733",
+    "name": "Paket Hemat Nasi Ayam Popcorn Saus Gochujang",
+    "description": "Spicy Sweet Korean! Pilihan Nasi + Ayam Popcorn + Saus Gochujang + Kremes",
+    "section": "new menu wajib coba!"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "price": "65000",
+    "name": "Nasi Campur Hainam (Tanpa Sate)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "65000",
+    "name": "White Mixed Rice (Without Satay)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Afuk Mixed Rice (Hainam)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Afuk Mixed Rice (White)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "75000",
+    "name": "Nasi Campur Hainam Jumbo (Tanpa Sate)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "75000",
+    "name": "Jumbo White Mixed Rice (Without Satay)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "79000",
+    "name": "Jumbo Afuk Mixed Rice (Hainam)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "79000",
+    "name": "Large Afuk Mixed Rice (White)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "65000",
+    "name": "Afuk Mixed Rice (Without Rice)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Rice 2 Combination (Siobak Chasio Honey)",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Siobak Roasted Rice",
+    "description": "Grilled Rice/ Siobak",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Honey Crispy Chasio Rice",
+    "description": "Honey Crispy Charsio Rice",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Babi Panggang Siobak 1 Porsi",
+    "description": "1 Portion Of Siobak Roast",
+    "section": "various rice"
+  },
+  {
+    "price": "69000",
+    "name": "Charsio Garing Madu 1 Porsi",
+    "description": "Charsio Garing Madu 1Porsi",
+    "section": "various rice"
+  },
+  {
+    "price": "138000",
+    "name": "Charsio Garing Madu (200G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "138000",
+    "name": "Babi Panggang Siobak (200G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "69000",
+    "name": "Roasted Combination 1 Portion",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "69000",
+    "name": "Babi Panggang Siobak 1 Porsi",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "172500",
+    "name": "Babi Panggang Siobak (250G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "345000",
+    "name": "Babi Panggang Siobak (500G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "69000",
+    "name": "Charsio Garing Madu 1 Porsi",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "172500",
+    "name": "Charsio Garing Madu (250G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "345000",
+    "name": "Charsio Garing Madu (500G)",
+    "description": "",
+    "section": "grilled"
+  },
+  {
+    "price": "8000",
+    "name": "Soy Sauce Egg",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "13000",
+    "name": "Sate Babi",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "49000",
+    "name": "Gohiong",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "13000",
+    "name": "Hainam Rice",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "18000",
+    "name": "Plastic Crackers",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "88000",
+    "name": "Jar Of Crackers",
+    "description": "2L",
+    "section": "snack"
+  },
+  {
+    "price": "199000",
+    "name": "Afuk Gifts 250G Siobak/Chuma/Kominasi/Combisi",
+    "description": "",
+    "section": "set menu/hampers afuk"
+  },
+  {
+    "price": "398000",
+    "name": "Afuk Gifts 500G Siobak/Chovies Chinese New Year Gifts/Combination",
+    "description": "",
+    "section": "set menu/hampers afuk"
+  },
+  {
+    "price": "319000",
+    "name": "Hampers Afuk (Box) 4-5Orng",
+    "description": "",
+    "section": "set menu/hampers afuk"
+  },
+  {
+    "price": "259000",
+    "name": "Set Menu Afuk 4-5Orng",
+    "description": "",
+    "section": "set menu/hampers afuk"
+  },
+  {
+    "price": "399000",
+    "name": "Tumpeng Afuk 5 Packs",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "369000",
+    "name": "Tumpeng Afuk 4 Packs",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Birthday",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Anniversary",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Congratulation",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Chinese New Year Topper",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Marry Chrismas",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Anniversary",
+    "description": "",
+    "section": "indonesian vegetable fritters"
+  }
+]

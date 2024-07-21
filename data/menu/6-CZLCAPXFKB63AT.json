@@ -1,0 +1,248 @@
+[
+  {
+    "price": "29250",
+    "name": "Uduk Breast Chicken Uduk Breast Pecel Package",
+    "description": "Nasi Uduk + Chicken Breast Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "29250",
+    "name": "Uduk Thigh Chicken Pecel Package",
+    "description": "Nasi Uduk + Chicken Thigh Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "24750",
+    "name": "Paket Pecel Lele Uduk",
+    "description": "Nasi Uduk + Catfish Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Regular Chicken Breast Pecel Package",
+    "description": "White Rice + Chicken Breast Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Regular Thigh Chicken Pecel Package",
+    "description": "White Rice + Chicken Thigh Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27450",
+    "name": "Save Uduk Breast Chicken Pecel",
+    "description": "Nasi Uduk + Chicken Breast Pecel + Sambal + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "23850",
+    "name": "Regular Catfish Pecel Package",
+    "description": "White Rice + Pecel Lele + Tofu + Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27450",
+    "name": "Save Fried Chicken Thighs",
+    "description": "Nasi Uduk + Chicken Thigh Pecel + Sambal + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22950",
+    "name": "Save Fried Catfish",
+    "description": "Nasi Uduk + Catfish Pecel + Chili Sauce + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Save Ordinary Chicken Breast Pecel",
+    "description": "White Rice + Chicken Breast Pecel + Sambal + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Save Ordinary Chicken Thighs",
+    "description": "White Rice + Chicken Thigh Pecel + Sambal + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22050",
+    "name": "Economical Regular Catfish Pecel",
+    "description": "White Rice + Catfish Pecel + Sambal + Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "29250",
+    "name": "Uduk Breast Chicken Uduk Breast Pecel Package",
+    "description": "Nasi Uduk + Chicken Breast Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "29250",
+    "name": "Uduk Thigh Chicken Pecel Package",
+    "description": "Nasi Uduk + Chicken Thigh Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "24750",
+    "name": "Paket Pecel Lele Uduk",
+    "description": "Nasi Uduk + Catfish Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "28800",
+    "name": "Regular Chicken Breast Pecel Package",
+    "description": "White Rice + Chicken Breast Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "regular rice package"
+  },
+  {
+    "price": "28800",
+    "name": "Regular Thigh Chicken Pecel Package",
+    "description": "White Rice + Chicken Thigh Pecel + Tofu + Tempe + Lalapan + Sambal",
+    "section": "regular rice package"
+  },
+  {
+    "price": "23850",
+    "name": "Regular Catfish Pecel Package",
+    "description": "White Rice + Pecel Lele + Tofu + Tempe + Lalapan + Sambal",
+    "section": "regular rice package"
+  },
+  {
+    "price": "27450",
+    "name": "Save Uduk Breast Chicken Pecel",
+    "description": "Nasi Uduk + Chicken Breast Pecel + Sambal + Lalapan",
+    "section": "thrifty rice"
+  },
+  {
+    "price": "27450",
+    "name": "Save Fried Chicken Thighs",
+    "description": "Nasi Uduk + Chicken Thigh Pecel + Sambal + Lalapan",
+    "section": "thrifty rice"
+  },
+  {
+    "price": "22950",
+    "name": "Save Fried Catfish",
+    "description": "Nasi Uduk + Catfish Pecel + Chili Sauce + Lalapan",
+    "section": "thrifty rice"
+  },
+  {
+    "price": "27000",
+    "name": "Save Ordinary Chicken Breast Pecel",
+    "description": "White Rice + Chicken Breast Pecel + Sambal + Lalapan",
+    "section": "economical regular rice"
+  },
+  {
+    "price": "27000",
+    "name": "Save Ordinary Chicken Thighs",
+    "description": "White Rice + Chicken Thigh Pecel + Sambal + Lalapan",
+    "section": "economical regular rice"
+  },
+  {
+    "price": "22050",
+    "name": "Economical Regular Catfish Pecel",
+    "description": "White Rice + Catfish Pecel + Sambal + Lalapan",
+    "section": "economical regular rice"
+  },
+  {
+    "price": "7000",
+    "name": "Regular Rice",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8000",
+    "name": "Uduk Rice",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Sambal Extra",
+    "description": "Extra Chili Sauce If You Don'T Have Chili Sauce, This!",
+    "section": "food"
+  },
+  {
+    "price": "22000",
+    "name": "Breast Chicken Breast Pecel",
+    "description": "Chicken Breast Pecel + Lalapan + Sambal",
+    "section": "food"
+  },
+  {
+    "price": "22000",
+    "name": "Pecel Ayam Paha",
+    "description": "Chicken Thigh Pecel + Lalapan + Sambal",
+    "section": "food"
+  },
+  {
+    "price": "16500",
+    "name": "Pecel Lele",
+    "description": "1 Pecel Lele + Lalapan + Sambal",
+    "section": "food"
+  },
+  {
+    "price": "9000",
+    "name": "Liver Gizzard",
+    "description": "Price Per Skewer",
+    "section": "food"
+  },
+  {
+    "price": "5500",
+    "name": "Sate Telor Muda",
+    "description": "Price Per Skewer",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Kol Goreng",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Chicken Head",
+    "description": "1 Chicken Head",
+    "section": "food"
+  },
+  {
+    "price": "3500",
+    "name": "Sate Usus",
+    "description": "Price Per Skewer",
+    "section": "food"
+  },
+  {
+    "price": "3500",
+    "name": "Sate Kulit",
+    "description": "Price Per Skewer",
+    "section": "food"
+  },
+  {
+    "price": "2000",
+    "name": "Tempeh",
+    "description": "1 Tempeh",
+    "section": "food"
+  },
+  {
+    "price": "2000",
+    "name": "Tofu",
+    "description": "1 Tofu",
+    "section": "food"
+  },
+  {
+    "price": "4000",
+    "name": "Oasis 600Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Teh Pucuk Harum",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Aqua 600Ml",
+    "description": "",
+    "section": "minuman"
+  }
+]

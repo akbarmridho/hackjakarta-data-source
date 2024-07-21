@@ -1,0 +1,476 @@
+[
+  {
+    "price": "34200",
+    "name": "Kwetiau Balap Seafood",
+    "description": "Fried Kwetiau With Egg, Shrimp, Squid, Fish Balls And Vegetables (Chinese And Bean Sprouts)",
+    "section": "today's offer"
+  },
+  {
+    "price": "10000",
+    "name": "Souvenir Menarik",
+    "description": "Free For The Mini Pempek Of Rp 100,000 (Not Multiplied Purchase)",
+    "section": "interesting gifts"
+  },
+  {
+    "price": "38000",
+    "name": "Bihun Goreng Seafood Halal",
+    "description": "Stuffed With Eggs, Shrimp, Squid., Fish Balls., And Vegetables (Chinese, Bean Sprouts)",
+    "section": "vermicelli"
+  },
+  {
+    "price": "1",
+    "name": "Info Penting",
+    "description": "If There Is An Order, Please Give A Note, Please Contact What Is 086466161 (Chicken Only)... Thank You",
+    "section": "info penting"
+  },
+  {
+    "price": "128000",
+    "name": "5Pcs Lumpia/Popia Medan Complete Halal",
+    "description": "Contains 5, Crab Meat Special Fillings (Chicken), Dried Red Chicken, Fried Onions, And Vegetables (Bengkoang, Beans, Carrots) Plus Secret Sauce",
+    "section": "new snack"
+  },
+  {
+    "price": "77000",
+    "name": "3Pcs Lumpia/Popia Komplit Halal",
+    "description": "Contains 3, Crab Meat Special Fillings (Chicken), Dried Red Chicken, Fried Onions, And Vegetables (Bengkoang, Carrot, Beans) Plus Secret Sauce Of Addictive",
+    "section": "new snack"
+  },
+  {
+    "price": "27000",
+    "name": "1Pc Lumpia/Popia Komplit Goreng/Kukus Halal",
+    "description": "Fried Or Without Fried Popia, Crab Special Filling (Smashed), Dried Red Chicken, Fried Onions, And Vegetables (Bengkoang, Carrots, Secretly) Plus Nace, Khotah Sauce",
+    "section": "new snack"
+  },
+  {
+    "price": "97000",
+    "name": "5Pcs Popia Medan Kukus / Goreng",
+    "description": "Contains 5 Popias",
+    "section": "new snack"
+  },
+  {
+    "price": "58000",
+    "name": "3Pcs Popia Kukus/Goreng Halal",
+    "description": "Contains 3",
+    "section": "new snack"
+  },
+  {
+    "price": "97000",
+    "name": "5Pcs Lumpia Popia Medan Goreng Halal",
+    "description": "Contains 5 Pieces",
+    "section": "new snack"
+  },
+  {
+    "price": "58000",
+    "name": "3Pcs Lumpia Popia Medan Halal",
+    "description": "Contains 3",
+    "section": "new snack"
+  },
+  {
+    "price": "10000",
+    "name": "Sikok Kemplang Coin Bangka 16Gr",
+    "description": "Bangka Cake Kemplank 16Gr (The Size Of Availability Can See In The Photo)",
+    "section": "new snack"
+  },
+  {
+    "price": "11000",
+    "name": "Manisan Khas Medan (3Pcs)",
+    "description": "3 Packs",
+    "section": "new snack"
+  },
+  {
+    "price": "77000",
+    "name": "Dimsum Mix 7",
+    "description": "Fill 7Pcs Mix",
+    "section": "new snack"
+  },
+  {
+    "price": "64000",
+    "name": "Dimsum Mix 5 + Dimsum Lumpia 1",
+    "description": "Mix Contains 5 + 1",
+    "section": "new snack"
+  },
+  {
+    "price": "50000",
+    "name": "Halal Dimsum Mix 5",
+    "description": "Mix Contains 5",
+    "section": "new snack"
+  },
+  {
+    "price": "28000",
+    "name": "Delicious Fish Ball",
+    "description": "5 Pcs Mini Fish Balls And Vegetables (With Broth)",
+    "section": "stuffed meatballs"
+  },
+  {
+    "price": "35000",
+    "name": "Bakso Mix",
+    "description": "3 Pcs Fish Balls, Ekkado 1Pc, Salmon Meatballs 2 Pcs And Vegetables (Chine Bean Sprouts) With Broth",
+    "section": "stuffed meatballs"
+  },
+  {
+    "price": "30000",
+    "name": "Bakso Sapi (Kuah(",
+    "description": "Beef Meatballs 5 Pcs + Vegetables (Chicken And Bean Sprouts)",
+    "section": "stuffed meatballs"
+  },
+  {
+    "price": "48000",
+    "name": "Bakso Mix Jumbo",
+    "description": "3 Pcs Mini Fish Balls, Ekkado 1Pc, Salmon Meatball 2Pcs, Medium Fish Balls 1Pc, Tofu Meatball 2 Pcs, Cheeseballs 1Pc And Mustard Greens (Separated With Bean Sprouts)",
+    "section": "stuffed meatballs"
+  },
+  {
+    "price": "14000",
+    "name": "Kojima (K Date Drink)",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "9000",
+    "name": "Ichi Ocha Teh Melati",
+    "description": "350Ml",
+    "section": "drink"
+  },
+  {
+    "price": "9000",
+    "name": "Ichi Ocha Green Tea",
+    "description": "350Ml",
+    "section": "drink"
+  },
+  {
+    "price": "10000",
+    "name": "Air Mineral",
+    "description": "600Ml",
+    "section": "drink"
+  },
+  {
+    "price": "13000",
+    "name": "Es Markisa Selasih",
+    "description": "Basil Passion Fruit",
+    "section": "drink"
+  },
+  {
+    "price": "13000",
+    "name": "Basil Orange Ice",
+    "description": "Basil Orange Ice",
+    "section": "drink"
+  },
+  {
+    "price": "16000",
+    "name": "F&N Kopi Soda",
+    "description": "325 Ml",
+    "section": "drink"
+  },
+  {
+    "price": "16000",
+    "name": "F&N Sarsi 325Ml",
+    "description": "325 Ml",
+    "section": "drink"
+  },
+  {
+    "price": "25000",
+    "name": "Rhino Sarsi (No Bottle)",
+    "description": "Siantar Special Drinks",
+    "section": "drink"
+  },
+  {
+    "price": "14000",
+    "name": "Jus Orange Diamond 200Ml",
+    "description": "200Ml",
+    "section": "drink"
+  },
+  {
+    "price": "14000",
+    "name": "Jus Apel Diamond 200Ml",
+    "description": "200Ml",
+    "section": "drink"
+  },
+  {
+    "price": "14000",
+    "name": "You C1000 Apple",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "14000",
+    "name": "Jus Cranberry 200Ml",
+    "description": "200Ml",
+    "section": "drink"
+  },
+  {
+    "price": "9000",
+    "name": "Abc Green Bean Juice 250Ml",
+    "description": "250 Ml",
+    "section": "drink"
+  },
+  {
+    "price": "9000",
+    "name": "Sosro Teh Bottled",
+    "description": "330Ml",
+    "section": "drink"
+  },
+  {
+    "price": "13000",
+    "name": "Pokka Lemon Tea 450Ml",
+    "description": "450Ml",
+    "section": "drink"
+  },
+  {
+    "price": "9500",
+    "name": "Soylicious (Soy Milk)",
+    "description": "300Ml",
+    "section": "drink"
+  },
+  {
+    "price": "10000",
+    "name": "Pokka Oolong Tea 450Ml",
+    "description": "450Ml",
+    "section": "drink"
+  },
+  {
+    "price": "8000",
+    "name": "Teh Pucuk",
+    "description": "350Ml",
+    "section": "drink"
+  },
+  {
+    "price": "16000",
+    "name": "Pao Mini Goreng Coklat (4Pcs)",
+    "description": "Isian Coklat (4Pcs)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "48000",
+    "name": "Pangsit Goreng Viral Sp. Gohyong",
+    "description": "Dumplings Filled With Original Minced Chicken, Shrimp, And Crab, Sautéed With The Special Gohyong Seasoning, Eggs, Fish Balls And Vegetables (Chicken And Bean Sprouts)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "9500",
+    "name": "Keripik Sambal (Khas Sibolga)",
+    "description": "The Original Oxtail Is Known For Its Signature Side Dishes",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "17000",
+    "name": "Bangka Crackers Contains 2 Pcs",
+    "description": "Bangka Crackers Contains 2 Pcs (Large)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "17000",
+    "name": "Bakso Salmon Goreng (4Pcs)",
+    "description": "Contains 4",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "12000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "8500",
+    "name": "Sunny Side Up",
+    "description": "Sunny Side Up Egg (1/2 Cooked)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "8500",
+    "name": "Sunny Side Up",
+    "description": "Cooked Beef Eggs",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "8500",
+    "name": "Telur Dadar",
+    "description": "Omelet",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "36000",
+    "name": "Dumpling Soup",
+    "description": "Dumplings Filled With Minced Chicken And Shrimp With Broth ( Complementary: Mustard Greens, Bean Sprouts, And Fried Onions)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "36000",
+    "name": "Viral Fried Dumplings",
+    "description": "Dumplings 5 Pcs (Aslicit Minced Chicken And Shrimp Without Mixing Flour) Sautéed With Egg, Fish Balls And Vegetables (Chicken And Bean Sprouts)",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "52000",
+    "name": "Ekkado Bento (8Pcs)",
+    "description": "Fried Ekkado Contains 8 Pcs",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "26000",
+    "name": "Ekkado Bento (3Pcs)",
+    "description": "Fried Ekkado Contains 3 Pcs",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "20000",
+    "name": "Crispy Rebon Brittle",
+    "description": "",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "20000",
+    "name": "Crispy Peanut Brittle",
+    "description": "",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "19000",
+    "name": "Mie Lidi Cap Ikan (100Gr)",
+    "description": "Lli Lidi Noodles",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "10000",
+    "name": "Emping",
+    "description": "Chips",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "9500",
+    "name": "Bangka Crackers",
+    "description": "Bangka Crackers",
+    "section": "snack (halal)"
+  },
+  {
+    "price": "55000",
+    "name": "Ifumie Goreng Seafood",
+    "description": "If The Special Medan Is Fried With Shrimp Filling, Squid, Fish Balls, Shrimp Meatballs, Pia Fish And Vegetables (Chinese And Bean Sprouts)",
+    "section": "mie (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Jumbo Mie Balap Seafood",
+    "description": "Jumbo Portion",
+    "section": "mie (halal)"
+  },
+  {
+    "price": "42000",
+    "name": "Mixx Balap Seafood",
+    "description": "Noodle Mix Kwetiau With Egg, Shrimp, Squid, Fish Balls And Vegetables (Chinese And Bean Sprouts)",
+    "section": "mie (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Shrimp Paste Water Spinach Noodles",
+    "description": "Noodles With Seafood Filling, Shrimp Meatballs, Pea Fish, And Vegetables (Cassava And Bean Sprouts) Cooked With Special Sambal Belacan (You Can Request For Be Requested Or Broth)",
+    "section": "mie (halal)"
+  },
+  {
+    "price": "36000",
+    "name": "Mie Balap Seafood",
+    "description": "Fried Noodles With Stuffed Eggs, Shrimp, Squid, Fish Balls, And Vegetables (Chinese Chilli And Bean Sprouts)",
+    "section": "mie (halal)"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Goreng Sosis",
+    "description": "Sausage Filling",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Jumbo Nasi Goreng Seafood",
+    "description": "Jumbo Portion",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "32000",
+    "name": "Meatball Fried Rice",
+    "description": "Fried Rice With Egg Filling And Fish Balls",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "36000",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fried Rice With Stuffed Egg, Shrimp, Squid, Fish Balls And Vegetables (Chinese And Bean Sprouts)",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Shrimp Paste Fried Rice",
+    "description": "Fried Rice With Special Sambal Belacan With Egg, Shrimp, Squid, Fish Balls, Shrimp Meatballs And Pia Fish",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Simangunsong Plus",
+    "description": "Signature Rice + Fried Flour Anchovies",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Peda Plus",
+    "description": "Spicy Rice + Fried Flour Anchovies",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "40000",
+    "name": "Nasi Simangunsong (Halal)",
+    "description": "Rice Sautéed With Mackerel Salted Fish And Special Spices, Complementary: Boneless Flour And Kangkung Belacan",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "30000",
+    "name": "Peda Rice",
+    "description": "White Rice Topped With Shredded Spicy Fish, Shredded Fried Chicken, And Green Chili Special",
+    "section": "rice (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Jumbo Kwetiau Balap Seafood",
+    "description": "More Portions",
+    "section": "kwetiau (halal)"
+  },
+  {
+    "price": "42000",
+    "name": "Mixx Balap Seafood",
+    "description": "Noodle Mix Kwetiau With Egg, Shrimp, Squid, Fish Balls And Vegetables (Chinese And Bean Sprouts)",
+    "section": "kwetiau (halal)"
+  },
+  {
+    "price": "50000",
+    "name": "Shrimp Paste Water Spinach Kwetiau",
+    "description": "Kwetiau Filled With Seafood, Shrimp Meatballs, Pia Fish, And Vegetables (Kung And Bean Sprouts) Cooked With Special Sambal Belacan (You Can Request For Be Frozen Or Available)",
+    "section": "kwetiau (halal)"
+  },
+  {
+    "price": "34200",
+    "name": "Kwetiau Balap Seafood",
+    "description": "Fried Kwetiau With Egg, Shrimp, Squid, Fish Balls And Vegetables (Chinese And Bean Sprouts)",
+    "section": "kwetiau (halal)"
+  },
+  {
+    "price": "65000",
+    "name": "Ifumie Seafood Sambal Rias",
+    "description": "Stuffed With Egg And Seafood (Shrimp, Squid, Fish Balls, Shrimp Meatballs, Pia Fish) With Special Sambal Rias",
+    "section": "special rias sambal"
+  },
+  {
+    "price": "59000",
+    "name": "Mie Seafood Sambal Rias",
+    "description": "Stuffed With Egg And Seafood (Shrimp, Squid, Fish Balls, Shrimp Meatballs, Pia Fish) With Special Sambal Rias",
+    "section": "special rias sambal"
+  },
+  {
+    "price": "59000",
+    "name": "Kwetiau Seafood Sambal Rias",
+    "description": "Stuffed With Egg And Seafood (Shrimp, Squid, Fish Balls, Shrimp Meatballs, Fish) With Special Sambal Rias",
+    "section": "special rias sambal"
+  },
+  {
+    "price": "59000",
+    "name": "Rias Sambal Seafood Fried Rice",
+    "description": "Stuffed With Egg And Seafood (Shrimp, Squid, Fish Balls, Shrimp Meatballs, Pia Fish) With Special Sambal Rias",
+    "section": "special rias sambal"
+  }
+]

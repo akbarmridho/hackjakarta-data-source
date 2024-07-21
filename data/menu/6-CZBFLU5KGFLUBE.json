@@ -1,0 +1,692 @@
+[
+  {
+    "price": "49909",
+    "name": "Bundle of New Culture & Any Drinks",
+    "description": "Nikmatnya pilihan bundle 2 cups Taste of The New Culture dan menu favorit lainnya pilihan kamu!",
+    "section": "today's offer"
+  },
+  {
+    "price": "74454",
+    "name": "Bundle 3 Cups of New Culture",
+    "description": "Nikmati bundle 3 cups Taste of The New Culture untuk saat seru kamu!",
+    "section": "today's offer"
+  },
+  {
+    "price": "140000",
+    "name": "2 Bottles 1L Classic",
+    "description": "Nikmati kopi premium yang khas untuk momen kebersamaan dengan 2 botol Classic Latte 1L",
+    "section": "today's offer"
+  },
+  {
+    "price": "47182",
+    "name": "Favorite Deli Combo",
+    "description": "Find your perfect combo! Pilihan yang tepat untuk rasa yang nikmat. Tentukan fore deli dan minuman favorit kamu untuk kombo nikmat hari ini!",
+    "section": "today's offer"
+  },
+  {
+    "price": "53546",
+    "name": "Fore Signature & Any Drinks",
+    "description": "Nikmatnya pilihan bundle 2 cups Fore Signature dan menu favorit lainnya pilihan kamu!",
+    "section": "today's offer"
+  },
+  {
+    "price": "47273",
+    "name": "Double Classic",
+    "description": "Bundle 2 Classic Latte",
+    "section": "today's offer"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Cappuccino Caramello",
+    "description": "Cappuccino ala Fore with caramel topped with velvety vanilla cream",
+    "section": "taste of the new culture"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Matcha Strawberry Cream",
+    "description": "Refreshing matcha with creamy textures and delightful taste of aromatic strawberries",
+    "section": "taste of the new culture"
+  },
+  {
+    "price": "37273",
+    "name": "Iced Vanilla Oat Latte",
+    "description": "Comforting oat latte drizzled with vanilla beans and a hint of salted caramel",
+    "section": "taste of the new culture"
+  },
+  {
+    "price": "37273",
+    "name": "Hot Vanilla Oat Latte",
+    "description": "Comforting oat latte drizzled with vanilla beans and a hint of salted caramel.",
+    "section": "taste of the new culture"
+  },
+  {
+    "price": "49909",
+    "name": "Bundle of New Culture & Any Drinks",
+    "description": "Nikmatnya pilihan bundle 2 cups Taste of The New Culture dan menu favorit lainnya pilihan kamu!",
+    "section": "bundle"
+  },
+  {
+    "price": "74454",
+    "name": "Bundle 3 Cups of New Culture",
+    "description": "Nikmati bundle 3 cups Taste of The New Culture untuk saat seru kamu!",
+    "section": "bundle"
+  },
+  {
+    "price": "140000",
+    "name": "2 Bottles 1L Classic",
+    "description": "Nikmati kopi premium yang khas untuk momen kebersamaan dengan 2 botol Classic Latte 1L",
+    "section": "bundle"
+  },
+  {
+    "price": "47182",
+    "name": "Favorite Deli Combo",
+    "description": "Find your perfect combo! Pilihan yang tepat untuk rasa yang nikmat. Tentukan fore deli dan minuman favorit kamu untuk kombo nikmat hari ini!",
+    "section": "bundle"
+  },
+  {
+    "price": "53546",
+    "name": "Fore Signature & Any Drinks",
+    "description": "Nikmatnya pilihan bundle 2 cups Fore Signature dan menu favorit lainnya pilihan kamu!",
+    "section": "bundle"
+  },
+  {
+    "price": "47273",
+    "name": "Double Classic",
+    "description": "Bundle 2 Classic Latte",
+    "section": "bundle"
+  },
+  {
+    "price": "145455",
+    "name": "2 Bottles 1L Special",
+    "description": "Nikmati kebersamaan dengan 1 botol Gula Merah Latte 1L dan 1 botol Classic Latte 1L",
+    "section": "bundle"
+  },
+  {
+    "price": "30000",
+    "name": "Iced Butterscotch Sea Salt Latte",
+    "description": "A blend of butterscotch and house blend with a soft cream sea salt topping on top",
+    "section": "fore signature"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Buttercream Latte",
+    "description": "Buttercream Coffee topping on caramel latte",
+    "section": "fore signature"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Aren Latte",
+    "description": "The natural taste of palm sugar blends perfectly with premium espresso. Fore Coffee's best selling menu",
+    "section": "fore signature"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Aren Latte",
+    "description": "The taste of palm sugar blends perfectly with premium espresso. Fore Coffee's best-selling menu",
+    "section": "fore signature"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Pandan Latte",
+    "description": "Latte with unique taste and aroma from natural pandan extract typical of Fore Coffee",
+    "section": "fore signature"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Pandan Latte",
+    "description": "Latte with a unique taste and aroma from natural pandan extract. Special menu from Fore Coffee",
+    "section": "fore signature"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Buttercream Tiramisu Latte",
+    "description": "Buttercream Tiramisu topping on praline latte",
+    "section": "fore signature"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Caramel Praline Macchiato",
+    "description": "Latte with Praline and caramel sauce with a sweet taste and aroma.",
+    "section": "fore signature"
+  },
+  {
+    "price": "31818",
+    "name": "Hot Caramel Praline Macchiato",
+    "description": "Latte with Praline and caramel sauce with a sweet taste and aroma.",
+    "section": "fore signature"
+  },
+  {
+    "price": "32727",
+    "name": "Iced Café Malt Latte",
+    "description": "A blend of latte and Irish syrup with a soft aroma and taste",
+    "section": "coffee"
+  },
+  {
+    "price": "32727",
+    "name": "Hot Café Malt Latte",
+    "description": "A blend of latte and Irish syrup with a soft aroma and taste",
+    "section": "coffee"
+  },
+  {
+    "price": "24545",
+    "name": "Iced Classic Latte",
+    "description": "A blend of premium espresso flavors with Fore's special cream sauce",
+    "section": "coffee"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Cappuccino",
+    "description": "Espresso blend with selected cow's milk and thick foam on top",
+    "section": "coffee"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Cappuccino",
+    "description": "Espresso shots with warm milk and a thick layer of foam on top",
+    "section": "coffee"
+  },
+  {
+    "price": "32727",
+    "name": "Double Iced Shaken Latte",
+    "description": "Classic blend of 2 shot espresso with milk and cream",
+    "section": "coffee"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Café Latte",
+    "description": "Espresso blend with selected milk and a little foam on top",
+    "section": "coffee"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Café Latte",
+    "description": "Espresso blend with selected milk and a little foam on top",
+    "section": "coffee"
+  },
+  {
+    "price": "32727",
+    "name": "Iced Salted Caramel Mocha",
+    "description": "A combination of chocolate, latte from Fore's house blend, and savory taste of caramel",
+    "section": "coffee"
+  },
+  {
+    "price": "32727",
+    "name": "Hot Salted Caramel Mocha",
+    "description": "A combination of chocolate, latte from Fore's house blend, and savory taste of caramel",
+    "section": "coffee"
+  },
+  {
+    "price": "38182",
+    "name": "Nutty Oat Latte",
+    "description": "Espresso from Indonesian specialty coffee beans combined with gluten-free oat milk and a nutty sensation from hazelnuts.",
+    "section": "coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Hot Espresso",
+    "description": "Pure Arabica coffee bean extract without mixture",
+    "section": "coffee"
+  },
+  {
+    "price": "21818",
+    "name": "Iced Americano",
+    "description": "Espresso shot in a glass of water by maintaining the thickness of the coffee taste",
+    "section": "americano series"
+  },
+  {
+    "price": "21818",
+    "name": "Hot Americano",
+    "description": "Espresso shot in a glass of water by maintaining the thickness of the coffee taste",
+    "section": "americano series"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Manuka Americano",
+    "description": "Americano with Manuka honey which is perfect for an energy booster",
+    "section": "americano series"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Manuka Americano",
+    "description": "Americano with Manuka honey which is perfect for an energy booster",
+    "section": "americano series"
+  },
+  {
+    "price": "28182",
+    "name": "Triple Peach Americano",
+    "description": "Peach coffee is a blend of coffee flavors, three types of peaches and the aroma of elderflower which creates a fresh and harmonious coffee sensation.",
+    "section": "americano series"
+  },
+  {
+    "price": "28182",
+    "name": "Berry Manuka Americano",
+    "description": "The combination of Strawberry and Manuka flavors with a refreshing Classic Blend Fore",
+    "section": "americano series"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Dark Chocolate",
+    "description": "Made from 100% dark chocolate and milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "37273",
+    "name": "Iced Almond Choco",
+    "description": "Cokelat klasik dari Fore Coffee yang dipadu dengan susu almond. Sebuah definisi comfort drink yang sesungguhnya.",
+    "section": "non coffee"
+  },
+  {
+    "price": "37273",
+    "name": "Hot Almond Choco",
+    "description": "Cokelat klasik dari Fore Coffee yang dipadu dengan susu almond. Sebuah definisi comfort drink yang sesungguhnya.",
+    "section": "non coffee"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Matcha Green Tea",
+    "description": "Fore's special matcha powder is soft and creamy combined with fresh milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "31818",
+    "name": "Hot Matcha Green Tea",
+    "description": "Fore's special matcha powder is soft and creamy combined with fresh milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "23636",
+    "name": "Iced Classic Milo",
+    "description": "A classic malt chocolate drink with creamy sauce and creamy milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "23636",
+    "name": "Hot Classic Milo",
+    "description": "A classic malt chocolate drink with creamy sauce and creamy milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "31818",
+    "name": "Hot Dark Chocolate",
+    "description": "Made from 100% dark chocolate and milk",
+    "section": "non coffee"
+  },
+  {
+    "price": "112727",
+    "name": "Butterscotch Sea Salt Latte 1L",
+    "description": "Perpaduan butterscotch dan espresso house blend dengan topping cream sea salt yang lembut di atasnya",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Aren Latte 1L",
+    "description": "Rasa alami Aren Latte dalam ukuran 1 liter untuk dinikmati bersama keluarga di rumah.",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "86364",
+    "name": "Caramel Praline Macchiato 1L",
+    "description": "Latte with Praline and caramel sauce with a sweet taste and aroma.",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Pandan Latte 1L",
+    "description": "",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "86364",
+    "name": "Café Malt Latte 1L",
+    "description": "A blend of latte and Irish syrup with a soft aroma and taste",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Café Latte 1L",
+    "description": "Rasa classic Latte dalam ukuran 1 liter untuk dinikmati selama beraktivitas #dirumahaja atau bersama keluarga",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "72727",
+    "name": "Classic Latte 1L",
+    "description": "Rasa classic Shake-Shake Latte dalam ukuran 1 liter untuk dinikmati selama beraktivitas #dirumahaja atau bersama keluarga. Jangan lupa di shake 15kali biar makin ASHAKE.",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "112727",
+    "name": "Nutty Oat Latte 1L",
+    "description": "Espresso from Indonesian specialty coffee beans combined with gluten-free oat milk and a nutty sensation from hazelnuts.",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "112727",
+    "name": "Almond Choco 1L",
+    "description": "Cokelat klasik dari Fore Coffee yang dipadu dengan susu almond. Sebuah definisi comfort drink yang sesungguhnya.",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "86364",
+    "name": "Matcha Green Tea 1L",
+    "description": "Creamynya Matcha Premium dalam ukuran 1 liter untuk dinikmati selama beraktivitas #dirumahaja atau bersama keluarga",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "86364",
+    "name": "Tropical Manuka Hibiscus 1L",
+    "description": "The blend of Manuka honey and Hibiscus tea now comes in 1L",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "72727",
+    "name": "Gula Merah Latte 1L",
+    "description": "Melted natural brown sugar in Fore Coffee's signature latte. Original Indonesian fragrance",
+    "section": "foreveryone 1l"
+  },
+  {
+    "price": "38182",
+    "name": "Mushroom Truffle Sandwich",
+    "description": "Sandwich with parsley topping bread, mushroom, truffle sauce and cheddar cheese",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Cheesy Tuna Sandwich",
+    "description": "Sandwich with black sesame topping bread, tuna mayo, tartar sauce, mozzarella cheese, red cheddar cheese, roasted onion and roasted green paprika.",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Smoked Beef & Cheese Sandwich",
+    "description": "Sandwich with focaccia bread, smoked beef, mozzarella cheese, red cheddar cheese, mayonnaise and roasted onion.",
+    "section": "fore deli"
+  },
+  {
+    "price": "32727",
+    "name": "Blueberry Cheese Muffin",
+    "description": "Vanilla flavoured muffin with blueberry cream cheese filling and crumble topping",
+    "section": "fore deli"
+  },
+  {
+    "price": "32727",
+    "name": "Choco Melt Muffin",
+    "description": "Chocolate flavoured muffin with melted chocolate fillings and choco chips topping",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Chicken Curry Sandwich.",
+    "description": "Sandwiches with shredded chicken, cheddar cheese, and creamy curry paste",
+    "section": "fore deli"
+  },
+  {
+    "price": "32727",
+    "name": "Smoked Beef & Cheese Croissant",
+    "description": "Danish filled with smoked beef and cheddar cheese",
+    "section": "fore deli"
+  },
+  {
+    "price": "30000",
+    "name": "Triple Cheese Danish",
+    "description": "Danish with cream cheese filling",
+    "section": "fore deli"
+  },
+  {
+    "price": "30000",
+    "name": "Almond Croissant",
+    "description": "Croissants sprinkled with powdered sugar and chopped almonds",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Creamy Beef Mentai Sandwich",
+    "description": "Sandwich with sliced beef, mentai sauce, tobiko, cheddar cheese and sauteed onion",
+    "section": "fore deli"
+  },
+  {
+    "price": "24545",
+    "name": "Banana Chocolate Cake",
+    "description": "Sponge cake with a mix of banana and chocolate",
+    "section": "fore deli"
+  },
+  {
+    "price": "21818",
+    "name": "Butter Croissant",
+    "description": "Pastry with taste and aroma of butter",
+    "section": "fore deli"
+  },
+  {
+    "price": "26364",
+    "name": "Pain au Chocolat",
+    "description": "Pain au Chocolat",
+    "section": "fore deli"
+  },
+  {
+    "price": "26364",
+    "name": "Kouign-Amann",
+    "description": "Pastry with a layer of sugar and sprinkle of cinnamon",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Creamy Beef Mentai Sandwich",
+    "description": "Sandwich with sliced beef, mentai sauce, tobiko, cheddar cheese and sauteed onion",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Chicken Teriyaki Sandwich",
+    "description": "Sandwich with white sesame topping bread, chicken teriyaki, teriyaki mayonnaise, cheddar cheese and roasted onion",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Tuna Mayo Sandwich.",
+    "description": "Sandwiches with mayonnaise, bits of blackppeper, cheddar cheese, and shredded",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Asian Beef Black Pepper Sandwich",
+    "description": "Sandwich with beef chunk, black pepper sauce, cheddar cheese, and sauteed onion",
+    "section": "fore deli"
+  },
+  {
+    "price": "30000",
+    "name": "Blueberry Muffin",
+    "description": "Vanilla flavored sponge cake with blueberry",
+    "section": "fore deli"
+  },
+  {
+    "price": "30000",
+    "name": "Chocolate Muffin",
+    "description": "Chocolate-flavored sponge cake with chocolate chunks",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Smoky Beef Barbecue Sandwich",
+    "description": "Sandwich with sliced beef, barbecue sauce, cheddar cheese, and sautéed onions",
+    "section": "fore deli"
+  },
+  {
+    "price": "35455",
+    "name": "Chicken Curry Sandwich",
+    "description": "Sandwiches with shredded chicken, cheddar cheese, and creamy curry paste",
+    "section": "fore deli"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Butterscotch Milk Crumble",
+    "description": "Butterscotch with a mixture of caramel, milk with sea salt cream and caramel crumble as a topping.",
+    "section": "fore junior"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Vanilla O' Crumbs",
+    "description": "Perpaduan vanilla, butterscotch dan susu dilengkapi dengan saus karamel juga topping oreo yang gurih diatasnya",
+    "section": "fore junior"
+  },
+  {
+    "price": "28182",
+    "name": "Iced Choco Caramel Cloud",
+    "description": "Nikmatnya cream salted caramel dengan paduan dark chocolate yang cocok untuk ceriakan hari",
+    "section": "fore junior"
+  },
+  {
+    "price": "28182",
+    "name": "Hibiscus Lychee Peach Yakult",
+    "description": "The goodness of berries, hibiscus, and yakult which provide freshness all day long.",
+    "section": "refresher"
+  },
+  {
+    "price": "28182",
+    "name": "Sunny Citrus Jasmine",
+    "description": "A special blend of tropical fruit flavors, Manuka honey and jasmine tea that is both refreshing and flavorful.",
+    "section": "refresher"
+  },
+  {
+    "price": "28182",
+    "name": "Tropical Manuka Hibiscus",
+    "description": "A blend of Manuka honey, hibiscus tea, and lemon that provides goodness for the body",
+    "section": "refresher"
+  },
+  {
+    "price": "31818",
+    "name": "Caramel Praline Coffee Ice Blended",
+    "description": "Ice blended latte with Praline and caramel sauce.",
+    "section": "ice blended"
+  },
+  {
+    "price": "31818",
+    "name": "Matcha Ice Blended",
+    "description": "Fore Coffee's signature Creamy Matcha blend, fresh milk, with ice, just right to cool your day!",
+    "section": "ice blended"
+  },
+  {
+    "price": "31818",
+    "name": "Strawberry Ice Blended",
+    "description": "Manisnya strawberry bertemu dengan susu dan es dilapisi dengan strawberry puree.",
+    "section": "ice blended"
+  },
+  {
+    "price": "31818",
+    "name": "Chocolate Ice Blended",
+    "description": "Ice blended special chocolate with selected milk",
+    "section": "ice blended"
+  },
+  {
+    "price": "29091",
+    "name": "Iced English Breakfast",
+    "description": "Legendary fragrant classic black tea",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Hot English Breakfast",
+    "description": "Legendary fragrant classic black tea",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Green Tea Jasmine",
+    "description": "Green tea with a touch of jasmine flavor",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Green Tea Jasmine",
+    "description": "Green tea with a touch of jasmine flavor",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Pure Chamomile",
+    "description": "Chamomile flower tea has a rich honey aroma and imparts a golden color",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Pure Chamomile",
+    "description": "Chamomile flower tea has a rich honey aroma and imparts a golden color",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Lady Grey",
+    "description": "The classic and legendary Earl Gray tea",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Lady Grey",
+    "description": "The classic and legendary Earl Gray tea",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Green Tea Mint",
+    "description": "Delicate red tea from South Africa with blend of sweet French spices",
+    "section": "tea"
+  },
+  {
+    "price": "29091",
+    "name": "Hot Green Tea Mint",
+    "description": "Smooth red tea from South Africa with a sweet blend of French spices",
+    "section": "tea"
+  },
+  {
+    "price": "117273",
+    "name": "The Art of Essentials Canvas Tote Bag",
+    "description": "Tote bag made of canvas",
+    "section": "merchandise"
+  },
+  {
+    "price": "20000",
+    "name": "Stainless Straw",
+    "description": "Set of stainless straws and cleaning brushes to help the earth breathe longer!",
+    "section": "merchandise"
+  },
+  {
+    "price": "108182",
+    "name": "Forest Green Stainless Tumbler 17oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "108182",
+    "name": "Spring Green Stainless Tumbler 17oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "108182",
+    "name": "Snow White Stainless Tumbler 17oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "108182",
+    "name": "Ocean Blue Stainless Tumbler 17oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "144545",
+    "name": "Essential Stainless Tumbler 22oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "144545",
+    "name": "Classic White Stainless Tumbler 22oz",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "10909",
+    "name": "Mineral Water",
+    "description": "",
+    "section": "others"
+  }
+]

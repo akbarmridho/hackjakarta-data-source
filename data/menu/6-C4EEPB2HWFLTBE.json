@@ -1,0 +1,203 @@
+[
+  {
+    "price": "18000",
+    "name": "Omaga Rice",
+    "description": "Rice + Sausage + Egg + Sambal",
+    "section": "cheap rice"
+  },
+  {
+    "price": "19000",
+    "name": "Spicy Diet Rice With Skin",
+    "description": "Rice + Spicy Flour Skin Slices + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "19000",
+    "name": "Sweet Skin Diet Rice",
+    "description": "Rice + Sweet Flour Skin Pieces + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "19000",
+    "name": "Curry Chicken Diet Rice",
+    "description": "Rice + Curry Chicken Pieces + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "19000",
+    "name": "Yakiniku Chicken Diet Rice",
+    "description": "Rice + Flour Chicken Pieces Yakiniku + Chili Sauce",
+    "section": "diet rice"
+  },
+  {
+    "price": "19000",
+    "name": "Nasi Diet Ayam Original",
+    "description": "Rice + Flour Chicken Pieces + Chili Sauce",
+    "section": "diet rice"
+  },
+  {
+    "price": "29000",
+    "name": "Cheese Chicken Rice",
+    "description": "Rice + Cheese Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "29000",
+    "name": "Curry Chicken Rice",
+    "description": "Rice + Chicken Curry + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "28000",
+    "name": "Nasi Ayam Pedas",
+    "description": "Rice + Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "28000",
+    "name": "Yakiniku Chicken Rice",
+    "description": "Rice + Chicken Yakiniku + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Ayam Original",
+    "description": "Rice + Original Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "29000",
+    "name": "Spicy Cheese Yamin Rice",
+    "description": "Rice + Spicy Cheese Minced Chicken + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "28000",
+    "name": "Spicy Soy Sauce Yamin Rice",
+    "description": "Rice + Spicy Soy Sauce Minced Chicken + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Yamin Original",
+    "description": "Rice + Original Minced Chicken + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "32000",
+    "name": "Spicy Cheese Fish Rice",
+    "description": "Rice + Spicy Cheese Flour + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "32000",
+    "name": "Original Fish Rice",
+    "description": "Rice + Original Flour Fish Pieces + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "35000",
+    "name": "Japanese Peanut Fish Rice",
+    "description": "Rice + Japanese Floured Fish Pieces + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "32000",
+    "name": "Spicy Beef Rice",
+    "description": "Rice + Spicy Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "35000",
+    "name": "Spicy Sesame Beef Rice",
+    "description": "Rice + Spicy Sesame Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "32000",
+    "name": "Black Pepper Beef Rice",
+    "description": "Rice + Sliced Black Pepper Beef",
+    "section": "beef rice"
+  },
+  {
+    "price": "32000",
+    "name": "Beef Rice Yakiniku",
+    "description": "Rice + Sliced Beef Yakiniku + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "32000",
+    "name": "Original Beef Rice",
+    "description": "Rice + Original Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "38000",
+    "name": "Spicy Beef Rice Box",
+    "description": "Rice + Curry Beef Pieces + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "38000",
+    "name": "Curry Box Beef Rice",
+    "description": "Rice + Curry Beef Pieces + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "38000",
+    "name": "Spicy Soy Sauce Beef Rice Box",
+    "description": "Rice + Spicy Soy Sauce Beef Cutlets + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "7000",
+    "name": "Sosis",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Chicken Siumay",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Cheese Tofu",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Chikuwa",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Fish Ball",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Sate Kulit",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "7000",
+    "name": "Sate Ayam",
+    "description": "",
+    "section": "yakitori"
+  },
+  { "price": "5000", "name": "Sambal", "description": "", "section": "extra" },
+  { "price": "5000", "name": "Egg", "description": "", "section": "extra" },
+  { "price": "5000", "name": "Rice", "description": "", "section": "extra" }
+]

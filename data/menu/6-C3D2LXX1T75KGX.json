@@ -1,0 +1,104 @@
+[
+  {
+    "price": "50999",
+    "name": "Martabak 1/2 Cheese 1/2 Chocolate",
+    "description": "Premium Cheese And Chocolate Topping",
+    "section": "serba 39ribu"
+  },
+  {
+    "price": "52999",
+    "name": "Mixed Chocolate Cheese Martabak",
+    "description": "Premium Chocolate Topping",
+    "section": "serba 39ribu"
+  },
+  {
+    "price": "41999",
+    "name": "Cheese Martabak",
+    "description": "Martabak dengan topping keju premium",
+    "section": "all cheese discounts"
+  },
+  {
+    "price": "46999",
+    "name": "Special Martabak",
+    "description": "Martabak dengan topping Keju Cokelat dan Kacang",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "41999",
+    "name": "Chocolate Banana Martabak",
+    "description": "Martabak",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "41999",
+    "name": "Cheese Banana Martabak",
+    "description": "Martabak Topping Keju Pisang",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "45999",
+    "name": "Chocolate Martabak",
+    "description": "Martabak Manis Topping Cokelat",
+    "section": "martabak manis"
+  },
+  {
+    "price": "46999",
+    "name": "Peanut Chocolate Martabak",
+    "description": "Peanut Topping And Sesame Sprinkled With Premium Chocolate",
+    "section": "martabak manis"
+  },
+  {
+    "price": "10999",
+    "name": "Martabak Telur Mini",
+    "description": "Small Egg Martabak",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "15999",
+    "name": "Special Martabak",
+    "description": "Small Martabak With Mixed Chocolate Cheese Topping",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "14999",
+    "name": "Mixed Chocolate Cheese Martabak",
+    "description": "Mixed Small Chocolate Cheese Martabak",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "13999",
+    "name": "Cheese Martabak",
+    "description": "Small Cheese Topping Martabak",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "12999",
+    "name": "Half Chocolate Martabak",
+    "description": "Small Martabak Topping With Delicious Chocolate Separo Cheese",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "11999",
+    "name": "Peanut Chocolate Martabak",
+    "description": "Small Peanut Chocolate Topping Martabak",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "10999",
+    "name": "Chocolate Martabak",
+    "description": "Small Chocolate Topping Martabak",
+    "section": "martabak start from 10 thousand"
+  },
+  {
+    "price": "19999",
+    "name": "Jumbo Chocolate Cheese Grilled Banana",
+    "description": "Sweet Banana Grilled Chocolate Topping",
+    "section": "grilled banana variations"
+  },
+  {
+    "price": "17999",
+    "name": "Chocolate Cheese Grilled Banana",
+    "description": "Bananas With Premium Chocolate Grated Cheese And Sprinkling",
+    "section": "grilled banana variations"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "price": "100000",
+    "name": "Babi Cah Jahe",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "50000",
+    "name": "Sambel Original Tss 88",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Cu Fan(Usus) Masak Jahe+Nanas",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Kodok Gr Kering",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Grandma'S Snail Curry",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "180000",
+    "name": "Mun Hoi Sem ( Teripang) Sea Food/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "180000",
+    "name": "Gulai San Cu Phu(Babi Hutan Asap)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "100000",
+    "name": "Crunchy",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Rebung Cah Terasi Sea Food/ Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "170000",
+    "name": "San Cu Phu Cah Bawang Bombai",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Mun Tahu Seafood/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "100000",
+    "name": "Daging Ma-Ling Cah Bombai/Asam Manis",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Pete Cah Udang Balado",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "70000",
+    "name": "Fu Yung Haii...",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Je Theu Cah Terasi Seafood/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Cauliflower Cah Shrimp/Mix",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Sautee Shrimp Pakis (Terasi)/Mixed",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "30000",
+    "name": "Kangkung Cah Tauco( Polos)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Kodok Cah Jahe",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "130000",
+    "name": "Sam Chen Cah Tauco",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "90000",
+    "name": "Sapo Tahu Seafood/ Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "180000",
+    "name": "Special Birthday Noodles (Red Eggs)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "130000",
+    "name": "Sam Chen Gr Kering",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "100000",
+    "name": "Babi Goreng Kering",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Pare Cah Tauco/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "70000",
+    "name": "Capcai Seafood/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "70000",
+    "name": "Hakong Goreng",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Akar Talas Cah Terasi/Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "80000",
+    "name": "Sayur Kailan Cah Campur",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "200000",
+    "name": "Bakut Saus Asam Manis",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "150000",
+    "name": "Ham Cu Nyuk (Meat Meatballs With Salted Samchen) Singkawang",
+    "description": "Basil Leaves Chili",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "95000",
+    "name": "Protect (Eel)Gr Butter Sauce",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "190000",
+    "name": "Scrambled Team Crab (1 Portion Of 2 Crabs)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "190000",
+    "name": "Black Pepper Crab (1 Portion Of 2 Medium Crabs)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "190000",
+    "name": "Sweet And Sour Crab (1 Portion Of 2 Medium Crabs)",
+    "description": "",
+    "section": "looks like typical kalimantan cuisine"
+  },
+  {
+    "price": "50000",
+    "name": "Sweet And Sour Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "50000",
+    "name": "Capcai Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "55000",
+    "name": "Bitter Melon Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "50000",
+    "name": "Mixed Ginger Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "50000",
+    "name": "Kailan Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "50000",
+    "name": "Flush Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Noodles",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "50000",
+    "name": "Bihun Goreng",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "50000",
+    "name": "Kwetiau Gr Campur",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "90000",
+    "name": "Cumi Asam Manis",
+    "description": "",
+    "section": "squid"
+  },
+  {
+    "price": "90000",
+    "name": "Floured Fried Squid",
+    "description": "",
+    "section": "squid"
+  },
+  {
+    "price": "90000",
+    "name": "Padang Sauce Prawns",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "90000",
+    "name": "Sweet And Sour Shrimp",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "90000",
+    "name": "Floured Fried Shrimp",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "120000",
+    "name": "Butter Fried Big Prawns",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "150000",
+    "name": "Snapper Fish Curry",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Kakap Gr Sambal Balado",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Spicy Sour Snapper",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Sweet Sour Pomfret Fish",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Gourami Tausi/Sweet/Sweet And Sour Tofu",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "165000",
+    "name": "Special Tauco Tim Snapper 8",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Kakap Asam Manis",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "150000",
+    "name": "Snapper With Tofu Taosi",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "100000",
+    "name": "Crispy Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "100000",
+    "name": "Bistik Ayam",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "100000",
+    "name": "Butter Fried Chicken/(1/2 Tails)",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "100000",
+    "name": "Dry Fried Chicken/1/2 Tails)",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "100000",
+    "name": "Sweet And Sour Chicken/(1/2 Tail)",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "100000",
+    "name": "Ayam Cah Jahe/(1/2 Ekor)",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "25000",
+    "name": "Eagle Cap Sasi Drink (Sa Sarsi And Oranges Flavor)",
+    "description": "Per Bottle + Ice",
+    "section": "fresh drink"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "fresh drink"
+  },
+  {
+    "price": "7000",
+    "name": "Es Jeruk Sonkit",
+    "description": "",
+    "section": "fresh drink"
+  },
+  {
+    "price": "60000",
+    "name": "Original Swallow'S Nest Drink...No Preservatives",
+    "description": "",
+    "section": "fresh drink"
+  },
+  {
+    "price": "25000",
+    "name": "Es Jeruk Peras",
+    "description": "",
+    "section": "fresh drink"
+  },
+  {
+    "price": "145000",
+    "name": "Bakut Sayur Asin",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "130000",
+    "name": "Sam Chen With Salted Chub Mackerel Sauce",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "100000",
+    "name": "Red Gravy (Nut )",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "90000",
+    "name": "Fish Ball Soup",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "100000",
+    "name": "Turmeric Chicken Gravy (Boil Egg Kai) 1/2",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "180000",
+    "name": "Hoissem Sauce (Seat Cucumber)",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "70000",
+    "name": "Stir-Fried Chinese Broccoli With Gravy",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "100000",
+    "name": "Red Gravy Chicken (Ang Kak)",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "150000",
+    "name": "Snapper Gravy",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "90000",
+    "name": "Kuah Sayur Asin Seafood/Campur",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "90000",
+    "name": "Kuah Tahu Seafood/Campur",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "90000",
+    "name": "Bu Ping/Soft Fish Gravy",
+    "description": "",
+    "section": "kuah/sop"
+  },
+  {
+    "price": "190000",
+    "name": "Sup Kepiting",
+    "description": "",
+    "section": "kuah/sop"
+  }
+]

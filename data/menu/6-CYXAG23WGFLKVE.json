@@ -1,0 +1,386 @@
+[
+  {
+    "price": "95455",
+    "name": "Mabar Classic",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "85455",
+    "name": "Mabar Kopsu",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "108000",
+    "name": "1 Dozen Dopang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "192000",
+    "name": "2 Dozen Dopang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "108000",
+    "name": "1 Dozen Dopang",
+    "description": "",
+    "section": "box dopang"
+  },
+  {
+    "price": "192000",
+    "name": "2 Dozen Dopang",
+    "description": "",
+    "section": "box dopang"
+  },
+  {
+    "price": "288000",
+    "name": "Dopang Treats",
+    "description": "80 Glazed Dolang To Make It More Enjoyable Note: Glazed: Glazed ;Sweet: Milky Dopang",
+    "section": "box dopang"
+  },
+  {
+    "price": "252000",
+    "name": "Potluck Dopang",
+    "description": "35 Glazed Dolang To Make It More Enjoyable Note: Glazed: Glazed ;Sweet: Milky Dopang",
+    "section": "box dopang"
+  },
+  {
+    "price": "60000",
+    "name": "1/2 Dozen Dopang",
+    "description": "6 Glazed Dolang To Make It More Enjoyable Note: Glazed: Glazed ;Sweet: Milky Dopang",
+    "section": "box dopang"
+  },
+  {
+    "price": "95455",
+    "name": "Mabar Classic",
+    "description": "",
+    "section": "ngumpul classic"
+  },
+  {
+    "price": "420000",
+    "name": "Gathering Classic",
+    "description": "30 Americano reguler yang dapat kamu upsize",
+    "section": "ngumpul classic"
+  },
+  {
+    "price": "320000",
+    "name": "Reuni Classic",
+    "description": "20 Americano reguler yang dapat kamu upsize",
+    "section": "ngumpul classic"
+  },
+  {
+    "price": "180000",
+    "name": "Rame-Rame Classic",
+    "description": "10 Americano reguler yang dapat kamu upsize",
+    "section": "ngumpul classic"
+  },
+  {
+    "price": "41818",
+    "name": "Duo Classic",
+    "description": "2 Americano reguler yang dapat kamu upsize",
+    "section": "ngumpul classic"
+  },
+  {
+    "price": "85455",
+    "name": "Mabar Kopsu",
+    "description": "",
+    "section": "gathering milk coffee"
+  },
+  {
+    "price": "441818",
+    "name": "Gathering Kopsu",
+    "description": "30 Kopsu Coco reguler yang dapat kamu upsize",
+    "section": "gathering milk coffee"
+  },
+  {
+    "price": "307273",
+    "name": "Reuni Kopsu",
+    "description": "20 Kopsu Coco reguler yang dapat kamu upsize",
+    "section": "gathering milk coffee"
+  },
+  {
+    "price": "163545",
+    "name": "Rame-Rame Kopsu",
+    "description": "10 Kopsu Coco reguler yang dapat kamu upsize",
+    "section": "gathering milk coffee"
+  },
+  {
+    "price": "36273",
+    "name": "Duo Kopsu",
+    "description": "2 Kopsu Coco reguler yang dapat kamu upsize",
+    "section": "gathering milk coffee"
+  },
+  {
+    "price": "181900",
+    "name": "Special Price! 2 Litre Kopsu Arahbica",
+    "description": "2L Kopsu Matcha",
+    "section": "begadang package"
+  },
+  {
+    "price": "144900",
+    "name": "Special Price! 2 Litre Americano",
+    "description": "2L Americano",
+    "section": "begadang package"
+  },
+  {
+    "price": "163900",
+    "name": "Special Price! 2 Litre Kopsu Coco",
+    "description": "2L Coffee",
+    "section": "begadang package"
+  },
+  {
+    "price": "80818",
+    "name": "1 L Americano",
+    "description": "1 Liter Americano As A Complementary Complementary With People",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "108091",
+    "name": "1 L Caffe Latte",
+    "description": "1 Liter Caffe Latte As A Complementary Complementary With People",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "108091",
+    "name": "1 L Bidica Milk Coffee",
+    "description": "1 Liter Kopsu Matcha As A Complementary Complementary With People",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "108091",
+    "name": "1 L Classic Chocolate",
+    "description": "1 Liter Classic Chocolate As A Complementary Blend With People",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "88091",
+    "name": "1 L Kopsu Coco",
+    "description": "1 Liter Coffee Coco As A Complementary Complementary With People",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "80000",
+    "name": "Box Of Goodness 4 Croissant",
+    "description": "4 Pcs Mixed Variants As Friends As Gathering",
+    "section": "1 litre & box of goodness"
+  },
+  {
+    "price": "25364",
+    "name": "Arahbica Milk Coffee",
+    "description": "Creamy Milk Coffee With Coffee'S Signature Palm Sugar",
+    "section": "kopsu"
+  },
+  {
+    "price": "24455",
+    "name": "Kopsu Lite",
+    "description": "Creamy Coffee With Japanese Milk And Palm Sugar",
+    "section": "kopsu"
+  },
+  {
+    "price": "19000",
+    "name": "Kopsu Coco",
+    "description": "Milk And Dolce Sauce With Hint Coconut",
+    "section": "kopsu"
+  },
+  {
+    "price": "30818",
+    "name": "Kopsu Arahbica Macchiato",
+    "description": "Creamy Milk Coffee With A Special Palm Sugar Of Coffee With The Addition Of Savory Macchiato",
+    "section": "kopsu"
+  },
+  {
+    "price": "21727",
+    "name": "Americano",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Water",
+    "section": "classic"
+  },
+  {
+    "price": "28091",
+    "name": "Caffe Latte",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Milk",
+    "section": "classic"
+  },
+  {
+    "price": "32636",
+    "name": "Vanilla Latte",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Milk And Sweet Vanilla",
+    "section": "classic"
+  },
+  {
+    "price": "32636",
+    "name": "Pandan Latte",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Milk And Hint Pandans",
+    "section": "classic"
+  },
+  {
+    "price": "32636",
+    "name": "Hazelnut Latte",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Milk And Sweet Hazelnut",
+    "section": "classic"
+  },
+  {
+    "price": "32636",
+    "name": "Caramel Macchiato",
+    "description": "A Combination Of Milk Coffee With A Sweet Caramel Sauce And A Fragrant Vanilla",
+    "section": "classic"
+  },
+  {
+    "price": "32636",
+    "name": "Butterscoth Latte",
+    "description": "The Combination Of Special Espresso Of Coffee With Fresh Milk And Creamy Butterscot",
+    "section": "classic"
+  },
+  {
+    "price": "25364",
+    "name": "Aero Berrycano",
+    "description": "Fresh Blueberry Combined With Steamed Espresso",
+    "section": "kophit"
+  },
+  {
+    "price": "25364",
+    "name": "Aero Pandancano",
+    "description": "The Fresh Pandan Combined With Steamed Espresso",
+    "section": "kophit"
+  },
+  {
+    "price": "30818",
+    "name": "Espresso Lime Tonic",
+    "description": "Espresso, Lemon Dan Tonic Water",
+    "section": "kophit"
+  },
+  {
+    "price": "29000",
+    "name": "Himalayan Salt Chocolate",
+    "description": "The Combination Of The Deep Taste From Dark Chocolate And Fresh Milk Creamy With The Savory Hymayan Salt",
+    "section": "chocolate & others"
+  },
+  {
+    "price": "33545",
+    "name": "Hazelnut",
+    "description": "The Combination Of The Deep Taste From Dark Chocolate And Fresh Milky With The Sweetness Of Hazelnut Syrup",
+    "section": "chocolate & others"
+  },
+  {
+    "price": "33545",
+    "name": "Mint",
+    "description": "The Combination Of Deep Taste From Dark Chocolate And Fresh Milk With A Creamy Syrup",
+    "section": "chocolate & others"
+  },
+  {
+    "price": "19909",
+    "name": "Berries Boom",
+    "description": "Fresh Raspberry And Blueberry Topped With Cream Machiato",
+    "section": "chocolate & others"
+  },
+  {
+    "price": "29909",
+    "name": "Cookies & Cream",
+    "description": "Milk With Ice Cream And Crumble Oregal",
+    "section": "chocolate & others"
+  },
+  {
+    "price": "29909",
+    "name": "Matcha Latte",
+    "description": "A Blend Of Premium Matcha Flavors With Fresh Milk",
+    "section": "matcha"
+  },
+  {
+    "price": "32636",
+    "name": "Brown Sugar Matcha",
+    "description": "The Combination Of Premium Matcha Flavor With Sweet And Savory Sugar And Fresh Milk",
+    "section": "matcha"
+  },
+  {
+    "price": "32636",
+    "name": "Choco Matcha",
+    "description": "A Blend Of Premium Matcha Flavors With Dark Chocolate And Fresh Milk",
+    "section": "matcha"
+  },
+  {
+    "price": "38091",
+    "name": "Minty Matcha",
+    "description": "A Blend Of Premium Matcha Flavors With Mint Syrup",
+    "section": "matcha"
+  },
+  {
+    "price": "17182",
+    "name": "Milk Tea",
+    "description": "Selected Tea From Tea Leaves With Creamy Milk And Sweet Palm Sugar",
+    "section": "tea"
+  },
+  {
+    "price": "17182",
+    "name": "Black Tea Machiato",
+    "description": "Fresh Tea From Selected Tea Leaves With Savory Cream Machiato On Top",
+    "section": "tea"
+  },
+  {
+    "price": "21727",
+    "name": "Lime Mint Tea",
+    "description": "Selected Tea From Selected Tea With Lemon And Hint Mint Leaves",
+    "section": "tea"
+  },
+  {
+    "price": "24455",
+    "name": "Coconut Milk Tea",
+    "description": "The Savory Sensation Of Coconut And Distinctive Black Tea Of A Refreshing Blend",
+    "section": "tea"
+  },
+  {
+    "price": "29909",
+    "name": "Blueberry Sparkling Tea",
+    "description": "Selected Blueberryness And Black Tea Combined With A Delicious Toni Water Which Produces A Unique Taste",
+    "section": "tea"
+  },
+  {
+    "price": "13636",
+    "name": "Milky Dopang",
+    "description": "pastry donat yang flaky dengan filling milk cream",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "10909",
+    "name": "Glazed Dopang",
+    "description": "pastry donat yang flaky dan ringan dengan dipping glazed",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "13545",
+    "name": "Butter Croissant",
+    "description": "The Savory Farisser As Your Drink Complement",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "18091",
+    "name": "Choco Crunchy Croissant",
+    "description": "Savory Farisser With Sweet And Crunchy Chocolate Filling",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "18091",
+    "name": "Strawberry Croissant",
+    "description": "Savory Farissert With A Sweet Strawberry Filling",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "22636",
+    "name": "Double Cheese Croissant",
+    "description": "Frozen Salak With Cream Cheese Filling And Mozzarella Cheese Topping",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "22636",
+    "name": "Chicken Meltdown Croissant",
+    "description": "Frozen Farisser With Chicken Slice Filling And Cream Cheese",
+    "section": "snacks and pairing"
+  },
+  {
+    "price": "22636",
+    "name": "Pepperoni & Cheese Croissant",
+    "description": "Flaky Croissant Dengan Filling Beef Pepperoni, Bolognese Sauce, Dan Cheese",
+    "section": "snacks and pairing"
+  }
+]

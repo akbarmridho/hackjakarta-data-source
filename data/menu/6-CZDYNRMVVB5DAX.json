@@ -1,0 +1,836 @@
+[
+  {
+    "price": "99000",
+    "name": "B1G1 Martabak Peanut Chocolate Tipper + Martabak 2 Eggs",
+    "description": "Martabak Tipker Coklat Kacang + Martabak 2 Telor 99K",
+    "section": "today's offer"
+  },
+  {
+    "price": "259000",
+    "name": "Package 2 (Content 2 (2Cheese + 1/2W, 1 Tipkertella, 2 Eggs)",
+    "description": "1 Classic Martabak: 1/2 Cheese + 1/2 Ckw, 1 Tipker Nutella, 2 Martabak 3 Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Black Forest Chocolate Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "169000",
+    "name": "Pay 1 Get 3 Packages A (Classic Klasik + 3 Eggs)",
+    "description": "Classic Ckw Martabak + Martabak 3 Eggs + Tipker Ckw (Free On Red Velvet Mart)",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Cheese Durian Martabak",
+    "description": "New Variants For Lovers! Now Comes To Martabak With Cheese Durian Filling",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Red Velvet Cheese Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "269000",
+    "name": "Package 1 (1 Chocolate Martabak, 1 Cheese Martabak, 2 Eggs)",
+    "description": "1 Peanut Chocolate Martabak, 1 Classic Cheese Martabak, 2 Martabak 3 Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Black Forest Martabak 1/2 Cheese + 1/2 Chocolate",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "169000",
+    "name": "Pay 1 Get 3 Packages Of The Packages Of Cheese + 3 Eggs + Tips)",
+    "description": "Classic Cheese Martabak + Martabak 3 Eggs + Tipker Martabak (Free Add On Red Velvet)",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "B1G1 Martabak Cheese Tipper + Martabak 2 Eggs",
+    "description": "Martabak Tipker Keju + Martabak 2 Telor 99K",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "Martabak Durian",
+    "description": "New Variants For Lovers! Fluffy Martabak With Abundant Durian Filling",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Red Velvet Ovomaltine",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "129000",
+    "name": "B1G1 Martabak Classic Chocolate Peanut Sesame + Martabak 2 Eggs",
+    "description": "Martabak Klasik Coklat Kacang Wijen + Martabak 2 Telor (Free Add On Adonan Pandan)",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Classic Black Forest Nutella Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "Martabak Durian Pandan",
+    "description": "New Variants To Enjoy Duriants With Pandan Dough Adding To The Taste And Aroma That Makes You Always Miss",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Red Velvet Nutella",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Classic Black Forest Ovomaltine Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "129000",
+    "name": "B1G1 Cheese Classic Martabak + Martabak 2 Eggs",
+    "description": "B1G1 Martabak Klasik Keju + Martabak 2 Telor (Free Add On Adonan Pandan)",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Cheese",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Cheese Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "135000",
+    "name": "Red Velvet Ovomaltine Cheese Martine",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "135000",
+    "name": "Classic Black Forest Nutella Cheese Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Durian + 1/2 Ckw",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Combination Of Durian Filling With Classic Chocolate Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "135000",
+    "name": "Red Velvet Nutella Cheese Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "135000",
+    "name": "Classic Black Forest Ovomaltine Cheese Martabak",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Ovomaltine",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Ovomaltine Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Nutella",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Combination Of Durian Filling With A Soft Nutella",
+    "section": "today's offer"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Durian + 1/2 Chocolate Cheese",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Best Selling Chocolate Cheese Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "259000",
+    "name": "Package 2 (Content 2 (2Cheese + 1/2W, 1 Tipkertella, 2 Eggs)",
+    "description": "1 Classic Martabak: 1/2 Cheese + 1/2 Ckw, 1 Tipker Nutella, 2 Martabak 3 Eggs",
+    "section": "paket barengan"
+  },
+  {
+    "price": "269000",
+    "name": "Package 1 (1 Chocolate Martabak, 1 Cheese Martabak, 2 Eggs)",
+    "description": "1 Peanut Chocolate Martabak, 1 Classic Cheese Martabak, 2 Martabak 3 Eggs",
+    "section": "paket barengan"
+  },
+  {
+    "price": "169000",
+    "name": "Pay 1 Get 3 Packages A (Classic Klasik + 3 Eggs)",
+    "description": "Classic Ckw Martabak + Martabak 3 Eggs + Tipker Ckw (Free On Red Velvet Mart)",
+    "section": "pay 1 get 3"
+  },
+  {
+    "price": "169000",
+    "name": "Pay 1 Get 3 Packages Of The Packages Of Cheese + 3 Eggs + Tips)",
+    "description": "Classic Cheese Martabak + Martabak 3 Eggs + Tipker Martabak (Free Add On Red Velvet)",
+    "section": "pay 1 get 3"
+  },
+  {
+    "price": "99000",
+    "name": "B1G1 Martabak Peanut Chocolate Tipper + Martabak 2 Eggs",
+    "description": "Martabak Tipker Coklat Kacang + Martabak 2 Telor 99K",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "99000",
+    "name": "B1G1 Martabak Cheese Tipper + Martabak 2 Eggs",
+    "description": "Martabak Tipker Keju + Martabak 2 Telor 99K",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "129000",
+    "name": "B1G1 Martabak Classic Chocolate Peanut Sesame + Martabak 2 Eggs",
+    "description": "Martabak Klasik Coklat Kacang Wijen + Martabak 2 Telor (Free Add On Adonan Pandan)",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "129000",
+    "name": "B1G1 Cheese Classic Martabak + Martabak 2 Eggs",
+    "description": "B1G1 Martabak Klasik Keju + Martabak 2 Telor (Free Add On Adonan Pandan)",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Black Forest Chocolate Martabak",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Black Forest Martabak 1/2 Cheese + 1/2 Chocolate",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "125000",
+    "name": "Classic Black Forest Nutella Martabak",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "125000",
+    "name": "Classic Black Forest Ovomaltine Martabak",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "135000",
+    "name": "Classic Black Forest Nutella Cheese Martabak",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "135000",
+    "name": "Classic Black Forest Ovomaltine Cheese Martabak",
+    "description": "",
+    "section": "martabak black forest"
+  },
+  {
+    "price": "125000",
+    "name": "Cheese Durian Martabak",
+    "description": "New Variants For Lovers! Now Comes To Martabak With Cheese Durian Filling",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "99000",
+    "name": "Martabak Durian",
+    "description": "New Variants For Lovers! Fluffy Martabak With Abundant Durian Filling",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "99000",
+    "name": "Martabak Durian Pandan",
+    "description": "New Variants To Enjoy Duriants With Pandan Dough Adding To The Taste And Aroma That Makes You Always Miss",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Cheese",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Cheese Martabak",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Durian + 1/2 Ckw",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Combination Of Durian Filling With Classic Chocolate Martabak",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Ovomaltine",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Ovomaltine Martabak",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Durian + 1/2 Nutella",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Combination Of Durian Filling With A Soft Nutella",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Durian + 1/2 Chocolate Cheese",
+    "description": "New Variants For Lovers! Fluffy Martabak With A Durian Filling In Combination With Best Selling Chocolate Cheese Martabak",
+    "section": "promo satuan martabak durian"
+  },
+  {
+    "price": "90000",
+    "name": "Red Velvet Cheese Martabak",
+    "description": "",
+    "section": "martabak red velvet"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Red Velvet Ovomaltine",
+    "description": "",
+    "section": "martabak red velvet"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Red Velvet Nutella",
+    "description": "",
+    "section": "martabak red velvet"
+  },
+  {
+    "price": "135000",
+    "name": "Red Velvet Ovomaltine Cheese Martine",
+    "description": "",
+    "section": "martabak red velvet"
+  },
+  {
+    "price": "135000",
+    "name": "Red Velvet Nutella Cheese Martabak",
+    "description": "",
+    "section": "martabak red velvet"
+  },
+  {
+    "price": "145000",
+    "name": "Cheese Ovomaltine Upside Down Martabak",
+    "description": "",
+    "section": "martabak upside down"
+  },
+  {
+    "price": "145000",
+    "name": "Martabak Upside Down Skippy Keju",
+    "description": "",
+    "section": "martabak upside down"
+  },
+  {
+    "price": "145000",
+    "name": "Martabak Upside Down Nutella Cheese",
+    "description": "",
+    "section": "martabak upside down"
+  },
+  {
+    "price": "150000",
+    "name": "Martabak Upside Down Lotus Biscoff Cheese",
+    "description": "",
+    "section": "martabak upside down"
+  },
+  {
+    "price": "40000",
+    "name": "Plain Tipker Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Savory Butter Of Your Choice",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Chocolate Tipker Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Classic Chocolate Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Peanut Chocolate Tipker Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Chocolate Topping Classic Nuts",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Sesame Nut Chocolate Thin Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Chocolate Topping, Peanut Sesame Toppings",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Chocolate Cheese Thin Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Chocolate Topping Classic Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Cheese Tipker Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Classic Cheese Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Peanut Chocolate Cheese Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Chocolate Topping, Peanut Classic Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "45000",
+    "name": "Peanut Sesame Chocolate Cheese Martabak (Complete Nuts)",
+    "description": "Crunchy Dry Thin Martabak Combined With Chocolate Topping, Peanuts, Sesame Complete Classic Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Martabak Tipker Nutella",
+    "description": "Crunchy Dry Thin Martabak Combined With Nutella Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Nutella Cheese Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Nutella Topping Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Ovomaltine Tipker Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Ovomaltine Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Ovomaltine Cheese Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Ovomaltine Topping Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Martabak Tipker Toblerone",
+    "description": "Crunchy Dry Thin Martabak Combined With Toblerone Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Cheese Tobler Bone Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Toblerrone Cheese Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Martabak Tipker Skippy",
+    "description": "Crunchy Dry Thin Martabak Combined With Skippy Toppings",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Martabak Tipker Skippy Coklat",
+    "description": "Crunchy Dry Thin Martabak Combined With Skippy Topping Chocolate",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Skippy Cheese Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Skippy Topping Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Martabak Tipker Skippy Chocolate Cheese",
+    "description": "Crunchy Dry Thin Martabak Combined With Skippy Topping, Chocolate Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Martabak Tipker Lotus Biscoff",
+    "description": "Crunchy Dry Thin Martabak Combined With Lotus Biscoff Topping",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "65000",
+    "name": "Chocolate Biscoff Lotus Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Lotus Biscoff Topping Chocolate",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Martabak Tipker Lotus Biscoff Cheese",
+    "description": "Crunchy Dry Thin Martabak Combined With Lotus Biscoff Topping Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "70000",
+    "name": "Chocolate Cheese Biscoff Lotus Martabak",
+    "description": "Crunchy Dry Thin Martabak Combined With Lotus Biscoff Topping, Chocolate Cheese",
+    "section": "dry tipker martabak (thin)"
+  },
+  {
+    "price": "75000",
+    "name": "Classic Martabak 1/2 Cheese + 1/2 Chocolate",
+    "description": "Enjoy The Sweet Martabak 1/2 Cheese 1/2 Classic Chocolate",
+    "section": "classic martabak"
+  },
+  {
+    "price": "85000",
+    "name": "Classic Chocolate Cheese Martabak",
+    "description": "Delicious Sweet Martabak Combined With Classic Cheese Chocolate Topping",
+    "section": "classic martabak"
+  },
+  {
+    "price": "80000",
+    "name": "Classic Martabak 1/2 Cheese + 1/2 Chocolate Sesame Nuts",
+    "description": "Enjoy The Sweet Martabak 1/2 Cheese 1/2 Classic Sesame Cheese Chocolate",
+    "section": "classic martabak"
+  },
+  {
+    "price": "55000",
+    "name": "Plain Classic Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Savory Butter Of Your Choice",
+    "section": "classic martabak"
+  },
+  {
+    "price": "70000",
+    "name": "Classic Peanut Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Crispy Peanut Topping",
+    "section": "classic martabak"
+  },
+  {
+    "price": "70000",
+    "name": "Classic Chocolate Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Classic Chocolate Topping",
+    "section": "classic martabak"
+  },
+  {
+    "price": "70000",
+    "name": "Classic Peanut Chocolate Martabak",
+    "description": "Delicious Sweet Martabak Combined With Chocolate Classic Peanut Topping",
+    "section": "classic martabak"
+  },
+  {
+    "price": "75000",
+    "name": "Classic Martabak Chocolate Peanut Sesame",
+    "description": "The Pleasure Of Sweet Martabak Combined With Chocolate Topping, Peanut Sesame Toppings",
+    "section": "classic martabak"
+  },
+  {
+    "price": "80000",
+    "name": "Classic Cheese Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Classic Cheese Topping",
+    "section": "classic martabak"
+  },
+  {
+    "price": "85000",
+    "name": "Classic Peanut Chocolate Cheese Martabak",
+    "description": "Delicious Sweet Martabak Combined With Classic Cheese, Chocolate Peanuts",
+    "section": "classic martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Chocolate Peanut Sesame Cheese Classic Martabak (Complete)",
+    "description": "The Delicious Sweet Martabak Combines With Classic Cheese, Chocolate, Peanut Sesame Toppings",
+    "section": "classic martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Martabak 1/2 Cheese + 1/2 Chocolate Cheese",
+    "description": "Enjoy The Sweet Martabak 1/2 Cheese 1/2 Classic Cheese Chocolate",
+    "section": "classic martabak"
+  },
+  {
+    "price": "95000",
+    "name": "Classic Martabak 1/2 Cheese +2 Chocolate Sesame Nuts Cheese (Complete)",
+    "description": "Enjoy The Sweet Martabak 1/2 Cheese 1/2 Classic Sesame Cheese Chocolate",
+    "section": "classic martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Classic Cheese Corn Martabak",
+    "description": "Delicious Sweet Martabak Classic Cheese",
+    "section": "classic martabak"
+  },
+  {
+    "price": "177000",
+    "name": "Cheese Sultan Martabak",
+    "description": "Delicious Sweet Martabak With Classic Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "177000",
+    "name": "Chocolate Cheese Sultan Martabak",
+    "description": "Delicious Sweet Martabak With Cheese Chocolate Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "187000",
+    "name": "Chocolate Peanut Sesame Cheese Martabak (Complete)",
+    "description": "Delicious Sweet Martabak With Cheese Topping, Chocolate, Peanuts Coated Sesame Seeds",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "172000",
+    "name": "Sultan Martabak 1/2 Cheese + 1/2 Chocolate Sesame Nuts",
+    "description": "Delicious Sweet Martabak With 1/2 Cheese 1/2 Ckw Coated",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "187000",
+    "name": "Sultan Martabak 1/2 Cheese +2 Chocolate Sesame Nuts Cheese (Complete)",
+    "description": "Delicious Sweet Martabak With 1/2 Cheese 1/2 Ckw Cheese Coated",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "197000",
+    "name": "Cheese Nutella Sultan Martabak",
+    "description": "Delicious Sweet Martabak With Nutella Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "197000",
+    "name": "Sultan Martabak Ovomaltine Cheese",
+    "description": "Delicious Sweet Martabak With Ovoaltine Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "202000",
+    "name": "Sultan Toblerone Cheese Martabak",
+    "description": "Enjoy The Sweet Martabak With A Special Cheese Toblerone Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "197000",
+    "name": "Sultan Skippy Cheese Martabak",
+    "description": "Delicious Sweet Martabak With Skippy Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "197000",
+    "name": "Sultan Lotus Biscoff Cheese Martabak",
+    "description": "Delicious Sweet Martabak With Lotus Biscoff Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "187000",
+    "name": "Sultan Corn Cheese Martabak",
+    "description": "Delicious Sweet Martabak With Classic Cheese Topping",
+    "section": "sultan martabak (spesial thick wijsman)"
+  },
+  {
+    "price": "70000",
+    "name": "Special Martabak 2 Beef Eggs",
+    "description": "The Savory Martel ( 2 Eggs Martabak) Combined With Spring Onions And Special Beef",
+    "section": "beef egg special martabak"
+  },
+  {
+    "price": "80000",
+    "name": "Special Martabak 3 Beef Eggs",
+    "description": "The Savory Martel (Martabak 3 Eggs) Combines With Spring Onions And Special Beef",
+    "section": "beef egg special martabak"
+  },
+  {
+    "price": "100000",
+    "name": "Special Martabak 5 Beef Eggs",
+    "description": "The Savory Martel (Martabak 5 Eggs) Combines With Spring Onions And Special Beef",
+    "section": "beef egg special martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Special Martabak 4 Beef Eggs",
+    "description": "The Savory Martel (Martabak 4 Eggs) Combines With Spring Onions And Special Beef",
+    "section": "beef egg special martabak"
+  },
+  {
+    "price": "115000",
+    "name": "Ovomaltine Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Chocolate Crunchy Special Topping (Otaltine)",
+    "section": "ovomaltine martabak"
+  },
+  {
+    "price": "125000",
+    "name": "Cheese Ovomaltine Martabak",
+    "description": "Delicious Sweet Martabak Combined With Chocolate Crunchy Special Topping (Otaltine) Cheese",
+    "section": "ovomaltine martabak"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Ovomaltine + 1/2 Cheese",
+    "description": "Delicious Sweet Martabak Combined With Special Toppings 1/2 Ovomaltine 1/2 Cheese",
+    "section": "ovomaltine martabak"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak Nutella",
+    "description": "The Pleasure Of Sweet Martabak Combined With Chocolate Hazelnut Special Topping (Nutella)",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "125000",
+    "name": "Nutella Cheese Martabak",
+    "description": "Delicious Sweet Martabak Combined With Chocolate Hazelnut Special Topping (Nutella) Cheese",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Nutella + 1/2 Cheese",
+    "description": "The Delicious Sweet Martabak Combines With Special Toppings 1/2 Chocolate Hazelnut (Nutella) 1/2 Cheese",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Toblerone",
+    "description": "The Pleasure Of Sweet Martabak Combined With Toblerone'S Special Toblerone Topping",
+    "section": "martabak toblerone"
+  },
+  {
+    "price": "135000",
+    "name": "Toblerone Cheese Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Toblerrone Special Topping Cheese",
+    "section": "martabak toblerone"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Toblerone + 1/2 Cheese",
+    "description": "The Pleasure Of Sweet Martabak Combined With 1/2 Toblerone 1/2 Cheese",
+    "section": "martabak toblerone"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak Skippy",
+    "description": "The Pleasure Of Sweet Martabak Combined With Skippy Toppings",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "120000",
+    "name": "Martabak Skippy Coklat",
+    "description": "Delicious Sweet Martabak Combined With Skippy Chocolate Topping",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "125000",
+    "name": "Skippy Cheese Martabak",
+    "description": "Delicious Sweet Martabak Combined With Skippy Cheese Topping",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "125000",
+    "name": "Chocolate Cheese Skippy Martabak",
+    "description": "Delicious Sweet Martabak Combined With Skippy Topping, Chocolate Cheese",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "115000",
+    "name": "Martabak 1/2 Skippy + 1/2 Coklat",
+    "description": "Delicious Sweet Martabak Combined With 1/2 Skippy 1/2 Chocolate",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "120000",
+    "name": "Martabak 1/2 Skippy + 1/2 Cheese",
+    "description": "Delicious Sweet Martabak Combined With 1/2 Skippy 1/2 Cheese",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Skippy + 1/2 Chocolate Cheese",
+    "description": "Delicious Sweet Martabak Combined With 1/2 Skippy 1/2 Chocolate Cheese",
+    "section": "martabak skippy"
+  },
+  {
+    "price": "70000",
+    "name": "Special Martabak 2 Chicken Eggs",
+    "description": "The Savory Martel ( 2 Eggs Martabak) Combined With Spring Onions And Special Chicken Meat",
+    "section": "chicken meat egg special martabak"
+  },
+  {
+    "price": "80000",
+    "name": "Special Martabak 3 Chicken Eggs",
+    "description": "The Savory Martel (Martabak 3 Eggs) Combines With Spring Onions And Special Chicken Meat",
+    "section": "chicken meat egg special martabak"
+  },
+  {
+    "price": "100000",
+    "name": "Special Martabak 5 Chicken Eggs",
+    "description": "The Savory Martel (Martabak 5 Eggs) Combined With Spring Onions And Special Chicken Meat",
+    "section": "chicken meat egg special martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Special Martabak 4 Chicken Eggs",
+    "description": "The Savory Martel (Martabak 4 Eggs) Combines With Spring Onions And Special Chicken Meat",
+    "section": "chicken meat egg special martabak"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak Lotus Biscoff",
+    "description": "The Pleasure Of Sweet Martabak Combined With Lotus Biscoff Topping",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "130000",
+    "name": "Martabak Lotus Biscoff Coklat",
+    "description": "The Pleasure Of Sweet Martabak Combined With Lotus Biscoff Topping Chocolate",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "135000",
+    "name": "Chocolate Cheese Biscoff Lots Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Lotus Biscoff Topping, Chocolate Cheese",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "125000",
+    "name": "Martabak 1/2 Lotus Biscoff + 1/2 Coklat",
+    "description": "The Pleasure Of Sweet Martabak Combined With 1/2 Pieces Of Biscoff 1/2 Chocolate",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "135000",
+    "name": "Martabak 1/2 Lotus Biscoff + 1/2 Cheese",
+    "description": "The Pleasure Of Sweet Martabak Combined With 1/2 Topping Of Biscoff 1/2 Cheese",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "135000",
+    "name": "Martabak 1/2 Lotus Biscoff + 1/2 Chocolate Cheese",
+    "description": "Delicious Sweet Martabak Combined With 1/2 Piece Of Biscoff Topping 1/2 Chocolate Cheese",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "135000",
+    "name": "Lotus Biscoff Cheese Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Lotus Biscoff Topping Cheese",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "85000",
+    "name": "Cheese Banana Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Banana Cheese Topping",
+    "section": "banana martabak"
+  },
+  {
+    "price": "80000",
+    "name": "Chocolate Banana Martabak",
+    "description": "The Pleasure Of Sweet Martabak Combined With Banana Chocolate Topping",
+    "section": "banana martabak"
+  },
+  {
+    "price": "90000",
+    "name": "Chocolate Cheese Banana Martabak",
+    "description": "Delicious Sweet Martabak Combined With Banana Chocolate Cheese Topping",
+    "section": "banana martabak"
+  }
+]

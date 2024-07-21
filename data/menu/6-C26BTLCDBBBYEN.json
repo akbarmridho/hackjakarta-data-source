@@ -1,0 +1,470 @@
+[
+  {
+    "price": "47400",
+    "name": "Buy 1 Get 1 All Chicken",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "75000",
+    "name": "Buy 1 Get 1 All Beefbowl",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "29700",
+    "name": "Chicken Karage Mentai",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "34200",
+    "name": "Chicken Nanban",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "49600",
+    "name": "Buy 1 Get 1 Chicken Endog",
+    "description": "Enddog Beef Ham + Chicken Karage Bowl (Free Matah Sambal / Korek Sambal)",
+    "section": "today's offer"
+  },
+  {
+    "price": "59500",
+    "name": "Beefbowl Bento Upsize",
+    "description": "More Meat And Rice To Make You More Satisfying",
+    "section": "today's offer"
+  },
+  {
+    "price": "53900",
+    "name": "Combo Karage Bowl",
+    "description": "Description: 2 Karaage Bowls Free 1 Topping Only Matah / Korek / Mentai",
+    "section": "today's offer"
+  },
+  {
+    "price": "64220",
+    "name": "Combo Beefbowl Karage",
+    "description": "Beefbowl Teriyaki Package / Ori / Blackpepper + Chicken Karage",
+    "section": "today's offer"
+  },
+  {
+    "price": "73150",
+    "name": "Combo Spicy Lovers",
+    "description": "Beefbowl Sambal + Chicken Karage Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "82500",
+    "name": "Combo 2 Beefbowls",
+    "description": "Original Teriyaki Beefbowl R",
+    "section": "today's offer"
+  },
+  {
+    "price": "86900",
+    "name": "Combo Beefbowl Bento",
+    "description": "2 Bestselling Promo!",
+    "section": "today's offer"
+  },
+  {
+    "price": "42750",
+    "name": "Teriyaki Beefbowl",
+    "description": "The Rest Of Beef Bowl With Teriyaki Special Sweet And Savory Teriyaki Sauce!",
+    "section": "today's offer"
+  },
+  {
+    "price": "42750",
+    "name": "Original Beefbowl",
+    "description": "Beefbowl With Salty And Savory Original Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "44650",
+    "name": "Nasi Goreng Beefbowl",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "47500",
+    "name": "Sambal Matah Beefbowl",
+    "description": "Original Beefbowl Plus Fresh Matah Sambal Topping!",
+    "section": "today's offer"
+  },
+  {
+    "price": "48450",
+    "name": "Sambal Korek Beefbowl",
+    "description": "Original Beefbowl Grilled With Extra Special Korek Sambal Sambal!",
+    "section": "today's offer"
+  },
+  {
+    "price": "48450",
+    "name": "Mentai Beefbowl",
+    "description": "With A Mentai Sauce Topping, It Must Try!",
+    "section": "today's offer"
+  },
+  {
+    "price": "46550",
+    "name": "Saikoro",
+    "description": "Saikoro Meat + Rice + More Delicious Topping Egg!",
+    "section": "today's offer"
+  },
+  {
+    "price": "123025",
+    "name": "Og Set Deal",
+    "description": "Teriyaki + Original + Blackpepper",
+    "section": "today's offer"
+  },
+  {
+    "price": "140125",
+    "name": "Favourite Set Deal",
+    "description": "Mentai + Mozza + Matah Sambal R",
+    "section": "today's offer"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Chicken Egg Roll",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper + 3Pcs Egg Roll + Salad Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Shrimp Roll",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper +3Pcs Shirmp Roll + Salad Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Spicy Chicken Bites",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper + 3Pcs Spicy Chicken Bites + Salad Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "32300",
+    "name": "Shrimp Roll 4 Pcs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "32775",
+    "name": "Chicken Egg Roll 4 Pcs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "34200",
+    "name": "Spicy Chicken Bites 4 Pcs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "47400",
+    "name": "Buy 1 Get 1 All Chicken",
+    "description": "",
+    "section": "b1g1 deals"
+  },
+  {
+    "price": "75000",
+    "name": "Buy 1 Get 1 All Beefbowl",
+    "description": "",
+    "section": "b1g1 deals"
+  },
+  {
+    "price": "21950",
+    "name": "Endog Beef Ham",
+    "description": "Rice + Beef Ham + Special Egg Homemade",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "29500",
+    "name": "Chicken Karage Bowl",
+    "description": "Free Matah Sambal Or Korek Sambal",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "29700",
+    "name": "Chicken Karage Mentai",
+    "description": "",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "29500",
+    "name": "Saving Bento",
+    "description": "Nasi + 2 Chicken Egg Roll + Spicy Chicken Bites + Shrimp Roll",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "34200",
+    "name": "Chicken Nanban",
+    "description": "",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "49600",
+    "name": "Buy 1 Get 1 Chicken Endog",
+    "description": "Enddog Beef Ham + Chicken Karage Bowl (Free Matah Sambal / Korek Sambal)",
+    "section": "saving 20 thousand promo"
+  },
+  {
+    "price": "59500",
+    "name": "Beefbowl Bento Upsize",
+    "description": "More Meat And Rice To Make You More Satisfying",
+    "section": "combo deals"
+  },
+  {
+    "price": "53900",
+    "name": "Combo Karage Bowl",
+    "description": "Description: 2 Karaage Bowls Free 1 Topping Only Matah / Korek / Mentai",
+    "section": "combo deals"
+  },
+  {
+    "price": "64220",
+    "name": "Combo Beefbowl Karage",
+    "description": "Beefbowl Teriyaki Package / Ori / Blackpepper + Chicken Karage",
+    "section": "combo deals"
+  },
+  {
+    "price": "73150",
+    "name": "Combo Spicy Lovers",
+    "description": "Beefbowl Sambal + Chicken Karage Sambal",
+    "section": "combo deals"
+  },
+  {
+    "price": "82500",
+    "name": "Combo 2 Beefbowls",
+    "description": "Original Teriyaki Beefbowl R",
+    "section": "combo deals"
+  },
+  {
+    "price": "86900",
+    "name": "Combo Beefbowl Bento",
+    "description": "2 Bestselling Promo!",
+    "section": "combo deals"
+  },
+  {
+    "price": "38500",
+    "name": "Endog Beef Ham + Kulit Ayam",
+    "description": "Combo Enddog Beef Ham + Crispy Chicken Skin!",
+    "section": "combo deals"
+  },
+  {
+    "price": "42750",
+    "name": "Teriyaki Beefbowl",
+    "description": "The Rest Of Beef Bowl With Teriyaki Special Sweet And Savory Teriyaki Sauce!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "42750",
+    "name": "Original Beefbowl",
+    "description": "Beefbowl With Salty And Savory Original Sauce",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "44650",
+    "name": "Nasi Goreng Beefbowl",
+    "description": "",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "47500",
+    "name": "Sambal Matah Beefbowl",
+    "description": "Original Beefbowl Plus Fresh Matah Sambal Topping!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "48450",
+    "name": "Sambal Korek Beefbowl",
+    "description": "Original Beefbowl Grilled With Extra Special Korek Sambal Sambal!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "48450",
+    "name": "Mentai Beefbowl",
+    "description": "With A Mentai Sauce Topping, It Must Try!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "46550",
+    "name": "Saikoro",
+    "description": "Saikoro Meat + Rice + More Delicious Topping Egg!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "123025",
+    "name": "Og Set Deal",
+    "description": "Teriyaki + Original + Blackpepper",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "140125",
+    "name": "Favourite Set Deal",
+    "description": "Mentai + Mozza + Matah Sambal R",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "52000",
+    "name": "Mentai Mozza Beefbowl",
+    "description": "2 Favorite Toppings Left In 1 Bowl!",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "52000",
+    "name": "Mozzarella Beefbowl",
+    "description": "With Melted Mozzarella Topping",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "45000",
+    "name": "Blackpepper Beefbowl",
+    "description": "",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "32500",
+    "name": "Curry Endog Beef Ham",
+    "description": "",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "49000",
+    "name": "Curry Beefbowl",
+    "description": "",
+    "section": "sisapi beefbowl"
+  },
+  {
+    "price": "46000",
+    "name": "Beefbowl Bento",
+    "description": "Beefbowl Bento",
+    "section": "bento series"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Chicken Egg Roll",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper + 3Pcs Egg Roll + Salad Mayo",
+    "section": "bento series"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Shrimp Roll",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper +3Pcs Shirmp Roll + Salad Mayo",
+    "section": "bento series"
+  },
+  {
+    "price": "57000",
+    "name": "Beefbowl R + Spicy Chicken Bites",
+    "description": "Beefbowl Teriyaki/Original/Blackpepper + 3Pcs Spicy Chicken Bites + Salad Mayo",
+    "section": "bento series"
+  },
+  {
+    "price": "32300",
+    "name": "Shrimp Roll 4 Pcs",
+    "description": "",
+    "section": "bento series"
+  },
+  {
+    "price": "32775",
+    "name": "Chicken Egg Roll 4 Pcs",
+    "description": "",
+    "section": "bento series"
+  },
+  {
+    "price": "34200",
+    "name": "Spicy Chicken Bites 4 Pcs",
+    "description": "",
+    "section": "bento series"
+  },
+  {
+    "price": "217500",
+    "name": "Paket Ber 5",
+    "description": "",
+    "section": "paket rame rame"
+  },
+  {
+    "price": "293500",
+    "name": "Paket Ber 7",
+    "description": "You Can Choose Between Original, Teriyaki, Blacpapper Free Topping 4 Kinds Of Sambal",
+    "section": "paket rame rame"
+  },
+  {
+    "price": "478000",
+    "name": "Paket Ber 12",
+    "description": "You Can Choose Between Original, Teriyaki, Blacpapper And Free 7 Chili Sauce, Very Suitable For Share",
+    "section": "paket rame rame"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "36500",
+    "name": "Beef Only",
+    "description": "Meat Only",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "24000",
+    "name": "Chicken Karage Only",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Sambal Korek",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Sambal Matah",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "10000",
+    "name": "Mentai",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "7500",
+    "name": "Egg",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "11000",
+    "name": "Chicken Skin",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "10000",
+    "name": "Mozzarella",
+    "description": "",
+    "section": "extra/add ons"
+  },
+  {
+    "price": "1",
+    "name": "Not Satisfied/Incomplete?",
+    "description": "Don'T Worry! Our Contabak Is Through The Instam @ Sausage List. We Are Replaced!",
+    "section": "contact us!"
+  },
+  {
+    "price": "44000",
+    "name": "Grilled Chicken Steak",
+    "description": "Rice + Grilled Chicken Teriyaki With Korek Sambal On Top, Have To Try It Spicy! (Get Carrot + Mentai Sauce)",
+    "section": "other ricebowls"
+  },
+  {
+    "price": "46000",
+    "name": "Chicken Steak Sambal Korek",
+    "description": "Rice + Grilled Chicken Teriyaki With Korek Sambal On Top, Have To Try It Spicy! (Get Carrot + Mentai Sauce)",
+    "section": "other ricebowls"
+  },
+  {
+    "price": "38000",
+    "name": "Curry Chicken Bowl",
+    "description": "",
+    "section": "other ricebowls"
+  }
+]

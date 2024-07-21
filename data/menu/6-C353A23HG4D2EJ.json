@@ -1,0 +1,554 @@
+[
+  {
+    "price": "36950",
+    "name": "Uduk Rice + Green Chili Chicken",
+    "description": "Nasi Uduk + Smashed Chicken + Green Chili Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "36950",
+    "name": "Uduk Rice + Original Chicken",
+    "description": "Nasi Uduk + Original Chicken + Favorite Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "29950",
+    "name": "Uduk Rice + Original Catfish",
+    "description": "Nasi Uduk + Original Catfish + Favorite Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "29950",
+    "name": "Uduk Rice + Green Chili Catfish",
+    "description": "Nasi Uduk + Original Catfish + Green Chili Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37950",
+    "name": "Ori (No.1) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "44500",
+    "name": "Ori (No.2) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "39950",
+    "name": "Ori (No.3) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "46950",
+    "name": "Original (Combo) Catfish Pecel",
+    "description": "1 Catfish + Rice + Sambal + Tofu + Tempe + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "37950",
+    "name": "Ori (No.1) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "44500",
+    "name": "Ori (No.2) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "39950",
+    "name": "Ori (No.3) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "46950",
+    "name": "Original (Combo) Catfish With Green Chili",
+    "description": "1 Catfish + Rice + Sambal + Tofu + Tempe + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "41950",
+    "name": "Ori (No.1) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "48950",
+    "name": "Ori (No.2) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "44950",
+    "name": "Ori (No.3) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "56950",
+    "name": "Original Chicken Pecel (Combo)",
+    "description": "1 Original Chicken + Rice + Sambal + Tofu + Tempeh + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "41950",
+    "name": "Ori (No.1) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "48950",
+    "name": "Ori (No.2) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "44950",
+    "name": "Ori (No.3) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + (Tofu / Tempeh) + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "56950",
+    "name": "Original (Combo) Green Chili Chicken",
+    "description": "1 Smashed Chicken + Rice + Sambal + Tofu + Tempeh + Skin Satay + Sweet Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "123000",
+    "name": "2 Spices + 2 White Rice + 2 Tempeh Tofu With Iced Tea",
+    "description": "2 Grilled Tilapia + (2 White Rice) + 2 Tofu + 2 Tempeh + 2 Plain Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "126000",
+    "name": "2 Spices + 2 Spices Uduk Rice + 2 Tempeh Tofu + 2 Iced Teas",
+    "description": "2 Grilled Tilapia + (2 Nasi Uduk) + 2 Tofu + 2 Tempeh + 2 Plain Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "123000",
+    "name": "2 Spices Of Green Chili Sauce + 2 White Rice) Tofu 2 Tempeh + 2 Teas",
+    "description": "2 Tilapia Spices Of Green Chili + (2 White Rice) + 2 Tofu + 2 Tempeh + 2 Plain Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "126000",
+    "name": "2 Spices Of Green Chili Seasoned Tilapia + 2 Iced Teas",
+    "description": "2 Tilapia With Green Chili Spices + (2 Nasi Uduk) + 2 Tofus + 2 Tempeh + 2 Plain Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "38950",
+    "name": "Paket 5 Tusuk Sate Kulit",
+    "description": "Package Of 5 Skewers Of Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "78950",
+    "name": "Paket 10 Tusuk Sate Kulit",
+    "description": "10 Skewers Of Skin Satay Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "158950",
+    "name": "Paket 20 Tusuk Sate Kulit",
+    "description": "Package 20 Skewers Of Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "33600",
+    "name": "Favorite Sambal Chicken + Rice",
+    "description": "Original Chicken + Favorite Sambal + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Favorite Sambal Catfish + Rice",
+    "description": "Original Catfish + Favorite Sambal + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "33600",
+    "name": "Ayam Sambel Cabe Ijo + Nasi",
+    "description": "Original Chicken + Green Chili Sambal + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Lele Cabe Ijo + Nasi",
+    "description": "Original Catfish + Green Chili Sambal + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "23500",
+    "name": "Ayam Original Sambel Favorit",
+    "description": "Original Chicken With Favorite Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "16900",
+    "name": "Lele Original Sambel Favorit",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "23500",
+    "name": "Ayam Geprek Cabe Ijo",
+    "description": "Green Chili Smashed Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "16900",
+    "name": "Lele Cabe Ijo",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "114750",
+    "name": "5 Ayam Sambel Favorit",
+    "description": "5 Favorite Chicken Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "1",
+    "name": "Diskon Hemat 150Ribu-80 Ribu-40Ribu & 30Ribu",
+    "description": "Check The Application Ayam Tq",
+    "section": "don't forget to use a discount to save!!"
+  },
+  {
+    "price": "36950",
+    "name": "Uduk Rice + Green Chili Chicken",
+    "description": "Nasi Uduk + Smashed Chicken + Green Chili Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "36950",
+    "name": "Uduk Rice + Original Chicken",
+    "description": "Nasi Uduk + Original Chicken + Favorite Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "29950",
+    "name": "Uduk Rice + Original Catfish",
+    "description": "Nasi Uduk + Original Catfish + Favorite Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "29950",
+    "name": "Uduk Rice + Green Chili Catfish",
+    "description": "Nasi Uduk + Original Catfish + Green Chili Sambal",
+    "section": "uduk rice package"
+  },
+  {
+    "price": "37950",
+    "name": "Ori (No.1) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "44500",
+    "name": "Ori (No.2) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "39950",
+    "name": "Ori (No.3) Pecel Lele",
+    "description": "1 Catfish + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "46950",
+    "name": "Original (Combo) Catfish Pecel",
+    "description": "1 Catfish + Rice + Sambal + Tofu + Tempe + Skin Satay + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "37950",
+    "name": "Ori (No.1) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "44500",
+    "name": "Ori (No.2) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "39950",
+    "name": "Ori (No.3) Lele Cabe Ijo",
+    "description": "1 Catfish + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "46950",
+    "name": "Original (Combo) Catfish With Green Chili",
+    "description": "1 Catfish + Rice + Sambal + Tofu + Tempe + Skin Satay + Sweet Ice Tea",
+    "section": "catfish original package"
+  },
+  {
+    "price": "41950",
+    "name": "Ori (No.1) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "48950",
+    "name": "Ori (No.2) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "44950",
+    "name": "Ori (No.3) Pecel Ayam",
+    "description": "1 Original Chicken + Rice + Sambal + (Tofu / Tempe) + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "56950",
+    "name": "Original Chicken Pecel (Combo)",
+    "description": "1 Original Chicken + Rice + Sambal + Tofu + Tempeh + Skin Satay + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "41950",
+    "name": "Ori (No.1) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "48950",
+    "name": "Ori (No.2) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + Skin Satay + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "44950",
+    "name": "Ori (No.3) Ayam Geprek Cabe Ijo",
+    "description": "1 Smashed Chicken + Rice + Sambal + (Tofu / Tempeh) + Sweet Ice Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "56950",
+    "name": "Original (Combo) Green Chili Chicken",
+    "description": "1 Smashed Chicken + Rice + Sambal + Tofu + Tempeh + Skin Satay + Sweet Iced Tea",
+    "section": "chicken original package"
+  },
+  {
+    "price": "123000",
+    "name": "2 Spices + 2 White Rice + 2 Tempeh Tofu With Iced Tea",
+    "description": "2 Grilled Tilapia + (2 White Rice) + 2 Tofu + 2 Tempeh + 2 Plain Ice Tea",
+    "section": "spiced tilapia package"
+  },
+  {
+    "price": "126000",
+    "name": "2 Spices + 2 Spices Uduk Rice + 2 Tempeh Tofu + 2 Iced Teas",
+    "description": "2 Grilled Tilapia + (2 Nasi Uduk) + 2 Tofu + 2 Tempeh + 2 Plain Ice Tea",
+    "section": "spiced tilapia package"
+  },
+  {
+    "price": "123000",
+    "name": "2 Spices Of Green Chili Sauce + 2 White Rice) Tofu 2 Tempeh + 2 Teas",
+    "description": "2 Tilapia Spices Of Green Chili + (2 White Rice) + 2 Tofu + 2 Tempeh + 2 Plain Iced Tea",
+    "section": "spiced tilapia package"
+  },
+  {
+    "price": "126000",
+    "name": "2 Spices Of Green Chili Seasoned Tilapia + 2 Iced Teas",
+    "description": "2 Tilapia With Green Chili Spices + (2 Nasi Uduk) + 2 Tofus + 2 Tempeh + 2 Plain Iced Tea",
+    "section": "spiced tilapia package"
+  },
+  {
+    "price": "38950",
+    "name": "Paket 5 Tusuk Sate Kulit",
+    "description": "Package Of 5 Skewers Of Skin",
+    "section": "skin satay package"
+  },
+  {
+    "price": "78950",
+    "name": "Paket 10 Tusuk Sate Kulit",
+    "description": "10 Skewers Of Skin Satay Package",
+    "section": "skin satay package"
+  },
+  {
+    "price": "158950",
+    "name": "Paket 20 Tusuk Sate Kulit",
+    "description": "Package 20 Skewers Of Skin",
+    "section": "skin satay package"
+  },
+  {
+    "price": "33600",
+    "name": "Favorite Sambal Chicken + Rice",
+    "description": "Original Chicken + Favorite Sambal + White Rice",
+    "section": "menu + rice"
+  },
+  {
+    "price": "29400",
+    "name": "Favorite Sambal Catfish + Rice",
+    "description": "Original Catfish + Favorite Sambal + White Rice",
+    "section": "menu + rice"
+  },
+  {
+    "price": "33600",
+    "name": "Ayam Sambel Cabe Ijo + Nasi",
+    "description": "Original Chicken + Green Chili Sambal + White Rice",
+    "section": "menu + rice"
+  },
+  {
+    "price": "29400",
+    "name": "Lele Cabe Ijo + Nasi",
+    "description": "Original Catfish + Green Chili Sambal + White Rice",
+    "section": "menu + rice"
+  },
+  {
+    "price": "23500",
+    "name": "Ayam Original Sambel Favorit",
+    "description": "Original Chicken With Favorite Sambal",
+    "section": "unit menu"
+  },
+  {
+    "price": "16900",
+    "name": "Lele Original Sambel Favorit",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "23500",
+    "name": "Ayam Geprek Cabe Ijo",
+    "description": "Green Chili Smashed Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "16900",
+    "name": "Lele Cabe Ijo",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "114750",
+    "name": "5 Ayam Sambel Favorit",
+    "description": "5 Favorite Chicken Sambal",
+    "section": "unit menu"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Uduk Rice",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "4000",
+    "name": "Tofu",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Sambel Favorit",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Sambel Cabe Ijo",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "7000",
+    "name": "Kol Goreng",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Lele Original Sambel Favorit",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Ayam Original Sambel Favorit",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "8000",
+    "name": "2 Fermented Tilapia With Spices + 2 White Rice) Tofu + 2 Tempeh Iced Tea",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Grilled Rice + Green Chili Catfish",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Grilled Rice + Original Catfish",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Grilled Rice + Original Chicken",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Green Rice + Green Chili Chicken",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "8000",
+    "name": ".Original (Pini) Catfish Pecel",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "8000",
+    "name": ".Original (Chicken Feet) Pecel",
+    "description": "",
+    "section": "blessing menu"
+  },
+  {
+    "price": "4000",
+    "name": ".Ori (No.3) Pecel Ayam",
+    "description": "",
+    "section": "blessing menu"
+  }
+]

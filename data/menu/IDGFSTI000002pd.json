@@ -1,0 +1,326 @@
+[
+  {
+    "price": "54300",
+    "name": "The Spicy Houston Reg",
+    "description": "Spicy Jalapenos, Pepper Cheese, Crisp Leaf Lettuce, Fresh Tomato & Our Smokin' Chipotle Ranch Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "63440",
+    "name": "Bacon Cheddar Single Reg",
+    "description": "Thick-Cut Smoked Beef Bacon, Cheddar Cheese, Crisp Leaf Lettuce, Fresh Tomato, White Onion & Special Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "53224",
+    "name": "The Original Reg",
+    "description": "The One That Started It All Crisp Shredded Lettuce, Fresh Tomato, Chopped Onion, Relish, Crinkle-Cut Pickle, Mustard & Mayonnaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "66665",
+    "name": "Route 66 Reg",
+    "description": "This Favorite Is Named After The Iconic, Carfree American Highway, Swiss Cheese, Grilled Mushrooms, Caramelized Onions & Mayonnaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "64515",
+    "name": "Smoke House Reg",
+    "description": "Thick-Cut Smoked Beef Bacon, Hand Breaded Onion Rings, Cheddar Cheese & Our Special Recipe \"Smoke House\"",
+    "section": "today's offer"
+  },
+  {
+    "price": "79568",
+    "name": "Smoke House Single",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "85482",
+    "name": "Route 66",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "70966",
+    "name": "The Original",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "79568",
+    "name": "Bacon Cheddar Single",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "74729",
+    "name": "The Spicy Houston",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "74729",
+    "name": "Rocket Single",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "120428",
+    "name": "Bacon Cheddar Double",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "104299",
+    "name": "Rocket Double",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "120428",
+    "name": "Smoke House Double",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "46236",
+    "name": "Garden Salad",
+    "description": "Crisp Spring Mix Topped With Fresh Diced Tomatoes, Shredded Cheddar Cheese & Choice Of Dressing",
+    "section": "today's offer"
+  },
+  {
+    "price": "51612",
+    "name": "Grilled Or Hand Breaded Chicken Club Salad",
+    "description": "Grilled Farm-Raised Chicken Breastor Hand Breaded Chicken Crispers Served On Farm-Fresh Spring Mix With Chopped Smoked Bacon Fresh Diced Tomatoes, Shredded Cheddar Cheese & Choice Of Dressing",
+    "section": "today's offer"
+  },
+  {
+    "price": "77418",
+    "name": "Philly Cheese Steak",
+    "description": "Thinly Sliced Sirloin Steak, Grilled To Perfection, Mixed With Caramelized Onions, Green Peppers & Topped With Cheddar Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "67741",
+    "name": "Hand Breaded Chicken Crispers",
+    "description": "Hand Breaded Chicken Crispers With Choice Of Bbq, Ranch Or Honey Mustard Dipping Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "46236",
+    "name": "Cheese Fries",
+    "description": "Crispy American Fries Covered In Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "54838",
+    "name": "Bacon Cheese Fries",
+    "description": "American Fries Topped With Melted Cheese And Chopped Smoked Beef Bacon",
+    "section": "today's offer"
+  },
+  {
+    "price": "37096",
+    "name": "American Fries",
+    "description": "A Premium Potato",
+    "section": "today's offer"
+  },
+  {
+    "price": "54300",
+    "name": "The Spicy Houston Reg",
+    "description": "Spicy Jalapenos, Pepper Cheese, Crisp Leaf Lettuce, Fresh Tomato & Our Smokin' Chipotle Ranch Sauce",
+    "section": "regular burger"
+  },
+  {
+    "price": "63440",
+    "name": "Bacon Cheddar Single Reg",
+    "description": "Thick-Cut Smoked Beef Bacon, Cheddar Cheese, Crisp Leaf Lettuce, Fresh Tomato, White Onion & Special Sauce",
+    "section": "regular burger"
+  },
+  {
+    "price": "53224",
+    "name": "The Original Reg",
+    "description": "The One That Started It All Crisp Shredded Lettuce, Fresh Tomato, Chopped Onion, Relish, Crinkle-Cut Pickle, Mustard & Mayonnaise",
+    "section": "regular burger"
+  },
+  {
+    "price": "66665",
+    "name": "Route 66 Reg",
+    "description": "This Favorite Is Named After The Iconic, Carfree American Highway, Swiss Cheese, Grilled Mushrooms, Caramelized Onions & Mayonnaise",
+    "section": "regular burger"
+  },
+  {
+    "price": "64515",
+    "name": "Smoke House Reg",
+    "description": "Thick-Cut Smoked Beef Bacon, Hand Breaded Onion Rings, Cheddar Cheese & Our Special Recipe \"Smoke House\"",
+    "section": "regular burger"
+  },
+  {
+    "price": "79568",
+    "name": "Smoke House Single",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "85482",
+    "name": "Route 66",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "70966",
+    "name": "The Original",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "79568",
+    "name": "Bacon Cheddar Single",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "74729",
+    "name": "The Spicy Houston",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "74729",
+    "name": "Rocket Single",
+    "description": "",
+    "section": "prime (120gr) burger"
+  },
+  {
+    "price": "120428",
+    "name": "Bacon Cheddar Double",
+    "description": "",
+    "section": "burger double"
+  },
+  {
+    "price": "104299",
+    "name": "Rocket Double",
+    "description": "",
+    "section": "burger double"
+  },
+  {
+    "price": "120428",
+    "name": "Smoke House Double",
+    "description": "",
+    "section": "burger double"
+  },
+  {
+    "price": "46236",
+    "name": "Garden Salad",
+    "description": "Crisp Spring Mix Topped With Fresh Diced Tomatoes, Shredded Cheddar Cheese & Choice Of Dressing",
+    "section": "local favorite"
+  },
+  {
+    "price": "51612",
+    "name": "Grilled Or Hand Breaded Chicken Club Salad",
+    "description": "Grilled Farm-Raised Chicken Breastor Hand Breaded Chicken Crispers Served On Farm-Fresh Spring Mix With Chopped Smoked Bacon Fresh Diced Tomatoes, Shredded Cheddar Cheese & Choice Of Dressing",
+    "section": "local favorite"
+  },
+  {
+    "price": "77418",
+    "name": "Philly Cheese Steak",
+    "description": "Thinly Sliced Sirloin Steak, Grilled To Perfection, Mixed With Caramelized Onions, Green Peppers & Topped With Cheddar Cheese",
+    "section": "local favorite"
+  },
+  {
+    "price": "67741",
+    "name": "Hand Breaded Chicken Crispers",
+    "description": "Hand Breaded Chicken Crispers With Choice Of Bbq, Ranch Or Honey Mustard Dipping Sauce",
+    "section": "local favorite"
+  },
+  {
+    "price": "46236",
+    "name": "Cheese Fries",
+    "description": "Crispy American Fries Covered In Cheese",
+    "section": "sides"
+  },
+  {
+    "price": "54838",
+    "name": "Bacon Cheese Fries",
+    "description": "American Fries Topped With Melted Cheese And Chopped Smoked Beef Bacon",
+    "section": "sides"
+  },
+  {
+    "price": "37096",
+    "name": "American Fries",
+    "description": "A Premium Potato",
+    "section": "sides"
+  },
+  {
+    "price": "48070",
+    "name": "Hand Breaded Onion Rings",
+    "description": "Sweet Onions Hand Breaded And Fried To Crispy Perfection",
+    "section": "sides"
+  },
+  {
+    "price": "65780",
+    "name": "Hershey'S Chocolate",
+    "description": "",
+    "section": "shakes"
+  },
+  {
+    "price": "65780",
+    "name": "Strawberry",
+    "description": "",
+    "section": "shakes"
+  },
+  {
+    "price": "65780",
+    "name": "Vanilla",
+    "description": "",
+    "section": "shakes"
+  },
+  {
+    "price": "73370",
+    "name": "Oreo Cookies & Cream",
+    "description": "",
+    "section": "shakes"
+  },
+  {
+    "price": "54500",
+    "name": "Boneless Chicken Combo Sprite",
+    "description": "Boneless Chicken Hot Honey Sauce 6 Pcs With Rice Amd Sprite Zero 390 Ml",
+    "section": "chinese new year promo"
+  },
+  {
+    "price": "81500",
+    "name": "Spicy Houston Combo Sprite",
+    "description": "Regular Spicy Burger With Side Fries And Specify Zero 390 Ml",
+    "section": "chinese new year promo"
+  },
+  {
+    "price": "63882",
+    "name": "Rfc Combo Double",
+    "description": "",
+    "section": "rocket fried chicken"
+  },
+  {
+    "price": "44907",
+    "name": "Rfc Combo Single",
+    "description": "",
+    "section": "rocket fried chicken"
+  },
+  {
+    "price": "31999",
+    "name": "Junior Cheese Burger",
+    "description": "",
+    "section": "promo"
+  },
+  {
+    "price": "286000",
+    "name": "Ramadan 2",
+    "description": "4 Burger Reguler (Route 66, Smoke House Single, Bacon Cheddar Single, Spicy Houston), 1 American Fries, 1 Onion Rings, 4 Ice Tea.",
+    "section": "ramadan package"
+  },
+  {
+    "price": "218900",
+    "name": "Ramadan 1",
+    "description": "3 Burger Reguler (Route 66, Smoke House Single, Bacon Cheddar Single), 1 American Fries & 3 Ice Tea.",
+    "section": "ramadan package"
+  }
+]

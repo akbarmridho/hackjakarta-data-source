@@ -1,0 +1,1082 @@
+[
+  {
+    "price": "38500",
+    "name": "2 Special Chicken Fried Rice",
+    "description": "Nasi Goreng + Baso + Ayam + Telor Dadar/Ceplok + Kerupuk",
+    "section": "today's offer"
+  },
+  {
+    "price": "39600",
+    "name": "2 Nasi Goreng Seafood",
+    "description": "Nasi Goreng + Baso + Udang + Cumi + Kerupuk",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Nasi Goreng Sosis",
+    "description": "Fried Rice + Baso + Mixed Egg + Sausage + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "17050",
+    "name": "Salted Fish Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Salted Fish + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "17050",
+    "name": "Gizzard Liver Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Liver Gizzard + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Beef Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Beef + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Omelette + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fried Rice + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Mixed Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "4950",
+    "name": "White Rice",
+    "description": "White Rice 1 Portion",
+    "section": "today's offer"
+  },
+  {
+    "price": "18150",
+    "name": "Crazy Chicken Fried Rice",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Crazy Beef Fried Rice",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Nasi Goreng Gila Seafood",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Shrimp + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Black Pepper Chicken Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Black Pepper Beef Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Nasi Goreng Seafood Lada Hitam",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Black Pepper Chicken White Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19250",
+    "name": "Black Pepper Beef White Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19250",
+    "name": "Black Seafood White Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Chicken Fried Rice Martabak",
+    "description": "Fried Rice Filled With Chicken Wrapped In Big Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "21450",
+    "name": "Salted Fish Fried Rice Martabak",
+    "description": "Fried Rice Filled With Medan Anchovies Wrapped In A Large Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "22550",
+    "name": "Beef Fried Rice Martabak",
+    "description": "Fried Rice Filled With Beef Wrapped In Big Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "23100",
+    "name": "Martabak Nasi Goreng Seafood",
+    "description": "Fried Rice Filled With Prawns + Squid Wrapped In A Large Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "24750",
+    "name": "Mixed Fried Rice Martabak",
+    "description": "Fried Rice Filled With Prawns + Squid + Beef Wrapped In Large Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "16500",
+    "name": "Mie Goreng Ayam",
+    "description": "Fried Noodles + Baso + Mixed Eggs + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Baso + Mixed Eggs + Omelet + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "15950",
+    "name": "Kwetiaw Goreng Ayam",
+    "description": "Fried Kwetiau + Meatball + Mixed Eggs + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "16500",
+    "name": "Bihun Goreng Ayam",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Mie Goreng Seafood",
+    "description": "Fried Noodles + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Cooked Vermicelli In Soup",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Lomi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Siram",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "18150",
+    "name": "Vermicelli Flush",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "16500",
+    "name": "Plain Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Touk Tofu",
+    "section": "today's offer"
+  },
+  {
+    "price": "18150",
+    "name": "Chicken Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Chicken + Tofu",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Beefstick + Tofu",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Sapo Tofu Seafood",
+    "description": "Fried Vegetable Sauce + Shrimp + Squid + Tofu",
+    "section": "today's offer"
+  },
+  {
+    "price": "18150",
+    "name": "Capcay Goreng Ayam",
+    "description": "Fried Gravy Vegetables + Baso + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "18150",
+    "name": "Chicken Gravy Capcay",
+    "description": "Gravy Capcay + Meatball + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Goreng Spesial",
+    "description": "Fried Kwetiau + Baso + Mixed Eggs + Omelette + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Special Fried Vermicelli",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Omelet + Chicken + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Fried Noodle Mix",
+    "description": "Fried Noodles + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Goreng Seafood",
+    "description": "Fried Kwetiau + Baso + Mixed Eggs + Shrimp + Squid + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Bihun Goreng Seafood",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Soup Cooked Noodles",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20350",
+    "name": "Kwetiaw Goreng Campur",
+    "description": "Fried Kwetiau + Baso + Mixed Egg + Shrimp, Squid, Bland + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Bihun Goreng Campur",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Ifomi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Masak Kuah",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Goreng Sapi",
+    "description": "Fried Gravy Vegetables + Baso + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Gravy Capcay",
+    "description": "Gravy Capcay + Baso + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Goreng Seafood",
+    "description": "Fried Gravy Vegetables + Baso + Shrimp + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Kuah Seafood",
+    "description": "Gravy Capcay + Baso + Squid Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "16500",
+    "name": "Stir Fried Water Spinach With Chicken",
+    "description": "Stir-Fried Kale + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Stir Fried Water Spinach With Beef",
+    "description": "Stir-Fried Kale + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Kangkung Cah Seafood",
+    "description": "Stir-Fried Kale + Shrimp + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Soy Sauce Fried Chicken",
+    "description": "5 Fried Chicken Pieces + Soy Sauce Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Ayam Goreng Rica-Rica",
+    "description": "5 Pieces Of Fried Chicken + Padang Sauce Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Butter Fried Chicken",
+    "description": "5 Pieces Of Fried Chicken + Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Floured Fried Chicken",
+    "description": "Small Chicken Fillet With Flour + Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Dry Fried Gourami Fish",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Ayam Goreng Kluyuk",
+    "description": "Small Chicken Fillet With Flour + Sweet And Sour Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Padang Sauce Gourami Fish",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Butter Fried Gourami Fish",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Oyster Sauce Gourami Fish",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Sweet And Sour Gourami Fish",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "56000",
+    "name": "Gourami Blackpepper",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Soy Sauce Fried Prawns",
+    "description": "Fried Flour Shrimp + Soy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Udang Goreng Rica-Rica",
+    "description": "Fried Flour Shrimp + Padang Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Udang Saus Tiram",
+    "description": "Fried Flour Shrimp + Oyster Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Kuluyuk Shrimp",
+    "description": "Fried Flour Shrimp + Sweet And Sour Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Floured Fried Squid",
+    "description": "Flour Fried Squid + Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Goreng Rica-Rica",
+    "description": "Flour Fried Squid + Padang Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Fried Squid With Soy Sauce",
+    "description": "Fried Flour Squid + Soy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Penyet Chicken",
+    "description": "White Rice + Smashed Chicken + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "16000",
+    "name": "Telor Goreng Rica-Rica",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Asam Manis",
+    "description": "Flour Fried Squid + Sweet And Sour Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Saus Tiram",
+    "description": "Flour Fried Squid + Oyster Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "7200",
+    "name": "Telor Dadar",
+    "description": "Eggs In Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "7200",
+    "name": "Sunny Side Up",
+    "description": "Eggs Are Fried With Sunny Side Up",
+    "section": "today's offer"
+  },
+  {
+    "price": "16000",
+    "name": "Telor Goreng Udang",
+    "description": "Omelette Mixed With Prawns",
+    "section": "today's offer"
+  },
+  {
+    "price": "32800",
+    "name": "Complete Squeezed Chicken",
+    "description": "White Rice + Smashed Chicken + Tofu + Tempeh + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "26400",
+    "name": "Fuyung Hai",
+    "description": "Cabbage + Carrots + Green Onions + Chopped Chicken + Flour + Oyster Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "6400",
+    "name": "Teh Manis Hangat",
+    "description": "Hot/Hot Sweet Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "6400",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Tea + Ice Cubes",
+    "section": "today's offer"
+  },
+  {
+    "price": "9600",
+    "name": "Jeruk Hangat",
+    "description": "Warm/Hot Oranges",
+    "section": "today's offer"
+  },
+  {
+    "price": "9600",
+    "name": "Es Jeruk",
+    "description": "Orange Squeeze + Ice",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "2 Special Chicken Fried Rice",
+    "description": "Nasi Goreng + Baso + Ayam + Telor Dadar/Ceplok + Kerupuk",
+    "section": "brand week festival"
+  },
+  {
+    "price": "39600",
+    "name": "2 Nasi Goreng Seafood",
+    "description": "Nasi Goreng + Baso + Udang + Cumi + Kerupuk",
+    "section": "brand week festival"
+  },
+  {
+    "price": "15400",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Chicken + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "15400",
+    "name": "Nasi Goreng Sosis",
+    "description": "Fried Rice + Baso + Mixed Egg + Sausage + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "17050",
+    "name": "Salted Fish Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Salted Fish + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "17050",
+    "name": "Gizzard Liver Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Liver Gizzard + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "19800",
+    "name": "Beef Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Beef + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "19800",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Omelette + Chicken + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "19800",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fried Rice + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "20350",
+    "name": "Mixed Fried Rice",
+    "description": "Fried Rice + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "fried rice"
+  },
+  {
+    "price": "4950",
+    "name": "White Rice",
+    "description": "White Rice 1 Portion",
+    "section": "fried rice"
+  },
+  {
+    "price": "18150",
+    "name": "Crazy Chicken Fried Rice",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Chicken",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20350",
+    "name": "Crazy Beef Fried Rice",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Beef",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20350",
+    "name": "Nasi Goreng Gila Seafood",
+    "description": "Soy Sauce Fried Rice Doused In Oyster Sauce + Sausage + Shrimp + Squid",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "19800",
+    "name": "Black Pepper Chicken Fried Rice",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "20900",
+    "name": "Black Pepper Beef Fried Rice",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "20900",
+    "name": "Nasi Goreng Seafood Lada Hitam",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "18700",
+    "name": "Black Pepper Chicken White Rice",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "19250",
+    "name": "Black Pepper Beef White Rice",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "19250",
+    "name": "Black Seafood White Rice",
+    "description": "",
+    "section": "black pepper fried rice"
+  },
+  {
+    "price": "20900",
+    "name": "Chicken Fried Rice Martabak",
+    "description": "Fried Rice Filled With Chicken Wrapped In Big Omelet",
+    "section": "fried rice martabak"
+  },
+  {
+    "price": "21450",
+    "name": "Salted Fish Fried Rice Martabak",
+    "description": "Fried Rice Filled With Medan Anchovies Wrapped In A Large Omelet",
+    "section": "fried rice martabak"
+  },
+  {
+    "price": "22550",
+    "name": "Beef Fried Rice Martabak",
+    "description": "Fried Rice Filled With Beef Wrapped In Big Omelet",
+    "section": "fried rice martabak"
+  },
+  {
+    "price": "23100",
+    "name": "Martabak Nasi Goreng Seafood",
+    "description": "Fried Rice Filled With Prawns + Squid Wrapped In A Large Omelet",
+    "section": "fried rice martabak"
+  },
+  {
+    "price": "24750",
+    "name": "Mixed Fried Rice Martabak",
+    "description": "Fried Rice Filled With Prawns + Squid + Beef Wrapped In Large Omelet",
+    "section": "fried rice martabak"
+  },
+  {
+    "price": "16500",
+    "name": "Mie Goreng Ayam",
+    "description": "Fried Noodles + Baso + Mixed Eggs + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Baso + Mixed Eggs + Omelet + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "15950",
+    "name": "Kwetiaw Goreng Ayam",
+    "description": "Fried Kwetiau + Meatball + Mixed Eggs + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "16500",
+    "name": "Bihun Goreng Ayam",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Mie Goreng Seafood",
+    "description": "Fried Noodles + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Goreng Spesial",
+    "description": "Fried Kwetiau + Baso + Mixed Eggs + Omelette + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Special Fried Vermicelli",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Omelet + Chicken + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20900",
+    "name": "Fried Noodle Mix",
+    "description": "Fried Noodles + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Goreng Seafood",
+    "description": "Fried Kwetiau + Baso + Mixed Eggs + Shrimp + Squid + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Bihun Goreng Seafood",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Shrimp + Squid + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Soup Cooked Noodles",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Kwetiaw Goreng Campur",
+    "description": "Fried Kwetiau + Baso + Mixed Egg + Shrimp, Squid, Bland + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20900",
+    "name": "Bihun Goreng Campur",
+    "description": "Fried Vermicelli + Baso + Mixed Egg + Shrimp, Squid, Beef + Crackers",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Ifomi",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Masak Kuah",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "18700",
+    "name": "Cooked Vermicelli In Soup",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "20350",
+    "name": "Lomi",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "19800",
+    "name": "Kwetiaw Siram",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "18150",
+    "name": "Vermicelli Flush",
+    "description": "",
+    "section": "mie & bihun & kwetiau goreng"
+  },
+  {
+    "price": "16500",
+    "name": "Plain Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Touk Tofu",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "18150",
+    "name": "Chicken Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Chicken + Tofu",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Tofu Sapo",
+    "description": "Fried Vegetable Sauce + Beefstick + Tofu",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Sapo Tofu Seafood",
+    "description": "Fried Vegetable Sauce + Shrimp + Squid + Tofu",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "18150",
+    "name": "Capcay Goreng Ayam",
+    "description": "Fried Gravy Vegetables + Baso + Chicken",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "18150",
+    "name": "Chicken Gravy Capcay",
+    "description": "Gravy Capcay + Meatball + Chicken",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Goreng Sapi",
+    "description": "Fried Gravy Vegetables + Baso + Beef",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Gravy Capcay",
+    "description": "Gravy Capcay + Baso + Beef",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Goreng Seafood",
+    "description": "Fried Gravy Vegetables + Baso + Shrimp + Squid",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "20900",
+    "name": "Capcay Kuah Seafood",
+    "description": "Gravy Capcay + Baso + Squid Shrimp",
+    "section": "capcay, tofu sapo"
+  },
+  {
+    "price": "16500",
+    "name": "Stir Fried Water Spinach With Chicken",
+    "description": "Stir-Fried Kale + Chicken",
+    "section": "stir fried water spinach"
+  },
+  {
+    "price": "19800",
+    "name": "Stir Fried Water Spinach With Beef",
+    "description": "Stir-Fried Kale + Beef",
+    "section": "stir fried water spinach"
+  },
+  {
+    "price": "19800",
+    "name": "Kangkung Cah Seafood",
+    "description": "Stir-Fried Kale + Shrimp + Squid",
+    "section": "stir fried water spinach"
+  },
+  {
+    "price": "29400",
+    "name": "Soy Sauce Fried Chicken",
+    "description": "5 Fried Chicken Pieces + Soy Sauce Seasoning",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "29400",
+    "name": "Ayam Goreng Rica-Rica",
+    "description": "5 Pieces Of Fried Chicken + Padang Sauce Seasoning",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "29400",
+    "name": "Butter Fried Chicken",
+    "description": "5 Pieces Of Fried Chicken + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "29400",
+    "name": "Floured Fried Chicken",
+    "description": "Small Chicken Fillet With Flour + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Dry Fried Gourami Fish",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "29400",
+    "name": "Ayam Goreng Kluyuk",
+    "description": "Small Chicken Fillet With Flour + Sweet And Sour Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Padang Sauce Gourami Fish",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Butter Fried Gourami Fish",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Oyster Sauce Gourami Fish",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Sweet And Sour Gourami Fish",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "56000",
+    "name": "Gourami Blackpepper",
+    "description": "",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "42000",
+    "name": "Beef Steak",
+    "description": "Minced Beef With Flour + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "42000",
+    "name": "Ayam Goreng Nanking",
+    "description": "Small Chicken Fillet With Flour + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "42000",
+    "name": "Bistik Ayam",
+    "description": "Minced Chicken With Flour + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "42000",
+    "name": "Bistik Udang",
+    "description": "Shrimp Minced Using Flour + Butter Sauce",
+    "section": "fried chicken fried gourami"
+  },
+  {
+    "price": "29400",
+    "name": "Soy Sauce Fried Prawns",
+    "description": "Fried Flour Shrimp + Soy Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Udang Goreng Rica-Rica",
+    "description": "Fried Flour Shrimp + Padang Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Udang Saus Tiram",
+    "description": "Fried Flour Shrimp + Oyster Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Kuluyuk Shrimp",
+    "description": "Fried Flour Shrimp + Sweet And Sour Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Floured Fried Squid",
+    "description": "Flour Fried Squid + Butter Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Goreng Rica-Rica",
+    "description": "Flour Fried Squid + Padang Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Fried Squid With Soy Sauce",
+    "description": "Fried Flour Squid + Soy Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Asam Manis",
+    "description": "Flour Fried Squid + Sweet And Sour Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "29400",
+    "name": "Cumi Saus Tiram",
+    "description": "Flour Fried Squid + Oyster Sauce",
+    "section": "shrimp flour fried squid"
+  },
+  {
+    "price": "7200",
+    "name": "Telor Dadar",
+    "description": "Eggs In Omelet",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "7200",
+    "name": "Sunny Side Up",
+    "description": "Eggs Are Fried With Sunny Side Up",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Telor Goreng Udang",
+    "description": "Omelette Mixed With Prawns",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "30400",
+    "name": "Penyet Chicken",
+    "description": "White Rice + Smashed Chicken + Lalapan + Sambal",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Telor Goreng Rica-Rica",
+    "description": "",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "32800",
+    "name": "Complete Squeezed Chicken",
+    "description": "White Rice + Smashed Chicken + Tofu + Tempeh + Lalapan + Sambal",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "26400",
+    "name": "Fuyung Hai",
+    "description": "Cabbage + Carrots + Green Onions + Chopped Chicken + Flour + Oyster Sauce",
+    "section": "egg smashed chicken"
+  },
+  {
+    "price": "6400",
+    "name": "Teh Manis Hangat",
+    "description": "Hot/Hot Sweet Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "6400",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Tea + Ice Cubes",
+    "section": "minuman"
+  },
+  {
+    "price": "9600",
+    "name": "Jeruk Hangat",
+    "description": "Warm/Hot Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "9600",
+    "name": "Es Jeruk",
+    "description": "Orange Squeeze + Ice",
+    "section": "minuman"
+  }
+]

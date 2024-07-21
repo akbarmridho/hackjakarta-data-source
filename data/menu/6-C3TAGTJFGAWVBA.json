@@ -1,0 +1,260 @@
+[
+  {
+    "price": "19000",
+    "name": "Enoki Mushroom Seblak",
+    "description": "Eggs, Crackers, Caisim, Kwetiaw, Enoki Mushrooms",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Fried Egg Seblak",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Macaroni",
+    "description": "Eggs, Caisim, Mushrooms, Kwetiaw, Crackers, Macaroni",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Mushroom Seblak",
+    "description": "Eggs, Caisim, Crackers, Kwetiaw, Mushrooms",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Seblak Combination",
+    "description": "Eggs, Crackers, Caisim, Mushrooms, Kwetiaw, Noodles, Meatballs, Sausages, Macaroni, Bones, Chicken Feet, Wings",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Kwetiaw",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Egg Seblak",
+    "description": "Eggs, Kwetiaw, Mushrooms, Caisim, Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Bone Hot And Spicy Cracker Stew With Chicken Feet",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers, Bones, Chicken Feet",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Noodle Seblak",
+    "description": "Eggs, Kwetiaw, Casim, Mushrooms, Crackers, Noodles",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Cracker Stew",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Various Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Seafood Seblak",
+    "description": "Eggs, Kwetiaw, Crackers, Mushrooms, Caisim, Chicken Dumplings, Cheese Dumplings, Chikuwa, Fish, Crab Stick, Macaroni",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Spicy Meatballs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Seblak Sausage Meatballs",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms, Meatballs, Sausages",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Spicy Chicken Feet Contains 5",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "Wings Hot Spicy Stew",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers, Wings",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Chicken Feet Seblak",
+    "description": "Eggs, Kwetiaw, Mushrooms, Caisim, Crackers, Chicken Feet",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Bone Seblak",
+    "description": "Eggs, Kwetiaw, Crackers, Mushrooms, Caisim, Bones",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Sausage",
+    "description": "Eggs, Crackers, Mushrooms, Kwetiaw, Caisim, Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Meatballs",
+    "description": "Eggs, Crackers, Mushrooms, Kwetiaw, Caisim, Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "12000",
+    "name": "Seblak Original",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Enoki Mushroom Seblak",
+    "description": "Eggs, Crackers, Caisim, Kwetiaw, Enoki Mushrooms",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Fried Egg Seblak",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Macaroni",
+    "description": "Eggs, Caisim, Mushrooms, Kwetiaw, Crackers, Macaroni",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Mushroom Seblak",
+    "description": "Eggs, Caisim, Crackers, Kwetiaw, Mushrooms",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "35000",
+    "name": "Seblak Combination",
+    "description": "Eggs, Crackers, Caisim, Mushrooms, Kwetiaw, Noodles, Meatballs, Sausages, Macaroni, Bones, Chicken Feet, Wings",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Kwetiaw",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Egg Seblak",
+    "description": "Eggs, Kwetiaw, Mushrooms, Caisim, Crackers",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "27000",
+    "name": "Bone Hot And Spicy Cracker Stew With Chicken Feet",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers, Bones, Chicken Feet",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Noodle Seblak",
+    "description": "Eggs, Kwetiaw, Casim, Mushrooms, Crackers, Noodles",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Cracker Stew",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Various Crackers",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "35000",
+    "name": "Seafood Seblak",
+    "description": "Eggs, Kwetiaw, Crackers, Mushrooms, Caisim, Chicken Dumplings, Cheese Dumplings, Chikuwa, Fish, Crab Stick, Macaroni",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "17000",
+    "name": "Seblak Sausage Meatballs",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms, Meatballs, Sausages",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "22000",
+    "name": "Wings Hot Spicy Stew",
+    "description": "Eggs, Kwetiaw, Caisim, Mushrooms, Crackers, Wings",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "19000",
+    "name": "Chicken Feet Seblak",
+    "description": "Eggs, Kwetiaw, Mushrooms, Caisim, Crackers, Chicken Feet",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "19000",
+    "name": "Bone Seblak",
+    "description": "Eggs, Kwetiaw, Crackers, Mushrooms, Caisim, Bones",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Sausage",
+    "description": "Eggs, Crackers, Mushrooms, Kwetiaw, Caisim, Sausage",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "15000",
+    "name": "Seblak Meatballs",
+    "description": "Eggs, Crackers, Mushrooms, Kwetiaw, Caisim, Meatballs",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "12000",
+    "name": "Seblak Original",
+    "description": "Eggs, Crackers, Kwetiaw, Caisim, Mushrooms",
+    "section": "various hot spicy stew\""
+  },
+  {
+    "price": "17000",
+    "name": "Spicy Meatballs",
+    "description": "",
+    "section": "tapioca meatballs other menu"
+  },
+  {
+    "price": "17000",
+    "name": "Spicy Chicken Feet Contains 5",
+    "description": "",
+    "section": "tapioca meatballs other menu"
+  },
+  {
+    "price": "20000",
+    "name": "Otak Otak Mercon",
+    "description": "",
+    "section": "tapioca meatballs other menu"
+  },
+  {
+    "price": "18000",
+    "name": "Mozarella Tapioca Meatballs",
+    "description": "Baso Aci Mozzarella (Filling 6), Smashed Tofu (Contains 1), Cuanki Lidah (Contains 1), Mini Fried Dumplings, Pilus Cikur, Cuanki Seasoning, Lime, Lime",
+    "section": "tapioca meatballs other menu"
+  },
+  {
+    "price": "18000",
+    "name": "Bakso Aci Ayam Suir",
+    "description": "Baso Aci Shredded Chicken (Fill 6), Smashed Tofu (Contains 1), Cuanki Lidah (Contains 1), Mini Fried Dumplings, Pilus Cikur, Cuanki Seasoning, Lime, Lime",
+    "section": "tapioca meatballs other menu"
+  }
+]

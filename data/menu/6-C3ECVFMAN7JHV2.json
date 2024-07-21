@@ -1,0 +1,248 @@
+[
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Honey Chicken Bbq",
+    "description": "Savory Fragrant Hainam Rice Combined With Special Sweet, Savory And Fragrant Seasoned Chicken. Absolutely Halal",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Taiwanese Chicken",
+    "description": "Fragrant Hainam Rice Combined With Fried Chicken Sprinkled With Spicy Savory Spicy Seasoning. Absolutely Halal",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Korean Chicken",
+    "description": "Fragrant Hainam Rice Combined With Sweet Seasoned Chicken, Sour, Korean Style. Absolutely Halal",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Black Pepper Chicken",
+    "description": "Fragrant Hainam Rice Combined With Delicious Black Pepper Chicken (Slight). Absolutely Halal",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Chinese Butter Chicken (Ayam Mentega)",
+    "description": "Fragrant Hainam Rice With Fragrant Butter Sauce Chicken. Absolutely Halal",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Roasted Chicken",
+    "description": "Fragrant Hainam Rice With Roasted Chicken Thighs. Completed With Sambal And Gravy. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Rice With Chicken",
+    "description": "Savory Fragrant Hainam Rice Combined With Sweet, Savory And Delicious Chasiu Chicken Thighs. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Steam Chicken",
+    "description": "Hainam Rice With Boiled Breast Chicken. Completed With Chili Sauce And Chicken Splash Sauce. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "40000",
+    "name": "Hainam Bowls With Crispy Chicken",
+    "description": "Raw/Fried (If There Is No Description, We Assume Fried)",
+    "section": "rice"
+  },
+  {
+    "price": "60000",
+    "name": "Hainam Special Mix",
+    "description": "Hainam Rice With 3 Chicken Flavor Choices Plus Our Special Dumplings Which Is A Really Satisfying Combination. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "33000",
+    "name": "Chicken Team Rice",
+    "description": "Hainam Bowls Special Chicken Steamed Rice. Delicious And Suit Best On Your Tongue. Completed With Chili Sauce. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "29000",
+    "name": "Economical Skin Rice",
+    "description": "Fragrant Hainam Rice Perfected With Crispy Fried Chicken Skin And Orange Sambal. Absolutely Halal",
+    "section": "rice"
+  },
+  {
+    "price": "41000",
+    "name": "Grilled Chicken Noodles",
+    "description": "Chewy Noodles Perfected With Delicious Grilled Chicken Thighs. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "41000",
+    "name": "Mie Ayam Chasiu",
+    "description": "Chewy Noodles Topped With Grilled Chasiu Chicken Thighs. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "40000",
+    "name": "Mie Ayam Crispy",
+    "description": "Chewy Noodles Topped With Crispy Fried Chicken. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "60000",
+    "name": "Special Mix Noodle",
+    "description": "Chewy Noodles With 3 Kinds Of Chicken (Roased, Chasiu, Steam) Complemented With Crispy Chicken Skin / Fried Dumplings. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "38000",
+    "name": "Mie Ayam Special",
+    "description": "Special Chewy Noodles, Special Chicken, Vegetables And Delicious Broth. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "43000",
+    "name": "Mie Ayam Special Pangsit Rebus",
+    "description": "Our Special Chewy Noodles Completed With 2 Boiled Dumplings, Vegetables And Delicious Broth. Absolutely Halal",
+    "section": "mie"
+  },
+  {
+    "price": "49000",
+    "name": "Mie Ayam Kuotie",
+    "description": "Chewy Noodles Sprinkled With Special Chicken With 3 Pieces Of Kuotie",
+    "section": "mie"
+  },
+  {
+    "price": "18000",
+    "name": "Mie Polos",
+    "description": "Plain Chewy Noodles Without Meat, Completed With Gravy",
+    "section": "mie"
+  },
+  {
+    "price": "22000",
+    "name": "Fried Meatballs Contains 2",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "12000",
+    "name": "Plain Hainam Rice",
+    "description": "Savory Fragrant Hainam Rice",
+    "section": "additional"
+  },
+  {
+    "price": "22000",
+    "name": "Gembul Chicken Siomay Contains 2",
+    "description": "Special Smashed Chicken Siomay Of Ayam, 2 Pcs Of Delicious Surprise, Completed With Chocolate Sauce. Once Try To Paste It Again",
+    "section": "additional"
+  },
+  {
+    "price": "22000",
+    "name": "Fried Dumplings Contains 5 Pcs",
+    "description": "Crispy And Delicious Fried Dumplings",
+    "section": "additional"
+  },
+  {
+    "price": "22000",
+    "name": "Wonton Soup / Pangsit Ayam Rebus (Isi 5)",
+    "description": "Boiled Chicken Dumplings Accompanied By Vegetables And Chicken Broth. Absolutely Halal",
+    "section": "additional"
+  },
+  {
+    "price": "28000",
+    "name": "Kuotie Isi 5",
+    "description": "Kuotie Filled With Chicken With Vegetables Completed With Dipping Sauce",
+    "section": "additional"
+  },
+  {
+    "price": "56000",
+    "name": "Kuotie Isi 10",
+    "description": "Kuotie Filled With Chicken With Vegetables Completed With Dipping Sauce",
+    "section": "additional"
+  },
+  {
+    "price": "29000",
+    "name": "Crispy Chicken",
+    "description": "Crispy Fried Chicken Crispy Savory Completed With Orange Sambal",
+    "section": "additional"
+  },
+  {
+    "price": "25000",
+    "name": "No Meat Fried Rice (Contains Egg And Onions)",
+    "description": "Fried Rice With Various Vegetables And Eggs. Sprinkled With Fried Onions And Scallions. Complemented With Wonton Chips As The Complement",
+    "section": "new menu!"
+  },
+  {
+    "price": "25000",
+    "name": "No Meat Fried Noodles (Contains Egg And Onion)",
+    "description": "Egg Fried Noodles Perfected With Green Vegetables, Scallions And Fried Onions. Completed With Dumpling Chips As A Exciting Meal Chips",
+    "section": "new menu!"
+  },
+  {
+    "price": "42000",
+    "name": "Fried Rice With Chicken Topping",
+    "description": "Fried Rice With Stuffed Various Vegetables And Eggs With A Choice Of Chicken Toppings With A Distinctive Taste. Sprinkled With Fried Onions And Green Onions. Complemented With Wonton Chips As The Complement",
+    "section": "new menu!"
+  },
+  {
+    "price": "42000",
+    "name": "Fried Noodles With Chicken Topping (Brewed With Egg And Onion)",
+    "description": "Egg Topping Noodles That Are Complemented With Green Vegetables, Green Onions And Fried Onions. Completed With Dumpling Chips As Exciting Meals",
+    "section": "new menu!"
+  },
+  {
+    "price": "12000",
+    "name": "Liang Tea",
+    "description": "Healthy Drinks From Deep-Sized Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Lo Han Kuo",
+    "description": "Healthy Drinks From Deep-Sized Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Lemon Telang",
+    "description": "Healthy Drinks Are Ingredientd As An Antisadang Good For Body Importion",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Chrysanthemum Tea",
+    "description": "Healthy Drinks From Deep-Sized Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Jahe Lemon",
+    "description": "Healthy Drinks From Red Ginger And Good Lemon For Body Imported",
+    "section": "minuman"
+  },
+  {
+    "price": "45000",
+    "name": "Package 4 Bottles (Can Choose Flavors)",
+    "description": "Healthy Drink Coated In The Inside, Can You Mix It",
+    "section": "minuman"
+  },
+  {
+    "price": "68000",
+    "name": "Package 6 Bottles (Can Choose Flavors)",
+    "description": "Healthy Drink Coated In The Inside, Can You Mix It",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Mix Tea",
+    "description": "(Lohankuo, Liang Tea, French Tea). Healthy Drink Of Roasted Heat Inside",
+    "section": "minuman"
+  },
+  {
+    "price": "160000",
+    "name": "Hampers Imlek Siomay Box",
+    "description": "",
+    "section": "hampers imlek"
+  }
+]

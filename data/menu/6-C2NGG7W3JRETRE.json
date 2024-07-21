@@ -1,0 +1,362 @@
+[
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "20000",
+    "name": "Regular Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "21500",
+    "name": "Nasi Goreng Sosis",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "24500",
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "24500",
+    "name": "Gizzard Liver Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "24500",
+    "name": "Salted Fish Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "26800",
+    "name": "Nasi Goreng Special",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "26500",
+    "name": "Beef Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "28000",
+    "name": "Crazy Fried Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "26500",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "24000",
+    "name": "Crazy Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "24500",
+    "name": "Gizzard Liver Fried Noodles",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "24500",
+    "name": "Mie Goreng Ayam",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "27000",
+    "name": "Beef Fried Noodles",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "22000",
+    "name": "Mie Goreng Biasa",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "27000",
+    "name": "Mie Goreng Seafood",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "27000",
+    "name": "Special Fried Noodles",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Kuah Seafood",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "26000",
+    "name": "Beef Noodle Soup",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Noodle Soup",
+    "description": "",
+    "section": "aneka mie"
+  },
+  {
+    "price": "22000",
+    "name": "Regular Fried Vermicelli",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "25000",
+    "name": "Bihun Goreng Ayam",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "25000",
+    "name": "Bihun Goreng Ati Ampela",
+    "description": "",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "27000",
+    "name": "Bihun Goreng Special",
+    "description": "",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Beef Fried Vermicelli",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Goreng Seafood",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "24000",
+    "name": "Chicken Gravy Cooked Vermicelli",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Cooked Vermicelli With Beef Soup",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "27000",
+    "name": "Bihun Masak Seafood",
+    "description": "There Are Options: Noodles/Vermicelli",
+    "section": "aneka bihun"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiau Goreng Seafood",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "27000",
+    "name": "Fried Kwetiau With Beef",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Kwetiau Liver Gizzards",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "22500",
+    "name": "Regular Fried Flat Noodles",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "24000",
+    "name": "Kwetiau Cooked With Seafood Sauce",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "19000",
+    "name": "Kwetiau Cooked In Chicken Sauce",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "25000",
+    "name": "Beef Kwetiau",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28750",
+    "name": "Capcay Goreng Seafood",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "28750",
+    "name": "Capcay Goreng Sapi",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "26750",
+    "name": "Capcay Goreng Ayam",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "28750",
+    "name": "Capcay Kuah Seafood",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "28750",
+    "name": "Beef Gravy Capcay",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "26750",
+    "name": "Chicken Gravy Capcay",
+    "description": "",
+    "section": "aneka sayuran"
+  },
+  {
+    "price": "28000",
+    "name": "Chicken Tofu Sapo",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "29500",
+    "name": "Beef Tofu Sapo",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "29500",
+    "name": "Sapo Tofu Seafood",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "30000",
+    "name": "Fuyung Hai",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "26000",
+    "name": "Ifu Mie Ayam",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "27500",
+    "name": "Ifu Mie Sapi",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "27500",
+    "name": "Ifu Mie Seafood",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "12000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Jeruk",
+    "description": "There Are Options: Hot/Cold",
+    "section": "minuman"
+  },
+  {
+    "price": "3000",
+    "name": "Teh Tawar",
+    "description": "There Are Options: Hot/Cold",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis",
+    "description": "There Are Options: Hot/Cold",
+    "section": "minuman"
+  },
+  {
+    "price": "30500",
+    "name": "Ayam Nanking",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "30500",
+    "name": "Kuluyuk Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Padang Sauce Fried Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Butter Fried Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Ayam Goreng Saos Rica - Rica",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "30500",
+    "name": "Ayam Malaya",
+    "description": "",
+    "section": "chicken"
+  }
+]

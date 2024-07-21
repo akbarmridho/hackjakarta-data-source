@@ -1,0 +1,117 @@
+[
+  {
+    "price": "16000",
+    "name": "Mie Polos",
+    "description": "Plain Noodles Without Toppings With A Savory And Delicious Taste",
+    "section": "mie"
+  },
+  { "price": "25000", "name": "Mie Ayam", "description": "", "section": "mie" },
+  {
+    "price": "32000",
+    "name": "Special Noodles",
+    "description": "Small Noodles With 2 Pcs Of Meatballs, 1Pc Boiled Dumplings And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Ayam Baso",
+    "description": "Small Noodles With 2 Pcs Of Beef Meatballs And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "27000",
+    "name": "Dumpling Chicken Noodles",
+    "description": "Small Noodles With 2 Pcs Of Boiled Pngs And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "25000",
+    "name": "Wide Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "32000",
+    "name": "Special Wide Noodles",
+    "description": "Wide Noodles With 2Pcs Of Beef Meatballs, 1Pc Boiled Dumplings And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Lebar Baso",
+    "description": "Wide Noodles With 2 Pcs Of Beef Meatballs And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "25000",
+    "name": "Wide Noodle Dumplings",
+    "description": "Wide Noodles With 2Pcs Boiled Dumplings And Lalapan",
+    "section": "mie"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Vermicelli",
+    "description": "Vermicelli With A Savory And Delicious Chicken Processing",
+    "section": "vermicelli"
+  },
+  {
+    "price": "32000",
+    "name": "Dumpling Meatball Chicken Vermicelli",
+    "description": "Chicken Vermicelli + 2 Beef Meatballs + 1 Boiled Dumpling",
+    "section": "vermicelli"
+  },
+  {
+    "price": "28000",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "Chicken Vermicelli + 2 Pcs Of Meatballs",
+    "section": "vermicelli"
+  },
+  {
+    "price": "27000",
+    "name": "Dumpling Chicken Vermicelli",
+    "description": "Rice Noodles With Processed Chicken + 2 Boiled Dumplings",
+    "section": "vermicelli"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Rice Noodle",
+    "description": "Kwetiau With A Savory And Delicious Chicken Processing.",
+    "section": "kwetiau"
+  },
+  {
+    "price": "32000",
+    "name": "Special Chicken Kwetiau",
+    "description": "Chicken Kwetiau + 2Pcs Of Beef Meatball + 1 Boiled Dumpling",
+    "section": "kwetiau"
+  },
+  {
+    "price": "28000",
+    "name": "Kwetiau Ayam Baso",
+    "description": "Chicken Kwetiau With 2Pcs Of Beef Baso",
+    "section": "kwetiau"
+  },
+  {
+    "price": "27000",
+    "name": "Dumpling Chicken Noodles",
+    "description": "Chicken Kwetiau With 2Pcs Boiled Dumplings",
+    "section": "kwetiau"
+  },
+  {
+    "price": "23000",
+    "name": "Meatball Soup",
+    "description": "Made From Selected Beef, Chewy And Delicious.",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Boiled Dumplings",
+    "description": "Dumplings Filled With Processed Fresh Chicken Meat, Delicious And Halal. 1 Portion Contains 5 Pcs",
+    "section": "others"
+  },
+  {
+    "price": "25000",
+    "name": "Tim Rice",
+    "description": "Chicken And Mushroom Steamed Rice Cooked In Soy Sauce. Halal",
+    "section": "others"
+  }
+]

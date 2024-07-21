@@ -1,0 +1,74 @@
+[
+  {
+    "price": "33000",
+    "name": "Snorbet Passion Fruit",
+    "description": "Fresh A Little Sour Made From Real Passion Fruit",
+    "section": "snorbet (without milk)"
+  },
+  {
+    "price": "33000",
+    "name": "3000",
+    "description": "Using Original Strawberries Imported Usa, Not Sour.",
+    "section": "snorbet (without milk)"
+  },
+  {
+    "price": "33000",
+    "name": "Smooth Dragon Fruit",
+    "description": "Made From Real Dragon Fruit Without Coloring Or Ese",
+    "section": "snorbet (without milk)"
+  },
+  {
+    "price": "33000",
+    "name": "Grabbet Lemon",
+    "description": "Freshly Squeze Lemon, Renreshing!",
+    "section": "snorbet (without milk)"
+  },
+  {
+    "price": "33000",
+    "name": "Snorbet Mix Beries",
+    "description": "Mix Strawberry, Blueberry Raspberry",
+    "section": "snorbet (without milk)"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Crunchy Cocontut",
+    "description": "Coconut Flavor With Crunchy Coco Topping",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Cookies Cream",
+    "description": "Gelato Vanilla Topped With Oreo Milkies",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Matcha Green Tea",
+    "description": "Matcha Order From Kyyoto, Japan",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Espresso",
+    "description": "Fresh Brewresso From Coffee Machine, 100% Arabica Beans",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Caramel Tokyo Banana",
+    "description": "",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Ny Cheese Cake",
+    "description": "",
+    "section": "gelato"
+  },
+  {
+    "price": "33000",
+    "name": "Gelato Choco Bueno",
+    "description": "A Combination Of Chocolate Nutella Flavor And Dulce De Lechee And A Sprinkling Of Warolut",
+    "section": "gelato"
+  }
+]

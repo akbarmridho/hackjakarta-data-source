@@ -1,0 +1,392 @@
+[
+  {
+    "price": "27550",
+    "name": "Chicken Satay 10 Skewers",
+    "description": "10 Chicken Satay Mixed With Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "35150",
+    "name": "Chicken Satay 10 Skewers With White Rice",
+    "description": "10 Skewers Of Chicken Satay And White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Rice Cakes",
+    "description": "Lontong 1 Fruit",
+    "section": "today's offer"
+  },
+  {
+    "price": "41325",
+    "name": "Taichan Satay 15 Skewers Mixed With Skin",
+    "description": "Taichan Satay 15 Skewers Mixed With Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "275500",
+    "name": "Chicken Satay 100 Skewers Free 5 Skewers",
+    "description": "Sate Ayam 100 Tsk Campur Kulit Free 5 Tsk",
+    "section": "today's offer"
+  },
+  {
+    "price": "34675",
+    "name": "Mix Satay",
+    "description": "Chicken Satay 5 Skewers + 5 Skewers Of Goat Satay",
+    "section": "today's offer"
+  },
+  {
+    "price": "133000",
+    "name": "Sate Taichan 50 Tsk Free 2 Tsk",
+    "description": "Taichan Satay 50 Tsk Seasoned",
+    "section": "today's offer"
+  },
+  {
+    "price": "133000",
+    "name": "50 Skewers Of Chicken Satay Free 2 Skewers",
+    "description": "50 Skewers Of Chicken Satay Seasoned",
+    "section": "today's offer"
+  },
+  {
+    "price": "82650",
+    "name": "Chicken Satay 30 Skewers",
+    "description": "Spices Can Be Separated Or Mixed Into 1 Pack",
+    "section": "today's offer"
+  },
+  {
+    "price": "33250",
+    "name": "Sate Taichan Lontong",
+    "description": "Taichan Satay Lontong",
+    "section": "today's offer"
+  },
+  {
+    "price": "688750",
+    "name": "Chicken Satay 250 Tsk Free 10 Skewers",
+    "description": "Chicken Satay 260 Tsk Can Be Ordered 1 Hours Sbl",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Taichan Satay",
+    "description": "Sate Taichan 10 Tsk",
+    "section": "today's offer"
+  },
+  {
+    "price": "551000",
+    "name": "Chicken Satay 200 Tsk Free 8 Skewers",
+    "description": "Chicken Satay 208 Skewers Can Be Ordered 1 Hours Sblm Eat Is Made",
+    "section": "today's offer"
+  },
+  {
+    "price": "7600",
+    "name": "Rice With White",
+    "description": "White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "413250",
+    "name": "150 Skewers Of Chicken Satay Free 5 Skewers",
+    "description": "155 Skewers Of Chicken Satay Can Be Ordered For 1 Jam Of Seblm Are Provided",
+    "section": "today's offer"
+  },
+  {
+    "price": "275500",
+    "name": "Mixed Taichan Satay 100 Skewers",
+    "description": "Taichan Satay 100 Skewers Of Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "551000",
+    "name": "Taichan Satay 200 Tsk Free 8 Tsk",
+    "description": "Taichan Satay 208 Skewers Can Be Guaranteed 1 Hours Sblm Food Is Made",
+    "section": "today's offer"
+  },
+  {
+    "price": "82650",
+    "name": "Taichan Satay 30 Skewers Mixed With Skin",
+    "description": "Taichan Satay Mixed With Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "413250",
+    "name": "Sate Taichan 150 Tsk Free 5 Tsk",
+    "description": "Taichan Satay 155 Tsk Can Be Messageed For 1 Hours Sblm Food Is Made",
+    "section": "today's offer"
+  },
+  {
+    "price": "55100",
+    "name": "Taichan Satay 20 Skewers Mixed With Skin",
+    "description": "Taichn Satay Mixed With Skin",
+    "section": "today's offer"
+  },
+  {
+    "price": "33250",
+    "name": "Chicken Satay With Rice Cakes",
+    "description": "Lontong Chicken Satay With Peanut Sauce Or Soy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "688750",
+    "name": "Chicken Satay 250 Tsk Free 10 Skewers",
+    "description": "Chicken Satay 260 Tsk Can Be Ordered 1 Hours Sbl",
+    "section": "satay dozens"
+  },
+  {
+    "price": "551000",
+    "name": "Chicken Satay 200 Tsk Free 8 Skewers",
+    "description": "Chicken Satay 208 Skewers Can Be Ordered 1 Hours Sblm Eat Is Made",
+    "section": "satay dozens"
+  },
+  {
+    "price": "413250",
+    "name": "150 Skewers Of Chicken Satay Free 5 Skewers",
+    "description": "155 Skewers Of Chicken Satay Can Be Ordered For 1 Jam Of Seblm Are Provided",
+    "section": "satay dozens"
+  },
+  {
+    "price": "551000",
+    "name": "Taichan Satay 200 Tsk Free 8 Tsk",
+    "description": "Taichan Satay 208 Skewers Can Be Guaranteed 1 Hours Sblm Food Is Made",
+    "section": "satay dozens"
+  },
+  {
+    "price": "413250",
+    "name": "Sate Taichan 150 Tsk Free 5 Tsk",
+    "description": "Taichan Satay 155 Tsk Can Be Messageed For 1 Hours Sblm Food Is Made",
+    "section": "satay dozens"
+  },
+  {
+    "price": "6000",
+    "name": "Rice Cakes With 1 Fruit",
+    "description": "Lontong 1 Fruit",
+    "section": "rice cakes"
+  },
+  {
+    "price": "120000",
+    "name": "Rice Cakes Filled With 20 Pieces",
+    "description": "Lontong Contains 20 Fruit",
+    "section": "rice cakes"
+  },
+  {
+    "price": "90000",
+    "name": "Rice Cakes 15 Pcs",
+    "description": "Lontong Contains 15 Fruit",
+    "section": "rice cakes"
+  },
+  {
+    "price": "60000",
+    "name": "Lontong Of 10",
+    "description": "Lontong Contains 10 Fruit",
+    "section": "rice cakes"
+  },
+  {
+    "price": "30000",
+    "name": "Rice Cakes 5 Pcs",
+    "description": "Lontong Contains 5 Pieces",
+    "section": "rice cakes"
+  },
+  {
+    "price": "275500",
+    "name": "Mixed Taichan Satay 100 Skewers",
+    "description": "Taichan Satay 100 Skewers Of Skin",
+    "section": "mixed taichan satay"
+  },
+  {
+    "price": "82650",
+    "name": "Taichan Satay 30 Skewers Mixed With Skin",
+    "description": "Taichan Satay Mixed With Skin",
+    "section": "mixed taichan satay"
+  },
+  {
+    "price": "55100",
+    "name": "Taichan Satay 20 Skewers Mixed With Skin",
+    "description": "Taichn Satay Mixed With Skin",
+    "section": "mixed taichan satay"
+  },
+  {
+    "price": "38000",
+    "name": "Sate Taichan Lontng Full Dging",
+    "description": "Taichan Satay 10 Skewers Full Of Meat.",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "160000",
+    "name": "Taichan Satay 50 Skewers Full Of Meat",
+    "description": "Taichan Satay Full Of 50 Skewers Of Meat",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "96000",
+    "name": "Taichan Satay 30 Skewers Full Of Meat",
+    "description": "Taichan Satay Full Of Meat 30 Skewers",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "64000",
+    "name": "Taichan Satay 20 Skewers Full Of Meat",
+    "description": "Taichan Satay Full Of Meat 20 Skewers",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "48000",
+    "name": "Taichan Satay 15 Skewers Full Of Meat",
+    "description": "Taichan Satay Full Of Meat 15 Skewers",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "32000",
+    "name": "Taichan Satay 10 Skewers Full Of Meat",
+    "description": "Taichan Satay Full Of Meat 10 Skewers",
+    "section": "taichan satay full meat"
+  },
+  {
+    "price": "32000",
+    "name": "Full Chicken Meat Satay",
+    "description": "Full Chicken Satay 10 Skewers",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "38000",
+    "name": "Full Meat Chicken Satay",
+    "description": "10 Skewers Of Chicken Satay Full Of Meat And Lontng 1",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "160000",
+    "name": "Chicken Satay 50 Skewers Full Of Meat",
+    "description": "Pure Chicken Satay Full Of Meat",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken Satay 15 Skewers Full Of Meat",
+    "description": "Full Chicken Satay 15 Skewers",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "96000",
+    "name": "Chicken Satay 30 Skewers Full Of Meat",
+    "description": "30 Skewers Of Chicken Satay",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "64000",
+    "name": "Chicken Satay 20 Skewers Full Of Meat",
+    "description": "Chicken Satay 20 Skewers Full Of Satay",
+    "section": "full chicken meat satay"
+  },
+  {
+    "price": "20000",
+    "name": "Chicken Satay 5 Skewers (Rice)",
+    "description": "Chicken Satay 5 Skewers Plus White Rice",
+    "section": "buy matah"
+  },
+  {
+    "price": "132000",
+    "name": "Goat Satay 30 Skewers",
+    "description": "30 Skewers Of Goat Satay Mixed With Fat",
+    "section": "goat satay theresian"
+  },
+  {
+    "price": "88000",
+    "name": "Goat Satay 20 Skewers",
+    "description": "Goat Satay 20 Skewers Mixed With Fat",
+    "section": "goat satay theresian"
+  },
+  {
+    "price": "66000",
+    "name": "Goat Satay 15 Skewers",
+    "description": "15 Skewers Of Goat Satay Mixed Fat",
+    "section": "goat satay theresian"
+  },
+  {
+    "price": "22000",
+    "name": "Goat Satay 5 Skewers",
+    "description": "Goat Satay 5 Skewers",
+    "section": "goat satay theresian"
+  },
+  {
+    "price": "44000",
+    "name": "Goat Satay",
+    "description": "Goat Satay Mixed Fat Can'T With All",
+    "section": "goat satay theresian"
+  },
+  {
+    "price": "27550",
+    "name": "Chicken Satay 10 Skewers",
+    "description": "10 Chicken Satay Mixed With Skin",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "35150",
+    "name": "Chicken Satay 10 Skewers With White Rice",
+    "description": "10 Skewers Of Chicken Satay And White Rice",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "5700",
+    "name": "Rice Cakes",
+    "description": "Lontong 1 Fruit",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "41325",
+    "name": "Taichan Satay 15 Skewers Mixed With Skin",
+    "description": "Taichan Satay 15 Skewers Mixed With Skin",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "275500",
+    "name": "Chicken Satay 100 Skewers Free 5 Skewers",
+    "description": "Sate Ayam 100 Tsk Campur Kulit Free 5 Tsk",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "34675",
+    "name": "Mix Satay",
+    "description": "Chicken Satay 5 Skewers + 5 Skewers Of Goat Satay",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "133000",
+    "name": "Sate Taichan 50 Tsk Free 2 Tsk",
+    "description": "Taichan Satay 50 Tsk Seasoned",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "133000",
+    "name": "50 Skewers Of Chicken Satay Free 2 Skewers",
+    "description": "50 Skewers Of Chicken Satay Seasoned",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "82650",
+    "name": "Chicken Satay 30 Skewers",
+    "description": "Spices Can Be Separated Or Mixed Into 1 Pack",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "33250",
+    "name": "Sate Taichan Lontong",
+    "description": "Taichan Satay Lontong",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "27550",
+    "name": "Taichan Satay",
+    "description": "Sate Taichan 10 Tsk",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "7600",
+    "name": "Rice With White",
+    "description": "White Rice",
+    "section": "sate ayam theresia"
+  },
+  {
+    "price": "33250",
+    "name": "Chicken Satay With Rice Cakes",
+    "description": "Lontong Chicken Satay With Peanut Sauce Or Soy Sauce",
+    "section": "sate ayam theresia"
+  }
+]

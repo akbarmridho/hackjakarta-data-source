@@ -1,0 +1,248 @@
+[
+  {
+    "price": "25000",
+    "name": "Boiled Dumplings",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Fried Kwetiau + Egg",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "30000",
+    "name": "Boiled Chicken Rice Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Goreng Ayam + Telor",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Goreng Ayam + Telor",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Yamin Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Chicken Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Yamin Pangsit Rebus",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Ayam Pangsit Rebus",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Meatball Yamin Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "25000",
+    "name": "Meatballs",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Yamin Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "9257",
+    "name": "Es Cendol Susu Mini",
+    "description": "Mini Cendol With Brown Sugar, Milk Sbg A Mixture Of Coconut Milk.",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "20000",
+    "name": "Es Cincau",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "25000",
+    "name": "Es Teler",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "20000",
+    "name": "Es Coklat Oreo",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "20000",
+    "name": "Es Tape",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "25000",
+    "name": "Es Alpuket",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "20000",
+    "name": "Milk Cendol Ice",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "22000",
+    "name": "Happy Clown",
+    "description": "",
+    "section": "es mamie cinta"
+  },
+  {
+    "price": "7200",
+    "name": "Plain Iced Tea Pot",
+    "description": "",
+    "section": "poci tea"
+  },
+  {
+    "price": "8400",
+    "name": "Es Teh Poci Manis",
+    "description": "",
+    "section": "poci tea"
+  },
+  {
+    "price": "6000",
+    "name": "Teh Poci Panas Manis",
+    "description": "",
+    "section": "poci tea"
+  },
+  {
+    "price": "10800",
+    "name": "Teh Poci Varian",
+    "description": "",
+    "section": "poci tea"
+  },
+  {
+    "price": "6000",
+    "name": "Donat Gula",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "15000",
+    "name": "Fried Dumplings Contains 4",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "20000",
+    "name": "Patagor (Dumplings Batagor)",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "15000",
+    "name": "Tape Bakar",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "105000",
+    "name": "Frozen Dendeng Batokok 250Gr",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "105000",
+    "name": "Frozen Rendang Kering 250Gr",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "95000",
+    "name": "Frozen Rendang Basah 250Gr",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "47000",
+    "name": "Batokok Jerky Rice Bowl + Egg",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "42000",
+    "name": "Batokokok Jerky Rice Bowl",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "47000",
+    "name": "Rice Bowl Rendang Kering + Telor",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "42000",
+    "name": "Rice Bowl Rendang Kering",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "45000",
+    "name": "Rice Bowl Rendang Basah + Telor",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "40000",
+    "name": "Rice Bowl Rendang Basah",
+    "description": "",
+    "section": "kadai jennie"
+  },
+  {
+    "price": "22000",
+    "name": "Green Italian",
+    "description": "",
+    "section": "mocktail non-alcohol"
+  },
+  {
+    "price": "22000",
+    "name": "Blue Ilusion",
+    "description": "",
+    "section": "mocktail non-alcohol"
+  }
+]

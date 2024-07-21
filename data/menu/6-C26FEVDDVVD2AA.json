@@ -1,0 +1,200 @@
+[
+  {
+    "price": "27000",
+    "name": "Beef N Cheese Toast",
+    "description": "Brioche Toast, Beef, Cheese Melted,Letuce, Pickles, Aio Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Brioche Toast, Crunchy Croce.",
+    "description": "Brioche Toast, Grilled Grill, Tilapia Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Orange Ginger Detox",
+    "description": "Orange Ginger Kuny Honey",
+    "section": "today's offer"
+  },
+  {
+    "price": "18900",
+    "name": "Apple Herb 250 Ml",
+    "description": "Lemon Lemongrass Apple",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Lemonfree Lemon",
+    "description": "Ginger Lemon Honey",
+    "section": "today's offer"
+  },
+  {
+    "price": "24300",
+    "name": "Beef Bulgogi Grill Toast Toast",
+    "description": "Brioche Toast, Beef Patty, Letuce, Pickles,Bulgogi Sauce, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Super Beef Burger",
+    "description": "Burger Soft Bun, Ground Beef Patty, Lettuce, Pickles, Thousand Island, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Super Cheese Burger",
+    "description": "Ground Beef Patty, Orange Cheese Melt, Lettuce, Pickles, Heese Sauce, Thosand Island, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Chicken Bbq Burger",
+    "description": "Brioche Bun, Ground Chicken Patty, Lettuce, Pickles, Bbq Sauce, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Cheese Burger",
+    "description": "Brioche Bun, Ground Chicken Patty, Cheese Melt, Lettuce, Pickles, Bbq Sauce, Aioli",
+    "section": "today's offer"
+  },
+  {
+    "price": "39600",
+    "name": "Brisket Cheese Burger",
+    "description": "Brioche Bun, Ground Beef Patty, Grilled Brisket, Cheese Melt, Lettuce, Pickles, Bulgogi Sauce, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "35100",
+    "name": "Premium Cheese Burger",
+    "description": "Double Ground Beef Patty, Orange Cheese Melt, Lettuce, Pickles, Cheese Sauce, Thousand Island, Aioli Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "The Animal Style Burger",
+    "description": "Soft Bread With Juicy Meat With Juicy Meat, Melted Cheddar Cheese, Aio Sauce, Crunchy Onion Toppings With Abundant Watermeat Of Powdered Peas. Can You Imagine How Thick The Mouth Is.",
+    "section": "today's offer"
+  },
+  {
+    "price": "22050",
+    "name": "Cheesy Dog",
+    "description": "Sosis Brathwurst Panggang, Roti Soft Hotdog, Cheese Melt, Lettuce, Pickles, Aioli Sauce,Thousand Island",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Orange Ginger Detox",
+    "description": "Orange Ginger Kuny Honey",
+    "section": "healthy drink"
+  },
+  {
+    "price": "18900",
+    "name": "Apple Herb 250 Ml",
+    "description": "Lemon Lemongrass Apple",
+    "section": "healthy drink"
+  },
+  {
+    "price": "18000",
+    "name": "Lemonfree Lemon",
+    "description": "Ginger Lemon Honey",
+    "section": "healthy drink"
+  },
+  {
+    "price": "27000",
+    "name": "Beef N Cheese Toast",
+    "description": "Brioche Toast, Beef, Cheese Melted,Letuce, Pickles, Aio Sauce",
+    "section": "grill toast"
+  },
+  {
+    "price": "26100",
+    "name": "Brioche Toast, Crunchy Croce.",
+    "description": "Brioche Toast, Grilled Grill, Tilapia Sauce.",
+    "section": "grill toast"
+  },
+  {
+    "price": "24300",
+    "name": "Beef Bulgogi Grill Toast Toast",
+    "description": "Brioche Toast, Beef Patty, Letuce, Pickles,Bulgogi Sauce, Aioli Sauce",
+    "section": "grill toast"
+  },
+  {
+    "price": "22500",
+    "name": "Super Beef Burger",
+    "description": "Burger Soft Bun, Ground Beef Patty, Lettuce, Pickles, Thousand Island, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "25650",
+    "name": "Super Cheese Burger",
+    "description": "Ground Beef Patty, Orange Cheese Melt, Lettuce, Pickles, Heese Sauce, Thosand Island, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "21600",
+    "name": "Chicken Bbq Burger",
+    "description": "Brioche Bun, Ground Chicken Patty, Lettuce, Pickles, Bbq Sauce, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Cheese Burger",
+    "description": "Brioche Bun, Ground Chicken Patty, Cheese Melt, Lettuce, Pickles, Bbq Sauce, Aioli",
+    "section": "burger"
+  },
+  {
+    "price": "39600",
+    "name": "Brisket Cheese Burger",
+    "description": "Brioche Bun, Ground Beef Patty, Grilled Brisket, Cheese Melt, Lettuce, Pickles, Bulgogi Sauce, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "35100",
+    "name": "Premium Cheese Burger",
+    "description": "Double Ground Beef Patty, Orange Cheese Melt, Lettuce, Pickles, Cheese Sauce, Thousand Island, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "31500",
+    "name": "The Animal Style Burger",
+    "description": "Soft Bread With Juicy Meat With Juicy Meat, Melted Cheddar Cheese, Aio Sauce, Crunchy Onion Toppings With Abundant Watermeat Of Powdered Peas. Can You Imagine How Thick The Mouth Is.",
+    "section": "burger"
+  },
+  {
+    "price": "32000",
+    "name": "Jalapeno Cheese Burger",
+    "description": "Burger Soft Bun, Ground Beef Patty, Jalapeno, Cheese Melt, Lettuce, Pickles, Thousand Island, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "28000",
+    "name": "Spicy Beef Burger",
+    "description": "Ground Beef Patty, Spicy Beef Sauce, Lettuce, Pickles, Thousand Island, Aioli Sauce",
+    "section": "burger"
+  },
+  {
+    "price": "22050",
+    "name": "Cheesy Dog",
+    "description": "Sosis Brathwurst Panggang, Roti Soft Hotdog, Cheese Melt, Lettuce, Pickles, Aioli Sauce,Thousand Island",
+    "section": "hotdog and fries"
+  },
+  {
+    "price": "24500",
+    "name": "Chili Dog",
+    "description": "Sosis Brathwurst Panggang, Sauce Spicy Beef, Roti Soft Hotdog Panggang, Lettuce, Pickles, Aioli Sauce, Thousand Island",
+    "section": "hotdog and fries"
+  },
+  {
+    "price": "25000",
+    "name": "French Sausage Fries Style",
+    "description": "Brathwurst Sausage, French Fries, Salad",
+    "section": "hotdog and fries"
+  },
+  {
+    "price": "19000",
+    "name": "French Fries",
+    "description": "Crincle Potato Fries Studded Garlic Cheese Powder, Serve With Mayonaise And Chili Sauce",
+    "section": "hotdog and fries"
+  }
+]

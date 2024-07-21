@@ -1,0 +1,842 @@
+[
+  {
+    "price": "44000",
+    "name": "Martabak Sayur",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "88000",
+    "name": "Martabak Ayam Special",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "55000",
+    "name": "Martabak Ayam Reguler",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "108000",
+    "name": "Martabak Kambing Special",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "60000",
+    "name": "Martabak Har Kambing Reguler",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "40000",
+    "name": "Martabak Har Telur Bebek ( Khas Palembang )",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "34000",
+    "name": "Martabak Har Telur Ayam ( Khas Palembang )",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "60000",
+    "name": "Martabak Daging Reguler",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "110000",
+    "name": "Martabak Daging Special",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "72000",
+    "name": "Martabak Daging Mozarella",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "35000",
+    "name": "Mie goreng mamak ayam",
+    "description": "",
+    "section": "mie goreng mama malaysia"
+  },
+  {
+    "price": "38000",
+    "name": "Mie goreng mamak seafood",
+    "description": "",
+    "section": "mie goreng mama malaysia"
+  },
+  {
+    "price": "46000",
+    "name": "nasi mandhi ayam alfaham",
+    "description": "nasi masndhi+ayam+acar+sambel",
+    "section": "nasi mandhi ayam"
+  },
+  {
+    "price": "46000",
+    "name": "nasi mandhi ayam afghani",
+    "description": "nasi mandhi+ayam +sambel+acar",
+    "section": "nasi mandhi ayam"
+  },
+  {
+    "price": "46000",
+    "name": "nasi mandhi ayam tandori",
+    "description": "nasi mandhi +ayam+sambel+acar",
+    "section": "nasi mandhi ayam"
+  },
+  {
+    "price": "29000",
+    "name": "Oreo Cookies & Cream",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "25000",
+    "name": "Mango Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "25000",
+    "name": "Taro Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "25000",
+    "name": "Strawberry Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "35000",
+    "name": "Matcha Cookies & Cream",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "40000",
+    "name": "Matcha Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "26000",
+    "name": "Vanila Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "26000",
+    "name": "Coklat Milkshake",
+    "description": "",
+    "section": "milkshake"
+  },
+  {
+    "price": "30000",
+    "name": "Orange Squash",
+    "description": "",
+    "section": "mojito"
+  },
+  {
+    "price": "34000",
+    "name": "Blue Ocean",
+    "description": "",
+    "section": "mojito"
+  },
+  {
+    "price": "30000",
+    "name": "Blue Lagon",
+    "description": "",
+    "section": "mojito"
+  },
+  {
+    "price": "32000",
+    "name": "Classic Mojito",
+    "description": "",
+    "section": "mojito"
+  },
+  {
+    "price": "33000",
+    "name": "Strawberry Lessi",
+    "description": "",
+    "section": "lesi"
+  },
+  {
+    "price": "33000",
+    "name": "Mango Lessi",
+    "description": "",
+    "section": "lesi"
+  },
+  {
+    "price": "30000",
+    "name": "Sweet Lessi",
+    "description": "",
+    "section": "lesi"
+  },
+  {
+    "price": "8000",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "17000",
+    "name": "Es Jeruk Peras",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "11000",
+    "name": "Es Teh Manis",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "20000",
+    "name": "Es Teh Tarik",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "3000",
+    "name": "Es Teh Tawar",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "21000",
+    "name": "Es Kopi Tarik",
+    "description": "",
+    "section": "cold drink"
+  },
+  {
+    "price": "18000",
+    "name": "Teh Tarik",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "16000",
+    "name": "Jeruk Peras Panas",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "9000",
+    "name": "Teh Manis",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "18000",
+    "name": "Masala Tea",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "15000",
+    "name": "Indian Tea",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "18000",
+    "name": "Kopi Tarik",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "9000",
+    "name": "Black Coffee",
+    "description": "",
+    "section": "hot drink"
+  },
+  {
+    "price": "40000",
+    "name": "cane kari daal",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "45000",
+    "name": "cane kari ikan",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "20000",
+    "name": "Cane Bawang",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "20000",
+    "name": "Cane Telor Bawang",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "18000",
+    "name": "Cane Telor",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "12000",
+    "name": "Cane Polos",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "40000",
+    "name": "Cane Butter Chicken",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "48000",
+    "name": "Cane Lamb Curry",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "38000",
+    "name": "Cane Chicken Curry",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "60000",
+    "name": "Prawn Curry",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "60000",
+    "name": "Prawn Masala",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "48000",
+    "name": "Chilli Fish",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "48000",
+    "name": "Fried Fish",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "54000",
+    "name": "Fish Masala",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "48000",
+    "name": "Fish Curry",
+    "description": "",
+    "section": "fish & prawn"
+  },
+  {
+    "price": "75000",
+    "name": "Lamb Chettinadu",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "55000",
+    "name": "Chicken Chettinadu",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Manjurian",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Chilli",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "60000",
+    "name": "Chicken Hariyali",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Kadai",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken JalFrizi",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken Kolahapuri",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Korma",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken Mugalai",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "60000",
+    "name": "Butter Chicken",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Ayam Tikka Masala",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Blackpepper",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Masala",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken Curry",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "75000",
+    "name": "Rogan Josh ( Lamb )",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "75000",
+    "name": "Lamb Blackpepper",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "75000",
+    "name": "Mutton Masala",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "60000",
+    "name": "Kari Kambing ( Lamb Curry )",
+    "description": "",
+    "section": "lamb & chicken"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Butter Chicken",
+    "description": "",
+    "section": "butter chicken"
+  },
+  {
+    "price": "42000",
+    "name": "Naan Butter Chicken",
+    "description": "",
+    "section": "butter chicken"
+  },
+  {
+    "price": "42000",
+    "name": "Cane Butter Chicken",
+    "description": "",
+    "section": "butter chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Naan Lamb Curry",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "38000",
+    "name": "Naan Chicken Curry",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "10000",
+    "name": "Chapathi",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "30000",
+    "name": "Mozarella Cheese Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "24000",
+    "name": "Chocolate Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "18000",
+    "name": "Cheese Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "16000",
+    "name": "Garlic Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "18000",
+    "name": "Butter Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "12000",
+    "name": "Plain Naan",
+    "description": "",
+    "section": "naan"
+  },
+  {
+    "price": "60000",
+    "name": "Chicken Malai Tikka",
+    "description": "",
+    "section": "chicken tikka"
+  },
+  {
+    "price": "60000",
+    "name": "Chicken Hariyali Tikka",
+    "description": "",
+    "section": "chicken tikka"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Tikka",
+    "description": "",
+    "section": "chicken tikka"
+  },
+  {
+    "price": "180000",
+    "name": "Tandoori Bucket Chicken",
+    "description": "",
+    "section": "tandoori"
+  },
+  {
+    "price": "28000",
+    "name": "Tandoori Chicken Quarter",
+    "description": "",
+    "section": "tandoori"
+  },
+  {
+    "price": "48000",
+    "name": "Tandoori Chicken Half",
+    "description": "",
+    "section": "tandoori"
+  },
+  {
+    "price": "90000",
+    "name": "Tandoori Chicken Full",
+    "description": "",
+    "section": "tandoori"
+  },
+  {
+    "price": "175000",
+    "name": "Alfaham Bucket Chicken",
+    "description": "",
+    "section": "grilled chicken"
+  },
+  {
+    "price": "26000",
+    "name": "Alfaham Grilled Chicken Quarter",
+    "description": "",
+    "section": "grilled chicken"
+  },
+  {
+    "price": "48000",
+    "name": "Alfaham Grilled Chicken Half",
+    "description": "",
+    "section": "grilled chicken"
+  },
+  {
+    "price": "84000",
+    "name": "Alfaham Grilled Chicken Full",
+    "description": "",
+    "section": "grilled chicken"
+  },
+  {
+    "price": "41000",
+    "name": "Bindhi Masala",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "41000",
+    "name": "Daal Palak",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "43000",
+    "name": "Daal Makhani",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "42000",
+    "name": "Daal Fry",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "42000",
+    "name": "Gobi Chilli",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "46000",
+    "name": "Gobi Manhurian",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "45000",
+    "name": "Veg JalFrezi",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "46000",
+    "name": "Veg Kurma",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "54000",
+    "name": "Kadai Paneer",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "55000",
+    "name": "Palak Paneer",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "55000",
+    "name": "Paneer Butter Masala",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "40000",
+    "name": "Kadai Vegetarian",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "40000",
+    "name": "Aloo Jeera",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "43000",
+    "name": "Aloo Gobi",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "41000",
+    "name": "Aloo Matar",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "41000",
+    "name": "Matar Masala",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "42000",
+    "name": "Rajma Masala",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "41000",
+    "name": "Chana Masala",
+    "description": "",
+    "section": "vegetarian"
+  },
+  {
+    "price": "30000",
+    "name": "Chilli Mushroom",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken65",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "24000",
+    "name": "Onion Pakoda",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "24000",
+    "name": "Samosa",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "27000",
+    "name": "French Fries",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "48000",
+    "name": "Chicken Nuggets",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Lollipop",
+    "description": "",
+    "section": "starter"
+  },
+  {
+    "price": "26000",
+    "name": "Ayam goreng nasi",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "26000",
+    "name": "Ayam goreng nasi",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "28000",
+    "name": "Nasi Goreng Telur",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Goreng Sayur",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "33000",
+    "name": "Nasi Goreng Ayam",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "44000",
+    "name": "Nasi Goreng Kambing",
+    "description": "",
+    "section": "nasi goreng"
+  },
+  {
+    "price": "234000",
+    "name": "Bucket Nasi Biriyani Ayam",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "306000",
+    "name": "Bucket Nasi Biriyani Kambing",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Biriyani Plain ( Polos )",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "48000",
+    "name": "Nasi Biriyani Telur",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "48000",
+    "name": "Nasi Biriyani Sayur",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Biriyani Ayam ( M )",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "60000",
+    "name": "Nasi Biriyani Ayam ( L )",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Biriyani Kambing ( M )",
+    "description": "",
+    "section": "nasi biriyani"
+  },
+  {
+    "price": "77000",
+    "name": "Nasi Biriyani Kambing ( L )",
+    "description": "",
+    "section": "nasi biriyani"
+  }
+]

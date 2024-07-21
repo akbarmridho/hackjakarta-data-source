@@ -1,0 +1,452 @@
+[
+  {
+    "price": "47970",
+    "name": "Nasi Goreng Special",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "22900",
+    "name": "Regular Gravy Indomie (Plain) Without Egg",
+    "description": "",
+    "section": "indomie aceh spices"
+  },
+  {
+    "price": "27500",
+    "name": "Indomie Aceh Seasoning Plus Egg Soup",
+    "description": "Indomi Cooked With Aceh Spices.",
+    "section": "indomie aceh spices"
+  },
+  {
+    "price": "15500",
+    "name": "Roti Cane Gula",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "23500",
+    "name": "Roti Cane Susu Coklat",
+    "description": "Cane Bread Filled With Full Cream And Chocolate Meises",
+    "section": "roti cane"
+  },
+  {
+    "price": "34500",
+    "name": "Roti Cane Kari Ayam",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "26800",
+    "name": "Milk Cheese Cane Bread",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "18500",
+    "name": "Roti Cane Susu",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "17500",
+    "name": "Cane Bread With Curry Sauce",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "28000",
+    "name": "Roti Cane Special",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "38700",
+    "name": "Roti Cane Kari Kambing",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "37700",
+    "name": "Roti Cane Kari Sapi",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "5000",
+    "name": "Acar Bawang",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "23500",
+    "name": "Chicken Curry",
+    "description": "",
+    "section": "kari"
+  },
+  {
+    "price": "27700",
+    "name": "Beef Curry",
+    "description": "",
+    "section": "kari"
+  },
+  {
+    "price": "28800",
+    "name": "Kari Kambing",
+    "description": "",
+    "section": "kari"
+  },
+  {
+    "price": "6800",
+    "name": "Air Mineral Aqua",
+    "description": "600Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "3500",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18900",
+    "name": "Es Kopi Hitam Robosta",
+    "description": "Delicious Black Coffee Ice Robusta",
+    "section": "minuman"
+  },
+  {
+    "price": "13500",
+    "name": "Black Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "14900",
+    "name": "Jeruk (Cold)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "14900",
+    "name": "Cold Milk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7800",
+    "name": "Teh Manis (Cold)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Espresso Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15900",
+    "name": "Es Timun",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16800",
+    "name": "Es Teh Tarik Aceh",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "14500",
+    "name": "Lemon Tea (Cold)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5500",
+    "name": "Teh Tawar (Cold)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18500",
+    "name": "Es Kopi Sanger Aceh",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "32700",
+    "name": "Mie Aceh Ayam Goreng",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33700",
+    "name": "Mie Aceh Udang Goreng",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33850",
+    "name": "Mie Aceh Sapi Goreng",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26500",
+    "name": "Fried Egg Aceh Noodles",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "47800",
+    "name": "Mie Aceh Special Goreng",
+    "description": "It Contains Beef, Shrimp, Eggs Can Be Requested With Sunny Side Up.",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "43500",
+    "name": "Mie Aceh Seafood Goreng",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "23500",
+    "name": "Regular Fried Aceh Noodles",
+    "description": "Regular Noodles Filled With Cauliflower And Bean Sprouts",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "36800",
+    "name": "Mie Aceh Kambing Goreng",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33850",
+    "name": "Stir-Fried Aceh Beef Noodles",
+    "description": "",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "33700",
+    "name": "Stir-Fried Shrimp Aceh Noodles",
+    "description": "Stir-Fried Noodles With Noodles, Stir-Fried Slightly Wet Gravy Is Not Too Many. Each Order Of Stir-Fried And Gravy We Always Separate It With Noodles,",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "23500",
+    "name": "Regular Stir-Fried Aceh Noodles",
+    "description": "",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "32700",
+    "name": "Stir-Fried Chicken Aceh Noodles",
+    "description": "",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "47800",
+    "name": "Special Stir-Fried Aceh Noodles",
+    "description": "Special Aceh Noodles With Shrimp, Beef, And Eggs. Can Be Requested With Sunny Side Up Eggs/Omelet / Mixed In Noodles.",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "43500",
+    "name": "Mie Aceh Seafood Tumis",
+    "description": "",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "26800",
+    "name": "Stir Fried Aceh Egg Noodles",
+    "description": "The Aceh Noodles Are Cooked A Little Wet Gravy. You Can Request Eggs In Omelet / Sunny Side Up Or Mixed With A Uduk Noodles",
+    "section": "stir fried aceh noodles"
+  },
+  {
+    "price": "32800",
+    "name": "Chicken Aceh Noodle Soup",
+    "description": "",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "33800",
+    "name": "Aceh Shrimp Noodle Soup",
+    "description": "",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "26500",
+    "name": "Aceh Egg Noodle Soup",
+    "description": "",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "39500",
+    "name": "Mie Aceh Seafood Kuah",
+    "description": "It Contains Shrimp And Squid",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "47500",
+    "name": "Mie Aceh Special Kuah",
+    "description": "Filled With Beef. Shrimp And Eggs",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "22500",
+    "name": "Aceh Regular Noodle Soup",
+    "description": "",
+    "section": "aceh noodle soup"
+  },
+  {
+    "price": "33800",
+    "name": "Egg Beef Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "38500",
+    "name": "Goat Fried Rice + Egg",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "32700",
+    "name": "Chicken Fried Rice + Egg",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26900",
+    "name": "Egg Fried Rice",
+    "description": "Fried Rice Cooked With Aceh Spices. Filled With Omelet/ Sunny Side Up Eggs",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "33500",
+    "name": "Shrimp Fried Rice + Egg",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "44500",
+    "name": "Nasi Goreng Seafood + Telur",
+    "description": "Fried Rice With Aceh Spices With Shrimp Egg Variant + Squid",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "34500",
+    "name": "Martabak Kari Ayam Kari",
+    "description": "Aceh Martabak 2 Eggs + Curry Sauce + Chicken",
+    "section": "martabak"
+  },
+  {
+    "price": "43700",
+    "name": "Martabak Kari Daging Kambing",
+    "description": "Aceh Martabak 2 Eggs + Beef Curry With Tender Mutton.",
+    "section": "martabak"
+  },
+  {
+    "price": "43700",
+    "name": "Beef Curry Martabak",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "26700",
+    "name": "Egg Martabak With Curry Sauce",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "14000",
+    "name": "Jus Tomat",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "18000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "15000",
+    "name": "Jus Sirsak",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "14000",
+    "name": "Jus Jambu",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "15000",
+    "name": "Jus Wortel",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "15000",
+    "name": "Jus Terong Belanda",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27500",
+    "name": "Egg Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "47700",
+    "name": "Bihun Special",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "6800",
+    "name": "White Rice",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6800",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6800",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "3500",
+    "name": "Crackers",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6850",
+    "name": "Acar Bawang",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "990",
+    "name": "Lunch Box Paper",
+    "description": "Is A Box Of Eating Paper Or Rice Box Made From The Best Food Grade Ingredients, Safe Anti Oil And Dehygienic And Hygienic.",
+    "section": "paper lunch box"
+  },
+  {
+    "price": "950",
+    "name": "Pakai Lunchbox",
+    "description": "",
+    "section": "others"
+  }
+]

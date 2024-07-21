@@ -1,0 +1,291 @@
+[
+  {
+    "price": "50000",
+    "name": "Bundling Pastry 1",
+    "description": "Hot/Ice + Donuts",
+    "section": "promo pastry"
+  },
+  {
+    "price": "60000",
+    "name": "Bundling Pastry 2",
+    "description": "",
+    "section": "promo pastry"
+  },
+  {
+    "price": "65000",
+    "name": "Bundling Amayzing",
+    "description": "",
+    "section": "promo bundling minuman"
+  },
+  {
+    "price": "55000",
+    "name": "Bundling 1",
+    "description": "Ice Filkop Aren, Hot / Ice Long Black",
+    "section": "promo bundling minuman"
+  },
+  {
+    "price": "55000",
+    "name": "Bundling 2",
+    "description": "Ice Filkop Aren + Hot/Ice Cappuccino",
+    "section": "promo bundling minuman"
+  },
+  {
+    "price": "80000",
+    "name": "Bundling 3",
+    "description": "1 Coffee + 1 Non-Coffee",
+    "section": "promo bundling minuman"
+  },
+  {
+    "price": "180000",
+    "name": "Bundling 2Gether",
+    "description": "2 Botol 1 Liter",
+    "section": "promo bundling minuman"
+  },
+  {
+    "price": "275000",
+    "name": "Filosofi Kopi 2Go",
+    "description": "Ben Package: - 10 pax Filosofi Kopi 2Go - Price ONLY 275.000 - Can choose 2 variant beverages (coffee based/ non-coffee)",
+    "section": "promo"
+  },
+  {
+    "price": "60000",
+    "name": "Buy 2 Filkop Aren Free 1 Chocolate",
+    "description": "",
+    "section": "promo"
+  },
+  {
+    "price": "55000",
+    "name": "Ramadan Series",
+    "description": "",
+    "section": "promo"
+  },
+  {
+    "price": "38000",
+    "name": "Buy 1 Get 1 Free Filkop Aren",
+    "description": "2 Fillings Of Palm Sugar Only 38K!",
+    "section": "promo"
+  },
+  {
+    "price": "42000",
+    "name": "Vanilla Latte",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Hazelnut Latte",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Caramel Macchiato",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "29000",
+    "name": "Long Black",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "39000",
+    "name": "Latte",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "39000",
+    "name": "Cappuccino",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Caffe Mocha",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "46000",
+    "name": "Hazelnut Latte",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "46000",
+    "name": "Vanilla Latte",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "44000",
+    "name": "Salted Caramel",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "46000",
+    "name": "Caramel Machiato",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "33000",
+    "name": "Long Black",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "44000",
+    "name": "Latte",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "44000",
+    "name": "Cappuccino",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "47000",
+    "name": "Caffe Mocha",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "38000",
+    "name": "Filkop Aren",
+    "description": "Palm Sugar Milk Coffee",
+    "section": "iced coffee"
+  },
+  {
+    "price": "48000",
+    "name": "Butterscotch Latte",
+    "description": "",
+    "section": "iced coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Greentea",
+    "description": "",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "42000",
+    "name": "Chocolate",
+    "description": "",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "47000",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "iced non coffe"
+  },
+  {
+    "price": "47000",
+    "name": "Greentea",
+    "description": "",
+    "section": "iced non coffe"
+  },
+  {
+    "price": "47000",
+    "name": "Chocolate",
+    "description": "",
+    "section": "iced non coffe"
+  },
+  {
+    "price": "47000",
+    "name": "Avocado",
+    "description": "",
+    "section": "iced non coffe"
+  },
+  {
+    "price": "41000",
+    "name": "Iced Lychee Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "Iced Lemon Tea",
+    "description": "",
+    "section": "tea"
+  },
+  { "price": "25000", "name": "Hot Tea", "description": "", "section": "tea" },
+  {
+    "price": "95000",
+    "name": "Greentea",
+    "description": "",
+    "section": "1 liter"
+  },
+  {
+    "price": "80000",
+    "name": "Milk Tea",
+    "description": "",
+    "section": "1 liter"
+  },
+  {
+    "price": "95000",
+    "name": "Chocolate",
+    "description": "",
+    "section": "1 liter"
+  },
+  {
+    "price": "95000",
+    "name": "Filkop Aren 1L",
+    "description": "Signature Drink Filling Of Palm Sugar Palm Sugar, Can Be Enjoyed In A Large Size",
+    "section": "1 liter"
+  },
+  {
+    "price": "38000",
+    "name": "Kouign Amann",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "31000",
+    "name": "Cinnamon Swirl",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "33000",
+    "name": "Cheese Croissant",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "38000",
+    "name": "Almond Croissant",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "31000",
+    "name": "Pain Au Choco",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "28000",
+    "name": "Butter Croissant",
+    "description": "",
+    "section": "pastry"
+  },
+  {
+    "price": "13000",
+    "name": "Mineral Water",
+    "description": "Uk. 600 Ml",
+    "section": "bottled mineral water"
+  }
+]

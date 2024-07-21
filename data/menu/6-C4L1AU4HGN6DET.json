@@ -1,0 +1,182 @@
+[
+  {
+    "price": "25000",
+    "name": "Strawberry Juice (Jus Strawberry)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "23000",
+    "name": "Soursop Juice (Jus Sirsak)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "25000",
+    "name": "Banana Juice (Jus Pisang)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "27000",
+    "name": "Mango Juice (Jus Mangga)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "25000",
+    "name": "Melon Juice (Jus Melon)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "25000",
+    "name": "Dragon Fruit Juice (Dragon Fruit Juice)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "27000",
+    "name": "Avocado Juice (Jus Alpukat)",
+    "description": "",
+    "section": "super classic - (classic single juice series)"
+  },
+  {
+    "price": "28000",
+    "name": "Berrybana (Strawberry + Banana Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Berrysour (Strawberry + Soursop Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Banago (Banana X Mango Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Dragobana (Dragon Fruit X Banana Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Sourgo (Soursop X Mango Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Berrygo (Strawberry + Mango Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "28000",
+    "name": "Avobana (Avocado X Banana Juice)",
+    "description": "",
+    "section": "super classic mix - ( classic mix juice )"
+  },
+  {
+    "price": "23000",
+    "name": "Super Strawberry Yakult",
+    "description": "Super Fresh Strawberry Yakelt Juice For Your Immported Booster",
+    "section": "super yakult booster - ( yakult juice series )"
+  },
+  {
+    "price": "22000",
+    "name": "Super Soursop Yakult",
+    "description": "",
+    "section": "super yakult booster - ( yakult juice series )"
+  },
+  {
+    "price": "25000",
+    "name": "Super Mango Yakult",
+    "description": "",
+    "section": "super yakult booster - ( yakult juice series )"
+  },
+  {
+    "price": "23000",
+    "name": "Super Guava Yakult",
+    "description": "",
+    "section": "super yakult booster - ( yakult juice series )"
+  },
+  {
+    "price": "38000",
+    "name": "Super Berry Blast",
+    "description": "",
+    "section": "super boost signature blend - ( immune booster blend )"
+  },
+  {
+    "price": "37000",
+    "name": "Mango Passion Star",
+    "description": "",
+    "section": "super boost signature blend - ( immune booster blend )"
+  },
+  {
+    "price": "37000",
+    "name": "Power Choco Bomb",
+    "description": "",
+    "section": "super power signature blend - ( high protein blend )"
+  },
+  {
+    "price": "38000",
+    "name": "Rocket Bananut",
+    "description": "",
+    "section": "super power signature blend - ( high protein blend )"
+  },
+  {
+    "price": "38000",
+    "name": "Super Power Berry",
+    "description": "",
+    "section": "super power signature blend - ( high protein blend )"
+  },
+  {
+    "price": "32000",
+    "name": "Milky Strawberry Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "32000",
+    "name": "Milky Banana Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "35000",
+    "name": "Milky Manggo Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "35000",
+    "name": "Milky Dragobana Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "32000",
+    "name": "Milky Guava Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "32000",
+    "name": "Milky Melon Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  },
+  {
+    "price": "35000",
+    "name": "Milky Avocado Smoothies",
+    "description": "",
+    "section": "super milkyway - ( smoothies ( with milk ) series )"
+  }
+]

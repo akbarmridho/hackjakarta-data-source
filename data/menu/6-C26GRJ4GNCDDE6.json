@@ -1,0 +1,50 @@
+[
+  {
+    "price": "30000",
+    "name": "Regular Package",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Package",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "5000",
+    "name": "Somay Rebus",
+    "description": "Filled With Chicken",
+    "section": "unit"
+  },
+  {
+    "price": "5000",
+    "name": "Meatball Tofu",
+    "description": "Filled With Beef",
+    "section": "unit"
+  },
+  {
+    "price": "5000",
+    "name": "Fried Meatballs",
+    "description": "Filled With Chicken",
+    "section": "unit"
+  },
+  {
+    "price": "5000",
+    "name": "Risol Goreng",
+    "description": "Filled With Chicken",
+    "section": "unit"
+  },
+  {
+    "price": "5000",
+    "name": "Fried Dumplings",
+    "description": "Filled With Chicken",
+    "section": "unit"
+  },
+  {
+    "price": "6000",
+    "name": "Smooth Meatballs",
+    "description": "Beef",
+    "section": "unit"
+  }
+]

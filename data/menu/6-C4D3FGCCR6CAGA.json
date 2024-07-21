@@ -1,0 +1,44 @@
+[
+  {
+    "price": "18000",
+    "name": "Fruit Sandwiches",
+    "description": "Chips With Cream And Fresh Fruit",
+    "section": "dessert"
+  },
+  {
+    "price": "7000",
+    "name": "Silky Pudding",
+    "description": "Soft Pudding With Various Kinds Of Flavors",
+    "section": "dessert"
+  },
+  {
+    "price": "12000",
+    "name": "Dessert Coklat Lumer Oreo Milo",
+    "description": "Oreo Pudding With Melted Chocolate 200Ml",
+    "section": "dessert"
+  },
+  {
+    "price": "12000",
+    "name": "Dessert Coklat Lumer Regal Milo",
+    "description": "Milo Regal Pudding With Chocolate 200Ml",
+    "section": "dessert"
+  },
+  {
+    "price": "10000",
+    "name": "Cappucino Cincau",
+    "description": "Cappuccino Drink With Grass Jelly Inside",
+    "section": "drink"
+  },
+  {
+    "price": "10000",
+    "name": "Matcha Drink",
+    "description": "Matcha Drink 200Ml",
+    "section": "drink"
+  },
+  {
+    "price": "10000",
+    "name": "Milo Jelly Cappucino Cincau",
+    "description": "Jelly Drink 200Ml",
+    "section": "drink"
+  }
+]

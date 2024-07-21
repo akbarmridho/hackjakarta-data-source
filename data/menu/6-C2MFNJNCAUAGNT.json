@@ -1,0 +1,338 @@
+[
+  {
+    "price": "48000",
+    "name": "Traffic Mac N Cheese",
+    "description": "Mac N Cheese",
+    "section": "cheese mega sale"
+  },
+  {
+    "price": "39000",
+    "name": "Chicago Cheese Burger",
+    "description": "Cheese Burger",
+    "section": "cheese mega sale"
+  },
+  {
+    "price": "42000",
+    "name": "Chicago Cheese Burger With Egg",
+    "description": "Cheese Burger With Egg",
+    "section": "cheese mega sale"
+  },
+  {
+    "price": "62000",
+    "name": "Double Chicago Cheese Burger",
+    "description": "Double Cheese Burger",
+    "section": "cheese mega sale"
+  },
+  {
+    "price": "42000",
+    "name": "Michigan Loveto",
+    "description": "Mac N Cheese Loveto",
+    "section": "loveto (hot dog)"
+  },
+  {
+    "price": "30000",
+    "name": "Orizona Loveto",
+    "description": "Original Hotdog",
+    "section": "loveto (hot dog)"
+  },
+  {
+    "price": "32000",
+    "name": "Kansas Loveto",
+    "description": "Fries N Sauce Hot Ones",
+    "section": "loveto (hot dog)"
+  },
+  {
+    "price": "50000",
+    "name": "Boston Blackpepper Burger",
+    "description": "Fried Chicken Blackpepper Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "42000",
+    "name": "Black Montana Burger",
+    "description": "Black Pepper Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "32000",
+    "name": "Og Bronx Burger",
+    "description": "Original Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "50000",
+    "name": "Boston Cheese Burger",
+    "description": "Fried Chicken Cheese Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "50000",
+    "name": "Boston Black Pepper Burger",
+    "description": "Fried Chicken Blackpepper Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "52000",
+    "name": "Double Og Bronx Burger",
+    "description": "Double Original Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "65000",
+    "name": "Double Black Montana Burger",
+    "description": "Double Black Pepper Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "30000",
+    "name": "Crispy Shrimp Burger",
+    "description": "Burger With Shrimp Patty And Mayonnaise",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "88000",
+    "name": "Triple Chicago Cheese Burger",
+    "description": "Triple Cheese Burger",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "72000",
+    "name": "Vegas Chicken Burger",
+    "description": "Fried Chicken, Patty Mozarella Burger With Black Pepper Sauce",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "52000",
+    "name": "Og Bronx Burger + Traffic French Fries + Cola",
+    "description": "Og Bronx Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "62000",
+    "name": "Black Montana Burger + Traffic French Fries +Cola",
+    "description": "Black Montana Burger + Traffic French Fries +Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "55000",
+    "name": "Miami Cheese Burger",
+    "description": "Patty Mozarella Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "45000",
+    "name": "Black Montana Burger With Egg",
+    "description": "Black Pepper Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "42000",
+    "name": "Lovano Meatball Blackpepper",
+    "description": "Premium Meatball And Frech Fries With Gravy Blackpepper Sauce",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "59000",
+    "name": "Chicago Cheese Burger + Traffic French Fries + Cola",
+    "description": "Chicago Cheese Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "35000",
+    "name": "Og Bronx Burger With Egg",
+    "description": "Original Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "72000",
+    "name": "Double Og Bronx Burger + Traffic French Fries + Cola",
+    "description": "Double Og Bronx Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "85000",
+    "name": "Double Og Black Montana Burger + Traffic French Fries + Cola",
+    "description": "Double Og Black Montana Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "55000",
+    "name": "Miami Black Pepper Burger",
+    "description": "Patty Mozarella Black Pepper Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "82000",
+    "name": "Double Cheese Burger + Traffic French Fries + Cola",
+    "description": "Double Cheese Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "108000",
+    "name": "Triple Cheese Burger + Traffic French Fries + Cola",
+    "description": "Triple Cheese Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "55000",
+    "name": "Og Bronx Burger With Egg + Traffic French Fries + Cola",
+    "description": "Og Bronx Burger With Egg + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "65000",
+    "name": "Black Montana Burger With Egg + Traffic French Fries + Cola",
+    "description": "Black Montana Burger With Egg + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "62000",
+    "name": "Chicago Cheese Burger With Egg + Traffic French Fries + Cola",
+    "description": "Chicago Cheese Burger With Egg + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "70000",
+    "name": "Boston Black Pepper Burger + Traffic French Fries + Cola",
+    "description": "Boston Black Pepper Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "70000",
+    "name": "Boston Cheese Burger + Traffic French Fries + Cola",
+    "description": "Boston Cheese Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "75000",
+    "name": "Miami Black Pepper Burger + Traffic French Fries + Cola",
+    "description": "Miami Black Pepper Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "75000",
+    "name": "Miami Cheese Burger + Traffic French Fries + Cola",
+    "description": "Miami Cheese Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "92000",
+    "name": "Vegas Chicken Burger + Traffic French Fries + Cola",
+    "description": "Vegas Chicken Burger + Traffic French Fries + Cola",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "49000",
+    "name": "California Bbq With Egg",
+    "description": "Smoked Barbeque Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "72000",
+    "name": "Vegas Chicken",
+    "description": "Fried Chicken, Patty Mozarella Burger With Black Pepper Sauce",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "55000",
+    "name": "Miami Blackpepper",
+    "description": "Patty Mozarella Black Pepper Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "49000",
+    "name": "Sei Diego With Egg",
+    "description": "Sei Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "55000",
+    "name": "Miami Cheese",
+    "description": "Patty Mozarella Burger With Egg",
+    "section": "lovano (burger)"
+  },
+  {
+    "price": "35000",
+    "name": "Uptown Chicken Blackpepper Sauce",
+    "description": "Fried Chicken With Blackpepper Sauce + Rice",
+    "section": "uptown chicken series"
+  },
+  {
+    "price": "35000",
+    "name": "Uptown Chicken Cheese Sauce",
+    "description": "Fried Chicken With Cheese Sauce + Rice",
+    "section": "uptown chicken series"
+  },
+  {
+    "price": "35000",
+    "name": "Uptown Chicken Cheese Sauce",
+    "description": "Uptown Chicken Cheese Sauce",
+    "section": "uptown chicken series"
+  },
+  {
+    "price": "35000",
+    "name": "Uptown Chicken Spicy Sauce",
+    "description": "Fried Chicken With Spicy Sauce + Rice",
+    "section": "uptown chicken series"
+  },
+  {
+    "price": "42000",
+    "name": "Lovano Meat Ball Balckpepper",
+    "description": "Premium Meatball And Frech Fries With Gravy Blackpepper Sauce",
+    "section": "lovano"
+  },
+  {
+    "price": "30000",
+    "name": "Crispy Shrimp Burger",
+    "description": "Burger With Shrimp Patty And Mayonnaise",
+    "section": "bocil and family menu"
+  },
+  {
+    "price": "30000",
+    "name": "Kids Mix Platter",
+    "description": "Sausage, French Fries And Mac & Cheese",
+    "section": "bocil and family menu"
+  },
+  {
+    "price": "30000",
+    "name": "La Sweet Loveto",
+    "description": "Hotdog Witg Cheese And Chocolate",
+    "section": "bocil and family menu"
+  },
+  {
+    "price": "30000",
+    "name": "Traffic Cheezy Fries",
+    "description": "French Fries With Cheese",
+    "section": "enako (side dish)"
+  },
+  {
+    "price": "18000",
+    "name": "Traffic French Fries",
+    "description": "French Fries",
+    "section": "enako (side dish)"
+  },
+  {
+    "price": "18000",
+    "name": "Extra Patty Mozarella",
+    "description": "Extra Patty Mozarella (For Burger Only)",
+    "section": "extra"
+  },
+  {
+    "price": "10000",
+    "name": "Coca Cola",
+    "description": "Coca Cola 390 Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "6000",
+    "name": "Pucuk Tea",
+    "description": "Pucuk Tea 350Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Mineral Water",
+    "description": "Mineral Water 600Ml",
+    "section": "drinks"
+  }
+]

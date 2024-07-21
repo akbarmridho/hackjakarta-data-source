@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "22500",
+    "name": "Original Odeng",
+    "description": "Odeng Original Savory Gravy",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "2Pcs Of Spicy Spicy Spicy Beef",
+    "description": "Korean Spicy Odeng",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Spicy Blackpaper 2Pcs",
+    "description": "Odeng Blackpaper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Spicy Bbq Odeng",
+    "description": "Spicy Bbq Gravy",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Yummy",
+    "description": "Korean Spicy Toppoki Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Spicy Bbq Toppoki",
+    "description": "Spicy Bbq Sauce Toppoki",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Teriyaki",
+    "description": "Spicy Teriyaki Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Cheese",
+    "description": "Cheese Spicy Toppoki",
+    "section": "today's offer"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Blackpaper",
+    "description": "Spicy Black Pepper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Fishrolls",
+    "description": "Korean Spicy Topping Of Fishroll",
+    "section": "today's offer"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Sauce",
+    "description": "Korean Spicy Toppoki Sauce With Sausage Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Meatball",
+    "description": "Korean Spicy Topping Of Meatball Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Odeng",
+    "description": "Korean Spicy Topping Sauce With Odeng Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Ramboki Yummy",
+    "description": "Korean Spicy Toppoki Ramen",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Ramoki With Egg",
+    "description": "Korean Spicy Toppoki Ramen With Egg Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Rabbit With Odeng",
+    "description": "Korean Spicy Toppoki Ramen With Odeng Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "36000",
+    "name": "Special Ramboki",
+    "description": "Korean Spicy Toppoki Ramen With Odeng And Egg Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "17600",
+    "name": "Egg Fried Rice",
+    "description": "Fried Rice, Eggs And Vegetables Specify Your Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "17600",
+    "name": "White Fried Rice, Egg",
+    "description": "Fried Rice, Eggs And Vegetables (Without Soy Sauce) Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "18400",
+    "name": "Fried Rice With Fried Egg",
+    "description": "Fried Rice + Fried Egg + Vegetables Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "18400",
+    "name": "White Fried Rice, Fried Egg",
+    "description": "Fried Rice Without Soy Sauce + Fried Egg + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "18400",
+    "name": "Nasi Goreng Telur Dadar",
+    "description": "Omelet Fried Rice And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "18400",
+    "name": "White Fried Rice, Omelette",
+    "description": "White Fried Rice, Omelet And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice, Eggs, Chicken, Vegetables (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Chicken",
+    "description": "Fried Rice, Eggs, Chicken, Vegetables (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Meatball Egg Fried Rice",
+    "description": "Fried Rice, Eggs, Meatballs And Vegetables Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Egg Meatballs",
+    "description": "Fried Rice Without Soy Sauce + Eggs + Meatballs + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Sausage Egg Fried Rice",
+    "description": "Fried Rice + Egg + Sausage + Vegetables Specify Your Spicy Level!!",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Egg + Meatballs + Sausage + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Special White Fried Rice",
+    "description": "Fried Rice, Eggs, Meatballs, Sausages And Vegetables (Without Soy Sauce) Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Chicken Nuggets",
+    "description": "Egg Fried Rice With Chicken Nugget Topping, Hygienic Packaging No Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Putih Chicken Nuggets",
+    "description": "Egg Fried Rice With Nugget Topping (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Fishroll Egg Fried Rice",
+    "description": "Fried Rice + Egg + Fishroll + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Fishroll",
+    "description": "White Rice, Eggs, Fried Fishroll And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Smoked Beef",
+    "description": "Fried Rice + Egg + Smoked Beef + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu",
+    "description": "Fried Rice + Egg + Chicken Katsu + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Putih Chicken Katsu",
+    "description": "Fried Rice, Eggs, Vegetables, Chicken Katsu (Without Soy Sauce) Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy",
+    "description": "Egg Fried Rice, Topped With Crispy Chicken, Hygienic Packaging, Not Using Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "White Fried Rice, Crispy Chicken",
+    "description": "Egg Fried Rice, Crispy Chicken And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu Bbq",
+    "description": "Fried Rice, Eggs With Chicken Katsu Bbq Topping, Hygienic Packaging, No Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu Lada Hitam",
+    "description": "Egg Fried Rice With Black Pepper Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy Bbq",
+    "description": "Fried Rice, Eggs, Topped With Crispy Bbq Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy Lada Hitam",
+    "description": "Egg Fried Rice With Black Pepper Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Original",
+    "description": "Fried Rice + Egg + Chicken Karage + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Bbq",
+    "description": "Egg Fried Rice + Bbq Chicken Steak And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Lada Hitam",
+    "description": "Egg Fried Rice, Black Pepper Chicken Steak And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Egg Squid Fried Rice",
+    "description": "Egg Fried Rice, Squid And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Squid",
+    "description": "Egg Fried Rice, Squid And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22400",
+    "name": "Fried Rice With Fried Egg Squid",
+    "description": "Fried Egg Rice, Squid And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22400",
+    "name": "White Fried Rice, Egg Squid",
+    "description": "Fried Egg Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Meatball Squid Fried Rice",
+    "description": "Egg Fried Rice, Meatballs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Squid Meatballs",
+    "description": "Egg Fried Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Cumi Sosis",
+    "description": "Egg Fried Rice, Squid, Sausage And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Sausage Squid",
+    "description": "Egg Fried Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Special Squid Fried Rice",
+    "description": "Egg Fried Rice, Squid, Meatballs, Sausages And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Special Squid",
+    "description": "Egg Fried Rice, Squid, And Vegetables (Without Soy Sauce)",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Original",
+    "description": "Egg Fried Rice, With Original Chicken Steak, Mayo And Hot Chili Salad",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Bbq",
+    "description": "Egg Fried Rice, With Bbq Chicken Steak, Mayo Salad And Hot Chili",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Blackpaper",
+    "description": "Egg Fried Rice, With Black Pepper Chicken Steak, Mayo Salad And Hot Chili",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Hot Spicy",
+    "description": "Egg Fried Rice, With Spicy Chicken Steak Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Bolognese",
+    "description": "Egg Fried Rice, With Bolognese Chicken Steak",
+    "section": "today's offer"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Mentai",
+    "description": "Egg Fried Rice, With Mentai Sauce Chicken Steak",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Butter Rice With Egg",
+    "description": "Yummy Butter Rice With Fried Egg Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23800",
+    "name": "Butter Rice Meatball",
+    "description": "Yummy Butter Rice With Meatball Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23800",
+    "name": "Butter Rice Sausage",
+    "description": "Yummy Butter Rice With Sausage Topping And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Chicken Nugget",
+    "description": "Yummy Butter Rice With Chicken Nugget Topping And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Fishroll",
+    "description": "Yummy Butter Rice With Fishroll Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Spesial",
+    "description": "Yummy Butter Rice With Sausage Meatball Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Katsu",
+    "description": "Yummy Butter Rice With Chicken Katsu Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Bistik",
+    "description": "Yummy Butter Rice With Chicken Steak Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Steak",
+    "description": "Yummy Butter Rice Topped With Chicken Steak And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Karage",
+    "description": "Yummy Butter Rice Topped With Chicken Karage And Selected Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Sambal Matah",
+    "description": "Your Yummy Butter Rice Topped With Chicken Fillet Smashed Sambal Matah",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Sambal Jeletot",
+    "description": "Yummy Butter Rice With Smashed Chicken Fillet Sambal Jeletot",
+    "section": "today's offer"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Cabe Ijo",
+    "description": "Yummy Butter Rice With Chicken Fillet Smashed Green Chilies",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Original",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Bbq",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Bbq Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Blackpaper",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Black Paper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Spicy",
+    "description": "Crispy Steak Chicken, Fried Potatoes/Rice, Vegetable Salad With Spicy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Cheesy",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Cheese Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22400",
+    "name": "Original Chicken Fried Rice",
+    "description": "Original Chicken Fried Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Teriyaki Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Teriyaki Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Blackpaper Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Black Paper Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Hot N Spicy Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Hot Spicy Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Bulgogi Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Special Bulgogi Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "22400",
+    "name": "Original Beef Fried Rice",
+    "description": "Original Smoked Beef Fried Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Teriyaki Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Teriyaki Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Blackpaper Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Black Paper Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Hot N Spicy Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice With Hot Spicy Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "24000",
+    "name": "Bulgogi Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Bulgogi Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Crazy Rice",
+    "description": "White Rice, Eggs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Nasi Gila Bakso",
+    "description": "White Rice, Eggs, Meatballs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Sausage Crazy Rice",
+    "description": "White Rice, Eggs, Sausage And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22950",
+    "name": "Special Crazy Rice",
+    "description": "White Rice, Eggs, Meatballs, Sausages And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22950",
+    "name": "Special Chicken Crazy Rice",
+    "description": "White Rice, Eggs, Chicken, Meatballs, Sausages And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22950",
+    "name": "Special Fishroll Crazy Rice",
+    "description": "White Rice, Fishroll, Meatballs, Sausages, Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "22950",
+    "name": "Nasi Gila Smoked Beef Spesial",
+    "description": "White Rice, Eggs, Smoked Beef, Meatballs, Sausages And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Egg Kwetiau",
+    "description": "Fried Kwetiau + Egg + Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Fried Egg Noodles",
+    "description": "Fried Kwetiau + Fried Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Egg Kwetiau",
+    "description": "Fried Kwetiau + Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Original Odeng",
+    "description": "Odeng Original Savory Gravy",
+    "section": "toppoki"
+  },
+  {
+    "price": "22500",
+    "name": "2Pcs Of Spicy Spicy Spicy Beef",
+    "description": "Korean Spicy Odeng",
+    "section": "toppoki"
+  },
+  {
+    "price": "22500",
+    "name": "Spicy Blackpaper 2Pcs",
+    "description": "Odeng Blackpaper Sauce",
+    "section": "toppoki"
+  },
+  {
+    "price": "22500",
+    "name": "Spicy Bbq Odeng",
+    "description": "Spicy Bbq Gravy",
+    "section": "toppoki"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Yummy",
+    "description": "Korean Spicy Toppoki Sauce",
+    "section": "toppoki"
+  },
+  {
+    "price": "19800",
+    "name": "Spicy Bbq Toppoki",
+    "description": "Spicy Bbq Sauce Toppoki",
+    "section": "toppoki"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Teriyaki",
+    "description": "Spicy Teriyaki Sauce",
+    "section": "toppoki"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Cheese",
+    "description": "Cheese Spicy Toppoki",
+    "section": "toppoki"
+  },
+  {
+    "price": "19800",
+    "name": "Toppoki Spicy Blackpaper",
+    "description": "Spicy Black Pepper Sauce",
+    "section": "toppoki"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Fishrolls",
+    "description": "Korean Spicy Topping Of Fishroll",
+    "section": "toppoki"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Sauce",
+    "description": "Korean Spicy Toppoki Sauce With Sausage Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Meatball",
+    "description": "Korean Spicy Topping Of Meatball Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "24300",
+    "name": "Toppoki With Odeng",
+    "description": "Korean Spicy Topping Sauce With Odeng Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "27000",
+    "name": "Ramboki Yummy",
+    "description": "Korean Spicy Toppoki Ramen",
+    "section": "toppoki"
+  },
+  {
+    "price": "31500",
+    "name": "Ramoki With Egg",
+    "description": "Korean Spicy Toppoki Ramen With Egg Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "31500",
+    "name": "Rabbit With Odeng",
+    "description": "Korean Spicy Toppoki Ramen With Odeng Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "36000",
+    "name": "Special Ramboki",
+    "description": "Korean Spicy Toppoki Ramen With Odeng And Egg Topping",
+    "section": "toppoki"
+  },
+  {
+    "price": "23000",
+    "name": "Hemat 1",
+    "description": "Egg Fried Rice + Sweet Iced Tea, Hygienic Packaging No Styrofoam",
+    "section": "paket hemat spesial"
+  },
+  {
+    "price": "32000",
+    "name": "Hemat 2",
+    "description": "Egg Fried Rice, Sweet Ice Tea, And 3 Pcs Of Otak2, Hygienic Packaging Do Not Use Styrofoam",
+    "section": "paket hemat spesial"
+  },
+  {
+    "price": "60000",
+    "name": "Hemat 3",
+    "description": "Special Fried Rice, Special Fried Tek2 Noodles + 2 Sweet Iced Tea, Hygienic Packaging Don'T Use Styrofoam",
+    "section": "paket hemat spesial"
+  },
+  {
+    "price": "17600",
+    "name": "Egg Fried Rice",
+    "description": "Fried Rice, Eggs And Vegetables Specify Your Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "17600",
+    "name": "White Fried Rice, Egg",
+    "description": "Fried Rice, Eggs And Vegetables (Without Soy Sauce) Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "18400",
+    "name": "Fried Rice With Fried Egg",
+    "description": "Fried Rice + Fried Egg + Vegetables Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "18400",
+    "name": "White Fried Rice, Fried Egg",
+    "description": "Fried Rice Without Soy Sauce + Fried Egg + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "18400",
+    "name": "Nasi Goreng Telur Dadar",
+    "description": "Omelet Fried Rice And Vegetables",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "18400",
+    "name": "White Fried Rice, Omelette",
+    "description": "White Fried Rice, Omelet And Vegetables (Without Soy Sauce)",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice, Eggs, Chicken, Vegetables (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Chicken",
+    "description": "Fried Rice, Eggs, Chicken, Vegetables (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "Meatball Egg Fried Rice",
+    "description": "Fried Rice, Eggs, Meatballs And Vegetables Specify Your Spicy Level!! Hygienic Packaging Do Not Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Egg Meatballs",
+    "description": "Fried Rice Without Soy Sauce + Eggs + Meatballs + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "Sausage Egg Fried Rice",
+    "description": "Fried Rice + Egg + Sausage + Vegetables Specify Your Spicy Level!!",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Egg + Meatballs + Sausage + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Special White Fried Rice",
+    "description": "Fried Rice, Eggs, Meatballs, Sausages And Vegetables (Without Soy Sauce) Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Chicken Nuggets",
+    "description": "Egg Fried Rice With Chicken Nugget Topping, Hygienic Packaging No Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Putih Chicken Nuggets",
+    "description": "Egg Fried Rice With Nugget Topping (Without Soy Sauce) Hygienic Packaging, No Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Fishroll Egg Fried Rice",
+    "description": "Fried Rice + Egg + Fishroll + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Fishroll",
+    "description": "White Rice, Eggs, Fried Fishroll And Vegetables (Without Soy Sauce)",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Smoked Beef",
+    "description": "Fried Rice + Egg + Smoked Beef + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu",
+    "description": "Fried Rice + Egg + Chicken Katsu + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Putih Chicken Katsu",
+    "description": "Fried Rice, Eggs, Vegetables, Chicken Katsu (Without Soy Sauce) Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy",
+    "description": "Egg Fried Rice, Topped With Crispy Chicken, Hygienic Packaging, Not Using Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "White Fried Rice, Crispy Chicken",
+    "description": "Egg Fried Rice, Crispy Chicken And Vegetables (Without Soy Sauce)",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu Bbq",
+    "description": "Fried Rice, Eggs With Chicken Katsu Bbq Topping, Hygienic Packaging, No Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Katsu Lada Hitam",
+    "description": "Egg Fried Rice With Black Pepper Chicken",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy Bbq",
+    "description": "Fried Rice, Eggs, Topped With Crispy Bbq Chicken",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Crispy Lada Hitam",
+    "description": "Egg Fried Rice With Black Pepper Chicken",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Original",
+    "description": "Fried Rice + Egg + Chicken Karage + Vegetables Specify Your Spicy Level!! Hygienic Packaging Don'T Use Styrofoam",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Bbq",
+    "description": "Egg Fried Rice + Bbq Chicken Steak And Vegetables",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "25600",
+    "name": "Nasi Goreng Chicken Bistik Lada Hitam",
+    "description": "Egg Fried Rice, Black Pepper Chicken Steak And Vegetables",
+    "section": "nasi goreng yummy"
+  },
+  {
+    "price": "21600",
+    "name": "Egg Squid Fried Rice",
+    "description": "Egg Fried Rice, Squid And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "21600",
+    "name": "White Fried Rice, Squid",
+    "description": "Egg Fried Rice, Squid And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "22400",
+    "name": "Fried Rice With Fried Egg Squid",
+    "description": "Fried Egg Rice, Squid And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "22400",
+    "name": "White Fried Rice, Egg Squid",
+    "description": "Fried Egg Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Meatball Squid Fried Rice",
+    "description": "Egg Fried Rice, Meatballs And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Squid Meatballs",
+    "description": "Egg Fried Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Cumi Sosis",
+    "description": "Egg Fried Rice, Squid, Sausage And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Sausage Squid",
+    "description": "Egg Fried Rice, Squid And Vegetables (Without Soy Sauce)",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Special Squid Fried Rice",
+    "description": "Egg Fried Rice, Squid, Meatballs, Sausages And Vegetables",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "White Fried Rice, Special Squid",
+    "description": "Egg Fried Rice, Squid, And Vegetables (Without Soy Sauce)",
+    "section": "special squid fried rice"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Original",
+    "description": "Egg Fried Rice, With Original Chicken Steak, Mayo And Hot Chili Salad",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Bbq",
+    "description": "Egg Fried Rice, With Bbq Chicken Steak, Mayo Salad And Hot Chili",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Blackpaper",
+    "description": "Egg Fried Rice, With Black Pepper Chicken Steak, Mayo Salad And Hot Chili",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Hot Spicy",
+    "description": "Egg Fried Rice, With Spicy Chicken Steak Sauce",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Bolognese",
+    "description": "Egg Fried Rice, With Bolognese Chicken Steak",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "29750",
+    "name": "Bento Fried Rice Chicken Steak Mentai",
+    "description": "Egg Fried Rice, With Mentai Sauce Chicken Steak",
+    "section": "bento fried rice chicken steak"
+  },
+  {
+    "price": "18700",
+    "name": "Butter Rice With Egg",
+    "description": "Yummy Butter Rice With Fried Egg Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "23800",
+    "name": "Butter Rice Meatball",
+    "description": "Yummy Butter Rice With Meatball Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "23800",
+    "name": "Butter Rice Sausage",
+    "description": "Yummy Butter Rice With Sausage Topping And Your Choice Of Sauce",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Chicken Nugget",
+    "description": "Yummy Butter Rice With Chicken Nugget Topping And Your Choice Of Sauce",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Fishroll",
+    "description": "Yummy Butter Rice With Fishroll Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Butter Rice Spesial",
+    "description": "Yummy Butter Rice With Sausage Meatball Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Katsu",
+    "description": "Yummy Butter Rice With Chicken Katsu Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Bistik",
+    "description": "Yummy Butter Rice With Chicken Steak Topping",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Steak",
+    "description": "Yummy Butter Rice Topped With Chicken Steak And Your Choice Of Sauce",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Chicken Karage",
+    "description": "Yummy Butter Rice Topped With Chicken Karage And Selected Sauce",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Sambal Matah",
+    "description": "Your Yummy Butter Rice Topped With Chicken Fillet Smashed Sambal Matah",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Sambal Jeletot",
+    "description": "Yummy Butter Rice With Smashed Chicken Fillet Sambal Jeletot",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "27200",
+    "name": "Butter Rice Ayam Geprek Cabe Ijo",
+    "description": "Yummy Butter Rice With Chicken Fillet Smashed Green Chilies",
+    "section": "butter rice yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Original",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad",
+    "section": "chicken steak yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Bbq",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Bbq Sauce",
+    "section": "chicken steak yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Blackpaper",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Black Paper Sauce",
+    "section": "chicken steak yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Spicy",
+    "description": "Crispy Steak Chicken, Fried Potatoes/Rice, Vegetable Salad With Spicy Sauce",
+    "section": "chicken steak yummy"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Steak Cheesy",
+    "description": "Crispy Steak Chicken, French Fries/Rice, Vegetable Salad With Cheese Sauce",
+    "section": "chicken steak yummy"
+  },
+  {
+    "price": "22400",
+    "name": "Original Chicken Fried Rice",
+    "description": "Original Chicken Fried Rice",
+    "section": "chicken fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Teriyaki Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Teriyaki Special Seasoning",
+    "section": "chicken fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Blackpaper Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Black Paper Special Seasoning",
+    "section": "chicken fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Hot N Spicy Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Hot Spicy Seasoning",
+    "section": "chicken fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Bulgogi Chicken Fried Rice",
+    "description": "Chicken Fried Rice, Fried Egg With Special Bulgogi Seasoning",
+    "section": "chicken fried rice"
+  },
+  {
+    "price": "22400",
+    "name": "Original Beef Fried Rice",
+    "description": "Original Smoked Beef Fried Rice",
+    "section": "beef fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Teriyaki Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Teriyaki Special Seasoning",
+    "section": "beef fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Blackpaper Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Black Paper Special Seasoning",
+    "section": "beef fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Hot N Spicy Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice With Hot Spicy Special Seasoning",
+    "section": "beef fried rice"
+  },
+  {
+    "price": "24000",
+    "name": "Bulgogi Beef Fried Rice",
+    "description": "Smoked Beef Fried Rice, Fried Egg With Bulgogi Special Seasoning",
+    "section": "beef fried rice"
+  },
+  {
+    "price": "17000",
+    "name": "Crazy Rice",
+    "description": "White Rice, Eggs And Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "21250",
+    "name": "Nasi Gila Bakso",
+    "description": "White Rice, Eggs, Meatballs And Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "21250",
+    "name": "Sausage Crazy Rice",
+    "description": "White Rice, Eggs, Sausage And Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "22950",
+    "name": "Special Crazy Rice",
+    "description": "White Rice, Eggs, Meatballs, Sausages And Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "22950",
+    "name": "Special Chicken Crazy Rice",
+    "description": "White Rice, Eggs, Chicken, Meatballs, Sausages And Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "22950",
+    "name": "Special Fishroll Crazy Rice",
+    "description": "White Rice, Fishroll, Meatballs, Sausages, Vegetables",
+    "section": "crazy rice"
+  },
+  {
+    "price": "22950",
+    "name": "Nasi Gila Smoked Beef Spesial",
+    "description": "White Rice, Eggs, Smoked Beef, Meatballs, Sausages And Vegetables",
+    "section": "crazy rice"
+  }
+]

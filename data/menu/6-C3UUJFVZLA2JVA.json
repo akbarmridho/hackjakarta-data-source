@@ -1,0 +1,188 @@
+[
+  {
+    "price": "120000",
+    "name": "#Tukuserudirumah",
+    "description": "Paket #TUKUSerudiRumah berisi 5 Es Kopi Susu Tetangga.",
+    "section": "today's offer"
+  },
+  {
+    "price": "120000",
+    "name": "#Tukuserudirumah",
+    "description": "Paket #TUKUSerudiRumah berisi 5 Es Kopi Susu Tetangga.",
+    "section": "paket tetangga tuku"
+  },
+  {
+    "price": "110000",
+    "name": "#Tukuserudirumah Kopi Hitam",
+    "description": "",
+    "section": "paket tetangga tuku"
+  },
+  {
+    "price": "120000",
+    "name": "TUKUCUR Kopi Susu Tetangga",
+    "description": "Minuman es kopi susu favorit Tetangga Tuku dengan cita rasa lokal! Perpaduan espresso, susu, krimer dan gula aren. Disajikan dalam botol berukuran 1 liter.",
+    "section": "kopi tetangga"
+  },
+  {
+    "price": "25000",
+    "name": "Tetangga Ice Coffee Milk",
+    "description": "Tetangga Iced Coffee Tuku With Local Flavors! A Blend Of Espresso, Milk, Cream And Palm Sugar. Served In A Size Of 12 Oz",
+    "section": "kopi tetangga"
+  },
+  {
+    "price": "28000",
+    "name": "Es Go Es",
+    "description": "Es jeruk nipis, kelapa, dan madu. Cocok diminum setelah berolahraga! Disajikan dalam gelas berukuran 12oz",
+    "section": "selain kopi"
+  },
+  {
+    "price": "88000",
+    "name": "TUKUCUR Es Teh Remon",
+    "description": "Teh sereh harum bertemu kesegeran lemon! Disajikan dalam botol berukuran 1 liter.",
+    "section": "selain kopi"
+  },
+  {
+    "price": "31000",
+    "name": "Iced Earl Grey Milk Tea",
+    "description": "Pekatnya Iced Earl Grey Tea yang dipadukan dengan lembutnya susu, menciptakan rasa yang tak tergantikan! Disajikan dalam gelas berukuran 12oz",
+    "section": "selain kopi"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Chocolate",
+    "description": "Perpaduan bubuk cokelat lokal dan susu yang lembut. Iced Chocolate menghadirkan rasa yang sederhana namun tak tergantikan. Disajikan dalam gelas berukuran 12oz",
+    "section": "selain kopi"
+  },
+  {
+    "price": "28000",
+    "name": "Es Kelapa Jeruk",
+    "description": "Perpaduan air kelapa dan jeruk. Segarnya tak cukup seteguk! Disajikan dalam gelas berukuran 12oz",
+    "section": "selain kopi"
+  },
+  {
+    "price": "28000",
+    "name": "Es Teh Remon",
+    "description": "Teh sereh harum bertemu kesegeran lemon! Disajikan dalam gelas berukuran 12oz",
+    "section": "selain kopi"
+  },
+  {
+    "price": "11000",
+    "name": "Donat Cokelat",
+    "description": "Donat lembut dengan selai dan taburan cokelat di atasnya. Harga 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "13000",
+    "name": "Bolu Cokelat",
+    "description": "Bolu Cokelat lembut favorit Tetangga Tuku! Cocok dinikmati bareng kopi hitam. Harga untuk 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "13000",
+    "name": "Bolu Gula Aren",
+    "description": "Bolu Gula Aren yang lembut dan cocok dinikmati dengan minuman favorit Tetangga Tuku! Harga untuk 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "8000",
+    "name": "Donat Kampoeng",
+    "description": "Donat Kampoeng yang dibaluri gula putih. Harga 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "13000",
+    "name": "Banana Bread",
+    "description": "Bolu lembut dengan perpaduan pisang dan cokelat. Manisnya pas! Harga untuk 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "13000",
+    "name": "Bolu Wortel",
+    "description": "Bolu Wortel yang lembut dengan cream cheese di atasnya! Harga untuk 1 pcs.",
+    "section": "tukudapan (food)"
+  },
+  {
+    "price": "102000",
+    "name": "Tetangga Blend 250gr",
+    "description": "Biji kopi Tetangga Blend adalah biji kopi Arabika yang digunakan untuk Es Kopi Susu Tetangga. Memiliki profil sangrai Medium to Dark dan tingkat keasaman yang rendah.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "110000",
+    "name": "Cipete Blend 250gr",
+    "description": "Biji kopi Cipete Blend adalah biji kopi Arabika yang memiliki profil sangrai Medium dengan tingkat keasaman yang medium, sehingga rasa kopinya lebih ringan bila dibandingkan dengan biji kopi Tetangga Blend.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "110000",
+    "name": "Single Origin Solok (250gr)",
+    "description": "Biji kopi Single Origin 250gr - Solok merupakan biji kopi jenis Arabika yang telah disangrai dengan profil light to medium. Biji kopi ini menawarkan cita rasa gula aren, jeruk, dengan sentuhan rasa apel dan Karamel.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "110000",
+    "name": "Single Origin Gayo (250gr)",
+    "description": "Biji kopi Single Origin 250gr - Gayo merupakan biji kopi jenis Arabika yang telah disangrai dengan profil sangrai light to medium. Biji kopi ini menawarkan cita rasa gula aren, teh hitam, cengkeh dengan sentuhan rasa apel.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "110000",
+    "name": "Single Origin Flores (250gr)",
+    "description": "Biji kopi Single Origin 250gr - Flores merupakan biji kopi jenis Arabika yang telah disangrai dengan profil light to medium. Biji kopi ini menawarkan sentuhan cita rasa jeruk, cokelat, dan kacang mede.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "110000",
+    "name": "Single Origin Bali (250gr)",
+    "description": "Biji kopi Single Origin 250gr - Biji Kopi asal Bali merupakan jenis Arabika yang telah disangrai dengan profil light to medium. Biji kopi ini menawarkan cita rasa nanas,dengan sentuhan rasa leci dan cokelat.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "85000",
+    "name": "Single Origin Robusta Flores (250gr)",
+    "description": "Biji kopi Single Origin 250gr - Flores merupakan biji kopi jenis Robusta yang telah disangrai dengan profil light to medium. Biji kopi ini menawarkan sentuhan cita rasa gula aren, cokelat, dan hazelnut.",
+    "section": "toserbaku retail"
+  },
+  {
+    "price": "8000",
+    "name": "Kantong TUKU Daur Ulang",
+    "description": "Kantong TUKU hasil daur ulang untuk bawa minuman favorit tetangga! Tersedia dalam 3 ukuran: Besar, Sedang, Kecil",
+    "section": "toserbaku merchandise"
+  },
+  {
+    "price": "18000",
+    "name": "Ikat Rambut Tetangga Tuku",
+    "description": "Ikat rambut untuk Tetangga Tuku",
+    "section": "toserbaku merchandise"
+  },
+  {
+    "price": "25000",
+    "name": "(Set) Jepit Rambut Tetangga",
+    "description": "1 set jepit rambut untuk Tetangga Tuku",
+    "section": "toserbaku merchandise"
+  },
+  {
+    "price": "3000",
+    "name": "Kartu Ucapan",
+    "description": "Kirim-kirim pesan hangat untuk kerabat terdekat dengan Kartu Ucapan ini ya, tetangga!",
+    "section": "toserbaku merchandise"
+  },
+  {
+    "price": "38000",
+    "name": "EKST Plant Based",
+    "description": "Minuman favorit Tetangga Tuku dengan 100% susu nabati yang disajikan dingin. Menggunakan espresso Tetangga Blend, campuran susu kelapa dan susu oat, krimer nabati dari kelapa, dan gula aren.",
+    "section": "plant based"
+  },
+  {
+    "price": "25000",
+    "name": "Beragam Kopi Filter Dingin (PAGI)",
+    "description": "Kopi filter yang menggunakan biji kopi Pagi Blend. Menawarkan rasa manis dengan sentuhan cokelat, dan memiliki body yang tebal. Cocok dinikmati pagi hari sebelum beraktivitas! Disajikan dingin dalam gelas berukuran 12oz",
+    "section": "kopi premium"
+  },
+  {
+    "price": "28000",
+    "name": "Beragam Kopi Filter Dingin (SORE)",
+    "description": "Kopi filter yang menggunakan biji kopi Sore Blend. Menawarkan rasa yang kompleks dengan sentuhan buah-buahan. Cocok dinikmati di pengujung hari! Disajikan dingin dalam gelas berukuran 12oz",
+    "section": "kopi premium"
+  }
+]

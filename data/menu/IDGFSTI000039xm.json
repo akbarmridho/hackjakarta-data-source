@@ -1,0 +1,776 @@
+[
+  {
+    "price": "104546",
+    "name": "Bottled Combo 1",
+    "description": "Bottled Fresh Honey Lemon Juice + Bottled Ovaltine",
+    "section": "today's offer"
+  },
+  {
+    "price": "117273",
+    "name": "Bottled Combo 2",
+    "description": "Bottled Milk Tea + Bottled Ovaltine",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Bottled Combo 3",
+    "description": "Bottled Milk Tea + Bottled Green Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Bottled Combo 4",
+    "description": "Bottled Creamy Matcha + Bottled Mango Green Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 1",
+    "description": "M-Golden Bubble Milk Tea + M-Ovaltine",
+    "section": "today's offer"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 2",
+    "description": "M-Golden Bubble Milk Tea + M-Bubble Green Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 3",
+    "description": "M-Creamy Matcha + M-Bubble Honey Green Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "51818",
+    "name": "Medium Combo 4",
+    "description": "M-Bubble Ovaltine + M-Passion Fruit Green Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "113637",
+    "name": "Medium Family Package - 1",
+    "description": "(3) M-Ovatine + (2) M-Bubbble Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "104546",
+    "name": "Medium Family Package - 2",
+    "description": "(5) M-Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "113637",
+    "name": "Medium Family Package - 3",
+    "description": "(5) M-Buble Green Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "113636",
+    "name": "Medium Family Package - 4",
+    "description": "(2) M-Koi Cafe + (3) M-Milk Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "170909",
+    "name": "Merchandise Package 1",
+    "description": "L-Bubbble Milk Tea + Foldable Umbrella",
+    "section": "merchandise package"
+  },
+  {
+    "price": "170909",
+    "name": "Merchandise Package 2",
+    "description": "L-Ovtine + Foldable Umbrella",
+    "section": "merchandise package"
+  },
+  {
+    "price": "24545",
+    "name": "Brown Sugar Milk Tea",
+    "description": "Brown Sugar Milk Tea",
+    "section": "brown sugar series"
+  },
+  {
+    "price": "26364",
+    "name": "Brown Sugar Fresh Milk",
+    "description": "Brown Sugar Fresh Milk",
+    "section": "brown sugar series"
+  },
+  {
+    "price": "23636",
+    "name": "Koi Cafe",
+    "description": "Koi Cafe",
+    "section": "handmade cafe"
+  },
+  {
+    "price": "28182",
+    "name": "Koi Cafe Macchiato",
+    "description": "Cabbage Machiato",
+    "section": "handmade cafe"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Choco Mint",
+    "description": "Gelato Choco Mint",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Ovaltine",
+    "description": "Gelato Ovatine",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Biscoff",
+    "description": "Gelato Biscoff",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Pistachio",
+    "description": "Gelato Pistachio",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Choco Ferrero",
+    "description": "Gelato Choco Ferrero",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Salted Caramel",
+    "description": "Smashed Caramel Gelato",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Strawberry Gelato",
+    "description": "Gelato Strawberry",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Coffee",
+    "description": "Gelato Coffee",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Mango Sorbet",
+    "description": "Sorbet Mango",
+    "section": "koi gelato"
+  },
+  {
+    "price": "38182",
+    "name": "Gelato Lychee Raspberry",
+    "description": "Gelato Lychee Raspberry",
+    "section": "koi gelato"
+  },
+  {
+    "price": "80909",
+    "name": "Bottled - Dark Chocolate Milk",
+    "description": "Bottled Dark Chocolate Milk",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "104546",
+    "name": "Bottled Combo 1",
+    "description": "Bottled Fresh Honey Lemon Juice + Bottled Ovaltine",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "99091",
+    "name": "Bottled - Dark Chocolate Macchiato",
+    "description": "Bottled Dark Chocolate Macchiato",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "117273",
+    "name": "Bottled Combo 2",
+    "description": "Bottled Milk Tea + Bottled Ovaltine",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "90000",
+    "name": "Bottled Combo 3",
+    "description": "Bottled Milk Tea + Bottled Green Milk Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "90000",
+    "name": "Bottled Combo 4",
+    "description": "Bottled Creamy Matcha + Bottled Mango Green Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "68182",
+    "name": "Bottled - Milk Tea",
+    "description": "Bottled - Milk Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "68182",
+    "name": "Bottled - Green Milk Tea",
+    "description": "Box - Green Milk Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "77273",
+    "name": "Bottled - Honey Milk Tea",
+    "description": "Bottled - Honey Milk Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "99091",
+    "name": "Bottled - Ovaltine Macchiato",
+    "description": "Bottled - Ovaltine Macchiato",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "71818",
+    "name": "Bottled - Matcha Latte",
+    "description": "Bottled - Matcha Latte",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "62727",
+    "name": "Bottled - Honey Lemon Juice",
+    "description": "Bottled - Honey Lemon Juice",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "62727",
+    "name": "Bottled - Mango Green Tea",
+    "description": "Bottled - Mango Green Tea",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "90000",
+    "name": "Bottled - Mango Macchiato",
+    "description": "Bottled - Mango Macchiato",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "80909",
+    "name": "Bottled - Ovaltine",
+    "description": "Bottled - Ovaltine",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "80909",
+    "name": "Bottled - Chocolate Milk",
+    "description": "Bottled - Chocolate Milk",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 1",
+    "description": "M-Golden Bubble Milk Tea + M-Ovaltine",
+    "section": "combo package"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 2",
+    "description": "M-Golden Bubble Milk Tea + M-Bubble Green Milk Tea",
+    "section": "combo package"
+  },
+  {
+    "price": "51819",
+    "name": "Medium Combo 3",
+    "description": "M-Creamy Matcha + M-Bubble Honey Green Tea",
+    "section": "combo package"
+  },
+  {
+    "price": "51818",
+    "name": "Medium Combo 4",
+    "description": "M-Bubble Ovaltine + M-Passion Fruit Green Tea",
+    "section": "combo package"
+  },
+  {
+    "price": "113637",
+    "name": "Medium Family Package - 1",
+    "description": "(3) M-Ovatine + (2) M-Bubbble Milk Tea",
+    "section": "family package"
+  },
+  {
+    "price": "104546",
+    "name": "Medium Family Package - 2",
+    "description": "(5) M-Milk Tea",
+    "section": "family package"
+  },
+  {
+    "price": "113637",
+    "name": "Medium Family Package - 3",
+    "description": "(5) M-Buble Green Milk Tea",
+    "section": "family package"
+  },
+  {
+    "price": "113636",
+    "name": "Medium Family Package - 4",
+    "description": "(2) M-Koi Cafe + (3) M-Milk Tea",
+    "section": "family package"
+  },
+  {
+    "price": "21818",
+    "name": "Mango Green Milk Tea",
+    "description": "Mango Green Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "19091",
+    "name": "Milk Tea",
+    "description": "Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "19091",
+    "name": "Green Milk Tea",
+    "description": "Green Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Honey Milk Tea",
+    "description": "Honey Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Ovaltine",
+    "description": "Ovtine",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Creamy Matcha",
+    "description": "Creamy Matcha",
+    "section": "milk tea"
+  },
+  {
+    "price": "22727",
+    "name": "Hazelnut Milk Tea",
+    "description": "Hazelnut Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Chocolate Milk",
+    "description": "Chocolate Milk",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Chocolate Green Milk Tea",
+    "description": "Chocolate Green Milk Tea",
+    "section": "milk tea"
+  },
+  {
+    "price": "25455",
+    "name": "Hazelnut Chocolate Milk",
+    "description": "Chocolate Milk",
+    "section": "milk tea"
+  },
+  {
+    "price": "21818",
+    "name": "Green Tea Macchiato",
+    "description": "Green Tea Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "21818",
+    "name": "Black Tea Macchiato",
+    "description": "Black Tea Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "24545",
+    "name": "Mango Green Tea Macchiato",
+    "description": "Mango Green Tea Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "24545",
+    "name": "Passion Fruit Macchiato",
+    "description": "Passion Fruit Green Tea Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "24545",
+    "name": "Fresh Lemon Macchiato",
+    "description": "Fresh Lemon Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "25455",
+    "name": "Caramel Black Tea Macchiato",
+    "description": "Caramel Black Tea Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "25455",
+    "name": "Ovaltine Macchiato",
+    "description": "O Varietyine Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "26364",
+    "name": "Matcha Macchiato",
+    "description": "Matcha Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "25455",
+    "name": "Chocolate Macchiato",
+    "description": "Chocolate Macchiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "16364",
+    "name": "Jasmine Green Tea",
+    "description": "Green Tea Jasin",
+    "section": "flavored tea"
+  },
+  {
+    "price": "16364",
+    "name": "Assam Black Tea",
+    "description": "Assam Black Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "19091",
+    "name": "Honey Green Tea",
+    "description": "Honey Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "20000",
+    "name": "Fresh Lemon Green Tea",
+    "description": "Fresh Lemon Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "20000",
+    "name": "Fresh Lime Green Tea",
+    "description": "Fresh Lime Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "20000",
+    "name": "Passion Fruit Green Tea",
+    "description": "Passion Fruit Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "20000",
+    "name": "Mango Green Tea",
+    "description": "Mango Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "22727",
+    "name": "Yakult Green Tea",
+    "description": "Yakut Green Tea",
+    "section": "flavored tea"
+  },
+  {
+    "price": "17273",
+    "name": "Ice Honey",
+    "description": "Ice Honey",
+    "section": "juice"
+  },
+  {
+    "price": "17273",
+    "name": "Fresh Lemon Lime Juice",
+    "description": "Fresh Lemon Lim Juice",
+    "section": "juice"
+  },
+  {
+    "price": "17273",
+    "name": "Mango Juice",
+    "description": "Mango Juice",
+    "section": "juice"
+  },
+  {
+    "price": "17273",
+    "name": "Passion Fruit Juice",
+    "description": "Passion Fruit",
+    "section": "juice"
+  },
+  {
+    "price": "19091",
+    "name": "Fresh Honey Lemon Juice",
+    "description": "Fresh Honey Lemon Juice",
+    "section": "juice"
+  },
+  {
+    "price": "24545",
+    "name": "Honey Aloe Vera",
+    "description": "Honey Aloe Vera",
+    "section": "juice"
+  },
+  {
+    "price": "25455",
+    "name": "Fresh Lemon Yakult Juice",
+    "description": "Fresh Lemon Yakelt Juice",
+    "section": "juice"
+  },
+  {
+    "price": "25455",
+    "name": "Mango Yakult Juice",
+    "description": "Mango Yakelt Juice",
+    "section": "juice"
+  },
+  {
+    "price": "26364",
+    "name": "Hot Green Tea Macchiato",
+    "description": "Hot Green Tea Macchiato",
+    "section": "hot series"
+  },
+  {
+    "price": "26364",
+    "name": "Hot Black Tea Macchiato",
+    "description": "Hot Black Tea Macchiato",
+    "section": "hot series"
+  },
+  {
+    "price": "32727",
+    "name": "Hot Ovaltine Macchiato",
+    "description": "Hotovatine Macchiato",
+    "section": "hot series"
+  },
+  {
+    "price": "20909",
+    "name": "Hot Jasmine Green Tea",
+    "description": "Hot Jamine Green Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "20909",
+    "name": "Hot Assam Black Tea",
+    "description": "Hot Assam Black Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "25455",
+    "name": "Hot Fresh Lemon Green Tea",
+    "description": "Hot Fresh Lemon Green Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "25455",
+    "name": "Hot Fresh Lime Green Tea",
+    "description": "Hot Fresh Lime Green Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "24545",
+    "name": "Hot Milk Tea",
+    "description": "Hot Milk Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "24545",
+    "name": "Hot Green Milk Tea",
+    "description": "Hot Green Milk Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "27273",
+    "name": "Hot Green Tea Latte",
+    "description": "Hot Tea Latte",
+    "section": "hot series"
+  },
+  {
+    "price": "27273",
+    "name": "Hot Black Tea Latte",
+    "description": "Hot Black Tea Latte",
+    "section": "hot series"
+  },
+  {
+    "price": "30909",
+    "name": "Hot Ovaltine Latte",
+    "description": "Hot O Varietyine Latte",
+    "section": "hot series"
+  },
+  {
+    "price": "32727",
+    "name": "Hot Brown Sugar Milk Tea",
+    "description": "Hot Brown Sugar Milk Tea",
+    "section": "hot series"
+  },
+  {
+    "price": "34545",
+    "name": "Hot Brown Sugar Fresh Milk",
+    "description": "Hot Brown Sugar Fresh Milk",
+    "section": "hot series"
+  },
+  {
+    "price": "32727",
+    "name": "Hot Chocolate Macchiato",
+    "description": "Hot Chocolate Macchiato",
+    "section": "hot series"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Chocolate Milk",
+    "description": "Hot Chocolate Milk",
+    "section": "hot series"
+  },
+  {
+    "price": "31818",
+    "name": "Hot Hazelnut Chocolate Milk",
+    "description": "Hot Hazelnut Chocolate Milk",
+    "section": "hot series"
+  },
+  {
+    "price": "21818",
+    "name": "Green Tea Latte",
+    "description": "Green Tea Latte",
+    "section": "tea latte"
+  },
+  {
+    "price": "21818",
+    "name": "Black Tea Latte",
+    "description": "Black Latte",
+    "section": "tea latte"
+  },
+  {
+    "price": "25455",
+    "name": "Ovaltine Latte",
+    "description": "O Varietyine Latte",
+    "section": "tea latte"
+  },
+  {
+    "price": "26364",
+    "name": "Matcha Latte",
+    "description": "Matcha Latte",
+    "section": "tea latte"
+  },
+  {
+    "price": "27273",
+    "name": "Mango Green Tea Aloe Vera",
+    "description": "Mango Green Tea Aloe Vera",
+    "section": "chewy tea"
+  },
+  {
+    "price": "20909",
+    "name": "Ice Cream Black Tea",
+    "description": "Ice Cream Black Tea",
+    "section": "chewy tea"
+  },
+  {
+    "price": "22727",
+    "name": "Golden Bubble Milk Tea",
+    "description": "Delicious Milk Tea",
+    "section": "chewy tea"
+  },
+  {
+    "price": "26364",
+    "name": "Grass Jelly Milk Tea",
+    "description": "Grass Jelly Milk Tea",
+    "section": "chewy tea"
+  },
+  {
+    "price": "26364",
+    "name": "Konjac Jelly Milk Tea",
+    "description": "Konjac Jelly Milk Tea",
+    "section": "chewy tea"
+  },
+  {
+    "price": "26364",
+    "name": "Ice Cream Chocolate Milk",
+    "description": "Ice Cream Chocolate Milk",
+    "section": "chewy tea"
+  },
+  {
+    "price": "27273",
+    "name": "Passion Fruit Aloe Vera",
+    "description": "Passion Fruit Aloe Vera",
+    "section": "chewy tea"
+  },
+  {
+    "price": "30000",
+    "name": "Biscuit Milk Tea",
+    "description": "Milk Tea Steak",
+    "section": "chewy tea"
+  },
+  {
+    "price": "30000",
+    "name": "Biscuit Ovaltine",
+    "description": "Ovtine Cucuit",
+    "section": "chewy tea"
+  },
+  {
+    "price": "30000",
+    "name": "Biscuit Chocolate Milk",
+    "description": "Chocolate Milk",
+    "section": "chewy tea"
+  },
+  {
+    "price": "21818",
+    "name": "Dark Chocolate Milk",
+    "description": "Dark Chocolate Milk",
+    "section": "dark chocolate series"
+  },
+  {
+    "price": "25455",
+    "name": "Dark Chocolate Macchiato",
+    "description": "Dark Chocolate Macchiato",
+    "section": "dark chocolate series"
+  },
+  {
+    "price": "25455",
+    "name": "Hazelnut Dark Chocolate Milk",
+    "description": "Hazelnut Dark Chocolate Milk",
+    "section": "dark chocolate series"
+  },
+  {
+    "price": "27273",
+    "name": "Ai Yu Passion Fruit Green Tea",
+    "description": "Ai Yu Passion Green Tea",
+    "section": "ai yu series"
+  },
+  {
+    "price": "26364",
+    "name": "Ai Yu Milk Tea",
+    "description": "Ai Yu Milk Tea",
+    "section": "ai yu series"
+  },
+  {
+    "price": "24545",
+    "name": "Ai Yu Ice Honey",
+    "description": "Ai Yuce Honey",
+    "section": "ai yu series"
+  },
+  {
+    "price": "21818",
+    "name": "Lychee Black Tea",
+    "description": "Lychee Black Tea",
+    "section": "lychee series"
+  },
+  {
+    "price": "21818",
+    "name": "Lychee Milk Tea",
+    "description": "Lychee Milk Tea",
+    "section": "lychee series"
+  },
+  {
+    "price": "25455",
+    "name": "Lychee Black Tea Macchiato",
+    "description": "Lychee Black Tea Macchiato",
+    "section": "lychee series"
+  },
+  {
+    "price": "24545",
+    "name": "Lychee Yakult Black Tea",
+    "description": "Lychee Light Black Tea",
+    "section": "lychee series"
+  },
+  {
+    "price": "15455",
+    "name": "Light Black Tea",
+    "description": "Light Black Tea",
+    "section": "light tea series"
+  }
+]

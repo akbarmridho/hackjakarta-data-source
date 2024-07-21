@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "220000",
+    "name": "Buy 2 Get 1 Red Velvet",
+    "description": "2 Red Velvet Topping Cream Cheese + Oreo Free 1 Egg Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "187000",
+    "name": "Buy 2 Get 1 Martab",
+    "description": "2 Martab Toppings Of Peanut Chocolate Sesame Cheese Free 1 Salted Martabak",
+    "section": "today's offer"
+  },
+  {
+    "price": "220000",
+    "name": "Buy 2 Get 1 Red Velvet",
+    "description": "2 Red Velvet Topping Cream Cheese + Oreo Free 1 Egg Martabak",
+    "section": "spesial promo"
+  },
+  {
+    "price": "187000",
+    "name": "Buy 2 Get 1 Martab",
+    "description": "2 Martab Toppings Of Peanut Chocolate Sesame Cheese Free 1 Salted Martabak",
+    "section": "spesial promo"
+  },
+  {
+    "price": "253000",
+    "name": "Red Velvet Ovomaltine Large Spesial",
+    "description": "Ovoaltine Peanut Cheese",
+    "section": "red velvet series"
+  },
+  {
+    "price": "225500",
+    "name": "Red Velvet Ovomaltine Large",
+    "description": "Ovoaltine Peanut Cheese",
+    "section": "red velvet series"
+  },
+  {
+    "price": "198000",
+    "name": "Red Velvet Ovomaltine Reg Spesial",
+    "description": "Ovoaltine Peanut Cheese",
+    "section": "red velvet series"
+  },
+  {
+    "price": "170500",
+    "name": "Red Velvet Ovomaltine Reguler",
+    "description": "Ovoaltine Peanut Cheese",
+    "section": "red velvet series"
+  },
+  {
+    "price": "209000",
+    "name": "Red Velvet Nutela Large Spesial",
+    "description": "Peanut Cheese Nutela",
+    "section": "red velvet series"
+  },
+  {
+    "price": "181500",
+    "name": "Red Velvet Nurela Large",
+    "description": "nutela kacang keju",
+    "section": "red velvet series"
+  },
+  {
+    "price": "154000",
+    "name": "Red Velvet Nutela Reguler Spesial",
+    "description": "nutela kacang keju",
+    "section": "red velvet series"
+  },
+  {
+    "price": "126500",
+    "name": "Red Velvet Nutela Reguler",
+    "description": "nutela kacang keju",
+    "section": "red velvet series"
+  },
+  {
+    "price": "170500",
+    "name": "Red Velvet Komplit Large Spesial",
+    "description": "keju kacang mesis",
+    "section": "red velvet series"
+  },
+  {
+    "price": "143000",
+    "name": "Red Velvet Komplit Large",
+    "description": "keju kacang mesis",
+    "section": "red velvet series"
+  },
+  {
+    "price": "132000",
+    "name": "Red Velvet Komplit Reguler Spesial",
+    "description": "",
+    "section": "red velvet series"
+  },
+  {
+    "price": "104500",
+    "name": "Red Velvet Complete Regular",
+    "description": "keju kacang mesis",
+    "section": "red velvet series"
+  },
+  {
+    "price": "176000",
+    "name": "Red Velvet Large Spesial",
+    "description": "Cream Cheese + Oreos",
+    "section": "red velvet series"
+  },
+  {
+    "price": "148500",
+    "name": "Red Velvet Large",
+    "description": "cream chese + oreo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "137500",
+    "name": "Red Velvet Regular Spesial",
+    "description": "Cream Cheese +Eo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "110000",
+    "name": "Red Velvet Reg",
+    "description": "Cream Cheese + Oreos",
+    "section": "red velvet series"
+  },
+  {
+    "price": "214500",
+    "name": "Red Velvet Toblerone Large Spesial",
+    "description": "Toblerone Peanut Cheese",
+    "section": "red velvet series"
+  },
+  {
+    "price": "187000",
+    "name": "Red Velvet Toblerone Large",
+    "description": "Peanut Cheese Tobleron",
+    "section": "red velvet series"
+  },
+  {
+    "price": "159500",
+    "name": "Red Velvet Toblerone Reguler Spesial",
+    "description": "Peanut Cheese Tobleron",
+    "section": "red velvet series"
+  },
+  {
+    "price": "132000",
+    "name": "Red Velvet Toblerone Reguler",
+    "description": "Peanut Cheese Tobleron",
+    "section": "red velvet series"
+  },
+  {
+    "price": "16500",
+    "name": "Duco Slice",
+    "description": "Peanut Sprinkles Cheese",
+    "section": "martabakku slice"
+  },
+  {
+    "price": "55000",
+    "name": "Pandan",
+    "description": "Cheese + Corn",
+    "section": "martabak mini"
+  },
+  {
+    "price": "71500",
+    "name": "Pandan Special",
+    "description": "Cheese + Corn",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Komplit",
+    "description": "Sesame + Cheese + Peanuts + Meises",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Komplit Special",
+    "description": "Sesame + Cheese + Peanuts + Meises",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Komplit Pandan",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Komplit Pandan Special",
+    "description": "Sesame + Cheese + Peanuts + Meises",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Nutella",
+    "description": "Cheese + Peanuts",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Nutella Special",
+    "description": "Cheese + Peanuts, Original Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Nutella Pandan",
+    "description": "Cheese + Peanuts, Pandan Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Nutella Pandan Special",
+    "description": "Cheese + Peanuts, Pandan Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Red Velvet",
+    "description": "Cream Cheese + Oreo",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Red Velvet Special",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Black Komplit",
+    "description": "Cheese + Nuts + Meises",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Black Komplit Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "martabak mini"
+  },
+  {
+    "price": "66000",
+    "name": "Ovomaltine",
+    "description": "Cheese + Peanuts, Original Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "82500",
+    "name": "Ovomaltine Special",
+    "description": "Cheese + Peanuts, Original Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Pandan Velvet",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Pandan Velvet Special",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak mini"
+  },
+  {
+    "price": "66000",
+    "name": "Ovomaltine Pandan",
+    "description": "Cheese + Peanuts, Pandan Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "82500",
+    "name": "Ovomaltine Pandan Special",
+    "description": "Cheese + Peanuts, Pandan Base",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Black Mini Toblerone",
+    "description": "Cheese + Nuts",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Black Mini Toblerone Spesial",
+    "description": "Cheese + Nuts",
+    "section": "martabak mini"
+  },
+  {
+    "price": "60500",
+    "name": "Biscoff",
+    "description": "Cheese + Nuts, Base Biscoff",
+    "section": "martabak mini"
+  },
+  {
+    "price": "77000",
+    "name": "Biscoff Spesial",
+    "description": "Cheese + Nuts, Base Biscoff",
+    "section": "martabak mini"
+  },
+  {
+    "price": "66000",
+    "name": "Complete Thin Martabak",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "thin martabak (martis)"
+  },
+  {
+    "price": "82500",
+    "name": "Nutella Thin",
+    "description": "Cheese + Nuts",
+    "section": "thin martabak (martis)"
+  },
+  {
+    "price": "99000",
+    "name": "Thin Ovomaltine",
+    "description": "Cheese + Nuts",
+    "section": "thin martabak (martis)"
+  },
+  {
+    "price": "82500",
+    "name": "Toblerone Tipis",
+    "description": "Cheese + Nuts",
+    "section": "thin martabak (martis)"
+  },
+  {
+    "price": "71500",
+    "name": "Biscoff Tipis",
+    "description": "Cheese + Nuts",
+    "section": "thin martabak (martis)"
+  },
+  {
+    "price": "93500",
+    "name": "Complete Regular Martabak",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "martabak manis tebal basah (marteb)"
+  },
+  {
+    "price": "121000",
+    "name": "Martabak Komplit Reg Special",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "martabak manis tebal basah (marteb)"
+  },
+  {
+    "price": "132000",
+    "name": "Martabak Komplit Large",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "martabak manis tebal basah (marteb)"
+  },
+  {
+    "price": "159500",
+    "name": "Martabak Komplit Large Special",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "martabak manis tebal basah (marteb)"
+  },
+  {
+    "price": "115500",
+    "name": "Nut Reg",
+    "description": "Cheese + Nuts",
+    "section": "nutella"
+  },
+  {
+    "price": "143000",
+    "name": "Nut Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "nutella"
+  },
+  {
+    "price": "165000",
+    "name": "Nut Large",
+    "description": "Cheese + Nuts",
+    "section": "nutella"
+  },
+  {
+    "price": "192500",
+    "name": "Nut Large Special",
+    "description": "Cheese + Nuts",
+    "section": "nutella"
+  },
+  {
+    "price": "159500",
+    "name": "Ovo Reg",
+    "description": "Cheese + Nuts",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "187000",
+    "name": "Ovo Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "203500",
+    "name": "Ovo Large",
+    "description": "Cheese + Nuts",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "231000",
+    "name": "Ovo Large Special",
+    "description": "Cheese + Nuts",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "143000",
+    "name": "Marffle Nutella Reg Sp",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "115500",
+    "name": "Marffle Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "121000",
+    "name": "Marffle Komplit Reg Sp",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "93500",
+    "name": "Marffle Komplit Reg",
+    "description": "Sesame + Cheese + Meises + Peanuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "143000",
+    "name": "Marffle Toblerone Reg Sp",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "115500",
+    "name": "Marffle Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "187000",
+    "name": "Marffle Ovomaltine Reg Sp",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "159500",
+    "name": "Marffle Ovomaltine Reg",
+    "description": "Cheese + Nuts",
+    "section": "marffle series"
+  },
+  {
+    "price": "110000",
+    "name": "Rv Reg",
+    "description": "Cream Cheese + Oreo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "137500",
+    "name": "Rv Reg Special",
+    "description": "Cream Cheese + Oreo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "148500",
+    "name": "Rv Large",
+    "description": "Cream Cheese + Oreo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "176000",
+    "name": "Rv Large Special",
+    "description": "Cream Cheese + Oreo",
+    "section": "red velvet series"
+  },
+  {
+    "price": "104500",
+    "name": "Rv Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "132000",
+    "name": "Rv Komplit Reg Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "143000",
+    "name": "Rv Komplit Large",
+    "description": "Cheese + Meises + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "170500",
+    "name": "Rv Komplit Large Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "126500",
+    "name": "Rv Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "154000",
+    "name": "Rv Nutella Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "181500",
+    "name": "Rv Nutella Large",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "209000",
+    "name": "Rv Nutella Large Special",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "170500",
+    "name": "Regular Rv Ovomaltine",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "198000",
+    "name": "Rv Ovomaltine Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "225500",
+    "name": "Rv Ovomaltine Large",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "253000",
+    "name": "Rv Ovomaltine Large Special",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "132000",
+    "name": "Rv Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "159500",
+    "name": "Rv Toblerone Reg Spesial",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "187000",
+    "name": "Rv Toblerone Large",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "214500",
+    "name": "Rv Toblerone Large Spesial",
+    "description": "Cheese + Nuts",
+    "section": "red velvet series"
+  },
+  {
+    "price": "104500",
+    "name": "Black Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "132000",
+    "name": "Black Komplit Reg Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "143000",
+    "name": "Black Komplit Large",
+    "description": "Cheese + Meises + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "170500",
+    "name": "Black Komplit Large Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "126500",
+    "name": "Black Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "154000",
+    "name": "Black Nutella Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "181500",
+    "name": "Black Nutella Large",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "209000",
+    "name": "Black Nutella Large Special",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "170500",
+    "name": "Black Ovomaltine Reg",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "198000",
+    "name": "Black Ovomaltine Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "225500",
+    "name": "Black Ovomaltine Large",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "253000",
+    "name": "Black Ovomaltine Large Special",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "132000",
+    "name": "Black Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "159500",
+    "name": "Black Toblerone Reg Spesial",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "187000",
+    "name": "Black Toblerone Large",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "214500",
+    "name": "Black Toblerone Large Spesial",
+    "description": "Cheese + Nuts",
+    "section": "black series"
+  },
+  {
+    "price": "104500",
+    "name": "Ps Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "132000",
+    "name": "Ps Komplit Reg Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "170500",
+    "name": "Ps Komplit Large Spesial",
+    "description": "Cheese + Meises + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "143000",
+    "name": "Ps Komplit Large",
+    "description": "Cheese + Meises + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "104500",
+    "name": "Ps Reg",
+    "description": "Cheese + Corn",
+    "section": "pandan series"
+  },
+  {
+    "price": "132000",
+    "name": "Ps Reg Special",
+    "description": "Cheese + Corn",
+    "section": "pandan series"
+  },
+  {
+    "price": "143000",
+    "name": "Ps Large",
+    "description": "Cheese + Corn",
+    "section": "pandan series"
+  },
+  {
+    "price": "170500",
+    "name": "Ps Large Special",
+    "description": "Cheese + Corn",
+    "section": "pandan series"
+  },
+  {
+    "price": "126500",
+    "name": "Ps Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "154000",
+    "name": "Ps Nutella Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "181500",
+    "name": "Ps Nutella Large",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "209000",
+    "name": "Ps Nutella Large Special",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "170500",
+    "name": "Ps Ovomaltine Regular",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "198000",
+    "name": "Ps Ovomaltine Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "225500",
+    "name": "Ps Ovomaltine Large",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "253000",
+    "name": "Ps Ovomaltine Large Special",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "115500",
+    "name": "Ps Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "143000",
+    "name": "Special Toblerone",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "170500",
+    "name": "Ps Toblerone Large",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "198000",
+    "name": "Ps Toblerone Large Spesial",
+    "description": "Cheese + Nuts",
+    "section": "pandan series"
+  },
+  {
+    "price": "110000",
+    "name": "Pv Reg",
+    "description": "Cream Cheese + Oreo",
+    "section": "pandan velvet"
+  },
+  {
+    "price": "137500",
+    "name": "Pv Reg Special",
+    "description": "Cream Cheese + Oreo",
+    "section": "pandan velvet"
+  },
+  {
+    "price": "148500",
+    "name": "Pv Large",
+    "description": "Cream Cheese + Oreo",
+    "section": "pandan velvet"
+  },
+  {
+    "price": "176000",
+    "name": "Pv Large Special",
+    "description": "Cream Cheese + Oreo",
+    "section": "pandan velvet"
+  },
+  {
+    "price": "104500",
+    "name": "Duo Ori & Pandan Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "132000",
+    "name": "Duo Ori & Pandan Komplit Reg Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "143000",
+    "name": "Duo Ori & Pandan Komplit Large",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "170500",
+    "name": "Duo Ori & Pandan Komplit Large Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "170500",
+    "name": "Duo Ori & Pandan Large Special",
+    "description": "Cheese + Corn",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "126500",
+    "name": "Duo Ori & Pandan Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "154000",
+    "name": "Duo Ori & Pandan Nutella Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "181500",
+    "name": "Duo Ori & Pandan Nutella Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "209000",
+    "name": "Duo Ori & Pandan Nutella Large Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "170500",
+    "name": "Duo Ori & Pandan Ovomaltine Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "198000",
+    "name": "Duo Ori & Pandan Ovomaltine Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "225500",
+    "name": "Duo Ori & Pandan Ovomaltine Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "247500",
+    "name": "Duo Ori & Pandan Ovomaltine Large Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "154000",
+    "name": "Duo Ori & Pandan Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "181500",
+    "name": "Duo Ori & Pandan Toblerone Reg Spesial",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "187000",
+    "name": "Duo Ori & Pandan Toblerone Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "214500",
+    "name": "Duo Ori & Pandan Toblerone Large Spesial",
+    "description": "Cheese + Nuts",
+    "section": "duo series original & pandan"
+  },
+  {
+    "price": "104500",
+    "name": "Duo Choco & Pandan Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "132000",
+    "name": "Duo Choco & Pandan Komplit Reg Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "143000",
+    "name": "Duo Choco & Pandan Komplit Large",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "170500",
+    "name": "Duo Choco & Pandan Komplit Large Special",
+    "description": "Cheese + Meises + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "126500",
+    "name": "Duo Choco & Pandan Nutella Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "154000",
+    "name": "Duo Choco & Pandan Nutella Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "181500",
+    "name": "Duo Choco & Pandan Nutella Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "209000",
+    "name": "Duo Choco & Pandan Nutella Large Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "170500",
+    "name": "Duo Choco & Pandan Ovomaltine Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "198000",
+    "name": "Duo Choco & Pandan Ovomaltine Reg Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "225500",
+    "name": "Duo Choco & Pandan Ovomaltine Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "253000",
+    "name": "Duo Choco & Pandan Ovomaltine Large Special",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "154000",
+    "name": "Duo Choco & Pandan Toblerone Reg",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "198000",
+    "name": "Duo Choco & Pandan Toblerone Reg Spesial",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "187000",
+    "name": "Duo Choco & Pandan Toblerone Large",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "214500",
+    "name": "Duo Choco & Pandan Toblerone Large Spesial",
+    "description": "Cheese + Nuts",
+    "section": "duo series choco & pandan"
+  },
+  {
+    "price": "93500",
+    "name": "Maroll Komplit Reg",
+    "description": "Sesame + Cheese + Sausage + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "121000",
+    "name": "Marrol Komplit Reg Special",
+    "description": "Sesame + Cheese + Cream + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "115500",
+    "name": "Maroll Nutela Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "143000",
+    "name": "Maroll Nutela Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "159500",
+    "name": "Maroll Ovomaltine Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "187000",
+    "name": "Maroll Ovomaltine Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Black Komplit Reg",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Black Komplit Reg Special",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "126500",
+    "name": "Maroll Black Nutella Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "154000",
+    "name": "Maroll Black Nutella Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "110000",
+    "name": "Maroll Red Velvet Reg",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "137500",
+    "name": "Maroll Red Velvet Reg Special",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Red Velvet Komplit Reg",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Red Velvet Komplit Reg Special",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "126500",
+    "name": "Maroll Red Velvet Nutela Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "154000",
+    "name": "Maroll Red Velvet Nutella Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Pandan Komplit Reg",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Pandan Komplit Reg Special",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Pandan Reg",
+    "description": "Cheese + Corn",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Pandan Reg Special",
+    "description": "Cheese + Corn",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "126500",
+    "name": "Maroll Pandan Nutella Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "154000",
+    "name": "Maroll Pandan Nutella Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "110000",
+    "name": "Maroll Pandan Velvet Reg",
+    "description": "Cream Cheese +Oreo",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "137500",
+    "name": "Maroll Pandan Velvet Reg Special",
+    "description": "Cream Cheese+Oreo",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Duo Ori & Pandan Komplit Reg",
+    "description": "Cheese + Meises + Nuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Duo Ori&Pandan Komplit Reg Special",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Duo Ori & Pandan Reg",
+    "description": "Cheese + Corn",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Duo Ori & Pandan Reg Special",
+    "description": "Cheese + Corn",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "126000",
+    "name": "Maroll Duo Ori+Pandan Nutella Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "154000",
+    "name": "Maroll Duo Ori&Pandan Nutella Reg Special",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "104500",
+    "name": "Maroll Duo Choco &Pandan Komplit Reg",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "132000",
+    "name": "Maroll Duo Choco&Pandan Komplit Reg Special",
+    "description": "Cheese + Meise + Peanuts",
+    "section": "martabak roll (maroll)"
+  },
+  {
+    "price": "126500",
+    "name": "Maroll Duo Choco&Pandan Nutella Reg",
+    "description": "Cheese + Peanuts",
+    "section": "martabak roll (maroll)"
+  }
+]

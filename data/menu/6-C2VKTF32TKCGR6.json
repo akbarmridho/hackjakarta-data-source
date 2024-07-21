@@ -1,0 +1,242 @@
+[
+  {
+    "price": "65000",
+    "name": "Nasi Goreng Kambing 1 Porsi",
+    "description": "Savory Spiced Fried Rice, Combined With Abundant Tender Mutton Pieces. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Goreng Kambing 1/2 Porsi",
+    "description": "Savory Spiced Fried Rice, Combined With Abundant Tender Mutton Pieces. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately. For The Spiciness Level Will Be Given Extra Chili Sauce.",
+    "section": "main menu"
+  },
+  {
+    "price": "99000",
+    "name": "Nasi Goreng Kambing Jumbo",
+    "description": "Savory Spiced Fried Rice, Combined With Abundant Tender Mutton Pieces. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "65000",
+    "name": "Nasi Goreng Ayam 1 Porsi",
+    "description": "Tasty Fried Rice, Combined With A Special Seasoning Chicken. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "99000",
+    "name": "Nasi Goreng Ayam Jumbo",
+    "description": "Tasty Fried Rice, Combined With A Special Seasoning Chicken. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Goreng Ayam 1/2 Porsi",
+    "description": "Tasty Fried Rice, Combined With A Special Seasoning Chicken. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "65000",
+    "name": "1 Portion Meatball Sausage Fried Rice",
+    "description": "Savory Spiced Fried Rice, Combined With Pieces Of Meatballs And Sausages. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Goreng Sosis Bakso 1/2 Porsi",
+    "description": "Savory Spiced Fried Rice, Combined With Pieces Of Meatballs And Sausages. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "49500",
+    "name": "Plain Fried Rice 1 Portion",
+    "description": "Savory Spiced Fried Rice. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "38500",
+    "name": "Plain Fried Rice 1/2 Portion",
+    "description": "Savory Spiced Fried Rice. For The Spiciness Level, Extra Chili Sauce Will Be Given Separately.",
+    "section": "main menu"
+  },
+  {
+    "price": "60500",
+    "name": "Mie Goreng Kari Kambing 1 Porsi",
+    "description": "Tebel Chewy Noodles, Cooked With Delicious Curry Spices. For The Fried Noodle Menu, Not Including Pickles",
+    "section": "recommended menu"
+  },
+  {
+    "price": "71500",
+    "name": "Sop Kambing 1 Porsi",
+    "description": "A Combination Of Special Clear Broth, With A Chunk Of Tender Mutton And Marrow Bones.",
+    "section": "recommended menu"
+  },
+  {
+    "price": "71500",
+    "name": "Nasi Ala Kambing Guling 1 Porsi",
+    "description": "Goat Meat Cooked With Special Spices From Soy Sauce And The Right Chili. Eaten With Hot White Rice. Not Including Pickles",
+    "section": "recommended menu"
+  },
+  {
+    "price": "104500",
+    "name": "Nasi Goreng Kambing Frozen 1 Porsi",
+    "description": "Goat Fried Rice Is Ready To Be Seasoned. Goat Fried Rice Topping. Combined To Be Steamed. Absolutely Not Using Preservatives, Just Using Plastic Plastic",
+    "section": "menu frozen"
+  },
+  {
+    "price": "82500",
+    "name": "Goat Satay 1 Portion (Contains 8 Skewers)",
+    "description": "8 Skewers Of Tender Mutton With Large Pieces",
+    "section": "sate kambing"
+  },
+  {
+    "price": "49500",
+    "name": "Sate Kambing 1/2 Porsi (Isi 4 Porsi)",
+    "description": "4 Skewers Of Tender Mutton With Large Pieces",
+    "section": "sate kambing"
+  },
+  {
+    "price": "82500",
+    "name": "Goat Liver Satay 1 Portion (Content Of 8 Skewers)",
+    "description": "8 Skewers Of Tender Mutton With Large Pieces, Covered With Special Soy Sauce Seasoning. For The Satay Menu, It Does Not Include Pickles And Chips",
+    "section": "sate kambing"
+  },
+  {
+    "price": "49500",
+    "name": "Chicken Liver Satay 1/2 Servings (Contains 4 Skewers)",
+    "description": "4 Skewers Of Tender Mutton With Large Pieces, Covered With Special Soy Sauce Seasoning. For The Satay Menu, It Does Not Include Pickles And Chips",
+    "section": "sate kambing"
+  },
+  {
+    "price": "38500",
+    "name": "Chicken Satay 1/2 Servings (Contains 5 Skewers)",
+    "description": "5 Skewers Of Soft Chicken Meat That Is Grilled With Special Spices. Using Peanut Sauce, For The Satay Menu, It Does Not Include Pickles And Chips",
+    "section": "sate ayam"
+  },
+  {
+    "price": "60500",
+    "name": "Chicken Satay 1 Portion (10 Skewers)",
+    "description": "10 Skewers Of Soft Chicken Meat That Is Grilled With Special Spices Using Peanut Sauce. For The Satay Menu, It Does Not Include Pickles And Chips",
+    "section": "sate ayam"
+  },
+  {
+    "price": "25000",
+    "name": "Jus Belimbing",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22000",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "30000",
+    "name": "Orange Coconut Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25000",
+    "name": "Jus Sirsak",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25000",
+    "name": "Mango Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "30000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8800",
+    "name": "Peanut Sauce Topping",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "8250",
+    "name": "Topping Telor",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "13200",
+    "name": "Topping Emping",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "14300",
+    "name": "White Rice Topping",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "5000",
+    "name": "Topping Acar",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "11000",
+    "name": "Topping Meatballs",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "11000",
+    "name": "Topping Sosis",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "70000",
+    "name": "Nasi Goreng Kambing + Air Mineral 600Ml",
+    "description": "Goat Fried Rice Includes Mineral Water",
+    "section": "holiday package"
+  },
+  {
+    "price": "70000",
+    "name": "Chicken Fried Rice + Sweet Iced Tea",
+    "description": "Nasi Goreng Ayam sudah termasuk es teh manis",
+    "section": "holiday package"
+  },
+  {
+    "price": "77000",
+    "name": "Chicken Fried Rice + Egg + Sweet Iced Tea",
+    "description": "Nasi Goreng Ayam dan Topping Telor sudah termasuk es teh manis",
+    "section": "holiday package"
+  },
+  {
+    "price": "70000",
+    "name": "Nasi Goreng Ayam + Air Mineral 600Ml",
+    "description": "Nasi Goreng Ayam sudah termasuk air mineral",
+    "section": "holiday package"
+  },
+  {
+    "price": "77000",
+    "name": "Nasi Goreng Ayam + Telor + Air Mineral 600Ml",
+    "description": "Chicken Fried Rice And Egg Topping Includes Mineral Water",
+    "section": "holiday package"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "170500",
+    "name": "Prawn Curry Lunchbox",
+    "description": "Prawn Curry, Yellow Dal, Biryani Rice, Indian Bread (Choice of Plain Naan/Butter Naan/Tandoori Roti), Pappad & Chutney",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "159500",
+    "name": "Lamb Curry Lunchbox",
+    "description": "Mutton Rogan Josh, Yellow Dal, Biryani Rice, Tandoori Roti/Butter Naan, Pappad & Chutney",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "159500",
+    "name": "Fish Curry Lunchbox",
+    "description": "Fish Curry, Yellow Dal, Biryani Rice, Indian Bread (Choice of Plain Naan/Butter Naan/Tandoori Roti), Pappad & Chutney",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "148500",
+    "name": "Chicken Curry Lunchbox",
+    "description": "Butter Chicken, Yellow Dal, Biryani Rice, Tandoori Roti/Butter Naan, Pappad & Chutney",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "148500",
+    "name": "Egg Curry Lunchbox",
+    "description": "Egg Curry, Yellow Dal, Biryani Rice, Indian Bread (Choice of Plain Naan/Butter Naan/Tandoori Roti), Pappad & Chutney",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "132000",
+    "name": "Vegetarian Curry Lunchbox",
+    "description": "Pancake Makalara, Yellow Dal, Biryani Rice, Tandoori Bread/Butter Rice, Pappad Chuteng",
+    "section": "bombay lunchbox set"
+  },
+  {
+    "price": "181500",
+    "name": "Prawn Thali",
+    "description": "Naan of your choice",
+    "section": "thali"
+  },
+  {
+    "price": "170500",
+    "name": "Mutton Thali",
+    "description": "Naan Of Your Choice",
+    "section": "thali"
+  },
+  {
+    "price": "170500",
+    "name": "Fish Thali",
+    "description": "Naan of your choice",
+    "section": "thali"
+  },
+  {
+    "price": "159500",
+    "name": "Chicken Thali",
+    "description": "Naan Of Your Choice",
+    "section": "thali"
+  },
+  {
+    "price": "159500",
+    "name": "Egg Thali",
+    "description": "Naan of your choice",
+    "section": "thali"
+  },
+  {
+    "price": "143000",
+    "name": "Vegetarian Thali",
+    "description": "Naan Of Your Choice",
+    "section": "thali"
+  },
+  {
+    "price": "71500",
+    "name": "Tomato Soup",
+    "description": "Fresh Tomato Soup With A Dash Of Cream And Croutons",
+    "section": "soup & salad"
+  },
+  {
+    "price": "71500",
+    "name": "Veg Manchow Soup",
+    "description": "A Spicy And Tangy Indo-Chinese Soup Served With Crispy Noodles.",
+    "section": "soup & salad"
+  },
+  {
+    "price": "77000",
+    "name": "Chicken Manchow Soup",
+    "description": "A Spicy And Tangy Indo-Chinese Soup Served With Crispy Noodles.",
+    "section": "soup & salad"
+  },
+  {
+    "price": "60500",
+    "name": "Moong Dal Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "71500",
+    "name": "Lemongrass Rassam",
+    "description": "Lemongrass Scented Light Indian Soup",
+    "section": "soup & salad"
+  },
+  {
+    "price": "71500",
+    "name": "Chicken Cream Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "77000",
+    "name": "Seafood Cream Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "66000",
+    "name": "Veg Hot Sour & Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "71500",
+    "name": "Chicken Hot & Sour Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "77000",
+    "name": "Seafood Hot & Sour Soup",
+    "description": "",
+    "section": "soup & salad"
+  },
+  {
+    "price": "82500",
+    "name": "Pani Puri (Vg)",
+    "description": "Crispy Puri, Gram Boondi, Tangy Mint Water, Sweet Tamarind Water",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "82500",
+    "name": "Sev Puri (Vg)",
+    "description": "Crispy Flat Puri, Tender Potatoes, Fried Sev, Red Onions, Spiced Chutney",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "82500",
+    "name": "Dahi Puri (V)",
+    "description": "Crispy Puri, Spiced Potatoes, Sweet & Spicy Chutney, Cool Yogurt Dressing",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "82500",
+    "name": "Bhel Puri (Gf) (Vg)",
+    "description": "Puffed Rice, Fried Sev, Red Onion & Lime, Sweet And Spicy Chutney",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "115500",
+    "name": "Chaat Platter (Vg)",
+    "description": "Your Chaat Favorites: All In One!",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "93500",
+    "name": "Masala Dosai (Vg) (Gf)",
+    "description": "Masala Crispy South-Indian Crepe, Fresh Coconut Chutney, Savoury Sambar",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "82500",
+    "name": "Plain Dosai (Gf) (V)",
+    "description": "Crispy South-Indian Crepe, Fresh Coconut Chutney, Savoury Sambar",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "93500",
+    "name": "Myosere Masala Dosai",
+    "description": "Crispy South-Indian Crepe, Fresh Coconut Chutney, Savoury Sambar",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "82500",
+    "name": "Uttapam",
+    "description": "Thicker South-Indian Crepe With Topping",
+    "section": "chaat and dosai"
+  },
+  {
+    "price": "66000",
+    "name": "Papadum Masala (V) (Gf)",
+    "description": "Indian Crackers, Fresh Zesty Mix Of Tomatoes, Onions, Chilies And Lime",
+    "section": "small plates"
+  },
+  {
+    "price": "77000",
+    "name": "Chicken Keema Samosa",
+    "description": "Fried Filo Pastry, Marinated Minced, Chicken Filling",
+    "section": "small plates"
+  },
+  {
+    "price": "71500",
+    "name": "Vegetable Samosa (V)",
+    "description": "Fried Filo Pastry, Tender Potato Filling, Fried Green Chili, Tamarind Chutney",
+    "section": "small plates"
+  },
+  {
+    "price": "165000",
+    "name": "Chili Garlic Prawns",
+    "description": "Succelent Prawns, Flery Red Pepper Flakes, Garlic Butter Tossed",
+    "section": "small plates"
+  },
+  {
+    "price": "132000",
+    "name": "Chicken Hakka Garlic",
+    "description": "Succulent Chicken, Fiery Red Pepper Flakes, Garlic Butter Tossed",
+    "section": "small plates"
+  },
+  {
+    "price": "71500",
+    "name": "Crispy Okra Fries",
+    "description": "Crunchy Benggali Okura, Seolina Battered",
+    "section": "small plates"
+  },
+  {
+    "price": "132000",
+    "name": "Chicken 65",
+    "description": "Deep Fried Chicken, Green Peppers, Grilled Red Chili Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "115500",
+    "name": "Paneer 65 (V)",
+    "description": "Deep Fried Pancakes, Green Peppers, Grd Red Chili Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "132000",
+    "name": "Street Style Chili Chicken",
+    "description": "Deep Fried Chicken, Green Peppers, Grilled Red Chili Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "115500",
+    "name": "Street Style Chili Paneer",
+    "description": "Deep Fried Pancakes, Green Peppers, Grd Red Chili Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "132000",
+    "name": "Paneer Cashewnut",
+    "description": "Deep Fried Cottage Cheese, Cashewnut Coating, Homemade Chili",
+    "section": "small plates"
+  },
+  {
+    "price": "121000",
+    "name": "Chicken Tandoori Pizza",
+    "description": "Perfect Crust, Special Tandoori Sauce, Charred Chicken, Melted Mozarella",
+    "section": "small plates"
+  },
+  {
+    "price": "99000",
+    "name": "Vegetarian Tandoori Pizza (V)",
+    "description": "Perfect Crust, Special Tandoori Sauce, Charred Mixed Vegetables, Melted Mozarella",
+    "section": "small plates"
+  },
+  {
+    "price": "99000",
+    "name": "Paneer Tandoori Pizza (V)",
+    "description": "Perfect Crust, Special Tandoori Sauce, Charred Mixed Vegetables, Melted Mozarella",
+    "section": "small plates"
+  },
+  {
+    "price": "165000",
+    "name": "Lamb Kofta Masala (Gf)",
+    "description": "Hearty Chicken Meatballs, Fragrant Herbs & Spice Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "187000",
+    "name": "Mutton Lolo",
+    "description": "187000",
+    "section": "small plates"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Lolo",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "137500",
+    "name": "Veg Lolo",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "71500",
+    "name": "Raita (V) (Gf)",
+    "description": "Cool Yoghurt Dip, Mild Spice Mix",
+    "section": "small plates"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Manchurian",
+    "description": "Sautéed Chicken, Mild Manchurian Spice",
+    "section": "small plates"
+  },
+  {
+    "price": "93500",
+    "name": "Cauliflower Manchurian (V)",
+    "description": "Sautéed Cauliflower Florets, Mild Manchurian Spice",
+    "section": "small plates"
+  },
+  {
+    "price": "115500",
+    "name": "Paneer Manchurian (V)",
+    "description": "Sautéed Paneer, Mild Manchurian Spice",
+    "section": "small plates"
+  },
+  {
+    "price": "71500",
+    "name": "Plain Yoghurt",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "66000",
+    "name": "Desi Greens Kechumber (V) (Gf)",
+    "description": "Side Salad, Tomatoes, Cucumbers, Onions, Lime, Chili",
+    "section": "small plates"
+  },
+  {
+    "price": "93500",
+    "name": "Chicken Kebab Roll",
+    "description": "",
+    "section": "buns, tacos and toast"
+  },
+  {
+    "price": "104500",
+    "name": "Mutton Kebab Roll",
+    "description": "",
+    "section": "buns, tacos and toast"
+  },
+  {
+    "price": "55000",
+    "name": "French Fries",
+    "description": "Mala Fries, Chutney Mayo Drink, Condiments",
+    "section": "buns, tacos and toast"
+  },
+  {
+    "price": "77000",
+    "name": "Bhurjee (2 Pcs)",
+    "description": "Scrumbled Paneer In Indian Spices ; Choice Of Egg / Paneer",
+    "section": "buns, tacos and toast"
+  },
+  {
+    "price": "71500",
+    "name": "Vada Pao (2 Pcs)",
+    "description": "Soft Pav Rolls, Gram Flour, Crusted Potato Vada, Green Mint Chutney",
+    "section": "buns, tacos and toast"
+  },
+  {
+    "price": "71500",
+    "name": "Roti Chane & Curry",
+    "description": "Flaky Asian Flatbread, South East Asian Curry",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "93500",
+    "name": "Mutton Frankies",
+    "description": "Flaky Flatbread, Minced Mutton, Green Chilies, Homemade Chaat Masala",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "82500",
+    "name": "Chicken Frankies",
+    "description": "Flaky Flatbread, Minced Chicken, Green Chilies, Homemade Chaat Masala",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "71500",
+    "name": "Vegetable Frankies (V)",
+    "description": "Flaky Flatbread, Charred Minced Vegetables, Green Chilies, Homemade Chaat Masala",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "132000",
+    "name": "Mutton Martabak & Curry",
+    "description": "Flaky Savory Pancake, Mutton Filling, South East Asian Curry Sauce",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "121000",
+    "name": "Chicken Martabak & Curry",
+    "description": "Flaky Savory Pancake, Chicken Filling, South East Asian Curry Sauce",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "82500",
+    "name": "Egg Martabak & Curry",
+    "description": "Flaky Savory Pancake, Filling, South East Asian Curry Sauce",
+    "section": "martabak & rolls"
+  },
+  {
+    "price": "352000",
+    "name": "Queen'S Kebab Platter (Gf)",
+    "description": "Tandoori Chicken, Seek Kebab, Fish Harra Tikaka, Chicken Malab, Prawn Soy Sauce",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "308000",
+    "name": "Saffron Tiger Prawns (Gf)",
+    "description": "Grilled Tiger Prawns, Rich Saffron Spice Mix, Cool Yogurt Marinade (5 Pieces)",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "104500",
+    "name": "Vegetable Tandoori (V) (Gf)",
+    "description": "Smoky Charred Vegetables, Cauliflower Flowerets, Tender Potato, Fresh Okra, Tandoori Masala",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "115500",
+    "name": "Paneer Tikka (V) (Gf)",
+    "description": "Choice Of Classic Or Achari Pickled Or Spinach Harra (8 Pieces)",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "165000",
+    "name": "Smoked Fish Hyderabadi",
+    "description": "Fresh Water Gurame, Saffron Spice Mix, Black Pepper",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "209000",
+    "name": "Vegetarian Kebab Platter (V) (Gf)",
+    "description": "Pancakes Seek, Hara Barbab, Tandoori Cauliflower, Pancakeed Potato, Tandori Bhindi",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "99000",
+    "name": "Harra Bhara Kebab",
+    "description": "",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "99000",
+    "name": "Chili Kebab",
+    "description": "",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "126500",
+    "name": "Paneer Sheekh Kebab (Gf)",
+    "description": "Tender Minced Paneer, Earthy Herbs & Spice, Charcoal Grilled",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "108900",
+    "name": "Veg Sheekh Kebab (V)",
+    "description": "Vegetables, Earthy Herbs & Spice, Charcoal Grilled",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Tikka (Gf)",
+    "description": "Boneless Chicken Marinated In Tandoori Spices (8 Pieces)",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "165000",
+    "name": "Smoked Fish Hydrabadi (Gf)",
+    "description": "Fresh Water Gurame, Saffron Spice Mix, Black Pepper",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "137500",
+    "name": "Tandoori Chicken (Gf)",
+    "description": "Smoky Charred Chicken, Spiced Yogurt, Malt Vinegar, Black Salt, Tandoori Masala",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "137500",
+    "name": "Reshmi Chicken Kebab",
+    "description": "",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "143000",
+    "name": "Tangri Chicken Kebab",
+    "description": "",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "148500",
+    "name": "Fish Tikka (Gf)",
+    "description": "Choice Of Classic Or Spiced Roghani Or Spinach Harra (8 Pieces)",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "165000",
+    "name": "Lamb Sheehk Kebab (Gf)",
+    "description": "Tender Minced Lamb, Earthy Herbs & Spice, Charcoal Grilled",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "165000",
+    "name": "Fried Mutton",
+    "description": "",
+    "section": "tandoor (grill)"
+  },
+  {
+    "price": "148500",
+    "name": "Butter Chicken (Gf)",
+    "description": "Shredded Tandoori Chicken, Silk Velvet Cream, Rich Butter, Fresh Tomato Curry (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "148500",
+    "name": "Fish Tava Masala (Gf)",
+    "description": "Grilled Fish, Dry Spice, Yellow Spicy Curry (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "280500",
+    "name": "Raan E Bahar (Gf)",
+    "description": "Luscious Tender Royal Lamb Leg, Earthy Spice Mix, Middle Eastern Gravy (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Prawn Malabari Curry (Gf)",
+    "description": "Succulent Prawns, Coconut Cream, Pearl Onions,.Tamarind, Jaggery (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "280500",
+    "name": "Lamb Shank Masala (Gf)",
+    "description": "Luscious Tender Royal Lamb Leg, Earthy Spice Mix, Middle Eastern Gravy (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Tikka Masala (Gf)",
+    "description": "Charred Tandoor Chunks, Green Capsicum, Slik Tomato Cream, Homemade Masala (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Handi (Gf)",
+    "description": "Tender Meat, Earthy Herbs, Exotic Spice Mix (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Lamb Rogan Josh (Gf)",
+    "description": "Spiced Lamb, Fresh Yoghurt, Delicate Saffron, Kashmiri Masala (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Goan Lamb Vindaloo (Gf)",
+    "description": "Lamb Tender, Carameled Onion, Potato, Tangy Pear Curry (Served 2-3 Packs)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "137500",
+    "name": "Chicken Laziz",
+    "description": "Tender Meat, Earthy Herbs, Exotic Spice Mix (Serves 2-3 Pax)",
+    "section": "comfort curries"
+  },
+  {
+    "price": "137500",
+    "name": "Palak Chicken",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Prawn Masala",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Prawn Tava Masala",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Prawn Tikka Masala",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Prawn Curry",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Makhanwala Prawn",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Palak Prawn",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "148500",
+    "name": "Fish Methi",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "148500",
+    "name": "Fish Goan Curry",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Mutton Rara Gosht",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Handi Mutton",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Kadai Mutton",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "176000",
+    "name": "Mutton Korma",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "165000",
+    "name": "Keema Mattar",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "137500",
+    "name": "Crispy Fried Brain",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "154000",
+    "name": "Brain Masala",
+    "description": "",
+    "section": "comfort curries"
+  },
+  {
+    "price": "126500",
+    "name": "Palak Paneer (V)",
+    "description": "Cottage Cheese, Savoury Garlic, Creamy Spinach Curry (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Paneer Makhanwala (V)",
+    "description": "Charred Cottage Cheese, Silk Velvet Cream, Rich Butter, Fresh Tomato Curry (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Dal Tadka (V)",
+    "description": "Toor & Channa Lentil Jewels, Onions, Tomatoes, Clarified Butter (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Butter Moong Daal (V)",
+    "description": "Luscious Yellow Lentils, Savoury Garlic, Rich Butter (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Malai Kofta (V)",
+    "description": "Minced Vegetable Meatballs, Luscious Thick Creamy Sauce (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "132000",
+    "name": "One-Pot Vegetable Curry (Diwani Handi) (V)",
+    "description": "Royal Mixed Vegetables, Fragrant Curry, Earthy Herb And Spice Mix (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Amritsari Chickpea Masala (V)",
+    "description": "Chickpeas, Black Salt, Channa Masala Spice Mix, Thick Punjabi Gravy (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "143000",
+    "name": "Cholla With Bhatura (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Aloo Ghobi (V)",
+    "description": "Spiced Califlower Florets, Charred, Caramelised Onions, Cashew Curry (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Aloo Ghobi Mattar (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "93500",
+    "name": "Aloo Mattar (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Jeera Aloo (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "126500",
+    "name": "Paneer Lajawab (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Bhindi Masala (V)",
+    "description": "Stir-Fried Okra (Ladyfinger), Semi-Dry Curry, Mild Spice Mix (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "93500",
+    "name": "Varta (V)",
+    "description": "Smoke Roasted Eggplant Mash, Tomatoes, Aromatic Spice Mix (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "104500",
+    "name": "Dum Aloo Punjabi (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "104500",
+    "name": "Mushroom Mattar (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Palak Aloo (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Palak Mushroom (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Palak Corn (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Palak Kofta (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Mattar Paneer (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "121000",
+    "name": "Methi Paneer (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "126500",
+    "name": "Handi Paneer (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "126500",
+    "name": "Veg Keema Mattar (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Veg Kholapi (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "99000",
+    "name": "Veg Keema Masala (V)",
+    "description": "",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "104500",
+    "name": "Black Dal Charcoal Infused (V)",
+    "description": "Overnight Cooked Black Lentils, Clarified Butter, Silk Velvet Cream, Fenugreek (Serves 2-3 Pax)",
+    "section": "comfort curries (veg)"
+  },
+  {
+    "price": "154000",
+    "name": "Chicken Biryani",
+    "description": "Queens Special Aromatic Chicken Biryani (Serves 2 To 3 Pax)",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "187000",
+    "name": "Lamb Biryani",
+    "description": "Special Aromatic Lamb Biryani (Serve 2 To 3 Packs)",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "187000",
+    "name": "Prawn Biryani",
+    "description": "Special Aromatic Es Kon Biryani (Serves 2 To 3 Packs)",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "165000",
+    "name": "Fish Biryani",
+    "description": "Queen'S Special Aromatic Fish Biryani (Serves 2 To 3 Pax)",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "132000",
+    "name": "Vegetarian Biryani",
+    "description": "Quien'S Special Aromatic Vegetarian Biryani (Serve 2 To 3 Packs)",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "137500",
+    "name": "Dal Khichdi (V) (Gf)",
+    "description": "Luscious Yellow Lentils, Aromatic Rice, Turmeric, Side Of Potato And Okra",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "137500",
+    "name": "Palak Khichdi (V)",
+    "description": "Spinach Lentils, Aromatic Rice, Turmeric, Side Of Potato And Okra",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "71500",
+    "name": "Basmati Rice (Vg) (Gf)",
+    "description": "Traditional Aromatic Rice",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "82500",
+    "name": "Jeera Rice (Vg) (Gf)",
+    "description": "Fragrant Basmati, Cumin Seeds",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "82500",
+    "name": "Saffron Rice (Vg) (Gf)",
+    "description": "Fragrant Basmati, Saffron Spice Mix",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "82500",
+    "name": "Kashmiri Pulao (Gf) (V)",
+    "description": "Fragrant Basmati, With Spices, Dry Fruits N Fresh Fruits",
+    "section": "biryani and rice"
+  },
+  {
+    "price": "33000",
+    "name": "Plain Naan",
+    "description": "Soft Chewy Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "38500",
+    "name": "Butter Naan",
+    "description": "Dreamy Buttered Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Garlic Naan",
+    "description": "Flavorful Garlic Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "55000",
+    "name": "Cheese Naan",
+    "description": "Delicate Cheese Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "55000",
+    "name": "Chili Cheese Naan",
+    "description": "Delicate Cheese And Chili Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "33000",
+    "name": "Tandoori Bread (Vg)",
+    "description": "Charred Wholewheat Flatbread",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Bread Missions",
+    "description": "Gram Flour, Wholewheat, Spiced Flatbreads",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "38500",
+    "name": "Roomali Roti",
+    "description": "Light & Thin Flatbreads",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "33000",
+    "name": "Chapati Bread (Vg) (2 Pcs)",
+    "description": "Traditional Wholewheat Flatbreads",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Lacha Paratha",
+    "description": "Flaky Layered Paratha",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "38500",
+    "name": "Puri (Vg)",
+    "description": "Fluffy Deep Fried Punched Orange",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "38500",
+    "name": "Bhatura",
+    "description": "Fluffy Deep Fried Punched Orange",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Pudina Naan",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Methi Naan",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "49500",
+    "name": "Kasmiri Naan",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "49500",
+    "name": "Tandoori Paratha",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Pudina Paratha",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Methi Paratha",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "44000",
+    "name": "Tava Paratha",
+    "description": "",
+    "section": "indian naan / bread"
+  },
+  {
+    "price": "77000",
+    "name": "Desi Carrot Halwa (V)",
+    "description": "Sweet Shredded Carrots, Cardamom, Dried Fruits",
+    "section": "dessert"
+  },
+  {
+    "price": "77000",
+    "name": "Kulfi Falooda",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "104500",
+    "name": "Queen'S Brownies (V)",
+    "description": "Warm Decadent Brownies, Bubbling Chocolate Sauce, Cool Vanilla Ice Cream",
+    "section": "dessert"
+  },
+  {
+    "price": "77000",
+    "name": "Klepon Kulfi (V)",
+    "description": "",
+    "section": "dessert"
+  },
+  {
+    "price": "55000",
+    "name": "Mango Kulfi (V)",
+    "description": "Mango Flavour. Frozen Creamy Reduced Milk, Saffron Infused",
+    "section": "dessert"
+  },
+  {
+    "price": "55000",
+    "name": "Gulab Jammun (V)",
+    "description": "Spongy Sweet Balls, Rose Water Saaked, Cardamom Syrup",
+    "section": "dessert"
+  },
+  {
+    "price": "77000",
+    "name": "Falooda With Ice Cream (V)",
+    "description": "Gravy, Rabri, Rose Syrup, Vermiceli, Pistachio Crumbs",
+    "section": "dessert"
+  },
+  {
+    "price": "82500",
+    "name": "Cassata Ice Cream Paan (V)",
+    "description": "Indian Layered Dessert Cake, Mint Flavour",
+    "section": "dessert"
+  },
+  {
+    "price": "82500",
+    "name": "Cassata Ice Cream Almond Badam (V)",
+    "description": "Indian Layered Dessert Cake, Almond Flavour",
+    "section": "dessert"
+  },
+  {
+    "price": "77000",
+    "name": "Mango Lassi (V)",
+    "description": "Mango Yogurt Shake",
+    "section": "beverages"
+  },
+  {
+    "price": "77000",
+    "name": "Rose Spiced Lassi (V)",
+    "description": "Spiced Rosewater Yoghurt Shake",
+    "section": "beverages"
+  },
+  {
+    "price": "77000",
+    "name": "Pandan Lassi (V)",
+    "description": "Coco-Pandan Yoghurt Shake",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Sweet Lassi",
+    "description": "Old School Sweet Yoghurt Shake",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Salted Lassi",
+    "description": "Old School Salted Yoghurt Shake",
+    "section": "beverages"
+  },
+  {
+    "price": "77000",
+    "name": "Butter Milk Chaos",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "49500",
+    "name": "Masala Chai",
+    "description": "Traditional Indian Spiced Tea",
+    "section": "beverages"
+  },
+  {
+    "price": "49500",
+    "name": "Cutting Chai (Hot/Iced)",
+    "description": "B-Style Card Ginger Tea",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Jaljeera",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "77000",
+    "name": "Jaljeera Masala Dosa",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "88000",
+    "name": "Milkshake",
+    "description": "(Chocolate / Vanilla / Strawberry)",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Coconut Water",
+    "description": "Coconut Water By Glass",
+    "section": "beverages"
+  },
+  {
+    "price": "55000",
+    "name": "Ice Cucumber Melon",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "55000",
+    "name": "Happy Soda",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "55000",
+    "name": "Palm Sugar Grass Jelly Ice",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "93500",
+    "name": "Oreo Cappucino",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Iced Lychee Tea",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "49500",
+    "name": "Iced Lemon Tea",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Iced / Hot Tea",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "71500",
+    "name": "Freshly Squeezed",
+    "description": "Orange/Apple/Strawberry/Watermelon/Lime",
+    "section": "beverages"
+  },
+  {
+    "price": "33000",
+    "name": "Aqua Reflection (330 Ml)",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "33000",
+    "name": "Soft Drinks",
+    "description": "Coke/Coke Zero/Sprite/Fanta/Soda/Tomatic",
+    "section": "beverages"
+  }
+]

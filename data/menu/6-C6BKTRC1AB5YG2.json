@@ -1,0 +1,357 @@
+[
+  {
+    "price": "76819",
+    "name": "COMBO DEALS GACOAN A",
+    "description": "2 Mie Gacoan LV 1, Udang keju, Udang Rambutan, Es Gobak Sodor, Thai Tea",
+    "section": "package menu"
+  },
+  {
+    "price": "76819",
+    "name": "COMBO DEALS HOMPIMPA A",
+    "description": "2 Hompimpa LV 1, Udang keju, Udang Rambutan, Es Gobak Sodor, Thai Tea",
+    "section": "package menu"
+  },
+  {
+    "price": "33637",
+    "name": "PAKET FEST A NP",
+    "description": "1 mie gacoan lv 1, 1 lumpia udang dan 1 orange np",
+    "section": "package menu"
+  },
+  {
+    "price": "35000",
+    "name": "PAKET FEST C NP",
+    "description": "1 mie gacoan lv 1, 1 udang keju dan 1 lemon tea np",
+    "section": "package menu"
+  },
+  {
+    "price": "39091",
+    "name": "Gacoan Package A",
+    "description": "Medan Gacoan Noodles Lv 1, Cheese Shrimp, Iced Petik",
+    "section": "package menu"
+  },
+  {
+    "price": "39091",
+    "name": "Gacoan B Package",
+    "description": "Gacoan Noodles Lv 1, Dumplings, Iced Petik",
+    "section": "package menu"
+  },
+  {
+    "price": "39091",
+    "name": "Hompmimpa Package A",
+    "description": "Lv 1 Hompa Noodle, Cheese Shrimp, Iced Petal",
+    "section": "package menu"
+  },
+  {
+    "price": "39091",
+    "name": "Hompampa Package B",
+    "description": "Mie Hompimpa Lv 1, Siomay, Es Petak Umpet",
+    "section": "package menu"
+  },
+  {
+    "price": "13637",
+    "name": "Gacoan Noodle",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Gacoan Noodle Lv 1",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Gacoan Noodle Lv 2",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Gacoan Noodle Lv 3",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Galian Noodles Lv 4",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "14546",
+    "name": "Gacoan Noodles Lv 6",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "14546",
+    "name": "Gacoan Noodles Lv 8",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Noodle Hompmimpa Lv 1",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Hompmimpa Noodle Lv 2",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Noodle Hompampa Lv 3",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Noodle Hompampa Lv 4",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "14546",
+    "name": "Noodle Hompampa Lv 6",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "14546",
+    "name": "Noodle Hompampa Lv 8",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "13637",
+    "name": "Suit Noodles",
+    "description": "",
+    "section": "noodles"
+  },
+  {
+    "price": "12728",
+    "name": "Shrimp Spring Rolls",
+    "description": "",
+    "section": "dimsum"
+  },
+  {
+    "price": "13637",
+    "name": "Fried Dumplings",
+    "description": "",
+    "section": "dimsum"
+  },
+  {
+    "price": "12728",
+    "name": "Chicken Siomay",
+    "description": "",
+    "section": "dimsum"
+  },
+  {
+    "price": "12728",
+    "name": "Cheese Shrimp",
+    "description": "",
+    "section": "dimsum"
+  },
+  {
+    "price": "12728",
+    "name": "Fried Shrimp",
+    "description": "",
+    "section": "dimsum"
+  },
+  {
+    "price": "12728",
+    "name": "Gobak Sodor Ice",
+    "description": "",
+    "section": "fruit ice"
+  },
+  {
+    "price": "12728",
+    "name": "Iced Maple",
+    "description": "",
+    "section": "fruit ice"
+  },
+  {
+    "price": "8637",
+    "name": "Sliced Ice Smooth Noodle",
+    "description": "",
+    "section": "fruit ice"
+  },
+  {
+    "price": "8637",
+    "name": "Es Tekkek",
+    "description": "",
+    "section": "fruit ice"
+  },
+  {
+    "price": "5910",
+    "name": "Air Mineral Botol",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "CHOCOAN HOT - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "CHOCOAN ICE - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "Green Thai Tea",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "8637",
+    "name": "LEMON TEA HOT - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "8637",
+    "name": "LEMON TEA ICE - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "7273",
+    "name": "ORANGE HOT - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "7273",
+    "name": "ORANGE ICE - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  { "price": "5910", "name": "Tea", "description": "", "section": "beef ice" },
+  {
+    "price": "5910",
+    "name": "TEA HOT",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "9091",
+    "name": "TEA TARIK HOT - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "9091",
+    "name": "TEA TARIK ICE - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "Thai Tea Ori",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "VANILLA LATTE HOT - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "11364",
+    "name": "VANILLA LATTE ICE - NP",
+    "description": "",
+    "section": "beef ice"
+  },
+  {
+    "price": "5910",
+    "name": "AIR MINERAL BOTOL",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "CHOCOAN HOT - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "CHOCOAN ICE - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "GREEN THAI TEA",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "8637",
+    "name": "LEMON TEA HOT - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "8637",
+    "name": "LEMON TEA ICE - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "7273",
+    "name": "ORANGE HOT - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "7273",
+    "name": "ORANGE ICE - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "5910",
+    "name": "Tea Hot",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "9091",
+    "name": "TEA TARIK HOT - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "9091",
+    "name": "TEA TARIK ICE - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "THAI TEA ORI",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "VANILLA LATTE HOT - NP",
+    "description": "",
+    "section": "bevereages hot"
+  },
+  {
+    "price": "11364",
+    "name": "VANILLA LATTE ICE - NP",
+    "description": "",
+    "section": "bevereages hot"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "price": "1",
+    "name": "Notes",
+    "description": "Menerima Pemesanan Snack Box Dan Coffee Catering To Your Office. Wa : 081296880880",
+    "section": "notes"
+  },
+  {
+    "price": "45000",
+    "name": "Rosemonade",
+    "description": "Rose + Lemon + Soda + Love: Rosemonade (Scenting Drink Rose) #Jujurjur Friends",
+    "section": "specials"
+  },
+  {
+    "price": "45000",
+    "name": "Green Cosmic",
+    "description": "Greentea + Lemongrass + Lemon: Green Squid (It Is Very Tender +)",
+    "section": "specials"
+  },
+  {
+    "price": "45000",
+    "name": "Chai Latte",
+    "description": "Its Chai Latte Okay...Not Chai Tea, Its Mean Tea Tea (Ref : Spiderman Into The Spiderverse) #Temanyangjujur",
+    "section": "specials"
+  },
+  {
+    "price": "30000",
+    "name": "This Is Piccolo Coffee",
+    "description": "Double Shot Of Espresso Mixed With Milk (Not The One Combined Dragon Balls) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "35000",
+    "name": "This Is Mocha Coffee",
+    "description": "Milk Coffee Added With Chocolate (Sea-Made We Can Be Together In Other People) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "30000",
+    "name": "This Is Italy Coffee",
+    "description": "Single Espresso Yang Dipadukan Dengan Susu Foamy (U Are The Only One \"Foamy\") #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "30000",
+    "name": "This Is Coffee Latte",
+    "description": "Creamy Milk Coffee Mixed (Sambal Like Our Daily) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "28000",
+    "name": "This Is Black Coffee",
+    "description": "Espresso Mixed With Water (Separated Liver When You Choose Her) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "33000",
+    "name": "This Is Village Milk Coffee",
+    "description": "Combination Between Coffee, Milk And Skm (Chicken Aj Free-Range) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "33000",
+    "name": "This Is Special Sugar Palm Coffee",
+    "description": "A Blend Of Coffee, Milk And Real Palm Sugar (Seasonal Fruit) #Jujujur Friends",
+    "section": "coffee"
+  },
+  {
+    "price": "10000",
+    "name": "Lemper Ayam",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Lalampa",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Roti Pizza",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Triple Choco",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Long Chocolate",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Long Cheese",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Milk Pie",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "10000",
+    "name": "Kue Soes",
+    "description": "",
+    "section": "koedapan"
+  },
+  {
+    "price": "38000",
+    "name": "This Is Chocolate",
+    "description": "Chocolate Drinks That Can Be Enjoyed Cold Or Hot (Sweet Chocolate Sweets That You Give At The Last Bite) #Jujujur Friends",
+    "section": "non-coffee"
+  },
+  {
+    "price": "38000",
+    "name": "This Is Matcha",
+    "description": "A Blend Of Matcha And Milk, ! #Jujujur Friends",
+    "section": "non-coffee"
+  },
+  {
+    "price": "40000",
+    "name": "This Is Choco Frappe",
+    "description": "",
+    "section": "blended"
+  },
+  {
+    "price": "40000",
+    "name": "This Is Hazel Frappe",
+    "description": "",
+    "section": "blended"
+  },
+  {
+    "price": "40000",
+    "name": "This Is Mocha Frappe",
+    "description": "",
+    "section": "blended"
+  },
+  {
+    "price": "45000",
+    "name": "This Is Caramel Frappe",
+    "description": "",
+    "section": "blended"
+  },
+  {
+    "price": "40000",
+    "name": "This Is Frappe Milk Coffee",
+    "description": "",
+    "section": "blended"
+  },
+  {
+    "price": "35000",
+    "name": "This Is Lychee Tea",
+    "description": "Combination Between Boiled Tea With Fruit Real Lychee Syrup (If The Tea-Dans Can Be Separated, It Includes You Lychee-K (Lik) #Jujujur Friends",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "This Is Milk Tea",
+    "description": "A Blend Of Crispy Tea And Creamy Milk (If You Want To Add Your Eggs) #Jujujur Friends",
+    "section": "tea"
+  },
+  {
+    "price": "30000",
+    "name": "This Is City Tea",
+    "description": "Authentic Twinning Tea Dengan Varian English Breakfast, Earl Grey Tea, Green Tea Jasmine (Yang Pasti Authen-Tea) #Jujujur Friends",
+    "section": "tea"
+  },
+  {
+    "price": "35000",
+    "name": "Irish Latte",
+    "description": "Recommended Hot (If You Want The Two Favorite Drinks Of The Owner) #Jujur Friends",
+    "section": "secret menu"
+  },
+  {
+    "price": "45000",
+    "name": "Japanese Irish Soda",
+    "description": "Sliced + Coffee + Sour = Japanese Sliced Soda (The Most Drinks You Like Are Bc.)",
+    "section": "secret menu"
+  },
+  {
+    "price": "30000",
+    "name": "Cold Black",
+    "description": "Cold Coffee Using Our Signature Home-Blend Beans (Packed In A 250 Ml Bottle)",
+    "section": "bottle"
+  },
+  {
+    "price": "35000",
+    "name": "Cold Aren",
+    "description": "Cold Brew + Creamer & Milk + Special Aren (Di Kemas Dalam Botol 250 Ml)",
+    "section": "bottle"
+  }
+]

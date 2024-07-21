@@ -1,0 +1,986 @@
+[
+  {
+    "price": "50562",
+    "name": "Rames Rice Minced",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "127681",
+    "name": "Rames Rice With Snapper Head Fish",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "32686",
+    "name": "Rames Rice With Spicy Sour Fish",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "32686",
+    "name": "Rames Rice With Anchovies",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33708",
+    "name": "Jengkol Mixed Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "32686",
+    "name": "Rames Rice Potato Quail Egg",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "32686",
+    "name": "Nasi Rames Sambal Goreng Hati",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "32686",
+    "name": "Eggplant Tri Rames Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Rames Rice With Rendang",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Grilled Chicken",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Fried Chicken",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Chicken Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Hot Fried Chicken Rames Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "35650",
+    "name": "Knuckle Mixed Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Rames Rice Jerky",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Nasi Rames Dendeng Batokok",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Nasi Rames Paru Goreng",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Rames Rice With Chicken Pop",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Liver Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Nasi Rames Limpa",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Fishcake Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Balado Chicken Rames Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Mackerel Fish Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "34500",
+    "name": "Grilled Mackerel Rames Rice",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33350",
+    "name": "Rames Rice With Mackerel Fish Balado",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "23000",
+    "name": "Nasi Rames Telor Balado",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "23000",
+    "name": "Nasi Rames Telor Dadar",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "23000",
+    "name": "Rames Rice With Egg Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "23000",
+    "name": "Rames Rice Perkedel",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "33708",
+    "name": "Rames Rice With Goldfish Curry",
+    "description": "",
+    "section": "rames rice package"
+  },
+  {
+    "price": "12650",
+    "name": "White Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "14950",
+    "name": "Rames Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "11500",
+    "name": "Air Mineral 600Ml",
+    "description": "",
+    "section": "packaged drinks"
+  },
+  {
+    "price": "6900",
+    "name": "Air Mineral 300Ml",
+    "description": "",
+    "section": "packaged drinks"
+  },
+  {
+    "price": "26450",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "32200",
+    "name": "Es Campur",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "28750",
+    "name": "Es Kelapa Muda",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "32200",
+    "name": "Orange Coconut Ice",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "11500",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "8050",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "4600",
+    "name": "Es Batu",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "27600",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "cold drinks"
+  },
+  {
+    "price": "26450",
+    "name": "Jeruk Panas",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "32200",
+    "name": "Egg Tea",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "26450",
+    "name": "Milk Coffee",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "26450",
+    "name": "Milk Tea",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "32200",
+    "name": "Egg Coffee",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "11500",
+    "name": "Teh Manis",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "14950",
+    "name": "Coffee",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "25300",
+    "name": "Teh Tarik",
+    "description": "",
+    "section": "hot drinks"
+  },
+  {
+    "price": "36800",
+    "name": "Fruit Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Tomat",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Melon",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Pepaya",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Nanas",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Timun",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Sirsak",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Wortel",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "32200",
+    "name": "Jackfruit Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Jambu",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Belimbing",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Apel",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26450",
+    "name": "Juice Terong Belanda",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Strawberry",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "37950",
+    "name": "Dragon Fruit Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "34500",
+    "name": "Scrape Avocado",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "28750",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Semangka",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "42550",
+    "name": "Juice Mix",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Juice Mangga",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "27600",
+    "name": "Orange Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "48300",
+    "name": "Juice Durian",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "43700",
+    "name": "Kopyor Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "43700",
+    "name": "Kopyor Kerok",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "39326",
+    "name": "Durian Kerok",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "37950",
+    "name": "Coconut Batok",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "69000",
+    "name": "Kuek Fish",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "26450",
+    "name": "Padeh Tamarind Fish",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "25300",
+    "name": "Balado Mackerel",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "25843",
+    "name": "Dabu-Dabu Mackerel Fish",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "24719",
+    "name": "Bilis Fish",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "44944",
+    "name": "Dabu-Dabu Snapper",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "33708",
+    "name": "Goldfish Pepes",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "40250",
+    "name": "Egyptian Martabak",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "51750",
+    "name": "Martabak Mesir Special",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "51750",
+    "name": "Sop Iga Sapi",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "46000",
+    "name": "Padang Soto",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "40250",
+    "name": "Padang Satay",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "27600",
+    "name": "Padang Satay 1/2",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "14950",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "14950",
+    "name": "Telur Balado",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "28750",
+    "name": "Telur Barendo",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "14950",
+    "name": "Perkedel",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "10350",
+    "name": "Ketupat",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "13800",
+    "name": "Rice Cake Soup",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "18400",
+    "name": "Lontong Sayur",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "23000",
+    "name": "Lontong Sayur Telor",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "41400",
+    "name": "Mie Goreng/ Rebus",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "23000",
+    "name": "Kampulum Porridge",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "13800",
+    "name": "Puding",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "13800",
+    "name": "Mud Cake",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "34500",
+    "name": "Salad",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "20700",
+    "name": "Aneka Kolak",
+    "description": "",
+    "section": "various foods"
+  },
+  {
+    "price": "25300",
+    "name": "Fish Cake Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "28750",
+    "name": "Supporting Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "41400",
+    "name": "Beef Minced Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "25300",
+    "name": "Gulai Ati/ Limpa",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "14950",
+    "name": "Egg Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "126500",
+    "name": "Snapper Head Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "24719",
+    "name": "Yellow Mackerel Fish Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "44944",
+    "name": "Goat Minced Curry",
+    "description": "",
+    "section": "curry"
+  },
+  {
+    "price": "24150",
+    "name": "Eggplant Anchovies",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "17250",
+    "name": "Jackfruit Vegetable",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "21850",
+    "name": "Cassava Leaf Vegetables",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "11500",
+    "name": "Cucumber Salad",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "14950",
+    "name": "Lalap Singkong",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "34500",
+    "name": "Sambal Ikan Bilis",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "36000",
+    "name": "Shrimp Capcai",
+    "description": "Shrimp. Vegetables. Meatballs",
+    "section": "sayur"
+  },
+  {
+    "price": "8989",
+    "name": "Long Eggplant",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "20225",
+    "name": "Terong Tempe",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "20225",
+    "name": "Peanut Eggplant Anchovy",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "19101",
+    "name": "Pete Rebus",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "20700",
+    "name": "Pumpkin Shoots",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "24150",
+    "name": "Peanut Tofu",
+    "description": "",
+    "section": "sayur"
+  },
+  {
+    "price": "24150",
+    "name": "Sambal Goreng Jengkol",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "40250",
+    "name": "Shrimp Fried Chili Sauce",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "24150",
+    "name": "Sambal Goreng Ati",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "24150",
+    "name": "Quail Egg Sambal",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "11500",
+    "name": "Sambal Ijo",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "11500",
+    "name": "Red Chili Sauce",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "27000",
+    "name": "Sambal Belut",
+    "description": "Tempeh. Wrapped. Red Sambal",
+    "section": "sambal"
+  },
+  {
+    "price": "20225",
+    "name": "Green Chili Jengkol",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "20225",
+    "name": "Sambal Teri Pete",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "16854",
+    "name": "Special Green Chili Sauce",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "24150",
+    "name": "Salted Fish Tempeh Fried Sambal",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "27600",
+    "name": "Rendang Meat",
+    "description": "",
+    "section": "daging"
+  },
+  {
+    "price": "27600",
+    "name": "Dendeng Balado",
+    "description": "",
+    "section": "daging"
+  },
+  {
+    "price": "27600",
+    "name": "Batokok Jerky",
+    "description": "",
+    "section": "daging"
+  },
+  {
+    "price": "25300",
+    "name": "Paru Goreng",
+    "description": "",
+    "section": "daging"
+  },
+  {
+    "price": "26450",
+    "name": "Ayam Pop",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "26450",
+    "name": "Ayam Goreng",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "25300",
+    "name": "Ayam Bakar",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "25300",
+    "name": "Curry Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "26450",
+    "name": "Ayam Balado",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "26450",
+    "name": "Ayam Goreng Panas",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "22472",
+    "name": "Ayam Goreng Telor",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "39100",
+    "name": "Paket I",
+    "description": "Rice + Rendang + Jackfruit Curry + Cucumber + Sambal + Bananas",
+    "section": "rice box package"
+  },
+  {
+    "price": "39100",
+    "name": "Paket Ii",
+    "description": "Rice + Fried Chicken (Fried/Curry/Grilled) + Jackfruit Curry + Cucumber + Sambal + Banana",
+    "section": "rice box package"
+  },
+  {
+    "price": "52900",
+    "name": "Paket Iii",
+    "description": "Rice + Rendang + Egg/ Cake + Jackfruit Curry + Cucumber + Sambal + Banana",
+    "section": "rice box package"
+  },
+  {
+    "price": "52900",
+    "name": "Paket Iv",
+    "description": "Rice + Fried Chicken/Curry/Grilled) + Egg/ Cake + Jackfruit Curry + Cucumber + Sambal + Banana",
+    "section": "rice box package"
+  },
+  {
+    "price": "66700",
+    "name": "Paket V",
+    "description": "Rice + Fried Chicken/Curry/Grilled) + Rendang + Jackfruit Vegetables + Cucumber + Sambal + Banana",
+    "section": "rice box package"
+  },
+  {
+    "price": "77050",
+    "name": "Vi Package",
+    "description": "Rice + Fried Chicken/Curry/Grilled) + Rendang + Egg/ Cake + Jackfruit + Cucumber + Banana Sambal",
+    "section": "rice box package"
+  },
+  {
+    "price": "46000",
+    "name": "Big Cattle Skin Crackers",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "28750",
+    "name": "Big Getuk Chips",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "12650",
+    "name": "Small Getuk Chips",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "25300",
+    "name": "Gravy Crackers",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "12650",
+    "name": "Skin Crackers",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "13800",
+    "name": "Cracker",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "12650",
+    "name": "Bangka Crackers",
+    "description": "",
+    "section": "cracker variety"
+  },
+  {
+    "price": "28090",
+    "name": "Rames Rice Knuckle Curry Package",
+    "description": "Rice + Beef Rendang + Green Sambal + Jackfruit Curry Harga Normal 33.047",
+    "section": "today's promo"
+  },
+  {
+    "price": "28090",
+    "name": "Rames Rice With Grilled Chicken Package",
+    "description": "Rice + Grilled Chicken + Green Sambal + Jackfruit Curry Harga Normal 33.047",
+    "section": "today's promo"
+  },
+  {
+    "price": "28090",
+    "name": "Beef Rendang Rames Rice Package",
+    "description": "Rice + Beef Rendang + Green Sambal + Jackfruit Curry Harga Normal 33.047",
+    "section": "today's promo"
+  },
+  {
+    "price": "28090",
+    "name": "Paket Nasi Rames Ayam Goreng",
+    "description": "Rice + Fried Chicken + Green Sambal + Jackfruit Curry Harga Normal 33.047",
+    "section": "today's promo"
+  },
+  {
+    "price": "28090",
+    "name": "Rames Rice With Chicken Curry Package",
+    "description": "Rice + Chicken Curry + Green Sambal + Jackfruit Curry Harga Normal 33.047",
+    "section": "today's promo"
+  }
+]

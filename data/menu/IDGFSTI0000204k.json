@@ -1,0 +1,434 @@
+[
+  {
+    "price": "85000",
+    "name": "Say Cheese Buat Berdua",
+    "description": "My Box XL Free 2 Lemon Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "150000",
+    "name": "Say Cheese Buat Ramean",
+    "description": "Lebih Hemat, Beli Cheese Overflow Reguler GRATIS Beef Lasagna. Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "170001",
+    "name": "Paket TERKEJUT",
+    "description": "1 Original Regular Super Supreme/Super Supreme Chicken + Beef Lasagna Cheese Overflow + 2 orange delight Cup",
+    "section": "today's offer"
+  },
+  {
+    "price": "76000",
+    "name": "Pasta Cheese Overflow",
+    "description": "Pasta Cheese Overflow dengan pilihan Beef Lasagna, Beef Fettuccine, Pepperoni Cheese Fusilli. Pesan Sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "130000",
+    "name": "Regular Cheese Overflow",
+    "description": "Regular Cheese Overflow dengan pilihan Topping Super Supreme, Meat Lovers, American Favourite, Tuna Melt, Pepperoni. Pesan Sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "176000",
+    "name": "Big Box Free Lasagna's Love Layers",
+    "description": "Big Box Free Lasagna's Love Layers",
+    "section": "today's offer"
+  },
+  {
+    "price": "349000",
+    "name": "L1MO 6 Topping Free Lasagna's Love Layers",
+    "description": "L1MO 6 Topping Free Lasagna's Love Layers",
+    "section": "today's offer"
+  },
+  {
+    "price": "70001",
+    "name": "Triple Fun Pizza",
+    "description": "Fun Rasanya Pas Harga Nya, Yuk Pesan Sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi + Ayam (Wingstreet)",
+    "description": "Temukan rasa yang tersembunyi dengan pilihan WingStreet dan Nasi yang beragam. Yuk, pesan",
+    "section": "today's offer"
+  },
+  {
+    "price": "60001",
+    "name": "Melts Pizza",
+    "description": "Cheesy, Crispy, Loaded. Pizza Baru topping Seru Langsung Melts and Go! Pesan sekarang.",
+    "section": "today's offer"
+  },
+  {
+    "price": "149001",
+    "name": "QU4RTZA",
+    "description": "1 Pizza-nya, 4 Topping-nya, Banyak cuan-nya! Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "132000",
+    "name": "Double Box Deluxe",
+    "description": "Double Box Deluxe, Dua Regular Pizza Deluxe lebih Creamy, Cheesy, Spicy. Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "176000",
+    "name": "Big Box.",
+    "description": "Bebas pilih topping Signature dan dapat 5 varian Snack asin manisnya. Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "317000",
+    "name": "L1MO Pizza",
+    "description": "L1MO Pizza dengan Topping Tuna Melt, Meat Lovers dan Super Supreme. Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "327000",
+    "name": "L1MO 6 Topping",
+    "description": "Baru! L1MO Pizza 1 Meter kini lebih berlimpah kejunya. Yuk, Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "85000",
+    "name": "Say Cheese Buat Berdua",
+    "description": "My Box XL Free 2 Lemon Tea",
+    "section": "40th"
+  },
+  {
+    "price": "150000",
+    "name": "Say Cheese Buat Ramean",
+    "description": "Lebih Hemat, Beli Cheese Overflow Reguler GRATIS Beef Lasagna. Pesan sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "170001",
+    "name": "Paket TERKEJUT",
+    "description": "1 Original Regular Super Supreme/Super Supreme Chicken + Beef Lasagna Cheese Overflow + 2 orange delight Cup",
+    "section": "40th"
+  },
+  {
+    "price": "76000",
+    "name": "Pasta Cheese Overflow",
+    "description": "Pasta Cheese Overflow dengan pilihan Beef Lasagna, Beef Fettuccine, Pepperoni Cheese Fusilli. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "130000",
+    "name": "Regular Cheese Overflow",
+    "description": "Regular Cheese Overflow dengan pilihan Topping Super Supreme, Meat Lovers, American Favourite, Tuna Melt, Pepperoni. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "176000",
+    "name": "Big Box Free Lasagna's Love Layers",
+    "description": "Big Box Free Lasagna's Love Layers",
+    "section": "hot promo"
+  },
+  {
+    "price": "349000",
+    "name": "L1MO 6 Topping Free Lasagna's Love Layers",
+    "description": "L1MO 6 Topping Free Lasagna's Love Layers",
+    "section": "hot promo"
+  },
+  {
+    "price": "70001",
+    "name": "Triple Fun Pizza",
+    "description": "Fun Rasanya Pas Harga Nya, Yuk Pesan Sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi + Ayam (Wingstreet)",
+    "description": "Temukan rasa yang tersembunyi dengan pilihan WingStreet dan Nasi yang beragam. Yuk, pesan",
+    "section": "hot promo"
+  },
+  {
+    "price": "60001",
+    "name": "Melts Pizza",
+    "description": "Cheesy, Crispy, Loaded. Pizza Baru topping Seru Langsung Melts and Go! Pesan sekarang.",
+    "section": "hot promo"
+  },
+  {
+    "price": "149001",
+    "name": "QU4RTZA",
+    "description": "1 Pizza-nya, 4 Topping-nya, Banyak cuan-nya! Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "132000",
+    "name": "Double Box Deluxe",
+    "description": "Double Box Deluxe, Dua Regular Pizza Deluxe lebih Creamy, Cheesy, Spicy. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "176000",
+    "name": "Big Box.",
+    "description": "Bebas pilih topping Signature dan dapat 5 varian Snack asin manisnya. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "317000",
+    "name": "L1MO Pizza",
+    "description": "L1MO Pizza dengan Topping Tuna Melt, Meat Lovers dan Super Supreme. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "327000",
+    "name": "L1MO 6 Topping",
+    "description": "Baru! L1MO Pizza 1 Meter kini lebih berlimpah kejunya. Yuk, Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "52000",
+    "name": "Pizza Tipker",
+    "description": "Pizza Tipis dan Krispy dengan varian Topping Classic, Pesan Sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "81001",
+    "name": "My Box XL Pedas Nusantara",
+    "description": "1 My Box Pizza Pedas Nusantara (pilihan) + 1 Pizza Meaty + 1 French Fries Free 2 Lemon tea Cup.",
+    "section": "hot promo"
+  },
+  {
+    "price": "57001",
+    "name": "My Box Karaage",
+    "description": "Bisa pilih Pizza dengan 1 Snack Karaage. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "162000",
+    "name": "Pizza Heart",
+    "description": "Ungkapin sayang bisa kapan saja dengan Pizza Heart. Pesan untuk dinikmati bersama orang tersayangmu.",
+    "section": "hot promo"
+  },
+  {
+    "price": "344000",
+    "name": "Double Box Jumbo.",
+    "description": "Pizza favoritmu tersedia dengan porsi besar dengan 10 potongan. Beli sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "36001",
+    "name": "ChocoCheese Personal Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "88000",
+    "name": "Deluxe Regular Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "118000",
+    "name": "Signature Regular Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "123001",
+    "name": "Splitza Regular Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "172000",
+    "name": "Signature Jumbo Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "182001",
+    "name": "Splitza Jumbo Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "45001",
+    "name": "Mom's Spaghetti Bolognese",
+    "description": "Spaghetti, Daging Sapi Cincang, Tomato Sauce, Keju Cheddar, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Cheese Please Fusilli",
+    "description": "Fusilli, Pepperoni, Keju Cheddar, Keju Mozzarella, Beef Bits, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Carbonara Beef No Drama",
+    "description": "Fettuccine, Daging Sapi Asap, Jamur, Beef Bits, Crème Sauce, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Carbonara Chicken No Drama",
+    "description": "Fettuccine, Daging Ayam Asap, Jamur, Beef Bits, Crème Sauce, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "50001",
+    "name": "Spaghetti O-Senk",
+    "description": "Spaghetti, BBQ Sosis berbalut telur, Onion, Daun Bawang, Bawang Goreng, Cabai Merah, Parsley",
+    "section": "pasta"
+  },
+  {
+    "price": "50001",
+    "name": "Mac Crunchy Chiz",
+    "description": "Macaroni, Daging Sapi Asap, Keju Cheddar, Keju Mozzarella, Chili Mayo, Bechamel Sauce, Parsley, Crunchy Crumb.",
+    "section": "pasta"
+  },
+  {
+    "price": "50001",
+    "name": "Burger in Mee",
+    "description": "Spaghetti, Meatball, Beef Topping, Keju Cheddar, Jamur, Cheesy Tomato Sauce, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "50001",
+    "name": "Lasagna's Love Layers",
+    "description": "Lasagna, Daging Sapi Cincang, Tomato Sauce, Keju Mozzarella, Crème Sauce, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "50001",
+    "name": "Gyudon Curry On",
+    "description": "Spaghetti, Beef Gyudon, Paprika Hijau, Onion, Jamur, Curry Sauce, Wijen, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Nasgo Let's Go Beef",
+    "description": "Nasi, Meatball, Sosis Sapi, Sosis Ayam, Telur, Onion, Daun Bawang, Bawang Goreng, Cabai Merah.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Nasgo Let's Go Chicken",
+    "description": "Nasi, Chicken Luncheon, Chicken Stick, Sosis Ayam, Telur, Onion, Daun Bawang, Bawang Goreng, Cabai Merah.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Katsu Curry Me With You",
+    "description": "Nasi, Chicken Katsu, Onion, Curry Sauce, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Gyu Don't Worry",
+    "description": "Nasi, Beef Gyudon, Paprika Hijau, Onion, Jamur, Curry Sauce, Wijen, Parsley",
+    "section": "pasta"
+  },
+  {
+    "price": "45001",
+    "name": "Shuffle Truffle",
+    "description": "Fusilli, Sosis Beef Chorizo, Bayam, Jamur, Bechamel Sauce, Truffle Oil, Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "28001",
+    "name": "Nachos",
+    "description": "Keripik Jagung Dengan Saus Keju & Saus Bolognese",
+    "section": "snack"
+  },
+  {
+    "price": "33000",
+    "name": "Tuna Puff",
+    "description": "Puff Pastry, Tuna dan Saus Mayonnaise",
+    "section": "snack"
+  },
+  {
+    "price": "36000",
+    "name": "Beef Sausage Bites 5 Pcs",
+    "description": "Sosis Sapi Panggang dan Saus Barbeque",
+    "section": "snack"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Sticks 10 pcs",
+    "description": "Olahan Daging Ayam",
+    "section": "snack"
+  },
+  {
+    "price": "35001",
+    "name": "Mac n Cheese 6 Pcs",
+    "description": "Pasta Makaroni, Daging Sapi Asap, Beef Bits dan Keju Mozzarella",
+    "section": "snack"
+  },
+  {
+    "price": "36000",
+    "name": "Cheesy Dough Balls 6 Pcs",
+    "description": "Roti dengan Pepperoni dan Keju",
+    "section": "snack"
+  },
+  {
+    "price": "46001",
+    "name": "Fresh Salad",
+    "description": "Selada, Tomat , Jeli, Jagung, Kentang , Edamame, Telur dan Saus Thousand Island",
+    "section": "snack"
+  },
+  {
+    "price": "34000",
+    "name": "Choco Puff",
+    "description": "Puff Pastry, Cokelat",
+    "section": "snack"
+  },
+  {
+    "price": "53000",
+    "name": "Wingstreet 6 Pcs",
+    "description": "Tersedia dengan 4 pilihan sauce Spesial",
+    "section": "snack"
+  },
+  {
+    "price": "33000",
+    "name": "Golden Pocket",
+    "description": "Rice Ball dengan Keju Mozzarella Berbalut Crispy Crumbs",
+    "section": "snack"
+  },
+  {
+    "price": "36001",
+    "name": "Cheese Rolls 6 Pcs",
+    "description": "Roti dengan Keju Mozzarella",
+    "section": "snack"
+  },
+  {
+    "price": "14001",
+    "name": "Melon Lemonade Cup",
+    "description": "Minuman rasa melon, selasih dan jelly melon.",
+    "section": "drinks"
+  },
+  {
+    "price": "12001",
+    "name": "Orange Delight Cup",
+    "description": "Minuman rasa Jeruk.",
+    "section": "drinks"
+  },
+  {
+    "price": "12001",
+    "name": "Lemon Tea Cup",
+    "description": "Minuman rasa teh lemon.",
+    "section": "drinks"
+  },
+  {
+    "price": "27000",
+    "name": "Coca Cola 1 Liter",
+    "description": "Coca Cola 1lt",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Aqua 330 ml",
+    "description": "Aqua 330 ml",
+    "section": "drinks"
+  },
+  {
+    "price": "22000",
+    "name": "Cappuccino Jelly Cup",
+    "description": "Minuman Rasa Cappucino Dengan Jelly Didalamnya.",
+    "section": "drinks"
+  }
+]

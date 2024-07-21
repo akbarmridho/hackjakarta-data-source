@@ -1,0 +1,266 @@
+[
+  {
+    "price": "17000",
+    "name": "Mini Kacang",
+    "description": "Martabak Filled With Peanuts",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "17000",
+    "name": "Mini Srikaya",
+    "description": "Martabak Filled With Srikaya",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "17000",
+    "name": "Mini Keju Susu",
+    "description": "Martabak Filled With Cheese Plus Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "17000",
+    "name": "Mini Cokelat Susu",
+    "description": "Martabak Martabak With Chocolate Filling And Added Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "16000",
+    "name": "Mini Polos Susu",
+    "description": "Martabak Filled With Butter And Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Kacang Cokelat Susu",
+    "description": "Martabak Filled With Chocolate Mixed And Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Keju Cokelat Susu",
+    "description": "Martabak Filled With Chocolate And Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Srikaya Kacang Susu",
+    "description": "Martabak Filled With Srikaya Mixed With Peanuts And Added Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Keju Kacang Susu",
+    "description": "Martabak Filled With Peanut Mixed Cheese And Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Srikaya Keju Susu",
+    "description": "Martabak Filled With Srikaya And Cheese Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "18000",
+    "name": "Mini Srikaya Wijen Susu",
+    "description": "Martabak Filled With Srikaya Mixed With Sesame Added Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "19000",
+    "name": "Mini Srikaya Peanut Milk Chocolate",
+    "description": "Martabak Filled With Srikaya Mixed With Chocolate Nuts Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "19000",
+    "name": "Mini Cheese Peanut Milk Chocolate",
+    "description": "Martabak Filled With Mixed Peanut Cheese And Chocolate Added With Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "20000",
+    "name": "Mini Srikaya Cheese Peanut Chocolate",
+    "description": "Martabak Filled With Srikaya + Cheese + Peanuts + Chocolate And Milk",
+    "section": "martabak mini khas singkawang"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Original Milk Cheese",
+    "description": "Medium Size Martabak Original Dough Milk Cheese",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Original Milk Peanuts",
+    "description": "Medium Size Martabak, Original Dough Filled With Peanuts + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Original Srikaya Milk",
+    "description": "Medium Size Martabak, Original Dough Filled With Srikaya + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Original Chocolate Milk",
+    "description": "Medium Size Martabak, Original Dough Filled With Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Chocolate Nuts",
+    "description": "Medium Size Martabak Filled With Original Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Chocolate Cheese",
+    "description": "Original Size Martabak Filled With Cheese + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Peanut Cheese",
+    "description": "Original Size Martabak Filled With Cheese + Peanuts + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Sesame Cheese",
+    "description": "Original Size Martabak Filled With Cheese + Sesame + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Sugar Apple Nuts",
+    "description": "Original Size Martabak Filled With Srikaya + Peanuts + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Srikaya Cheese",
+    "description": "Original Size Martabak Filled With Srikaya + Cheese + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Original Chocolate Sugar Apple",
+    "description": "Original Size Martabak Filled With Srikaya + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Original Sesame Srikaya",
+    "description": "Original Size Martabak Filled With Srikaya + Sesame + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "48500",
+    "name": "Medium Original Chocolate Nut Cheese",
+    "description": "Original Size Martabak Filled With Cheese + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "48500",
+    "name": "Medium Original Chocolate Peanut Srikaya",
+    "description": "Original Size Martabak Filled With Srikaya + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "52000",
+    "name": "Medium Original Srikaya Cheese Peanut Chocolate",
+    "description": "Original Size Martabak Filled With Srikaya + Cheese + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Pandan Peanut Milk",
+    "description": "Medium Size Martabak Filled With Pandan Dough + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Pandan Srikaya Milk Medium",
+    "description": "Medium Size Martabak Pandan Dough Filled With Srikaya + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Medium Pandan Milk Cheese",
+    "description": "Medium Size Martabak Pandan Dough Filled With Cheese + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "41000",
+    "name": "Milk Chocolate Pandan Medium",
+    "description": "Medium Size Martabak Added With Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Chocolate Peanut Medium Pandan",
+    "description": "Medium Size Martabak Filled With Pandan Dough + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Pandan Chocolate Cheese",
+    "description": "Medium Size Martabak Added With Pandan Dough + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Pandan Cheese Peanut",
+    "description": "Medium Size Martabak Added With Pandan Dough + Peanuts + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Sesame Cheese Medium Pandan",
+    "description": "Medium Size Martabak Added With Pandan Dough + Sesame + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Pandan Srikaya Nuts",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Peanuts + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Medium Pandan Srikaya Cheese",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Cheese + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Chocolate Sugar Apple Pandan Medium",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "44500",
+    "name": "Sedang Pandan Srikaya Wijen",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Sesame + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "48500",
+    "name": "Medium Pandan Srikaya Peanut Chocolate",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "48500",
+    "name": "Medium Pandan Cheese Peanut Chocolate",
+    "description": "Medium Size Martabak Filled With Pandan Cheese + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  },
+  {
+    "price": "52000",
+    "name": "Medium Pandan Srikaya Cheese Peanut Chocolate",
+    "description": "Medium Size Martabak Pandan Filled With Srikaya + Cheese + Peanuts + Chocolate + Milk",
+    "section": "typical bangka martabak"
+  }
+]

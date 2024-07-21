@@ -1,3714 +1,1962 @@
 [
-    {
-        "id": "6-C34CUB2FUFDFGA",
-        "cuisine": [
-            "bakery cake",
-            "beverages",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-beanspot-alfamart-gedung-sinergi-8-kd99-delivery/6-C34CUB2FUFDFGA?",
-        "name": "Kopi Beanspot Alfamart - Gedung Sinergi 8 (KD99)",
-        "tags": [
-            "bakery & cake",
-            "coffee",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C2BXHF2XUBA1C2",
-        "cuisine": [
-            "bakery cake",
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-tanjung-duren-kebun-kelapa-delivery/6-C2BXHF2XUBA1C2?",
-        "name": "Mie Aceh Tanjung Duren - Kebun Kelapa",
-        "tags": [
-            "bakery & cake",
-            "rice",
-            "martabak"
-        ]
-    },
-    {
-        "id": "6-C3TXA7KFHFEKTN",
-        "cuisine": [
-            "bakery cake",
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-har-pasar-baru-delivery/6-C3TXA7KFHFEKTN?",
-        "name": "Martabak Har - Pasar Baru",
-        "tags": [
-            "bakery & cake",
-            "martabak",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3UZN6XERY4CEN",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/roti-bakar-kemang-pop-up-kitchen-delivery/6-C3UZN6XERY4CEN?",
-        "name": "Roti Bakar Kemang - Pop Up Kitchen",
-        "tags": [
-            "bakery & cake",
-            "snack",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C3CEN7JBSBTFJT",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bittersweet-by-najla-kebon-kelapa-delivery/6-C3CEN7JBSBTFJT?",
-        "name": "Bittersweet By Najla - Kebon Kelapa",
-        "tags": [
-            "bakery & cake",
-            "dessert"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000e7i",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dandy-bakery-gambir-delivery/IDGFSTI00000e7i?",
-        "name": "Dandy Bakery - Gambir",
-        "tags": [
-            "bakery & cake",
-            "snack",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C4LGNYUGRYUERE",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ropang-25-kalipasir-kebon-sirih-delivery/6-C4LGNYUGRYUERE?",
-        "name": "Ropang 25 Kalipasir - Kebon Sirih",
-        "tags": [
-            "bakery & cake",
-            "dessert",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-CZBCA2NAVE2WJ2",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/queen-s-tandoor-plaza-bank-index-delivery/6-CZBCA2NAVE2WJ2?",
-        "name": "Queen's Tandoor - Plaza Bank Index",
-        "tags": [
-            "bakery & cake",
-            "international",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3U3GLKBFAAVBA",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/tomoro-coffee-sabang-delivery/6-C3U3GLKBFAAVBA?",
-        "name": "TOMORO COFFEE - Sabang",
-        "tags": [
-            "bakery & cake",
-            "coffee",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C6AJCB21AY23ET",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-pecenongan-delivery/6-C6AJCB21AY23ET?",
-        "name": "Pukis & Martabak Kota Baru - Pecenongan",
-        "tags": [
-            "bakery & cake",
-            "martabak",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C3XBGETAGUJ3CN",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/siliwangi-bolu-kukus-stasiun-tanah-abang-delivery/6-C3XBGETAGUJ3CN?",
-        "name": "Siliwangi Bolu Kukus - Stasiun Tanah Abang",
-        "tags": [
-            "bakery & cake"
-        ]
-    },
-    {
-        "id": "IDGFSTI000000kx",
-        "cuisine": [
-            "bakery cake",
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/j-co-donuts-coffee-menteng-central-delivery/IDGFSTI000000kx?",
-        "name": "J.CO Donuts & Coffee - Menteng Central",
-        "tags": [
-            "bakery & cake",
-            "breakfast",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C3NTWF6TJEUKVX",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pisang-goreng-madu-pasti-menteng-delivery/6-C3NTWF6TJEUKVX?",
-        "name": "Pisang Goreng Madu PASTI - Menteng",
-        "tags": [
-            "bakery & cake",
-            "snack",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-CY3TEK3HJPAZTJ",
-        "cuisine": [
-            "bakery cake",
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/krispy-kreme-djakarta-theater-delivery/6-CY3TEK3HJPAZTJ?",
-        "name": "Krispy Kreme - Djakarta Theater",
-        "tags": [
-            "dessert",
-            "martabak",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C33WLZKUT3JDJ2",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/trade-cafe-gambir-delivery/6-C33WLZKUT3JDJ2?",
-        "name": "Trade Cafe - Gambir",
-        "tags": [
-            "bakery & cake",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C4D3JF6AMAJ3A6",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/jajanan-kue-cucur-aromanis-neng-juminten-gambir-delivery/6-C4D3JF6AMAJ3A6?",
-        "name": "Jajanan Kue Cucur Aromanis Neng Juminten - Gambir",
-        "tags": [
-            "bakery & cake",
-            "chicken",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-CY4DJRL1DCN3JE",
-        "cuisine": [
-            "bakery cake",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/starbucks-menteng-huis-delivery/6-CY4DJRL1DCN3JE?",
-        "name": "Starbucks - Menteng Huis",
-        "tags": [
-            "coffee",
-            "beverages",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-CYWGGLEHNVE2SE",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/lapis-talas-bogor-petamburan-delivery/6-CYWGGLEHNVE2SE?",
-        "name": "Lapis Talas Bogor - Petamburan",
-        "tags": [
-            "bakery & cake",
-            "dessert",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C2UYRNLVHAJEBE",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-legend-krukut-delivery/6-C2UYRNLVHAJEBE?",
-        "name": "Nasi Goreng Legend - Krukut",
-        "tags": [
-            "bakery & cake",
-            "chicken",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-C3CYCN6AE2CVNT",
-        "cuisine": [
-            "bakery cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kibo-cheese-petojo-selatan-delivery/6-C3CYCN6AE2CVNT?",
-        "name": "Kibo Cheese - Petojo Selatan",
-        "tags": [
-            "bakery & cake",
-            "dessert",
-            "japanese"
-        ]
-    },
-    {
-        "id": "6-C3LUC4J3GYDGA6",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-sambel-ijo-metro-99-guntur-delivery/6-C3LUC4J3GYDGA6?",
-        "name": "Ayam Penyet Sambel Ijo Metro 99 - Guntur",
-        "tags": [
-            "rice",
-            "chicken",
-            "bakmie"
-        ]
-    },
-    {
-        "id": "6-C2CCVXEZDBWWBE",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/warung-nasi-duta-rasa-manggarai-delivery/6-C2CCVXEZDBWWBE?",
-        "name": "Warung Nasi Duta Rasa - Manggarai",
-        "tags": [
-            "bakso",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3VVEFXXVTWKVJ",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-podomoro-hot-guntur-delivery/6-C3VVEFXXVTWKVJ?",
-        "name": "Ayam Bakar Podomoro HOT - Guntur",
-        "tags": [
-            "bakso",
-            "bakmi",
-            "hidangan laut",
-            "ayam",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C2DXCUBXVLLDLA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-kumis-menteng-atas-delivery/6-C2DXCUBXVLLDLA?",
-        "name": "Bakmi Kumis - Menteng Atas",
-        "tags": [
-            "bakso",
-            "noodles",
-            "ayam",
-            "breakfast",
-            "cepat saji"
-        ]
-    },
-    {
-        "id": "6-C3M1TBKXCEDJTX",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/cilok-bang-jun-pademangan-barat-delivery/6-C3M1TBKXCEDJTX?",
-        "name": "Cilok Bang Jun - Pademangan Barat",
-        "tags": [
-            "bakso",
-            "snack",
-            "pempek"
-        ]
-    },
-    {
-        "id": "6-C4E1LLJZCEJBWE",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakso-koko-gepeng-tebet-raya-delivery/6-C4E1LLJZCEJBWE?",
-        "name": "BAKSO KOKO GEPENG - Tebet Raya",
-        "tags": [
-            "bakso",
-            "fast food",
-            "bakmi"
-        ]
-    },
-    {
-        "id": "6-C2UYRF5JVA6ZWA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hari-hari-ayong-pejagalan-delivery/6-C2UYRF5JVA6ZWA?",
-        "name": "Hari Hari Ayong - Pejagalan",
-        "tags": [
-            "pork",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2AXKCJCRYCDBE",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmie-chan-chan-68-pegangsaan-dua-delivery/6-C2AXKCJCRYCDBE?",
-        "name": "Bakmie Chan Chan 68 - Pegangsaan Dua",
-        "tags": [
-            "bakso",
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C351HGBKLZNKTN",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-ayam-mamie-cinta-apartement-pakubuwono-terrace-delivery/6-C351HGBKLZNKTN?",
-        "name": "Mie Ayam Mamie Cinta - Apartement Pakubuwono Terrace",
-        "tags": [
-            "bakso",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C2UCN62HN2VXJA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pokemie-bakmi-ayam-jamur-homemade-pondok-kelapa-delivery/6-C2UCN62HN2VXJA?",
-        "name": "Pokemie Bakmi Ayam Jamur Homemade - Pondok Kelapa",
-        "tags": [
-            "bakso",
-            "healthy",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C26GRJ4GNCDDE6",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakso-malang-pandawa-sukasari-delivery/6-C26GRJ4GNCDDE6?",
-        "name": "Bakso Malang Pandawa - Sukasari",
-        "tags": [
-            "bakso"
-        ]
-    },
-    {
-        "id": "6-C22HLK6TCYAZRN",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmie-tetangga-modern-land-delivery/6-C22HLK6TCYAZRN?",
-        "name": "Bakmie Tetangga - Modern Land",
-        "tags": [
-            "bakso",
-            "noodles",
-            "bakmie",
-            "mie ayam"
-        ]
-    },
-    {
-        "id": "6-C3TAGTJFGAWVBA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/seblak-prasmanan-cengkareng-barat-delivery/6-C3TAGTJFGAWVBA?",
-        "name": "Seblak Prasmanan - Cengkareng Barat",
-        "tags": [
-            "bakso",
-            "seblak",
-            "mie ayam"
-        ]
-    },
-    {
-        "id": "6-CZNDGEVKNUW2KA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pempek-pempek-arsky-pademangan-barat-delivery/6-CZNDGEVKNUW2KA?",
-        "name": "Pempek-Pempek Arsky - Pademangan Barat",
-        "tags": [
-            "bakso",
-            "pempek",
-            "cemilan",
-            "drinks"
-        ]
-    },
-    {
-        "id": "6-C3N1PBEBLZL2HA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/seblak-wawah-pademangan-delivery/6-C3N1PBEBLZL2HA?",
-        "name": "Seblak Wawah - Pademangan",
-        "tags": [
-            "bakso",
-            "mie",
-            "minuman"
-        ]
-    },
-    {
-        "id": "6-C252HGCTCJUCVA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/profesor-bakso-sukabumi-utara-ilir-delivery/6-C252HGCTCJUCVA?",
-        "name": "Profesor Bakso - Sukabumi Utara (Ilir)",
-        "tags": [
-            "bakso",
-            "noodles",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C2XEVPEGMAACCN",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-ayam-bakso-meril-meruya-utara-delivery/6-C2XEVPEGMAACCN?",
-        "name": "Mie Ayam Bakso Meril - Meruya Utara",
-        "tags": [
-            "bakso",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-CYWKNK52EEKWEA",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bebek-sop-janda-cerewet-cipinang-muara-delivery/6-CYWKNK52EEKWEA?",
-        "name": "Bebek & Sop Janda Cerewet - Cipinang Muara",
-        "tags": [
-            "bakso",
-            "chicken",
-            "sop"
-        ]
-    },
-    {
-        "id": "6-C3WXNGNJAT5CCJ",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-jagoan-mk-pluit-delivery/6-C3WXNGNJAT5CCJ?",
-        "name": "Bakmi Jagoan MK - Pluit",
-        "tags": [
-            "bakso",
-            "noodles",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C2WHR6EDUEVARN",
-        "cuisine": [
-            "bakso"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-ayam-88-cipete-delivery/6-C2WHR6EDUEVARN?",
-        "name": "Mie Ayam 88 - Cipete",
-        "tags": [
-            "bakso",
-            "noodles",
-            "bakmie",
-            "chicken",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "IDGFSTI000038t7",
-        "cuisine": [
-            "beverages",
-            "coffee",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-kenangan-skyline-building-delivery/IDGFSTI000038t7?",
-        "name": "Kopi Kenangan - Skyline Building",
-        "tags": [
-            "beverages",
-            "snack",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C26VCFLXJVCEN6",
-        "cuisine": [
-            "beverages",
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?",
-        "name": "Nasi Uduk Ayam Tulang Lunak Waroeng Pak Eddy - Kebon Sirih",
-        "tags": [
-            "beverages",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C35WVXKHV24EWA",
-        "cuisine": [
-            "beverages",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mentaihausu-kebon-sirih-delivery/6-C35WVXKHV24EWA?",
-        "name": "Mentaihausu - Kebon Sirih",
-        "tags": [
-            "beverages",
-            "chicken",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C2ATJUC3FGB1GJ",
-        "cuisine": [
-            "beverages"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/aneka-sop-buah-juice-dan-buah-potong-hj-monir-gambir-delivery/6-C2ATJUC3FGB1GJ?",
-        "name": "Aneka Sop Buah, Juice dan Buah Potong Hj Monir - Gambir",
-        "tags": [
-            "beverages",
-            "dessert",
-            "healthy"
-        ]
-    },
-    {
-        "id": "6-C3XXDFXXECEDRX",
-        "cuisine": [
-            "beverages",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ini-toko-kopi-petojo-selatan-delivery/6-C3XXDFXXECEDRX?",
-        "name": "INI TOKO KOPI - Petojo Selatan",
-        "tags": [
-            "beverages",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C3TBCJV1EBEWVJ",
-        "cuisine": [
-            "beverages",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/juice-do-go-avocado-mango-kebon-sirih-delivery/6-C3TBCJV1EBEWVJ?",
-        "name": "Juice DO & GO avocaDO manGO - Kebon Sirih",
-        "tags": [
-            "beverages",
-            "breakfast",
-            "healthy"
-        ]
-    },
-    {
-        "id": "6-C2W2TPXVFEDKVE",
-        "cuisine": [
-            "beverages",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/the-atjeh-connection-kebon-sirih-delivery/6-C2W2TPXVFEDKVE?",
-        "name": "The Atjeh Connection - Kebon Sirih",
-        "tags": [
-            "beverages",
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3UUJFVZLA2JVA",
-        "cuisine": [
-            "beverages",
-            "coffee",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/toko-kopi-tuku-menteng-delivery/6-C3UUJFVZLA2JVA?",
-        "name": "Toko Kopi Tuku - Menteng",
-        "tags": [
-            "beverages",
-            "coffee",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-CZBFLU5KGFLUBE",
-        "cuisine": [
-            "beverages",
-            "coffee",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/fore-coffee-cideng-delivery/6-CZBFLU5KGFLUBE?",
-        "name": "Fore Coffee - Cideng",
-        "tags": [
-            "beverages",
-            "coffee",
-            "breakfast",
-            "halal certified"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000gre",
-        "cuisine": [
-            "beverages"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-keprabon-express-sawah-besar-delivery/IDGFSTI00000gre?",
-        "name": "Ayam Keprabon Express - Sawah Besar",
-        "tags": [
-            "halal certified",
-            "rice",
-            "chicken",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C2M1VGK2AFWTDA",
-        "cuisine": [
-            "beverages",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-sambal-ijo-bintang-kebon-melati-delivery/6-C2M1VGK2AFWTDA?",
-        "name": "Ayam Penyet Sambal Ijo Bintang - Kebon Melati",
-        "tags": [
-            "beverages",
-            "indonesian",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C26BTLCDBBBYEN",
-        "cuisine": [
-            "beverages",
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sisapi-beefbowl-menteng-delivery/6-C26BTLCDBBBYEN?",
-        "name": "Sisapi Beefbowl - Menteng",
-        "tags": [
-            "beef",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-CYXAG23WGFLKVE",
-        "cuisine": [
-            "beverages",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/arah-coffee-cideng-delivery/6-CYXAG23WGFLKVE?",
-        "name": "ARAH Coffee - Cideng",
-        "tags": [
-            "beverages",
-            "coffee",
-            "bakery"
-        ]
-    },
-    {
-        "id": "6-C4L1AU4HGN6DET",
-        "cuisine": [
-            "beverages"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/super-juice-station-sarinah-delivery/6-C4L1AU4HGN6DET?",
-        "name": "Super Juice Station - Sarinah",
-        "tags": [
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-CY6XDEWBGECGFA",
-        "cuisine": [
-            "beverages",
-            "bubble tea",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chatime-x-cupbop-melawai-cideng-delivery/6-CY6XDEWBGECGFA?",
-        "name": "Chatime x Cupbop - Melawai Cideng",
-        "tags": [
-            "beverages",
-            "bubble tea",
-            "korean"
-        ]
-    },
-    {
-        "id": "6-C4EXT2E3NY6AAE",
-        "cuisine": [
-            "beverages",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-nako-monas-delivery/6-C4EXT2E3NY6AAE?",
-        "name": "Kopi Nako - Monas",
-        "tags": [
-            "beverages",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C24JGLMVJYEUVE",
-        "cuisine": [
-            "beverages",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/legais-jus-kopi-milkshake-kebon-sirih-delivery/6-C24JGLMVJYEUVE?",
-        "name": "Legais Jus, Kopi & Milkshake - Kebon Sirih",
-        "tags": [
-            "beverages",
-            "coffee",
-            "healthy",
-            "halal certified"
-        ]
-    },
-    {
-        "id": "6-C2BTSAMVT2EZVN",
-        "cuisine": [
-            "beverages"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/es-kelapa-muda-cihuyy-petojo-selatan-delivery/6-C2BTSAMVT2EZVN?",
-        "name": "Es Kelapa Muda Cihuyy - Petojo Selatan",
-        "tags": [
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-CYKKTPAYPEEKJT",
-        "cuisine": [
-            "beverages",
-            "bubble tea",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-janji-jiwa-jiwa-toast-tanah-abang-delivery/6-CYKKTPAYPEEKJT?",
-        "name": "Kopi Janji Jiwa & Jiwa Toast - Tanah Abang",
-        "tags": [
-            "beverages",
-            "halal certified",
-            "coffee",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2AUFCETG34VMA",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-dari-pada-by-hangry-cikini-delivery/6-C2AUFCETG34VMA?",
-        "name": "Kopi Dari Pada by Hangry - Cikini",
-        "tags": [
-            "beverages",
-            "coffee",
-            "dessert",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C4DHBE5JT8LJME",
-        "cuisine": [
-            "bubble tea",
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-tetangga-sebelah-keagungan-delivery/6-C4DHBE5JT8LJME?",
-        "name": "Kopi Tetangga Sebelah - Keagungan",
-        "tags": [
-            "coffee",
-            "beverages",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2AJE6BKJCL3NT",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/xie-xie-boba-tomang-delivery/6-C2AJE6BKJCL3NT?",
-        "name": "Xie Xie Boba - Tomang",
-        "tags": [
-            "bubble tea",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C3TCV3VFHCE3G2",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/h-cups-boba-tea-stasiun-tanah-abang-delivery/6-C3TCV3VFHCE3G2?",
-        "name": "H! Cups Boba & Tea - Stasiun Tanah Abang",
-        "tags": [
-            "bubble tea",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C342GAXABBMJV6",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mixue-tanah-abang-delivery/6-C342GAXABBMJV6?",
-        "name": "MIXUE - Tanah Abang",
-        "tags": [
-            "bubble tea",
-            "ice cream",
-            "dessert"
-        ]
-    },
-    {
-        "id": "IDGFSTI000039xm",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/koi-the-grand-indonesia-west-mall-delivery/IDGFSTI000039xm?",
-        "name": "KOI The - Grand Indonesia (West Mall)",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C4D3FGCCR6CAGA",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dessert-si-manis-tanah-tinggi-delivery/6-C4D3FGCCR6CAGA?",
-        "name": "DESSERT SI MANIS - Tanah Tinggi",
-        "tags": [
-            "bubble tea",
-            "healthy",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-CYXWGTTHGUBWC2",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/xiboba-sarinah-delivery/6-CYXWGTTHGUBWC2?",
-        "name": "XIBOBA - Sarinah",
-        "tags": [
-            "bubble tea",
-            "dessert",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C3UVGGC2RY52TA",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/haus-x-hot-oppa-jkt-stasiun-gambir-delivery/6-C3UVGGC2RY52TA?",
-        "name": "HAUS! x Hot Oppa - JKT Stasiun Gambir",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-CY5HNYWKR2NCT6",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/shushu-grand-indonesia-delivery/6-CY5HNYWKR2NCT6?",
-        "name": "ShuShu - Grand Indonesia",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C6TTMBV2JGCKC6",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/raja-dimsum-x-pancong-lava-petojo-utara-delivery/6-C6TTMBV2JGCKC6?",
-        "name": "Raja Dimsum X Pancong Lava - Petojo Utara",
-        "tags": [
-            "bubble tea",
-            "chicken",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2L2C62JEUJJCE",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chicha-san-chen-grand-indonesia-delivery/6-C2L2C62JEUJJCE?",
-        "name": "Chicha San Chen - Grand Indonesia",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C2X2PE3BTNLDNN",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/esteh-indonesia-cikini-delivery/6-C2X2PE3BTNLDNN?",
-        "name": "Esteh Indonesia - Cikini",
-        "tags": [
-            "beverages",
-            "dessert",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZDEGUUXTPK3WE",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chatime-pasar-mode-tanah-abang-delivery/6-CZDEGUUXTPK3WE?",
-        "name": "Chatime - Pasar Mode Tanah Abang",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C6JXKFW1ACJ3MA",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/susu-mbok-darmi-halte-transjakarta-juanda-delivery/6-C6JXKFW1ACJ3MA?",
-        "name": "Susu Mbok Darmi - Halte Transjakarta Juanda",
-        "tags": [
-            "bubble tea"
-        ]
-    },
-    {
-        "id": "6-C2CKGXTJRB5CVE",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kopi-pick-cup-graha-harmoni-delivery/6-C2CKGXTJRB5CVE?",
-        "name": "Kopi Pick Cup - Graha Harmoni",
-        "tags": [
-            "bubble tea",
-            "beverages",
-            "coffee"
-        ]
-    },
-    {
-        "id": "6-C6NWEFTGE6EZJA",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/alpukat-kocok-gambir-delivery/6-C6NWEFTGE6EZJA?",
-        "name": "ALPUKAT KOCOK - Gambir",
-        "tags": [
-            "bubble tea",
-            "snack",
-            "chicken"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000wx8",
-        "cuisine": [
-            "bubble tea"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dum-dum-thai-drinks-express-boxx-in-delivery/IDGFSTI00000wx8?",
-        "name": "Dum Dum Thai Drinks Express - Boxx In",
-        "tags": [
-            "beverages",
-            "dessert",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C2AUFF3ULNUCNE",
-        "cuisine": [
-            "burgers",
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/moon-chicken-korean-fried-chicken-cikini-delivery/6-C2AUFF3ULNUCNE?",
-        "name": "Moon Chicken (Korean Fried Chicken) - Cikini",
-        "tags": [
-            "chicken",
-            "fast food",
-            "korean",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C4JHVGMCFBTGLJ",
-        "cuisine": [
-            "burgers",
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hot-side-story-spicy-fried-chicken-cikini-delivery/6-C4JHVGMCFBTGLJ?",
-        "name": "Hot Side Story (Spicy Fried Chicken) - Cikini",
-        "tags": [
-            "chicken",
-            "fast food",
-            "rice",
-            "international"
-        ]
-    },
-    {
-        "id": "IDGFSTI000002pd",
-        "cuisine": [
-            "burgers"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/johnny-rockets-sahid-sudirman-delivery/IDGFSTI000002pd?",
-        "name": "Johnny Rockets - Sahid Sudirman",
-        "tags": [
-            "international",
-            "snack",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C4KHDELJHA5HNE",
-        "cuisine": [
-            "burgers",
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chicken-burger-by-hangry-cikini-delivery/6-C4KHDELJHA5HNE?",
-        "name": "Chicken Burger by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "snack",
-            "korean"
-        ]
-    },
-    {
-        "id": "6-C26FEVDDVVD2AA",
-        "cuisine": [
-            "burgers"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/keblenger-burger-gandul-delivery/6-C26FEVDDVVD2AA?",
-        "name": "Keblenger Burger - Gandul",
-        "tags": [
-            "burgers",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C2XWTUMUTT2JRN",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-dan-nasi-bebek-suramadu-kebon-kelapa-delivery/6-C2XWTUMUTT2JRN?",
-        "name": "Ayam Penyet Dan Nasi Bebek Suramadu - Kebon Kelapa",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C22TL2JHKA4TJA",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-idaman-88-khas-madura-kebon-kacang-delivery/6-C22TL2JHKA4TJA?",
-        "name": "Nasi Bebek Idaman 88 Khas Madura - Kebon Kacang",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000fea",
-        "cuisine": [
-            "chicken",
-            "fast food",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea?",
-        "name": "KFC - Prapatan Tugu Tani",
-        "tags": [
-            "chicken",
-            "fast food",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C3LFNYXXDBX3PA",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-ayam-bakar-ibu-musliah-gambir-gambir-delivery/6-C3LFNYXXDBX3PA?",
-        "name": "NASI BEBEK&AYAM BAKAR IBU MUSLIAH GAMBIR - Gambir",
-        "tags": [
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3UTLUMFAXN1RX",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "noodles",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?",
-        "name": "Nasi Goreng Seafood Bos RT - Kebon Sirih",
-        "tags": [
-            "chicken",
-            "rice",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-CYV3LN5FBEJBNT",
-        "cuisine": [
-            "chicken",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-juanda-delivery/6-CYV3LN5FBEJBNT?",
-        "name": "RM Sederhana (SA) - Juanda",
-        "tags": [
-            "chicken",
-            "padang",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2BKEY52JTNUHE",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-serundeng-cak-sadik-petojo-selatan-delivery/6-C2BKEY52JTNUHE?",
-        "name": "Nasi Bebek Serundeng Cak Sadik - Petojo Selatan",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZC1FFTARGAVWA",
-        "cuisine": [
-            "chicken",
-            "rice",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gurame-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CZC1FFTARGAVWA?",
-        "name": "Gurame & Nasi Timbel Putri Ayu - Petojo Selatan",
-        "tags": [
-            "chicken",
-            "rice",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-C4JYKCKBE3N2J2",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "noodles",
-            "rice",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/solaria-sarinah-jakarta-delivery/6-C4JYKCKBE3N2J2?",
-        "name": "Solaria - Sarinah Jakarta",
-        "tags": [
-            "indonesian",
-            "rice",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-CY5WKEKGCEMGUE",
-        "cuisine": [
-            "chicken",
-            "chinese",
-            "fried rice",
-            "indonesian",
-            "rice",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?",
-        "name": "Pondok Sibungsu - Kh. Wahid Hasyim",
-        "tags": [
-            "chinese",
-            "seafood",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2CBCFN2NTJGL2",
-        "cuisine": [
-            "chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?",
-        "name": "Ayam Bakar Geprek Ibu May - Kebon Sirih",
-        "tags": [
-            "chicken",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "6-C2KWVAEDNTAZAJ",
-        "cuisine": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dapur-sunda-kuningan-bu-may-kebon-sirih-delivery/6-C2KWVAEDNTAZAJ?",
-        "name": "Dapur Sunda Kuningan Bu May - Kebon Sirih",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CYN3PFCFR4M2TN",
-        "cuisine": [
-            "chicken",
-            "fast food",
-            "rice",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?",
-        "name": "Burger King - Cideng Jakarta",
-        "tags": [
-            "chicken",
-            "fast food",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C4LGRXKYT7JBGX",
-        "cuisine": [
-            "chicken",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-bumbu-hitam-bu-maya-khas-madura-kebon-sirih-delivery/6-C4LGRXKYT7JBGX?",
-        "name": "Nasi Bebek Bumbu Hitam Bu Maya khas. Madura - Kebon Sirih",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C4JFC4MHNKKJAX",
-        "cuisine": [
-            "chicken",
-            "fast food",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-bang-dava-nasi-geprek-popcorn-kemayoran-delivery/6-C4JFC4MHNKKJAX?",
-        "name": "Ayam Bang Dava, Nasi Geprek & Popcorn - Kemayoran",
-        "tags": [
-            "chicken",
-            "rice",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-CYLBC7VTDGJZNT",
-        "cuisine": [
-            "chicken",
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CYLBC7VTDGJZNT?",
-        "name": "Gurame Bakar & Nasi Timbel Putri Ayu - Petojo Selatan",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3MGPCDHKCLGUE",
-        "cuisine": [
-            "chicken",
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pagi-sore-malam-masakan-padang-dapurhub-thamrin-delivery/6-C3MGPCDHKCLGUE?",
-        "name": "Pagi Sore Malam Masakan Padang - DapurHub Thamrin",
-        "tags": [
-            "chicken",
-            "padang",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3V1JP4AGE6EAA",
-        "cuisine": [
-            "chicken",
-            "fast food",
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/seindonesia-sei-sapi-dan-ayam-lakuliner-thamrin-delivery/6-C3V1JP4AGE6EAA?",
-        "name": "SeIndonesia (Sei Sapi dan Ayam) - Lakuliner Thamrin",
-        "tags": [
-            "chicken",
-            "rice",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C2XFE74CVPW3PE",
-        "cuisine": [
-            "chicken",
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bakar-aulia-senen-delivery/6-C2XFE74CVPW3PE?",
-        "name": "Ayam Goreng Bakar Aulia - Senen",
-        "tags": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CZADVJDJPFJHNT",
-        "cuisine": [
-            "chinese",
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/fried-chicken-geprek-gian-kampung-rawa-delivery/6-CZADVJDJPFJHNT?",
-        "name": "Fried Chicken Geprek Gian - Kampung Rawa",
-        "tags": [
-            "rice",
-            "chicken",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "AWhbPc4Bkk5cOZVWu3fg",
-        "cuisine": [
-            "chinese",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chinese-food-90-kemayoran-delivery/AWhbPc4Bkk5cOZVWu3fg?",
-        "name": "Chinese Food 90 - Kemayoran",
-        "tags": [
-            "indonesian",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C4AUAGNTRB5UNT",
-        "cuisine": [
-            "chinese",
-            "seafood",
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/a-yummy-petojo-gambir-delivery/6-C4AUAGNTRB5UNT?",
-        "name": "A'Yummy! - Petojo Gambir",
-        "tags": [
-            "chinese",
-            "seafood",
-            "rice"
-        ]
-    },
-    {
-        "id": "IDGFSTI0000008d",
-        "cuisine": [
-            "chinese",
-            "fried rice",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-gm-sunda-delivery/IDGFSTI0000008d?",
-        "name": "Bakmi GM - Sunda",
-        "tags": [
-            "noodles",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2AAUEVGTU6EJ2",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-campur-afuk-kebon-kelapa-delivery/6-C2AAUEVGTU6EJ2?",
-        "name": "Nasi Campur Afuk - Kebon Kelapa",
-        "tags": [
-            "chinese",
-            "pork",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3ECVFMAN7JHV2",
-        "cuisine": [
-            "chinese",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hainam-bowls-gondangdia-delivery/6-C3ECVFMAN7JHV2?",
-        "name": "Hainam Bowls - Gondangdia",
-        "tags": [
-            "chicken",
-            "rice",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C3VKKGKDHFLVET",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-alay-since-1985-kartini-delivery/6-C3VKKGKDHFLVET?",
-        "name": "Bakmi Alay Since 1985 - Kartini",
-        "tags": [
-            "chinese",
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CY63JK6HMBJVT6",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rumah-makan-tss-88-duri-selatan-delivery/6-CY63JK6HMBJVT6?",
-        "name": "Rumah Makan Tss 88 - Duri Selatan",
-        "tags": [
-            "chinese",
-            "international",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3BVSACYGT4FGN",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?",
-        "name": "D'COST - Petojo Gambir",
-        "tags": [
-            "chinese",
-            "seafood",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C6NJAUXCRUBVEX",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nesya-the-real-dimsum-kemanggisan-delivery/6-C6NJAUXCRUBVEX?",
-        "name": "Nesya the real dimsum - Kemanggisan",
-        "tags": [
-            "chinese",
-            "seafood",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C4CKEYMGNEUUEA",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/cuboy-babi-goreng-thamrin-delivery/6-C4CKEYMGNEUUEA?",
-        "name": "Cuboy Babi Goreng - Thamrin",
-        "tags": [
-            "chinese",
-            "pork",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CZECLN2DE2LJVE",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kwetiaw-sapi-roxy-petojo-utara-delivery/6-CZECLN2DE2LJVE?",
-        "name": "Kwetiaw Sapi Roxy - Petojo Utara",
-        "tags": [
-            "chinese",
-            "noodles",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "6-C2DWLKLTPCABVE",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/demie-bakmie-shophaus-menteng-delivery/6-C2DWLKLTPCABVE?",
-        "name": "DEMIE Bakmie - Shophaus Menteng",
-        "tags": [
-            "chinese",
-            "noodles",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3K2VYACC3BAWE",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/fuk-kee-nasi-ayam-hainam-pasar-baru-delivery/6-C3K2VYACC3BAWE?",
-        "name": "Fuk Kee Nasi Ayam Hainam - Pasar Baru",
-        "tags": [
-            "chinese",
-            "duck"
-        ]
-    },
-    {
-        "id": "6-C3NJGT3ZGU3EAE",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/golden-lamian-cideng-jakarta-mie-nasi-ayam-goreng-delivery/6-C3NJGT3ZGU3EAE?",
-        "name": "Golden Lamian - Cideng Jakarta (Mie, Nasi, & Ayam Goreng)",
-        "tags": [
-            "halal certified",
-            "noodles",
-            "indonesian",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C2BJDAJBSGLAET",
-        "cuisine": [
-            "chinese",
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kang-daseng-kramat-delivery/6-C2BJDAJBSGLAET?",
-        "name": "Nasi Goreng Kang Daseng - Kramat",
-        "tags": [
-            "rice",
-            "chicken",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C3AARYLATTC1CN",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dailybox-raden-saleh-delivery/6-C3AARYLATTC1CN?",
-        "name": "Dailybox - Raden Saleh",
-        "tags": [
-            "beef",
-            "chicken",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3ETTPNFPEJUE6",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chinese-food-86-taman-sari-delivery/6-C3ETTPNFPEJUE6?",
-        "name": "Chinese Food 86 - Taman Sari",
-        "tags": [
-            "indonesian",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C6MHJRNWKEBCLT",
-        "cuisine": [
-            "chinese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gohyong-baba-maphar-delivery/6-C6MHJRNWKEBCLT?",
-        "name": "Gohyong Baba - Maphar",
-        "tags": [
-            "chinese"
-        ]
-    },
-    {
-        "id": "6-C6LXVLK1V32ECA",
-        "cuisine": [
-            "coffee",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/warkop-ihsan-sabang-kebon-sirih-delivery/6-C6LXVLK1V32ECA?",
-        "name": "WARKOP IHSAN SABANG - Kebon Sirih",
-        "tags": [
-            "coffee",
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3BFSFBZTUMAPA",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/golden-black-coffee-senen-delivery/6-C3BFSFBZTUMAPA?",
-        "name": "Golden Black Coffee - Senen",
-        "tags": [
-            "coffee",
-            "beverages",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-C6BYMGBKJT3KNA",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sturgeon-kebon-kacang-delivery/6-C6BYMGBKJT3KNA?",
-        "name": "Sturgeon - Kebon Kacang",
-        "tags": [
-            "coffee",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C34FGB3BPA5TFE",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/filosofi-kopi-sarinah-delivery/6-C34FGB3BPA5TFE?",
-        "name": "Filosofi Kopi - Sarinah",
-        "tags": [
-            "coffee",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C343VJ2ZA36TTX",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/flash-coffee-skyline-thamrin-delivery/6-C343VJ2ZA36TTX?",
-        "name": "Flash Coffee - Skyline Thamrin",
-        "tags": [
-            "coffee",
-            "breakfast",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2VVCNXCJ3NXRT",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/point-coffee-indomaret-tanah-abang-3-teya-delivery/6-C2VVCNXCJ3NXRT?",
-        "name": "Point Coffee - Indomaret Tanah Abang 3 (TEYA)",
-        "tags": [
-            "coffee",
-            "breakfast",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C6BCUEEDGUUXN6",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/tomoro-coffee-cideng-delivery/6-C6BCUEEDGUUXN6?",
-        "name": "TOMORO COFFEE - Cideng",
-        "tags": [
-            "coffee",
-            "beverages",
-            "bakery & cake"
-        ]
-    },
-    {
-        "id": "IDGFSTI00001sqo",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/workroom-coffee-cikini-delivery/IDGFSTI00001sqo?",
-        "name": "Workroom Coffee - Cikini",
-        "tags": [
-            "coffee",
-            "beverages",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C6TGETD3VJ2FEX",
-        "cuisine": [
-            "coffee"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/21factorygelato-gambir-delivery/6-C6TGETD3VJ2FEX?",
-        "name": "21FactoryGelato - Gambir",
-        "tags": [
-            "coffee",
-            "dessert",
-            "pizza & pasta"
-        ]
-    },
-    {
-        "id": "6-CY5KAPXUFABEEE",
-        "cuisine": [
-            "fast food",
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/cfc-stasiun-tanah-abang-delivery/6-CY5KAPXUFABEEE?",
-        "name": "CFC - Stasiun Tanah Abang",
-        "tags": [
-            "fast food",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3NZUBCTABWXPE",
-        "cuisine": [
-            "fast food",
-            "noodles",
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-gepuk-pak-gembus-kalipasir-kramat-delivery/6-C3NZUBCTABWXPE?",
-        "name": "Ayam Gepuk Pak Gembus - Kalipasir Kramat",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C6KZTPECJTVJC6",
-        "cuisine": [
-            "fast food",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-kobar-kampung-bali-delivery/6-C6KZTPECJTVJC6?",
-        "name": "Ayam Geprek Kobar - Kampung Bali",
-        "tags": [
-            "fast food",
-            "chicken",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-C2U1JCMGLPKJRT",
-        "cuisine": [
-            "fast food",
-            "seafood",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sec-bowl-senen-delivery/6-C2U1JCMGLPKJRT?",
-        "name": "Sec Bowl - Senen",
-        "tags": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C35EMEJVTUUCAJ",
-        "cuisine": [
-            "fast food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/subway-harmoni-exchange-delivery/6-C35EMEJVTUUCAJ?",
-        "name": "Subway - Harmoni Exchange",
-        "tags": [
-            "fast food",
-            "healthy",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C32KCBBWV3BDTT",
-        "cuisine": [
-            "fast food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/popeyes-chicken-skyline-delivery/6-C32KCBBWV3BDTT?",
-        "name": "Popeyes Chicken - Skyline",
-        "tags": [
-            "fast food",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-CZA1GYLKPB4CPE",
-        "cuisine": [
-            "fast food",
-            "noodles",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-koplo-nasi-geprek-harmoni-delivery/6-CZA1GYLKPB4CPE?",
-        "name": "Ayam Koplo (Nasi Geprek) - Harmoni",
-        "tags": [
-            "fast food",
-            "rice",
-            "chicken",
-            "indonesian",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C333LKAWTK6XWE",
-        "cuisine": [
-            "fast food",
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/taco-bell-grand-indonesia-delivery/6-C333LKAWTK6XWE?",
-        "name": "Taco Bell - Grand Indonesia",
-        "tags": [
-            "fast food",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-CY4XJATHL6KBNA",
-        "cuisine": [
-            "fast food",
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hokben-menteng-huis-delivery/6-CY4XJATHL6KBNA?",
-        "name": "HokBen - Menteng Huis",
-        "tags": [
-            "japanese",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C6TASCEDVF4XAN",
-        "cuisine": [
-            "fast food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/istanbul-kebab-tanah-abang-delivery/6-C6TASCEDVF4XAN?",
-        "name": "Istanbul kebab - Tanah Abang",
-        "tags": [
-            "fast food",
-            "beef",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3CJGAN3JKEHJJ",
-        "cuisine": [
-            "fast food",
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mangkokku-x-numinum-sarinah-delivery/6-C3CJGAN3JKEHJJ?",
-        "name": "Mangkokku x Numinum - Sarinah",
-        "tags": [
-            "chicken",
-            "rice",
-            "japanese"
-        ]
-    },
-    {
-        "id": "6-CZNBMAKVT24YUE",
-        "cuisine": [
-            "fast food",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kebab-turki-syifa-petamburan-delivery/6-CZNBMAKVT24YUE?",
-        "name": "Kebab Turki Syifa - Petamburan",
-        "tags": [
-            "fast food",
-            "snack",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C35DPE3TA2DYBE",
-        "cuisine": [
-            "fast food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-forever-menteng-delivery/6-C35DPE3TA2DYBE?",
-        "name": "Ayam Forever - Menteng",
-        "tags": [
-            "fast food",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "IDGFSTI000020vs",
-        "cuisine": [
-            "fast food",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/richeese-factory-lokasari-delivery/IDGFSTI000020vs?",
-        "name": "Richeese Factory - Lokasari",
-        "tags": [
-            "fast food",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-CZMGTPDCNEWUE6",
-        "cuisine": [
-            "fast food",
-            "satay",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kantin-semarang-gm-pasar-baru-delivery/6-CZMGTPDCNEWUE6?",
-        "name": "Kantin Semarang GM - Pasar Baru",
-        "tags": [
-            "chicken",
-            "rice",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C4BGN76ZTUCJJ2",
-        "cuisine": [
-            "fast food",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?",
-        "name": "McDonald's - Thamrin Jaya",
-        "tags": [
-            "fast food",
-            "chicken",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C2AUGP22HE3WJT",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-koplo-nasi-geprek-cikini-delivery/6-C2AUGP22HE3WJT?",
-        "name": "Ayam Koplo (Nasi Geprek) - Cikini",
-        "tags": [
-            "rice",
-            "chicken",
-            "indonesian",
-            "fast food",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C6BJDAWVC73KA6",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bu-tumbar-by-hangry-cikini-delivery/6-C6BJDAWVC73KA6?",
-        "name": "Ayam Goreng Bu Tumbar by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "indonesian",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2UUHGE3R2LFME",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/fried-chicken-geprek-gian-cempaka-putih-timur-delivery/6-C2UUHGE3R2LFME?",
-        "name": "Fried Chicken Geprek Gian - Cempaka Putih Timur",
-        "tags": [
-            "rice",
-            "chicken",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3EAGB4WAYKXL2",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/accha-indian-soul-food-by-hangry-cikini-delivery/6-C3EAGB4WAYKXL2?",
-        "name": "Accha Indian Soul Food by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "rice",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C4J2EE5FR4BGA2",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/penyet-by-ayam-koplo-cikini-delivery/6-C4J2EE5FR4BGA2?",
-        "name": "Penyet by Ayam Koplo - Cikini",
-        "tags": [
-            "chicken",
-            "fast food",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C4KHAJXFTZAECX",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/fried-chicken-by-hangry-cikini-delivery/6-C4KHAJXFTZAECX?",
-        "name": "Fried Chicken by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "rice",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C4NBGELDRU5UT2",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sultan-abu-fried-chicken-by-hangry-setiabudi-timur-delivery/6-C4NBGELDRU5UT2?",
-        "name": "Sultan Abu Fried Chicken by Hangry - Setiabudi Timur",
-        "tags": [
-            "chicken",
-            "rice",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C4KGBF6CTY6ZPE",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-ayam-by-hangry-cikini-delivery/6-C4KGBF6CTY6ZPE?",
-        "name": "Nasi Ayam by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C4NAGXJJAZCHLN",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/masala-fried-chicken-by-accha-cikini-delivery/6-C4NAGXJJAZCHLN?",
-        "name": "Masala Fried Chicken by Accha - Cikini",
-        "tags": [
-            "chicken",
-            "rice",
-            "international"
-        ]
-    },
-    {
-        "id": "6-CZA1N8AGGTU3SA",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hangry-all-in-one-harmoni-delivery/6-CZA1N8AGGTU3SA?",
-        "name": "Hangry All in One - Harmoni",
-        "tags": [
-            "rice",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C6EUELJWWEVGRX",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-ayam-khas-india-by-accha-cikini-delivery/6-C6EUELJWWEVGRX?",
-        "name": "Nasi Ayam khas India by Accha - Cikini",
-        "tags": [
-            "ayam",
-            "aneka nasi",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C4NDARLKSE21GX",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chicken-wings-by-hangry-setiabudi-timur-delivery/6-C4NDARLKSE21GX?",
-        "name": "Chicken Wings by Hangry - Setiabudi Timur",
-        "tags": [
-            "rice",
-            "chicken",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C4NDEBUCFCNENX",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-popcorn-by-hangry-cikini-delivery/6-C4NDEBUCFCNENX?",
-        "name": "Ayam Goreng Popcorn by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3LUBF2DN2TXGA",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/wai-thai-food-wtf-by-hangry-harmoni-delivery/6-C3LUBF2DN2TXGA?",
-        "name": "Wai Thai Food (WTF) by Hangry - Harmoni",
-        "tags": [
-            "chicken",
-            "rice",
-            "fast food",
-            "international",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C343BB51VJCKLJ",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/snacks-attack-by-hangry-cikini-delivery/6-C343BB51VJCKLJ?",
-        "name": "Snacks Attack by Hangry - Cikini",
-        "tags": [
-            "snack",
-            "international",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C6EVC3KTRNXTR2",
-        "cuisine": [
-            "fried chicken"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-kulit-idolaku-by-ayam-koplo-pademangan-delivery/6-C6EVC3KTRNXTR2?",
-        "name": "Nasi Kulit Idolaku by Ayam Koplo - Pademangan",
-        "tags": [
-            "nasi",
-            "ayam",
-            "indonesian",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C4ADJJ3TNTUGLJ",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-cita-rasa-erlangga-taman-sari-delivery/6-C4ADJJ3TNTUGLJ?",
-        "name": "Nasi Goreng Cita Rasa ERLANGGA - Taman Sari",
-        "tags": [
-            "fried rice",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C4EVEUTAGYMDCJ",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kang-daseng-tanjung-duren-selatan-delivery/6-C4EVEUTAGYMDCJ?",
-        "name": "NASI GORENG KANG DASENG - Tanjung Duren Selatan",
-        "tags": [
-            "rice",
-            "chicken",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C3MGNLAXAXVANE",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3MGNLAXAXVANE?",
-        "name": "Nasi Padang Pagi Siang Malam - DapurHub Thamrin",
-        "tags": [
-            "padang",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3L2SBWCVB4AEE",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3L2SBWCVB4AEE?",
-        "name": "Nasi Goreng Padang Pagi Siang Malam - DapurHub Thamrin",
-        "tags": [
-            "rice",
-            "chicken",
-            "padang"
-        ]
-    },
-    {
-        "id": "6-C3UAEA6CLRBEL6",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-lidah-mertua-menteng-delivery/6-C3UAEA6CLRBEL6?",
-        "name": "Ayam Geprek Lidah Mertua - Menteng",
-        "tags": [
-            "chicken",
-            "beef",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CZMAVAMDR26DDA",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-kwetiau-seafood-medan-kebon-melati-delivery/6-CZMAVAMDR26DDA?",
-        "name": "Mie Kwetiau Seafood Medan - Kebon Melati",
-        "tags": [
-            "noodles",
-            "rice",
-            "chinese"
-        ]
-    },
-    {
-        "id": "IDGFSTI000000ez",
-        "cuisine": [
-            "fried rice",
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/the-people-s-cafe-by-ismaya-grand-indonesia-west-mall-delivery/IDGFSTI000000ez?",
-        "name": "The People's Cafe by ISMAYA - Grand Indonesia West Mall",
-        "tags": [
-            "breakfast",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "IDGFSTI000021b8",
-        "cuisine": [
-            "fried rice",
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-jakarta-setiabudi-delivery/IDGFSTI000021b8?",
-        "name": "Mie Aceh Jakarta - Setiabudi",
-        "tags": [
-            "chicken",
-            "noodles",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2MUAGBFRUNWLE",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-dua-saudara-pejagalan-delivery/6-C2MUAGBFRUNWLE?",
-        "name": "Ayam Geprek Dua Saudara - Pejagalan",
-        "tags": [
-            "chicken",
-            "rice",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C2KBPFEWCY2JN6",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gado-gado-fatimah-cempaka-baru-delivery/6-C2KBPFEWCY2JN6?",
-        "name": "Gado Gado Fatimah - Cempaka Baru",
-        "tags": [
-            "breakfast",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "IDGFSTI00001mse",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/imperial-kitchen-dimsum-millennium-mall-delivery/IDGFSTI00001mse?",
-        "name": "Imperial Kitchen & Dimsum - Millennium Mall",
-        "tags": [
-            "chinese",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "IDGFSTI000022aw",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ta-wan-%E5%A4%A7%E7%A2%97-harmonie-exchange-delivery/IDGFSTI000022aw?",
-        "name": "Ta Wan (大碗) - Harmonie Exchange",
-        "tags": [
-            "halal certified",
-            "rice",
-            "chinese",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C2XZLJNCNVJYLN",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-holly-bendungan-hilir-delivery/6-C2XZLJNCNVJYLN?",
-        "name": "Bakmi Holly - Bendungan Hilir",
-        "tags": [
-            "seafood",
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C341SBUTRT2DV6",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/klean-bowl-graha-harmoni-delivery/6-C341SBUTRT2DV6?",
-        "name": "Klean Bowl - Graha Harmoni",
-        "tags": [
-            "healthy",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000cob",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-asap-by-asap-group-setiabudi-delivery/IDGFSTI00000cob?",
-        "name": "Nasi Goreng Asap By Asap Group - Setiabudi",
-        "tags": [
-            "rice",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000302",
-        "cuisine": [
-            "fried rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chopstix-plaza-indonesia-delivery/IDGFSTI00000302?",
-        "name": "Chopstix - Plaza Indonesia",
-        "tags": [
-            "chinese",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C3LBN6DYLE4AR6",
-        "cuisine": [
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-padang-sederhana-minang-gambir-delivery/6-C3LBN6DYLE4AR6?",
-        "name": "Nasi Padang Sederhana Minang - Gambir",
-        "tags": [
-            "padang",
-            "rice",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-CZL3J2NAKELVVA",
-        "cuisine": [
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mini-jaya-masakan-padang-kebon-sirih-delivery/6-CZL3J2NAKELVVA?",
-        "name": "Mini Jaya Masakan Padang - Kebon Sirih",
-        "tags": [
-            "indonesian",
-            "padang",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3LWTJCHACEXCT",
-        "cuisine": [
-            "indonesian",
-            "rice",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-padang-mini-jaya-kebon-sirih-delivery/6-C3LWTJCHACEXCT?",
-        "name": "Nasi Padang Mini Jaya - Kebon Sirih",
-        "tags": [
-            "padang",
-            "rice",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-C6BKTRC1AB5YG2",
-        "cuisine": [
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-gacoan-mangga-besar-delivery/6-C6BKTRC1AB5YG2?",
-        "name": "Mie Gacoan - Mangga Besar",
-        "tags": [
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZKWEYCDVF52J6",
-        "cuisine": [
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/soto-betawi-bu-yanti-kebon-sirih-delivery/6-CZKWEYCDVF52J6?",
-        "name": "Soto Betawi Bu Yanti - Kebon Sirih",
-        "tags": [
-            "indonesian",
-            "rice",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "6-C3WGCVCJJFAHSE",
-        "cuisine": [
-            "indonesian",
-            "rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-padang-sederhana-bundo-kenari-delivery/6-C3WGCVCJJFAHSE?",
-        "name": "Nasi Padang Sederhana Bundo - Kenari",
-        "tags": [
-            "padang",
-            "breakfast",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2WTGKN1E4LAG6",
-        "cuisine": [
-            "indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ketoprak-telor-kuliner-kbs-kebon-sirih-delivery/6-C2WTGKN1E4LAG6?",
-        "name": "Ketoprak Telor Kuliner Kbs - Kebon Sirih",
-        "tags": [
-            "indonesian",
-            "breakfast",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CY4UTJKXMA6WGT",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-rames-bude-kemayoran-delivery/6-CY4UTJKXMA6WGT?",
-        "name": "Nasi Rames Bude - Kemayoran",
-        "tags": [
-            "japanese",
-            "halal certified",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C6LKCYUGG7JCNT",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/its-pokay-kebon-kacang-delivery/6-C6LKCYUGG7JCNT?",
-        "name": "Its Pokay - Kebon Kacang",
-        "tags": [
-            "japanese",
-            "healthy",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C4L1T66TTTEYRN",
-        "cuisine": [
-            "japanese",
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/boxmie-street-noodle-thamrin-delivery/6-C4L1T66TTTEYRN?",
-        "name": "Boxmie Street Noodle - Thamrin",
-        "tags": [
-            "japanese",
-            "fast food",
-            "noodles"
-        ]
-    },
-    {
-        "id": "6-C6JKA7DYJ2JAA6",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gohan-ku-menteng-delivery/6-C6JKA7DYJ2JAA6?",
-        "name": "Gohan Ku - Menteng",
-        "tags": [
-            "japanese"
-        ]
-    },
-    {
-        "id": "6-CYLELTLZNVC1RN",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/yoshinoya-beef-bowl-suryopranoto-delivery/6-CYLELTLZNVC1RN?",
-        "name": "Yoshinoya Beef Bowl - Suryopranoto",
-        "tags": [
-            "japanese",
-            "beef",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C221N4MVSBWYLN",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gyu-jin-teppan-posbloc-delivery/6-C221N4MVSBWYLN?",
-        "name": "Gyu Jin Teppan - Posbloc",
-        "tags": [
-            "japanese",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C2BWLJ6ULEJCV6",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mangkokku-rice-bowl-mid-point-delivery/6-C2BWLJ6ULEJCV6?",
-        "name": "Mangkokku Rice Bowl - Mid Point",
-        "tags": [
-            "japanese",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3NFJLADJATZWA",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/beef-gyu-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJATZWA?",
-        "name": "BEEF GYU By Asap Group - Kebon Kelapa",
-        "tags": [
-            "chicken",
-            "beef",
-            "beverages"
-        ]
-    },
-    {
-        "id": "IDGFSTI00001yud",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/honu-poke-matcha-bar-healthy-menteng-delivery/IDGFSTI00001yud?",
-        "name": "Honu Poke & Matcha Bar (Healthy) - Menteng",
-        "tags": [
-            "japanese",
-            "healthy"
-        ]
-    },
-    {
-        "id": "6-C4EEPB2HWFLTBE",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gohan-ku-kramat-pulo-kramat-delivery/6-C4EEPB2HWFLTBE?",
-        "name": "Gohan Ku - Kramat Pulo - Kramat",
-        "tags": [
-            "japanese"
-        ]
-    },
-    {
-        "id": "6-C2LYJFD3C64CCE",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-ikan-katsu-selayar-petojo-utara-delivery/6-C2LYJFD3C64CCE?",
-        "name": "Nasi Ikan Katsu Selayar - Petojo Utara",
-        "tags": [
-            "japanese",
-            "seafood",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C36ZL6EYV2AVPE",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/curryshii-by-arungi-group-thamrin-delivery/6-C36ZL6EYV2AVPE?",
-        "name": "Curryshii! By Arungi Group - Thamrin",
-        "tags": [
-            "japanese",
-            "chicken",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C24WFADTR8CTJX",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/curry-house-coco-ichibanya-grand-indonesia-delivery/6-C24WFADTR8CTJX?",
-        "name": "Curry House Coco Ichibanya - Grand Indonesia",
-        "tags": [
-            "japanese"
-        ]
-    },
-    {
-        "id": "6-C6KDSE63SF3TGN",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/butaki-duri-selatan-delivery/6-C6KDSE63SF3TGN?",
-        "name": "Butaki! - Duri Selatan",
-        "tags": [
-            "japanese",
-            "pork",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CYMADGMFLBNXVJ",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/tanoshii-sushi-senen-delivery/6-CYMADGMFLBNXVJ?",
-        "name": "Tanoshii Sushi - Senen",
-        "tags": [
-            "japanese",
-            "rice",
-            "seafood"
-        ]
-    },
-    {
-        "id": "6-C4CET2A1C34EUA",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/richiise-bakar-kramat-delivery/6-C4CET2A1C34EUA?",
-        "name": "Richiise Bakar - Kramat",
-        "tags": [
-            "chicken",
-            "international",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C2BGMFCVJP5FNN",
-        "cuisine": [
-            "japanese"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rice-box-fix-kartini-delivery/6-C2BGMFCVJP5FNN?",
-        "name": "Rice Box Fix - Kartini",
-        "tags": [
-            "japanese",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3D2LXX1T75KGX",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-234-gondangdia-delivery/6-C3D2LXX1T75KGX?",
-        "name": "Martabak 234 - Gondangdia",
-        "tags": [
-            "martabak",
-            "indonesian",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C6C1ME5VR2JDE2",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-katamso-delivery/6-C6C1ME5VR2JDE2?",
-        "name": "Pukis & Martabak Kota Baru - Katamso",
-        "tags": [
-            "martabak",
-            "bakery & cake",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-CYVFRTEDRB5XDA",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabakku-cikini-delivery/6-CYVFRTEDRB5XDA?",
-        "name": "Martabakku - Cikini",
-        "tags": [
-            "martabak",
-            "dessert",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C6NYCAXTTXWHVJ",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-terang-bulan-roxy-duri-pulo-delivery/6-C6NYCAXTTXWHVJ?",
-        "name": "Martabak Terang Bulan Roxy - Duri Pulo",
-        "tags": [
-            "martabak",
-            "dessert",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C6BZNB6GARL3NJ",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/asp-warmindo-kartini-delivery/6-C6BZNB6GARL3NJ?",
-        "name": "ASP warmindo - Kartini",
-        "tags": [
-            "martabak",
-            "coffee",
-            "noodles"
-        ]
-    },
-    {
-        "id": "IDGFSTI000001np",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dcrepes-plaza-atrium-delivery/IDGFSTI000001np?",
-        "name": "Dcrepes - Plaza Atrium",
-        "tags": [
-            "halal certified",
-            "dessert",
-            "bakery & cake",
-            "snack"
-        ]
-    },
-    {
-        "id": "IDGFSTI000036eo",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?",
-        "name": "Martabak Pizza Orins - Gondangdia",
-        "tags": [
-            "martabak",
-            "bakery & cake",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C3WHARM3DFWBRN",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/lekker-story-petamburan-delivery/6-C3WHARM3DFWBRN?",
-        "name": "Lekker Story - Petamburan",
-        "tags": [
-            "martabak",
-            "dessert"
-        ]
-    },
-    {
-        "id": "IDGFSTI000006uv",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-pandrah-sawah-besar-delivery/IDGFSTI000006uv?",
-        "name": "Mie Aceh Pandrah - Sawah Besar",
-        "tags": [
-            "martabak",
-            "indonesian",
-            "dessert"
-        ]
-    },
-    {
-        "id": "IDGFSTI000001fo",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-65a-pecenongan-delivery/IDGFSTI000001fo?",
-        "name": "Martabak Pecenongan 65A - Pecenongan",
-        "tags": [
-            "martabak",
-            "snack",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C2AHJX2YWEAXVT",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-mr-huang-duri-utara-delivery/6-C2AHJX2YWEAXVT?",
-        "name": "Martabak Mr Huang - Duri Utara",
-        "tags": [
-            "martabak",
-            "dessert",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-CZDYNRMVVB5DAX",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?",
-        "name": "Martabak Pecenongan 78 - Kwitang, Kembang Raya",
-        "tags": [
-            "martabak",
-            "bakery & cake",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-CYU2UA5FET5KAX",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-akong-pembangunan-2-delivery/6-CYU2UA5FET5KAX?",
-        "name": "Martabak Akong - Pembangunan 2",
-        "tags": [
-            "martabak",
-            "indonesian",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C6LHGNDDC72AR6",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/crepesaurus-menteng-delivery/6-C6LHGNDDC72AR6?",
-        "name": "Crepesaurus - Menteng",
-        "tags": [
-            "martabak",
-            "dessert",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C6AEVAMKPA6HVJ",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-djuara-senen-delivery/6-C6AEVAMKPA6HVJ?",
-        "name": "Martabak Djuara - Senen",
-        "tags": [
-            "martabak"
-        ]
-    },
-    {
-        "id": "6-C6LJVCKCKCAYCN",
-        "cuisine": [
-            "martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-kaisar-kayu-putih-delivery/6-C6LJVCKCKCAYCN?",
-        "name": "MARTABAK KAISAR - Kayu Putih",
-        "tags": [
-            "martabak",
-            "indonesian",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2NGG7W3JRETRE",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-pondokrasa37-kebon-sirih-delivery/6-C2NGG7W3JRETRE?",
-        "name": "Nasi Goreng Pondokrasa37 - Kebon Sirih",
-        "tags": [
-            "noodles",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2AEFAMEAEVBJ6",
-        "cuisine": [
-            "noodles",
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2AEFAMEAEVBJ6?",
-        "name": "Gurame Bakar Putri Ayu - Petojo Selatan",
-        "tags": [
-            "noodles",
-            "seafood",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CY6BEE41MBDWL6",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/cabang-bakmi-roxy-kebon-sirih-delivery/6-CY6BEE41MBDWL6?",
-        "name": "Cabang Bakmi Roxy - Kebon Sirih",
-        "tags": [
-            "noodles",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZM3TXATE6XTG6",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-ayam-sumiyati-gambir-delivery/6-CZM3TXATE6XTG6?",
-        "name": "Mie Ayam Sumiyati - Gambir",
-        "tags": [
-            "noodles",
-            "breakfast",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3VJNX4XJZBTLT",
-        "cuisine": [
-            "noodles",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pempek-sari-sanjaya-pasar-nusantara-sarinah-delivery/6-C3VJNX4XJZBTLT?",
-        "name": "Pempek Sari Sanjaya - Pasar Nusantara Sarinah",
-        "tags": [
-            "noodles",
-            "snack",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C222JE6ANE2YRJ",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/warkop-uoa-kampung-bali-delivery/6-C222JE6ANE2YRJ?",
-        "name": "Warkop Uoa - Kampung Bali",
-        "tags": [
-            "noodles",
-            "beverages",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-CYVXGJ5HLT2WTA",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/lapo-siboto-dai-senen-delivery/6-CYVXGJ5HLT2WTA?",
-        "name": "Lapo Siboto Dai - Senen",
-        "tags": [
-            "noodles",
-            "pork",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZKJGX22J4CET6",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gorengan-alim-indosat-gambir-delivery/6-CZKJGX22J4CET6?",
-        "name": "Gorengan Alim Indosat - Gambir",
-        "tags": [
-            "noodles",
-            "snack",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "IDGFSTI00003inb",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bakmi-roxy-cikini-delivery/IDGFSTI00003inb?",
-        "name": "Bakmi Roxy - Cikini",
-        "tags": [
-            "noodles",
-            "bakso & soto",
-            "snack"
-        ]
-    },
-    {
-        "id": "IDGFSTI00000ccr",
-        "cuisine": [
-            "noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/king-s-cafe-petojo-selatan-delivery/IDGFSTI00000ccr?",
-        "name": "King's Cafe - Petojo Selatan",
-        "tags": [
-            "noodles",
-            "international",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3EHALKXG6MXSA",
-        "cuisine": [
-            "pizza"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-head-lippo-kuningan-delivery/6-C3EHALKXG6MXSA?",
-        "name": "Pizza Head - Lippo Kuningan",
-        "tags": [
-            "pizza",
-            "pasta",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C2WGTABAPCNELN",
-        "cuisine": [
-            "pizza"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-delicious-cempaka-putih-delivery/6-C2WGTABAPCNELN?",
-        "name": "Pizza Delicious - Cempaka Putih",
-        "tags": [
-            "pizza",
-            "pizza & pasta"
-        ]
-    },
-    {
-        "id": "6-CZLKA2DEEKJ1AN",
-        "cuisine": [
-            "pizza"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/all-in-one-mangga-dua-square-lower-level-delivery/6-CZLKA2DEEKJ1AN?",
-        "name": "All In One - Mangga Dua Square Lower Level",
-        "tags": [
-            "pizza",
-            "international",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C2L1R2CGA4MHAN",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pondok-sate-pak-heri-asli-h-agus-salim-delivery/6-C2L1R2CGA4MHAN?",
-        "name": "Pondok Sate Pak Heri Asli - H Agus Salim",
-        "tags": [
-            "satay",
-            "chicken",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "AWhkV9REZXYdMpch2R2p",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-bang-yudi-tanah-abang-delivery/AWhkV9REZXYdMpch2R2p?",
-        "name": "Bubur Ayam Bang Yudi - Tanah Abang",
-        "tags": [
-            "satay",
-            "breakfast"
-        ]
-    },
-    {
-        "id": "6-CYX2J72ALA4TVE",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-spesial-mas-banu-karang-anyar-delivery/6-CYX2J72ALA4TVE?",
-        "name": "Bubur Ayam Spesial Mas Banu - Karang Anyar",
-        "tags": [
-            "satay",
-            "indonesian",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C2VKTF32TKCGR6",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kambing-kebon-sirih-1958-nasgorkam-bonsir-1958-kebon-sirih-delivery/6-C2VKTF32TKCGR6?",
-        "name": "Nasi Goreng Kambing Kebon Sirih 1958 (Nasgorkam Bonsir 1958) - Kebon Sirih",
-        "tags": [
-            "satay",
-            "indonesian",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-CZLELCNBVEJFVX",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-ayam-kambing-theresia-cideng-delivery/6-CZLELCNBVEJFVX?",
-        "name": "Sate Ayam Kambing Theresia - Cideng",
-        "tags": [
-            "satay",
-            "halal certified",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C2VXVTJKC3BTKE",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/warung-sate-pak-imam-gunung-sahari-selatan-delivery/6-C2VXVTJKC3BTKE?",
-        "name": "Warung Sate Pak Imam - Gunung Sahari Selatan",
-        "tags": [
-            "satay",
-            "beef",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C33WE2BGCNLWNT",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-taichan-kembar-kota-bambu-utara-delivery/6-C33WE2BGCNLWNT?",
-        "name": "Sate Taichan Kembar - Kota Bambu Utara",
-        "tags": [
-            "satay",
-            "indonesian",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2KTLAEEA3WYNT",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-cianjur-stasiun-cikini-pegangsaan-timur-delivery/6-C2KTLAEEA3WYNT?",
-        "name": "Bubur Ayam Cianjur Stasiun Cikini - Pegangsaan Timur",
-        "tags": [
-            "breakfast",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3AASAUKKACHA6",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-pas-kantong-kemayoran-kebon-kosong-delivery/6-C3AASAUKKACHA6?",
-        "name": "Sate Pas Kantong Kemayoran - Kebon Kosong",
-        "tags": [
-            "satay"
-        ]
-    },
-    {
-        "id": "6-C34KL3XXUBNTAA",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gado-gado-dan-lontong-sayur-pak-madra-e-gambir-delivery/6-C34KL3XXUBNTAA?",
-        "name": "Gado Gado Dan Lontong Sayur pak Madra.e - Gambir",
-        "tags": [
-            "satay",
-            "rice",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "6-CYV3LN4TRLN3RN",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-cut-mutia-delivery/6-CYV3LN4TRLN3RN?",
-        "name": "RM Sederhana (SA) - Cut Mutia",
-        "tags": [
-            "padang",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2L2A33YFE3UGE",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-dan-sop-rafka-jabun-kebon-melati-delivery/6-C2L2A33YFE3UGE?",
-        "name": "Sate Dan Sop Rafka Jabun - Kebon Melati",
-        "tags": [
-            "satay",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-CZMWWA33PELVC6",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/warung-sate-fauzi-bend-hilir-delivery/6-CZMWWA33PELVC6?",
-        "name": "Warung Sate Fauzi - Bend. Hilir",
-        "tags": [
-            "satay",
-            "indonesian",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C3A1WATCEFTFAX",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-dan-sop-iga-pak-imron-tanah-abang-delivery/6-C3A1WATCEFTFAX?",
-        "name": "Sate Dan Sop Iga Pak Imron - Tanah Abang",
-        "tags": [
-            "satay",
-            "beef",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3MJHEWAE7UXRX",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gohyong-melaya-dan-sate-madura-tanah-abang-delivery/6-C3MJHEWAE7UXRX?",
-        "name": "Gohyong Melaya dan Sate Madura - Tanah Abang",
-        "tags": [
-            "satay"
-        ]
-    },
-    {
-        "id": "6-C25DME6FANTKRN",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-apjay-cikini-delivery/6-C25DME6FANTKRN?",
-        "name": "Sate Apjay - Cikini",
-        "tags": [
-            "satay",
-            "rice",
-            "indonesian"
-        ]
-    },
-    {
-        "id": "6-C36TC7N1V3WVJ2",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/soto-tangkar-daging-asap-babe-tito-menteng-delivery/6-C36TC7N1V3WVJ2?",
-        "name": "Soto Tangkar Daging Asap Babe Tito - Menteng",
-        "tags": [
-            "satay",
-            "indonesian",
-            "beverages"
-        ]
-    },
-    {
-        "id": "6-C3AHLTLTRN61TE",
-        "cuisine": [
-            "satay"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/sate-padang-sawah-besar-delivery/6-C3AHLTLTRN61TE?",
-        "name": "Sate Padang - Sawah Besar",
-        "tags": [
-            "satay",
-            "padang"
-        ]
-    },
-    {
-        "id": "6-C353A23HG4D2EJ",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pecel-lele-86-kebon-kacang-delivery/6-C353A23HG4D2EJ?",
-        "name": "Pecel Lele 86 - Kebon Kacang",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CZLCAPXFKB63AT",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pecel-lele-lamongan-pak-ahmad-kartini-delivery/6-CZLCAPXFKB63AT?",
-        "name": "Pecel Lele Lamongan Pak Ahmad - Kartini",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-CYT2VXAXTCJHN2",
-        "cuisine": [
-            "seafood",
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pondok-rasa-kebon-sirih-delivery/6-CYT2VXAXTCJHN2?",
-        "name": "Pondok Rasa - Kebon Sirih",
-        "tags": [
-            "seafood",
-            "indonesian",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-CZLHHAT1GRMXVN",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pawon-mak-yah-kramat-delivery/6-CZLHHAT1GRMXVN?",
-        "name": "Pawon Mak Yah - Kramat",
-        "tags": [
-            "seafood",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-CYWTSBTZL8CCCX",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/waroeng-pak-eddy-kebon-sirih-kebon-sirih-timur-delivery/6-CYWTSBTZL8CCCX?",
-        "name": "Waroeng Pak Eddy Kebon Sirih - Kebon Sirih Timur",
-        "tags": [
-            "seafood",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "6-C2XAL76ERTLGHE",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-sambel-ijo-bilis-kramat-delivery/6-C2XAL76ERTLGHE?",
-        "name": "Ayam Sambel Ijo Bilis - Kramat",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C32EETTCGJNXG2",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-cabe-abang-ijo-ibu-ros-kebon-sirih-delivery/6-C32EETTCGJNXG2?",
-        "name": "Ayam Penyet Cabe Abang Ijo IBU ROS - Kebon Sirih",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2BUN3LYVE22VT",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-timbel-gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2BUN3LYVE22VT?",
-        "name": "Nasi Timbel & Gurame Bakar Putri Ayu - Petojo Selatan",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "IDGFSTI0000030j",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-wempy-kawasan-kuliner-bsm-delivery/IDGFSTI0000030j?",
-        "name": "Nasi Goreng Wempy - Kawasan Kuliner BSM",
-        "tags": [
-            "seafood",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2BFWETBBCNDTN",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?",
-        "name": "Nasi Goreng Sibungsu - Kebon Sirih",
-        "tags": [
-            "seafood",
-            "chicken",
-            "bakso & soto"
-        ]
-    },
-    {
-        "id": "IDGFSTI00001z6b",
-        "cuisine": [
-            "seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kantin-rujak-cingur-pak-hadi-kebon-sirih-delivery/IDGFSTI00001z6b?",
-        "name": "Kantin Rujak Cingur Pak Hadi - Kebon Sirih",
-        "tags": [
-            "seafood",
-            "rice",
-            "chicken"
-        ]
-    },
-    {
-        "id": "IDGFSTI000006x6",
-        "cuisine": [
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/cfc-stasiun-gambir-b-delivery/IDGFSTI000006x6?",
-        "name": "CFC - Stasiun Gambir B",
-        "tags": [
-            "chicken",
-            "fast food",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C3KVTGMTR7W3N2",
-        "cuisine": [
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/subway-menara-cakrawala-delivery/6-C3KVTGMTR7W3N2?",
-        "name": "Subway - Menara Cakrawala",
-        "tags": [
-            "healthy",
-            "international",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C6LGL6KAKCCDFE",
-        "cuisine": [
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rujak-boss-kebon-sirih-delivery/6-C6LGL6KAKCCDFE?",
-        "name": "Rujak boss - Kebon Sirih",
-        "tags": [
-            "snack"
-        ]
-    },
-    {
-        "id": "6-CY62LKLFBFEBCA",
-        "cuisine": [
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/arah-coffee-menteng-delivery/6-CY62LKLFBFEBCA?",
-        "name": "ARAH Coffee - Menteng",
-        "tags": [
-            "coffee",
-            "beverages",
-            "bakery"
-        ]
-    },
-    {
-        "id": "6-C2V2A7LUA7UUEE",
-        "cuisine": [
-            "snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gado-gado-prapatan-senen-delivery/6-C2V2A7LUA7UUEE?",
-        "name": "Gado Gado Prapatan - Senen",
-        "tags": [
-            "snack",
-            "indonesian",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C36VTA2VCATFA6",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/roast-pork-jack-john-babi-kriuk-thamrin-delivery/6-C36VTA2VCATFA6?",
-        "name": "Roast pork, Jack & John - Babi Kriuk, Thamrin",
-        "tags": [
-            "pork",
-            "rice",
-            "specialty store"
-        ]
-    },
-    {
-        "id": "IDGFSTI000024au",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/the-halal-guys-grand-indonesia-delivery/IDGFSTI000024au?",
-        "name": "The Halal Guys - Grand Indonesia",
-        "tags": [
-            "rice",
-            "international"
-        ]
-    },
-    {
-        "id": "6-C2AECLNFC3CEA2",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/say-bread-premium-tomang-41-delivery/6-C2AECLNFC3CEA2?",
-        "name": "SAY BREAD PREMIUM - TOMANG 41",
-        "tags": [
-            "breakfast",
-            "bakery & cake",
-            "dessert"
-        ]
-    },
-    {
-        "id": "IDGFSTI000002y2",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-marzano-grand-indonesia-delivery/IDGFSTI000002y2?",
-        "name": "Pizza Marzano - Grand Indonesia",
-        "tags": [
-            "pizza & pasta",
-            "fast food",
-            "international"
-        ]
-    },
-    {
-        "id": "6-CYKUHACYCT6YEA",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/domino-s-pizza-menteng-huis-delivery/6-CYKUHACYCT6YEA?",
-        "name": "Domino's Pizza - Menteng Huis",
-        "tags": [
-            "halal certified",
-            "pizza & pasta",
-            "international",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C3VZMGBEVJVZJE",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/shirato-by-dailybox-gajah-mada-plaza-delivery/6-C3VZMGBEVJVZJE?",
-        "name": "Shirato by Dailybox - Gajah Mada Plaza",
-        "tags": [
-            "fast food",
-            "healthy",
-            "specialty store"
-        ]
-    },
-    {
-        "id": "IDGFSTI00001s5d",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-hut-juanda-delivery/IDGFSTI00001s5d?",
-        "name": "Pizza Hut - Juanda",
-        "tags": [
-            "pizza & pasta",
-            "international",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-CZJVLGDWR2MFAE",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/tokyo-belly-by-ismaya-kuningan-city-delivery/6-CZJVLGDWR2MFAE?",
-        "name": "Tokyo Belly by ISMAYA - Kuningan City",
-        "tags": [
-            "japanese",
-            "noodles",
-            "beef"
-        ]
-    },
-    {
-        "id": "IDGFSTI0000204k",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-hut-delivery-phd-hasyim-ashari-delivery/IDGFSTI0000204k?",
-        "name": "Pizza Hut Delivery 'PHD' - Hasyim Ashari",
-        "tags": [
-            "pizza & pasta",
-            "international",
-            "fast food"
-        ]
-    },
-    {
-        "id": "6-C26WR6NAE8B1NX",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/limau-nasi-jeruk-rice-bowl-cideng-delivery/6-C26WR6NAE8B1NX?",
-        "name": "Limau - Nasi Jeruk Rice Bowl - Cideng",
-        "tags": [
-            "beef",
-            "chicken",
-            "rice"
-        ]
-    },
-    {
-        "id": "6-C2MFNJNCAUAGNT",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/burger-traffic-bun-krekot-delivery/6-C2MFNJNCAUAGNT?",
-        "name": "Burger Traffic Bun - Krekot",
-        "tags": [
-            "fast food",
-            "international",
-            "beef"
-        ]
-    },
-    {
-        "id": "6-C34JCFW3DFJJVA",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mako-cake-bakery-metro-pasar-baru-delivery/6-C34JCFW3DFJJVA?",
-        "name": "MAKO Cake & Bakery - Metro Pasar Baru",
-        "tags": [
-            "breakfast",
-            "bakery & cake",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-C3CGRPECJCDJBA",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/joomba-smoothies-menteng-delivery/6-C3CGRPECJCDJBA?",
-        "name": "Joomba Smoothies - Menteng",
-        "tags": [
-            "healthy",
-            "beverages",
-            "dessert"
-        ]
-    },
-    {
-        "id": "6-CZAEL3WTGT5FNE",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/paul-bakery-grand-indonesia-delivery/6-CZAEL3WTGT5FNE?",
-        "name": "PAUL Bakery - Grand Indonesia",
-        "tags": [
-            "bakery & cake",
-            "dessert",
-            "snack"
-        ]
-    },
-    {
-        "id": "6-C4NDARLVE3NJV6",
-        "cuisine": [
-            "western"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chicken-wings-by-hangry-cikini-delivery/6-C4NDARLVE3NJV6?",
-        "name": "Chicken Wings by Hangry - Cikini",
-        "tags": [
-            "chicken",
-            "fast food",
-            "snack"
-        ]
-    }
+  {
+    "id": "6-C34CUB2FUFDFGA",
+    "cuisine": ["bakery cake", "beverages", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-beanspot-alfamart-gedung-sinergi-8-kd99-delivery/6-C34CUB2FUFDFGA?",
+    "name": "Kopi Beanspot Alfamart - Gedung Sinergi 8 (KD99)",
+    "tags": ["bakery & cake", "coffee", "beverages"]
+  },
+  {
+    "id": "6-C2BXHF2XUBA1C2",
+    "cuisine": ["bakery cake", "martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-tanjung-duren-kebun-kelapa-delivery/6-C2BXHF2XUBA1C2?",
+    "name": "Mie Aceh Tanjung Duren - Kebun Kelapa",
+    "tags": ["bakery & cake", "rice", "martabak"]
+  },
+  {
+    "id": "6-C3TXA7KFHFEKTN",
+    "cuisine": ["bakery cake", "martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-har-pasar-baru-delivery/6-C3TXA7KFHFEKTN?",
+    "name": "Martabak Har - Pasar Baru",
+    "tags": ["bakery & cake", "martabak", "indonesian"]
+  },
+  {
+    "id": "6-C3UZN6XERY4CEN",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/roti-bakar-kemang-pop-up-kitchen-delivery/6-C3UZN6XERY4CEN?",
+    "name": "Roti Bakar Kemang - Pop Up Kitchen",
+    "tags": ["bakery & cake", "snack", "dessert"]
+  },
+  {
+    "id": "6-C3CEN7JBSBTFJT",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/bittersweet-by-najla-kebon-kelapa-delivery/6-C3CEN7JBSBTFJT?",
+    "name": "Bittersweet By Najla - Kebon Kelapa",
+    "tags": ["bakery & cake", "dessert"]
+  },
+  {
+    "id": "IDGFSTI00000e7i",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/dandy-bakery-gambir-delivery/IDGFSTI00000e7i?",
+    "name": "Dandy Bakery - Gambir",
+    "tags": ["bakery & cake", "snack", "dessert"]
+  },
+  {
+    "id": "6-C4LGNYUGRYUERE",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/ropang-25-kalipasir-kebon-sirih-delivery/6-C4LGNYUGRYUERE?",
+    "name": "Ropang 25 Kalipasir - Kebon Sirih",
+    "tags": ["bakery & cake", "dessert", "beverages"]
+  },
+  {
+    "id": "6-CZBCA2NAVE2WJ2",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/queen-s-tandoor-plaza-bank-index-delivery/6-CZBCA2NAVE2WJ2?",
+    "name": "Queen's Tandoor - Plaza Bank Index",
+    "tags": ["bakery & cake", "international", "chicken"]
+  },
+  {
+    "id": "6-C3U3GLKBFAAVBA",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/tomoro-coffee-sabang-delivery/6-C3U3GLKBFAAVBA?",
+    "name": "TOMORO COFFEE - Sabang",
+    "tags": ["bakery & cake", "coffee", "beverages"]
+  },
+  {
+    "id": "6-C6AJCB21AY23ET",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-pecenongan-delivery/6-C6AJCB21AY23ET?",
+    "name": "Pukis & Martabak Kota Baru - Pecenongan",
+    "tags": ["bakery & cake", "martabak", "snack"]
+  },
+  {
+    "id": "6-C3XBGETAGUJ3CN",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/siliwangi-bolu-kukus-stasiun-tanah-abang-delivery/6-C3XBGETAGUJ3CN?",
+    "name": "Siliwangi Bolu Kukus - Stasiun Tanah Abang",
+    "tags": ["bakery & cake"]
+  },
+  {
+    "id": "IDGFSTI000000kx",
+    "cuisine": ["bakery cake", "western"],
+    "link": "https://food.grab.com/id/en/restaurant/j-co-donuts-coffee-menteng-central-delivery/IDGFSTI000000kx?",
+    "name": "J.CO Donuts & Coffee - Menteng Central",
+    "tags": ["bakery & cake", "breakfast", "dessert"]
+  },
+  {
+    "id": "6-C3NTWF6TJEUKVX",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/pisang-goreng-madu-pasti-menteng-delivery/6-C3NTWF6TJEUKVX?",
+    "name": "Pisang Goreng Madu PASTI - Menteng",
+    "tags": ["bakery & cake", "snack", "dessert"]
+  },
+  {
+    "id": "6-CY3TEK3HJPAZTJ",
+    "cuisine": ["bakery cake", "martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/krispy-kreme-djakarta-theater-delivery/6-CY3TEK3HJPAZTJ?",
+    "name": "Krispy Kreme - Djakarta Theater",
+    "tags": ["dessert", "martabak", "snack"]
+  },
+  {
+    "id": "6-C33WLZKUT3JDJ2",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/trade-cafe-gambir-delivery/6-C33WLZKUT3JDJ2?",
+    "name": "Trade Cafe - Gambir",
+    "tags": ["bakery & cake", "snack"]
+  },
+  {
+    "id": "6-C4D3JF6AMAJ3A6",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/jajanan-kue-cucur-aromanis-neng-juminten-gambir-delivery/6-C4D3JF6AMAJ3A6?",
+    "name": "Jajanan Kue Cucur Aromanis Neng Juminten - Gambir",
+    "tags": ["bakery & cake", "chicken", "snack"]
+  },
+  {
+    "id": "6-CY4DJRL1DCN3JE",
+    "cuisine": ["bakery cake", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/starbucks-menteng-huis-delivery/6-CY4DJRL1DCN3JE?",
+    "name": "Starbucks - Menteng Huis",
+    "tags": ["coffee", "beverages", "breakfast"]
+  },
+  {
+    "id": "6-CYWGGLEHNVE2SE",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/lapis-talas-bogor-petamburan-delivery/6-CYWGGLEHNVE2SE?",
+    "name": "Lapis Talas Bogor - Petamburan",
+    "tags": ["bakery & cake", "dessert", "indonesian"]
+  },
+  {
+    "id": "6-C2UYRNLVHAJEBE",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-legend-krukut-delivery/6-C2UYRNLVHAJEBE?",
+    "name": "Nasi Goreng Legend - Krukut",
+    "tags": ["bakery & cake", "chicken", "seafood"]
+  },
+  {
+    "id": "6-C3CYCN6AE2CVNT",
+    "cuisine": ["bakery cake"],
+    "link": "https://food.grab.com/id/en/restaurant/kibo-cheese-petojo-selatan-delivery/6-C3CYCN6AE2CVNT?",
+    "name": "Kibo Cheese - Petojo Selatan",
+    "tags": ["bakery & cake", "dessert", "japanese"]
+  },
+  {
+    "id": "6-C3LUC4J3GYDGA6",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-sambel-ijo-metro-99-guntur-delivery/6-C3LUC4J3GYDGA6?",
+    "name": "Ayam Penyet Sambel Ijo Metro 99 - Guntur",
+    "tags": ["rice", "chicken", "bakmie"]
+  },
+  {
+    "id": "6-C2CCVXEZDBWWBE",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/warung-nasi-duta-rasa-manggarai-delivery/6-C2CCVXEZDBWWBE?",
+    "name": "Warung Nasi Duta Rasa - Manggarai",
+    "tags": ["bakso", "rice", "chicken"]
+  },
+  {
+    "id": "6-C3VVEFXXVTWKVJ",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-podomoro-hot-guntur-delivery/6-C3VVEFXXVTWKVJ?",
+    "name": "Ayam Bakar Podomoro HOT - Guntur",
+    "tags": ["bakso", "bakmi", "hidangan laut", "ayam", "chicken"]
+  },
+  {
+    "id": "6-C2DXCUBXVLLDLA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-kumis-menteng-atas-delivery/6-C2DXCUBXVLLDLA?",
+    "name": "Bakmi Kumis - Menteng Atas",
+    "tags": ["bakso", "noodles", "ayam", "breakfast", "cepat saji"]
+  },
+  {
+    "id": "6-C3M1TBKXCEDJTX",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/cilok-bang-jun-pademangan-barat-delivery/6-C3M1TBKXCEDJTX?",
+    "name": "Cilok Bang Jun - Pademangan Barat",
+    "tags": ["bakso", "snack", "pempek"]
+  },
+  {
+    "id": "6-C4E1LLJZCEJBWE",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakso-koko-gepeng-tebet-raya-delivery/6-C4E1LLJZCEJBWE?",
+    "name": "BAKSO KOKO GEPENG - Tebet Raya",
+    "tags": ["bakso", "fast food", "bakmi"]
+  },
+  {
+    "id": "6-C2UYRF5JVA6ZWA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/hari-hari-ayong-pejagalan-delivery/6-C2UYRF5JVA6ZWA?",
+    "name": "Hari Hari Ayong - Pejagalan",
+    "tags": ["pork", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2AXKCJCRYCDBE",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmie-chan-chan-68-pegangsaan-dua-delivery/6-C2AXKCJCRYCDBE?",
+    "name": "Bakmie Chan Chan 68 - Pegangsaan Dua",
+    "tags": ["bakso", "noodles", "rice"]
+  },
+  {
+    "id": "6-C351HGBKLZNKTN",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-ayam-mamie-cinta-apartement-pakubuwono-terrace-delivery/6-C351HGBKLZNKTN?",
+    "name": "Mie Ayam Mamie Cinta - Apartement Pakubuwono Terrace",
+    "tags": ["bakso", "noodles"]
+  },
+  {
+    "id": "6-C2UCN62HN2VXJA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/pokemie-bakmi-ayam-jamur-homemade-pondok-kelapa-delivery/6-C2UCN62HN2VXJA?",
+    "name": "Pokemie Bakmi Ayam Jamur Homemade - Pondok Kelapa",
+    "tags": ["bakso", "healthy", "noodles"]
+  },
+  {
+    "id": "6-C26GRJ4GNCDDE6",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakso-malang-pandawa-sukasari-delivery/6-C26GRJ4GNCDDE6?",
+    "name": "Bakso Malang Pandawa - Sukasari",
+    "tags": ["bakso"]
+  },
+  {
+    "id": "6-C22HLK6TCYAZRN",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmie-tetangga-modern-land-delivery/6-C22HLK6TCYAZRN?",
+    "name": "Bakmie Tetangga - Modern Land",
+    "tags": ["bakso", "noodles", "bakmie", "mie ayam"]
+  },
+  {
+    "id": "6-C3TAGTJFGAWVBA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/seblak-prasmanan-cengkareng-barat-delivery/6-C3TAGTJFGAWVBA?",
+    "name": "Seblak Prasmanan - Cengkareng Barat",
+    "tags": ["bakso", "seblak", "mie ayam"]
+  },
+  {
+    "id": "6-CZNDGEVKNUW2KA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/pempek-pempek-arsky-pademangan-barat-delivery/6-CZNDGEVKNUW2KA?",
+    "name": "Pempek-Pempek Arsky - Pademangan Barat",
+    "tags": ["bakso", "pempek", "cemilan", "drinks"]
+  },
+  {
+    "id": "6-C3N1PBEBLZL2HA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/seblak-wawah-pademangan-delivery/6-C3N1PBEBLZL2HA?",
+    "name": "Seblak Wawah - Pademangan",
+    "tags": ["bakso", "mie", "minuman"]
+  },
+  {
+    "id": "6-C252HGCTCJUCVA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/profesor-bakso-sukabumi-utara-ilir-delivery/6-C252HGCTCJUCVA?",
+    "name": "Profesor Bakso - Sukabumi Utara (Ilir)",
+    "tags": ["bakso", "noodles", "beverages"]
+  },
+  {
+    "id": "6-C2XEVPEGMAACCN",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-ayam-bakso-meril-meruya-utara-delivery/6-C2XEVPEGMAACCN?",
+    "name": "Mie Ayam Bakso Meril - Meruya Utara",
+    "tags": ["bakso", "noodles"]
+  },
+  {
+    "id": "6-CYWKNK52EEKWEA",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bebek-sop-janda-cerewet-cipinang-muara-delivery/6-CYWKNK52EEKWEA?",
+    "name": "Bebek & Sop Janda Cerewet - Cipinang Muara",
+    "tags": ["bakso", "chicken", "sop"]
+  },
+  {
+    "id": "6-C3WXNGNJAT5CCJ",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-jagoan-mk-pluit-delivery/6-C3WXNGNJAT5CCJ?",
+    "name": "Bakmi Jagoan MK - Pluit",
+    "tags": ["bakso", "noodles", "chicken"]
+  },
+  {
+    "id": "6-C2WHR6EDUEVARN",
+    "cuisine": ["bakso"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-ayam-88-cipete-delivery/6-C2WHR6EDUEVARN?",
+    "name": "Mie Ayam 88 - Cipete",
+    "tags": ["bakso", "noodles", "bakmie", "chicken", "breakfast"]
+  },
+  {
+    "id": "IDGFSTI000038t7",
+    "cuisine": ["beverages", "coffee", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-kenangan-skyline-building-delivery/IDGFSTI000038t7?",
+    "name": "Kopi Kenangan - Skyline Building",
+    "tags": ["beverages", "snack", "coffee"]
+  },
+  {
+    "id": "6-C26VCFLXJVCEN6",
+    "cuisine": ["beverages", "chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?",
+    "name": "Nasi Uduk Ayam Tulang Lunak Waroeng Pak Eddy - Kebon Sirih",
+    "tags": ["beverages", "chicken", "rice"]
+  },
+  {
+    "id": "6-C35WVXKHV24EWA",
+    "cuisine": ["beverages", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/mentaihausu-kebon-sirih-delivery/6-C35WVXKHV24EWA?",
+    "name": "Mentaihausu - Kebon Sirih",
+    "tags": ["beverages", "chicken", "noodles"]
+  },
+  {
+    "id": "6-C2ATJUC3FGB1GJ",
+    "cuisine": ["beverages"],
+    "link": "https://food.grab.com/id/en/restaurant/aneka-sop-buah-juice-dan-buah-potong-hj-monir-gambir-delivery/6-C2ATJUC3FGB1GJ?",
+    "name": "Aneka Sop Buah, Juice dan Buah Potong Hj Monir - Gambir",
+    "tags": ["beverages", "dessert", "healthy"]
+  },
+  {
+    "id": "6-C3XXDFXXECEDRX",
+    "cuisine": ["beverages", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/ini-toko-kopi-petojo-selatan-delivery/6-C3XXDFXXECEDRX?",
+    "name": "INI TOKO KOPI - Petojo Selatan",
+    "tags": ["beverages", "coffee"]
+  },
+  {
+    "id": "6-C3TBCJV1EBEWVJ",
+    "cuisine": ["beverages", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/juice-do-go-avocado-mango-kebon-sirih-delivery/6-C3TBCJV1EBEWVJ?",
+    "name": "Juice DO & GO avocaDO manGO - Kebon Sirih",
+    "tags": ["beverages", "breakfast", "healthy"]
+  },
+  {
+    "id": "6-C2W2TPXVFEDKVE",
+    "cuisine": ["beverages", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/the-atjeh-connection-kebon-sirih-delivery/6-C2W2TPXVFEDKVE?",
+    "name": "The Atjeh Connection - Kebon Sirih",
+    "tags": ["beverages", "noodles", "rice"]
+  },
+  {
+    "id": "6-C3UUJFVZLA2JVA",
+    "cuisine": ["beverages", "coffee", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/toko-kopi-tuku-menteng-delivery/6-C3UUJFVZLA2JVA?",
+    "name": "Toko Kopi Tuku - Menteng",
+    "tags": ["beverages", "coffee", "breakfast"]
+  },
+  {
+    "id": "6-CZBFLU5KGFLUBE",
+    "cuisine": ["beverages", "coffee", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/fore-coffee-cideng-delivery/6-CZBFLU5KGFLUBE?",
+    "name": "Fore Coffee - Cideng",
+    "tags": ["beverages", "coffee", "breakfast", "halal certified"]
+  },
+  {
+    "id": "IDGFSTI00000gre",
+    "cuisine": ["beverages"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-keprabon-express-sawah-besar-delivery/IDGFSTI00000gre?",
+    "name": "Ayam Keprabon Express - Sawah Besar",
+    "tags": ["halal certified", "rice", "chicken", "indonesian"]
+  },
+  {
+    "id": "6-C2M1VGK2AFWTDA",
+    "cuisine": ["beverages", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-sambal-ijo-bintang-kebon-melati-delivery/6-C2M1VGK2AFWTDA?",
+    "name": "Ayam Penyet Sambal Ijo Bintang - Kebon Melati",
+    "tags": ["beverages", "indonesian", "chicken"]
+  },
+  {
+    "id": "6-C26BTLCDBBBYEN",
+    "cuisine": ["beverages", "japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/sisapi-beefbowl-menteng-delivery/6-C26BTLCDBBBYEN?",
+    "name": "Sisapi Beefbowl - Menteng",
+    "tags": ["beef", "rice", "chicken"]
+  },
+  {
+    "id": "6-CYXAG23WGFLKVE",
+    "cuisine": ["beverages", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/arah-coffee-cideng-delivery/6-CYXAG23WGFLKVE?",
+    "name": "ARAH Coffee - Cideng",
+    "tags": ["beverages", "coffee", "bakery"]
+  },
+  {
+    "id": "6-C4L1AU4HGN6DET",
+    "cuisine": ["beverages"],
+    "link": "https://food.grab.com/id/en/restaurant/super-juice-station-sarinah-delivery/6-C4L1AU4HGN6DET?",
+    "name": "Super Juice Station - Sarinah",
+    "tags": ["beverages"]
+  },
+  {
+    "id": "6-CY6XDEWBGECGFA",
+    "cuisine": ["beverages", "bubble tea", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/chatime-x-cupbop-melawai-cideng-delivery/6-CY6XDEWBGECGFA?",
+    "name": "Chatime x Cupbop - Melawai Cideng",
+    "tags": ["beverages", "bubble tea", "korean"]
+  },
+  {
+    "id": "6-C4EXT2E3NY6AAE",
+    "cuisine": ["beverages", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-nako-monas-delivery/6-C4EXT2E3NY6AAE?",
+    "name": "Kopi Nako - Monas",
+    "tags": ["beverages", "coffee"]
+  },
+  {
+    "id": "6-C24JGLMVJYEUVE",
+    "cuisine": ["beverages", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/legais-jus-kopi-milkshake-kebon-sirih-delivery/6-C24JGLMVJYEUVE?",
+    "name": "Legais Jus, Kopi & Milkshake - Kebon Sirih",
+    "tags": ["beverages", "coffee", "healthy", "halal certified"]
+  },
+  {
+    "id": "6-C2BTSAMVT2EZVN",
+    "cuisine": ["beverages"],
+    "link": "https://food.grab.com/id/en/restaurant/es-kelapa-muda-cihuyy-petojo-selatan-delivery/6-C2BTSAMVT2EZVN?",
+    "name": "Es Kelapa Muda Cihuyy - Petojo Selatan",
+    "tags": ["beverages"]
+  },
+  {
+    "id": "6-CYKKTPAYPEEKJT",
+    "cuisine": ["beverages", "bubble tea", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-janji-jiwa-jiwa-toast-tanah-abang-delivery/6-CYKKTPAYPEEKJT?",
+    "name": "Kopi Janji Jiwa & Jiwa Toast - Tanah Abang",
+    "tags": ["beverages", "halal certified", "coffee", "snack"]
+  },
+  {
+    "id": "6-C2AUFCETG34VMA",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-dari-pada-by-hangry-cikini-delivery/6-C2AUFCETG34VMA?",
+    "name": "Kopi Dari Pada by Hangry - Cikini",
+    "tags": ["beverages", "coffee", "dessert", "snack"]
+  },
+  {
+    "id": "6-C4DHBE5JT8LJME",
+    "cuisine": ["bubble tea", "coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-tetangga-sebelah-keagungan-delivery/6-C4DHBE5JT8LJME?",
+    "name": "Kopi Tetangga Sebelah - Keagungan",
+    "tags": ["coffee", "beverages", "snack"]
+  },
+  {
+    "id": "6-C2AJE6BKJCL3NT",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/xie-xie-boba-tomang-delivery/6-C2AJE6BKJCL3NT?",
+    "name": "Xie Xie Boba - Tomang",
+    "tags": ["bubble tea", "beverages"]
+  },
+  {
+    "id": "6-C3TCV3VFHCE3G2",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/h-cups-boba-tea-stasiun-tanah-abang-delivery/6-C3TCV3VFHCE3G2?",
+    "name": "H! Cups Boba & Tea - Stasiun Tanah Abang",
+    "tags": ["bubble tea", "beverages"]
+  },
+  {
+    "id": "6-C342GAXABBMJV6",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/mixue-tanah-abang-delivery/6-C342GAXABBMJV6?",
+    "name": "MIXUE - Tanah Abang",
+    "tags": ["bubble tea", "ice cream", "dessert"]
+  },
+  {
+    "id": "IDGFSTI000039xm",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/koi-the-grand-indonesia-west-mall-delivery/IDGFSTI000039xm?",
+    "name": "KOI The - Grand Indonesia (West Mall)",
+    "tags": ["bubble tea", "beverages", "coffee"]
+  },
+  {
+    "id": "6-C4D3FGCCR6CAGA",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/dessert-si-manis-tanah-tinggi-delivery/6-C4D3FGCCR6CAGA?",
+    "name": "DESSERT SI MANIS - Tanah Tinggi",
+    "tags": ["bubble tea", "healthy", "dessert"]
+  },
+  {
+    "id": "6-CYXWGTTHGUBWC2",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/xiboba-sarinah-delivery/6-CYXWGTTHGUBWC2?",
+    "name": "XIBOBA - Sarinah",
+    "tags": ["bubble tea", "dessert", "beverages"]
+  },
+  {
+    "id": "6-C3UVGGC2RY52TA",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/haus-x-hot-oppa-jkt-stasiun-gambir-delivery/6-C3UVGGC2RY52TA?",
+    "name": "HAUS! x Hot Oppa - JKT Stasiun Gambir",
+    "tags": ["bubble tea", "beverages", "dessert"]
+  },
+  {
+    "id": "6-CY5HNYWKR2NCT6",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/shushu-grand-indonesia-delivery/6-CY5HNYWKR2NCT6?",
+    "name": "ShuShu - Grand Indonesia",
+    "tags": ["bubble tea", "beverages", "dessert"]
+  },
+  {
+    "id": "6-C6TTMBV2JGCKC6",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/raja-dimsum-x-pancong-lava-petojo-utara-delivery/6-C6TTMBV2JGCKC6?",
+    "name": "Raja Dimsum X Pancong Lava - Petojo Utara",
+    "tags": ["bubble tea", "chicken", "snack"]
+  },
+  {
+    "id": "6-C2L2C62JEUJJCE",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/chicha-san-chen-grand-indonesia-delivery/6-C2L2C62JEUJJCE?",
+    "name": "Chicha San Chen - Grand Indonesia",
+    "tags": ["bubble tea", "beverages", "indonesian"]
+  },
+  {
+    "id": "6-C2X2PE3BTNLDNN",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/esteh-indonesia-cikini-delivery/6-C2X2PE3BTNLDNN?",
+    "name": "Esteh Indonesia - Cikini",
+    "tags": ["beverages", "dessert", "indonesian"]
+  },
+  {
+    "id": "6-CZDEGUUXTPK3WE",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/chatime-pasar-mode-tanah-abang-delivery/6-CZDEGUUXTPK3WE?",
+    "name": "Chatime - Pasar Mode Tanah Abang",
+    "tags": ["bubble tea", "beverages", "coffee"]
+  },
+  {
+    "id": "6-C6JXKFW1ACJ3MA",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/susu-mbok-darmi-halte-transjakarta-juanda-delivery/6-C6JXKFW1ACJ3MA?",
+    "name": "Susu Mbok Darmi - Halte Transjakarta Juanda",
+    "tags": ["bubble tea"]
+  },
+  {
+    "id": "6-C2CKGXTJRB5CVE",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/kopi-pick-cup-graha-harmoni-delivery/6-C2CKGXTJRB5CVE?",
+    "name": "Kopi Pick Cup - Graha Harmoni",
+    "tags": ["bubble tea", "beverages", "coffee"]
+  },
+  {
+    "id": "6-C6NWEFTGE6EZJA",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/alpukat-kocok-gambir-delivery/6-C6NWEFTGE6EZJA?",
+    "name": "ALPUKAT KOCOK - Gambir",
+    "tags": ["bubble tea", "snack", "chicken"]
+  },
+  {
+    "id": "IDGFSTI00000wx8",
+    "cuisine": ["bubble tea"],
+    "link": "https://food.grab.com/id/en/restaurant/dum-dum-thai-drinks-express-boxx-in-delivery/IDGFSTI00000wx8?",
+    "name": "Dum Dum Thai Drinks Express - Boxx In",
+    "tags": ["beverages", "dessert", "indonesian"]
+  },
+  {
+    "id": "6-C2AUFF3ULNUCNE",
+    "cuisine": ["burgers", "fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/moon-chicken-korean-fried-chicken-cikini-delivery/6-C2AUFF3ULNUCNE?",
+    "name": "Moon Chicken (Korean Fried Chicken) - Cikini",
+    "tags": ["chicken", "fast food", "korean", "rice"]
+  },
+  {
+    "id": "6-C4JHVGMCFBTGLJ",
+    "cuisine": ["burgers", "fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/hot-side-story-spicy-fried-chicken-cikini-delivery/6-C4JHVGMCFBTGLJ?",
+    "name": "Hot Side Story (Spicy Fried Chicken) - Cikini",
+    "tags": ["chicken", "fast food", "rice", "international"]
+  },
+  {
+    "id": "IDGFSTI000002pd",
+    "cuisine": ["burgers"],
+    "link": "https://food.grab.com/id/en/restaurant/johnny-rockets-sahid-sudirman-delivery/IDGFSTI000002pd?",
+    "name": "Johnny Rockets - Sahid Sudirman",
+    "tags": ["international", "snack", "fast food"]
+  },
+  {
+    "id": "6-C4KHDELJHA5HNE",
+    "cuisine": ["burgers", "fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/chicken-burger-by-hangry-cikini-delivery/6-C4KHDELJHA5HNE?",
+    "name": "Chicken Burger by Hangry - Cikini",
+    "tags": ["chicken", "snack", "korean"]
+  },
+  {
+    "id": "6-C26FEVDDVVD2AA",
+    "cuisine": ["burgers"],
+    "link": "https://food.grab.com/id/en/restaurant/keblenger-burger-gandul-delivery/6-C26FEVDDVVD2AA?",
+    "name": "Keblenger Burger - Gandul",
+    "tags": ["burgers", "fast food"]
+  },
+  {
+    "id": "6-C2XWTUMUTT2JRN",
+    "cuisine": ["chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-dan-nasi-bebek-suramadu-kebon-kelapa-delivery/6-C2XWTUMUTT2JRN?",
+    "name": "Ayam Penyet Dan Nasi Bebek Suramadu - Kebon Kelapa",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C22TL2JHKA4TJA",
+    "cuisine": ["chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-idaman-88-khas-madura-kebon-kacang-delivery/6-C22TL2JHKA4TJA?",
+    "name": "Nasi Bebek Idaman 88 Khas Madura - Kebon Kacang",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "IDGFSTI00000fea",
+    "cuisine": ["chicken", "fast food", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea?",
+    "name": "KFC - Prapatan Tugu Tani",
+    "tags": ["chicken", "fast food", "international"]
+  },
+  {
+    "id": "6-C3LFNYXXDBX3PA",
+    "cuisine": ["chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-ayam-bakar-ibu-musliah-gambir-gambir-delivery/6-C3LFNYXXDBX3PA?",
+    "name": "NASI BEBEK&AYAM BAKAR IBU MUSLIAH GAMBIR - Gambir",
+    "tags": ["chicken", "rice"]
+  },
+  {
+    "id": "6-C3UTLUMFAXN1RX",
+    "cuisine": ["chicken", "indonesian", "noodles", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?",
+    "name": "Nasi Goreng Seafood Bos RT - Kebon Sirih",
+    "tags": ["chicken", "rice", "noodles"]
+  },
+  {
+    "id": "6-CYV3LN5FBEJBNT",
+    "cuisine": ["chicken", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-juanda-delivery/6-CYV3LN5FBEJBNT?",
+    "name": "RM Sederhana (SA) - Juanda",
+    "tags": ["chicken", "padang", "rice"]
+  },
+  {
+    "id": "6-C2BKEY52JTNUHE",
+    "cuisine": ["chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-serundeng-cak-sadik-petojo-selatan-delivery/6-C2BKEY52JTNUHE?",
+    "name": "Nasi Bebek Serundeng Cak Sadik - Petojo Selatan",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-CZC1FFTARGAVWA",
+    "cuisine": ["chicken", "rice", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/gurame-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CZC1FFTARGAVWA?",
+    "name": "Gurame & Nasi Timbel Putri Ayu - Petojo Selatan",
+    "tags": ["chicken", "rice", "seafood"]
+  },
+  {
+    "id": "6-C4JYKCKBE3N2J2",
+    "cuisine": ["chicken", "indonesian", "noodles", "rice", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/solaria-sarinah-jakarta-delivery/6-C4JYKCKBE3N2J2?",
+    "name": "Solaria - Sarinah Jakarta",
+    "tags": ["indonesian", "rice", "seafood"]
+  },
+  {
+    "id": "6-CY5WKEKGCEMGUE",
+    "cuisine": [
+      "chicken",
+      "chinese",
+      "fried rice",
+      "indonesian",
+      "rice",
+      "seafood"
+    ],
+    "link": "https://food.grab.com/id/en/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?",
+    "name": "Pondok Sibungsu - Kh. Wahid Hasyim",
+    "tags": ["chinese", "seafood", "rice"]
+  },
+  {
+    "id": "6-C2CBCFN2NTJGL2",
+    "cuisine": ["chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?",
+    "name": "Ayam Bakar Geprek Ibu May - Kebon Sirih",
+    "tags": ["chicken", "bakso & soto"]
+  },
+  {
+    "id": "6-C2KWVAEDNTAZAJ",
+    "cuisine": ["chicken", "indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/dapur-sunda-kuningan-bu-may-kebon-sirih-delivery/6-C2KWVAEDNTAZAJ?",
+    "name": "Dapur Sunda Kuningan Bu May - Kebon Sirih",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-CYN3PFCFR4M2TN",
+    "cuisine": ["chicken", "fast food", "rice", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?",
+    "name": "Burger King - Cideng Jakarta",
+    "tags": ["chicken", "fast food", "international"]
+  },
+  {
+    "id": "6-C4LGRXKYT7JBGX",
+    "cuisine": ["chicken", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-bumbu-hitam-bu-maya-khas-madura-kebon-sirih-delivery/6-C4LGRXKYT7JBGX?",
+    "name": "Nasi Bebek Bumbu Hitam Bu Maya khas. Madura - Kebon Sirih",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C4JFC4MHNKKJAX",
+    "cuisine": ["chicken", "fast food", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-bang-dava-nasi-geprek-popcorn-kemayoran-delivery/6-C4JFC4MHNKKJAX?",
+    "name": "Ayam Bang Dava, Nasi Geprek & Popcorn - Kemayoran",
+    "tags": ["chicken", "rice", "fast food"]
+  },
+  {
+    "id": "6-CYLBC7VTDGJZNT",
+    "cuisine": ["chicken", "indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CYLBC7VTDGJZNT?",
+    "name": "Gurame Bakar & Nasi Timbel Putri Ayu - Petojo Selatan",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C3MGPCDHKCLGUE",
+    "cuisine": ["chicken", "indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/pagi-sore-malam-masakan-padang-dapurhub-thamrin-delivery/6-C3MGPCDHKCLGUE?",
+    "name": "Pagi Sore Malam Masakan Padang - DapurHub Thamrin",
+    "tags": ["chicken", "padang", "rice"]
+  },
+  {
+    "id": "6-C3V1JP4AGE6EAA",
+    "cuisine": ["chicken", "fast food", "indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/seindonesia-sei-sapi-dan-ayam-lakuliner-thamrin-delivery/6-C3V1JP4AGE6EAA?",
+    "name": "SeIndonesia (Sei Sapi dan Ayam) - Lakuliner Thamrin",
+    "tags": ["chicken", "rice", "fast food"]
+  },
+  {
+    "id": "6-C2XFE74CVPW3PE",
+    "cuisine": ["chicken", "indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bakar-aulia-senen-delivery/6-C2XFE74CVPW3PE?",
+    "name": "Ayam Goreng Bakar Aulia - Senen",
+    "tags": ["chicken", "indonesian", "rice"]
+  },
+  {
+    "id": "6-CZADVJDJPFJHNT",
+    "cuisine": ["chinese", "fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/fried-chicken-geprek-gian-kampung-rawa-delivery/6-CZADVJDJPFJHNT?",
+    "name": "Fried Chicken Geprek Gian - Kampung Rawa",
+    "tags": ["rice", "chicken", "indonesian"]
+  },
+  {
+    "id": "AWhbPc4Bkk5cOZVWu3fg",
+    "cuisine": ["chinese", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/chinese-food-90-kemayoran-delivery/AWhbPc4Bkk5cOZVWu3fg?",
+    "name": "Chinese Food 90 - Kemayoran",
+    "tags": ["indonesian", "chicken", "international"]
+  },
+  {
+    "id": "6-C4AUAGNTRB5UNT",
+    "cuisine": ["chinese", "seafood", "western"],
+    "link": "https://food.grab.com/id/en/restaurant/a-yummy-petojo-gambir-delivery/6-C4AUAGNTRB5UNT?",
+    "name": "A'Yummy! - Petojo Gambir",
+    "tags": ["chinese", "seafood", "rice"]
+  },
+  {
+    "id": "IDGFSTI0000008d",
+    "cuisine": ["chinese", "fried rice", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-gm-sunda-delivery/IDGFSTI0000008d?",
+    "name": "Bakmi GM - Sunda",
+    "tags": ["noodles", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2AAUEVGTU6EJ2",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-campur-afuk-kebon-kelapa-delivery/6-C2AAUEVGTU6EJ2?",
+    "name": "Nasi Campur Afuk - Kebon Kelapa",
+    "tags": ["chinese", "pork", "rice"]
+  },
+  {
+    "id": "6-C3ECVFMAN7JHV2",
+    "cuisine": ["chinese", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/hainam-bowls-gondangdia-delivery/6-C3ECVFMAN7JHV2?",
+    "name": "Hainam Bowls - Gondangdia",
+    "tags": ["chicken", "rice", "noodles"]
+  },
+  {
+    "id": "6-C3VKKGKDHFLVET",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-alay-since-1985-kartini-delivery/6-C3VKKGKDHFLVET?",
+    "name": "Bakmi Alay Since 1985 - Kartini",
+    "tags": ["chinese", "noodles", "rice"]
+  },
+  {
+    "id": "6-CY63JK6HMBJVT6",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/rumah-makan-tss-88-duri-selatan-delivery/6-CY63JK6HMBJVT6?",
+    "name": "Rumah Makan Tss 88 - Duri Selatan",
+    "tags": ["chinese", "international", "rice"]
+  },
+  {
+    "id": "6-C3BVSACYGT4FGN",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?",
+    "name": "D'COST - Petojo Gambir",
+    "tags": ["chinese", "seafood", "rice"]
+  },
+  {
+    "id": "6-C6NJAUXCRUBVEX",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/nesya-the-real-dimsum-kemanggisan-delivery/6-C6NJAUXCRUBVEX?",
+    "name": "Nesya the real dimsum - Kemanggisan",
+    "tags": ["chinese", "seafood", "snack"]
+  },
+  {
+    "id": "6-C4CKEYMGNEUUEA",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/cuboy-babi-goreng-thamrin-delivery/6-C4CKEYMGNEUUEA?",
+    "name": "Cuboy Babi Goreng - Thamrin",
+    "tags": ["chinese", "pork", "rice"]
+  },
+  {
+    "id": "6-CZECLN2DE2LJVE",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/kwetiaw-sapi-roxy-petojo-utara-delivery/6-CZECLN2DE2LJVE?",
+    "name": "Kwetiaw Sapi Roxy - Petojo Utara",
+    "tags": ["chinese", "noodles", "bakso & soto"]
+  },
+  {
+    "id": "6-C2DWLKLTPCABVE",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/demie-bakmie-shophaus-menteng-delivery/6-C2DWLKLTPCABVE?",
+    "name": "DEMIE Bakmie - Shophaus Menteng",
+    "tags": ["chinese", "noodles", "chicken"]
+  },
+  {
+    "id": "6-C3K2VYACC3BAWE",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/fuk-kee-nasi-ayam-hainam-pasar-baru-delivery/6-C3K2VYACC3BAWE?",
+    "name": "Fuk Kee Nasi Ayam Hainam - Pasar Baru",
+    "tags": ["chinese", "duck"]
+  },
+  {
+    "id": "6-C3NJGT3ZGU3EAE",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/golden-lamian-cideng-jakarta-mie-nasi-ayam-goreng-delivery/6-C3NJGT3ZGU3EAE?",
+    "name": "Golden Lamian - Cideng Jakarta (Mie, Nasi, & Ayam Goreng)",
+    "tags": ["halal certified", "noodles", "indonesian", "beef"]
+  },
+  {
+    "id": "6-C2BJDAJBSGLAET",
+    "cuisine": ["chinese", "fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kang-daseng-kramat-delivery/6-C2BJDAJBSGLAET?",
+    "name": "Nasi Goreng Kang Daseng - Kramat",
+    "tags": ["rice", "chicken", "noodles"]
+  },
+  {
+    "id": "6-C3AARYLATTC1CN",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/dailybox-raden-saleh-delivery/6-C3AARYLATTC1CN?",
+    "name": "Dailybox - Raden Saleh",
+    "tags": ["beef", "chicken", "indonesian"]
+  },
+  {
+    "id": "6-C3ETTPNFPEJUE6",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/chinese-food-86-taman-sari-delivery/6-C3ETTPNFPEJUE6?",
+    "name": "Chinese Food 86 - Taman Sari",
+    "tags": ["indonesian", "chicken", "international"]
+  },
+  {
+    "id": "6-C6MHJRNWKEBCLT",
+    "cuisine": ["chinese"],
+    "link": "https://food.grab.com/id/en/restaurant/gohyong-baba-maphar-delivery/6-C6MHJRNWKEBCLT?",
+    "name": "Gohyong Baba - Maphar",
+    "tags": ["chinese"]
+  },
+  {
+    "id": "6-C6LXVLK1V32ECA",
+    "cuisine": ["coffee", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/warkop-ihsan-sabang-kebon-sirih-delivery/6-C6LXVLK1V32ECA?",
+    "name": "WARKOP IHSAN SABANG - Kebon Sirih",
+    "tags": ["coffee", "noodles", "rice"]
+  },
+  {
+    "id": "6-C3BFSFBZTUMAPA",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/golden-black-coffee-senen-delivery/6-C3BFSFBZTUMAPA?",
+    "name": "Golden Black Coffee - Senen",
+    "tags": ["coffee", "beverages", "breakfast"]
+  },
+  {
+    "id": "6-C6BYMGBKJT3KNA",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/sturgeon-kebon-kacang-delivery/6-C6BYMGBKJT3KNA?",
+    "name": "Sturgeon - Kebon Kacang",
+    "tags": ["coffee", "beverages"]
+  },
+  {
+    "id": "6-C34FGB3BPA5TFE",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/filosofi-kopi-sarinah-delivery/6-C34FGB3BPA5TFE?",
+    "name": "Filosofi Kopi - Sarinah",
+    "tags": ["coffee", "beverages"]
+  },
+  {
+    "id": "6-C343VJ2ZA36TTX",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/flash-coffee-skyline-thamrin-delivery/6-C343VJ2ZA36TTX?",
+    "name": "Flash Coffee - Skyline Thamrin",
+    "tags": ["coffee", "breakfast", "snack"]
+  },
+  {
+    "id": "6-C2VVCNXCJ3NXRT",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/point-coffee-indomaret-tanah-abang-3-teya-delivery/6-C2VVCNXCJ3NXRT?",
+    "name": "Point Coffee - Indomaret Tanah Abang 3 (TEYA)",
+    "tags": ["coffee", "breakfast", "snack"]
+  },
+  {
+    "id": "6-C6BCUEEDGUUXN6",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/tomoro-coffee-cideng-delivery/6-C6BCUEEDGUUXN6?",
+    "name": "TOMORO COFFEE - Cideng",
+    "tags": ["coffee", "beverages", "bakery & cake"]
+  },
+  {
+    "id": "IDGFSTI00001sqo",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/workroom-coffee-cikini-delivery/IDGFSTI00001sqo?",
+    "name": "Workroom Coffee - Cikini",
+    "tags": ["coffee", "beverages", "chicken"]
+  },
+  {
+    "id": "6-C6TGETD3VJ2FEX",
+    "cuisine": ["coffee"],
+    "link": "https://food.grab.com/id/en/restaurant/21factorygelato-gambir-delivery/6-C6TGETD3VJ2FEX?",
+    "name": "21FactoryGelato - Gambir",
+    "tags": ["coffee", "dessert", "pizza & pasta"]
+  },
+  {
+    "id": "6-CY5KAPXUFABEEE",
+    "cuisine": ["fast food", "western"],
+    "link": "https://food.grab.com/id/en/restaurant/cfc-stasiun-tanah-abang-delivery/6-CY5KAPXUFABEEE?",
+    "name": "CFC - Stasiun Tanah Abang",
+    "tags": ["fast food", "chicken", "rice"]
+  },
+  {
+    "id": "6-C3NZUBCTABWXPE",
+    "cuisine": ["fast food", "noodles", "satay"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-gepuk-pak-gembus-kalipasir-kramat-delivery/6-C3NZUBCTABWXPE?",
+    "name": "Ayam Gepuk Pak Gembus - Kalipasir Kramat",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C6KZTPECJTVJC6",
+    "cuisine": ["fast food", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-kobar-kampung-bali-delivery/6-C6KZTPECJTVJC6?",
+    "name": "Ayam Geprek Kobar - Kampung Bali",
+    "tags": ["fast food", "chicken", "seafood"]
+  },
+  {
+    "id": "6-C2U1JCMGLPKJRT",
+    "cuisine": ["fast food", "seafood", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/sec-bowl-senen-delivery/6-C2U1JCMGLPKJRT?",
+    "name": "Sec Bowl - Senen",
+    "tags": ["chicken", "indonesian", "rice"]
+  },
+  {
+    "id": "6-C35EMEJVTUUCAJ",
+    "cuisine": ["fast food"],
+    "link": "https://food.grab.com/id/en/restaurant/subway-harmoni-exchange-delivery/6-C35EMEJVTUUCAJ?",
+    "name": "Subway - Harmoni Exchange",
+    "tags": ["fast food", "healthy", "international"]
+  },
+  {
+    "id": "6-C32KCBBWV3BDTT",
+    "cuisine": ["fast food"],
+    "link": "https://food.grab.com/id/en/restaurant/popeyes-chicken-skyline-delivery/6-C32KCBBWV3BDTT?",
+    "name": "Popeyes Chicken - Skyline",
+    "tags": ["fast food", "chicken", "international"]
+  },
+  {
+    "id": "6-CZA1GYLKPB4CPE",
+    "cuisine": ["fast food", "noodles", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-koplo-nasi-geprek-harmoni-delivery/6-CZA1GYLKPB4CPE?",
+    "name": "Ayam Koplo (Nasi Geprek) - Harmoni",
+    "tags": ["fast food", "rice", "chicken", "indonesian", "noodles"]
+  },
+  {
+    "id": "6-C333LKAWTK6XWE",
+    "cuisine": ["fast food", "western"],
+    "link": "https://food.grab.com/id/en/restaurant/taco-bell-grand-indonesia-delivery/6-C333LKAWTK6XWE?",
+    "name": "Taco Bell - Grand Indonesia",
+    "tags": ["fast food", "chicken", "international"]
+  },
+  {
+    "id": "6-CY4XJATHL6KBNA",
+    "cuisine": ["fast food", "japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/hokben-menteng-huis-delivery/6-CY4XJATHL6KBNA?",
+    "name": "HokBen - Menteng Huis",
+    "tags": ["japanese", "chicken", "beef"]
+  },
+  {
+    "id": "6-C6TASCEDVF4XAN",
+    "cuisine": ["fast food"],
+    "link": "https://food.grab.com/id/en/restaurant/istanbul-kebab-tanah-abang-delivery/6-C6TASCEDVF4XAN?",
+    "name": "Istanbul kebab - Tanah Abang",
+    "tags": ["fast food", "beef", "chicken"]
+  },
+  {
+    "id": "6-C3CJGAN3JKEHJJ",
+    "cuisine": ["fast food", "japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/mangkokku-x-numinum-sarinah-delivery/6-C3CJGAN3JKEHJJ?",
+    "name": "Mangkokku x Numinum - Sarinah",
+    "tags": ["chicken", "rice", "japanese"]
+  },
+  {
+    "id": "6-CZNBMAKVT24YUE",
+    "cuisine": ["fast food", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/kebab-turki-syifa-petamburan-delivery/6-CZNBMAKVT24YUE?",
+    "name": "Kebab Turki Syifa - Petamburan",
+    "tags": ["fast food", "snack", "international"]
+  },
+  {
+    "id": "6-C35DPE3TA2DYBE",
+    "cuisine": ["fast food"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-forever-menteng-delivery/6-C35DPE3TA2DYBE?",
+    "name": "Ayam Forever - Menteng",
+    "tags": ["fast food", "chicken", "rice"]
+  },
+  {
+    "id": "IDGFSTI000020vs",
+    "cuisine": ["fast food", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/richeese-factory-lokasari-delivery/IDGFSTI000020vs?",
+    "name": "Richeese Factory - Lokasari",
+    "tags": ["fast food", "chicken", "international"]
+  },
+  {
+    "id": "6-CZMGTPDCNEWUE6",
+    "cuisine": ["fast food", "satay", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/kantin-semarang-gm-pasar-baru-delivery/6-CZMGTPDCNEWUE6?",
+    "name": "Kantin Semarang GM - Pasar Baru",
+    "tags": ["chicken", "rice", "snack"]
+  },
+  {
+    "id": "6-C4BGN76ZTUCJJ2",
+    "cuisine": ["fast food", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?",
+    "name": "McDonald's - Thamrin Jaya",
+    "tags": ["fast food", "chicken", "international"]
+  },
+  {
+    "id": "6-C2AUGP22HE3WJT",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-koplo-nasi-geprek-cikini-delivery/6-C2AUGP22HE3WJT?",
+    "name": "Ayam Koplo (Nasi Geprek) - Cikini",
+    "tags": ["rice", "chicken", "indonesian", "fast food", "noodles"]
+  },
+  {
+    "id": "6-C6BJDAWVC73KA6",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bu-tumbar-by-hangry-cikini-delivery/6-C6BJDAWVC73KA6?",
+    "name": "Ayam Goreng Bu Tumbar by Hangry - Cikini",
+    "tags": ["chicken", "indonesian", "rice"]
+  },
+  {
+    "id": "6-C2UUHGE3R2LFME",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/fried-chicken-geprek-gian-cempaka-putih-timur-delivery/6-C2UUHGE3R2LFME?",
+    "name": "Fried Chicken Geprek Gian - Cempaka Putih Timur",
+    "tags": ["rice", "chicken", "indonesian"]
+  },
+  {
+    "id": "6-C3EAGB4WAYKXL2",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/accha-indian-soul-food-by-hangry-cikini-delivery/6-C3EAGB4WAYKXL2?",
+    "name": "Accha Indian Soul Food by Hangry - Cikini",
+    "tags": ["chicken", "rice", "international"]
+  },
+  {
+    "id": "6-C4J2EE5FR4BGA2",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/penyet-by-ayam-koplo-cikini-delivery/6-C4J2EE5FR4BGA2?",
+    "name": "Penyet by Ayam Koplo - Cikini",
+    "tags": ["chicken", "fast food", "rice"]
+  },
+  {
+    "id": "6-C4KHAJXFTZAECX",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/fried-chicken-by-hangry-cikini-delivery/6-C4KHAJXFTZAECX?",
+    "name": "Fried Chicken by Hangry - Cikini",
+    "tags": ["chicken", "rice", "fast food"]
+  },
+  {
+    "id": "6-C4NBGELDRU5UT2",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/sultan-abu-fried-chicken-by-hangry-setiabudi-timur-delivery/6-C4NBGELDRU5UT2?",
+    "name": "Sultan Abu Fried Chicken by Hangry - Setiabudi Timur",
+    "tags": ["chicken", "rice", "international"]
+  },
+  {
+    "id": "6-C4KGBF6CTY6ZPE",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-ayam-by-hangry-cikini-delivery/6-C4KGBF6CTY6ZPE?",
+    "name": "Nasi Ayam by Hangry - Cikini",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C4NAGXJJAZCHLN",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/masala-fried-chicken-by-accha-cikini-delivery/6-C4NAGXJJAZCHLN?",
+    "name": "Masala Fried Chicken by Accha - Cikini",
+    "tags": ["chicken", "rice", "international"]
+  },
+  {
+    "id": "6-CZA1N8AGGTU3SA",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/hangry-all-in-one-harmoni-delivery/6-CZA1N8AGGTU3SA?",
+    "name": "Hangry All in One - Harmoni",
+    "tags": ["rice", "chicken", "beef"]
+  },
+  {
+    "id": "6-C6EUELJWWEVGRX",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-ayam-khas-india-by-accha-cikini-delivery/6-C6EUELJWWEVGRX?",
+    "name": "Nasi Ayam khas India by Accha - Cikini",
+    "tags": ["ayam", "aneka nasi", "fast food"]
+  },
+  {
+    "id": "6-C4NDARLKSE21GX",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/chicken-wings-by-hangry-setiabudi-timur-delivery/6-C4NDARLKSE21GX?",
+    "name": "Chicken Wings by Hangry - Setiabudi Timur",
+    "tags": ["rice", "chicken", "fast food"]
+  },
+  {
+    "id": "6-C4NDEBUCFCNENX",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-popcorn-by-hangry-cikini-delivery/6-C4NDEBUCFCNENX?",
+    "name": "Ayam Goreng Popcorn by Hangry - Cikini",
+    "tags": ["chicken", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C3LUBF2DN2TXGA",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/wai-thai-food-wtf-by-hangry-harmoni-delivery/6-C3LUBF2DN2TXGA?",
+    "name": "Wai Thai Food (WTF) by Hangry - Harmoni",
+    "tags": ["chicken", "rice", "fast food", "international", "noodles"]
+  },
+  {
+    "id": "6-C343BB51VJCKLJ",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/snacks-attack-by-hangry-cikini-delivery/6-C343BB51VJCKLJ?",
+    "name": "Snacks Attack by Hangry - Cikini",
+    "tags": ["snack", "international", "beverages"]
+  },
+  {
+    "id": "6-C6EVC3KTRNXTR2",
+    "cuisine": ["fried chicken"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-kulit-idolaku-by-ayam-koplo-pademangan-delivery/6-C6EVC3KTRNXTR2?",
+    "name": "Nasi Kulit Idolaku by Ayam Koplo - Pademangan",
+    "tags": ["nasi", "ayam", "indonesian", "fast food"]
+  },
+  {
+    "id": "6-C4ADJJ3TNTUGLJ",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-cita-rasa-erlangga-taman-sari-delivery/6-C4ADJJ3TNTUGLJ?",
+    "name": "Nasi Goreng Cita Rasa ERLANGGA - Taman Sari",
+    "tags": ["fried rice", "rice", "chicken"]
+  },
+  {
+    "id": "6-C4EVEUTAGYMDCJ",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kang-daseng-tanjung-duren-selatan-delivery/6-C4EVEUTAGYMDCJ?",
+    "name": "NASI GORENG KANG DASENG - Tanjung Duren Selatan",
+    "tags": ["rice", "chicken", "noodles"]
+  },
+  {
+    "id": "6-C3MGNLAXAXVANE",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3MGNLAXAXVANE?",
+    "name": "Nasi Padang Pagi Siang Malam - DapurHub Thamrin",
+    "tags": ["padang", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C3L2SBWCVB4AEE",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3L2SBWCVB4AEE?",
+    "name": "Nasi Goreng Padang Pagi Siang Malam - DapurHub Thamrin",
+    "tags": ["rice", "chicken", "padang"]
+  },
+  {
+    "id": "6-C3UAEA6CLRBEL6",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-lidah-mertua-menteng-delivery/6-C3UAEA6CLRBEL6?",
+    "name": "Ayam Geprek Lidah Mertua - Menteng",
+    "tags": ["chicken", "beef", "rice"]
+  },
+  {
+    "id": "6-CZMAVAMDR26DDA",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-kwetiau-seafood-medan-kebon-melati-delivery/6-CZMAVAMDR26DDA?",
+    "name": "Mie Kwetiau Seafood Medan - Kebon Melati",
+    "tags": ["noodles", "rice", "chinese"]
+  },
+  {
+    "id": "IDGFSTI000000ez",
+    "cuisine": ["fried rice", "western"],
+    "link": "https://food.grab.com/id/en/restaurant/the-people-s-cafe-by-ismaya-grand-indonesia-west-mall-delivery/IDGFSTI000000ez?",
+    "name": "The People's Cafe by ISMAYA - Grand Indonesia West Mall",
+    "tags": ["breakfast", "rice", "chicken"]
+  },
+  {
+    "id": "IDGFSTI000021b8",
+    "cuisine": ["fried rice", "martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-jakarta-setiabudi-delivery/IDGFSTI000021b8?",
+    "name": "Mie Aceh Jakarta - Setiabudi",
+    "tags": ["chicken", "noodles", "snack"]
+  },
+  {
+    "id": "6-C2MUAGBFRUNWLE",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-geprek-dua-saudara-pejagalan-delivery/6-C2MUAGBFRUNWLE?",
+    "name": "Ayam Geprek Dua Saudara - Pejagalan",
+    "tags": ["chicken", "rice", "noodles"]
+  },
+  {
+    "id": "6-C2KBPFEWCY2JN6",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/gado-gado-fatimah-cempaka-baru-delivery/6-C2KBPFEWCY2JN6?",
+    "name": "Gado Gado Fatimah - Cempaka Baru",
+    "tags": ["breakfast", "indonesian"]
+  },
+  {
+    "id": "IDGFSTI00001mse",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/imperial-kitchen-dimsum-millennium-mall-delivery/IDGFSTI00001mse?",
+    "name": "Imperial Kitchen & Dimsum - Millennium Mall",
+    "tags": ["chinese", "rice", "chicken"]
+  },
+  {
+    "id": "IDGFSTI000022aw",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ta-wan-%E5%A4%A7%E7%A2%97-harmonie-exchange-delivery/IDGFSTI000022aw?",
+    "name": "Ta Wan (大碗) - Harmonie Exchange",
+    "tags": ["halal certified", "rice", "chinese", "chicken"]
+  },
+  {
+    "id": "6-C2XZLJNCNVJYLN",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-holly-bendungan-hilir-delivery/6-C2XZLJNCNVJYLN?",
+    "name": "Bakmi Holly - Bendungan Hilir",
+    "tags": ["seafood", "noodles", "rice"]
+  },
+  {
+    "id": "6-C341SBUTRT2DV6",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/klean-bowl-graha-harmoni-delivery/6-C341SBUTRT2DV6?",
+    "name": "Klean Bowl - Graha Harmoni",
+    "tags": ["healthy", "rice", "chicken"]
+  },
+  {
+    "id": "IDGFSTI00000cob",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-asap-by-asap-group-setiabudi-delivery/IDGFSTI00000cob?",
+    "name": "Nasi Goreng Asap By Asap Group - Setiabudi",
+    "tags": ["rice", "chicken", "beef"]
+  },
+  {
+    "id": "IDGFSTI00000302",
+    "cuisine": ["fried rice"],
+    "link": "https://food.grab.com/id/en/restaurant/chopstix-plaza-indonesia-delivery/IDGFSTI00000302?",
+    "name": "Chopstix - Plaza Indonesia",
+    "tags": ["chinese", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C3LBN6DYLE4AR6",
+    "cuisine": ["indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-padang-sederhana-minang-gambir-delivery/6-C3LBN6DYLE4AR6?",
+    "name": "Nasi Padang Sederhana Minang - Gambir",
+    "tags": ["padang", "rice", "breakfast"]
+  },
+  {
+    "id": "6-CZL3J2NAKELVVA",
+    "cuisine": ["indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/mini-jaya-masakan-padang-kebon-sirih-delivery/6-CZL3J2NAKELVVA?",
+    "name": "Mini Jaya Masakan Padang - Kebon Sirih",
+    "tags": ["indonesian", "padang", "rice"]
+  },
+  {
+    "id": "6-C3LWTJCHACEXCT",
+    "cuisine": ["indonesian", "rice", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-padang-mini-jaya-kebon-sirih-delivery/6-C3LWTJCHACEXCT?",
+    "name": "Nasi Padang Mini Jaya - Kebon Sirih",
+    "tags": ["padang", "rice", "seafood"]
+  },
+  {
+    "id": "6-C6BKTRC1AB5YG2",
+    "cuisine": ["indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-gacoan-mangga-besar-delivery/6-C6BKTRC1AB5YG2?",
+    "name": "Mie Gacoan - Mangga Besar",
+    "tags": ["indonesian"]
+  },
+  {
+    "id": "6-CZKWEYCDVF52J6",
+    "cuisine": ["indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/soto-betawi-bu-yanti-kebon-sirih-delivery/6-CZKWEYCDVF52J6?",
+    "name": "Soto Betawi Bu Yanti - Kebon Sirih",
+    "tags": ["indonesian", "rice", "bakso & soto"]
+  },
+  {
+    "id": "6-C3WGCVCJJFAHSE",
+    "cuisine": ["indonesian", "rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-padang-sederhana-bundo-kenari-delivery/6-C3WGCVCJJFAHSE?",
+    "name": "Nasi Padang Sederhana Bundo - Kenari",
+    "tags": ["padang", "breakfast", "rice"]
+  },
+  {
+    "id": "6-C2WTGKN1E4LAG6",
+    "cuisine": ["indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/ketoprak-telor-kuliner-kbs-kebon-sirih-delivery/6-C2WTGKN1E4LAG6?",
+    "name": "Ketoprak Telor Kuliner Kbs - Kebon Sirih",
+    "tags": ["indonesian", "breakfast", "rice"]
+  },
+  {
+    "id": "6-CY4UTJKXMA6WGT",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-rames-bude-kemayoran-delivery/6-CY4UTJKXMA6WGT?",
+    "name": "Nasi Rames Bude - Kemayoran",
+    "tags": ["japanese", "halal certified", "chicken", "beef"]
+  },
+  {
+    "id": "6-C6LKCYUGG7JCNT",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/its-pokay-kebon-kacang-delivery/6-C6LKCYUGG7JCNT?",
+    "name": "Its Pokay - Kebon Kacang",
+    "tags": ["japanese", "healthy", "rice"]
+  },
+  {
+    "id": "6-C4L1T66TTTEYRN",
+    "cuisine": ["japanese", "noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/boxmie-street-noodle-thamrin-delivery/6-C4L1T66TTTEYRN?",
+    "name": "Boxmie Street Noodle - Thamrin",
+    "tags": ["japanese", "fast food", "noodles"]
+  },
+  {
+    "id": "6-C6JKA7DYJ2JAA6",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/gohan-ku-menteng-delivery/6-C6JKA7DYJ2JAA6?",
+    "name": "Gohan Ku - Menteng",
+    "tags": ["japanese"]
+  },
+  {
+    "id": "6-CYLELTLZNVC1RN",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/yoshinoya-beef-bowl-suryopranoto-delivery/6-CYLELTLZNVC1RN?",
+    "name": "Yoshinoya Beef Bowl - Suryopranoto",
+    "tags": ["japanese", "beef", "fast food"]
+  },
+  {
+    "id": "6-C221N4MVSBWYLN",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/gyu-jin-teppan-posbloc-delivery/6-C221N4MVSBWYLN?",
+    "name": "Gyu Jin Teppan - Posbloc",
+    "tags": ["japanese", "chicken", "beef"]
+  },
+  {
+    "id": "6-C2BWLJ6ULEJCV6",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/mangkokku-rice-bowl-mid-point-delivery/6-C2BWLJ6ULEJCV6?",
+    "name": "Mangkokku Rice Bowl - Mid Point",
+    "tags": ["japanese", "chicken", "rice"]
+  },
+  {
+    "id": "6-C3NFJLADJATZWA",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/beef-gyu-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJATZWA?",
+    "name": "BEEF GYU By Asap Group - Kebon Kelapa",
+    "tags": ["chicken", "beef", "beverages"]
+  },
+  {
+    "id": "IDGFSTI00001yud",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/honu-poke-matcha-bar-healthy-menteng-delivery/IDGFSTI00001yud?",
+    "name": "Honu Poke & Matcha Bar (Healthy) - Menteng",
+    "tags": ["japanese", "healthy"]
+  },
+  {
+    "id": "6-C4EEPB2HWFLTBE",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/gohan-ku-kramat-pulo-kramat-delivery/6-C4EEPB2HWFLTBE?",
+    "name": "Gohan Ku - Kramat Pulo - Kramat",
+    "tags": ["japanese"]
+  },
+  {
+    "id": "6-C2LYJFD3C64CCE",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-ikan-katsu-selayar-petojo-utara-delivery/6-C2LYJFD3C64CCE?",
+    "name": "Nasi Ikan Katsu Selayar - Petojo Utara",
+    "tags": ["japanese", "seafood", "rice"]
+  },
+  {
+    "id": "6-C36ZL6EYV2AVPE",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/curryshii-by-arungi-group-thamrin-delivery/6-C36ZL6EYV2AVPE?",
+    "name": "Curryshii! By Arungi Group - Thamrin",
+    "tags": ["japanese", "chicken", "beef"]
+  },
+  {
+    "id": "6-C24WFADTR8CTJX",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/curry-house-coco-ichibanya-grand-indonesia-delivery/6-C24WFADTR8CTJX?",
+    "name": "Curry House Coco Ichibanya - Grand Indonesia",
+    "tags": ["japanese"]
+  },
+  {
+    "id": "6-C6KDSE63SF3TGN",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/butaki-duri-selatan-delivery/6-C6KDSE63SF3TGN?",
+    "name": "Butaki! - Duri Selatan",
+    "tags": ["japanese", "pork", "rice"]
+  },
+  {
+    "id": "6-CYMADGMFLBNXVJ",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/tanoshii-sushi-senen-delivery/6-CYMADGMFLBNXVJ?",
+    "name": "Tanoshii Sushi - Senen",
+    "tags": ["japanese", "rice", "seafood"]
+  },
+  {
+    "id": "6-C4CET2A1C34EUA",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/richiise-bakar-kramat-delivery/6-C4CET2A1C34EUA?",
+    "name": "Richiise Bakar - Kramat",
+    "tags": ["chicken", "international", "beef"]
+  },
+  {
+    "id": "6-C2BGMFCVJP5FNN",
+    "cuisine": ["japanese"],
+    "link": "https://food.grab.com/id/en/restaurant/rice-box-fix-kartini-delivery/6-C2BGMFCVJP5FNN?",
+    "name": "Rice Box Fix - Kartini",
+    "tags": ["japanese", "rice", "chicken"]
+  },
+  {
+    "id": "6-C3D2LXX1T75KGX",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-234-gondangdia-delivery/6-C3D2LXX1T75KGX?",
+    "name": "Martabak 234 - Gondangdia",
+    "tags": ["martabak", "indonesian", "dessert"]
+  },
+  {
+    "id": "6-C6C1ME5VR2JDE2",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-katamso-delivery/6-C6C1ME5VR2JDE2?",
+    "name": "Pukis & Martabak Kota Baru - Katamso",
+    "tags": ["martabak", "bakery & cake", "snack"]
+  },
+  {
+    "id": "6-CYVFRTEDRB5XDA",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabakku-cikini-delivery/6-CYVFRTEDRB5XDA?",
+    "name": "Martabakku - Cikini",
+    "tags": ["martabak", "dessert", "indonesian"]
+  },
+  {
+    "id": "6-C6NYCAXTTXWHVJ",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-terang-bulan-roxy-duri-pulo-delivery/6-C6NYCAXTTXWHVJ?",
+    "name": "Martabak Terang Bulan Roxy - Duri Pulo",
+    "tags": ["martabak", "dessert", "rice"]
+  },
+  {
+    "id": "6-C6BZNB6GARL3NJ",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/asp-warmindo-kartini-delivery/6-C6BZNB6GARL3NJ?",
+    "name": "ASP warmindo - Kartini",
+    "tags": ["martabak", "coffee", "noodles"]
+  },
+  {
+    "id": "IDGFSTI000001np",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/dcrepes-plaza-atrium-delivery/IDGFSTI000001np?",
+    "name": "Dcrepes - Plaza Atrium",
+    "tags": ["halal certified", "dessert", "bakery & cake", "snack"]
+  },
+  {
+    "id": "IDGFSTI000036eo",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?",
+    "name": "Martabak Pizza Orins - Gondangdia",
+    "tags": ["martabak", "bakery & cake", "snack"]
+  },
+  {
+    "id": "6-C3WHARM3DFWBRN",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/lekker-story-petamburan-delivery/6-C3WHARM3DFWBRN?",
+    "name": "Lekker Story - Petamburan",
+    "tags": ["martabak", "dessert"]
+  },
+  {
+    "id": "IDGFSTI000006uv",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-pandrah-sawah-besar-delivery/IDGFSTI000006uv?",
+    "name": "Mie Aceh Pandrah - Sawah Besar",
+    "tags": ["martabak", "indonesian", "dessert"]
+  },
+  {
+    "id": "IDGFSTI000001fo",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-65a-pecenongan-delivery/IDGFSTI000001fo?",
+    "name": "Martabak Pecenongan 65A - Pecenongan",
+    "tags": ["martabak", "snack", "dessert"]
+  },
+  {
+    "id": "6-C2AHJX2YWEAXVT",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-mr-huang-duri-utara-delivery/6-C2AHJX2YWEAXVT?",
+    "name": "Martabak Mr Huang - Duri Utara",
+    "tags": ["martabak", "dessert", "snack"]
+  },
+  {
+    "id": "6-CZDYNRMVVB5DAX",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?",
+    "name": "Martabak Pecenongan 78 - Kwitang, Kembang Raya",
+    "tags": ["martabak", "bakery & cake", "snack"]
+  },
+  {
+    "id": "6-CYU2UA5FET5KAX",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-akong-pembangunan-2-delivery/6-CYU2UA5FET5KAX?",
+    "name": "Martabak Akong - Pembangunan 2",
+    "tags": ["martabak", "indonesian", "dessert"]
+  },
+  {
+    "id": "6-C6LHGNDDC72AR6",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/crepesaurus-menteng-delivery/6-C6LHGNDDC72AR6?",
+    "name": "Crepesaurus - Menteng",
+    "tags": ["martabak", "dessert", "snack"]
+  },
+  {
+    "id": "6-C6AEVAMKPA6HVJ",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-djuara-senen-delivery/6-C6AEVAMKPA6HVJ?",
+    "name": "Martabak Djuara - Senen",
+    "tags": ["martabak"]
+  },
+  {
+    "id": "6-C6LJVCKCKCAYCN",
+    "cuisine": ["martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-kaisar-kayu-putih-delivery/6-C6LJVCKCKCAYCN?",
+    "name": "MARTABAK KAISAR - Kayu Putih",
+    "tags": ["martabak", "indonesian", "snack"]
+  },
+  {
+    "id": "6-C2NGG7W3JRETRE",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-pondokrasa37-kebon-sirih-delivery/6-C2NGG7W3JRETRE?",
+    "name": "Nasi Goreng Pondokrasa37 - Kebon Sirih",
+    "tags": ["noodles", "rice"]
+  },
+  {
+    "id": "6-C2AEFAMEAEVBJ6",
+    "cuisine": ["noodles", "seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2AEFAMEAEVBJ6?",
+    "name": "Gurame Bakar Putri Ayu - Petojo Selatan",
+    "tags": ["noodles", "seafood", "rice"]
+  },
+  {
+    "id": "6-CY6BEE41MBDWL6",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/cabang-bakmi-roxy-kebon-sirih-delivery/6-CY6BEE41MBDWL6?",
+    "name": "Cabang Bakmi Roxy - Kebon Sirih",
+    "tags": ["noodles", "indonesian"]
+  },
+  {
+    "id": "6-CZM3TXATE6XTG6",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-ayam-sumiyati-gambir-delivery/6-CZM3TXATE6XTG6?",
+    "name": "Mie Ayam Sumiyati - Gambir",
+    "tags": ["noodles", "breakfast", "chicken"]
+  },
+  {
+    "id": "6-C3VJNX4XJZBTLT",
+    "cuisine": ["noodles", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/pempek-sari-sanjaya-pasar-nusantara-sarinah-delivery/6-C3VJNX4XJZBTLT?",
+    "name": "Pempek Sari Sanjaya - Pasar Nusantara Sarinah",
+    "tags": ["noodles", "snack", "rice"]
+  },
+  {
+    "id": "6-C222JE6ANE2YRJ",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/warkop-uoa-kampung-bali-delivery/6-C222JE6ANE2YRJ?",
+    "name": "Warkop Uoa - Kampung Bali",
+    "tags": ["noodles", "beverages", "breakfast"]
+  },
+  {
+    "id": "6-CYVXGJ5HLT2WTA",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/lapo-siboto-dai-senen-delivery/6-CYVXGJ5HLT2WTA?",
+    "name": "Lapo Siboto Dai - Senen",
+    "tags": ["noodles", "pork", "indonesian"]
+  },
+  {
+    "id": "6-CZKJGX22J4CET6",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/gorengan-alim-indosat-gambir-delivery/6-CZKJGX22J4CET6?",
+    "name": "Gorengan Alim Indosat - Gambir",
+    "tags": ["noodles", "snack", "bakso & soto"]
+  },
+  {
+    "id": "IDGFSTI00003inb",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/bakmi-roxy-cikini-delivery/IDGFSTI00003inb?",
+    "name": "Bakmi Roxy - Cikini",
+    "tags": ["noodles", "bakso & soto", "snack"]
+  },
+  {
+    "id": "IDGFSTI00000ccr",
+    "cuisine": ["noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/king-s-cafe-petojo-selatan-delivery/IDGFSTI00000ccr?",
+    "name": "King's Cafe - Petojo Selatan",
+    "tags": ["noodles", "international", "chicken"]
+  },
+  {
+    "id": "6-C3EHALKXG6MXSA",
+    "cuisine": ["pizza"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-head-lippo-kuningan-delivery/6-C3EHALKXG6MXSA?",
+    "name": "Pizza Head - Lippo Kuningan",
+    "tags": ["pizza", "pasta", "fast food"]
+  },
+  {
+    "id": "6-C2WGTABAPCNELN",
+    "cuisine": ["pizza"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-delicious-cempaka-putih-delivery/6-C2WGTABAPCNELN?",
+    "name": "Pizza Delicious - Cempaka Putih",
+    "tags": ["pizza", "pizza & pasta"]
+  },
+  {
+    "id": "6-CZLKA2DEEKJ1AN",
+    "cuisine": ["pizza"],
+    "link": "https://food.grab.com/id/en/restaurant/all-in-one-mangga-dua-square-lower-level-delivery/6-CZLKA2DEEKJ1AN?",
+    "name": "All In One - Mangga Dua Square Lower Level",
+    "tags": ["pizza", "international", "snack"]
+  },
+  {
+    "id": "6-C2L1R2CGA4MHAN",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/pondok-sate-pak-heri-asli-h-agus-salim-delivery/6-C2L1R2CGA4MHAN?",
+    "name": "Pondok Sate Pak Heri Asli - H Agus Salim",
+    "tags": ["satay", "chicken", "indonesian"]
+  },
+  {
+    "id": "AWhkV9REZXYdMpch2R2p",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-bang-yudi-tanah-abang-delivery/AWhkV9REZXYdMpch2R2p?",
+    "name": "Bubur Ayam Bang Yudi - Tanah Abang",
+    "tags": ["satay", "breakfast"]
+  },
+  {
+    "id": "6-CYX2J72ALA4TVE",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-spesial-mas-banu-karang-anyar-delivery/6-CYX2J72ALA4TVE?",
+    "name": "Bubur Ayam Spesial Mas Banu - Karang Anyar",
+    "tags": ["satay", "indonesian", "chicken"]
+  },
+  {
+    "id": "6-C2VKTF32TKCGR6",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kambing-kebon-sirih-1958-nasgorkam-bonsir-1958-kebon-sirih-delivery/6-C2VKTF32TKCGR6?",
+    "name": "Nasi Goreng Kambing Kebon Sirih 1958 (Nasgorkam Bonsir 1958) - Kebon Sirih",
+    "tags": ["satay", "indonesian", "chicken"]
+  },
+  {
+    "id": "6-CZLELCNBVEJFVX",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-ayam-kambing-theresia-cideng-delivery/6-CZLELCNBVEJFVX?",
+    "name": "Sate Ayam Kambing Theresia - Cideng",
+    "tags": ["satay", "halal certified", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C2VXVTJKC3BTKE",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/warung-sate-pak-imam-gunung-sahari-selatan-delivery/6-C2VXVTJKC3BTKE?",
+    "name": "Warung Sate Pak Imam - Gunung Sahari Selatan",
+    "tags": ["satay", "beef", "rice"]
+  },
+  {
+    "id": "6-C33WE2BGCNLWNT",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-taichan-kembar-kota-bambu-utara-delivery/6-C33WE2BGCNLWNT?",
+    "name": "Sate Taichan Kembar - Kota Bambu Utara",
+    "tags": ["satay", "indonesian", "rice"]
+  },
+  {
+    "id": "6-C2KTLAEEA3WYNT",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/bubur-ayam-cianjur-stasiun-cikini-pegangsaan-timur-delivery/6-C2KTLAEEA3WYNT?",
+    "name": "Bubur Ayam Cianjur Stasiun Cikini - Pegangsaan Timur",
+    "tags": ["breakfast", "chicken", "rice"]
+  },
+  {
+    "id": "6-C3AASAUKKACHA6",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-pas-kantong-kemayoran-kebon-kosong-delivery/6-C3AASAUKKACHA6?",
+    "name": "Sate Pas Kantong Kemayoran - Kebon Kosong",
+    "tags": ["satay"]
+  },
+  {
+    "id": "6-C34KL3XXUBNTAA",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/gado-gado-dan-lontong-sayur-pak-madra-e-gambir-delivery/6-C34KL3XXUBNTAA?",
+    "name": "Gado Gado Dan Lontong Sayur pak Madra.e - Gambir",
+    "tags": ["satay", "rice", "bakso & soto"]
+  },
+  {
+    "id": "6-CYV3LN4TRLN3RN",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-cut-mutia-delivery/6-CYV3LN4TRLN3RN?",
+    "name": "RM Sederhana (SA) - Cut Mutia",
+    "tags": ["padang", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2L2A33YFE3UGE",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-dan-sop-rafka-jabun-kebon-melati-delivery/6-C2L2A33YFE3UGE?",
+    "name": "Sate Dan Sop Rafka Jabun - Kebon Melati",
+    "tags": ["satay", "rice", "indonesian"]
+  },
+  {
+    "id": "6-CZMWWA33PELVC6",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/warung-sate-fauzi-bend-hilir-delivery/6-CZMWWA33PELVC6?",
+    "name": "Warung Sate Fauzi - Bend. Hilir",
+    "tags": ["satay", "indonesian", "chicken"]
+  },
+  {
+    "id": "6-C3A1WATCEFTFAX",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-dan-sop-iga-pak-imron-tanah-abang-delivery/6-C3A1WATCEFTFAX?",
+    "name": "Sate Dan Sop Iga Pak Imron - Tanah Abang",
+    "tags": ["satay", "beef", "rice"]
+  },
+  {
+    "id": "6-C3MJHEWAE7UXRX",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/gohyong-melaya-dan-sate-madura-tanah-abang-delivery/6-C3MJHEWAE7UXRX?",
+    "name": "Gohyong Melaya dan Sate Madura - Tanah Abang",
+    "tags": ["satay"]
+  },
+  {
+    "id": "6-C25DME6FANTKRN",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-apjay-cikini-delivery/6-C25DME6FANTKRN?",
+    "name": "Sate Apjay - Cikini",
+    "tags": ["satay", "rice", "indonesian"]
+  },
+  {
+    "id": "6-C36TC7N1V3WVJ2",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/soto-tangkar-daging-asap-babe-tito-menteng-delivery/6-C36TC7N1V3WVJ2?",
+    "name": "Soto Tangkar Daging Asap Babe Tito - Menteng",
+    "tags": ["satay", "indonesian", "beverages"]
+  },
+  {
+    "id": "6-C3AHLTLTRN61TE",
+    "cuisine": ["satay"],
+    "link": "https://food.grab.com/id/en/restaurant/sate-padang-sawah-besar-delivery/6-C3AHLTLTRN61TE?",
+    "name": "Sate Padang - Sawah Besar",
+    "tags": ["satay", "padang"]
+  },
+  {
+    "id": "6-C353A23HG4D2EJ",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/pecel-lele-86-kebon-kacang-delivery/6-C353A23HG4D2EJ?",
+    "name": "Pecel Lele 86 - Kebon Kacang",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "6-CZLCAPXFKB63AT",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/pecel-lele-lamongan-pak-ahmad-kartini-delivery/6-CZLCAPXFKB63AT?",
+    "name": "Pecel Lele Lamongan Pak Ahmad - Kartini",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "6-CYT2VXAXTCJHN2",
+    "cuisine": ["seafood", "snack"],
+    "link": "https://food.grab.com/id/en/restaurant/pondok-rasa-kebon-sirih-delivery/6-CYT2VXAXTCJHN2?",
+    "name": "Pondok Rasa - Kebon Sirih",
+    "tags": ["seafood", "indonesian", "chicken"]
+  },
+  {
+    "id": "6-CZLHHAT1GRMXVN",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/pawon-mak-yah-kramat-delivery/6-CZLHHAT1GRMXVN?",
+    "name": "Pawon Mak Yah - Kramat",
+    "tags": ["seafood", "rice", "chicken"]
+  },
+  {
+    "id": "6-CYWTSBTZL8CCCX",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/waroeng-pak-eddy-kebon-sirih-kebon-sirih-timur-delivery/6-CYWTSBTZL8CCCX?",
+    "name": "Waroeng Pak Eddy Kebon Sirih - Kebon Sirih Timur",
+    "tags": ["seafood", "rice", "chicken"]
+  },
+  {
+    "id": "6-C2XAL76ERTLGHE",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-sambel-ijo-bilis-kramat-delivery/6-C2XAL76ERTLGHE?",
+    "name": "Ayam Sambel Ijo Bilis - Kramat",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "6-C32EETTCGJNXG2",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-cabe-abang-ijo-ibu-ros-kebon-sirih-delivery/6-C32EETTCGJNXG2?",
+    "name": "Ayam Penyet Cabe Abang Ijo IBU ROS - Kebon Sirih",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2BUN3LYVE22VT",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-timbel-gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2BUN3LYVE22VT?",
+    "name": "Nasi Timbel & Gurame Bakar Putri Ayu - Petojo Selatan",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "IDGFSTI0000030j",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-wempy-kawasan-kuliner-bsm-delivery/IDGFSTI0000030j?",
+    "name": "Nasi Goreng Wempy - Kawasan Kuliner BSM",
+    "tags": ["seafood", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2BFWETBBCNDTN",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?",
+    "name": "Nasi Goreng Sibungsu - Kebon Sirih",
+    "tags": ["seafood", "chicken", "bakso & soto"]
+  },
+  {
+    "id": "IDGFSTI00001z6b",
+    "cuisine": ["seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/kantin-rujak-cingur-pak-hadi-kebon-sirih-delivery/IDGFSTI00001z6b?",
+    "name": "Kantin Rujak Cingur Pak Hadi - Kebon Sirih",
+    "tags": ["seafood", "rice", "chicken"]
+  },
+  {
+    "id": "IDGFSTI000006x6",
+    "cuisine": ["snack"],
+    "link": "https://food.grab.com/id/en/restaurant/cfc-stasiun-gambir-b-delivery/IDGFSTI000006x6?",
+    "name": "CFC - Stasiun Gambir B",
+    "tags": ["chicken", "fast food", "rice"]
+  },
+  {
+    "id": "6-C3KVTGMTR7W3N2",
+    "cuisine": ["snack"],
+    "link": "https://food.grab.com/id/en/restaurant/subway-menara-cakrawala-delivery/6-C3KVTGMTR7W3N2?",
+    "name": "Subway - Menara Cakrawala",
+    "tags": ["healthy", "international", "fast food"]
+  },
+  {
+    "id": "6-C6LGL6KAKCCDFE",
+    "cuisine": ["snack"],
+    "link": "https://food.grab.com/id/en/restaurant/rujak-boss-kebon-sirih-delivery/6-C6LGL6KAKCCDFE?",
+    "name": "Rujak boss - Kebon Sirih",
+    "tags": ["snack"]
+  },
+  {
+    "id": "6-CY62LKLFBFEBCA",
+    "cuisine": ["snack"],
+    "link": "https://food.grab.com/id/en/restaurant/arah-coffee-menteng-delivery/6-CY62LKLFBFEBCA?",
+    "name": "ARAH Coffee - Menteng",
+    "tags": ["coffee", "beverages", "bakery"]
+  },
+  {
+    "id": "6-C2V2A7LUA7UUEE",
+    "cuisine": ["snack"],
+    "link": "https://food.grab.com/id/en/restaurant/gado-gado-prapatan-senen-delivery/6-C2V2A7LUA7UUEE?",
+    "name": "Gado Gado Prapatan - Senen",
+    "tags": ["snack", "indonesian", "rice"]
+  },
+  {
+    "id": "6-C36VTA2VCATFA6",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/roast-pork-jack-john-babi-kriuk-thamrin-delivery/6-C36VTA2VCATFA6?",
+    "name": "Roast pork, Jack & John - Babi Kriuk, Thamrin",
+    "tags": ["pork", "rice", "specialty store"]
+  },
+  {
+    "id": "IDGFSTI000024au",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/the-halal-guys-grand-indonesia-delivery/IDGFSTI000024au?",
+    "name": "The Halal Guys - Grand Indonesia",
+    "tags": ["rice", "international"]
+  },
+  {
+    "id": "6-C2AECLNFC3CEA2",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/say-bread-premium-tomang-41-delivery/6-C2AECLNFC3CEA2?",
+    "name": "SAY BREAD PREMIUM - TOMANG 41",
+    "tags": ["breakfast", "bakery & cake", "dessert"]
+  },
+  {
+    "id": "IDGFSTI000002y2",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-marzano-grand-indonesia-delivery/IDGFSTI000002y2?",
+    "name": "Pizza Marzano - Grand Indonesia",
+    "tags": ["pizza & pasta", "fast food", "international"]
+  },
+  {
+    "id": "6-CYKUHACYCT6YEA",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/domino-s-pizza-menteng-huis-delivery/6-CYKUHACYCT6YEA?",
+    "name": "Domino's Pizza - Menteng Huis",
+    "tags": ["halal certified", "pizza & pasta", "international", "fast food"]
+  },
+  {
+    "id": "6-C3VZMGBEVJVZJE",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/shirato-by-dailybox-gajah-mada-plaza-delivery/6-C3VZMGBEVJVZJE?",
+    "name": "Shirato by Dailybox - Gajah Mada Plaza",
+    "tags": ["fast food", "healthy", "specialty store"]
+  },
+  {
+    "id": "IDGFSTI00001s5d",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-hut-juanda-delivery/IDGFSTI00001s5d?",
+    "name": "Pizza Hut - Juanda",
+    "tags": ["pizza & pasta", "international", "fast food"]
+  },
+  {
+    "id": "6-CZJVLGDWR2MFAE",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/tokyo-belly-by-ismaya-kuningan-city-delivery/6-CZJVLGDWR2MFAE?",
+    "name": "Tokyo Belly by ISMAYA - Kuningan City",
+    "tags": ["japanese", "noodles", "beef"]
+  },
+  {
+    "id": "IDGFSTI0000204k",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-hut-delivery-phd-hasyim-ashari-delivery/IDGFSTI0000204k?",
+    "name": "Pizza Hut Delivery 'PHD' - Hasyim Ashari",
+    "tags": ["pizza & pasta", "international", "fast food"]
+  },
+  {
+    "id": "6-C26WR6NAE8B1NX",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/limau-nasi-jeruk-rice-bowl-cideng-delivery/6-C26WR6NAE8B1NX?",
+    "name": "Limau - Nasi Jeruk Rice Bowl - Cideng",
+    "tags": ["beef", "chicken", "rice"]
+  },
+  {
+    "id": "6-C2MFNJNCAUAGNT",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/burger-traffic-bun-krekot-delivery/6-C2MFNJNCAUAGNT?",
+    "name": "Burger Traffic Bun - Krekot",
+    "tags": ["fast food", "international", "beef"]
+  },
+  {
+    "id": "6-C34JCFW3DFJJVA",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/mako-cake-bakery-metro-pasar-baru-delivery/6-C34JCFW3DFJJVA?",
+    "name": "MAKO Cake & Bakery - Metro Pasar Baru",
+    "tags": ["breakfast", "bakery & cake", "dessert"]
+  },
+  {
+    "id": "6-C3CGRPECJCDJBA",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/joomba-smoothies-menteng-delivery/6-C3CGRPECJCDJBA?",
+    "name": "Joomba Smoothies - Menteng",
+    "tags": ["healthy", "beverages", "dessert"]
+  },
+  {
+    "id": "6-CZAEL3WTGT5FNE",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/paul-bakery-grand-indonesia-delivery/6-CZAEL3WTGT5FNE?",
+    "name": "PAUL Bakery - Grand Indonesia",
+    "tags": ["bakery & cake", "dessert", "snack"]
+  },
+  {
+    "id": "6-C4NDARLVE3NJV6",
+    "cuisine": ["western"],
+    "link": "https://food.grab.com/id/en/restaurant/chicken-wings-by-hangry-cikini-delivery/6-C4NDARLVE3NJV6?",
+    "name": "Chicken Wings by Hangry - Cikini",
+    "tags": ["chicken", "fast food", "snack"]
+  }
 ]

@@ -1,0 +1,171 @@
+[
+  {
+    "price": "50000",
+    "name": "Sop Iga Sapi",
+    "description": "Without Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "57000",
+    "name": "Sop Daging Sapi",
+    "description": "Beef Soup + Clear Broth",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Bakar Bbq",
+    "description": "Grilled Ribs + Belim Clear Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Bakar Sambal Gongso",
+    "description": "Grilled Ribs + Belim Clear Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Bakar Sambal Kecap",
+    "description": "Without Rice (Bonus Gravy)",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Grilled Ribs With Peanut Sauce",
+    "description": "Grilled Ribs + Belim Clear Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Bakar Bumbu Sate",
+    "description": "Belomat Including Rice / Not Including Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Grilled Ribs Maranggi Seasoning",
+    "description": "Belomat Includes Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Grilled Ribs With Taichan Spices",
+    "description": "Grilled Ribs + Clear Broth",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Ribs With Peanut Sauce",
+    "description": "The Fried Ribs + Tendon Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Goreng Sambal Gongsho",
+    "description": "The Fried Ribs + Tendon Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "50000",
+    "name": "Iga Goreng Sambal Kecap",
+    "description": "The Fried Ribs + Tendon Broth Includes White Rice",
+    "section": "sop iga / iga bakar sapi ( tanpa nasi )"
+  },
+  {
+    "price": "57000",
+    "name": "10 Skewers Of Maranggi + Lemak",
+    "description": "Special Beef In + Fat (Notdk By Request Without Fat)",
+    "section": "maranggi satay (without rice)"
+  },
+  {
+    "price": "36800",
+    "name": "10 Tusuk Sate Taichan + Kulit",
+    "description": "Chicken Meat + Skin",
+    "section": "mixed chicken skin satay (without rice)"
+  },
+  {
+    "price": "36800",
+    "name": "10 Tusuk Sate Ayam Campur Kulit",
+    "description": "Chicken Meat + Skin",
+    "section": "mixed chicken skin satay (without rice)"
+  },
+  {
+    "price": "73600",
+    "name": "20 Tusuk Sate Taichan Full Daging + Sambal Gongsho",
+    "description": "Super Lean Chicken Breast Meat",
+    "section": "sate ayam full daging ( tanpa nasi )"
+  },
+  {
+    "price": "73600",
+    "name": "20 Tusuk Sate Ayam Full Daging",
+    "description": "Super Lean Chicken Breast Meat",
+    "section": "sate ayam full daging ( tanpa nasi )"
+  },
+  {
+    "price": "36800",
+    "name": "10 Tusuk Sate Taichan Full Daging + Sambal Gongsho",
+    "description": "Full Of Super Chicken Breast Meat",
+    "section": "sate ayam full daging ( tanpa nasi )"
+  },
+  {
+    "price": "36800",
+    "name": "10 Tusuk Sate Ayam Full Daging",
+    "description": "Super Lean Chicken Breast Meat",
+    "section": "sate ayam full daging ( tanpa nasi )"
+  },
+  { "price": "8625", "name": "Rice", "description": "Rice", "section": "rice" },
+  {
+    "price": "6000",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Teh Manis Hangat",
+    "description": "Hot Sweet Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Lemon Tea Hangat",
+    "description": "Warm Lemon Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Nutri Sari Jeruk Peras Hangat",
+    "description": "Warm Squeezed Orange Juice",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Lemon Tea Dingin",
+    "description": "Lemon Tea Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Cold Squeezed Orange Nutrisari",
+    "description": "Nutrisari Orange Squeezes Cold",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Peanut Brittle",
+    "description": "",
+    "section": "crackers"
+  },
+  {
+    "price": "4500",
+    "name": "Round Crackers",
+    "description": "Omelette Crackers",
+    "section": "crackers"
+  }
+]

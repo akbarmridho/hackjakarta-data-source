@@ -1,0 +1,128 @@
+[
+  {
+    "price": "24000",
+    "name": "Chicken Rubber Noodles",
+    "description": "Elastic Noodles Topped With Chicken, Scallions And Fried Dumpling Skin",
+    "section": "bakmi"
+  },
+  {
+    "price": "24000",
+    "name": "Small Chicken Noodles",
+    "description": "Small Noodles With Chicken, Scallions And Fried Dumpling Skin",
+    "section": "bakmi"
+  },
+  {
+    "price": "24000",
+    "name": "Green Chicken Noodles",
+    "description": "Green Noodles (Spinach) With Chicken, Scallions And Fried Dumpling Skin",
+    "section": "bakmi"
+  },
+  {
+    "price": "24000",
+    "name": "Bakmi Ayam Lebar",
+    "description": "Wide Noodles With Chicken, Scallions And Fried Dumpling Skin",
+    "section": "bakmi"
+  },
+  {
+    "price": "24000",
+    "name": "Flat Noodles",
+    "description": "Noodles, Chicken, Green Onions, Dumpling Chips",
+    "section": "bakmi"
+  },
+  {
+    "price": "9000",
+    "name": "Chicken Fried Meatballs",
+    "description": "Crispy Fried Meatballs, Chicken And Shrimp Meatballs",
+    "section": "bakmi"
+  },
+  {
+    "price": "24000",
+    "name": "Chicken Vermicelli",
+    "description": "Vermicelli With Chicken Meat Topping, Scallions And Fried Dumpling Skin",
+    "section": "vermicelli"
+  },
+  {
+    "price": "24000",
+    "name": "Kwetiaw",
+    "description": "Kwetiaw Topped With Chicken, Scallions And Fried Dumpling Skin",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "20000",
+    "name": "Soft Beef Meatballs (Contains 6 Pcs)",
+    "description": "Smooth Beef Meatballs",
+    "section": "meatball (beef)"
+  },
+  {
+    "price": "20000",
+    "name": "Beef Meatballs Veins (Contains 6)",
+    "description": "Beef Meatballs Vein",
+    "section": "meatball (beef)"
+  },
+  {
+    "price": "30000",
+    "name": "Mixed Beef Meatballs",
+    "description": "Vein Meatballs 2, 2 Smooth Meatballs, 1 Egg Meatball, Jumbo 1 Meatball",
+    "section": "meatball (beef)"
+  },
+  {
+    "price": "6500",
+    "name": "Cheese Beef Meatballs (Per Piece)",
+    "description": "Beef Meatballs With Cheese Filling",
+    "section": "meatball (beef)"
+  },
+  {
+    "price": "10000",
+    "name": "Large Beef Meatballs",
+    "description": "Whole Chicken Egg Wrapped In Beef",
+    "section": "meatball (beef)"
+  },
+  {
+    "price": "45000",
+    "name": "Frozen - Bakso Goreng Ayam",
+    "description": "Fried Chicken And Shrimp Meatballs Completed With Chili Sauce",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Meatballs (Contains 5 Pieces)",
+    "description": "Beef Meatballs With Cheese Filling Inside",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "50000",
+    "name": "Jumbo Egg Meatballs (Contains 5 Pcs)",
+    "description": "Whole Chicken Egg Wrapped In Beef (Contains 5 Pcs)",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "75000",
+    "name": "Beef Meatballs Veins (Contains 25)",
+    "description": "Beef Meatballs Contains 25, Completed With Meatball Sauce",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "75000",
+    "name": "Bakso Sapi Halus ( Isi 25 )",
+    "description": "Smooth Beef Meatballs Contain 25 Pcs, Completed With Meatball Sauce",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "30000",
+    "name": "Jommbang Milk Tofu - Yummy (Other Original)",
+    "description": "Cooked Package - Tofu Jombang 800 Gr (45-50 Pcs) Crispy On The Outside, Soft Inside.. It'S Different.",
+    "section": "ready to cook package"
+  },
+  {
+    "price": "23000",
+    "name": "Fresh Tebu Lemon",
+    "description": "Fresh, Original Sweet Cane, No Sugar, No Preservatives",
+    "section": "fresh\""
+  },
+  {
+    "price": "30000",
+    "name": "Coconut Jelly Pudding",
+    "description": "Whole Young Coconut Plus Coconut Pudding..It'S Really Fresh",
+    "section": "fresh\""
+  }
+]

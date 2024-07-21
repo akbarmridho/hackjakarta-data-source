@@ -1,0 +1,620 @@
+[
+  {
+    "price": "32000",
+    "name": "Package Of Rice + Kalasan Chicken + Tofu / Tempeh",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "20000",
+    "name": "Uduk Rice + Round Egg/ Egg + Balado + Vermicelli/ Noodles",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Uduk + Serundeng Chicken/ Chicken Soy Sauce + Balado + Vermicelli/ Noodles",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "30000",
+    "name": "Rice + Clear Chicken Soup",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "23000",
+    "name": "Rice + Omelet / Prayer + Sautéed Egg + Tofu / Fried Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "33000",
+    "name": "Rice + Soy Sauce / Serundeng Chicken + Sautéur/ Egg",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "35000",
+    "name": "Rice+Rendang+Vegetable+Egg",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Rice+Sweetened Chicken With Green Chili Sauce+Tempeh Iced Sweet Tea/Nutrisari",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "38000",
+    "name": "Rice+Fried Chicken Serundeng+Tempe+Sweet Iced Tea/Nutrisari",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Rice+Fried Chicken+Tempe+Sweet Ice/Nutrisari Tea",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Nasi+Ayam Bakar Kalasan+Tempe+Es Teh Manis/Nutrisari",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Rice + Chicken Geprek +Tempe + Sweet Iced Tea / Nutrisari",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "29900",
+    "name": "Rice + Fried Pomfret Fish With Matah Sambal +Tempe",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "29900",
+    "name": "Rice + Fried Pomfret Fish +Tempe",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "29900",
+    "name": "Rice+Tomato Fried Fish + Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "29900",
+    "name": "Rice + Tilapia Fish + Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "39900",
+    "name": "Rice+Fried Catfish+Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice + Grilled Chicken + Tempe",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Nasi+Ayam Goreng+Tempe",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "41000",
+    "name": "Rice + Meat Soup",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "41000",
+    "name": "Rice + Meat Soto",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice + Mackerel Fish Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Rice+Steamed Mackerel Fish+Tofu Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice + Goldfish Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "37000",
+    "name": "Rice + Goldfish + Tofu Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "33000",
+    "name": "Rice + Chicken Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "38000",
+    "name": "Rice + Chicken Pepes + Tofu Pepes",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice+Chicken Penyet Sambal Ijo+Tempe",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice + Chicken Geprek+ Matah Sambal + Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice+Kalasan Grilled Chicken + Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice+Kalasan Fried Chicken + Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice+Tomatofu Chicken Geprek+Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "32000",
+    "name": "Rice+Sundeng Fried Chicken+Tofu",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "320000",
+    "name": "10Xpackages Of Fried Chicken Rice Serundeng+Tofu/Tempeh",
+    "description": "10X Packs Of Fried Chicken Rice Serundeng + Tofu/Tempeh",
+    "section": "combo package"
+  },
+  {
+    "price": "299000",
+    "name": "10Xpackages Of Rice Pecel Lele+Tempe/Tofu",
+    "description": "10X Packs Of Catfish Rice + Tempe/Tofu",
+    "section": "combo package"
+  },
+  {
+    "price": "300000",
+    "name": "10Xpackage Of Smashed Chicken Rice",
+    "description": "10Xprek Chicken Rice",
+    "section": "combo package"
+  },
+  {
+    "price": "300000",
+    "name": "10Xpackage Of Kalasan Grilled Chicken Rice",
+    "description": "10Xpak Kalasan Grilled Chicken Rice",
+    "section": "combo package"
+  },
+  {
+    "price": "105000",
+    "name": "5Xayam Goreng",
+    "description": "5X Fried Chicken",
+    "section": "combo package"
+  },
+  {
+    "price": "120000",
+    "name": "5Xayam Bakar Kalasan",
+    "description": "5X Kalasan Grilled Chicken",
+    "section": "combo package"
+  },
+  {
+    "price": "120000",
+    "name": "5Xayam Goreng Serundeng",
+    "description": "5X Fried Chicken Serundeng",
+    "section": "combo package"
+  },
+  {
+    "price": "155000",
+    "name": "5X Rice + Kalasan Chicken + Tofu/ Tempeh",
+    "description": "For 5 People To Eat",
+    "section": "combo package"
+  },
+  {
+    "price": "155000",
+    "name": "5X Rice + 5X Smashed Chicken + Tofu/ Tempeh",
+    "description": "For 5 People To Eat",
+    "section": "combo package"
+  },
+  {
+    "price": "93000",
+    "name": "3X Rice +3X Kalasan Grilled Chicken + Tofu/ Tempeh",
+    "description": "For 3 People To Eat",
+    "section": "combo package"
+  },
+  {
+    "price": "93000",
+    "name": "3X Rice+3X Chicken Geprek+Tofu/Items",
+    "description": "For 3 People",
+    "section": "combo package"
+  },
+  {
+    "price": "8000",
+    "name": "Mackerel Fish Crackers",
+    "description": "Mackerel Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "3500",
+    "name": "Extra Sambal Ijo",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "3500",
+    "name": "Extra Sambal Gepuk",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "3500",
+    "name": "Extra Sambal Geprek",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "4000",
+    "name": "Shrimp Crackers",
+    "description": "Shrimp Crackers",
+    "section": "unit menu"
+  },
+  {
+    "price": "3000",
+    "name": "Extra Sambal Goreng",
+    "description": "Extra Fried Chili Sambal",
+    "section": "unit menu"
+  },
+  {
+    "price": "3000",
+    "name": "Chocolate Crackers",
+    "description": "Chocolate Crackers",
+    "section": "unit menu"
+  },
+  {
+    "price": "21000",
+    "name": "Nila Goreng Sambal Matah",
+    "description": "Fried Matah Sambal",
+    "section": "unit menu"
+  },
+  {
+    "price": "21000",
+    "name": "Tilapia Fried Fish",
+    "description": "Tilapia Fried Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "33000",
+    "name": "Soto Daging Bening",
+    "description": "Clear Beef Soup",
+    "section": "unit menu"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Soto",
+    "description": "Soto Meat",
+    "section": "unit menu"
+  },
+  {
+    "price": "33000",
+    "name": "Sop Daging",
+    "description": "Beef Soup",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Soto Ayam Bening",
+    "description": "Clear Chicken Soto",
+    "section": "unit menu"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "Fried Tempeh",
+    "section": "unit menu"
+  },
+  {
+    "price": "17500",
+    "name": "Kentang Kriuk",
+    "description": "Crunchy Potatoes",
+    "section": "unit menu"
+  },
+  {
+    "price": "22000",
+    "name": "Fried Fish Nilla Sambal Matah",
+    "description": "Matah Sambal Fried Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Fried Chicken Penyet Sambal Matah",
+    "description": "Matah Smashed Sambal Fried Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Goreng Kalasan",
+    "description": "Kalasan Fried Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Chicken Penyet Green Sambal",
+    "description": "Green Smashed Sambal Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Serundeng Kalasan",
+    "description": "Kalasan Serundeng Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Gepuk",
+    "description": "Fried Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "8900",
+    "name": "Tofu Pepes",
+    "description": "Tofu Pepes",
+    "section": "unit menu"
+  },
+  {
+    "price": "22500",
+    "name": "Goldfish Pepes",
+    "description": "Pepes Mas Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "9000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "unit menu"
+  },
+  {
+    "price": "3000",
+    "name": "Tofu",
+    "description": "Tofu",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Bakar Kalasan",
+    "description": "Kalasan Grilled Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Salted Egg",
+    "description": "Telor Asin",
+    "section": "unit menu"
+  },
+  {
+    "price": "19900",
+    "name": "Fried Pomfret Fish",
+    "description": "Fried Pomfret Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "19900",
+    "name": "Ikan Lele Goreng",
+    "description": "Fried Catfish",
+    "section": "unit menu"
+  },
+  {
+    "price": "19900",
+    "name": "Fried Mackerel Fish",
+    "description": "Fried Kembung Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "23900",
+    "name": "Pepes Ayam",
+    "description": "Chicken Pepes",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Goreng Serundeng",
+    "description": "Fried Chicken Serundeng",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Goreng Geprek",
+    "description": "Smashed Fried Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Bakar",
+    "description": "Grilled Chicken",
+    "section": "unit menu"
+  },
+  {
+    "price": "22500",
+    "name": "Indonesian Fish Dish Made By Spiced Rastrelliger Steamed In Wrapped Banana Leaf",
+    "description": "Seasoned Pepes",
+    "section": "unit menu"
+  },
+  {
+    "price": "19900",
+    "name": "Fried Mujaer Fish",
+    "description": "Fried Mujaer Fish",
+    "section": "unit menu"
+  },
+  {
+    "price": "5000",
+    "name": "Potato Cakes",
+    "description": "",
+    "section": "unit menu"
+  },
+  {
+    "price": "7000",
+    "name": "Emping",
+    "description": "Chips",
+    "section": "unit menu"
+  },
+  {
+    "price": "15500",
+    "name": "Atiampela Goreng",
+    "description": "Fried Liver",
+    "section": "unit menu"
+  },
+  {
+    "price": "33000",
+    "name": "Grilled Duck",
+    "description": "Grilled Duck",
+    "section": "unit menu"
+  },
+  {
+    "price": "33000",
+    "name": "Fried Duck",
+    "description": "Fried Duck",
+    "section": "unit menu"
+  },
+  {
+    "price": "8000",
+    "name": "Le Minerale Medium Size",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Large Le Minerale",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9500",
+    "name": "S-Tee With Ice",
+    "description": "S-Tee With Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "9500",
+    "name": "Bottled Iced Tea",
+    "description": "Es Teh Botol",
+    "section": "minuman"
+  },
+  {
+    "price": "9500",
+    "name": "S-Tee",
+    "description": "S-Tee",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Teh Botol",
+    "description": "Bottled Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Kopi Capucino",
+    "description": "Capucino Ice Coffee",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Big Aqua",
+    "description": "Big Aqua",
+    "section": "minuman"
+  },
+  {
+    "price": "8500",
+    "name": "Cold Aqua",
+    "description": "Cold Aqua",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Various Black Coffee Coffee Milk",
+    "description": "Assorted Black Coffee Milk Coffee",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Nutrisari",
+    "description": "Nutrisari",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "Hot Sweet Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Teh Tawar Panas",
+    "description": "Hot Plain Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "Plain Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "13500",
+    "name": "Es Jeruk",
+    "description": "Orange Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "8500",
+    "name": "Teh Pucuk",
+    "description": "Pucuk Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Aqua",
+    "description": "Aqua",
+    "section": "minuman"
+  }
+]

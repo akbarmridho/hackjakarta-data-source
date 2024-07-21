@@ -1,0 +1,448 @@
+[
+  {
+    "price": "36364",
+    "name": "Snacking Package For Two",
+    "description": "Iced American + Iced Cheese Espresso + Chocolate Fried Bread + Chocolate Cheese Polo Chocolate",
+    "section": "today's offer"
+  },
+  {
+    "price": "13636",
+    "name": "Es Kopi Susu",
+    "description": "Ice Coffee Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Paket Nyemil Sendiri",
+    "description": "Choco Cheese Machiato + Chocolate Jadoel Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "13636",
+    "name": "Es Kopi Susu",
+    "description": "Ice Coffee Milk",
+    "section": "promo milk coffee"
+  },
+  {
+    "price": "36364",
+    "name": "Snacking Package For Two",
+    "description": "Iced American + Iced Cheese Espresso + Chocolate Fried Bread + Chocolate Cheese Polo Chocolate",
+    "section": "paket nyemil"
+  },
+  {
+    "price": "20000",
+    "name": "Paket Nyemil Sendiri",
+    "description": "Choco Cheese Machiato + Chocolate Jadoel Cheese",
+    "section": "paket nyemil"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Americano",
+    "description": "Combination Of Extra Coffee With Mineral Water",
+    "section": "iced coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Café Latte",
+    "description": "Combination Of Extra Coffee With Milk",
+    "section": "iced coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Cappucino",
+    "description": "Combination Of Extra Coffee With Milk",
+    "section": "iced coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Palm Sugar Latte",
+    "description": "Combination Of Extra Coffee With Milk Palm Sugar",
+    "section": "iced coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Klepon Coffee Iced",
+    "description": "A Combination Of Extra Coffee With Milk Combined With Syrupt Pandan",
+    "section": "iced coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Cheese Espresso",
+    "description": "A Combination Of Extra Coffee With Milk Combined With Flavour Cheese",
+    "section": "iced coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Kopi Djadoel",
+    "description": "Combination Of Extra Coffee With Milk Palm Sugar",
+    "section": "iced coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Salted Caramel Latte",
+    "description": "The Combination Of Iced Coffee Milk With Sweet Savory Syrup Salted Caramel",
+    "section": "iced coffee"
+  },
+  {
+    "price": "5455",
+    "name": "Hot Tea",
+    "description": "Hot Sweet Tea That Relaxs Your Day",
+    "section": "hot tea"
+  },
+  {
+    "price": "7273",
+    "name": "Es Teh",
+    "description": "Sweet Ice Tea That Can Refresh Your Day",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Chocolate Hazelnut Forestly",
+    "description": "Combination Of Iced Chocolate With Hazelnut Peanut Flavor",
+    "section": "iced non coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Choco Vanila Forestly",
+    "description": "Combination Of Iced Chocolate With Flavor Vanilla Aroma",
+    "section": "iced non coffee"
+  },
+  {
+    "price": "21818",
+    "name": "Iced Greentea Latte Forestly",
+    "description": "Combination Of Iced Greentea Combined With Milk",
+    "section": "iced non coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Mocha Latte",
+    "description": "Combination Of Iced Coffee, Milk And Chocolate Flavor That Produces A Unique Taste",
+    "section": "iced non coffee"
+  },
+  {
+    "price": "11818",
+    "name": "Hot Espresso",
+    "description": "Results Of Extra Coffee, Produce A Nutritious Of Good Coffee",
+    "section": "hot coffee"
+  },
+  {
+    "price": "11818",
+    "name": "Hot Americano",
+    "description": "Combination Of Extra Coffee With Mineral Water",
+    "section": "hot coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Café Latte",
+    "description": "Combination Of Extra Coffee With Milk",
+    "section": "hot coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Cappucino",
+    "description": "Combination Of Extra Coffee With A Thick Layer Of Foam",
+    "section": "hot coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Palm Sugar Latte",
+    "description": "Combination Of Extra Coffee With Milk Palm Sugar",
+    "section": "hot coffee"
+  },
+  {
+    "price": "14545",
+    "name": "Hot Hazelnut Latte",
+    "description": "A Blend Of Milk Coffee With Sweet Syrup Hazelnut",
+    "section": "hot coffee"
+  },
+  {
+    "price": "14545",
+    "name": "Hot Salted Caramel Latte",
+    "description": "A Combination Of Milk Coffee With Sweet Savory Syrup Salted Caramel",
+    "section": "hot coffee"
+  },
+  { "price": "14091", "name": "Odeng", "description": "", "section": "food" },
+  { "price": "11818", "name": "Udon", "description": "", "section": "food" },
+  {
+    "price": "10909",
+    "name": "Cheese Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10000",
+    "name": "Sausage Roll",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10909",
+    "name": "Smoked Chicken Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10909",
+    "name": "Chicken Blackpepper Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10909",
+    "name": "Baso Cumi",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10909",
+    "name": "Spicy Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "9091",
+    "name": "Salmon Fish Cake",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "9091",
+    "name": "Cheese Dumpling",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "9091",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8182",
+    "name": "Satsumage",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8182",
+    "name": "Shrimp Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8182",
+    "name": "Siomay Rolled",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8182",
+    "name": "Jumbo Chikuwa",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "5455",
+    "name": "Fish Meatball Tofu",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "5455",
+    "name": "Lobster Ball",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "5455",
+    "name": "Fish Stick",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "10909",
+    "name": "Sosis Bakar Bratwurst",
+    "description": "Grilled Sausage With Smokey Aroma That Appetizes Flavor",
+    "section": "food"
+  },
+  {
+    "price": "11818",
+    "name": "Grilled Cheese Sausage",
+    "description": "Original Grilled Sausage With Cheese Slices Inside",
+    "section": "food"
+  },
+  {
+    "price": "11818",
+    "name": "Sosis Bakar Lada Hitam",
+    "description": "Grilled Sausage With Abundant Black Pepper Taste",
+    "section": "food"
+  },
+  {
+    "price": "31818",
+    "name": "Jolly Time The Big Cheez",
+    "description": "Corn Brondong (Popcorn) With Cheddar Salty Taste",
+    "section": "food"
+  },
+  {
+    "price": "31818",
+    "name": "Jolly Time Blasto O Butter",
+    "description": "Corn Brondong (Popcorn) With Salted And Savory Butter Seasoning",
+    "section": "food"
+  },
+  {
+    "price": "31818",
+    "name": "Jolly Time Fun Mania",
+    "description": "Corn Brondong (Popcorn) With A Delicious Sweet And Salty Taste",
+    "section": "food"
+  },
+  {
+    "price": "10000",
+    "name": "Polo Chocolate",
+    "description": "Soft Bread Filled With Chocolate Cream And Special Crispy Toppings Of Polo",
+    "section": "bakery"
+  },
+  {
+    "price": "10000",
+    "name": "Bread Sausage Pizza",
+    "description": "Bread With Sausage Topping Combined With Tomato Sauce And Mayonnaise Makes This Bread Savory And Delicious",
+    "section": "bakery"
+  },
+  {
+    "price": "10000",
+    "name": "Bread Pisang Coklat",
+    "description": "Soft Bread Filled With Banana And Chocolate Filling With Crispy Texture On Top",
+    "section": "bakery"
+  },
+  {
+    "price": "10909",
+    "name": "Choco Cheese Bun",
+    "description": "Soft Bread Filled With Chocolate In And Cheese On Top",
+    "section": "bakery"
+  },
+  {
+    "price": "8182",
+    "name": "Old School Cheese Chocolate Bread",
+    "description": "Traditional Soft Bread With Chocolate Cheese Filling",
+    "section": "bakery"
+  },
+  {
+    "price": "11818",
+    "name": "Sweet Corn Puff",
+    "description": "Crispy Puff Pastry With Sweet Corn Filling Inside",
+    "section": "bakery"
+  },
+  {
+    "price": "11818",
+    "name": "Chicken Rendang Puff",
+    "description": "Crispy Puff Pastry Filled With Minced Chicken With Rendang Seasoning",
+    "section": "bakery"
+  },
+  {
+    "price": "11818",
+    "name": "Sausage Puff",
+    "description": "Crispy Pastry Filled With Savory Sausage",
+    "section": "bakery"
+  },
+  {
+    "price": "10909",
+    "name": "Garlic Bread",
+    "description": "Crispy Bread With Garlic Flavor",
+    "section": "bakery"
+  },
+  {
+    "price": "12727",
+    "name": "Cheese Roll Chocolate",
+    "description": "Bread Coated With Crispy Texture And Chocolate Cheese Filling",
+    "section": "bakery"
+  },
+  {
+    "price": "12727",
+    "name": "Cheese Roll Vanila",
+    "description": "Bread Coated With Crispy Texture And Vanilla Flavored Cheese Filling",
+    "section": "bakery"
+  },
+  {
+    "price": "9091",
+    "name": "Chocolate Long John",
+    "description": "Soft Fried Bread With Mocca Cream And Sprinkles On Top",
+    "section": "bakery"
+  },
+  {
+    "price": "9091",
+    "name": "Roti Goreng Sosis",
+    "description": "Soft Bread Inside And Crispy On The Outside With A Sausage Taste",
+    "section": "bakery"
+  },
+  {
+    "price": "8182",
+    "name": "Chocolate Cheese Fried Bread",
+    "description": "Soft Bread Inside And Crunchy Bits In The Outside With Chocolate Cheese Flavor",
+    "section": "bakery"
+  },
+  {
+    "price": "10909",
+    "name": "Roti Abon",
+    "description": "Soft Bread Filled With Mayonnaise And Shredded Beef Topped With Scallions And Chilies On Top",
+    "section": "bakery"
+  },
+  {
+    "price": "20909",
+    "name": "Iced Kitkat Cheesepresso",
+    "description": "A Blend Of Coffee With Creamy Cheese Flavor Combined With Kitkat Topping",
+    "section": "beanspot x kitkat"
+  },
+  {
+    "price": "20909",
+    "name": "Iced Kitkat Choco Macchiato",
+    "description": "A Blend Of Chocolate And Macchiato Cheese Foam With Crumble Kitkat",
+    "section": "beanspot x kitkat"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Choco Hazelnut Forestly",
+    "description": "Combination Of Chocolate With Hazelnut Peanut Flavor",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Choco Vanila Forestly",
+    "description": "Combination Of Chocolate With Flavor Vanilla Aroma",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "21818",
+    "name": "Hot Greentea Latte Forestly",
+    "description": "Greentea Combination Combined With Milk",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Hot Mocha Latte",
+    "description": "A Blend Of Coffee Flavors, Milk And Chocolate That Produces A Unique Taste",
+    "section": "hot non coffee"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Hazelnut Latte",
+    "description": "A Blend Of Iced Coffee Milk With Sweet Syrup Hazelnut",
+    "section": "holiday series"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Gingerbread Latte",
+    "description": "A Blend Of Milk Coffee With Masis Syrup With Abundant Aroma",
+    "section": "holiday series"
+  },
+  {
+    "price": "15455",
+    "name": "Choco Cheese Macchiato",
+    "description": "A Blend Of Dark Chocolate Combined With Cheese Foam",
+    "section": "valentine's series"
+  },
+  {
+    "price": "15455",
+    "name": "Lady Pink",
+    "description": "A Blend Of Frambosen Flavors Combined With Cheese Foam",
+    "section": "valentine's series"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "price": "20000",
+    "name": "Special Egg Chicken Porridge",
+    "description": "Plus Boiled Eggs",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "17000",
+    "name": "Special Dumpling Chicken Porridge",
+    "description": "Special Chicken Porridge Plus Dumplings. Delicious Savory White Porridge",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "20000",
+    "name": "Special Egg Chicken Porridge",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "20000",
+    "name": "Special Egg Chicken Porridge, Sausage",
+    "description": "Plus Eggs And Sausage",
+    "section": "porridge"
+  },
+  {
+    "price": "7000",
+    "name": "White Porridge (Plain)",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "19000",
+    "name": "Village Egg Special Chicken Porridge",
+    "description": "Special Chicken Porridge Plus Village Eggs",
+    "section": "porridge"
+  },
+  {
+    "price": "19000",
+    "name": "Beef Floss Special Chicken Porridge",
+    "description": "Special Chicken Porridge Sprinkled With Shredded Beef Plus Deliciousbeda",
+    "section": "porridge"
+  },
+  {
+    "price": "19000",
+    "name": "Salted Egg Special Chicken Porridge",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "18000",
+    "name": "Special Tongcay Chicken Porridge / Caypo",
+    "description": "Plus Extra Caypo/ Tongcay",
+    "section": "porridge"
+  },
+  {
+    "price": "25000",
+    "name": "Caipo Tongcai Special Chicken Porridge + Village Chicken Eggs",
+    "description": "Chicken Porridge Added With Tongcai Caipo And Free-Range Chicken Eggs",
+    "section": "porridge"
+  },
+  {
+    "price": "27000",
+    "name": "Complete Special Chicken Porridge",
+    "description": "Plus Chicken Eggs, Sausage, Dumplings",
+    "section": "porridge"
+  },
+  {
+    "price": "19000",
+    "name": "Beef Floss Special Chicken Porridge",
+    "description": "A Sprinkling Of Beef",
+    "section": "porridge"
+  },
+  {
+    "price": "25000",
+    "name": "Bubur Ayam Spesial (Caipo Tongcai+Abon)",
+    "description": "Chicken Porridge Added With Tongcai And Shredded Beef",
+    "section": "porridge"
+  },
+  {
+    "price": "20000",
+    "name": "Beef Floss Special Chicken Porridge",
+    "description": "Plus A Sprinkling Of Beef",
+    "section": "porridge"
+  },
+  {
+    "price": "26000",
+    "name": "Complete Special Chicken Porridge",
+    "description": "Eggs, Dumplings, Sausages",
+    "section": "porridge"
+  },
+  {
+    "price": "16000",
+    "name": "Special Chicken Porridge With Tong Cay / Cay Po",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "27000",
+    "name": "Special Chicken Porridge (Egg+Abon+Dumplings)",
+    "description": "Chicken Porridge Added With Boiled Eggs, Shredded And Dumplings",
+    "section": "porridge"
+  },
+  {
+    "price": "17000",
+    "name": "Special Dumpling Chicken Porridge",
+    "description": "Plus Balado Dumplings",
+    "section": "porridge"
+  },
+  {
+    "price": "21000",
+    "name": "Salted Egg Special Chicken Porridge",
+    "description": "Plus Telor Asin",
+    "section": "porridge"
+  },
+  {
+    "price": "15000",
+    "name": "Bubur Ayam Spesial Original",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "27000",
+    "name": "Complete Special Chicken Porridge",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "19000",
+    "name": "Special Egg Chicken Porridge",
+    "description": "Plus Chicken Eggs",
+    "section": "porridge"
+  },
+  {
+    "price": "16000",
+    "name": "Bubur Ayam Special Sosis",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "16000",
+    "name": "Special Chicken Cheese Porridge",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "20000",
+    "name": "Special Egg Chicken Porridge + Dumplings",
+    "description": "",
+    "section": "porridge"
+  },
+  {
+    "price": "6000",
+    "name": "Village Egg",
+    "description": "Boiled",
+    "section": "sate"
+  },
+  {
+    "price": "6000",
+    "name": "Telor Ayam Rebus",
+    "description": "Suitable For A Mixture Of Chicken Porridge",
+    "section": "sate"
+  },
+  {
+    "price": "7000",
+    "name": "Salted Egg",
+    "description": "The Salty Taste Is Perfect For Side Dishes Of Chicken Porridge",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Chicken Liver Satay",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Sate Ampela",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Quail Egg Satay",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Sate Usus",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Sate Kulit",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Manis Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Air Mineral Botol Aqua",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "100000",
+    "name": "Super Special Chicken Porridge. Order Minimum 4 Portions",
+    "description": "Porridge + Cheese = Separate Topping (Ada. Crackers, Chips, Cakwe, Scallions, Peanuts, Shredded Chicken, Fried Onions)",
+    "section": "#ready to cook package"
+  }
+]

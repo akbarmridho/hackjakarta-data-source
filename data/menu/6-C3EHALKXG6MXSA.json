@@ -1,0 +1,206 @@
+[
+  {
+    "price": "150000",
+    "name": "Regular Cheese",
+    "description": "Regular Size Pizza (8 Slices)",
+    "section": "regular sized pizza"
+  },
+  {
+    "price": "160000",
+    "name": "Regular Pepperoni",
+    "description": "Regular Size Pepperoni Pizza (8 Slices)",
+    "section": "regular sized pizza"
+  },
+  {
+    "price": "180000",
+    "name": "Regular Meat Head",
+    "description": "Regular Size Meat Head Pizza (8 Slices)",
+    "section": "regular sized pizza"
+  },
+  {
+    "price": "180000",
+    "name": "Regular Hot Head",
+    "description": "Regular Size Hot Head Pizza (8 Slices)",
+    "section": "regular sized pizza"
+  },
+  {
+    "price": "115000",
+    "name": "Big Deal",
+    "description": "2 Cheese Slice + 2 Pepperoni/Mushroom Slice",
+    "section": "package"
+  },
+  {
+    "price": "60000",
+    "name": "Duo Ph",
+    "description": "1 Cheese Slice + 1 Pepperoni/ Mushroom Slice",
+    "section": "package"
+  },
+  {
+    "price": "99000",
+    "name": "Tri Head",
+    "description": "1 Cheese Slice + 2 Pepperoni/Mushroom Slice",
+    "section": "package"
+  },
+  {
+    "price": "288000",
+    "name": "Cheese Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Marinara Sauce And Melted Mozarella Cheese",
+    "section": "big newyorker"
+  },
+  {
+    "price": "336000",
+    "name": "Mushroom Head Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Cream Sauce, Brown Mushroom, Red Onion, And Springkle Oregano",
+    "section": "big newyorker"
+  },
+  {
+    "price": "336000",
+    "name": "Pepperoni Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Marinara Sauce, Beef Pepperoni, And Cheese",
+    "section": "big newyorker"
+  },
+  {
+    "price": "360000",
+    "name": "Halfhalf",
+    "description": "Choose 2 Flavours For Your Whole Pan Pizza",
+    "section": "big newyorker"
+  },
+  {
+    "price": "360000",
+    "name": "Quatro",
+    "description": "Choose 4 Flavours For Your Whole Pan Pizza",
+    "section": "big newyorker"
+  },
+  {
+    "price": "280000",
+    "name": "Pizza Sambal Ijo ( Whole Pan )",
+    "description": "Green Sambal",
+    "section": "big newyorker"
+  },
+  {
+    "price": "280000",
+    "name": "Pizza Sambal Matah (Wholepan)",
+    "description": "Matah Sambal",
+    "section": "big newyorker"
+  },
+  {
+    "price": "360000",
+    "name": "Hot Head Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Chicken Chorizo Sausage, Jalapeno, And Melted Mozarella Cheese",
+    "section": "big newyorker"
+  },
+  {
+    "price": "360000",
+    "name": "Meat Head Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Marinara Sauce, Brown Mushroom, Beef Bacon, Beef Pepperoni, And Red Onion",
+    "section": "big newyorker"
+  },
+  {
+    "price": "360000",
+    "name": "Bbq Chicken Big",
+    "description": "58 Cm Ny Style Whole Pan Pizza With Chunky Chicken Marinated In Bbq Sauce And Red Onion",
+    "section": "big newyorker"
+  },
+  {
+    "price": "38500",
+    "name": "Cheese Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Marinara Sauce And Melted Mozzarella Cheese",
+    "section": "slice"
+  },
+  {
+    "price": "44000",
+    "name": "Mushroom Head Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Cream Sauce, Brown Mushroom, Red Onion, And Springkle Oregano",
+    "section": "slice"
+  },
+  {
+    "price": "44000",
+    "name": "Pepperoni Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Marinara Sauce, Beef Pepperoni, And Cheese",
+    "section": "slice"
+  },
+  {
+    "price": "49500",
+    "name": "Meat Head Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Marinara Sauce, Brown Mushroom, Beef Bacon, Beef Pepperoni, And Red Onion",
+    "section": "slice"
+  },
+  {
+    "price": "45000",
+    "name": "Pizza Sambal Matah Slice",
+    "description": "Matah Sambal",
+    "section": "slice"
+  },
+  {
+    "price": "45000",
+    "name": "Pizza Sambal Ijo Slice",
+    "description": "Green Sambal",
+    "section": "slice"
+  },
+  {
+    "price": "49500",
+    "name": "Hot Head Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Chicken Chorizo Sausage, Jalapan, And Melted Mozzarella Cheese",
+    "section": "slice"
+  },
+  {
+    "price": "49500",
+    "name": "Bbq Chicken Slice",
+    "description": "30 Cm Ny Style Sliced Pizza With Chunky Chicken Marinated In Bbq Sauce And Red Onion",
+    "section": "slice"
+  },
+  {
+    "price": "10000",
+    "name": "Mineral Water",
+    "description": "330Ml",
+    "section": "drink"
+  },
+  {
+    "price": "360000",
+    "name": "Spicy Beef Gochujang",
+    "description": "58 Cm Ny Style Slice Pizza With Gochujang Sauce, Beef Bacon, Onion, And Mozzarella Cheese",
+    "section": "korean series wholepan"
+  },
+  {
+    "price": "360000",
+    "name": "Korean Veggie Lover",
+    "description": "58 Cm Ny Style Sliced Pizza With Marinara Sauce, Mushroom, Onion, Red, Yellow, And Green Bell Pepper",
+    "section": "korean series wholepan"
+  },
+  {
+    "price": "360000",
+    "name": "Korean Bulgogi Beef",
+    "description": "58 Cm Ny Style Sliced Pizza With Cream Sauce, Beef Bacon, Bulgogi Sauce, Mozzarella Cheese, Onion, And Bon Nori",
+    "section": "korean series wholepan"
+  },
+  {
+    "price": "360000",
+    "name": "Korean Bbq Beef",
+    "description": "58 Cm Ny Style Sliced Pizza With Bbq Sauce, Beef Bacon, Mozzarella Cheese, Onion, And Oregano",
+    "section": "korean series wholepan"
+  },
+  {
+    "price": "49500",
+    "name": "Spicy Beef Gochujang",
+    "description": "30 Cm Ny Style Slice Pizza With Gochujang Sauce, Beef Bacon, Onion, And Mozzarella Cheese",
+    "section": "korean series slice"
+  },
+  {
+    "price": "49500",
+    "name": "Veggie Lover",
+    "description": "30 Cm Ny Style Sliced Pizza With Marinara Sauce, Mushroom, Onion, Red, Yellow, And Green Bell Pepper",
+    "section": "korean series slice"
+  },
+  {
+    "price": "49500",
+    "name": "Korean Bulgogi Beef",
+    "description": "30 Cm Ny Style Sliced Pizza With Cream Sauce, Beef Bacon, Bulgogi Sauce, Mozzarella Cheese, Onion, And Bon Nori",
+    "section": "korean series slice"
+  },
+  {
+    "price": "49500",
+    "name": "Korean Bbq Beef",
+    "description": "30 Cm Ny Style Sliced Pizza With Bbq Sauce, Beef Bacon, Mozzarella Cheese, Onion, And Oregano",
+    "section": "korean series slice"
+  }
+]

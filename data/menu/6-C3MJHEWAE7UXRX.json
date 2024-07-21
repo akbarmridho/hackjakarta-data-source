@@ -1,0 +1,117 @@
+[
+  {
+    "price": "33000",
+    "name": "Kuluyuk",
+    "description": "Kuluyuk Chicken",
+    "section": "special menu"
+  },
+  {
+    "price": "33000",
+    "name": "Fuyunghai",
+    "description": "Delicious Gravy Fried Fuyunghai",
+    "section": "special menu"
+  },
+  {
+    "price": "33000",
+    "name": "Gohyong",
+    "description": "Gohyong With Delicious Gravy",
+    "section": "special menu"
+  },
+  {
+    "price": "33000",
+    "name": "Melaya",
+    "description": "Fried Jasmine With Delicious Gravy",
+    "section": "special menu"
+  },
+  {
+    "price": "33500",
+    "name": "Thaican Satay With Lontong",
+    "description": "One Portion Of Thai Satay With Special Sambal And Lontong",
+    "section": "special menu"
+  },
+  {
+    "price": "33500",
+    "name": "Chicken Satay With Lotong",
+    "description": "One Portion Of Chicken Satay With Peanut Sauce And Lontong",
+    "section": "special menu"
+  },
+  {
+    "price": "28000",
+    "name": "Tektek Fried Noodles",
+    "description": "Tektek Fried Noodles With Many Mixed Condiments",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Crazy Fried Rice",
+    "description": "Crazy Fried Rice",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Crazy Rice",
+    "description": "Rice With Egg Sausage Etc",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Noodle Soup",
+    "description": "Delicious Noodles",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Vermicelli Soup",
+    "description": "Tektea Kuah Gravy",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Fried Capcay Or Gravy",
+    "description": "Delicious Capcay",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Goreng",
+    "description": "Delicious Fried Vermicelli",
+    "section": "food"
+  },
+  {
+    "price": "27000",
+    "name": "Fried Rice",
+    "description": "Delicious Fried Rice",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Nasi Goreng Hongkong",
+    "description": "Delicious White Fried Rice",
+    "section": "food"
+  },
+  {
+    "price": "28500",
+    "name": "One Portion Of Satay Skin",
+    "description": "10 Chicken Skin Skewers With Peanut Sauce",
+    "section": "food"
+  },
+  {
+    "price": "28500",
+    "name": "One Portion Of Taichan Satay",
+    "description": "10 Taichan Skewers With Special And Spicy Sambal",
+    "section": "food"
+  },
+  {
+    "price": "28500",
+    "name": "Sate Ayam 1 Porsi",
+    "description": "10 Chicken Satays With Peanut Sauce",
+    "section": "food"
+  },
+  { "price": "8000", "name": "Rice", "description": "", "section": "kondimen" },
+  {
+    "price": "5000",
+    "name": "Lontong",
+    "description": "",
+    "section": "kondimen"
+  }
+]

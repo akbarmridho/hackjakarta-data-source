@@ -1,0 +1,164 @@
+[
+  {
+    "price": "5000",
+    "name": "Le Minerale",
+    "description": "Mineral Water",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Aqua 600Ml",
+    "description": "Mineral Water",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Fanta",
+    "description": "Soda",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Coca Cola",
+    "description": "Soda",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Line Soda",
+    "description": "Soda",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sprite",
+    "description": "soda",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Bonteh",
+    "description": "Tea, Sugar",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Kopi Kenangan",
+    "description": "Coffee, Sugar",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pucuk",
+    "description": "Tea, Sugar",
+    "section": "minuman"
+  },
+  {
+    "price": "27000",
+    "name": "Mentai Dimsum Contains 5 Pcs",
+    "description": "Chicken, Mushrooms, Beef, Cheese",
+    "section": "food"
+  },
+  {
+    "price": "6500",
+    "name": "Martabak Telor Ayam",
+    "description": "Chicken Eggs, Spring Roll Skin, Sausage, Green Onions",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Mix Dimsum Contains 5",
+    "description": "Dumpling Skin, Chicken, Vegetables, Cheese, Sausage",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Dimsum Sausage 5 Pieces 22500",
+    "description": "Sausage, Dumpling Chicken Skin",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Dimsum Mushrooms Contains 5 22500",
+    "description": "Dimsum + Mushroom",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Cheese Dimsum Contains 5 22500",
+    "description": "Cheese, Chicken, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Carrot Dimsum Contains 5 24000",
+    "description": "Filled With Carrots, Chicken Meat",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Siomay, Shrimp, Trendy 3 Pieces",
+    "description": "Chicken Meat, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Dimsum Campur Wortel, Keju, Sosis",
+    "description": "Chicken Meat, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Mixed Mushroom Dimsum, Siomay, Dumplings 3 Pieces",
+    "description": "Chicken Meat, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Dimsum Kekian 1 Piece 4500",
+    "description": "Dumpling Skin, Chicken, Vegetables",
+    "section": "food"
+  },
+  {
+    "price": "4000",
+    "name": "Siomay 1 Piece 4000",
+    "description": "Chicken",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Dimsum Carrot 1 Piece 4500",
+    "description": "Carrots, Chicken, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Dimsum Cheese 1 Piece 4500",
+    "description": "Cheese, Dumpling Skin, Chicken",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Dimsum Sausage 1 Seed 4500",
+    "description": "Sausage, Dumpling Skin, Chicken",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Mushroom Dimsum 1 Seed 4500",
+    "description": "Chicken Meat, Dumpling Skin",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Shrimp Dimsum Contains 5 22.00",
+    "description": "Dimsum + Shrimp",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Shrimp Dimsum 1 Piece 4500",
+    "description": "Shrimp, Chicken, Dumpling Skin",
+    "section": "food"
+  }
+]

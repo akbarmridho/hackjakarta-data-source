@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "37800",
+    "name": "Brown Makassar Seafood Fried Rice",
+    "description": "Eggs + Fishcake + Crystal Shrimp + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "21000",
+    "name": "Egg Legend Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "24500",
+    "name": "Legend Double Egg Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Double Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Legend Meatball Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + A Variety Of Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Nasi Goreng Legend Sosis",
+    "description": "Delicious Fragrant Fried Rice + Egg + Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Legend Chicken Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Legend Fried Rice With Salted Fish And Jambal Roti",
+    "description": "Delicious Fried Rice + Egg + Jambal Roti Salted Fish",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Green Chili Jambal Fried Rice",
+    "description": "Delicious Fried Rice With Jambal Bread And Green Chili (Spicy Spicy)",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Green Chili Chicken Fried Rice",
+    "description": "Delicious Fried Rice With Chicken And Green Chili (Spicy Spicy)",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Makassar Red Fried Rice",
+    "description": "Delicious Fried Rice With Chicken And Beef Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Village Fried Rice",
+    "description": "Traditional Fried Rice With Sweet Soy Sauce + Egg + Mustard Greens + Cabbage + A Variety Of Meatballs + Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Goreng Mawut",
+    "description": "Rice And Hong Kong Mee Are Stirred And Cooked Together (Not Spicy) With Traditional Seasoning Topping Egg + Beef Mee + Chicken + Mustard Greens + Cabbage",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Crazy Rice",
+    "description": "Fluffy Fragrant White Rice + Gila Seasoned Seasoning Cooked With Sweet Soy Sauce (Sized Sweet And Spicy) Filled With Egg + Vegetables + Meatballs + Sausage + Chicken + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Crazy Fried Rice",
+    "description": "Crazy Fried Rice (Standed Spicy) Cooked With Sweet Soy Sauce + Egg + Mustard Greens + Cabbage + Meatballs + Sausage + Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Goreng Legend Seafood",
+    "description": "Delicious Fried Rice + Egg + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Legend Rendang Fried Rice",
+    "description": "Delicious Fried Rice With Rendang Spices + Egg + Rendang Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Nasi Goreng Legend Balacan",
+    "description": "Shrimp Paste Fried Rice (Sized Spicy) + Egg + Various Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Nasi Goreng Legend Smoked Beef",
+    "description": "Delicious Fragrant Fried Rice + Mixed Vegetables + Smoked Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Legend Beef Fried Rice",
+    "description": "Delicious Fried Rice + Egg + Tenderloin Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "New Nasi Goreng Legend Kari Ayam",
+    "description": "Delicious Fried Rice + Curry Seasoning + Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "New Nasi Goreng Legend Kari Tenderloin",
+    "description": "Curry Fried Rice With Tenderloin Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Special Legend Fried Rice",
+    "description": "Delicious Fried Rice + Egg + A Variety Of Meatballs + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Crystal Shrimp Legend Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + Crystal Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Goreng Legend Cumi Kristal",
+    "description": "Delicious Fragrant Fried Rice + Egg + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "49000",
+    "name": "(New) Nasi Goreng Legend Kambing Muda",
+    "description": "Delicious Fragrant Fried Rice + Young Goat Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Penang Kway Teow Goreng Telur",
+    "description": "Fried Kway Tea + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Penang Kway Teow Goreng Double Telur",
+    "description": "Tasty And Soft Fried Kway Teow + Double Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Penang Kway Teow Goreng Bakso",
+    "description": "Soft Fried Kway Teow + Egg + A Variety Of Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Penang Kway Teow Goreng Sosis",
+    "description": "Tasty And Soft Fried Kway Teow + Egg + Kanzler Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "34500",
+    "name": "Penang Kway Teow Goreng Ayam",
+    "description": "Tasty And Soft Fried Kway Teow + Egg + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Village Fried Kway Teow Penang",
+    "description": "Fried Kway Tea + Meatballs + Chicken (Sweet Dominant)",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Penang Kway Teow Goreng Gila",
+    "description": "Fried Kway Teow (Standed Spicy) Cooked With Sweet Soy Sauce And Crazy Seasoning + Egg + A Variety Of Meatballs + Chicken + Sausage + Sausage + Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Penang Kway Teow Goreng Seafood",
+    "description": "Delicious And Soft Fried Kway Teow + Egg + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "41250",
+    "name": "Penang Kway Teow Goreng Sapi",
+    "description": "Penang Kway Teow + Egg + Bean Sprouts + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Penang Kway Teow Siram Ayam",
+    "description": "Tasty And Soft Penang Kway Tea + Egg + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Penang Kway Teow Siram Seafood",
+    "description": "Tasty And Soft Wheat Penang Kway + Egg + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Siram Sapi",
+    "description": "Soft Crispy Penang Kway Tea + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Balacan",
+    "description": "Kway Teow Shrimp Fried Fragrant (Sized Spicy) + Egg + Various Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Udang Kristal",
+    "description": "Soft Fried Kway Teow + Egg + Crystal Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Cumi Kristal",
+    "description": "Soft Fried Kway Teow + Egg + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Spesial",
+    "description": "Tasty And Soft Fried Penang Kway Tea + Egg + A Variety Of Meatballs + Sausage + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "25200",
+    "name": "Sago Kwetiaw Fried Egg",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Sago Kwetiaw Goreng Double Telur",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Sago Kwetiaw Goreng Bakso",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Beef Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Sago Kwetiaw Goreng Sosis",
+    "description": "Kwetiaw Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "32200",
+    "name": "Sago Kwetiaw Goreng Ayam",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fresh Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Sago Kwetiaw Goreng Gila",
+    "description": "Sago Kwetiaw Cooked With Crazy Seasoning Alapan + Egg + Mustard Greens + Cabbage + Beefballs + Sausage + Fresh Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Village Fried Sago Kwetiaw",
+    "description": "Kwetiaw Sago Kwetiaw Cooked With Premium Seasoning Alatian + Egg + Fresh Chicken Meat + Beef Meatballs + Mustard Greens + Cabbage + Legend Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Sago Kwetiaw Goreng Seafood",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp + Crystal Squid + Fishcake",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Sago Kwetiaw Goreng Sapi",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fresh Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "39200",
+    "name": "Sago Kwetiaw Siram Ayam",
+    "description": "Sago Kwetiaw + Egg + Chicken Siram Seasoning With Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "39200",
+    "name": "Sago Kwetiaw Siram Seafood",
+    "description": "Egg Fried Kwetiaw Sago Kwetiaw + Seafood Seasoning + Mustard Greens + Cabbage",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Siram Sapi",
+    "description": "Fried Kwetiaw Sago Kwetiaw Eggs + Beef Siram Seasoning + Green Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Balacan",
+    "description": "Fried Kwetiaw Sago Kwetiaw + Balacan Seasoning + Egg + Crystal Shrimp + Squid Crystal + Fishcake + Mustard Greens + Cabbage",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Fried Crystal Shrimp",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Cumi Kristal",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Spesial",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp + Crystal Squid + Fishcake + Chicken + Beef + Sunny Side Up Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "26250",
+    "name": "Hong Kong Mee Fried Egg",
+    "description": "Soft, Tasty And Delicious Fried Hong Kong + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Hong Kong Mee Fried Double Egg",
+    "description": "Soft, Tasty And Delicious Hong Kong + Double Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Hongkong Mee Goreng Bakso",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + A Variety Of Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "Hongkong Mee Goreng Sosis",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Kanzler Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "34500",
+    "name": "Hongkong Mee Goreng Ayam",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Village Fried Mee Hong Kong",
+    "description": "Savory Hong Kong Mee Cooked Egg With Sweet Soy Sauce (Not Spicy) + Egg + Beef Meatballs + Various Vegetables + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Hongkong Mee Goreng Gila",
+    "description": "Savory Hong Kong Mee (Spind Spicy) Cooked With Sweet Soy Sauce + Crazy Seasoning + Egg + Sausage + A Variety Of Meatballs + Chicken + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Hongkong Mee Goreng Seafood",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "41250",
+    "name": "Hongkong Mee Goreng Sapi",
+    "description": "Egg Savory Hong Kong + Egg + Vegetables + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Hong Kong Mee Fried Crystal Shrimp",
+    "description": "Egg Savory Fried Hongkong + Egg + Crystal Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Hongkong Mee Goreng Cumi Kristal",
+    "description": "Egg Savory Fried Hong Kong + Egg + Squid Crystal",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Hongkong Mee Goreng Balacan",
+    "description": "Savory Fried Hong Kong Mee + Shrimp Paste (Sized Spicy Shredd) + Egg + Various Seafood + Balacan Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "48000",
+    "name": "Special Fried Hong Kong Mee",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + A Variety Of Meatballs + Sausage + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "25200",
+    "name": "Fried Egg Beehon",
+    "description": "Delicious And Soft Fried Behon + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Beehon Goreng Double Telur",
+    "description": "Delicious And Soft Fried Behon + Double Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Beehon Goreng Bakso",
+    "description": "Delicious And Soft Fried Behon + Egg + A Variety Of Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Beehon Goreng Sosis",
+    "description": "Delicious And Soft Fried Behon + Egg + Kanzler Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "32200",
+    "name": "Beehon Goreng Ayam",
+    "description": "Delicious And Soft Fried Behon + Egg + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Beehon Goreng Seafood",
+    "description": "Delicious And Soft Fried Behon + Egg + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Cap Cai Asap Vege",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cauliflower + Onions",
+    "section": "today's offer"
+  },
+  {
+    "price": "37500",
+    "name": "Stir-Fried Vegetable With Meatballs",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake",
+    "section": "today's offer"
+  },
+  {
+    "price": "41250",
+    "name": "Cap Cai Asap Ayam",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Chicken Meat",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Cap Cai Asap Seafood",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Crystal Shrimp + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "48750",
+    "name": "Cap Cai Asap Tenderloin",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Tenderloin",
+    "section": "today's offer"
+  },
+  {
+    "price": "56250",
+    "name": "Cap Cai Asap Istimewa",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Chicken + Crystal Shrimp + Crystal Squid + Tenderloin",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Vege Smoke Rice",
+    "description": "Fried Rice + Smoked Capcai",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Meatball Smoked Rice",
+    "description": "Fried Rice + Smoked Capcai Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "48750",
+    "name": "Chicken Smoked Rice",
+    "description": "Fried Rice + Chicken Smoked Dumplings",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Beehon Goreng Sapi",
+    "description": "Soft Fried Behon + Egg + Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Beehon Goreng Udang Kristal",
+    "description": "Soft Fried Behon + Egg + Crystal Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Beehon Goreng Cumi Kristal",
+    "description": "Soft Fried Behon + Egg + Crystal Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Nasi Siram Asap Seafood",
+    "description": "Fried Rice + Capcai Smoked Capcai",
+    "section": "today's offer"
+  },
+  {
+    "price": "56250",
+    "name": "Nasi Siram Asap Tenderloin",
+    "description": "Fried Rice + Capcai Smoked Tenderloin",
+    "section": "today's offer"
+  },
+  {
+    "price": "63750",
+    "name": "Special Smoked Rice",
+    "description": "Fried Rice + Special Smoked Capcai",
+    "section": "today's offer"
+  },
+  {
+    "price": "44800",
+    "name": "Beehon Goreng Spesial",
+    "description": "Delicious And Soft Fried Behon + Egg + A Variety Of Meatballs + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Ifumie Smoke Vege",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Vege",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Ifumie Smoke Meatballs",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "48750",
+    "name": "Chicken Smoked Ifumie",
+    "description": "Crispy Hong Kong Mee + Chicken Smoked Dumplings",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Ifumie Asap Seafood",
+    "description": "Crispy Hongkong Mee + Siram Capcai Asap Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "56250",
+    "name": "Ifumie Asap Tenderloin",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Smoke Tenderloin",
+    "section": "today's offer"
+  },
+  {
+    "price": "63750",
+    "name": "Special Smoked Ifumie",
+    "description": "Crispy Hong Kong Mee + Special Smoked Capcai",
+    "section": "today's offer"
+  },
+  {
+    "price": "37800",
+    "name": "Brown Makassar Seafood Fried Rice",
+    "description": "Eggs + Fishcake + Crystal Shrimp + Crystal Squid",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "21000",
+    "name": "Egg Legend Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Legend Double Egg Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Double Egg",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Legend Meatball Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + A Variety Of Meatballs",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Nasi Goreng Legend Sosis",
+    "description": "Delicious Fragrant Fried Rice + Egg + Sausage",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "28000",
+    "name": "Legend Chicken Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + Chicken",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "28000",
+    "name": "Legend Fried Rice With Salted Fish And Jambal Roti",
+    "description": "Delicious Fried Rice + Egg + Jambal Roti Salted Fish",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Green Chili Jambal Fried Rice",
+    "description": "Delicious Fried Rice With Jambal Bread And Green Chili (Spicy Spicy)",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Green Chili Chicken Fried Rice",
+    "description": "Delicious Fried Rice With Chicken And Green Chili (Spicy Spicy)",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Makassar Red Fried Rice",
+    "description": "Delicious Fried Rice With Chicken And Beef Meatballs",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Village Fried Rice",
+    "description": "Traditional Fried Rice With Sweet Soy Sauce + Egg + Mustard Greens + Cabbage + A Variety Of Meatballs + Chicken Meat",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Goreng Mawut",
+    "description": "Rice And Hong Kong Mee Are Stirred And Cooked Together (Not Spicy) With Traditional Seasoning Topping Egg + Beef Mee + Chicken + Mustard Greens + Cabbage",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Crazy Rice",
+    "description": "Fluffy Fragrant White Rice + Gila Seasoned Seasoning Cooked With Sweet Soy Sauce (Sized Sweet And Spicy) Filled With Egg + Vegetables + Meatballs + Sausage + Chicken + Various Vegetables",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Legend Crazy Fried Rice",
+    "description": "Crazy Fried Rice (Standed Spicy) Cooked With Sweet Soy Sauce + Egg + Mustard Greens + Cabbage + Meatballs + Sausage + Chicken Meat",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Goreng Legend Seafood",
+    "description": "Delicious Fried Rice + Egg + Seafood",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "42000",
+    "name": "Legend Rendang Fried Rice",
+    "description": "Delicious Fried Rice With Rendang Spices + Egg + Rendang Meat",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "38500",
+    "name": "Nasi Goreng Legend Balacan",
+    "description": "Shrimp Paste Fried Rice (Sized Spicy) + Egg + Various Seafood",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "38500",
+    "name": "Nasi Goreng Legend Smoked Beef",
+    "description": "Delicious Fragrant Fried Rice + Mixed Vegetables + Smoked Beef",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "38500",
+    "name": "Legend Beef Fried Rice",
+    "description": "Delicious Fried Rice + Egg + Tenderloin Beef",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "38500",
+    "name": "New Nasi Goreng Legend Kari Ayam",
+    "description": "Delicious Fried Rice + Curry Seasoning + Chicken Meat",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "42000",
+    "name": "New Nasi Goreng Legend Kari Tenderloin",
+    "description": "Curry Fried Rice With Tenderloin Beef",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "42000",
+    "name": "Special Legend Fried Rice",
+    "description": "Delicious Fried Rice + Egg + A Variety Of Meatballs + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "42000",
+    "name": "Crystal Shrimp Legend Fried Rice",
+    "description": "Delicious Fragrant Fried Rice + Egg + Crystal Shrimp",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Goreng Legend Cumi Kristal",
+    "description": "Delicious Fragrant Fried Rice + Egg + Crystal Squid",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "49000",
+    "name": "(New) Nasi Goreng Legend Kambing Muda",
+    "description": "Delicious Fragrant Fried Rice + Young Goat Meat",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "48000",
+    "name": "Nasi Goreng Legend Pete",
+    "description": "Delicious Fragrant Fried Rice + Egg + Pete",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "50000",
+    "name": "Limited Nasi Goreng Chicken Nori",
+    "description": "Egg Fried Rice + Chicken + Spiced Seaweed",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Goreng Legend Pete Balacan",
+    "description": "Delicious Fragrant Fried Rice + Balacan Seasoning + Egg + Pete",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "70000",
+    "name": "The Drink By Kopi Legend\"",
+    "description": "Egg Fried Rice With Mixed Vegetables And Charsiu Chicken Cutlets Honey Sauce",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "80000",
+    "name": "Nasi Goreng Legend Domba Pete",
+    "description": "Delicious Fragrant Fried Rice Sprinkled With Tender Mutton And Pete",
+    "section": "legend fried rice"
+  },
+  {
+    "price": "27000",
+    "name": "Penang Kway Teow Goreng Telur",
+    "description": "Fried Kway Tea + Egg",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "30000",
+    "name": "Penang Kway Teow Goreng Double Telur",
+    "description": "Tasty And Soft Fried Kway Teow + Double Egg",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "33000",
+    "name": "Penang Kway Teow Goreng Bakso",
+    "description": "Soft Fried Kway Teow + Egg + A Variety Of Meatballs",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "33000",
+    "name": "Penang Kway Teow Goreng Sosis",
+    "description": "Tasty And Soft Fried Kway Teow + Egg + Kanzler Sausage",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "34500",
+    "name": "Penang Kway Teow Goreng Ayam",
+    "description": "Tasty And Soft Fried Kway Teow + Egg + Chicken",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "37500",
+    "name": "Village Fried Kway Teow Penang",
+    "description": "Fried Kway Tea + Meatballs + Chicken (Sweet Dominant)",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "37500",
+    "name": "Penang Kway Teow Goreng Gila",
+    "description": "Fried Kway Teow (Standed Spicy) Cooked With Sweet Soy Sauce And Crazy Seasoning + Egg + A Variety Of Meatballs + Chicken + Sausage + Sausage + Vegetables",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "37500",
+    "name": "Penang Kway Teow Goreng Seafood",
+    "description": "Delicious And Soft Fried Kway Teow + Egg + Seafood",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "41250",
+    "name": "Penang Kway Teow Goreng Sapi",
+    "description": "Penang Kway Teow + Egg + Bean Sprouts + Beef",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "42000",
+    "name": "Penang Kway Teow Siram Ayam",
+    "description": "Tasty And Soft Penang Kway Tea + Egg + Chicken",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "42000",
+    "name": "Penang Kway Teow Siram Seafood",
+    "description": "Tasty And Soft Wheat Penang Kway + Egg + Seafood",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Siram Sapi",
+    "description": "Soft Crispy Penang Kway Tea + Beef",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Balacan",
+    "description": "Kway Teow Shrimp Fried Fragrant (Sized Spicy) + Egg + Various Seafood",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Udang Kristal",
+    "description": "Soft Fried Kway Teow + Egg + Crystal Shrimp",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Cumi Kristal",
+    "description": "Soft Fried Kway Teow + Egg + Crystal Squid",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "45000",
+    "name": "Penang Kway Teow Goreng Spesial",
+    "description": "Tasty And Soft Fried Penang Kway Tea + Egg + A Variety Of Meatballs + Sausage + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "penang kway teow legend"
+  },
+  {
+    "price": "25200",
+    "name": "Sago Kwetiaw Fried Egg",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "28000",
+    "name": "Sago Kwetiaw Goreng Double Telur",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fried",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "30800",
+    "name": "Sago Kwetiaw Goreng Bakso",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Beef Meatballs",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "30800",
+    "name": "Sago Kwetiaw Goreng Sosis",
+    "description": "Kwetiaw Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Sausage",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "32200",
+    "name": "Sago Kwetiaw Goreng Ayam",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fresh Chicken Meat",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "35000",
+    "name": "Sago Kwetiaw Goreng Gila",
+    "description": "Sago Kwetiaw Cooked With Crazy Seasoning Alapan + Egg + Mustard Greens + Cabbage + Beefballs + Sausage + Fresh Chicken Meat",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "35000",
+    "name": "Village Fried Sago Kwetiaw",
+    "description": "Kwetiaw Sago Kwetiaw Cooked With Premium Seasoning Alatian + Egg + Fresh Chicken Meat + Beef Meatballs + Mustard Greens + Cabbage + Legend Crackers",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "35000",
+    "name": "Sago Kwetiaw Goreng Seafood",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp + Crystal Squid + Fishcake",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "38500",
+    "name": "Sago Kwetiaw Goreng Sapi",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Fresh Beef",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "39200",
+    "name": "Sago Kwetiaw Siram Ayam",
+    "description": "Sago Kwetiaw + Egg + Chicken Siram Seasoning With Vegetables",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "39200",
+    "name": "Sago Kwetiaw Siram Seafood",
+    "description": "Egg Fried Kwetiaw Sago Kwetiaw + Seafood Seasoning + Mustard Greens + Cabbage",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Siram Sapi",
+    "description": "Fried Kwetiaw Sago Kwetiaw Eggs + Beef Siram Seasoning + Green Vegetables",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Balacan",
+    "description": "Fried Kwetiaw Sago Kwetiaw + Balacan Seasoning + Egg + Crystal Shrimp + Squid Crystal + Fishcake + Mustard Greens + Cabbage",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Fried Crystal Shrimp",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Cumi Kristal",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Squid",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Sago Kwetiaw Goreng Spesial",
+    "description": "Sago Kwetiaw Cooked With Premium Style Seasoning + Bean Sprouts + Chives + Egg + Crystal Shrimp + Crystal Squid + Fishcake + Chicken + Beef + Sunny Side Up Eggs",
+    "section": "sago kwetiaw"
+  },
+  {
+    "price": "26250",
+    "name": "Hong Kong Mee Fried Egg",
+    "description": "Soft, Tasty And Delicious Fried Hong Kong + Egg",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "30000",
+    "name": "Hong Kong Mee Fried Double Egg",
+    "description": "Soft, Tasty And Delicious Hong Kong + Double Egg",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "33000",
+    "name": "Hongkong Mee Goreng Bakso",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + A Variety Of Meatballs",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "33000",
+    "name": "Hongkong Mee Goreng Sosis",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Kanzler Sausage",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "34500",
+    "name": "Hongkong Mee Goreng Ayam",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Chicken",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "37500",
+    "name": "Village Fried Mee Hong Kong",
+    "description": "Savory Hong Kong Mee Cooked Egg With Sweet Soy Sauce (Not Spicy) + Egg + Beef Meatballs + Various Vegetables + Chicken",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "37500",
+    "name": "Hongkong Mee Goreng Gila",
+    "description": "Savory Hong Kong Mee (Spind Spicy) Cooked With Sweet Soy Sauce + Crazy Seasoning + Egg + Sausage + A Variety Of Meatballs + Chicken + Various Vegetables",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "37500",
+    "name": "Hongkong Mee Goreng Seafood",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + Seafood",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "41250",
+    "name": "Hongkong Mee Goreng Sapi",
+    "description": "Egg Savory Hong Kong + Egg + Vegetables + Beef",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "45000",
+    "name": "Hong Kong Mee Fried Crystal Shrimp",
+    "description": "Egg Savory Fried Hongkong + Egg + Crystal Shrimp",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "45000",
+    "name": "Hongkong Mee Goreng Cumi Kristal",
+    "description": "Egg Savory Fried Hong Kong + Egg + Squid Crystal",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "45000",
+    "name": "Hongkong Mee Goreng Balacan",
+    "description": "Savory Fried Hong Kong Mee + Shrimp Paste (Sized Spicy Shredd) + Egg + Various Seafood + Balacan Seasoning",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "48000",
+    "name": "Special Fried Hong Kong Mee",
+    "description": "Soft, Tasty And Delicious Hong Kong + Egg + A Variety Of Meatballs + Sausage + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "hongkong mee goreng legend"
+  },
+  {
+    "price": "25200",
+    "name": "Fried Egg Beehon",
+    "description": "Delicious And Soft Fried Behon + Egg",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "28000",
+    "name": "Beehon Goreng Double Telur",
+    "description": "Delicious And Soft Fried Behon + Double Egg",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "30800",
+    "name": "Beehon Goreng Bakso",
+    "description": "Delicious And Soft Fried Behon + Egg + A Variety Of Meatballs",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "30800",
+    "name": "Beehon Goreng Sosis",
+    "description": "Delicious And Soft Fried Behon + Egg + Kanzler Sausage",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "32200",
+    "name": "Beehon Goreng Ayam",
+    "description": "Delicious And Soft Fried Behon + Egg + Chicken",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "35000",
+    "name": "Beehon Goreng Seafood",
+    "description": "Delicious And Soft Fried Behon + Egg + Seafood",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "38500",
+    "name": "Beehon Goreng Sapi",
+    "description": "Soft Fried Behon + Egg + Beef",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "42000",
+    "name": "Beehon Goreng Udang Kristal",
+    "description": "Soft Fried Behon + Egg + Crystal Shrimp",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "42000",
+    "name": "Beehon Goreng Cumi Kristal",
+    "description": "Soft Fried Behon + Egg + Crystal Squid",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "44800",
+    "name": "Beehon Goreng Spesial",
+    "description": "Delicious And Soft Fried Behon + Egg + A Variety Of Meatballs + Chicken + Seafood + Sunny Side Up Eggs",
+    "section": "beehon goreng legend"
+  },
+  {
+    "price": "37500",
+    "name": "Cap Cai Asap Vege",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cauliflower + Onions",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "37500",
+    "name": "Stir-Fried Vegetable With Meatballs",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "41250",
+    "name": "Cap Cai Asap Ayam",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Chicken Meat",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "45000",
+    "name": "Cap Cai Asap Seafood",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Crystal Shrimp + Crystal Squid",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "48750",
+    "name": "Cap Cai Asap Tenderloin",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Tenderloin",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "56250",
+    "name": "Cap Cai Asap Istimewa",
+    "description": "Mustard Greens + Mustard Greens + Carrots + Cabbage + Spring Onions + Beef Meatballs + Fish Cake + Chicken + Crystal Shrimp + Crystal Squid + Tenderloin",
+    "section": "cap cai asap"
+  },
+  {
+    "price": "42000",
+    "name": "Vege Smoke Rice",
+    "description": "Fried Rice + Smoked Capcai",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "45000",
+    "name": "Meatball Smoked Rice",
+    "description": "Fried Rice + Smoked Capcai Meatballs",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "48750",
+    "name": "Chicken Smoked Rice",
+    "description": "Fried Rice + Chicken Smoked Dumplings",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "52500",
+    "name": "Nasi Siram Asap Seafood",
+    "description": "Fried Rice + Capcai Smoked Capcai",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "56250",
+    "name": "Nasi Siram Asap Tenderloin",
+    "description": "Fried Rice + Capcai Smoked Tenderloin",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "63750",
+    "name": "Special Smoked Rice",
+    "description": "Fried Rice + Special Smoked Capcai",
+    "section": "nasi siram asap legend"
+  },
+  {
+    "price": "42000",
+    "name": "Ifumie Smoke Vege",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Vege",
+    "section": "legend ifumie smoked"
+  },
+  {
+    "price": "45000",
+    "name": "Ifumie Smoke Meatballs",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Meatballs",
+    "section": "legend ifumie smoked"
+  },
+  {
+    "price": "48750",
+    "name": "Chicken Smoked Ifumie",
+    "description": "Crispy Hong Kong Mee + Chicken Smoked Dumplings",
+    "section": "legend ifumie smoked"
+  },
+  {
+    "price": "52500",
+    "name": "Ifumie Asap Seafood",
+    "description": "Crispy Hongkong Mee + Siram Capcai Asap Seafood",
+    "section": "legend ifumie smoked"
+  },
+  {
+    "price": "56250",
+    "name": "Ifumie Asap Tenderloin",
+    "description": "Crispy Hong Kong Mee + Smoked Capcai Smoke Tenderloin",
+    "section": "legend ifumie smoked"
+  }
+]

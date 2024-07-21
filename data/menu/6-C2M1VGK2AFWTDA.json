@@ -1,0 +1,872 @@
+[
+  {
+    "price": "19950",
+    "name": "Chicken Thighs With Green Chili Sauce Without Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Breast Penyet Green Sambal Without Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Ayam Penyet Paha Sambal Ijo",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Breast Penyet Green Sambal",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Chicken Thighs + Tofu With Green Chili Sauce",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Chicken Breast + Tofu + Green Chili Sauce",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Thighs With Red Chili Sauce Without Rice",
+    "description": "Fried Chicken Thighs + Fresh Red Sambal And Lalapan Plus Fried Tofu And Tempeh Without Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Breast With Red Chili Sauce Without Rice",
+    "description": "Fried Chicken Breast + Fresh Red Sambal And Lalapan Plus Fried Tofu And Tempeh Without Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Thigh With Red Chili Sauce",
+    "description": "White Rice + Thigh Fried Chicken + Red Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Breast Squeezed With Red Chili Sauce",
+    "description": "White Rice + Breast Fried Chicken + Red Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Chicken Thigh + Tofu + Tempeh With Red Chili Sauce",
+    "description": "White Rice + Fried Chicken Thighs + Red Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Chicken Breast + Tofu + Tempeh With Red Chili Sauce",
+    "description": "White Rice + Fried Chicken Breast + Red Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "17100",
+    "name": "Catfish Penyet Green Sambal Without Rice",
+    "description": "Fried Catfish + Green Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "21850",
+    "name": "Catfish Penyet Green Sambal",
+    "description": "Rice + Fried Catfish + Green Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "23750",
+    "name": "Catfish With Green Chili Sauce + Tofu And Tempeh",
+    "description": "Rice + Fried Catfish + Green Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "17100",
+    "name": "Catfish With Chili Sauce Without Rice",
+    "description": "Fried Catfish + Green Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "21850",
+    "name": "Catfish With Red Chili Sauce",
+    "description": "Rice + Fried Catfish + Red Sambal And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "23750",
+    "name": "Catfish With Red Chili Sauce + Tofu And Tempeh",
+    "description": "Rice + Fried Catfish + Red Sambal And Lalapan Plus Fried Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "21375",
+    "name": "Aceh Regular Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Aceh Egg Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Fried Rice With Meatball And Sausage",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Aceh Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Beef Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Shrimp Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Squid Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Fried Aceh Noodles",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Fried Egg Aceh Noodles",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Sosis Baso",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Ayam",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Daging Sapi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Fried Squid Noodles",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Goreng Aceh Udang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Egg Kwetiau",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Kwetiau Sosis Baso",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Rice Noodle",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Beef Kwetiau",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Kwetiau Squid",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Shrimp Kwetiau",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "21375",
+    "name": "Aceh Noodle Soup Regular",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Mie Aceh Rebus Telur",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Sosis Baso",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Ayam",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Daging Sapi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Udang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Noodle Soup Squid",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Rice Noodle",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Egg Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Baso Sausage Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Beef Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Bihun Udang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Squid Vermicelli",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Thighs With Green Chili Sauce Without Rice",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Breast Penyet Green Sambal Without Rice",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "25650",
+    "name": "Ayam Penyet Paha Sambal Ijo",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Breast Penyet Green Sambal",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Chicken Thighs + Tofu With Green Chili Sauce",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "28500",
+    "name": "Chicken Breast + Tofu + Green Chili Sauce",
+    "description": "",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Thighs With Red Chili Sauce Without Rice",
+    "description": "Fried Chicken Thighs + Fresh Red Sambal And Lalapan Plus Fried Tofu And Tempeh Without Rice",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "19950",
+    "name": "Chicken Breast With Red Chili Sauce Without Rice",
+    "description": "Fried Chicken Breast + Fresh Red Sambal And Lalapan Plus Fried Tofu And Tempeh Without Rice",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Thigh With Red Chili Sauce",
+    "description": "White Rice + Thigh Fried Chicken + Red Sambal And Lalapan",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "25650",
+    "name": "Chicken Breast Squeezed With Red Chili Sauce",
+    "description": "White Rice + Breast Fried Chicken + Red Sambal And Lalapan",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Chicken Thigh + Tofu + Tempeh With Red Chili Sauce",
+    "description": "White Rice + Fried Chicken Thighs + Red Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "28500",
+    "name": "Chicken Breast + Tofu + Tempeh With Red Chili Sauce",
+    "description": "White Rice + Fried Chicken Breast + Red Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "chicken penyet with red chili sauce"
+  },
+  {
+    "price": "17100",
+    "name": "Catfish Penyet Green Sambal Without Rice",
+    "description": "Fried Catfish + Green Sambal And Lalapan",
+    "section": "catfish penyet green sambal"
+  },
+  {
+    "price": "21850",
+    "name": "Catfish Penyet Green Sambal",
+    "description": "Rice + Fried Catfish + Green Sambal And Lalapan",
+    "section": "catfish penyet green sambal"
+  },
+  {
+    "price": "23750",
+    "name": "Catfish With Green Chili Sauce + Tofu And Tempeh",
+    "description": "Rice + Fried Catfish + Green Sambal And Lalapan Plus Fresh Tofu And Fried Tempeh",
+    "section": "catfish penyet green sambal"
+  },
+  {
+    "price": "17100",
+    "name": "Catfish With Chili Sauce Without Rice",
+    "description": "Fried Catfish + Green Sambal And Lalapan",
+    "section": "catfish with red chili sauce"
+  },
+  {
+    "price": "21850",
+    "name": "Catfish With Red Chili Sauce",
+    "description": "Rice + Fried Catfish + Red Sambal And Lalapan",
+    "section": "catfish with red chili sauce"
+  },
+  {
+    "price": "23750",
+    "name": "Catfish With Red Chili Sauce + Tofu And Tempeh",
+    "description": "Rice + Fried Catfish + Red Sambal And Lalapan Plus Fried Tofu And Tempeh",
+    "section": "catfish with red chili sauce"
+  },
+  {
+    "price": "21375",
+    "name": "Aceh Regular Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "24700",
+    "name": "Aceh Egg Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Fried Rice With Meatball And Sausage",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Aceh Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Beef Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Shrimp Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Squid Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "33000",
+    "name": "Aceh Squid Fried Rice + Shrimp",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "33000",
+    "name": "Aceh Beef Fried Rice + Shrimp",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "33000",
+    "name": "Aceh Beef Fried Rice + Squid",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "38000",
+    "name": "Complete Aceh Fried Rice",
+    "description": "",
+    "section": "aceh fried rice"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Fried Aceh Noodles",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "24700",
+    "name": "Fried Egg Aceh Noodles",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Sosis Baso",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Ayam",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Goreng Daging Sapi",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Fried Squid Noodles",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Goreng Aceh Udang",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33000",
+    "name": "Aceh Fried Squid Noodles + Shrimp",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33000",
+    "name": "Mie Aceh Goreng Daging Sapi + Udang",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "33000",
+    "name": "Mie Aceh Goreng Daging Sapi + Cumi",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "38000",
+    "name": "Complete Fried Aceh Noodles",
+    "description": "",
+    "section": "mie aceh goreng"
+  },
+  {
+    "price": "21375",
+    "name": "Aceh Noodle Soup Regular",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "24700",
+    "name": "Mie Aceh Rebus Telur",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Sosis Baso",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Ayam",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Daging Sapi",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "26600",
+    "name": "Mie Aceh Rebus Udang",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "26600",
+    "name": "Aceh Noodle Soup Squid",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "33000",
+    "name": "Mie Aceh Rebus Cumi + Udang",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Boiled Aceh Noodles + Shrimp",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "33000",
+    "name": "Mie Aceh Rebus Daging Sapi + Cumi",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "38000",
+    "name": "Complete Aceh Noodles Soup",
+    "description": "",
+    "section": "boiled aceh noodle soup"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Rice Noodle",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "24700",
+    "name": "Egg Kwetiau",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "26600",
+    "name": "Kwetiau Sosis Baso",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Rice Noodle",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "26600",
+    "name": "Beef Kwetiau",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "26600",
+    "name": "Kwetiau Squid",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "26600",
+    "name": "Shrimp Kwetiau",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Kwetiau + Squid",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Kwetiau + Shrimp",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "33000",
+    "name": "Kwetiau Squid + Shrimp",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "38000",
+    "name": "Kwetiau Komplit",
+    "description": "",
+    "section": "aceh spiced kwetiau"
+  },
+  {
+    "price": "21375",
+    "name": "Regular Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "24700",
+    "name": "Egg Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "26600",
+    "name": "Baso Sausage Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "26600",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "26600",
+    "name": "Beef Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "26600",
+    "name": "Bihun Udang",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "26600",
+    "name": "Squid Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Vermicelli + Squid",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Vermicelli + Shrimp",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "33000",
+    "name": "Bihun Cumi + Udang",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "38000",
+    "name": "Complete Vermicelli",
+    "description": "",
+    "section": "vermicelli with aceh spices"
+  },
+  {
+    "price": "10000",
+    "name": "Gizzard Liver Satay",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7500",
+    "name": "Sate Kulit Ayam",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7500",
+    "name": "Sate Usus Ayam",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7000",
+    "name": "Extra Red Chili Sauce",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7000",
+    "name": "Extra Green Chili Sauce",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice 1 Portion",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "2500",
+    "name": "Fried Tofu",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "2500",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "6000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "6000",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "4000",
+    "name": "Chicken Head",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "4000",
+    "name": "Ceker Ayam",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "6500",
+    "name": "Aqua 600Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Es Timun Serut",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Es Nutrisari",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Jeruk Peras",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Teh Pucuk 350Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Menu For Driver Partners",
+    "description": "We'Re Helpping Grab Drivers To Be More Enthusiasm For The Daily Delight. This Menu Will Be Provided Directly To The Drivers, Thank You",
+    "section": "treat grab driver"
+  }
+]

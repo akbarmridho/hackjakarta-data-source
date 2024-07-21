@@ -1,0 +1,297 @@
+[
+  {
+    "price": "25455",
+    "name": "Hebat A",
+    "description": "1 Sayap/Paha Bawah + 3 Chicken Strips + 1 Nasi",
+    "section": "today's offer"
+  },
+  {
+    "price": "49091",
+    "name": "3 Ayam",
+    "description": "1 Dada/Paha Atas + 2 Sayap/Paha Bawah",
+    "section": "today's offer"
+  },
+  {
+    "price": "25455",
+    "name": "Hebat B",
+    "description": "1 California Burger + 1 French Fries Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "77273",
+    "name": "5 Ayam",
+    "description": "2 Dada/Paha Atas + 3 Sayap/Paha Bawah",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Hebat C",
+    "description": "1 Dada/Paha Atas + 1 Sayap/Paha Bawah + 2 Nasi + 2 Le Minerale",
+    "section": "today's offer"
+  },
+  {
+    "price": "104545",
+    "name": "7 Ayam",
+    "description": "3 Dada/Paha Atas + 4 Sayap/Paha Bawah",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Hebat D",
+    "description": "1 Sayap/Paha Bawah + 1 California Burger + 5 Chicken Stick + 1 Nasi",
+    "section": "today's offer"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks + Pilih Sendiri Gratisanmu",
+    "description": "9 pcs Ayam + Pilihan GRATISAN : 3 TPH + 3 Nasi atau 2 French Fries reg + 2 Le Minerale",
+    "section": "today's offer"
+  },
+  {
+    "price": "62727",
+    "name": "4 Menu 69 Ribu",
+    "description": "Bebas pilih 4 menu favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks Combo + Pilih Sendiri Gratisanmu",
+    "description": "5 pcs Ayam + 6 pcs Chicken Strips + 2 pcs Chicken Kranz + Pilihan GRATISAN : 3 TPH + 3 Nasi atau 2 French Fries reg + 2 Le Minerale",
+    "section": "today's offer"
+  },
+  {
+    "price": "25455",
+    "name": "Hebat A",
+    "description": "1 Sayap/Paha Bawah + 3 Chicken Strips + 1 Nasi",
+    "section": "hemat banget"
+  },
+  {
+    "price": "25455",
+    "name": "Hebat B",
+    "description": "1 California Burger + 1 French Fries Regular",
+    "section": "hemat banget"
+  },
+  {
+    "price": "37273",
+    "name": "Hebat C",
+    "description": "1 Dada/Paha Atas + 1 Sayap/Paha Bawah + 2 Nasi + 2 Le Minerale",
+    "section": "hemat banget"
+  },
+  {
+    "price": "37273",
+    "name": "Hebat D",
+    "description": "1 Sayap/Paha Bawah + 1 California Burger + 5 Chicken Stick + 1 Nasi",
+    "section": "hemat banget"
+  },
+  {
+    "price": "49091",
+    "name": "3 Ayam",
+    "description": "1 Dada/Paha Atas + 2 Sayap/Paha Bawah",
+    "section": "paling favorit"
+  },
+  {
+    "price": "77273",
+    "name": "5 Ayam",
+    "description": "2 Dada/Paha Atas + 3 Sayap/Paha Bawah",
+    "section": "paling favorit"
+  },
+  {
+    "price": "104545",
+    "name": "7 Ayam",
+    "description": "3 Dada/Paha Atas + 4 Sayap/Paha Bawah",
+    "section": "paling favorit"
+  },
+  {
+    "price": "62727",
+    "name": "4 Menu 69 Ribu",
+    "description": "Bebas pilih 4 menu favoritmu",
+    "section": "bebas pilih menu"
+  },
+  {
+    "price": "45000",
+    "name": "Astaga 5",
+    "description": "1 California Burger + 1 French Fries (Large) + 1 Minum",
+    "section": "paket astaga"
+  },
+  {
+    "price": "35000",
+    "name": "Astaga 4",
+    "description": "1 Chicken Kranz + 1 Nasi + 1 Minum",
+    "section": "paket astaga"
+  },
+  {
+    "price": "35000",
+    "name": "Astaga 3",
+    "description": "3 Chicken Strips + 1 Nasi + 1 Minum",
+    "section": "paket astaga"
+  },
+  {
+    "price": "34091",
+    "name": "Astaga 2",
+    "description": "1 Ayam + 1 Nasi + 1 Minum",
+    "section": "paket astaga"
+  },
+  {
+    "price": "51818",
+    "name": "Astaga 1",
+    "description": "2 Ayam + 1 Nasi + 1 Minum",
+    "section": "paket astaga"
+  },
+  {
+    "price": "130909",
+    "name": "Paket Family",
+    "description": "5 Ayam + 3 Nasi + 3 Minum",
+    "section": "family"
+  },
+  {
+    "price": "66364",
+    "name": "Combo Favorit",
+    "description": "1 California Burger + 1 Ayam + 5 Chicken Pop + 1 Nasi + 2 Minum",
+    "section": "family"
+  },
+  {
+    "price": "109091",
+    "name": "Super 5",
+    "description": "5 Ayam + 5 Nasi",
+    "section": "family"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks Combo",
+    "description": "5 Ayam + 6 Chicken Strips + 2 Chicken Kranz",
+    "section": "family"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks",
+    "description": "9 Ayam",
+    "section": "family"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks + Pilih Sendiri Gratisanmu",
+    "description": "9 pcs Ayam + Pilihan GRATISAN : 3 TPH + 3 Nasi atau 2 French Fries reg + 2 Le Minerale",
+    "section": "promo boks pilih sendiri gratisanmu"
+  },
+  {
+    "price": "154545",
+    "name": "CFC Boks Combo + Pilih Sendiri Gratisanmu",
+    "description": "5 pcs Ayam + 6 pcs Chicken Strips + 2 pcs Chicken Kranz + Pilihan GRATISAN : 3 TPH + 3 Nasi atau 2 French Fries reg + 2 Le Minerale",
+    "section": "promo boks pilih sendiri gratisanmu"
+  },
+  {
+    "price": "18182",
+    "name": "Paha Bawah",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "18182",
+    "name": "Sayap",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "19091",
+    "name": "Paha Atas",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "19091",
+    "name": "Dada",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "20909",
+    "name": "Chicken Kranz",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "20909",
+    "name": "Chicken Strips (3 Pcs)",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "20909",
+    "name": "Chicken Pop (9 Pcs)",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "22273",
+    "name": "California Cheese Burger",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "19545",
+    "name": "California Burger",
+    "description": "",
+    "section": "ala carte"
+  },
+  { "price": "10000", "name": "Rice", "description": "", "section": "sides" },
+  {
+    "price": "10000",
+    "name": "Perkedel",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "24545",
+    "name": "French Fries Large",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "20000",
+    "name": "French Fries Regular",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "30000",
+    "name": "Mix Combo A",
+    "description": "1 French Fries + 2 Chicken Strips + 3 Chicken Pop",
+    "section": "sides"
+  },
+  {
+    "price": "8636",
+    "name": "Le Minerale 330 ML",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Coca-Cola PET 250 ML",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Pucuk Harum 350 ML",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "46364",
+    "name": "Fun Meal 3",
+    "description": "1 California Cheese Burger + 1 Diamond UHT 125 ml + 1 Mainan",
+    "section": "fun meal"
+  },
+  {
+    "price": "46364",
+    "name": "Fun Meal 2",
+    "description": "3 Chicken Strips + 1 Nasi + 1 Diamond UHT 125 ml + 1 Mainan",
+    "section": "fun meal"
+  },
+  {
+    "price": "46364",
+    "name": "Fun Meal 1",
+    "description": "1 Ayam + 1 Nasi + 1 Diamond UHT 125 ml + 1 Mainan",
+    "section": "fun meal"
+  }
+]

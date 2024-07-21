@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "100000",
+    "name": "Brand Week Festival",
+    "description": "Sop Asparagus+ Ayam Mentega",
+    "section": "brand week festival"
+  },
+  {
+    "price": "60000",
+    "name": "Nasi Ayam Goreng Cabe Garam",
+    "description": "",
+    "section": "brand week festival"
+  },
+  {
+    "price": "40000",
+    "name": "Plain Capcay (Fried, Gravy)",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "capcay"
+  },
+  {
+    "price": "45000",
+    "name": "Capcay Goreng Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "capcay"
+  },
+  {
+    "price": "45000",
+    "name": "Chicken Gravy Capcay",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "capcay"
+  },
+  {
+    "price": "48000",
+    "name": "Capcay Goreng Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "capcay"
+  },
+  {
+    "price": "48000",
+    "name": "Capcay Kuah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "capcay"
+  },
+  {
+    "price": "32000",
+    "name": "Plain Stir-Fried Water Spinach",
+    "description": "Halal",
+    "section": "water spinach"
+  },
+  {
+    "price": "33000",
+    "name": "Shrimp Paste Water Spinach",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "water spinach"
+  },
+  {
+    "price": "38000",
+    "name": "Stir Fried Water Spinach With Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "water spinach"
+  },
+  {
+    "price": "43000",
+    "name": "Kangkung Cah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "water spinach"
+  },
+  {
+    "price": "45000",
+    "name": "Stir Fried Water Spinach With Beef",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "water spinach"
+  },
+  {
+    "price": "40000",
+    "name": "Kailan Cah Jamur",
+    "description": "",
+    "section": "kailan"
+  },
+  {
+    "price": "40000",
+    "name": "Kailan Cah Telur",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kailan"
+  },
+  {
+    "price": "40000",
+    "name": "Kailan Cah Garlic",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kailan"
+  },
+  {
+    "price": "42000",
+    "name": "Kailan Cah Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kailan"
+  },
+  {
+    "price": "45000",
+    "name": "Kailan Cah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kailan"
+  },
+  {
+    "price": "48000",
+    "name": "Kailan Cah Sapi",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kailan"
+  },
+  {
+    "price": "38000",
+    "name": "Pak Choy Cah Mushroom",
+    "description": "",
+    "section": "pakcoy"
+  },
+  {
+    "price": "38000",
+    "name": "Egg Cah Pak Choy",
+    "description": "",
+    "section": "pakcoy"
+  },
+  {
+    "price": "38000",
+    "name": "Garlic Pak Choy",
+    "description": "",
+    "section": "pakcoy"
+  },
+  {
+    "price": "42000",
+    "name": "Pakcoy Cah Ayam",
+    "description": "",
+    "section": "pakcoy"
+  },
+  {
+    "price": "45000",
+    "name": "Pak Coy Cah Seafood",
+    "description": "Halal",
+    "section": "pakcoy"
+  },
+  {
+    "price": "50000",
+    "name": "Pak Choy Cah Sapi",
+    "description": "",
+    "section": "pakcoy"
+  },
+  {
+    "price": "33000",
+    "name": "Toge Cah Polos",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "toge"
+  },
+  {
+    "price": "40000",
+    "name": "Toge Cah Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "toge"
+  },
+  {
+    "price": "40000",
+    "name": "Toge Cah Ikan Asin",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "toge"
+  },
+  {
+    "price": "45000",
+    "name": "Toge Cah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "toge"
+  },
+  {
+    "price": "45000",
+    "name": "Beef Cah Bean Sprouts",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "toge"
+  },
+  {
+    "price": "40000",
+    "name": "Pare Cah Ayam",
+    "description": "",
+    "section": "pare"
+  },
+  {
+    "price": "40000",
+    "name": "Bitter Gourd With Chicken Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "pare"
+  },
+  {
+    "price": "42000",
+    "name": "Pare Cah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "pare"
+  },
+  {
+    "price": "42000",
+    "name": "Pare Kuah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "pare"
+  },
+  {
+    "price": "45000",
+    "name": "Minced Chicken Chickpeas",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "buncis"
+  },
+  {
+    "price": "50000",
+    "name": "Minced Beef Chickpeas",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "buncis"
+  },
+  {
+    "price": "45000",
+    "name": "Chicken Tofu Sapo",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "tofu"
+  },
+  {
+    "price": "50000",
+    "name": "Sapo Tofu Seafood",
+    "description": "",
+    "section": "tofu"
+  },
+  {
+    "price": "42000",
+    "name": "Sapo Salted Fish Eggplant",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "tofu"
+  },
+  {
+    "price": "40000",
+    "name": "Japanese Tofu Oyster Sauce",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "tofu"
+  },
+  {
+    "price": "42000",
+    "name": "Chicken Muntahu",
+    "description": "",
+    "section": "tofu"
+  },
+  {
+    "price": "48000",
+    "name": "My Cheek Is Seafood",
+    "description": "",
+    "section": "tofu"
+  },
+  {
+    "price": "38000",
+    "name": "Salt Chili Fried Tofu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "tofu"
+  },
+  {
+    "price": "40000",
+    "name": "Salted Egg Fried Tofu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "tofu"
+  },
+  {
+    "price": "48000",
+    "name": "Fu Yung Hai Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "fuyunghai"
+  },
+  {
+    "price": "52000",
+    "name": "Fu Yung Hai Udang",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "fuyunghai"
+  },
+  {
+    "price": "10000",
+    "name": "Telor Dadar",
+    "description": "",
+    "section": "egg"
+  },
+  {
+    "price": "10000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "egg"
+  },
+  {
+    "price": "85000",
+    "name": "Gourami With Bangkok Sauce",
+    "description": "",
+    "section": "gourami fish"
+  },
+  {
+    "price": "78000",
+    "name": "Gurame Goreng",
+    "description": "",
+    "section": "gourami fish"
+  },
+  {
+    "price": "85000",
+    "name": "Gurame Saus Tiram",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "gourami fish"
+  },
+  {
+    "price": "85000",
+    "name": "Gurame Padang Sauce",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "gourami fish"
+  },
+  {
+    "price": "85000",
+    "name": "Gurame Asam Manis",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "gourami fish"
+  },
+  {
+    "price": "85000",
+    "name": "Gurame Tausi Tofu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "gourami fish"
+  },
+  {
+    "price": "87000",
+    "name": "Salted Egg Gourami",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "gourami fish"
+  },
+  {
+    "price": "110000",
+    "name": "Gurame Goreng ( 7-8Ons )",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "118000",
+    "name": "Gurame Goreng Telor Asin ( 7-8Ons )",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gourami Tausi (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gurame Padang Sauce (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gurame Saos Asam Manis (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gurame Saos Tiram (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gurame Mango Sauce (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "115000",
+    "name": "Gurame Saos Bangkok (7-8Ons)",
+    "description": "Not Mud Odor",
+    "section": "gourami fish"
+  },
+  {
+    "price": "85000",
+    "name": "Gurame Saos Mango",
+    "description": "Asem, Sweet And Spicy",
+    "section": "gourami fish"
+  },
+  {
+    "price": "70000",
+    "name": "Bangkok Sauce Dori Fish",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Dori Fish With Mango Sauce",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Ikan Dori Cabe Garam",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Ikan Dori Rica - Rica",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Salted Egg Dori Fish",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Dori Fish In Sweet And Sour Sauce",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "70000",
+    "name": "Dori Fish In Padang Sauce",
+    "description": "",
+    "section": "dori fish"
+  },
+  {
+    "price": "50000",
+    "name": "Nila Rica - Rica",
+    "description": "",
+    "section": "tilapia fish"
+  },
+  {
+    "price": "50000",
+    "name": "Tofu Tilapia Taosi",
+    "description": "",
+    "section": "tilapia fish"
+  },
+  {
+    "price": "50000",
+    "name": "Tilapia With Padang Sauce",
+    "description": "",
+    "section": "tilapia fish"
+  },
+  {
+    "price": "50000",
+    "name": "Nila Saus Tiram",
+    "description": "",
+    "section": "tilapia fish"
+  },
+  {
+    "price": "50000",
+    "name": "Nila Asam Manis",
+    "description": "",
+    "section": "tilapia fish"
+  },
+  {
+    "price": "57000",
+    "name": "Mango Sauce Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Chicken Sambel Kecombrang",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Sambal Kemangi",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Asam Manis",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Bistik Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Goreng Madu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Kungpao Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Chicken Tofu With Bean Sprout",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Black Pepper Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Goreng Cabe Garam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Onion Fried Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Butter Fried Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Fried Chicken With Padang Sauce",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Rica - Rica",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Kuluyuk Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "59000",
+    "name": "Ayam Goreng Telor Asin",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Bumbu Rujak",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "57000",
+    "name": "Green Chili Flour Fried Chicken",
+    "description": "Halal",
+    "section": "chicken"
+  },
+  {
+    "price": "60000",
+    "name": "Fried Squid With Green Chili Flour",
+    "description": "Halal",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Lada Hitam",
+    "description": "",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Cabe Garam",
+    "description": "",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Rica-Rica",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Butter Fried Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Goreng Madu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Floured Fried Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Padang Sauce Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Asam Manis",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "62000",
+    "name": "Salted Egg Fried Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Oseng Sambal Ijo",
+    "description": "Halal",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Cumi Saus Tiram",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "squid"
+  },
+  {
+    "price": "60000",
+    "name": "Black Pepper Shrimp",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Sting Beans Sambal Shrimp",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Butter Fried Shrimp",
+    "description": "",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Udang Saus Tiram",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "58000",
+    "name": "Floured Fried Shrimp",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Padang Sauce Prawns",
+    "description": "Fresh, Bersih, Enak",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Sweet And Sour Shrimp",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Udang Mayonaise",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "60000",
+    "name": "Udang Cah Pete",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "62000",
+    "name": "Salted Egg Shrimp",
+    "description": "Fresh, Clean, Delicious",
+    "section": "shrimp"
+  },
+  {
+    "price": "65000",
+    "name": "Black Pepper Beef",
+    "description": "Fresh, Bersih, Enak",
+    "section": "beef"
+  },
+  {
+    "price": "65000",
+    "name": "Sapi Cah Sayur Asin",
+    "description": "Fresh, Bersih, Enak",
+    "section": "beef"
+  },
+  {
+    "price": "65000",
+    "name": "Stir-Fried Beef Bitter Gourd",
+    "description": "Fresh, Clean, Delicious",
+    "section": "beef"
+  },
+  {
+    "price": "65000",
+    "name": "Soy Sauce Beef",
+    "description": "Fresh, Clean, Delicious",
+    "section": "beef"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Steak",
+    "description": "Fresh, Clean, Delicious",
+    "section": "beef"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Rica Dori Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Salt Chili Dori Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "38000",
+    "name": "Rice + Plain Fried Capcay",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "40000",
+    "name": "Rice + Chicken Fried Capcay",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Padang Sauce Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Butter Sauce Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Salted Egg Dori Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Sweet And Sour Fish",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Butter Fried Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Kungpao Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Rica Chicken - Rica",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Honey Fried Chicken",
+    "description": "Fresh, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Ayam Goreng Cabe Garam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Ayam Goreng Telor Asin",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Sweet And Sour Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Onion Fried Chicken",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Bistik Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Black Pepper Beef",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Beef Tausi Tofu",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Soy Sauce Beef",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Cumi Goreng Telor Asin",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Honey Fried Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Black Pepper Squid",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Butter Fried + Squid Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Padang Sauce Squid",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Cumi Rica - Rica",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Cumi Saus Tiram",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Salted Egg Shrimp",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Stir-Fried Prawn With Stinky Bean",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Black Pepper Shrimp",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Padang Sauce Shrimp",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Sweet And Sour Shrimp",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Shrimp Sting Bean Sambal",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Butter Fried Shrimp",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Oyster Sauce Shrimp",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Gurame Asam Manis",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Gurame Saos Padang",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Rice + Salted Egg Gourami",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi + Gurame Rica - Rica",
+    "description": "",
+    "section": "rice package"
+  },
+  {
+    "price": "45000",
+    "name": "Salted Fish Fried Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "30000",
+    "name": "Egg Fried Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "38000",
+    "name": "Chicken Fried Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "38000",
+    "name": "Cheese Fried Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "38000",
+    "name": "Black Pepper Fried Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "38000",
+    "name": "Combination Fried Rice",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Fried Rice + Meatballs",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Goreng Pete",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "38000",
+    "name": "Nasi Goreng Sosis",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "rice"
+  },
+  {
+    "price": "35000",
+    "name": "Soun Goreng Telur+Baso",
+    "description": "",
+    "section": "soun"
+  },
+  {
+    "price": "40000",
+    "name": "Soun Goreng Ayam+Baso",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "soun"
+  },
+  {
+    "price": "42000",
+    "name": "Soun Goreng Seafood+Baso",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "soun"
+  },
+  {
+    "price": "32000",
+    "name": "Kwetiau Goreng Telor",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "38000",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "Fresh, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "42000",
+    "name": "Kwetiau Goreng Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Kuey Teow",
+    "description": "",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "45000",
+    "name": "Fried Kwetiau With Beef",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "35000",
+    "name": "Egg Gravy Kwetiau",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "41000",
+    "name": "Kwetiau With Chicken Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "45000",
+    "name": "Kwetiau With Seafood Sauce",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "48000",
+    "name": "Special Gravy Kwetiau",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "48000",
+    "name": "Kwetiau With Beef Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "35000",
+    "name": "Kwetiau Siram Telor",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "41000",
+    "name": "Chicken Flat Noodles",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "45000",
+    "name": "Kwetiau Siram Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "48000",
+    "name": "Kwetiau Siram Spesial",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "48000",
+    "name": "Beef Kwetiau",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "32000",
+    "name": "Egg Fried Noodles",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "38000",
+    "name": "Mie Goreng Ayam",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "42000",
+    "name": "Mie Goreng Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "45000",
+    "name": "Beef Fried Noodles",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Kuah Telor",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "41000",
+    "name": "Chicken Noodle Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "45000",
+    "name": "Mie Kuah Seafood",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "48000",
+    "name": "Special Noodle Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "48000",
+    "name": "Beef Noodle Soup",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  },
+  {
+    "price": "35000",
+    "name": "Egg Flush Noodles",
+    "description": "Fresh, Halal, Clean, Delicious",
+    "section": "mie"
+  }
+]

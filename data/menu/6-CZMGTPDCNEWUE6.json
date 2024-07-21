@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "22560",
+    "name": "1 Whole Fried Mask",
+    "description": "1 Fried Masal Fish, Cucumber, Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22800",
+    "name": "1 Fried Nila Fish Tail",
+    "description": "1 Fried Tilapia Fish, Cucumber, Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "22800",
+    "name": "1 Fried Gourami Fish Tail",
+    "description": "1 Fried Gourame Fish, Cucumber, Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "1 Fried Pomfret Fish Tail",
+    "description": "1 Fried Pomfret Fish, Cucumber, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "1 Fried Mackerel Fish Tail",
+    "description": "1 Fried Kembung Fish, Cucumber, Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "19950",
+    "name": "1 Small Milkfish Presto",
+    "description": "1 Small Milkfish Presto, Cucumber, Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Shimp Roll",
+    "description": "White Rice, 3 Shimp Rolls, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Spicy Chicken",
+    "description": "White Rice, 3 Spicy Chicken, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Egg Chicken Roll",
+    "description": "White Rice, 3 Egg Chicken Rolls, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Shrimp Roll Saja",
+    "description": "5 Fried Shrimp Rolls + Sachet Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Spicy Chicken Saja",
+    "description": "5 Spicy Chicken Goreng + Sambal Sachet",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Egg Chicken Saja",
+    "description": "6 Egg Chicken Roll Goreng + Sambal Sachet",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "3 Pieces Of Fried Flour-Based Batter Tempeh",
+    "description": "3 Pcs Fried Tempehs Processed Ksgm Fried Flour",
+    "section": "today's offer"
+  },
+  {
+    "price": "21850",
+    "name": "5 Pcs Fried Flour",
+    "description": "5 Pcs Fried Tempeh Flour Processed With Ksgm",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Presto Milkfish Anchovies Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Small Presto Milk + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Rice With Anchovies",
+    "description": "Savory Teri Nasi Liwet + Spiced Fish + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Bawal Anchovy Aromatic Rice Dish",
+    "description": "Savory Teri Nasi Liwet + Pomfret Fish + Tofu And Tempe + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice With Anchovies And Anchovies Special Honey",
+    "description": "Anchovies Nasi Liwet, Honey Grilled Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Anchovies Special Grilled Chicken",
+    "description": "Anchovies Nasi Liwet, Grilled Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kalasan Chicken Anchovies Aromatic Rice",
+    "description": "Nasi Liwet Anchovies, Kalasan Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Special Fried Rice With Anchovies, Chicken, And Peanut Anchovies",
+    "description": "Anchovies Nasi Liwet, Fried Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kapas Fish Kalasan Anchovy Liwet Rice",
+    "description": "Savory Teri Nasi Liwet, Kalasan Chicken (Breast/Thigh), Snapper, Tofu, Tempeh, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice Anchovies Special Honey Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Thigh/Breast) + Katast + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Special Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Thigh/Breast) + Snapper Fish + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Special Fried Chicken",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Thigh/Breast) + Katast + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice With Anchovies And Special Honey Squid Salted Green Chili",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Breast/Thigh) + Green Chili Salted + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kalasan Aromatic Rice With Green Chili Sauce",
+    "description": "Savory Teri Nasi Liwet + Kalasan Chicken (Breast/Thigh) + Green Chili Salted + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Salted Squid",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Breast/Thigh) + Green Chilli + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovy And Fried Chicken Special Squid Salted Green Chili Sauce",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Breast/Thigh) + Green Chilli + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "38000",
+    "name": "Liwet Rice With Anchovy And Fried Chicken Special Salted Egg",
+    "description": "Savory Teri Nasi Liwet + 1 Salted Egg + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "38000",
+    "name": "Liwet Rice With Anchovy And Salted Egg Special Grilled Chicken",
+    "description": "Nasi Liwet Anchovies + Grilled Chicken (Breast / Thigh) + 1 Salted Egg + Tofu And Tempe + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Rice With Anchovies And Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "36100",
+    "name": "Nasi Liwet Teri Orek Cumi Asin Cabe Ijo",
+    "description": "Savory Teri Nasi Liwet + Green Chili Salted + Scrambled Tempeh + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "11875",
+    "name": "Just Anchovy Aromatic Rice Dish",
+    "description": "Only Nasi Liwet Anchovies",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Shredded Chicken Savings Package",
+    "description": "White Rice + Shredded Chicken + Sauteed Vegetables + Tofu/Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Paket Hemat Cakalang Suwir",
+    "description": "White Rice + Suwir Cakalang + Sauteed Vegetables + Tofu/Tempe + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27075",
+    "name": "Paket Hemat Cumi Asin Cabe Ijo",
+    "description": "White Rice + Salted Squid Green Chilies + Sauteed Vegetables + Tofu/Tempe + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Pomfret Fish Rice Package",
+    "description": "White Rice, 1 Fried Cabbage, Tempeh, Tofu, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Presto Milkfish Rice Package",
+    "description": "White Rice, 1 Small Milkfish Presto, Tempeh, Tofu, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Mackerel Rice Package",
+    "description": "White Rice, 1 Fried Kembung Fish, Tofu, Tempeh, Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Semarang Grilled Chicken Rice Package",
+    "description": "Rice + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Semarang Fried Chicken Rice Package",
+    "description": "White Rice + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Kalasan Chicken Rice Package",
+    "description": "White Rice + Fried Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Cucumber And Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Honey Grilled Chicken Rice Package",
+    "description": "White Rice + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Cucumber And Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Rames Egg Rice Savings Package",
+    "description": "White Rice + Potato Balado And Scrambled Tempeh + Sauteed Vegetables + Tofu/Tempeh + Fried Egg ( Sunny Side Up) + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Economical Egg Potato Package",
+    "description": "White Rice + Potato Balado + Fried Egg (Fish/Omelette), Tofu/Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "10450",
+    "name": "Tofu Meatballs 2 Pcs",
+    "description": "Bacem Tofu 2 Pcs",
+    "section": "today's offer"
+  },
+  {
+    "price": "10450",
+    "name": "Tempe Bacem 2 Pcs",
+    "description": "Tempe Bacem 2 Pcs",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetable + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Grilled Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Salted Egg Urap Rice",
+    "description": "White Rice + Urap Vegetable + 1 Salted Egg + Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Complete Urap Rice",
+    "description": "White Rice + Urap Vegetables + Egg (Omelette/Fried) + Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Tempeh Tofu Urap Rice",
+    "description": "White Rice + Urap Vegetable + Tofu + Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Sayuran Urap Jumbo",
+    "description": "Just Vegetables And Spicy Urap (Already Made)",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Grilled Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Pecel Rice",
+    "description": "Rice + Vegetable Pecel + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "83600",
+    "name": "1 Yellow Fried Chicken",
+    "description": "Fried Chicken (2 Breasts + 2 Thighs) + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Salted Egg Pecel Rice",
+    "description": "Rice + Vegetable Pecel + 1 Salted Egg + Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Complete Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Fried Egg (Sunny Side Up/Omelet) + Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Economical Pecel Rice With Tofu Tempeh",
+    "description": "White Rice + Vegetable Pecel + 1 Tofu + 1 Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Sayuran Pecel Jumbo",
+    "description": "Pecel Vegetables + Spicy Pecel Seasoning (Already Made)",
+    "section": "today's offer"
+  },
+  {
+    "price": "8075",
+    "name": "Teh Gelas Original 350Ml",
+    "description": "Original Glass Tea 350Ml (Not Cold)",
+    "section": "today's offer"
+  },
+  {
+    "price": "8075",
+    "name": "Teh S-Tee 390Ml",
+    "description": "S-Tee 390Ml",
+    "section": "today's offer"
+  },
+  {
+    "price": "8075",
+    "name": "Teh Pucuk Harum 350Ml",
+    "description": "Teh Pucuk Harum 350Ml (Not Cold)",
+    "section": "today's offer"
+  },
+  {
+    "price": "8075",
+    "name": "Ichi Ocha Teh Melati 350Ml",
+    "description": "Ichi Ocha Jasmine Tea 350Ml (Not Cold)",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "1 Pcs Ayam Kalasan",
+    "description": "1 Piece Of Kalasan Chicken (Breast/Thigh) + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "1/2 Kalasan Chicken Tail",
+    "description": "Fried Kalasan Chicken (1 Breast + 1 Thigh) + Cucumber And Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "1 Pcs Ayam Bakar Madu",
+    "description": "1 Piece Of Honey Grilled Chicken (Beast/Thigh) + Lalapan Of Cucumber + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "1/2 Honey Grilled Chicken Tail",
+    "description": "Honey Grilled Chicken (1 Thigh And 1 Breast) + Cucumber Vegetable + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "1 Pcs Ayam Bakar",
+    "description": "1 Slice Of Grilled Chicken (Breast/Thigh) + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "1/2 Grilled Chicken Tail",
+    "description": "Grilled Chicken (1 Breast + 1 Thigh) + Cucumber Vegetable + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "1 Piece Of Yellow Fried Chicken",
+    "description": "1 Piece Of Fried Chicken (Breast/Thigh) + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "41800",
+    "name": "1/2 Fried Chicken",
+    "description": "Fried Chicken (1 Breast + 1 Thigh) + Cucumber Vegetable + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "83600",
+    "name": "1 Bakar Chicken Semarang",
+    "description": "Grilled Chicken (2 Breasts + 2 Thighs) + Lalapan + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "83600",
+    "name": "1 Kalasan Chicken",
+    "description": "Kalasan Chicken (2 Breasts + 2 Thighs) + Cucumber And Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "83600",
+    "name": "1 Honey Grilled Chicken",
+    "description": "Honey Grilled Chicken (2 Thighs And 2 Breasts) + Cucumber Vegetables + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "80750",
+    "name": "1 Chicken Stew Semarang",
+    "description": "Yellow Seasoned Chicken 2 Breasts 2 Thighs Not Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "80750",
+    "name": "Semarang Chicken Stew - Only Breast",
+    "description": "Yellow Seasoned Chicken 4 Breasts Is Not Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "80750",
+    "name": "Semarang Chicken Thighs - Only Thighs",
+    "description": "Yellow Seasoned Chicken 4 Thighs Is Not Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "1000",
+    "name": "Accept Orders For Boxed Rice, Call Wa 0851-053-3-68",
+    "description": "Hainam Customers! We Get A Rice Box Order / Rice Box With A Mini Price Of H-1, For Family Occasions, Cakes, Etc. For More Details, Please Contact Us. Enjoy Thank You",
+    "section": "ksgm pasar baru care 0858-9310-723"
+  },
+  {
+    "price": "99999",
+    "name": "Complaints, Questions And Suggestions. Contact Wa 0858-9310-723",
+    "description": "Hainam Customer Ksg! If There Is Something Missed/Rice On The Seasoning Menu, We Will Provide It/Ti. Sorry And Thank You For Your Snacking, Sis",
+    "section": "ksgm pasar baru care 0858-9310-723"
+  },
+  {
+    "price": "22560",
+    "name": "1 Whole Fried Mask",
+    "description": "1 Fried Masal Fish, Cucumber, Chili Sauce",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "22800",
+    "name": "1 Fried Nila Fish Tail",
+    "description": "1 Fried Tilapia Fish, Cucumber, Chili Sauce",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "22800",
+    "name": "1 Fried Gourami Fish Tail",
+    "description": "1 Fried Gourame Fish, Cucumber, Chili Sauce",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "19950",
+    "name": "1 Fried Pomfret Fish Tail",
+    "description": "1 Fried Pomfret Fish, Cucumber, Sambal",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "19950",
+    "name": "1 Fried Mackerel Fish Tail",
+    "description": "1 Fried Kembung Fish, Cucumber, Chili Sauce",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "19950",
+    "name": "1 Small Milkfish Presto",
+    "description": "1 Small Milkfish Presto, Cucumber, Chili Sauce",
+    "section": "new - new menu fresh fish"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Shimp Roll",
+    "description": "White Rice, 3 Shimp Rolls, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Spicy Chicken",
+    "description": "White Rice, 3 Spicy Chicken, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "28500",
+    "name": "Paket Bento - Egg Chicken Roll",
+    "description": "White Rice, 3 Egg Chicken Rolls, Stir-Fried Vegetables, Sachet Sambal",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Shrimp Roll Saja",
+    "description": "5 Fried Shrimp Rolls + Sachet Sambal",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Spicy Chicken Saja",
+    "description": "5 Spicy Chicken Goreng + Sambal Sachet",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "28500",
+    "name": "Bento - Egg Chicken Saja",
+    "description": "6 Egg Chicken Roll Goreng + Sambal Sachet",
+    "section": "new - super bento ksgm - new"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetable Milkfish Package",
+    "description": "White Rice, Milkfish, Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetables Fish Package",
+    "description": "White Rice, Pomfret Fish, Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetables Fish Package",
+    "description": "White Rice, Bamboo Shoots, Small Portion Of Sour Vegetables, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "16000",
+    "name": "Sayur Asem Jumbo",
+    "description": "Jumbo Asem Vegetables",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "23500",
+    "name": "Tamarind Vegetable Savings Package",
+    "description": "White Rice, Small Portion Of Sour Vegetables, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "38000",
+    "name": "Sour Vegetable Kapas Fish Package",
+    "description": "White Rice, Balado Peeled Fish, Small Portion Of Tamarind Vegetables, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetable Fried Chicken Package",
+    "description": "White Rice, Fried Chicken (Breast/Thigh), Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetable Grilled Chicken Package",
+    "description": "White Rice, Grilled Chicken (Breast/Thigh), Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "39000",
+    "name": "Tamarind Vegetable Honey Grilled Chicken Package",
+    "description": "White Rice, Honey Grilled Chicken (Breast/Thigh), Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "59900",
+    "name": "Satisfied Package 1/2 Tamarind Grilled Chicken",
+    "description": "White Rice, 1/2 Grilled Chicken (Breast Thigh), Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "59900",
+    "name": "Satisfied Package 1/2 Tamarind Fried Chicken",
+    "description": "White Rice, 1/2 Fried Chicken (Breast Thigh), Small Portion Of Sour, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "59900",
+    "name": "Satisfied Package 1/2 Chicken Tail Grilled Honey Vegetable Tamarind",
+    "description": "White Rice, 1/2 Honey Grilled Chicken (Breast Thigh), Small Portion Of Sour Vegetables, Tofu, Tempeh, Sambal",
+    "section": "tamarind vegetable package"
+  },
+  {
+    "price": "13300",
+    "name": "3 Pieces Of Fried Flour-Based Batter Tempeh",
+    "description": "3 Pcs Fried Tempehs Processed Ksgm Fried Flour",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "21850",
+    "name": "5 Pcs Fried Flour",
+    "description": "5 Pcs Fried Tempeh Flour Processed With Ksgm",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "16000",
+    "name": "3 Pcs Bakwan Sayur & Cabe Rawit",
+    "description": "Fried Vegetable Bakwan (3 Pcs) Cayenne Pepper",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "19000",
+    "name": "3 Pcs Bakwan Sayur & Bumbu Pecel",
+    "description": "Fried Bakwan Vegetables (3 Pcs) Separate Pecel Seasoning",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "16000",
+    "name": "1 Pcs Lumpia Semarang Ksgm (Goreng)",
+    "description": "Spring Rolls Of Processed Ksgm With A Mixture Of Bamboo Shoots, Chicken And Eggs. Guaranteed Halal.",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "48000",
+    "name": "3 Pcs Lumpia Semarang Ksgm (Goreng)",
+    "description": "Spring Rolls Of Processed Ksgm With A Mixture Of Bamboo Shoots, Chicken And Eggs. Guaranteed Halal.",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "80000",
+    "name": "5 Pcs Lumpia Semarang Ksgm (Goreng)",
+    "description": "Spring Rolls Of Processed Ksgm With A Mixture Of Bamboo Shoots, Chicken And Eggs. Guaranteed Halal.",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "19000",
+    "name": "2 Pcs Tofu Meatballs Semarang Ksgm (Fried)",
+    "description": "Tofu Semarang Baso Is Processed With A Combination Of Beef And Chicken. Guaranteed Halal.",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "48000",
+    "name": "5 Pcs Tofu Meatballs Semarang Ksgm (Fried)",
+    "description": "Tofu Semarang Baso Is Processed With A Combination Of Beef And Chicken. Guaranteed Halal.",
+    "section": "semarang signature snacks ksgm"
+  },
+  {
+    "price": "70000",
+    "name": "1 Bandeng Juwana Elrina Semarang",
+    "description": "1 Fried Semarang Milkfish + Cucumber Vegetables + Sambal",
+    "section": "original semarang erlina's presto erlina"
+  },
+  {
+    "price": "67000",
+    "name": "1 Milkfish By Juwana Elrina (Frozen)",
+    "description": "1 Tender Juwana Juwana (Free)",
+    "section": "original semarang erlina's presto erlina"
+  },
+  {
+    "price": "37050",
+    "name": "Presto Milkfish Anchovies Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Small Presto Milk + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Rice With Anchovies",
+    "description": "Savory Teri Nasi Liwet + Spiced Fish + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Bawal Anchovy Aromatic Rice Dish",
+    "description": "Savory Teri Nasi Liwet + Pomfret Fish + Tofu And Tempe + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice With Anchovies And Anchovies Special Honey",
+    "description": "Anchovies Nasi Liwet, Honey Grilled Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Anchovies Special Grilled Chicken",
+    "description": "Anchovies Nasi Liwet, Grilled Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kalasan Chicken Anchovies Aromatic Rice",
+    "description": "Nasi Liwet Anchovies, Kalasan Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Special Fried Rice With Anchovies, Chicken, And Peanut Anchovies",
+    "description": "Anchovies Nasi Liwet, Fried Chicken (Thigh/Breast), Tofu And Tempeh, Anchovies, Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kapas Fish Kalasan Anchovy Liwet Rice",
+    "description": "Savory Teri Nasi Liwet, Kalasan Chicken (Breast/Thigh), Snapper, Tofu, Tempeh, Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice Anchovies Special Honey Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Thigh/Breast) + Katast + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Special Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Thigh/Breast) + Snapper Fish + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Special Fried Chicken",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Thigh/Breast) + Katast + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "41800",
+    "name": "Liwet Rice With Anchovies And Special Honey Squid Salted Green Chili",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Breast/Thigh) + Green Chili Salted + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Special Kalasan Aromatic Rice With Green Chili Sauce",
+    "description": "Savory Teri Nasi Liwet + Kalasan Chicken (Breast/Thigh) + Green Chili Salted + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovies And Salted Squid",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Breast/Thigh) + Green Chilli + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "40850",
+    "name": "Liwet Rice With Anchovy And Fried Chicken Special Squid Salted Green Chili Sauce",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Breast/Thigh) + Green Chilli + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "38000",
+    "name": "Liwet Rice With Anchovy And Fried Chicken Special Salted Egg",
+    "description": "Savory Teri Nasi Liwet + 1 Salted Egg + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "38000",
+    "name": "Liwet Rice With Anchovy And Salted Egg Special Grilled Chicken",
+    "description": "Nasi Liwet Anchovies + Grilled Chicken (Breast / Thigh) + 1 Salted Egg + Tofu And Tempe + Lalapan + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Rice With Anchovies And Grilled Chicken",
+    "description": "Savory Teri Nasi Liwet + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Anchovy Aromatic Rice",
+    "description": "Savory Teri Nasi Liwet + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "36100",
+    "name": "Nasi Liwet Teri Orek Cumi Asin Cabe Ijo",
+    "description": "Savory Teri Nasi Liwet + Green Chili Salted + Scrambled Tempeh + Tofu And Tempeh + Sambal",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "11875",
+    "name": "Just Anchovy Aromatic Rice Dish",
+    "description": "Only Nasi Liwet Anchovies",
+    "section": "savory anchovy aromatic rice ksgm"
+  },
+  {
+    "price": "25650",
+    "name": "Shredded Chicken Savings Package",
+    "description": "White Rice + Shredded Chicken + Sauteed Vegetables + Tofu/Tempeh + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "25650",
+    "name": "Paket Hemat Cakalang Suwir",
+    "description": "White Rice + Suwir Cakalang + Sauteed Vegetables + Tofu/Tempe + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "27075",
+    "name": "Paket Hemat Cumi Asin Cabe Ijo",
+    "description": "White Rice + Salted Squid Green Chilies + Sauteed Vegetables + Tofu/Tempe + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Pomfret Fish Rice Package",
+    "description": "White Rice, 1 Fried Cabbage, Tempeh, Tofu, Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "28500",
+    "name": "Presto Milkfish Rice Package",
+    "description": "White Rice, 1 Small Milkfish Presto, Tempeh, Tofu, Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Mackerel Rice Package",
+    "description": "White Rice, 1 Fried Kembung Fish, Tofu, Tempeh, Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "30400",
+    "name": "Semarang Grilled Chicken Rice Package",
+    "description": "Rice + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Lalapan + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "30400",
+    "name": "Semarang Fried Chicken Rice Package",
+    "description": "White Rice + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Lalapan + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "30400",
+    "name": "Kalasan Chicken Rice Package",
+    "description": "White Rice + Fried Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Cucumber And Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "30400",
+    "name": "Honey Grilled Chicken Rice Package",
+    "description": "White Rice + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Cucumber And Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "27550",
+    "name": "Rames Egg Rice Savings Package",
+    "description": "White Rice + Potato Balado And Scrambled Tempeh + Sauteed Vegetables + Tofu/Tempeh + Fried Egg ( Sunny Side Up) + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "24700",
+    "name": "Economical Egg Potato Package",
+    "description": "White Rice + Potato Balado + Fried Egg (Fish/Omelette), Tofu/Tempeh + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "24000",
+    "name": "Economical Package Orek Wet Eggs",
+    "description": "White Rice + Wet Tempeh Orek + Fried Egg (Sunny Side Up/Omelet) + Tofu/Tempe + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "24000",
+    "name": "Paket Hemat Orek Kering Telur",
+    "description": "White Rice + Dry Tempeh Orek + Fried Egg (Omelette/Fried/Fried) + Tofu/Tempe + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "24000",
+    "name": "Egg Skin Savings Package",
+    "description": "White Rice + Chicken Skin + Egg (Fish/Omelette) + Tofu/Tempeh + Sambal",
+    "section": "paket hemat ksgm"
+  },
+  {
+    "price": "10450",
+    "name": "Tofu Meatballs 2 Pcs",
+    "description": "Bacem Tofu 2 Pcs",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "10450",
+    "name": "Tempe Bacem 2 Pcs",
+    "description": "Tempe Bacem 2 Pcs",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "26000",
+    "name": "Ayam Suwir Jumbo",
+    "description": "Jumbo Shredded Chicken",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "25000",
+    "name": "Cakalang Suwir Jumbo",
+    "description": "Jumbo Shredded Cakalang",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "23000",
+    "name": "Kentang Balado Jumbo",
+    "description": "Balado Potatoes",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "29000",
+    "name": "Cumi Asin Cabe Ijo",
+    "description": "Jumbo Green Chili Salted Squid",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "23000",
+    "name": "Stick Kentang Mustofa",
+    "description": "1 Pack Of Mustofa Potatoes",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "27000",
+    "name": "Jumbo Cotton Salted Fish",
+    "description": "Jumbo Peeled Salted Fish",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "25000",
+    "name": "Peanut Anchovies",
+    "description": "1 Pack Of Peanut Anchovies",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "17000",
+    "name": "Processed Peanuts Ksgm",
+    "description": "1 Pack Of Peyek Peanuts Processed Ksgm",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "17000",
+    "name": "Rebon Shrimp Peyek",
+    "description": "1 Pack Of Processed Peyek Ksgm",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "15000",
+    "name": "Kulit Ayam Goreng",
+    "description": "1 Pack Of Fried Chicken Skin",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "17000",
+    "name": "Jumbo Dry Tempeh Orek",
+    "description": "Jumbo Dry Scrambled Tempeh",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "15000",
+    "name": "Orek Tempeh Wet",
+    "description": "Big Wet Scrambled Tempeh",
+    "section": "alacarte lauk jumbo"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetable + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "37050",
+    "name": "Grilled Chicken Urap Rice",
+    "description": "White Rice + Urap Vegetables + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "27550",
+    "name": "Salted Egg Urap Rice",
+    "description": "White Rice + Urap Vegetable + 1 Salted Egg + Tofu And Tempeh",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "27550",
+    "name": "Complete Urap Rice",
+    "description": "White Rice + Urap Vegetables + Egg (Omelette/Fried) + Tofu And Tempeh",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "20900",
+    "name": "Tempeh Tofu Urap Rice",
+    "description": "White Rice + Urap Vegetable + Tofu + Tempeh",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "19000",
+    "name": "Sayuran Urap Jumbo",
+    "description": "Just Vegetables And Spicy Urap (Already Made)",
+    "section": "vegetable urap rice"
+  },
+  {
+    "price": "37050",
+    "name": "Kalasan Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Kalasan Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "37050",
+    "name": "Honey Grilled Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Honey Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "37050",
+    "name": "Grilled Chicken Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Grilled Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "37050",
+    "name": "Fried Chicken Pecel Rice",
+    "description": "Rice + Vegetable Pecel + Fried Chicken (Breast/Thigh) + Tofu And Tempeh + Sambal",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "27550",
+    "name": "Salted Egg Pecel Rice",
+    "description": "Rice + Vegetable Pecel + 1 Salted Egg + Tofu And Tempeh",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "27550",
+    "name": "Complete Pecel Rice",
+    "description": "White Rice + Vegetable Pecel + Fried Egg (Sunny Side Up/Omelet) + Tofu And Tempeh",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "20900",
+    "name": "Economical Pecel Rice With Tofu Tempeh",
+    "description": "White Rice + Vegetable Pecel + 1 Tofu + 1 Tempeh",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "19000",
+    "name": "Sayuran Pecel Jumbo",
+    "description": "Pecel Vegetables + Spicy Pecel Seasoning (Already Made)",
+    "section": "vegetable pecel rice"
+  },
+  {
+    "price": "6500",
+    "name": "White Crackers",
+    "description": "1 White Cracker",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "1 Portion Of White Rice",
+    "section": "additional side dish"
+  },
+  {
+    "price": "9000",
+    "name": "Salted Egg",
+    "description": "1 Salted Egg",
+    "section": "additional side dish"
+  },
+  {
+    "price": "9000",
+    "name": "Telur Balado",
+    "description": "1 Balado Egg",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8000",
+    "name": "Telur Dadar",
+    "description": "1 Telur Dadar",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8000",
+    "name": "Sunny Side Up",
+    "description": "1 Telur Ceplok",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8500",
+    "name": "Extra Red Chili Sauce",
+    "description": "Extra Red Sambal",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Pecel Seasoning",
+    "description": "Special Peanut Sauce Ksgm",
+    "section": "additional side dish"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Urap Seasoning",
+    "description": "1 Ekstra Bumbu Urap",
+    "section": "additional side dish"
+  }
+]

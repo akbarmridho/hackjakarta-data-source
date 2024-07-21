@@ -1,0 +1,386 @@
+[
+  {
+    "price": "46000",
+    "name": "Paket Eid Special",
+    "description": "(1) Rice (1) + Original Chicken (1) + Sambal (1) + Lalapan (1) + Intestine Satay/Vermicelli (1) + Fried Cabbage (1) + Crunchy Bits/ Cold/ Tea/Tempeh (1)",
+    "section": "today's offer"
+  },
+  {
+    "price": "60000",
+    "name": "Paket Eid Delight",
+    "description": "Nasi (1) + Ayam Original (2) + Sambal (2) + Lalapan (1) + Es Teh Manis (1)",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "Paket Eid Combo",
+    "description": "Nasi (2) + Ayam Original (2) + Sambal (2) + Lalapan (2) + Tahu/Tempe (1) + Sate Usus/Ati Ampela/Kulit (1) + Kol Goreng (2)",
+    "section": "today's offer"
+  },
+  {
+    "price": "46000",
+    "name": "Paket Eid Special",
+    "description": "(1) Rice (1) + Original Chicken (1) + Sambal (1) + Lalapan (1) + Intestine Satay/Vermicelli (1) + Fried Cabbage (1) + Crunchy Bits/ Cold/ Tea/Tempeh (1)",
+    "section": "gembus eid adha"
+  },
+  {
+    "price": "60000",
+    "name": "Paket Eid Delight",
+    "description": "Nasi (1) + Ayam Original (2) + Sambal (2) + Lalapan (1) + Es Teh Manis (1)",
+    "section": "gembus eid adha"
+  },
+  {
+    "price": "80000",
+    "name": "Paket Eid Combo",
+    "description": "Nasi (2) + Ayam Original (2) + Sambal (2) + Lalapan (2) + Tahu/Tempe (1) + Sate Usus/Ati Ampela/Kulit (1) + Kol Goreng (2)",
+    "section": "gembus eid adha"
+  },
+  {
+    "price": "47000",
+    "name": "Paket E",
+    "description": "Rice+Original Chicken+Tofu/Tempeh+Eggplant+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "47000",
+    "name": "Paket D",
+    "description": "Rice+Original Chicken+Tofu+Tempe+Meatballs+Sambaal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "47000",
+    "name": "Paket C",
+    "description": "Rice+Original Chicken+Tofu/Tempeh+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "47000",
+    "name": "Paket B",
+    "description": "Rice+Original Chicken+Tofu+Tempe+ Satayan+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "42500",
+    "name": "Paket A",
+    "description": "Rice+Original Chicken+Tofu+Tempe+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "40000",
+    "name": "Paket E Crispy",
+    "description": "Rice+Crispy+Tofu/Tempeh+Eggplant+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "40000",
+    "name": "Paket D Crispy",
+    "description": "Rice+Free+Crispy+Tofu+Tempe+Meatball+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "40000",
+    "name": "Paket C Crispy",
+    "description": "Rice+Crispy+Tofu/Tempeh+Sayur Asem+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "40000",
+    "name": "Paket B Crispy",
+    "description": "Rice+Crispy Fillet+Tofu+Tempe+ Satay+Sambal+Lalapan+Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "35500",
+    "name": "Paket A Crispy",
+    "description": "Rice+Crispy+Tofu+Tempe+Sambal+Lalapan + Sweet Iced Tea",
+    "section": "package a-e"
+  },
+  {
+    "price": "19000",
+    "name": "Indomie Gepuk Goreng",
+    "description": "Indomie Fried+Egg+Sambal+Lalapan",
+    "section": "paket indomie"
+  },
+  {
+    "price": "34500",
+    "name": "Indomie Puas Goreng",
+    "description": "Indofried Noodle + Crispy Fillet + Egg + Sambal + Lalapan + Sweet Iced Tea",
+    "section": "paket indomie"
+  },
+  {
+    "price": "28500",
+    "name": "Indomie Crispy Goreng",
+    "description": "Indofried Noodle + Crispy Fillet + Chili Sauce + Lalapan",
+    "section": "paket indomie"
+  },
+  {
+    "price": "38000",
+    "name": "Ori 3",
+    "description": "Nasi+Ayam Original+Sambal+Tofu/Tempe+Gembel Orange/Lemon Tea/Milky Melon",
+    "section": "paket ori"
+  },
+  {
+    "price": "40500",
+    "name": "Ori 2",
+    "description": "Rice+Original Chicken+Sambal+Satay+Gembus Orange/Lemon Tea/Milky Melon",
+    "section": "paket ori"
+  },
+  {
+    "price": "46000",
+    "name": "Original Combo",
+    "description": "Rice+Original Chicken+Sambal+Tofu+Tempe+Satay+Gembel Orange/Lemon Tea/Milky Melon",
+    "section": "paket ori"
+  },
+  {
+    "price": "36500",
+    "name": "Ori 1",
+    "description": "Rice+Original Chicken+Sambal+Gembus Orange/Lemon Tea/Milky Melon",
+    "section": "paket ori"
+  },
+  {
+    "price": "11000",
+    "name": "Terong Goreng Crispy",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "8000",
+    "name": "Sambal Gembus",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "25000",
+    "name": "Ayam Dada Bakar",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "25000",
+    "name": "Ayam Paha Bakar",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "19500",
+    "name": "Ayam Fillet",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "25000",
+    "name": "Ayam Dada Original",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "25000",
+    "name": "Ayam Paha Original",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "5500",
+    "name": "Sate Kulit",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "5500",
+    "name": "Sate Usus",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4500",
+    "name": "Tofu",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4500",
+    "name": "Tempeh",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7500",
+    "name": "Rice",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7000",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7000",
+    "name": "Kol Goreng",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "12000",
+    "name": "Pete Goreng",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "19500",
+    "name": "Small Crispy Chicken",
+    "description": "*Wajib Is Given Notes: Choice Of Wings Or Lower Thighs",
+    "section": "a la carte"
+  },
+  {
+    "price": "22000",
+    "name": "Ayam Crispy Jumbo",
+    "description": "*Wajib Is Given Notes: Choice Of Breast Or Upper Thighs",
+    "section": "a la carte"
+  },
+  {
+    "price": "5500",
+    "name": "Gizzard Liver Satay",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7000",
+    "name": "Terong Goreng",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "12500",
+    "name": "Gembus Milky Melon",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11500",
+    "name": "Gembus Orange",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11500",
+    "name": "Gembus Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh Manis (Es)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Tea (Hot)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Air Mineral 600 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "31500",
+    "name": "Paket Khentir 1",
+    "description": "Rice+Original Chicken+Sambal+Tempe/Tofu",
+    "section": "paket khentir"
+  },
+  {
+    "price": "33000",
+    "name": "Paket Khentir 2",
+    "description": "Rice+Original Chicken+Sambal+Soy Sauce/Skin/Beef",
+    "section": "paket khentir"
+  },
+  {
+    "price": "35500",
+    "name": "Paket Khentir 3",
+    "description": "Rice+Original Chicken+Sambal+Tempe/Tofu+Satay (1Pcs)",
+    "section": "paket khentir"
+  },
+  {
+    "price": "41000",
+    "name": "Paket Khentir 4",
+    "description": "Rice+Original Chicken+Sambal+Tempe/Tofu+Satay (1Pcs)+Egg/Eggplant Egg",
+    "section": "paket khentir"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Terkhentir",
+    "description": "Rice+Original Chicken+Sambal+Tempe+Tofu+Satay (1Pcs)+Egg+Eggplant+Eggplant",
+    "section": "paket khentir"
+  },
+  {
+    "price": "95000",
+    "name": "Paket Kenthir Loro (Free 2Pcs Sprite 250Ml )",
+    "description": "Nasi (2) + Lalapan (2) + Ayam Original (2) + Sambal (2) + Sate Usus/Ati Ampela/Kulit (2) + Kol Goreng (2) + Free 2pcs Sprite 250ml",
+    "section": "special kenthir free sprite package"
+  },
+  {
+    "price": "57000",
+    "name": "Paket Siji Kenthir (Free 1Pcs Sprite 250Ml)",
+    "description": "Nasi (1) + Lalapan (1) + Ayam Original (1) + Sambal (1) + Tahu (1) + Tempe (1) + Kol Goreng (1) + Free 1pcs Sprite 250ml",
+    "section": "special kenthir free sprite package"
+  },
+  {
+    "price": "38000",
+    "name": "Khentir Gedhe Package 1",
+    "description": "Rice+Smashed Original Chicken+Sambal+Tempe/Tofu",
+    "section": "khentir gedhe package"
+  },
+  {
+    "price": "40000",
+    "name": "Kwetiaw Gedhe Package 2",
+    "description": "Rice+S Original Chicken Gedhe+Sambal+Soy Sauce/Skin/Ti",
+    "section": "khentir gedhe package"
+  },
+  {
+    "price": "44000",
+    "name": "Khentir Gedhe Package 3",
+    "description": "Nasi+Si Original Chicken Gedhe+Sambal+Tempe/Tofu+Satay/Skin/Beef (1Pcs)",
+    "section": "khentir gedhe package"
+  },
+  {
+    "price": "49000",
+    "name": "Khentir Gedhe Package 4",
+    "description": "Nasi+Si Original Chicken Gedhe+Sambal+Tempe/Tofu+Satay/Chicken (1Pcs)+Egg/Eggplant Egg",
+    "section": "khentir gedhe package"
+  },
+  {
+    "price": "53000",
+    "name": "The Most Delicious Gedhe Package",
+    "description": "Nasi+Si Original Chicken Gedhe+Sambal+Tempe/Tofu+Satay/Skinati (1Pcs)+Egg+Eggplant+Eggplant",
+    "section": "khentir gedhe package"
+  },
+  {
+    "price": "25500",
+    "name": "Paket Ayam Fillet",
+    "description": "",
+    "section": "paket fillet"
+  },
+  {
+    "price": "35500",
+    "name": "Gempi Jumbo",
+    "description": "Rice+Sambal+ Big Crispy Chicken+Gembus Orange/Lemon Tea/Milky Melon",
+    "section": "paket gempi (gembus krispi)"
+  },
+  {
+    "price": "29000",
+    "name": "Economical Gempi",
+    "description": "Rice+Sambal+Lower Thighs/Wings+Gembus Orange/Lemon Tea/Milky Melon",
+    "section": "paket gempi (gembus krispi)"
+  },
+  {
+    "price": "41000",
+    "name": "Gempi Wings",
+    "description": "Rice+Sambal+2 Crispy Chicken Wings+Gembus Orange/Lemon Tea/Milky Melon",
+    "section": "paket gempi (gembus krispi)"
+  }
+]

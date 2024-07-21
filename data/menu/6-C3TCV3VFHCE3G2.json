@@ -1,0 +1,146 @@
+[
+  {
+    "price": "5000",
+    "name": "Packaging",
+    "description": "",
+    "section": "kemasan"
+  },
+  {
+    "price": "29000",
+    "name": "KeCe 6 (Lychee Tea + Croffle + Topping Choco)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "27500",
+    "name": "KeCe 5 (Lemon Tea + Croffle + Topping Choco)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "25000",
+    "name": "KeCe 4 (Coffee latte + Croffle)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "25000",
+    "name": "KeCe 3 (Dark Choco + Croffle)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "22500",
+    "name": "KeCe 2 (Thai Tea + Croffle)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "19000",
+    "name": "KeCe 1 (Original Tea + Croffle)",
+    "description": "",
+    "section": "kece (kejutan ceria)"
+  },
+  {
+    "price": "36000",
+    "name": "3 Croffle",
+    "description": "",
+    "section": "croffle"
+  },
+  {
+    "price": "12000",
+    "name": "Croffle",
+    "description": "",
+    "section": "croffle"
+  },
+  {
+    "price": "12000",
+    "name": "Dark Choco",
+    "description": "",
+    "section": "h! choco"
+  },
+  {
+    "price": "18000",
+    "name": "Choco Hazelnut",
+    "description": "",
+    "section": "h! choco"
+  },
+  {
+    "price": "18000",
+    "name": "Choco Caramel",
+    "description": "",
+    "section": "h! choco"
+  },
+  {
+    "price": "12000",
+    "name": "Mango",
+    "description": "",
+    "section": "h! classic"
+  },
+  {
+    "price": "12000",
+    "name": "Cookies & Cream",
+    "description": "",
+    "section": "h! classic"
+  },
+  {
+    "price": "6000",
+    "name": "Americano",
+    "description": "",
+    "section": "h! coffee"
+  },
+  {
+    "price": "12000",
+    "name": "Coffee Latte",
+    "description": "",
+    "section": "h! coffee"
+  },
+  {
+    "price": "15000",
+    "name": "Brown Sugar Coffee",
+    "description": "",
+    "section": "h! coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Caramel Latte",
+    "description": "",
+    "section": "h! coffee"
+  },
+  {
+    "price": "15000",
+    "name": "Brown Sugar Boba Milk",
+    "description": "",
+    "section": "h!"
+  },
+  {
+    "price": "6000",
+    "name": "Lemon Tea",
+    "description": "",
+    "section": "h! tea series"
+  },
+  {
+    "price": "6000",
+    "name": "Original Tea",
+    "description": "",
+    "section": "h! tea series"
+  },
+  {
+    "price": "10000",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "h! tea series"
+  },
+  {
+    "price": "9000",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "h! milk tea series"
+  },
+  {
+    "price": "12000",
+    "name": "Milk Tea",
+    "description": "",
+    "section": "h! milk tea series"
+  }
+]

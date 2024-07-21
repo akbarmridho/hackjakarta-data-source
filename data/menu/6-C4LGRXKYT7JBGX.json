@@ -1,0 +1,104 @@
+[
+  {
+    "price": "28500",
+    "name": "Black Spiced Duck Rice",
+    "description": "Rice + Black Seasoned Duck",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "28500",
+    "name": "Black Spiced Chicken Rice",
+    "description": "Rice + Black Seasoned Fried Chicken",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "31500",
+    "name": "Black Spiced Chicken Skin Rice",
+    "description": "Rice + Chicken + Skin + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "32500",
+    "name": "Black Spiced Intestine Duck Rice",
+    "description": "Rice + Duck + Skewer + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "31500",
+    "name": "Black Spiced Duck Skin Rice",
+    "description": "Rice + Duck + Skewer Skin + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "31500",
+    "name": "Black Spiced Intestine Chicken Rice",
+    "description": "Rice + Chicken + Intestine",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "31500",
+    "name": "Special Chicken Rice",
+    "description": "Rice + Chicken + Tempe Tofu + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "31500",
+    "name": "Special Duck Rice",
+    "description": "Rice + Duck + Tempeh Tofu + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "32500",
+    "name": "Liver Gizzard Duck Rice",
+    "description": "Rice + Duck + Liver Gizzard + Black Seasoning",
+    "section": "paket hemat discon 10% ( 16 september - 16 oktober)"
+  },
+  {
+    "price": "18500",
+    "name": "Duck With Black Spices",
+    "description": "1Pcs",
+    "section": "various duck black spiced chicken"
+  },
+  {
+    "price": "18500",
+    "name": "Ayam Goreng Bumbu Hitam",
+    "description": "",
+    "section": "various duck black spiced chicken"
+  },
+  {
+    "price": "12500",
+    "name": "Liver Gizzard With Black Spices",
+    "description": "1Pc",
+    "section": "various duck black spiced chicken"
+  },
+  {
+    "price": "15000",
+    "name": "Kulit Tusuk",
+    "description": "2 Pcs",
+    "section": "various duck black spiced chicken"
+  },
+  {
+    "price": "16500",
+    "name": "Usus Tusuk",
+    "description": "3 Pcs",
+    "section": "various duck black spiced chicken"
+  },
+  {
+    "price": "15000",
+    "name": "Es Kelapa",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "aneka minuman"
+  }
+]

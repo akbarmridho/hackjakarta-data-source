@@ -1,0 +1,410 @@
+[
+  {
+    "price": "72000",
+    "name": "Soup Iga",
+    "description": "",
+    "section": "soup"
+  },
+  {
+    "price": "72000",
+    "name": "Soup Buntut",
+    "description": "",
+    "section": "soup"
+  },
+  {
+    "price": "42000",
+    "name": "Kopi Hitam Arabica Gayo",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Kopi Sanger",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "36000",
+    "name": "Espresso",
+    "description": "1 Shot",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Green Tea Coffee",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Cappucino",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "48000",
+    "name": "Sangeran The Atjeh Connection",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Coffee Latte",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Pandan Milk Coffee Iced",
+    "description": "",
+    "section": "varian kopi atjeh"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Atjeh Tea",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "42000",
+    "name": "Green Tea Latte",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "29500",
+    "name": "Es Timun Serut",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "41000",
+    "name": "Teh Tarik Atjeh",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "21000",
+    "name": "Kue Ade",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "31000",
+    "name": "Cane Polos",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "9800",
+    "name": "Timphan",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Milk Cheese Cane",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "9800",
+    "name": "Grilled Pulot",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Martabak Telur Atjeh",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "29500",
+    "name": "Roti Goreng Atjeh",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "39000",
+    "name": "Jala Milk Cheese",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "72000",
+    "name": "Roti Ari Atjeh Connection",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "48000",
+    "name": "Pulot Durian",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "9800",
+    "name": "Kue Ade",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "29500",
+    "name": "Roti Srikaya",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "59000",
+    "name": "Jala Durian",
+    "description": "",
+    "section": "snacks and cake atjeh"
+  },
+  {
+    "price": "29500",
+    "name": "Rendang",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "24000",
+    "name": "Balado Fish",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "36000",
+    "name": "Vegetable Pliek 'U",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "89000",
+    "name": "Snapper Head Curry",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "89000",
+    "name": "Tiran Masak Atjeh",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "120000",
+    "name": "Chicken Catch Atjeh",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "29500",
+    "name": "Atjeh Cooked Fish",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "59000",
+    "name": "Keu'Eng Sour Fish",
+    "description": "",
+    "section": "menu khas atjeh"
+  },
+  {
+    "price": "54000",
+    "name": "Kampong Chicken Curry",
+    "description": "",
+    "section": "aneka kari"
+  },
+  {
+    "price": "75000",
+    "name": "Kari Kambing",
+    "description": "",
+    "section": "aneka kari"
+  },
+  {
+    "price": "54000",
+    "name": "Duck Curry",
+    "description": "",
+    "section": "aneka kari"
+  },
+  {
+    "price": "20000",
+    "name": "Indomie Polos",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "27000",
+    "name": "Indomie Telor",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "30000",
+    "name": "Plain Atjeh Noodles",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "36000",
+    "name": "Atjeh Egg Noodles",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "54000",
+    "name": "Chicken Noodles Atjeh Special",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "48000",
+    "name": "Mie Aceh Seafood",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "48000",
+    "name": "Mie Atjeh Meat",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "36000",
+    "name": "Indomie Cooked Aceh",
+    "description": "",
+    "section": "mie atjeh"
+  },
+  {
+    "price": "54000",
+    "name": "Lontong Sayur Spesial",
+    "description": "Rendang + Egg",
+    "section": "lontong atjeh"
+  },
+  {
+    "price": "30000",
+    "name": "Lontong Sayur Telor Balado",
+    "description": "",
+    "section": "lontong atjeh"
+  },
+  {
+    "price": "15000",
+    "name": "Sayur Lontong",
+    "description": "",
+    "section": "lontong atjeh"
+  },
+  {
+    "price": "10000",
+    "name": "Lontong",
+    "description": "",
+    "section": "plain rice"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "plain rice"
+  },
+  {
+    "price": "15000",
+    "name": "Plain Savory Rice",
+    "description": "",
+    "section": "plain rice"
+  },
+  {
+    "price": "54000",
+    "name": "Special Savory Rice",
+    "description": "Rendang + Egg",
+    "section": "atjeh savory rice"
+  },
+  {
+    "price": "48000",
+    "name": "Rendang Savory Rice",
+    "description": "",
+    "section": "atjeh savory rice"
+  },
+  {
+    "price": "48000",
+    "name": "Savory Fish Rice + Egg Balado",
+    "description": "",
+    "section": "atjeh savory rice"
+  },
+  {
+    "price": "42000",
+    "name": "Savory Balado Fish Rice",
+    "description": "",
+    "section": "atjeh savory rice"
+  },
+  {
+    "price": "30000",
+    "name": "Savory Balado Egg Rice",
+    "description": "",
+    "section": "atjeh savory rice"
+  },
+  {
+    "price": "48000",
+    "name": "Rendang Vegetable Rice",
+    "description": "",
+    "section": "atjeh vegetable rice"
+  },
+  {
+    "price": "54000",
+    "name": "Special Vegetable Rice",
+    "description": "Rendang + Egg",
+    "section": "atjeh vegetable rice"
+  },
+  {
+    "price": "42000",
+    "name": "Balado Fish Vegetable Rice",
+    "description": "",
+    "section": "atjeh vegetable rice"
+  },
+  {
+    "price": "30000",
+    "name": "Balado Egg Vegetable Rice",
+    "description": "",
+    "section": "atjeh vegetable rice"
+  },
+  {
+    "price": "54000",
+    "name": "Complete Fried Rice",
+    "description": "",
+    "section": "nasi goreng atjeh"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Goreng Telor",
+    "description": "",
+    "section": "nasi goreng atjeh"
+  },
+  {
+    "price": "42000",
+    "name": "Balado Fish Fried Rice",
+    "description": "",
+    "section": "nasi goreng atjeh"
+  },
+  {
+    "price": "48000",
+    "name": "Rendang Fried Rice",
+    "description": "",
+    "section": "nasi goreng atjeh"
+  },
+  {
+    "price": "54000",
+    "name": "Oxtail Fried Rice",
+    "description": "",
+    "section": "nasi goreng atjeh"
+  },
+  {
+    "price": "36000",
+    "name": "Grilled Chicken Rice Package",
+    "description": "",
+    "section": "paket ayam bakar"
+  },
+  {
+    "price": "180000",
+    "name": "Package Of 1 Grilled Village Chicken",
+    "description": "",
+    "section": "paket ayam bakar"
+  }
+]

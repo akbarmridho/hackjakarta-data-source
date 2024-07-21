@@ -1,0 +1,266 @@
+[
+  {
+    "price": "18000",
+    "name": "Omaga Rice",
+    "description": "Rice + Sausage + Egg + Sambal",
+    "section": "cheap rice"
+  },
+  {
+    "price": "32000",
+    "name": "Cheese Chicken Rice",
+    "description": "Rice + Cheese Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "32000",
+    "name": "Curry Chicken Rice",
+    "description": "Rice + Chicken Curry + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "31000",
+    "name": "Nasi Ayam Pedas",
+    "description": "Rice + Spicy Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "31000",
+    "name": "Yakiniku Chicken Rice",
+    "description": "Rice + Chicken Yakiniku + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "29000",
+    "name": "Nasi Ayam Original",
+    "description": "Rice + Original Chicken + Egg + Sambal",
+    "section": "chicken rice"
+  },
+  {
+    "price": "32000",
+    "name": "Spicy Cheese Yamin Rice",
+    "description": "Rice + Chopped Spicy Cheese Chicken + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "31000",
+    "name": "Spicy Soy Sauce Yamin Rice",
+    "description": "Rice + Chopped Soy Sauce Chicken + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "29000",
+    "name": "Nasi Yamin Original",
+    "description": "Rice + Original Minced Chicken Pieces + Egg + Sambal",
+    "section": "yamin rice"
+  },
+  {
+    "price": "38000",
+    "name": "Japanese Peanut Fish Rice",
+    "description": "Rice + Japanese Floured Fish Pieces + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "35000",
+    "name": "Spicy Cheese Fish Rice",
+    "description": "Rice + Spicy Cheese Flour + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "35000",
+    "name": "Original Fish Rice",
+    "description": "Rice + Original Flour Fish Pieces + Egg + Sambal",
+    "section": "fish rice"
+  },
+  {
+    "price": "38000",
+    "name": "Spicy Sesame Beef Rice",
+    "description": "Rice + Spicy Sesame Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "35000",
+    "name": "Spicy Beef Rice",
+    "description": "Rice + Spicy Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "35000",
+    "name": "Black Pepper Beef Rice",
+    "description": "Rice + Black Pepper Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "35000",
+    "name": "Beef Rice Yakiniku",
+    "description": "Rice + Sliced Beef Yakiniku + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "35000",
+    "name": "Original Beef Rice",
+    "description": "Rice + Original Beef Slices + Egg + Sambal",
+    "section": "beef rice"
+  },
+  {
+    "price": "41000",
+    "name": "Spicy Beef Rice Box",
+    "description": "Rice + Spicy Beef Pieces + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "41000",
+    "name": "Curry Box Beef Rice",
+    "description": "Rice + Curry Beef Pieces + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "41000",
+    "name": "Spicy Soy Sauce Beef Rice Box",
+    "description": "Rice + Spicy Soy Sauce Beef Cutlets + Egg + Sambal",
+    "section": "beef rice box"
+  },
+  {
+    "price": "8000",
+    "name": "Chesse Tofu",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Sosis",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Chikuwa",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Fish Ball",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Chicken Siumay",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Sate Ayam",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "8000",
+    "name": "Sate Kulit",
+    "description": "",
+    "section": "yakitori"
+  },
+  {
+    "price": "21000",
+    "name": "Kulit Crispy",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "21000",
+    "name": "Ayam Karage",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "21000",
+    "name": "Sweet Skin Diet Rice",
+    "description": "Rice + Sweet Chicken Skin Pieces + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "21000",
+    "name": "Spicy Diet Rice With Skin",
+    "description": "Rice + Spicy Flour Chicken Cutlets + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "21000",
+    "name": "Curry Chicken Diet Rice",
+    "description": "Rice + Curry Chicken Pieces + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "21000",
+    "name": "Yakiniku Chicken Diet Rice",
+    "description": "Rice + Flour Chicken Pieces Yakiniku + Chili Sauce",
+    "section": "diet rice"
+  },
+  {
+    "price": "21000",
+    "name": "Nasi Diet Ayam Original",
+    "description": "Rice + Original Flour Chicken Cutlets + Sambal",
+    "section": "diet rice"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Stroberi",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Pepaya",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Dragon Fruit",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Sirsak",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "25000",
+    "name": "Jusuku Mixberry",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Melon",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Mango Jusku",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Jambu",
+    "description": "",
+    "section": "jusuku"
+  },
+  {
+    "price": "19000",
+    "name": "Jusuku Alpukat",
+    "description": "",
+    "section": "jusuku"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "price": "48500",
+    "name": "Fukuoka Chicken Karage Cury Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "48500",
+    "name": "Japanese Chicken Katsu Cury Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "46500",
+    "name": "Beef Gyu Aburi",
+    "description": "New Comers With Beef 100% Ori",
+    "section": "today's offer"
+  },
+  {
+    "price": "48888",
+    "name": "Beef Gyu Blackpaper",
+    "description": "Freshly Ground Blackpaper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Katsudon Geprek",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "47777",
+    "name": "Aburi Beef Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "49000",
+    "name": "Yakiniku Beef Fried Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "27777",
+    "name": "Dimsum Rambutan (Goreng) 5Pcs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "39000",
+    "name": "Dimsum Special 5Pcs",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "Japanese Chicken Katsu Curry Rice",
+    "description": "Get Extra Discounts For More Saving, Buy This Menu Using The Promo Code Hemat80G Hemat30G",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "58900",
+    "name": "Beef Smokey Fried Rice",
+    "description": "Get Extra Discounts For More Saving, Buy This Menu Using The Promo Code Hemat80G Hemat30G",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "79600",
+    "name": "Beef Gyu Aburi",
+    "description": "Get Extra Discounts For More Saving, Buy This Menu Using The Promo Code Hemat80G Hemat30G",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "79800",
+    "name": "Aburi Beef Fried Rice",
+    "description": "Get Extra Discounts For More Saving, Buy This Menu Using The Promo Code Hemat80G Hemat30G",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "59000",
+    "name": "Beef Smokey Fried Rice",
+    "description": "",
+    "section": "favorite menu"
+  },
+  {
+    "price": "54000",
+    "name": "Beef Gyu Smokey",
+    "description": "",
+    "section": "favorite menu"
+  },
+  {
+    "price": "48500",
+    "name": "Fukuoka Chicken Karage Cury Rice",
+    "description": "",
+    "section": "favorite menu"
+  },
+  {
+    "price": "48500",
+    "name": "Japanese Chicken Katsu Cury Rice",
+    "description": "",
+    "section": "favorite menu"
+  },
+  {
+    "price": "46500",
+    "name": "Beef Gyu Aburi",
+    "description": "New Comers With Beef 100% Ori",
+    "section": "main course"
+  },
+  {
+    "price": "46000",
+    "name": "Beef Gyu Original",
+    "description": "Our Signature With 100% Us Beef",
+    "section": "main course"
+  },
+  {
+    "price": "49000",
+    "name": "Beef Gyu Yakiniku",
+    "description": "Secret Recipe Yakiniku With Our Be",
+    "section": "main course"
+  },
+  {
+    "price": "47777",
+    "name": "Beef Gyu Teriyaki",
+    "description": "Our Favorite Best Selling Beef",
+    "section": "main course"
+  },
+  {
+    "price": "48888",
+    "name": "Beef Gyu Blackpaper",
+    "description": "Freshly Ground Blackpaper Sauce",
+    "section": "main course"
+  },
+  {
+    "price": "47800",
+    "name": "Beef Gyu Bulgogi",
+    "description": "Our Signature With Koean Bulgogi",
+    "section": "main course"
+  },
+  {
+    "price": "47800",
+    "name": "Beef Gyu Short Spicy Kalbi",
+    "description": "Recommended To Spicy Lovers",
+    "section": "main course"
+  },
+  {
+    "price": "49000",
+    "name": "Beef Gyu Barbeque",
+    "description": "Beef 100% Us Which This Style Of",
+    "section": "main course"
+  },
+  {
+    "price": "63000",
+    "name": "Beef Gyu Wagyu",
+    "description": "Our Signature With 100% Beef Wagyu",
+    "section": "main course"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Katsudon Geprek",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "47777",
+    "name": "Aburi Beef Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "47777",
+    "name": "Original Beef Fried Rice",
+    "description": "Classic Beef Authentic Fried Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "49000",
+    "name": "Bulgogi Beef Fried Rice",
+    "description": "The Real Korean Bulgogi Fried Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "49000",
+    "name": "Short Kalbi Beef Fried Rice",
+    "description": "Hot Spicy Fried Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "48000",
+    "name": "Teriyaki Beef Fried Rice",
+    "description": "Best Selling Fried Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "48000",
+    "name": "Blackpaper Beef Fried Rice",
+    "description": "Super Premium 100% Us With Blackpapper Sauce",
+    "section": "fried rice"
+  },
+  {
+    "price": "55000",
+    "name": "Berbeque Beef Fried Rice",
+    "description": "What? Awesome! Barbeque Beef Fried Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "49000",
+    "name": "Yakiniku Beef Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "63000",
+    "name": "Wagyu Beef Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "22800",
+    "name": "Fried Meatballs (Mini) 3Pcs",
+    "description": "Baso Goreng Special Is I 3Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "28888",
+    "name": "Ekkado Special 5Pcd",
+    "description": "Fried Ekkado Filled With Processed Chicken And Shrimp Wrapped In Tofu Skin",
+    "section": "extra"
+  },
+  {
+    "price": "29000",
+    "name": "Gohyong Chicken And Shrimp 5 Pcs",
+    "description": "Spring Rolls Tofu Skin Filled With Chicken And Shrimp",
+    "section": "extra"
+  },
+  {
+    "price": "24800",
+    "name": "Semarang Spring Rolls (Fried) 3Pcs",
+    "description": "With Bamboo Shoots",
+    "section": "extra"
+  },
+  {
+    "price": "24000",
+    "name": "Egg Chicken Roll 3Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "4000",
+    "name": "Sambal Pedas Melintir",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "33000",
+    "name": "Roti Goreng Choco Premium 3Pcs",
+    "description": "Very Delicious With Premium Chocolate",
+    "section": "extra"
+  },
+  {
+    "price": "28900",
+    "name": "Molen Chocolate Premium 3 Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "22800",
+    "name": "3 Pcs Spicy Tofu",
+    "description": "Very Hot Home Made Indonesia Tahu",
+    "section": "extra"
+  },
+  {
+    "price": "29000",
+    "name": "Ebi Tempura Super 3Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "25000",
+    "name": "Ebi Furai Premium 3 Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "27500",
+    "name": "Lumpia Kepiting Rajungan 2Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7500",
+    "name": "Extra Crackers 2 Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "27777",
+    "name": "Dimsum Rambutan (Goreng) 5Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Egg",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "39000",
+    "name": "Dimsum Special 5Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "8000",
+    "name": "Extra Rice",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "24000",
+    "name": "Chicken Cripsy Bento 3 Pcs",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "39800",
+    "name": "Menu For Original Beef Gyu Driver Partner",
+    "description": "",
+    "section": "treat driver partners"
+  },
+  {
+    "price": "71000",
+    "name": "Paket Mewah 1 (Original)",
+    "description": "Beef Gyu Original + Egg Chicken Roll 3 Pcs+ Fruit Tea",
+    "section": "paket mewah"
+  },
+  {
+    "price": "71000",
+    "name": "Luxury Package 2 (Teriyaki)",
+    "description": "",
+    "section": "paket mewah"
+  },
+  {
+    "price": "71000",
+    "name": "Luxury Package 3 (Bulgogi)",
+    "description": "",
+    "section": "paket mewah"
+  },
+  {
+    "price": "71000",
+    "name": "Luxury Package 4 (Yakiniku)",
+    "description": "",
+    "section": "paket mewah"
+  },
+  {
+    "price": "71000",
+    "name": "Luxury Package 5(Bbq)",
+    "description": "",
+    "section": "paket mewah"
+  },
+  {
+    "price": "144000",
+    "name": "3X Beef Gyu Teriyaki",
+    "description": "",
+    "section": "#ramerame"
+  },
+  {
+    "price": "177000",
+    "name": "3X Beef Smokey Fried Rice",
+    "description": "",
+    "section": "#ramerame"
+  },
+  {
+    "price": "189000",
+    "name": "3X Wagyu Beef Fried Rice",
+    "description": "",
+    "section": "#ramerame"
+  },
+  {
+    "price": "147000",
+    "name": "3X Beef Gyu Yakiniku(New Comers)",
+    "description": "",
+    "section": "#ramerame"
+  },
+  {
+    "price": "162000",
+    "name": "3X Beef Gyu Smokey",
+    "description": "",
+    "section": "#ramerame"
+  },
+  {
+    "price": "12000",
+    "name": "Teh Botol Sosro Can",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "13000",
+    "name": "Mineral Water Aqua 1,5L",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "8000",
+    "name": "Mineral Water 600Ml",
+    "description": "Aqua Box 600Ml",
+    "section": "drink"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Pucuk Botol",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "12000",
+    "name": "Fruit Tea Can",
+    "description": "",
+    "section": "drink"
+  }
+]

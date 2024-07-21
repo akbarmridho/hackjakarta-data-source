@@ -1,0 +1,110 @@
+[
+  {
+    "price": "2800",
+    "name": "Chocolate Crackers",
+    "description": "Chocolate Crackers",
+    "section": "additional"
+  },
+  {
+    "price": "2800",
+    "name": "White Crackers",
+    "description": "Crackers",
+    "section": "additional"
+  },
+  {
+    "price": "6500",
+    "name": "Teh Botol",
+    "description": "Sosro",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Mineral Water 600Ml",
+    "description": "Mineral Water",
+    "section": "minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Mineral Water 330 Ml",
+    "description": "Mineral Water 330 Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Teh Tawar",
+    "description": "Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Manis",
+    "description": "Sweet Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "19000",
+    "name": "Songkit Orange",
+    "description": "Fresh Drinks From Songkit Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "33000",
+    "name": "Meatball Chicken Noodles",
+    "description": "Chicken Noodles Plus 2 Fine Meatballs",
+    "section": "food"
+  },
+  {
+    "price": "25000",
+    "name": "Bakmie Ayam",
+    "description": "Noodles Topped With Special Chicken",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Bakso Gepeng",
+    "description": "5 Flattened Meatballs (Kwetiau, Yellow Noodles, Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "43000",
+    "name": "Bakso Urat",
+    "description": "5 Vein Meatballs (Kwetiau, Yellow Noodles, Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "Smooth Meatballs",
+    "description": "5 Fine Meatballs, (Kwetiau/Yellow Noodles, Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "55000",
+    "name": "Crazy Rich Meatballs",
+    "description": "5 Smooth, 3 Beef Veins, 3 Flattened, 1 Tofu (Kwetiau/Yellow Noodles/Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "43000",
+    "name": "Jumbo Meatball",
+    "description": "4 Smooth, 2 Beef Vein, 2 Flattened, 1 Tofu (Kwetiau/Yellow Noodles/Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "33000",
+    "name": "Complete Mix Meatballs",
+    "description": "2 Smooth, 1 Vein, 2 Flattened, 1 Tofu (Kwetiau/Yellow Noodles/Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Mixed Meatballs",
+    "description": "2 Smooth, 1 Vein, 2 Flattened, (Kwetiau, Yellow Noodles, Vermicelli)",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Tetelan Sapi",
+    "description": "1 Portion Of Beef Tetelan",
+    "section": "food"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "price": "20000",
+    "name": "Regular Fried Rice",
+    "description": "Egg Fried Rice + Meatball",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "8500",
+    "name": "White Rice",
+    "description": "",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "25000",
+    "name": "Salted Fish Fried Rice",
+    "description": "Fried Rice Served With Mixed Eggs And Salted Fish",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "20500",
+    "name": "Nasi Goreng Sosis",
+    "description": "Egg Fried Rice Mixed And Sausage And Meatballs",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Fried Rice",
+    "description": "Served With Mixed Eggs, Meatballs And Chicken + Crackers",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "25000",
+    "name": "Gizzard Liver Fried Rice",
+    "description": "Fried Rice Served With Mixed Eggs And Liver Gizzard",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "28000",
+    "name": "Nasi Goreng Special",
+    "description": "Fried Rice Served With Mixed Eggs, Chicken And Fried Eggs",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "28500",
+    "name": "Beef Fried Rice",
+    "description": "Fried Rice Served With Mixed Eggs And Beef + Crackers",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "29000",
+    "name": "Crazy Fried Rice",
+    "description": "Fried Rice Served With Meatball Toppings + Sausages, + Chicken And Mixed Eggs And Vegetables",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "28000",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fried Rice Served With Mixed Eggs Topping, Squid And Shrimp Meatballs",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "26000",
+    "name": "Crazy Rice",
+    "description": "White Rice Doused With Meatball Topping, Chicken, Sausage And Vegetables + Mixed Eggs",
+    "section": "aneka nasi goreng"
+  },
+  {
+    "price": "22000",
+    "name": "Mie Goreng Biasa",
+    "description": "Fried Noodles Served With Meatballs, Vegetables And Mixed Eggs",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Goreng Ayam",
+    "description": "Fried Noodles Served With Mixed Eggs, Chicken, Meatballs And Vegetables",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Gizzard Liver Fried Noodles",
+    "description": "Fried Noodles Served With Mixed Eggs, Meatballs, Liver Gizzard And Vegetables",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles Served With Mixed Eggs, Chicken, Meatballs And Vegetables + Fried Egg",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Beef Fried Noodles",
+    "description": "Fried Noodles Are Served If With Mixed Eggs, Meatballs, Beef And Vegetables",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Goreng Seafood",
+    "description": "Fried Noodles Served With Mixed Eggs, Meatballs, Shrimp, Squid And Vegetables",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Chicken Soup Cooked Noodles",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Beef Soup Cooked Noodles",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Masak Seafood",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "22000",
+    "name": "Regular Fried Vermicelli",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Bihun Goreng Ayam",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Bihun Goreng Ati Ampela",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Goreng Specaial",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Beef Fried Vermicelli",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Goreng Seafood",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "26000",
+    "name": "Chicken Gravy Cooked Vermicelli",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Cooked Vermicelli With Beef Soup",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Masak Seafood",
+    "description": "",
+    "section": "aneka mie dan bihun"
+  },
+  {
+    "price": "22500",
+    "name": "Kwetiaw Goreng Biasa",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "26500",
+    "name": "Kwetiaw Goreng Ayam",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "26500",
+    "name": "Kwetiaw Goreng Ati Ampela",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28000",
+    "name": "Kwetiaw Goreng Special",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28000",
+    "name": "Kwetiaw Goreng Sapi",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28000",
+    "name": "Kwetiaw Goreng Seafood",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "27000",
+    "name": "Kwetiaw Masak Kuah Ayam",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28500",
+    "name": "Kwetiaw Siram Sapi",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "28000",
+    "name": "Kwetiau Siram Seafood",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "26000",
+    "name": "Chicken Flat Noodles",
+    "description": "",
+    "section": "various kwetiau"
+  },
+  {
+    "price": "30500",
+    "name": "Beef Gravy Capcay",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "30500",
+    "name": "Capcay Kuah Seafood",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "29000",
+    "name": "Capcay Goreng Ayam",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "30500",
+    "name": "Capcay Goreng Seafood",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "30500",
+    "name": "Capcay Goreng Sapi",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "29000",
+    "name": "Chicken Tofu Sapo",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "31500",
+    "name": "Beef Tofu Sapo",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "31500",
+    "name": "Sapo Tofu Seafood",
+    "description": "",
+    "section": "tofu sapo"
+  },
+  {
+    "price": "30000",
+    "name": "Ifu Mie Seafood",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "30000",
+    "name": "Ifu Mie Sapi",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "28500",
+    "name": "Ifu Mie Ayam",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "8500",
+    "name": "Telor Dadar",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "8500",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "32000",
+    "name": "Fuyung Hai",
+    "description": "",
+    "section": "ifumie and others"
+  },
+  {
+    "price": "33000",
+    "name": "Ayam Goreng Mentaga",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "33000",
+    "name": "Ayam Goreng Saos Rica Rica",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "33000",
+    "name": "Padang Sauce Fried Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Kuluyuk Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Ayam Malaya",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "32000",
+    "name": "Ayam Nanking",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "12500",
+    "name": "Jeruk Hangat",
+    "description": "Original Squeezed Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Es Jeruk",
+    "description": "Original Squeezed Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  }
+]

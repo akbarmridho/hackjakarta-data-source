@@ -1,0 +1,609 @@
+[
+  {
+    "price": "55000",
+    "name": "Package 1",
+    "description": "Rice + Grilled B2 + Soup + Gota + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "75000",
+    "name": "Package 2",
+    "description": "Rice + Jumbo Roast + Soup + Vegetables + Gota + Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 3",
+    "description": "Rice + B2 Grilled + Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "55000",
+    "name": "Package 4",
+    "description": "Rice + Fried + Soup + Vegetables + Gota + Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "55000",
+    "name": "Package 5",
+    "description": "Rice + Arsik Leg + Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 6",
+    "description": "Rice + Arsik Fish + Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 7",
+    "description": "Rice + Tanggo Tanggo B2 Arsik + Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 8",
+    "description": "Rice + Tanggo Tanggo Gota B2 + Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 9",
+    "description": "Tomybur + Rice + Soup + Mustard Greens + Sambal Rias",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 10",
+    "description": "Rice + Chicken Curry + Vegetables + Soup + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 11",
+    "description": "Rice + Chicken Gota + Vegetables + Soup + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 12",
+    "description": "Rice + Kebau Milk + Vegetables + Soup + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 13",
+    "description": "Rice + Stuffed Soup + Vegetables + Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 14",
+    "description": "Rice + Soy Sauce + Soup + Vegetables + Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 15",
+    "description": "Robus Sambal Fish, Rice, Soup, Vegetables, Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Package 16",
+    "description": "Rica Rica B2 + Rice + Soup + Vegetables + Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "45000",
+    "name": "Package 17",
+    "description": "Medan Anchovies + Rice + Soup + Vegetables + Andaliman Sambal",
+    "section": "paket"
+  },
+  {
+    "price": "50000",
+    "name": "Roasted B2",
+    "description": "Sop + Vegetables + Gota + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "70000",
+    "name": "Roasted B2 Jumbo",
+    "description": "Sop + Vegetables + Gota + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Kidu",
+    "description": "Sop + Vegetables + Gota + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Meatballs B2 Grgota",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Meatballs With No Gizzards",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Rica Rica B2",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Ketchup",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Tanggo2 B2 Arsik",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Tanggo2 B2 Geta",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "50000",
+    "name": "B2 Arsik Leg",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Filling Soup",
+    "description": "Vegetables + Gota + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Chicken With Water",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Kampong Chicken",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Nila Tombur Fish",
+    "description": "Sop + Vegetables + Rias Sambal + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Gold Fish With Arsik",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "50000",
+    "name": "Fried",
+    "description": "Sop + Vegetables + Gota + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Buffalo Milk",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "40000",
+    "name": "Robus Sambal Fish",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "40000",
+    "name": "Anchovy Fish",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "45000",
+    "name": "Arsik B2",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "lauk"
+  },
+  {
+    "price": "60000",
+    "name": "Economical Package 1 + Ice Orange",
+    "description": "Lime Leaf Ice, Roast, Rice, Vegetable Soup, Gota, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "80000",
+    "name": "Economical Package 2 + Ice Orange",
+    "description": "Orange Ice, Jumbo Roast, Rice, Vegetables,Gota, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 3+ Ice Orange",
+    "description": "Orange Ice, Roast, Rice, Soup, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "60000",
+    "name": "Economical Package 4+ Ice Orange",
+    "description": "Lime Leaf, Fried , Rice, Soup, Vegetables,Gota, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "60000",
+    "name": "Saving Package 5 + Orange Ice",
+    "description": "Lime Leaf Ice, Arsik, Rice, Vegetables, Soup, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "50000",
+    "name": "Economical Package 6 + Ice Orange",
+    "description": "Orange Ice, Arsik Fish, Rice, Soup, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 7 + Ice Orange",
+    "description": "Orange Ice, Tanggo2 B2 Arsik, Rice, Soup, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 8 + Ice Orange",
+    "description": "Orange Ice, Tanggo2 B2 Gota, Rice, Vegetables, Soup, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Saving Package 9 + Orange Ice",
+    "description": "Lime Leaf, Tomybur Tilapia, Rice, Sambal Rias, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 10 + Ice Orange",
+    "description": "Orange Ice, Gule Chicken, Rice, Vegetables, Soup, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 11 + Ice Orange",
+    "description": "Lime Leaf Ice, Chicken, Rice, Vegetables, Soup, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 12 + Ice Orange",
+    "description": "Lime Leaf Ice, Milk, Rice, Vegetables, Soup, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 13 + Ice Orange",
+    "description": "Orange Ice, Fillings, Rice, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Economical Package 14 + Ice Orange",
+    "description": "Orange Ice, Soy Sauce , Soup, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "55000",
+    "name": "Saving Package 15 + Ice Orange",
+    "description": "Orange Ice, Robus Fish, Scallops, Vegetables, Andaliman Sambal",
+    "section": "economical package"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Noodle B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Meatballs B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi goreng ikan teri + pete",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Roasted B2 Fried Rice",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi goreng daging merah B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "35000",
+    "name": "Egg Fried Rice",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "B2 Fried Rice Noodles",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Rice Noodles B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Kwetiau Goreng B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Kwetiau Kuah B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Capcay B2",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Gomak Fried B2 Noodles",
+    "description": "Gomak Noodles + B2 + Egg + Crackers + Sambal",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Gomak Noodle B2",
+    "description": "Gomak Noodles + B2 Meat + Tofu",
+    "section": "lainnya"
+  },
+  {
+    "price": "25000",
+    "name": "Gomak Noodle Soup",
+    "description": "Gomak Noodles + Egg + Tofu",
+    "section": "lainnya"
+  },
+  {
+    "price": "35000",
+    "name": "Sibotodai Soup Noodles",
+    "description": "Free-Range Chicken Soup + Eggs + Tofu + Crackers",
+    "section": "lainnya"
+  },
+  {
+    "price": "10000",
+    "name": "Sayur Daun Singkong",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "10000",
+    "name": "Sawi pait + sambal rias",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "10000",
+    "name": "Grilled Pete",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "380000",
+    "name": "Roasted B2 1 Kg, Bpk (Reg At The Timbang)",
+    "description": "1 Kg Roast, Soup, Vegetables, Gota, Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "200000",
+    "name": "Roasted 1/2 Kg, Bpk (On The Timbangs)",
+    "description": "Roast 1/2 Kg, Soup, Vegetables, Gota, Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "450000",
+    "name": "Fried 1 Kg (Takes Timbang)",
+    "description": "Samcan B2 + Soup + Vegetables + Andaliman Sambal + Gota",
+    "section": "package per kg"
+  },
+  {
+    "price": "250000",
+    "name": "Fried 1/2 Kg (Chocooked Timbangs)",
+    "description": "Samcan B2 + Soup + Vegetables + Andaliman Sambal + Gota",
+    "section": "package per kg"
+  },
+  {
+    "price": "250000",
+    "name": "Crispy 1 Kg",
+    "description": "B2 Grilled 1 Kg + Soup + Vegetables + Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "130000",
+    "name": "Alased 1/2 Kg",
+    "description": "B2 Grilled 1/2 Kg + Vegetables + Soup + Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "250000",
+    "name": "Soy Sauce 1 Kg",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "130000",
+    "name": "Soy Sauce 1/2 Kg",
+    "description": "Sop + Vegetables + Andaliman Sambal",
+    "section": "package per kg"
+  },
+  {
+    "price": "15000",
+    "name": "Passion Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25000",
+    "name": "Martababe Juice",
+    "description": "Passion Fruit Mix And French Eggplant",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "French Ternong Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Sweet Ice Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "17000",
+    "name": "Minuman Badak",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Aqua 600 ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Aqua 1,5 L",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Red Jambu Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Mango Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Belibing Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Teh Susu",
+    "description": "",
+    "section": "minuman"
+  },
+  { "price": "5000", "name": "Godok", "description": "", "section": "snack" },
+  {
+    "price": "5000",
+    "name": "Doublesturi",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "White Sticky Rice Fried",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Black Sticky Fried Rice",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Medan Fried Banana",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "6000",
+    "name": "Rice Cakes Ketupat",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Sticky Rice",
+    "description": "There Are Saturdays, Sunday",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Mixed Vegetables",
+    "description": "There Are Saturdays, Sunday",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Vegetable Salad With Efficient Iced Prawn",
+    "description": "There Are Saturdays, Sunday",
+    "section": "snack"
+  },
+  {
+    "price": "5000",
+    "name": "Pohul Podul",
+    "description": "There Are Saturdays, Sunday",
+    "section": "snack"
+  }
+]

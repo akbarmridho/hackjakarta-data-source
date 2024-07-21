@@ -1,180 +1,102 @@
 [
-    {
-        "name": "Martabak 234 - Gondangdia",
-        "tags": [
-            "Martabak",
-            "Indonesian",
-            "Dessert"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-234-gondangdia-delivery/6-C3D2LXX1T75KGX?"
-    },
-    {
-        "name": "Mie Aceh Tanjung Duren - Kebun Kelapa",
-        "tags": [
-            "Martabak",
-            "Rice",
-            "Bakery & Cake"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-tanjung-duren-kebun-kelapa-delivery/6-C2BXHF2XUBA1C2?"
-    },
-    {
-        "name": "Martabak Har - Pasar Baru",
-        "tags": [
-            "Martabak",
-            "Bakery & Cake",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-har-pasar-baru-delivery/6-C3TXA7KFHFEKTN?"
-    },
-    {
-        "name": "Pukis & Martabak Kota Baru - Katamso",
-        "tags": [
-            "Martabak",
-            "Bakery & Cake",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-katamso-delivery/6-C6C1ME5VR2JDE2?"
-    },
-    {
-        "name": "Krispy Kreme - Djakarta Theater",
-        "tags": [
-            "Martabak",
-            "Dessert",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/krispy-kreme-djakarta-theater-delivery/6-CY3TEK3HJPAZTJ?"
-    },
-    {
-        "name": "Martabakku - Cikini",
-        "tags": [
-            "Martabak",
-            "Dessert",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabakku-cikini-delivery/6-CYVFRTEDRB5XDA?"
-    },
-    {
-        "name": "Martabak Terang Bulan Roxy - Duri Pulo",
-        "tags": [
-            "Martabak",
-            "Dessert",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-terang-bulan-roxy-duri-pulo-delivery/6-C6NYCAXTTXWHVJ?"
-    },
-    {
-        "name": "Mie Aceh Jakarta - Setiabudi",
-        "tags": [
-            "Chicken",
-            "Noodles",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-jakarta-setiabudi-delivery/IDGFSTI000021b8?"
-    },
-    {
-        "name": "ASP warmindo - Kartini",
-        "tags": [
-            "Martabak",
-            "Coffee",
-            "Noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/asp-warmindo-kartini-delivery/6-C6BZNB6GARL3NJ?"
-    },
-    {
-        "name": "Dcrepes - Plaza Atrium",
-        "tags": [
-            "Halal Certified",
-            "Dessert",
-            "Bakery & Cake",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dcrepes-plaza-atrium-delivery/IDGFSTI000001np?"
-    },
-    {
-        "name": "Martabak Pizza Orins - Gondangdia",
-        "tags": [
-            "Martabak",
-            "Bakery & Cake",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?"
-    },
-    {
-        "name": "Lekker Story - Petamburan",
-        "tags": [
-            "Martabak",
-            "Dessert"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/lekker-story-petamburan-delivery/6-C3WHARM3DFWBRN?"
-    },
-    {
-        "name": "Mie Aceh Pandrah - Sawah Besar",
-        "tags": [
-            "Martabak",
-            "Indonesian",
-            "Dessert"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/mie-aceh-pandrah-sawah-besar-delivery/IDGFSTI000006uv?"
-    },
-    {
-        "name": "Martabak Pecenongan 65A - Pecenongan",
-        "tags": [
-            "Martabak",
-            "Snack",
-            "Dessert"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-65a-pecenongan-delivery/IDGFSTI000001fo?"
-    },
-    {
-        "name": "Martabak Mr Huang - Duri Utara",
-        "tags": [
-            "Martabak",
-            "Dessert",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-mr-huang-duri-utara-delivery/6-C2AHJX2YWEAXVT?"
-    },
-    {
-        "name": "Martabak Pecenongan 78 - Kwitang, Kembang Raya",
-        "tags": [
-            "Martabak",
-            "Bakery & Cake",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?"
-    },
-    {
-        "name": "Martabak Akong - Pembangunan 2",
-        "tags": [
-            "Martabak",
-            "Indonesian",
-            "Dessert"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-akong-pembangunan-2-delivery/6-CYU2UA5FET5KAX?"
-    },
-    {
-        "name": "Crepesaurus - Menteng",
-        "tags": [
-            "Martabak",
-            "Dessert",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/crepesaurus-menteng-delivery/6-C6LHGNDDC72AR6?"
-    },
-    {
-        "name": "Martabak Djuara - Senen",
-        "tags": [
-            "Martabak"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-djuara-senen-delivery/6-C6AEVAMKPA6HVJ?"
-    },
-    {
-        "name": "MARTABAK KAISAR - Kayu Putih",
-        "tags": [
-            "Martabak",
-            "Indonesian",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/martabak-kaisar-kayu-putih-delivery/6-C6LJVCKCKCAYCN?"
-    }
+  {
+    "name": "Martabak 234 - Gondangdia",
+    "tags": ["Martabak", "Indonesian", "Dessert"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-234-gondangdia-delivery/6-C3D2LXX1T75KGX?"
+  },
+  {
+    "name": "Mie Aceh Tanjung Duren - Kebun Kelapa",
+    "tags": ["Martabak", "Rice", "Bakery & Cake"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-tanjung-duren-kebun-kelapa-delivery/6-C2BXHF2XUBA1C2?"
+  },
+  {
+    "name": "Martabak Har - Pasar Baru",
+    "tags": ["Martabak", "Bakery & Cake", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-har-pasar-baru-delivery/6-C3TXA7KFHFEKTN?"
+  },
+  {
+    "name": "Pukis & Martabak Kota Baru - Katamso",
+    "tags": ["Martabak", "Bakery & Cake", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/pukis-martabak-kota-baru-katamso-delivery/6-C6C1ME5VR2JDE2?"
+  },
+  {
+    "name": "Krispy Kreme - Djakarta Theater",
+    "tags": ["Martabak", "Dessert", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/krispy-kreme-djakarta-theater-delivery/6-CY3TEK3HJPAZTJ?"
+  },
+  {
+    "name": "Martabakku - Cikini",
+    "tags": ["Martabak", "Dessert", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/martabakku-cikini-delivery/6-CYVFRTEDRB5XDA?"
+  },
+  {
+    "name": "Martabak Terang Bulan Roxy - Duri Pulo",
+    "tags": ["Martabak", "Dessert", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-terang-bulan-roxy-duri-pulo-delivery/6-C6NYCAXTTXWHVJ?"
+  },
+  {
+    "name": "Mie Aceh Jakarta - Setiabudi",
+    "tags": ["Chicken", "Noodles", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-jakarta-setiabudi-delivery/IDGFSTI000021b8?"
+  },
+  {
+    "name": "ASP warmindo - Kartini",
+    "tags": ["Martabak", "Coffee", "Noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/asp-warmindo-kartini-delivery/6-C6BZNB6GARL3NJ?"
+  },
+  {
+    "name": "Dcrepes - Plaza Atrium",
+    "tags": ["Halal Certified", "Dessert", "Bakery & Cake", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/dcrepes-plaza-atrium-delivery/IDGFSTI000001np?"
+  },
+  {
+    "name": "Martabak Pizza Orins - Gondangdia",
+    "tags": ["Martabak", "Bakery & Cake", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?"
+  },
+  {
+    "name": "Lekker Story - Petamburan",
+    "tags": ["Martabak", "Dessert"],
+    "link": "https://food.grab.com/id/en/restaurant/lekker-story-petamburan-delivery/6-C3WHARM3DFWBRN?"
+  },
+  {
+    "name": "Mie Aceh Pandrah - Sawah Besar",
+    "tags": ["Martabak", "Indonesian", "Dessert"],
+    "link": "https://food.grab.com/id/en/restaurant/mie-aceh-pandrah-sawah-besar-delivery/IDGFSTI000006uv?"
+  },
+  {
+    "name": "Martabak Pecenongan 65A - Pecenongan",
+    "tags": ["Martabak", "Snack", "Dessert"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-65a-pecenongan-delivery/IDGFSTI000001fo?"
+  },
+  {
+    "name": "Martabak Mr Huang - Duri Utara",
+    "tags": ["Martabak", "Dessert", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-mr-huang-duri-utara-delivery/6-C2AHJX2YWEAXVT?"
+  },
+  {
+    "name": "Martabak Pecenongan 78 - Kwitang, Kembang Raya",
+    "tags": ["Martabak", "Bakery & Cake", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?"
+  },
+  {
+    "name": "Martabak Akong - Pembangunan 2",
+    "tags": ["Martabak", "Indonesian", "Dessert"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-akong-pembangunan-2-delivery/6-CYU2UA5FET5KAX?"
+  },
+  {
+    "name": "Crepesaurus - Menteng",
+    "tags": ["Martabak", "Dessert", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/crepesaurus-menteng-delivery/6-C6LHGNDDC72AR6?"
+  },
+  {
+    "name": "Martabak Djuara - Senen",
+    "tags": ["Martabak"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-djuara-senen-delivery/6-C6AEVAMKPA6HVJ?"
+  },
+  {
+    "name": "MARTABAK KAISAR - Kayu Putih",
+    "tags": ["Martabak", "Indonesian", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/martabak-kaisar-kayu-putih-delivery/6-C6LJVCKCKCAYCN?"
+  }
 ]

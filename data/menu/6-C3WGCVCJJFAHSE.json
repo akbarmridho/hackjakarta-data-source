@@ -1,0 +1,638 @@
+[
+  {
+    "price": "9500",
+    "name": "White Rice",
+    "description": "Plain",
+    "section": "today's offer"
+  },
+  {
+    "price": "12350",
+    "name": "Rice + Vegetable + Gravy + Sambal",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "25650",
+    "name": "Rendang Padang Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Nasi Mujair Goreng",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Mackarel Tuna Balado Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Beef Liver Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "24700",
+    "name": "Spleen Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Lung Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "33250",
+    "name": "Knuckle Rice (Tude)",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "36100",
+    "name": "Beef Minced Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "31350",
+    "name": "Beef Jerky Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "38000",
+    "name": "Snapper Head Rice Dish",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "today's offer"
+  },
+  {
+    "price": "9500",
+    "name": "Sambel Hijau",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "7600",
+    "name": "Terong Balado",
+    "description": "Only Side Dishes Without Rice Unit Price/Cut/ Per Portion",
+    "section": "today's offer"
+  },
+  {
+    "price": "19000",
+    "name": "Rendang",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "18050",
+    "name": "Mujair Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "18050",
+    "name": "Tongkol Balado",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "18050",
+    "name": "Beef Liver",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "23750",
+    "name": "Paru Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "23750",
+    "name": "Knuckle (Tude)",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "26600",
+    "name": "Minced Beef",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Jerky",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "9500",
+    "name": "White Rice",
+    "description": "Plain",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "12350",
+    "name": "Rice + Vegetable + Gravy + Sambal",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "25650",
+    "name": "Rendang Padang Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "24700",
+    "name": "Nasi Mujair Goreng",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "24700",
+    "name": "Mackarel Tuna Balado Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "24700",
+    "name": "Beef Liver Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "24700",
+    "name": "Spleen Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "28500",
+    "name": "Fried Lung Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "33250",
+    "name": "Knuckle Rice (Tude)",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "36100",
+    "name": "Beef Minced Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "31350",
+    "name": "Beef Jerky Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "38000",
+    "name": "Snapper Head Rice Dish",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "19500",
+    "name": "Shrimp Peyek Rice",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "20000",
+    "name": "Rice With Perkedel",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "20000",
+    "name": "Omelette Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "20000",
+    "name": "Curry Egg Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "20000",
+    "name": "Balado Egg Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Chicken Padang Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Fried Chicken Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Curry Chicken Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Ayam Balado",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Catfish Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Lele Goreng",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Mas Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Mas Goreng",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Mas Gulai",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Puffed Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Fried Mackerel Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "26000",
+    "name": "Grilled Pomfret Rice",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "25000",
+    "name": "Liver Potato Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "40000",
+    "name": "Squid Rice",
+    "description": "Rice + Vegetables + Gravy + Special Sambal Special Sesame",
+    "section": "wrapped rice"
+  },
+  {
+    "price": "9500",
+    "name": "Sambel Hijau",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "7600",
+    "name": "Terong Balado",
+    "description": "Only Side Dishes Without Rice Unit Price/Cut/ Per Portion",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Rendang",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "18050",
+    "name": "Mujair Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "18050",
+    "name": "Tongkol Balado",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "18050",
+    "name": "Beef Liver",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "23750",
+    "name": "Paru Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "23750",
+    "name": "Knuckle (Tude)",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "26600",
+    "name": "Minced Beef",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "20900",
+    "name": "Beef Jerky",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "8000",
+    "name": "Cassava Leaf Vegetables",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price/Cut/ Per Portion",
+    "section": "side dish only"
+  },
+  {
+    "price": "10000",
+    "name": "Shrimp Peyek",
+    "description": "Only Side Dishes Without Rice Unit Price/Cut/ Per Portion",
+    "section": "side dish only"
+  },
+  {
+    "price": "10000",
+    "name": "Perkedel",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "10000",
+    "name": "Telur Dadar",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "10000",
+    "name": "Curry Egg",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "10000",
+    "name": "Telur Balado",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Bakar",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Curry Chicken",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Balado",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Lele Goreng",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Grilled Catfish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Grilled Carp Fish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Fried Carp Fish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Goldfish Curry",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Grilled Mackerel Fish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Fried Mackerel Fish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Grilled Pomfret Fish",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Liver Potato",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "19000",
+    "name": "Beef Spleen",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "36000",
+    "name": "Squid",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "36000",
+    "name": "Snapper Head",
+    "description": "Only Side Dishes Without Rice Unit Price / Portion \" Enjoy Your Dish\" Thank You",
+    "section": "side dish only"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Sweet Iced Tea",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Jeruk Hangat",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Es Jeruk",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Air Mineral 600 Ml",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Teh Botol",
+    "description": "Fresh Drinks",
+    "section": "minuman"
+  },
+  {
+    "price": "4500",
+    "name": "White Crackers",
+    "description": "Savory Crispy",
+    "section": "snack"
+  },
+  {
+    "price": "8000",
+    "name": "Skin Crackers",
+    "description": "Savory Crispy",
+    "section": "snack"
+  },
+  {
+    "price": "7000",
+    "name": "Emping",
+    "description": "Savory Crispy",
+    "section": "snack"
+  },
+  {
+    "price": "3000",
+    "name": "Shrimp Crackers",
+    "description": "Savory Crispy",
+    "section": "snack"
+  },
+  {
+    "price": "32000",
+    "name": "Rendang Rice Box",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "rice box (kotak)"
+  },
+  {
+    "price": "31000",
+    "name": "Chicken Rice Box",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "rice box (kotak)"
+  },
+  {
+    "price": "31000",
+    "name": "Fish Rice Box",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "rice box (kotak)"
+  },
+  {
+    "price": "300000",
+    "name": "10 Packs Of Chicken Rice / Rendang",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket combo"
+  },
+  {
+    "price": "35000",
+    "name": "Rendang Rice + Perkedel",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Chicken Rice + Egg Curry",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  },
+  {
+    "price": "35000",
+    "name": "Rendang Rice + Omelet",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Chicken Rice + Perkedel",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  },
+  {
+    "price": "35000",
+    "name": "Rendang Rice + Curry Egg",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  },
+  {
+    "price": "34000",
+    "name": "Nasi Ayam Bakar + Telur Dadar",
+    "description": "Rice + Vegetables + Gravy + Special Minang Sambal",
+    "section": "paket hemat"
+  }
+]

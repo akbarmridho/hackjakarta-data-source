@@ -1,0 +1,224 @@
+[
+  {
+    "price": "52000",
+    "name": "VALUE SET",
+    "description": "1 Rice Chicken Katsu Curry, 1 Teh Sosro 200 mL",
+    "section": "today's offer"
+  },
+  {
+    "price": "105000",
+    "name": "VALUE COMBO 1",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Chicken Karaage Curry, 2 Teh Sosro 200 mL",
+    "section": "today's offer"
+  },
+  {
+    "price": "109000",
+    "name": "VALUE COMBO 2",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Beef Sambal Ijo Curry, 2 Teh Sosro 200 mL",
+    "section": "today's offer"
+  },
+  {
+    "price": "89000",
+    "name": "COMBO 1",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Chicken Karaage Curry",
+    "section": "today's offer"
+  },
+  {
+    "price": "92000",
+    "name": "COMBO 2",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Beef Sambal Ijo Curry",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Rice Cheesy Menchi Katsu Curry",
+    "description": "NEW! Juicy and Cheesy Meat Patty on Rice, Beef Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "today's offer"
+  },
+  {
+    "price": "52000",
+    "name": "VALUE SET",
+    "description": "1 Rice Chicken Katsu Curry, 1 Teh Sosro 200 mL",
+    "section": "value package"
+  },
+  {
+    "price": "105000",
+    "name": "VALUE COMBO 1",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Chicken Karaage Curry, 2 Teh Sosro 200 mL",
+    "section": "value package"
+  },
+  {
+    "price": "109000",
+    "name": "VALUE COMBO 2",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Beef Sambal Ijo Curry, 2 Teh Sosro 200 mL",
+    "section": "value package"
+  },
+  {
+    "price": "89000",
+    "name": "COMBO 1",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Chicken Karaage Curry",
+    "section": "paket bundle"
+  },
+  {
+    "price": "92000",
+    "name": "COMBO 2",
+    "description": "1 Rice Chicken Katsu Curry, 1 Rice Beef Sambal Ijo Curry",
+    "section": "paket bundle"
+  },
+  {
+    "price": "117000",
+    "name": "BUNDLE A",
+    "description": "2 Rice Chicken Katsu Curry, 1 Kobe Edamame",
+    "section": "paket bundle"
+  },
+  {
+    "price": "75000",
+    "name": "BUNDLE B",
+    "description": "1 Rice Grilled Sausage Curry, 1 Fried Gyoza",
+    "section": "paket bundle"
+  },
+  {
+    "price": "89000",
+    "name": "BUNDLE C",
+    "description": "1 Rice Chicken Katsu Curry, 1 Tori Karaage, 1 Kobe Edamame",
+    "section": "paket bundle"
+  },
+  {
+    "price": "45000",
+    "name": "Rice Cheesy Menchi Katsu Curry",
+    "description": "NEW! Juicy and Cheesy Meat Patty on Rice, Beef Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "52000",
+    "name": "Rice Beef Sambal Ijo Curry",
+    "description": "Premium Sliced USA Beef Sambal Ijo on Rice, Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "49000",
+    "name": "Rice Chicken Katsu Curry",
+    "description": "Signature Chicken Katsu on Rice, Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "49000",
+    "name": "Rice Chicken Karaage Curry",
+    "description": "Juicy Chicken Karaage on Rice, Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "55000",
+    "name": "Rice Smoked Beef And Cheese Curry",
+    "description": "Crumbed Smoked Beef & Cheese Roll on Rice, Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "49000",
+    "name": "Rice Grilled Sausage Curry",
+    "description": "Juicy and Meaty Sausage on Rice, Curry Sauce, Carrot & Potato, Fukujinzuke, Togarashi",
+    "section": "curry rice"
+  },
+  {
+    "price": "21000",
+    "name": "Tori Karaage",
+    "description": "Deep Fried Juicy Chicken Karaage with Mentai Mayo",
+    "section": "chotto motto"
+  },
+  {
+    "price": "23000",
+    "name": "Fried Gyoza",
+    "description": "Japanese Chicken & Prawn Dumpling with Mentai Mayo",
+    "section": "chotto motto"
+  },
+  {
+    "price": "19000",
+    "name": "Chicken Katsu",
+    "description": "",
+    "section": "chotto motto"
+  },
+  {
+    "price": "23000",
+    "name": "Smoked Beef & Cheese",
+    "description": "",
+    "section": "chotto motto"
+  },
+  {
+    "price": "19000",
+    "name": "Kobe Edamame",
+    "description": "Sautéed Edamame with Garlic and Chilli in Our Special Umami Soy Sauce",
+    "section": "chotto motto"
+  },
+  {
+    "price": "19000",
+    "name": "Grilled Sausage",
+    "description": "",
+    "section": "chotto motto"
+  },
+  {
+    "price": "49000",
+    "name": "Spaghetti Chicken Creamy Mushroom Sauce",
+    "description": "Creamy sauce with garlic, herbs and fresh mushroom with grilled chicken (1 Fried Chilli Garlic Included)",
+    "section": "nonna pasta by arungi group"
+  },
+  {
+    "price": "55000",
+    "name": "Spaghetti Baked Bolognese Brulee",
+    "description": "Classic beef bolognese with creamy cheese sauce (1 Fried Chilli Garlic Included)",
+    "section": "nonna pasta by arungi group"
+  },
+  {
+    "price": "39000",
+    "name": "Spaghetti Aglio Olio",
+    "description": "Spaghetti cooked in garlic and herb olive oil with a sprinkle of chili flake and cherry tomatoes with topping options; mushroom, chicken or prawn (1 fried chili garlic included)",
+    "section": "nonna pasta by arungi group"
+  },
+  {
+    "price": "52000",
+    "name": "Spaghetti Smoked Beef Carbonara",
+    "description": "Classic Carbonara with slices of Smoked Beef & Parmesan Cheese (1 Fried Chilli Garlic Included)",
+    "section": "nonna pasta by arungi group"
+  },
+  {
+    "price": "43000",
+    "name": "Nasi Bali Ayam Betutu",
+    "description": "Nasi, Ayam Betutu, Sate Ayam Manis, Jukut Bejek, Jagung Bakar, Kacang Goreng, Sambal Matah, Fried Chilli Garlic, Kerupuk Bawang",
+    "section": "serasa bali by arungi group"
+  },
+  {
+    "price": "43000",
+    "name": "Nasi Bali Ayam Taliwang",
+    "description": "Nasi, Ayam Taliwang, Sate Ayam Pedas Gurih, Jukut Bejek, Jagung Bakar, Kacang Goreng, Sambal Matah, Fried Chilli Garlic, Kerupuk Bawang",
+    "section": "serasa bali by arungi group"
+  },
+  {
+    "price": "49000",
+    "name": "Nasi Campur Ayam Ubud",
+    "description": "Nasi, Ayam Betutu, Ayam Taliwang, Sate Ayam Lilit, Jukut Bejek, Jagung Bakar, Kacang Goreng, Sambal Matah, Fried Chilli Garlic, Kerupuk Bawang",
+    "section": "serasa bali by arungi group"
+  },
+  {
+    "price": "39000",
+    "name": "Sate Ayam Bali",
+    "description": "5 Sate Ayam Pilihan, Sambal Matah",
+    "section": "serasa bali by arungi group"
+  },
+  {
+    "price": "1000",
+    "name": "Sambal Sachet Belibis",
+    "description": "",
+    "section": "sambal"
+  },
+  {
+    "price": "98000",
+    "name": "BUY 1 GET 1 RICE GRILLED SAUSAGE",
+    "description": "2 Rice Grilled Sausage Curry",
+    "section": "bogo deals"
+  },
+  {
+    "price": "38000",
+    "name": "BUY 1 GET 1 KOBE EDAMAME",
+    "description": "2 Kobe Edamame",
+    "section": "bogo deals"
+  }
+]

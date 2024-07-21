@@ -1,0 +1,883 @@
+[
+  {
+    "price": "48000",
+    "name": "Nasi Gila + Ice Tea",
+    "description": "",
+    "section": "promo bundling"
+  },
+  {
+    "price": "55000",
+    "name": "Chocolate Cheese Toast + Palm Sugar Iced Coffee",
+    "description": "",
+    "section": "promo bundling"
+  },
+  {
+    "price": "58000",
+    "name": "Milo Monster + Milo Avocadoflloat",
+    "description": "",
+    "section": "promo bundling"
+  },
+  {
+    "price": "36000",
+    "name": "Virgin Rose",
+    "description": "",
+    "section": "mocktails"
+  },
+  {
+    "price": "36000",
+    "name": "Tropical Berry",
+    "description": "",
+    "section": "mocktails"
+  },
+  {
+    "price": "36000",
+    "name": "Sweet Palm",
+    "description": "",
+    "section": "mocktails"
+  },
+  {
+    "price": "34000",
+    "name": "Green Caipirinha",
+    "description": "",
+    "section": "mocktails"
+  },
+  {
+    "price": "36000",
+    "name": "Milkshake Vanilla",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "38000",
+    "name": "Ovamaltine Milkshake",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "39000",
+    "name": "Biscoff Milkshake",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "38000",
+    "name": "Cookies And Cream Milkshake",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "38000",
+    "name": "Regal Milkshake",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "38000",
+    "name": "Nutella Milkshake",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "36000",
+    "name": "Milo Monster",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "38000",
+    "name": "Milo Avocado Float",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "36000",
+    "name": "Milkshake Chocolate",
+    "description": "",
+    "section": "milkshakes"
+  },
+  {
+    "price": "28000",
+    "name": "Lemongrass Iced Tea",
+    "description": "",
+    "section": "tea"
+  },
+  { "price": "28000", "name": "Milk Tea", "description": "", "section": "tea" },
+  {
+    "price": "28000",
+    "name": "Thai Iced Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "28000",
+    "name": "Green Tea Iced Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "28000",
+    "name": "Iced Lemon Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "Peach Iced Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "Vanilla Iced Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "28000",
+    "name": "Iced Honey Lime",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "Earl Grey Milk Tea",
+    "description": "",
+    "section": "tea"
+  },
+  {
+    "price": "32000",
+    "name": "Boba Milk Tea",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "32000",
+    "name": "Boba Thai Green Tea",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "32000",
+    "name": "Milo Machiato + Boba",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "34000",
+    "name": "Coffee Milo Machiato + Boba",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "32000",
+    "name": "Boba Thai Tea",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "32000",
+    "name": "Earl Grey Milk Tea Boba",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "38000",
+    "name": "Cream Cheese Boba Milk Tea",
+    "description": "",
+    "section": "special boba"
+  },
+  {
+    "price": "15000",
+    "name": "Single Espresso",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "25000",
+    "name": "Double Espresso",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "29000",
+    "name": "Caffe Mocha",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "28000",
+    "name": "Americano",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "30000",
+    "name": "Affogato",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "30000",
+    "name": "Cappuccino",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "36000",
+    "name": "Caramel Macchiato",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "30000",
+    "name": "Latte",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "35000",
+    "name": "Flavour : ( Caramel, Hazelnut, Vanilla, Green Tea, And Crème Brulee )",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "28000",
+    "name": "Espresso Asian Latte",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "28000",
+    "name": "Piccolo",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Avocado Coffee",
+    "description": "",
+    "section": "coffee & latte (hot/iced)"
+  },
+  {
+    "price": "29000",
+    "name": "Es Kopi Moka",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  {
+    "price": "29000",
+    "name": "Es Kopi Pandan",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  {
+    "price": "29000",
+    "name": "Aren Sugar Coffee Ice",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  {
+    "price": "29000",
+    "name": "Es Kopi Rose",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  {
+    "price": "30000",
+    "name": "Es Kopi Regal",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  {
+    "price": "35000",
+    "name": "Iced Biscoff Latte",
+    "description": "",
+    "section": "es kopi rbk"
+  },
+  { "price": "9000", "name": "Nutella", "description": "", "section": "extra" },
+  { "price": "9000", "name": "Cheese", "description": "", "section": "extra" },
+  {
+    "price": "9000",
+    "name": "Ovamaltine",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "12000",
+    "name": "Es Krim",
+    "description": "",
+    "section": "extra"
+  },
+  { "price": "7000", "name": "Oreo", "description": "", "section": "extra" },
+  { "price": "7000", "name": "Regal", "description": "", "section": "extra" },
+  {
+    "price": "28000",
+    "name": "Roti Maryam Ovomaltine",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "28000",
+    "name": "Roti Maryam Nutella",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "22000",
+    "name": "Roti Maryam Susu",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "22000",
+    "name": "Roti Maryam Caremel",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "24000",
+    "name": "Maryam Cheese Bread",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "24000",
+    "name": "Roti Maryam Cokelat",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "28000",
+    "name": "Roti Maryam Tiramisu",
+    "description": "",
+    "section": "roti maryam"
+  },
+  {
+    "price": "35000",
+    "name": "Roti Bakar Nutella",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "28000",
+    "name": "Corned Beef Egg Cheese Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Roti Bakar Tiramisu",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Roti Bakar Biscoff",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Ovomaltine Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "26000",
+    "name": "Chocolate Cheese Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "26000",
+    "name": "Chocolate Nut Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "28000",
+    "name": "Chocolate Nut Cheese Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "30000",
+    "name": "Chocolate Nut Banana Cheese Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "26000",
+    "name": "Corned Egg Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "26000",
+    "name": "Corned Beef Cheese Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Roti Bakar Kit-Kat Green Tea",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Roti Bakar Toblerone White",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "35000",
+    "name": "Chocolate Toblerone Toast",
+    "description": "",
+    "section": "toast"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Goreng Komplit",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Fried Corned Beef Cheese",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Fried Egg Cheese",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Fried Egg Corned Beef",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Noodle Soup Kompit",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Boiled Corned Beef Cheese",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Boiled Egg Cheese",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "26000",
+    "name": "Indomie Boiled Corned Egg",
+    "description": "",
+    "section": "internet"
+  },
+  {
+    "price": "29000",
+    "name": "Otak - Otak Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "32000",
+    "name": "Kentang Goreng Bbq",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "32000",
+    "name": "Cheese Fries",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "38000",
+    "name": "Nachos With Salsa Sauce",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "28000",
+    "name": "Tofu Skin Shrimp Spring Rolls",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "29000",
+    "name": "Kulit Ayam Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "34000",
+    "name": "Chicken Wings",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "36000",
+    "name": "Nutella French Toast",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "39000",
+    "name": "Biscoff French Toast",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "36000",
+    "name": "Banana French Toast",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "32000",
+    "name": "French Toast",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "36000",
+    "name": "Puncake Banana Nutella",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "36000",
+    "name": "Puncake Caramel",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "36000",
+    "name": "Puncake Banana Peanut Butter",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "39000",
+    "name": "Boba French Toast With Cream Cheese",
+    "description": "",
+    "section": "sweets"
+  },
+  {
+    "price": "39000",
+    "name": "Special Fried Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Green Chili Anchovy Fried Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "32000",
+    "name": "Nasi Goreng Sosis",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Red Fried Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "55000",
+    "name": "Nasi Dori Sambal Matah",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Crazy Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Goreng Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Special Fried Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Rebus Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Special Boiled Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Special Fried Kuey Teow",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Boiled Chicken Rice Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Special Boiled Rice Noodles",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "55000",
+    "name": "Fish & Chips",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "43000",
+    "name": "Spaghetti Aglio Olio",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "55000",
+    "name": "Spaghetti Dori Sambal Matah",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "40000",
+    "name": "Spaghetti Kornet Cabe Rawit",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "44000",
+    "name": "Chicken Katsu Bowl",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "45000",
+    "name": "Fettucini Carbonara",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "32000",
+    "name": "Nasi Goreng Pete",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Nasi Goreng Kambing",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Skin Lime Leaf Rice",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Mie Titi",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Mie Goreng Seafood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Mie Rebus Seafood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Bihun Goreng Ayam",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Bihun Goreng Safood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Special Fried Vermicelli",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Kwetiau Goreng Seafood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "39000",
+    "name": "Kwetiau Rebus Seafood",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "43000",
+    "name": "Spaghetti Bolognese",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "44000",
+    "name": "Chicken Karage Bowl",
+    "description": "",
+    "section": "heavy meals"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "32000",
+    "name": "Nasi Goreng Sosis",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "26000",
+    "name": "Chocolate Cheese Toast",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "29000",
+    "name": "Otak - Otak Goreng",
+    "description": "Original Fried Otak-Otak Of Mackerel Fish",
+    "section": "best seller"
+  },
+  {
+    "price": "35000",
+    "name": "Bihun Goreng Ayam",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "32000",
+    "name": "Nasi Goreng Pete",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "39000",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "best seller"
+  },
+  {
+    "price": "32000",
+    "name": "Watermelon",
+    "description": "",
+    "section": "fresh juices"
+  },
+  {
+    "price": "32000",
+    "name": "Melon",
+    "description": "",
+    "section": "fresh juices"
+  },
+  {
+    "price": "36000",
+    "name": "Strawberry",
+    "description": "",
+    "section": "fresh juices"
+  },
+  {
+    "price": "36000",
+    "name": "Avocado",
+    "description": "",
+    "section": "fresh juices"
+  },
+  {
+    "price": "23000",
+    "name": "Coffee Cream Puding",
+    "description": "",
+    "section": "desserts"
+  },
+  {
+    "price": "23000",
+    "name": "Milk & Chocolate Pudding",
+    "description": "",
+    "section": "desserts"
+  },
+  {
+    "price": "32000",
+    "name": "Fruit Salad",
+    "description": "",
+    "section": "desserts"
+  },
+  {
+    "price": "60000",
+    "name": "Tiramisu Classic",
+    "description": "",
+    "section": "desserts"
+  },
+  {
+    "price": "35000",
+    "name": "Tiramisu Mini",
+    "description": "",
+    "section": "desserts"
+  }
+]

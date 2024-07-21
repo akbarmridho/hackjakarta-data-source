@@ -1,0 +1,818 @@
+[
+  {
+    "price": "52000",
+    "name": "Nasi Goreng Tom Yum + Crispy Chicken Chop",
+    "description": "Special Tom Yum Or Egg Fried Rice With Crispy Chicken Fillet",
+    "section": "today's offer"
+  },
+  {
+    "price": "85000",
+    "name": "Sate Ayam Bali 12 Pieces",
+    "description": "12 X Balinese Chicken Slices Set. With Homemade Matah Sambal. Liver.",
+    "section": "today's offer"
+  },
+  {
+    "price": "53000",
+    "name": "Mie Kari Singapore ( Bisa Bihun )",
+    "description": "Special Singapore Curry Broth Over Noodles. Chicken , Potatoes N Egg.",
+    "section": "today's offer"
+  },
+  {
+    "price": "49300",
+    "name": "Singaporean Village Laksa",
+    "description": "Special Recipe Laksa Soup Cooked With Thick Rice Noodles, Fresh Fish Cake, Egg, Bean Sprouts And Fried Tofu.",
+    "section": "today's offer"
+  },
+  {
+    "price": "50150",
+    "name": "Japanese Curry Rice Chicken Katsu",
+    "description": "Crispy Fried Chicken Completed With Topper Rice Squid With Original Imported Seasoning Sauce By Japanese Osaka. Spicy Can Be Adjust Lvl 1 To 5.",
+    "section": "today's offer"
+  },
+  {
+    "price": "59500",
+    "name": "Healthy Sop Ikan. No Msg! Fish Soup",
+    "description": "Healthy Fish Soup Cooked With Fresh Fish And Vegetables. Fresh Taste Is Not Weight And Not Using Msg. Suitable For Eating Our Imported Aromatic. 10Gr White Rice. Thank You",
+    "section": "today's offer"
+  },
+  {
+    "price": "54000",
+    "name": "Napolitana Chicken Parmagiana",
+    "description": "Fresh Large Tender Chicken Fillet (Skinless Fat-Free) Top With Homemade Napoli Sauce. Generous Amount Of Melted Parmesan Cheese.",
+    "section": "today's offer"
+  },
+  {
+    "price": "55250",
+    "name": "Spaghetti Aglio E Olio (Prawns)",
+    "description": "Pasta Aglio Olio With Prawns Sauteed In Garlic N Extra Virgin Olive Oil. Freshly Cooked And No Msg!",
+    "section": "today's offer"
+  },
+  {
+    "price": "48000",
+    "name": "Fresh Tuna & Melted Cheese Sandwich",
+    "description": "Wholemeal Toast Stuffed With Freshly Smoked Tuna (Not Canned Tuna) And Cheese.",
+    "section": "today's offer"
+  },
+  {
+    "price": "46800",
+    "name": "Wanton Soup ( Chinese Dumplings ). No Msg",
+    "description": "Home Made Chicken Dumplings (5 Pcs) Soup With Fresh Vegetables.",
+    "section": "today's offer"
+  },
+  {
+    "price": "38000",
+    "name": "Luxury Omelette Eggs 3",
+    "description": "Omelet 3 Eggs Mixed With Mushroom Champignon , Sosis And Smoked Beef.",
+    "section": "all day breakfast"
+  },
+  {
+    "price": "38000",
+    "name": "Mixed Rice With Squid Sauce",
+    "description": "Mixed Rice With Sambal Cumi Pete ,Perkedel, Urap , Telor Balado.",
+    "section": "all day breakfast"
+  },
+  {
+    "price": "58000",
+    "name": "Fresh Fish Porridge! No Msg!",
+    "description": "Soft Rice Porridge Cooked With Fresh Slices Of Fresh Fish. The Taste Of Lightning Is Not Weighting For Ceplok Egg Or Omelette Poh. Warm And Savory! For Breakfast And Malam.",
+    "section": "all day breakfast"
+  },
+  {
+    "price": "47000",
+    "name": "Healthy Chicken Porridge",
+    "description": "Chinese Style Chicken Porridge. Cooked With Traditional Chicken Broth. Cocol Made Using Energments Or Cold Butter. Package With Sunny Side Up Eggs.",
+    "section": "all day breakfast"
+  },
+  {
+    "price": "35000",
+    "name": "Lontong Nasi + Telur Egg",
+    "description": "Lontong, Scrambled Tempeh, Raj Cafe Special Curry Sauce, And Added With Boiled Eggs. Delicious Food For Breakfast.",
+    "section": "all day breakfast"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice 1 Portion",
+    "description": "White Rice 1",
+    "section": "indonesian food"
+  },
+  {
+    "price": "40000",
+    "name": "Capcay Stir Fry Vegetable",
+    "description": "Fresh Vitups Greens.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "42000",
+    "name": "Nasi Goreng Special.",
+    "description": "Choice Of Chicken/Sauce Fried Rice/Vegetarian (Mushs)/Belacan/Salted Fish. Those Who Are For Pesencan Fried Rice. Can Request Spicy. Add For Order. Please Give A Note.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "52000",
+    "name": "Nasi Goreng Tom Yum + Crispy Chicken Chop",
+    "description": "Special Tom Yum Or Egg Fried Rice With Crispy Chicken Fillet",
+    "section": "indonesian food"
+  },
+  {
+    "price": "48000",
+    "name": "Champion Goat Fried Rice",
+    "description": "Young Lamb Meat Cooked With Traditional Spices. Complete Tempe Mendoan, Egg Belado And Chips, Pickles. Lvl 1 To 5.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "88000",
+    "name": "2 Portions X Champion Fried Rice",
+    "description": "2 Large Portions, Use The Tender, Young Goat Meat And The Spiciness Can Be Requested.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "48000",
+    "name": "Nasi Goreng Special Pete Telor Asin",
+    "description": "Special Fried Rice With Teri Gurih, Pete And Salted Egg. Spicy Level 1 To 5.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "48000",
+    "name": "Mie Bakso Iga Sapi Premium. Kaldu Iga Murni.",
+    "description": "Beef Meatballs, Tofu Meatballs And Fresh Vegetables. Original Quality Broth. No Msg.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "48000",
+    "name": "Bali Ayam Betutu. Guri Pedes!",
+    "description": "If You Have To Try This Balinese Beef Chicken. One Complete Menu Of Balinese. Now It Is In This Menu That We Have To Try This Menu With The Original Balinese Men. Package Includes Original Matah Sambal And Matah Sambal",
+    "section": "indonesian food"
+  },
+  {
+    "price": "46000",
+    "name": "Nasi Campur Sate Bali",
+    "description": "Balist Mixed Rice Filled With Eggs, Pete Squid Sambal, Pekerdel, Balado Eggs, Matah Sambal And X2 Balinese Satay Will Be Provided In A Traditional Banana Leaves Packaging.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "83000",
+    "name": "Package 2X Balinese Mixed Rice",
+    "description": "2X Balinese Mixed Rice Filled With Eggs, Pete Squid Sambal, Pekerdel, Balado Eggs, Matah Sambal And Balinese (2Pcs). Will Be Provided In A Traditional Banana Leaves Column.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "52000",
+    "name": "Sate Ayam Bali. 6 Pieces",
+    "description": "Homemade Sate Bali",
+    "section": "indonesian food"
+  },
+  {
+    "price": "85000",
+    "name": "Sate Ayam Bali 12 Pieces",
+    "description": "12 X Balinese Chicken Slices Set. With Homemade Matah Sambal. Liver.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "45000",
+    "name": "Soto Medan (Chicken / Beef)",
+    "description": "Medan'S Special Soto. Already Filled With Vermicelli. Extra White Rice",
+    "section": "indonesian food"
+  },
+  {
+    "price": "48000",
+    "name": "Cumi Sambal Pete Pedes Berlimpah'",
+    "description": "Fresh Squid Stir-Fried With Spicy Pete Sauce. Delicious If It Is Lalain, White Rice Egg, Omelet And Tofu Crispy Fried Tofu!",
+    "section": "indonesian food"
+  },
+  {
+    "price": "45000",
+    "name": "Big Crispy Chicken Rice",
+    "description": "Crispy Fried Chicken Using A Special Flour Recipe. Served With Friends. Pete Addinal.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "45000",
+    "name": "Smashed Chicken. Very Spicy!!!",
+    "description": "Smashed Chicken Level, Choose 1 To 5! Once You Try This To Quench! This Shrimp, Arek Suboyo Arek. Wkwk",
+    "section": "indonesian food"
+  },
+  {
+    "price": "52000",
+    "name": "Salted Egg Chicken Rice (Extra Chicken)",
+    "description": "Best Seller Salted Egg Fried Chicken Now With Rice And Egg. Level Pedes 1 To 5.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "75000",
+    "name": "Bali Fried Duck Package 1/2",
+    "description": "Half Duck Braised Overnight With Special Bali Resepi. Set With Rice , Condiments.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "59000",
+    "name": "Kampung Duck (Jumbo) Green Chili",
+    "description": "Duck Thighs/Breasts. Completed With Rice, Tempeh, Lalapan, Urap. Best Selling!",
+    "section": "indonesian food"
+  },
+  {
+    "price": "115000",
+    "name": "Warjan Fried Rice (Portion For 5 People)",
+    "description": "Family Sized Special Nasi Goreng For 5 Persons. Special Chicken, Salted Egg, Vegetarian Choices",
+    "section": "indonesian food"
+  },
+  {
+    "price": "47000",
+    "name": "Crispy Bird Rice With Pete Sauce",
+    "description": "Quil Fresh Snacks Braised With Special Semaleman Sambal With Chef Of The Restaurant. Fried Crispy And Savory Vegetables. Served With Petecaper'S Signature Sambal. Complete Rice And Lalapan.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "83000",
+    "name": "Sop Iga Set Komplit No Msg!",
+    "description": "Beef Ribs Soup Set No Msg. Warm Savory Original Broth. Cooked With Soft Meat, Traditional Seasoning. Even More Delicious With Savory Soup. Pancakes With Rice, Crackers And 1 Jam.",
+    "section": "indonesian food"
+  },
+  {
+    "price": "53000",
+    "name": "Mie Kari Singapore ( Bisa Bihun )",
+    "description": "Special Singapore Curry Broth Over Noodles. Chicken , Potatoes N Egg.",
+    "section": "famous singapore curry & laksa"
+  },
+  {
+    "price": "49300",
+    "name": "Singaporean Village Laksa",
+    "description": "Special Recipe Laksa Soup Cooked With Thick Rice Noodles, Fresh Fish Cake, Egg, Bean Sprouts And Fried Tofu.",
+    "section": "famous singapore curry & laksa"
+  },
+  {
+    "price": "62000",
+    "name": "Singapore Curry Chicken Set",
+    "description": "Chicken Curry Cooked With Real Spices Of Singapore. Different Curry In Warung. The Kudus Is Cooked. Complete Set Of",
+    "section": "famous singapore curry & laksa"
+  },
+  {
+    "price": "66000",
+    "name": "Singapore Fish Curry Set",
+    "description": "Cooked Curry With Singapore Spices. Fresh Fish, Vegetables, Potatoes And Served With White Rice. Egg Balado, Tempeh, Pickles And Special Sambal. No Msg!",
+    "section": "famous singapore curry & laksa"
+  },
+  {
+    "price": "45000",
+    "name": "Fresh Made Roti Pratha (Canai) Set",
+    "description": "Fresh Made Rotisa Bread (2 Pcs) + Special Curry",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "33000",
+    "name": "Egg Biryani Rice",
+    "description": "Nasi Biryani Cooked By Pakistanimported Amported Rice. Basmati Sugar, High Fitre. Perfect For All Ages Of Health. Eggs And Scrambled To Make It Super Delicious",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "48000",
+    "name": "Rendang Ayam Biryani",
+    "description": "Nasi Biryani Cooked By Pakistanimported Indian Rice. Home Basmati Sugar, High Fibre. Perfect For All Ages Of Health. Chicken Special Spices. Spicy Re-Spicy And Fresh Pickles.",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "59000",
+    "name": "Kambing Biryani & Egg(Lamb)",
+    "description": "Tender Lamb Meat Cooked To Perfection. Goes With Potatoes And Braised Egg. Perfect.",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "59000",
+    "name": "Bebek Goreng Nasi Briyani",
+    "description": "Fried Duck Set With Fragrant Biryani Rice. Chilli Send On The Side.",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "48000",
+    "name": "Fried Chicken Biryani Briyani",
+    "description": "Nasi Biryani Cooked By Pakistanimported Indian Rice. Low Sugar Rice, High Fibre. Perfect For All Ages Of Health. Includes Fried Chicken And Mashed Sambal.",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "18000",
+    "name": "Nasi Biryani Briyani",
+    "description": "Biryani Rice Is Made From Pakistanimported Basmati Rice. The Rice Is Low In Sugar, Suitable For All Ages. The Rice Is Cooked Using Various Kinds Of Spices And Raisins. Tastes Delicious.",
+    "section": "indian biryani & roti pratha"
+  },
+  {
+    "price": "58000",
+    "name": "Tom Yum Goong (Udang Besar)",
+    "description": "Thai Spicy Sop Asem Cooked With Mamem Seafood And Mushrooms. Abundant Spices. Hot, Sour Spicy Blom Includes White Rice",
+    "section": "thailand recipe"
+  },
+  {
+    "price": "56000",
+    "name": "Thai Pineapple Fried Rice",
+    "description": "Thai Recipe Fried Rice Using Fresh Pineapple, Shrimp, Chicken. Choose Spicy Spicy Lvl 1 To 5.",
+    "section": "thailand recipe"
+  },
+  {
+    "price": "56000",
+    "name": "Thai Shrimp Curry Rice",
+    "description": "Fresh Prawns Cooked In Special Thai Recipe And Pineappple Curry. Choose Spicy Lvl 1 To 5!.",
+    "section": "thailand recipe"
+  },
+  {
+    "price": "50150",
+    "name": "Japanese Curry Rice Chicken Katsu",
+    "description": "Crispy Fried Chicken Completed With Topper Rice Squid With Original Imported Seasoning Sauce By Japanese Osaka. Spicy Can Be Adjust Lvl 1 To 5.",
+    "section": "japanese curry rice"
+  },
+  {
+    "price": "55000",
+    "name": "Japanese Beef Curry Rice",
+    "description": "Tender Wagyu Us Beef Infused In Osaka Curry Sauce. Added Mushrooms And Rice For Set Menu. Choose 1 To 5 Spice Level. No Msg",
+    "section": "japanese curry rice"
+  },
+  {
+    "price": "61000",
+    "name": "Japanese Curry Rice (Beef & Omelette)",
+    "description": "Wagyu Aussie Beef Cube Cooked Japanese Curry Sauce. Imported Osaka. Complete With Mushroom Gizzard Omelet On Top Of White Rice. 1 To 5",
+    "section": "japanese curry rice"
+  },
+  {
+    "price": "60000",
+    "name": "Tempura Prawns Curry Rice",
+    "description": "Japanese Curry Rice With Special Sauce From Osaka. Fresh Big Fried Prawns And Champignon Mushrooms. Pedes Level 1 To 5.",
+    "section": "japanese curry rice"
+  },
+  {
+    "price": "130000",
+    "name": "Grilled Salmon N Fries Set",
+    "description": "Fresh Atlantic Salmon Grilled To Perfection With Lemon Butter Sauce. Comes With Large Cut Fries.",
+    "section": "seafood specials"
+  },
+  {
+    "price": "95000",
+    "name": "Gurame Goreng Sambel Mercon",
+    "description": "Fresh Jumbo Size Fresh Gurame Fried Crispy Golden. Served With Sundanese Special Sambal Chilli On Side",
+    "section": "seafood specials"
+  },
+  {
+    "price": "55000",
+    "name": "Capcay Seafood, Udang Seger. No Msg!",
+    "description": "Fresh Shrimps , Seafood And Vegetables Stirfry.. No Msg!",
+    "section": "seafood specials"
+  },
+  {
+    "price": "55000",
+    "name": "Rica Rica Fish Spicy Rice",
+    "description": "Fresh Ikan Tuna Cooked In Spicy Manado Sauce. Dished On Rice, Fried Egg , Extra Condiments",
+    "section": "seafood specials"
+  },
+  {
+    "price": "58000",
+    "name": "Mie Goreng Seafood Udang Besar",
+    "description": "Fried Nooodles With Big Prawns , Calamari, And The Works. Bisa Di Masak Pedes Sesuai.",
+    "section": "seafood specials"
+  },
+  {
+    "price": "58000",
+    "name": "Nasi Goreng Seafood Udang Besar!",
+    "description": "Best Selling Fried Rice Using Big Shrimp, Squid And Macem Seafood. Spicy Can Be Requested.",
+    "section": "seafood specials"
+  },
+  {
+    "price": "65000",
+    "name": "Crispy Fish In Sweet N Sour Sauce Rice",
+    "description": "Fresh Fish Fillet Golden Fried Poured Over Chinese Traditional Recipe.",
+    "section": "seafood specials"
+  },
+  {
+    "price": "59500",
+    "name": "Healthy Sop Ikan. No Msg! Fish Soup",
+    "description": "Healthy Fish Soup Cooked With Fresh Fish And Vegetables. Fresh Taste Is Not Weight And Not Using Msg. Suitable For Eating Our Imported Aromatic. 10Gr White Rice. Thank You",
+    "section": "seafood specials"
+  },
+  {
+    "price": "58000",
+    "name": "Texas Chicken Burger",
+    "description": "Jumbo Burger Bun With Crispy Chicken Fillet. Topped With Melted Cheese, Fried Egg, Grilled Onions, Lettuce, Tomatoes, Special Garlic Sauce. Tofu Lontongs",
+    "section": "premium burgers & kebabs"
+  },
+  {
+    "price": "63000",
+    "name": "Supermario Beef Burger",
+    "description": "Freshly Made Us Beef Big Patty In Wholemeal Burger With Texan Sauce, Grilled Onions. Includes Choice Egg. Fresh Salad. Cheese. Comes With Large Cut Fries.",
+    "section": "premium burgers & kebabs"
+  },
+  {
+    "price": "58000",
+    "name": "Premium Kebab With Us Beef (Jumbo)",
+    "description": "Jumbo Kebab Pita Wrapped With Tender Us Beef. Together With Fresh Salad. Mushrooms, Cheese , Onions And Special Mediterania Sauce.",
+    "section": "premium burgers & kebabs"
+  },
+  {
+    "price": "52000",
+    "name": "Turkish Grilled Chicken Kebab (Jumbo Size)",
+    "description": "Tury Chicken Kebab Cooked With Medium Seasoning.",
+    "section": "premium burgers & kebabs"
+  },
+  {
+    "price": "55000",
+    "name": "Mexico Nachos Chilli Con Carne",
+    "description": "Mexican Nachos Mixed With Peppers, Chillis And Cheeses. Specialhomemade Beef Salsa Dip . Perfect For Sharing!",
+    "section": "western food specials"
+  },
+  {
+    "price": "54000",
+    "name": "Napolitana Chicken Parmagiana",
+    "description": "Fresh Large Tender Chicken Fillet (Skinless Fat-Free) Top With Homemade Napoli Sauce. Generous Amount Of Melted Parmesan Cheese.",
+    "section": "western food specials"
+  },
+  {
+    "price": "65000",
+    "name": "Fish And Chips Australian",
+    "description": "Served Aussie Style With Homemade Tartar Sauce And Freshly Cut Fries. Fresh Fish Di Jamin.",
+    "section": "western food specials"
+  },
+  {
+    "price": "125000",
+    "name": "Wagyu/Tenderloin Steak Australian",
+    "description": "Ayam Wagyu/ Imported Tenderloin Steak. Complete Package Contains Fries And Salads. Homemade Mushrooms. Adelicious Steak.",
+    "section": "western food specials"
+  },
+  {
+    "price": "58000",
+    "name": "Spaghetti Beef Bolognese",
+    "description": "Italian Pasta Sauce Of Tomato Beef Bolognese Using Traditional Spices. The Sauce Is Cooked For 5 Hours, A Savory Taste. The Raj Of Rajisca All No Msg.",
+    "section": "western food specials"
+  },
+  {
+    "price": "55250",
+    "name": "Spaghetti Aglio E Olio (Prawns)",
+    "description": "Pasta Aglio Olio With Prawns Sauteed In Garlic N Extra Virgin Olive Oil. Freshly Cooked And No Msg!",
+    "section": "western food specials"
+  },
+  {
+    "price": "52000",
+    "name": "Italy Fettucini Carbonara",
+    "description": "Fettucini Carbonara Saus Creamy And Gunakan Smoke Beef Import And Jamur Champignons. Standard Hotel Chef Yg Masak.",
+    "section": "western food specials"
+  },
+  {
+    "price": "56000",
+    "name": "Creamy Pesto Chicken N Mushroom Spaghetti",
+    "description": "Healthy Chicken Breast Fillet Sauteed With Freshly Made Italian Basil Sauce And Champignon Mushrooms.",
+    "section": "western food specials"
+  },
+  {
+    "price": "63000",
+    "name": "Spaghetti Seafood Marinara",
+    "description": "Spaghetti Italy Masak Dengan Saus Fresh Tomato Napolitean Dan Herbs Italy. Ada Jumbo Prawns , Scallops ,Cumi Dan Macem Seafood.No Msg!",
+    "section": "western food specials"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Nuggets And Fries",
+    "description": "Chicken Golden Nuggets 6 And Large Cut Fries",
+    "section": "western food specials"
+  },
+  {
+    "price": "55000",
+    "name": "German Currywurst Sausages",
+    "description": "3 Beef Bratwurst Sausages Poured Over Our Special Curry Sauce. Comes With Thick Cut Fries.",
+    "section": "western food specials"
+  },
+  {
+    "price": "48000",
+    "name": "Fresh Tuna & Melted Cheese Sandwich",
+    "description": "Wholemeal Toast Stuffed With Freshly Smoked Tuna (Not Canned Tuna) And Cheese.",
+    "section": "western food specials"
+  },
+  {
+    "price": "115000",
+    "name": "Hoki Birthday Noodles",
+    "description": "1 Portion For 5 People. Fried Hokkien Noodles Suitable For Sharing Paste. It Can Be For Children And Old People'S Birthdays.",
+    "section": "kings mie noodles"
+  },
+  {
+    "price": "59000",
+    "name": "Korean Spicy Beef Udon",
+    "description": "(Porsi 2 Orang )Mie Udon Cooked With Sliced Beef ,Mushrooms And Fresh Tofu, Vegtables. New Style Korean Recipe. First In Jakarta.Must Try.",
+    "section": "kings mie noodles"
+  },
+  {
+    "price": "59000",
+    "name": "Kwetiau Siram Sapi Seafood",
+    "description": "(Jumbo Portion) Rice Noodes Cooked Us Beef, Big Shrimp, Fish Balls, Fresh Vegetables Then Poured Gravy Egg Recipes. No Msg!",
+    "section": "kings mie noodles"
+  },
+  {
+    "price": "45000",
+    "name": "Healthy Village Chicken Noodle Soup. No Msg",
+    "description": "Chicken Broiler Soup. Filled With Various Kinds Of Vegetables With No Msg 100%",
+    "section": "kings mie noodles"
+  },
+  {
+    "price": "59000",
+    "name": "Beef Kueh Teow Clear Soup. No Msg!",
+    "description": "Beef Broth Soup Slices And Beef Meatballs Cooked With Soft Teow Sauce. Completed With Lalapan. Fresh And Quality Soup Nour. Salad And No Taste And No Msg!",
+    "section": "kings mie noodles"
+  },
+  {
+    "price": "28000",
+    "name": "Pisang Goreng Madu",
+    "description": "Sweet Fried Banana With Grated Cheese",
+    "section": "famous snacks"
+  },
+  {
+    "price": "29000",
+    "name": "2 X Jumbo Fried Meatball Tofu",
+    "description": "Fried Tofu Meatballs Filled With Our Own Large Beef. 1 Package Contains 3 Tofu Meatballs, Yamg Size. All Food Is Not Using Msg!",
+    "section": "famous snacks"
+  },
+  {
+    "price": "30000",
+    "name": "Tempe Mendoan Jumbo 4Pcs",
+    "description": "Delicious Nusantara Kulinary Food Which Is Really Delicious To Eat While It Is Still Warm And Suitable To Be Served With Ground Sambal Or Sweet Chili Soy Sauce.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "35000",
+    "name": "Beef Pastel Samosa Isi 3",
+    "description": "Minced Beef, Potato,, Champignon Mushrooms Mixed And Cooked Using Special Spices. The Skin Is Tender And Crispy.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "33000",
+    "name": "Fried Jamur Mushroom Champignon",
+    "description": "Champignon Mushrooms Fried. Outside Crispy Gareng, The Salad Is Soft. Cocol With Sweet Chili Thai Sauce. Yummy",
+    "section": "famous snacks"
+  },
+  {
+    "price": "30000",
+    "name": "French Fries Import Large",
+    "description": "Large Cut Cinkle Fries",
+    "section": "famous snacks"
+  },
+  {
+    "price": "45000",
+    "name": "Fried Chicken Wings 6 Pcs",
+    "description": "Best Seller Fried Chicken Winglets. Nasi Tambah 10Rb",
+    "section": "famous snacks"
+  },
+  {
+    "price": "65000",
+    "name": "Fried Chicken Wings 12 Pieces",
+    "description": "Fried Chicken Winglets. Nasi + 10Rb",
+    "section": "famous snacks"
+  },
+  {
+    "price": "49000",
+    "name": "Salted Egg Chicken Wings 6Pcs",
+    "description": "Best Seller Fried Chicken Wings Now With Special Salted Egg Yolk Sauce. Perfect Snack 24Hrs.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "78000",
+    "name": "Salted Egg Chicken Wings 12Pcs",
+    "description": "Best Seller Chicken Winglets Now With Our Special Salted Egg Sauce. Pedes Lvl 1 To 5.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "49000",
+    "name": "Kung Pao Chinese Chicken Wings 6Pcs",
+    "description": "12 Chicken Wings Golden Fried And Infused With Special Sauce. Spicy Pedes Lvl 1 To 5",
+    "section": "famous snacks"
+  },
+  {
+    "price": "78000",
+    "name": "Kung Pao Chinese Chicken Wings 12Pcs",
+    "description": "12 Chicken Wings Golden Fried And Infused With Special Sauce. Spicy Pedes Lvl 1 To 5",
+    "section": "famous snacks"
+  },
+  {
+    "price": "47000",
+    "name": "Cumi Goreng Calamari",
+    "description": "Big Squid Fried Crispy. Perfect For Snack Anytime. Yummy!",
+    "section": "famous snacks"
+  },
+  {
+    "price": "47000",
+    "name": "Udang Krispy Fried Shrimps",
+    "description": "Fresh Shrimps Battered And Crispy Fried. Perfect Snack To Go With Any Meal.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "85500",
+    "name": "Shrimp + Large Combo Pack Of Fried Squid",
+    "description": "Fresh Calamari And Prawns Fried Crispy. Comes With Homemade Tartar Sauce. Perfect Snack For 2.",
+    "section": "famous snacks"
+  },
+  {
+    "price": "28000",
+    "name": "Crispy Tofu Pong",
+    "description": "Crispy Skin Tofu Pong",
+    "section": "famous snacks"
+  },
+  {
+    "price": "46800",
+    "name": "Wanton Soup ( Chinese Dumplings ). No Msg",
+    "description": "Home Made Chicken Dumplings (5 Pcs) Soup With Fresh Vegetables.",
+    "section": "chinese food specials"
+  },
+  {
+    "price": "49000",
+    "name": "Sichuan Mala Chilli Chicken. Szechuan",
+    "description": "Free Chicken Breast Fat Fried With Szechan Pepper Gizzard Spices And Delicious! Served With Rice With Tempe Mendoan. Delicious And Savory",
+    "section": "chinese food specials"
+  },
+  {
+    "price": "49000",
+    "name": "Kungpow Chicken Rice! Pedes Lvl 1 To 5 !",
+    "description": "Special Cooked Chicken Sauce With Chef . Use Honey Made Peanuts. Delicious Savory. It Can Be Cooked According To The Level. Wait On The Order.",
+    "section": "chinese food specials"
+  },
+  {
+    "price": "47000",
+    "name": "Shanghai Dumpling Noodles. No Msg!",
+    "description": "Authentic China Noodles Cooked In Real Chicken Soup. Dumplings Are Handmade In Hotel Kitchen. All Using Fresh Ingredients. Rasa Light Tidak Berat.",
+    "section": "chinese food specials"
+  },
+  {
+    "price": "68000",
+    "name": "Shanghai Kuotieh Gyoza 10Pcs",
+    "description": "Pan Fried Chicken Dumplings With Special Chilli Sauce. Handmade In Our Hotel Kitchen.No Msg!",
+    "section": "chinese food specials"
+  },
+  {
+    "price": "23000",
+    "name": "Ice Kacang Cendol",
+    "description": "Ice Cendol Red Beans",
+    "section": "desserts"
+  },
+  {
+    "price": "35000",
+    "name": "Ice Bean Cendol + Durian",
+    "description": "Es Cendol Kacang Merah With Fresh Durian",
+    "section": "desserts"
+  },
+  {
+    "price": "15000",
+    "name": "Hot Lemon Tea",
+    "description": "Hot Team With Fresh Lemon Slices",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "19000",
+    "name": "Ice Lemon Tea",
+    "description": "Ice Tea With Fresh Lemon Slices",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "35000",
+    "name": "100% Freshly Squeezed Pure Orange Juice",
+    "description": "250Ml Pure Presel Orange 100% No Sugar.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "25000",
+    "name": "Fresh Mango Juice Mangga",
+    "description": "Made Juice From Fresh Mango Fruit 100%",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Fresh Strawberry Jus Stroberi 100%",
+    "description": "Fresh 100% Fresh Juice. Fresh Strawberry Is Not From The City.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Jus Sirak Fresh 100%",
+    "description": "Fresh Aromak Juice Not From The City. Pure Syrak 100%. Delicious And Full Of Viamins C!",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Fresh Jus Guava Juice 100%",
+    "description": "Fresh Guava Bukan Kotakan. Full Of Vitamins N Totally Refreshing! Guava Salah Satu Superfoods , Rich In Vitamin C And Iron.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Jus Alpukat Fresh Avocado Juice",
+    "description": "Juice Avocado Fresh 100% Murni. Asli Buah Qualitas",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "23000",
+    "name": "Black Coffee (Americano)",
+    "description": "Hot Item Coffee. Use Dark Roast Robust Beans Lampung.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Hot Latte ( Kopi Susu )",
+    "description": "Italian Seed Coffee Mixed With Fresh Milk. No Sugar. Medium Style",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "26000",
+    "name": "Ice Kopi Gula Aren (Ice Americano)",
+    "description": "Single Shot + Palm Sugar. (Alres Sugar)",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Latte Gula Aren",
+    "description": "Single Shot Espresso + Full Cream Milk + Gulen Aren",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "30000",
+    "name": "Hot Coklat Chocolate With Marshmallows",
+    "description": "Ihot Chocolate Real Cocoa With Mashmallows. Creamy And Satisfying.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "30000",
+    "name": "Es Coklat Real Cocoa",
+    "description": "Ice Chocolate Real Cocoa With Fresh Full Cream Milk. Best On A Hot Day!",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "32000",
+    "name": "Milkshake Cokelat",
+    "description": "Fresh Milk With Chocolate Ice Cream",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "32000",
+    "name": "Milkshake Vanilla",
+    "description": "Fresh Milk With Vanilla Ice Cream",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "32000",
+    "name": "Milkshake Strawberry",
+    "description": "Fresh Milk Fullcream Tambah Ice Cream Strawberry.",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "18000",
+    "name": "Hot Fresh Milk",
+    "description": "Hot Milk",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "18000",
+    "name": "Cold Fresh Milk",
+    "description": "Susu Fresh Dingin",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "15000",
+    "name": "Chocolate Milk",
+    "description": "",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "12000",
+    "name": "Sweet Iced Tea",
+    "description": "Indonesian Ice Tea",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Hot Tea Teh Panas",
+    "description": "Hot Black Tea",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "6000",
+    "name": "Mineral Water 600Ml",
+    "description": "Large Mineral Water",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "9000",
+    "name": "Coca Cola",
+    "description": "",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "9000",
+    "name": "Sprite",
+    "description": "",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "9000",
+    "name": "Fanta",
+    "description": "",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "80000",
+    "name": "Kopi Ice Latte - 1 Litre",
+    "description": "Premium Grade Robusta Coffee Beans, Fresh Milk N Organic Palm Sugar ( Aren )",
+    "section": "fresh juice & drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Grass Jelly (Cincau)",
+    "description": "Cold Cin Cau Grass Jelly",
+    "section": "fresh juice & drinks"
+  }
+]

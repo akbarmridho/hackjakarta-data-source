@@ -1,0 +1,446 @@
+[
+  {
+    "price": "84000",
+    "name": "Cheese Overflow Pasta",
+    "description": "Pasta Cheese Overflow. Luber Kejunya, Pecah Rasanya. Pesan Sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "49001",
+    "name": "Pizza Tipker",
+    "description": "Pizza Tipis dan Krispy dengan varian Topping Classic dan Premium, Pesan Sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "Melts Pizza",
+    "description": "Cheesy, Crispy, Loaded. Pizza Baru topping Seru Langsung Melts and Go! Pesan sekarang.",
+    "section": "today's offer"
+  },
+  {
+    "price": "355000",
+    "name": "L1MO 6 Topping",
+    "description": "L1mo baru lebih seru bisa dinikmati hingga 10 orang. Pesan sekarang!",
+    "section": "today's offer"
+  },
+  {
+    "price": "76000",
+    "name": "2 Fresh Juice 500ml",
+    "description": "Pilihan Juice Segar. Pesan Sekarang !",
+    "section": "today's offer"
+  },
+  {
+    "price": "84000",
+    "name": "Cheese Overflow Pasta",
+    "description": "Pasta Cheese Overflow. Luber Kejunya, Pecah Rasanya. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "178999",
+    "name": "QU4RTZA Cheese Overflow",
+    "description": "Cheese Overflow dengan Quartza",
+    "section": "40th"
+  },
+  {
+    "price": "77000",
+    "name": "Cheese Overflow Personal",
+    "description": "Personal Pizza Cheese Overflow. Luber Kejunya, Pecah Rasanya. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "163000",
+    "name": "Cheese Overflow Regular",
+    "description": "Regular Pizza Cheese Overflow. Luber Kejunya, Pecah Rasanya. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "216000",
+    "name": "Cheese Overflow Large",
+    "description": "Large Pizza Cheese Overflow. Luber Kejunya, Pecah Rasanya. Pesan Sekarang!",
+    "section": "40th"
+  },
+  {
+    "price": "49001",
+    "name": "Pizza Tipker",
+    "description": "Pizza Tipis dan Krispy dengan varian Topping Classic dan Premium, Pesan Sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "66000",
+    "name": "Melts Pizza",
+    "description": "Cheesy, Crispy, Loaded. Pizza Baru topping Seru Langsung Melts and Go! Pesan sekarang.",
+    "section": "hot promo"
+  },
+  {
+    "price": "355000",
+    "name": "L1MO 6 Topping",
+    "description": "L1mo baru lebih seru bisa dinikmati hingga 10 orang. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "463000",
+    "name": "Double Box Large Free Beef Lasagna",
+    "description": "Pizza kesukaanmu tersedia ukuran Large dengan 8 potongan yang lebih mengenyangkan. Free Beef Lasagna. Ayo pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "354999",
+    "name": "L1MO 6 Topping Free Beef Lasagna",
+    "description": "L1mo baru lebih seru bisa dinikmati hingga 10 orang. Free Beef Lasagna. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "155001",
+    "name": "QU4RTZA",
+    "description": "1 Pizza-nya, 4 Topping-nya, Banyak cuan-nya! Pesan sekarang.",
+    "section": "hot promo"
+  },
+  {
+    "price": "333001",
+    "name": "L1MO Pizza",
+    "description": "L1MO Pizza dengan Topping Tuna Melt, Meat Lovers dan Super Supreme. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "258001",
+    "name": "Big Box",
+    "description": "Makin puas buat rame-rame dengan menu lengkap Pizza, Pasta, dan Appetizer. Pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "240000",
+    "name": "Double Box Regular",
+    "description": "Selalu Lebih Hemat. Bisa pilih 2 pizza dengan topping kesukaanmu. Beli sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "311000",
+    "name": "Double Box Large",
+    "description": "Pizza kesukaanmu tersedia ukuran Large dengan 8 potongan yang lebih mengenyangkan. Ayo pesan sekarang!",
+    "section": "hot promo"
+  },
+  {
+    "price": "154000",
+    "name": "HandcraftedArtisan Regular Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "127001",
+    "name": "PAN Regular Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "57000",
+    "name": "PAN Personal Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "168000",
+    "name": "PAN Large Pizza",
+    "description": "",
+    "section": "pizza"
+  },
+  {
+    "price": "83001",
+    "name": "Classic Fettuccine With Crispy Chicken",
+    "description": "Pasta Fettuccine, Daging Ayam Asap, Saus Creamy dengan Chicken Strip dibalur Cream Cheese Mayo dan Beef Bits",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "87000",
+    "name": "Creamy Truffle",
+    "description": "Pasta Penne, Sosis Beef Chorizo, Bayam, Saus Alfredo dan Truffle Oil",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "74000",
+    "name": "Tuna Aglio Olio",
+    "description": "Pasta Spaghetti, Tuna, Jamur, Paprika dan Cabai",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "92001",
+    "name": "Salmon Aglio Olio",
+    "description": "Pasta Spaghetti, Cabai, Paprika Hijau, Bawang Putih dengan Salmon Panggang",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "74000",
+    "name": "Beef Spaghetti",
+    "description": "Pasta Spaghetti, Daging Sapi Cincang, Saus Tomat dan Keju Cheddar",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "74000",
+    "name": "Creamy Beef Classic Fettuccine",
+    "description": "Pasta Fettuccine, Daging Sapi Asap, Jamur dan Saus Krim",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "74000",
+    "name": "Creamy Chicken Classic Fettuccine",
+    "description": "Pasta Fettuccine, Daging Ayam Asap, Jamur dan Saus Krim",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "77000",
+    "name": "Beef Lasagna",
+    "description": "Pasta Lasagna Panggang, Daging Sapi Cincang dan Saus Krim Putih",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "93001",
+    "name": "Classic Salmon Mentaiko",
+    "description": "Pasta Spaghetti, Ikan Salmon Fillet, Saus Mayo Mentai dan Nori",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "74000",
+    "name": "Cheese Beef Fusilli",
+    "description": "Pasta Fusilli Panggang, Saus Keju Cheddar dan Beef Bits",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "61001",
+    "name": "Oriental Chicken Rice",
+    "description": "Nasi, Ayam Panggang, Saus Oriental",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "61001",
+    "name": "Meatballs Beef Mushroom Sauce",
+    "description": "Nasi, Bola Daging Sapi, Saus Daging Sapi Cincang, Jamur",
+    "section": "pasta & rice"
+  },
+  {
+    "price": "58001",
+    "name": "Fresh Salad",
+    "description": "Pilihan Sayuran dan Buah-Buahan Segar Setiap Hari dengan Saus Pilihan Sebagai Pendampingnya",
+    "section": "appetizer"
+  },
+  {
+    "price": "39001",
+    "name": "Puff Pastry Mushroom Cream Soup",
+    "description": "Sup Krim Jamur dan Puff Pastry",
+    "section": "appetizer"
+  },
+  {
+    "price": "57001",
+    "name": "Wingstreet",
+    "description": "Sayap Original Ayam berbalut tepung Krispi",
+    "section": "appetizer"
+  },
+  {
+    "price": "53000",
+    "name": "New Orleans Chicken Wings",
+    "description": "Sayap Ayam Panggang dengan Bumbu khas New Orleans",
+    "section": "appetizer"
+  },
+  {
+    "price": "52000",
+    "name": "Chicken Royale",
+    "description": "Chicken Stick,Chicken Popcorn,Potato Wedges dan Garlic Bread",
+    "section": "appetizer"
+  },
+  {
+    "price": "53000",
+    "name": "Chicken Dip",
+    "description": "Daging Ayam berbalut Tepung Krispi dan Saus Celup Garlic Butter",
+    "section": "appetizer"
+  },
+  {
+    "price": "28001",
+    "name": "Mushroom Soup",
+    "description": "Sup Krim Jamur",
+    "section": "appetizer"
+  },
+  {
+    "price": "37001",
+    "name": "Deluxe Chicken Bruschetta",
+    "description": "Sosis Ayam, Jamur, Onion dan Saus Krim Putih",
+    "section": "appetizer"
+  },
+  {
+    "price": "37001",
+    "name": "Deluxe Beef Bruschetta",
+    "description": "Daging Sapi Asap, Jagung, Onion dan Saus Thousand Island",
+    "section": "appetizer"
+  },
+  {
+    "price": "37001",
+    "name": "Garlicheese Bread",
+    "description": "Roti Panggang dengan Bumbu Bawang Putih dan Keju Mozzarella",
+    "section": "appetizer"
+  },
+  {
+    "price": "35001",
+    "name": "Potato Wedges",
+    "description": "Kentang Panggang dengan Bumbu Special",
+    "section": "appetizer"
+  },
+  {
+    "price": "35001",
+    "name": "French Fries",
+    "description": "Kentang Goreng dengan Bumbu Special",
+    "section": "appetizer"
+  },
+  {
+    "price": "35001",
+    "name": "Garlic Bread",
+    "description": "Roti Panggang dengan Mentega Beraroma Bawang Putih",
+    "section": "appetizer"
+  },
+  {
+    "price": "42000",
+    "name": "Cheese Rolls",
+    "description": "Roti dengan Keju Mozzarella",
+    "section": "appetizer"
+  },
+  {
+    "price": "39001",
+    "name": "Blue Ocean",
+    "description": "Soda Bluberi, Sirup Mangga dan Biji Selasih",
+    "section": "drinks"
+  },
+  {
+    "price": "42000",
+    "name": "Winter Punch",
+    "description": "Buah Leci, Nata de Coco, Biji Selasih, Sirup Leci dan Lemon Tea",
+    "section": "drinks"
+  },
+  {
+    "price": "42000",
+    "name": "Tropical Punch",
+    "description": "Buah Peach, Nata de Coco, Semangka, Biji Selasih, Sirup Mangga dan Lemon Tea",
+    "section": "drinks"
+  },
+  {
+    "price": "39001",
+    "name": "Orange Lychee Sparkle",
+    "description": "Jus Jeruk dan Sirup Leci",
+    "section": "drinks"
+  },
+  {
+    "price": "42000",
+    "name": "Lychee Breeze",
+    "description": "Buah Leci, Sirup Leci, Soda dan Jeruk Nipis",
+    "section": "drinks"
+  },
+  {
+    "price": "39001",
+    "name": "Mixberry",
+    "description": "Soda Bluberi, Sirup Stroberi, Biji Selasih dan Jelly",
+    "section": "drinks"
+  },
+  {
+    "price": "37001",
+    "name": "Lychee Spring",
+    "description": "Yakult, Sirup Leci dan Potongan Buah Leci",
+    "section": "drinks"
+  },
+  {
+    "price": "32000",
+    "name": "Honey Lime Tea",
+    "description": "Madu dan Teh Jeruk Nipis",
+    "section": "drinks"
+  },
+  {
+    "price": "40000",
+    "name": "Summer Shake",
+    "description": "Sirup Mangga, Peach, dan Es Krim Vanila",
+    "section": "drinks"
+  },
+  {
+    "price": "29000",
+    "name": "Lime Squash",
+    "description": "Soda Jeruk Nipis",
+    "section": "drinks"
+  },
+  {
+    "price": "28001",
+    "name": "Coca Cola 1 Liter",
+    "description": "Coca-Cola 1 Liter",
+    "section": "drinks"
+  },
+  {
+    "price": "38001",
+    "name": "Vanilla Milkshake",
+    "description": "Susu Segar dan Es Krim Vanila",
+    "section": "drinks"
+  },
+  {
+    "price": "38001",
+    "name": "Chocolate Milkshake",
+    "description": "Susu Segar dan Es Krim Cokelat",
+    "section": "drinks"
+  },
+  {
+    "price": "38000",
+    "name": "Strawberry Milkshake",
+    "description": "Susu Segar dan Es Krim Stroberi",
+    "section": "drinks"
+  },
+  {
+    "price": "20000",
+    "name": "Aqua Bottle",
+    "description": "Aqua Botol",
+    "section": "drinks"
+  },
+  {
+    "price": "76000",
+    "name": "2 Fresh Juice 500ml",
+    "description": "Pilihan Juice Segar. Pesan Sekarang !",
+    "section": "drinks"
+  },
+  {
+    "price": "30000",
+    "name": "Orange Juice",
+    "description": "Orange Juice",
+    "section": "drinks"
+  },
+  {
+    "price": "28001",
+    "name": "Coca Cola",
+    "description": "Coca Cola",
+    "section": "drinks"
+  },
+  {
+    "price": "28001",
+    "name": "Sprite",
+    "description": "Sprite",
+    "section": "drinks"
+  },
+  {
+    "price": "30000",
+    "name": "Lemonade Cooler",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "28001",
+    "name": "Frestea",
+    "description": "Frestea",
+    "section": "drinks"
+  },
+  {
+    "price": "684000",
+    "name": "Paket Meeting 1",
+    "description": "Terdiri dari 1 L1MO 6 Topping, 1 Pasta Beef Spaghetti, 1 Oriental Chicken Rice, 1 New Orleans Chicken Wings, 1 Sausage Popstick, 1 Beef Bruschetta, 1 Garlic Bread dan 1 Coca Cola 1L",
+    "section": "big deals"
+  },
+  {
+    "price": "811000",
+    "name": "Paket Meeting 2",
+    "description": "Terdiri dari 1 L1MO Pizza, 1 Cheesy Bites Pizza Regular, 1 New Orleans Chicken Wings, 1 Chicken Royale, 2 Garlic Bread, 1 Beef Bruschetta, 1 Sausage Popstik dan 1 Coca-Cola 1L",
+    "section": "big deals"
+  },
+  {
+    "price": "937001",
+    "name": "Paket Resign",
+    "description": "Terdiri dari 2 L1MO 6 Topping, 1 New Orleans Chicken Wings, 1 Beef Bruschetta, 3 Garlic Bread, 1 Sausage Popstik dan 1 Coca-Cola 1L",
+    "section": "big deals"
+  }
+]

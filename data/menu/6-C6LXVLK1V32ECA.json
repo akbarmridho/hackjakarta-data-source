@@ -1,0 +1,363 @@
+[
+  {
+    "price": "24500",
+    "name": "Smashed Tempeh Rice + Side Up Egg",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "19500",
+    "name": "Smashed Tempeh Rice",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "19500",
+    "name": "Nasi Telor Orak Arik",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Village Fried Rice (Crabed Eggs)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Village Fried Rice (Omelette)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Village Fried Rice (Fried Egg)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Nasi Goreng Sosis (Telor Dadar)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Nasi Goreng Sosis (Telor Diaduk)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Sausage Fried Rice (Fried Egg)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Meatball Fried Rice (Omelette)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Meatball Fried Rice (Ceplok Egg)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18700",
+    "name": "Meatball Fried Rice (Seduk Eggs)",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "15500",
+    "name": "Nasi Telor Dadar",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "15500",
+    "name": "Ceplok Egg Rice",
+    "description": "",
+    "section": "food"
+  },
+  { "price": "19500", "name": "Omelet", "description": "", "section": "food" },
+  {
+    "price": "21800",
+    "name": "Nyemek Noodles",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "20500",
+    "name": "Indomie Soto Double",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "24500",
+    "name": "Indomie Ayam Bawang Double + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "20500",
+    "name": "Indomie Ayam Bawang Double",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "24500",
+    "name": "Indomie Goreng Double + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "20500",
+    "name": "Indomie Goreng Double",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "17500",
+    "name": "Indomie Goreng + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12500",
+    "name": "Indomie Goreng",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18500",
+    "name": "Indomie Kari Ayam + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12500",
+    "name": "Indomie Kari Ayam",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "17500",
+    "name": "Indomie Soto + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12500",
+    "name": "Indomie Soto",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "17500",
+    "name": "Indomie Ayam Bawang + Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12500",
+    "name": "Indomie Chicken Onions",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Green Bean Porridge + Black Sticky Rice + Cheese + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "18000",
+    "name": "Green Bean Porridge + Black Sticky Rice + Cheese + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Green Bean Porridge + Black Sticky Rice + Milk + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "14000",
+    "name": "Green Bean Porridge + Black Sticky Rice + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "13000",
+    "name": "Green Bean Porridge + Black Sticky Rice + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Green Bean Porridge + Black Glutinous Rice",
+    "description": "Green Beans + Sticky Rice + Coconut Milk",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Black Sticky Rice Porridge + Cheese + Milk + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "17000",
+    "name": "Black Sticky Rice Porridge + Cheese + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "14000",
+    "name": "Black Sticky Rice Porridge + Milk + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "13500",
+    "name": "Black Sticky Rice Porridge + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Black Sticky Rice Porridge + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "11000",
+    "name": "Black Sticky Rice Porridge",
+    "description": "Black Sticky Rice, Coconut Milk",
+    "section": "food"
+  },
+  {
+    "price": "19000",
+    "name": "Green Bean Porridge + Milk + Cheese + Plain Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "17000",
+    "name": "Green Bean Porridge + Cheese + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Green Bean Porridge + White Bread + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "13500",
+    "name": "Green Bean Porridge + White Bread",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Green Bean Porridge + Milk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "11000",
+    "name": "Green Bean Porridge",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "14500",
+    "name": "Roti Bakar Rasa",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "8000",
+    "name": "Ice Nutrisari Mango Doublerian",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Ice Nutrisari Orange Peras",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Ice Nutrisari Orange Nipis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Es Milo",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21000",
+    "name": "Stmj (Susu, Madu, Telor, Jahe)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Original Ginger Milk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Es Teh Tarik",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Es Kopi Susu",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Es Good Day Capucino",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Le Mineral",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Milk Coffee",
+    "description": "Coffee And Milk",
+    "section": "minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Beng-Beng Chocolate Ice",
+    "description": "",
+    "section": "minuman"
+  }
+]

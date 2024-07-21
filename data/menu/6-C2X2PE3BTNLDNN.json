@@ -1,0 +1,476 @@
+[
+  {
+    "price": "32000",
+    "name": "Besteh 1",
+    "description": "Passionfruit Greentea (L) + Lemonteh Strawberry (M)",
+    "section": "today's offer"
+  },
+  {
+    "price": "32000",
+    "name": "Besteh 2",
+    "description": "Esteh Lychee (L) + Esteh Susu Strawberry (M)",
+    "section": "today's offer"
+  },
+  {
+    "price": "32000",
+    "name": "Besteh 3",
+    "description": "Lemontea Iced Tea (L) + Matcha Milk Tea (M)",
+    "section": "today's offer"
+  },
+  {
+    "price": "32000",
+    "name": "Besteh 1",
+    "description": "Passionfruit Greentea (L) + Lemonteh Strawberry (M)",
+    "section": "besteh (beli esteh setiap hari)"
+  },
+  {
+    "price": "32000",
+    "name": "Besteh 2",
+    "description": "Esteh Lychee (L) + Esteh Susu Strawberry (M)",
+    "section": "besteh (beli esteh setiap hari)"
+  },
+  {
+    "price": "32000",
+    "name": "Besteh 3",
+    "description": "Lemontea Iced Tea (L) + Matcha Milk Tea (M)",
+    "section": "besteh (beli esteh setiap hari)"
+  },
+  {
+    "price": "16500",
+    "name": "Esteh Zero Original (L)",
+    "description": "Traditional Indonesian Tea Is Bolder, Because Of Sugar And Calories 0%.",
+    "section": "zero calories series"
+  },
+  {
+    "price": "16500",
+    "name": "Esteh Zero Melati (L)",
+    "description": "Perfect For Watching Fats! Tasty Fragrant, No Sugar And Calories. Drink Ice Tea Without Rice!",
+    "section": "zero calories series"
+  },
+  {
+    "price": "16500",
+    "name": "Esteh Zero Greentea (L)",
+    "description": "A Rich Menu Will Be Anti-Oksandans And Low Cayein, Plus 0% Sugar And Calories! Tastes Like Cold Ocha.",
+    "section": "zero calories series"
+  },
+  {
+    "price": "13000",
+    "name": "Esteh Zero Original (M)",
+    "description": "Traditional Indonesian Tea Is Bolder, Because Of Sugar And Calories 0%.",
+    "section": "zero calories series"
+  },
+  {
+    "price": "13000",
+    "name": "Esteh Zero Melati (M)",
+    "description": "Perfect For Watching Fats! Tasty Fragrant, No Sugar And Calories. Drink Ice Tea Without Rice!",
+    "section": "zero calories series"
+  },
+  {
+    "price": "13000",
+    "name": "Zero Green Tea Ice (M)",
+    "description": "A Rich Menu Will Be Anti-Oksandans And Low Cayein, Plus 0% Sugar And Calories! Tastes Like Cold Ocha.",
+    "section": "zero calories series"
+  },
+  {
+    "price": "20500",
+    "name": "Esteh Susu Nusantara (L)",
+    "description": "Indonesian Tea Signature. Must Try, Creamy Satay From A Combined Tea With Brown Sugar. Provide A Fresh Sensation That Makes Your Heart Water.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Thai Tea (L)",
+    "description": "Thai Puta'S Signature Cold Dish. Please Give A Note, Get The Most Delicious Ice Tea, Just Try It!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "26000",
+    "name": "Esteh Susu Strawberry (L)",
+    "description": "Change The Name From Nusauberry Iced Tea, But The Taste Is Still The Same. If You Want It, You Want The Restaurant To Try This!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "26000",
+    "name": "Esteh Susu Matcha (L)",
+    "description": "For Matcha Matcha, This Menu Is The Most Basic Menu That Is Needed. Not Too Bitter, But Mixed Between Matcha And Perfect Milk!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "32500",
+    "name": "Brown Sugar (L)",
+    "description": "A Distinctive Chocolate Color From Brown Sugar With A Variety Of Caramel Flavors On The Af-Tyatay. This Menu Is Suitable As The Customers Of The Daily.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "31000",
+    "name": "Sea Salt Cookies & Cream (L)",
+    "description": "Cake Lovers! You Can Imagine That This Cake Is So Happy For Your Booster, This Menu!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "14000",
+    "name": "Nusantara Milk Iced Tea (M)",
+    "description": "Indonesian Tea Signature. Must Try, Creamy Satay From A Combined Tea With Brown Sugar. Provide A Fresh Sensation That Makes Your Heart Water.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "15500",
+    "name": "Thai Tea (M)",
+    "description": "Thai Puta'S Signature Cold Dish. Please Give A Note, Get The Most Delicious Ice Tea, Just Try It!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "20500",
+    "name": "Esteh Susu Strawberry (M)",
+    "description": "Change The Name From Nusauberry Iced Tea, But The Taste Is Still The Same. If You Want It, You Want The Restaurant To Try This!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "20500",
+    "name": "Esteh Susu Matcha (M)",
+    "description": "For Matcha Matcha, This Menu Is The Most Basic Menu That Is Needed. Not Too Bitter, But Mixed Between Matcha And Perfect Milk!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "27000",
+    "name": "Brown Sugar (M)",
+    "description": "A Distinctive Chocolate Color From Brown Sugar With A Variety Of Caramel Flavors On The Af-Tyatay. This Menu Is Suitable As The Customers Of The Daily.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "27000",
+    "name": "Sea Salt Cookies & Cream (M)",
+    "description": "Cake Lovers! You Can Imagine That This Cake Is So Happy For Your Booster, This Menu!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "29500",
+    "name": "Hazelnut Milk Tea (L)",
+    "description": "Hazelnut With Salted Caramel Plus Indonesian Milk Cream Which Adds To Indonesian Sensation More.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "23000",
+    "name": "Hazelnut Milk Tea (M)",
+    "description": "Hazelnut With Salted Caramel Plus Indonesian Milk Cream Which Adds To Indonesian Sensation More.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "82500",
+    "name": "Esteh Thai Tea 1L",
+    "description": "Thai Sized Tea 1 Liter, In A Maximum Packaging Stored Until Maximum 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "75000",
+    "name": "Esteh Lychee 1L",
+    "description": "1 Liter Of Lychee Tea, In A Corian Packaging Stored In The Chicken To Maximum 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "75000",
+    "name": "Esteh Lemontea 1L",
+    "description": "Lemon Tea That Refreshs 1 Liter Size, In A Corian Packaging Stored In The Maximum 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "82500",
+    "name": "Esteh Susu Nusantara 1L",
+    "description": "Indonesia'S Special Milk Tea For 1 Liter, In A Corian Packaging Stored In The Chicken To 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "90000",
+    "name": "Matcha Milk Ice 1L",
+    "description": "Matcha Lovers, Patty! There Are 1 Liter Size Lho! In A Steamed Packaging Stored Up To 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "75000",
+    "name": "Esteh Original 1L",
+    "description": "Original Tea, Most Ordering! Size 1 Liter, In A Corian Packaging Stored Until Maximum 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "75000",
+    "name": "Esteh Melati 1L",
+    "description": "Jasmine Aroma That Is A Friend Of Mangohigh With 1 Liter Size, In A Stored Packaging Stored Until Maximum 3 Days.",
+    "section": "botol 1l"
+  },
+  {
+    "price": "27000",
+    "name": "Cokolateh (L)",
+    "description": "Empang Is A Tea + Chocolate? Just Indonesian Ice Tea, This Menu Is Special Made For People!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "27000",
+    "name": "Hazelnut Chocolate (L)",
+    "description": "Spoiling Your Tongue, A Tempting Chocolate Hazelnut Sensation! Make You Addicted!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "27000",
+    "name": "Pure Chocolate (L)",
+    "description": "Soft Quality Chocolate, The Sensation Helps Increase Keli-Boxer. If It'S Really Suitable, It'S Still Pms Or Other!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "29500",
+    "name": "Chocolate Macchiato (L)",
+    "description": "Melted, Your Favorite! In Your Daily, This Menu Is Suitable To Make Your Enthusias Again!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "30000",
+    "name": "Caramel Cream Hazelnut Chocolate (L)",
+    "description": "Rame Flavor On This Menu, Combined With Chocolate Hazelnut + Salt Cream'S Signature Salt Cream + Caramel. From Imaginets, I'M Sure You Can+ This Order 1!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "20500",
+    "name": "Cokolateh (M)",
+    "description": "Empang Is A Tea + Chocolate? Just Indonesian Ice Tea, This Menu Is Special Made For People!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "20500",
+    "name": "Hazelnut Chocolate (M)",
+    "description": "Spoiling Your Tongue, A Tempting Chocolate Hazelnut Sensation! Make You Addicted!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "20500",
+    "name": "Pure Chocolate (M)",
+    "description": "Soft Quality Chocolate, The Sensation Helps Increase Keli-Boxer. If It'S Really Suitable, It'S Still Pms Or Other!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "23000",
+    "name": "Chocolate Macchiato (M)",
+    "description": "Melted, Your Favorite! In Your Daily, This Menu Is Suitable To Make Your Enthusias Again!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "23000",
+    "name": "Caramel Cream Hazelnut Chocolate (M)",
+    "description": "Rame Flavor On This Menu, Combined With Chocolate Hazelnut + Salt Cream'S Signature Salt Cream + Caramel. From Imaginets, I'M Sure You Can+ This Order 1!",
+    "section": "chocolate series"
+  },
+  {
+    "price": "29500",
+    "name": "Chizu Red Velvet (L)",
+    "description": "Put In The Top 10, Inno Doubt And There Are Only Indonesian Iced. Even Though Dominan Flavors Of Red Velvet Cake, But This Menu Uses Based From Black Tea.",
+    "section": "chizu series"
+  },
+  {
+    "price": "29500",
+    "name": "Chizu Taro (L)",
+    "description": "Creamy Is Ready To Eat Are Ready To Eat Your Martah Mo Save Tea! Mixed With Cheese And Taro, Lho! Anti-Stream Kaaan.",
+    "section": "chizu series"
+  },
+  {
+    "price": "29500",
+    "name": "Chizu Matcha (L)",
+    "description": "Matcha Mixed With Cream Cheese? Unique Matcha Sensation, Mixed With Sweet And Savory From Cheese Cream.",
+    "section": "chizu series"
+  },
+  {
+    "price": "29500",
+    "name": "Chizu Teavocado (L)",
+    "description": "Avocado Lovers Will Not Miss This Menu! Especially There Are A Blend Of Black Tea And Cheese Cream. Sure It Will Be No Dried?",
+    "section": "chizu series"
+  },
+  {
+    "price": "29500",
+    "name": "Chizu Chocolate (L)",
+    "description": "Not Only Regular Chocolate, This Time A Cream'S Sensation Helps To Enjoy A Good Snack For Your Regular Quality.",
+    "section": "chizu series"
+  },
+  {
+    "price": "24500",
+    "name": "Chizu Red Velvet (M)",
+    "description": "Put In The Top 10, Inno Doubt And There Are Only Indonesian Iced. Even Though Dominan Flavors Of Red Velvet Cake, But This Menu Uses Based From Black Tea.",
+    "section": "chizu series"
+  },
+  {
+    "price": "24500",
+    "name": "Chizu Taro (M)",
+    "description": "Creamy Is Ready To Eat Are Ready To Eat Your Martah Mo Save Tea! Mixed With Cheese And Taro, Lho! Anti-Stream Kaaan.",
+    "section": "chizu series"
+  },
+  {
+    "price": "24500",
+    "name": "Chizu Matcha (M)",
+    "description": "Matcha Mixed With Cream Cheese? Unique Matcha Sensation, Mixed With Sweet And Savory From Cheese Cream.",
+    "section": "chizu series"
+  },
+  {
+    "price": "24500",
+    "name": "Chizu Teavocado (M)",
+    "description": "Avocado Lovers Will Not Miss This Menu! Especially There Are A Blend Of Black Tea And Cheese Cream. Sure It Will Be No Dried?",
+    "section": "chizu series"
+  },
+  {
+    "price": "24500",
+    "name": "Chizu Chocolate (M)",
+    "description": "Not Only Regular Chocolate, This Time A Cream'S Sensation Helps To Enjoy A Good Snack For Your Regular Quality.",
+    "section": "chizu series"
+  },
+  {
+    "price": "20500",
+    "name": "Esteh Lychee (L)",
+    "description": "This Menu Puts In 10! Basic, But Never Lets Choose If You Want It!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "20500",
+    "name": "Esteh Lemontea (L)",
+    "description": "Popular Menu, The Sensation Of Lemon Is Refreshing The Throat. Any Food Accompaniment!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Passionfruit Greentea (L)",
+    "description": "Need Bean Sprouts Of Energy? This Menu Is Suitable! Green Tea With Original Passion Fruit! Fresh Please Do Not Be Requested, Just Try It!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Passionfruit Lemonade (L)",
+    "description": "There Are Original Lemon And Passion Fruit! Suitable For Hot And Accompaniment When Relaxing.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "26000",
+    "name": "Esteh Mango Greentea (L)",
+    "description": "Spoil Your Enthusiasm, Topped With This Menu! The Freshness Makes You A Moment Of Addictive Topping! Happy!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Lemonade Greentea (L)",
+    "description": "A Unique Blend Of Lemon'S Fresh Fruit Plus The Original Fresh. Taste Of The Green Tea.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "26000",
+    "name": "Lemonteh Strawberry (L)",
+    "description": "New Name From \"Lemond Berry\". Extraisting Menu That Gives A Sensation Of Sour! Super Fresh! Best Selling For Using Extra Toppings.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "15500",
+    "name": "Esteh Lychee (M)",
+    "description": "This Menu Puts In 10! Basic, But Never Lets Choose If You Want It!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "15500",
+    "name": "Esteh Lemontea (M)",
+    "description": "Popular Menu, The Sensation Of Lemon Is Refreshing The Throat. Any Food Accompaniment!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "16500",
+    "name": "Passionfruit Greentea (M)",
+    "description": "Need Bean Sprouts Of Energy? This Menu Is Suitable! Green Tea With Original Passion Fruit! Fresh Please Do Not Be Requested, Just Try It!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "16500",
+    "name": "Passionfruit Lemonade (M)",
+    "description": "There Are Original Lemon And Passion Fruit! Suitable For Hot And Accompaniment When Relaxing.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "19500",
+    "name": "Esteh Mango Greentea (M)",
+    "description": "Spoil Your Enthusiasm, Topped With This Menu! The Freshness Makes You A Moment Of Addictive Topping! Happy!",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "16500",
+    "name": "Lemonade Greentea (M)",
+    "description": "A Unique Blend Of Lemon'S Fresh Fruit Plus The Original Fresh. Taste Of The Green Tea.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "20500",
+    "name": "Lemonteh Strawberry (M)",
+    "description": "New Name From \"Lemond Berry\". Extraisting Menu That Gives A Sensation Of Sour! Super Fresh! Best Selling For Using Extra Toppings.",
+    "section": "fruit tea series"
+  },
+  {
+    "price": "10000",
+    "name": "Esteh Melati (M)",
+    "description": "",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "15500",
+    "name": "Esteh Original (L)",
+    "description": "The Most Basic Between Other Menus, But Freshly And Sour!",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "15500",
+    "name": "Esteh Melati (L)",
+    "description": "Describe In The Top Of 5 Menus, The Jasmine Aroma Is Drink Before 5 Minutes And Also Out. So Delicious!",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "19500",
+    "name": "Esteh Greentea (L)",
+    "description": "If You Like With The Bitter Sensation Of Green Tea, Fill This Order!",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "10000",
+    "name": "Esteh Original (M)",
+    "description": "The Most Basic Between Other Menus, But Freshly And Sour!",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "14000",
+    "name": "Esteh Greentea (M)",
+    "description": "If You Like With The Bitter Sensation Of Green Tea, Fill This Order!",
+    "section": "fresh tea series"
+  },
+  {
+    "price": "50000",
+    "name": "Family Package 1",
+    "description": "Family Package Contains 5 Cups Of Original Iced Tea, Freshly Processed!",
+    "section": "family package"
+  },
+  {
+    "price": "50000",
+    "name": "Family Package 2",
+    "description": "Family Package Contains 5 Cups Of Medium Iced Jasmine, The Aroma Is Perfect For Any Meal!",
+    "section": "family package"
+  },
+  {
+    "price": "70000",
+    "name": "Family Package 3",
+    "description": "Family Package Contains 5 Cups Of Medium Iced Tea Milk, Creamy And Creamy Is Making You Addicted!",
+    "section": "family package"
+  },
+  {
+    "price": "122500",
+    "name": "Family Package 4",
+    "description": "Family Package Contains 5 Cups Medium Red Velvet, Surely The Most Favorite!",
+    "section": "family package"
+  },
+  {
+    "price": "122500",
+    "name": "Family Package 5",
+    "description": "Family Package Contains 3 Cups Of Medium Chicken Matcha And 2 Cups Of Medium Red Velvet, A Combination That Makes You Happy!",
+    "section": "family package"
+  },
+  {
+    "price": "21000",
+    "name": "Cireng Nusantara",
+    "description": "",
+    "section": "celoteh"
+  }
+]

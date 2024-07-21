@@ -1,0 +1,32 @@
+[
+  {
+    "price": "47000",
+    "name": "Large Beef Kebab (Wagyu)",
+    "description": "",
+    "section": "istanbul kebab turki"
+  },
+  {
+    "price": "39000",
+    "name": "Medium Beef Kebab (Wagyu)",
+    "description": "",
+    "section": "istanbul kebab turki"
+  },
+  {
+    "price": "34000",
+    "name": "Large Chicken Kebab",
+    "description": "",
+    "section": "istanbul kebab turki"
+  },
+  {
+    "price": "28000",
+    "name": "Medium Chicken Kebab",
+    "description": "",
+    "section": "istanbul kebab turki"
+  },
+  {
+    "price": "17000",
+    "name": "Small Chicken Kebab",
+    "description": "",
+    "section": "istanbul kebab turki"
+  }
+]

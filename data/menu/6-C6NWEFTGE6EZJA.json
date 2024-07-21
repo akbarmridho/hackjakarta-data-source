@@ -1,0 +1,26 @@
+[
+  {
+    "price": "10000",
+    "name": "Fresh Boba Drink",
+    "description": "Menu Like Boba Size M10Rb Which Is L12Gr, Add To 3 Rbs",
+    "section": "boba minuman minuman segar boba"
+  },
+  {
+    "price": "10000",
+    "name": "Es Coklat Kuwentel",
+    "description": "Nasi Chocolate Kuwenel 10Rb Chocolate Iced + Chocolate Topping +Dobletopping 15",
+    "section": "es coklat kentel"
+  },
+  {
+    "price": "10000",
+    "name": "Alpokat Kocok + Toping",
+    "description": "Alpokad Original Shake 10Rb Alapd + Topping 13K Alapd + Double Topping 15",
+    "section": "alpokad kocok minuman boba"
+  },
+  {
+    "price": "13000",
+    "name": "Alpokad Kocok Coklat",
+    "description": "Chocolate Shaked Alpocad",
+    "section": "alpokad kocok minuman boba"
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "price": "20800",
+    "name": "Smoked Shredded Chicken + Rice",
+    "description": "Ayam Suwir Asap + Kangkung Crispy + Nasi + Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "36000",
+    "name": "Buy 1 Get 1 Paket Sambal Bawang Free Paket Sambal Matah",
+    "description": "Smashed Sambal Package + Matah Smashed Sambal Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "39000",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Free Paket Telur Geprek",
+    "description": "Buy 1 Get 1 Smashed Chicken Package Free Smashed Egg Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "49000",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Free Paket Ikan Geprek",
+    "description": "Buy 1 Get 1 Smashed Chicken Package Free Smashed Fish Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "46440",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Nasi Free Paket Ayam Geprek Mie",
+    "description": "Buy 1 Get 1 Smashed Chicken Rice Package Free Smashed Chicken Noodle Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "24786",
+    "name": "Ayam Geprek Crispy + Nasi",
+    "description": "Crispy Geprek Chicken + Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "26681",
+    "name": "Fried Chicken Geprek + Mie",
+    "description": "Crispy Fried Chicken That Is Smashed But Different Because It Is Indomie, Fried (Already, Definitely Delicious) And Combined With Onion Sambal Made From Level 1/5.",
+    "section": "today's offer"
+  },
+  {
+    "price": "31343",
+    "name": "Ayam Geprek Crispy Mozarella + Nasi",
+    "description": "Crispy Fried Chicken Crushed With Onion Sambal From Level 1.D 5 Already Using Rice And Then Garnished With A Super Creamy Mozzarella Cheese.",
+    "section": "today's offer"
+  },
+  {
+    "price": "34219",
+    "name": "Ayam Geprek Crispy Mozarella + Mie",
+    "description": "Crispy Fried Chicken Crushed With Onion Sambal With A Spicy Level 1 S/D 5 Plus Fried Indomie Then Melted A Super Melted Mozzarella Cheese With Creamy And Savory.",
+    "section": "today's offer"
+  },
+  {
+    "price": "31729",
+    "name": "Telur Geprek Mozarella + Mie",
+    "description": "Mozzarella Smashed Egg + Noodles",
+    "section": "today's offer"
+  },
+  {
+    "price": "86700",
+    "name": "Paket Kongkow Ber-3",
+    "description": "3 Smashed Chicken Packages + 3 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "28753",
+    "name": "Mozarella Fried Egg + Rice",
+    "description": "Mozzarella Smashed Egg + Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "23794",
+    "name": "Telur Geprek Crispy + Mie",
+    "description": "Crispy Smashed Egg + Noodles",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Paket Hemat 1",
+    "description": "Smashed Chicken + Rice + Tofu / Tempeh + Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "32500",
+    "name": "Paket Hemat 2",
+    "description": "Smashed Chicken + Rice + Tofu/Tempeh + Thai Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "39000",
+    "name": "Fighter Package",
+    "description": "Smashed Chicken + Rice + Tofu/Tempe + Sausage + Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Jomer 1",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Tofu/Tempeh + 1 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "58500",
+    "name": "Paket Jomer 2",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Tofu/Tempeh + 1 Thai Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "48750",
+    "name": "Paket Kenyang 1",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "146500",
+    "name": "Paket Kongkow Ber-5",
+    "description": "5 Smashed Chicken Packages + 5 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "55250",
+    "name": "Paket Kenyang 2",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Thai Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "54000",
+    "name": "Paket Kongkow Ber-2",
+    "description": "2 Packages Of Smashed Chicken + 2 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "287215",
+    "name": "Paket Kongkow Ber-10",
+    "description": "10 Smashed Chicken Packages + 10 Earl Gray Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "20800",
+    "name": "Smoked Shredded Chicken + Rice",
+    "description": "Ayam Suwir Asap + Kangkung Crispy + Nasi + Sambal",
+    "section": "brand week festival"
+  },
+  {
+    "price": "70000",
+    "name": "Buy 1 Get 1 Paket Sambal Bawang Free Paket Sambal Matah",
+    "description": "Paket Geprek Sambal Bawang + Paket Geprek Sambal Matah",
+    "section": "brand week festival"
+  },
+  {
+    "price": "20000",
+    "name": "Crispy Fried Egg + Rice",
+    "description": "Crispy Smashed Egg + Rice",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "36000",
+    "name": "Buy 1 Get 1 Paket Sambal Bawang Free Paket Sambal Matah",
+    "description": "Smashed Sambal Package + Matah Smashed Sambal Package",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "39000",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Free Paket Telur Geprek",
+    "description": "Buy 1 Get 1 Smashed Chicken Package Free Smashed Egg Package",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "49000",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Free Paket Ikan Geprek",
+    "description": "Buy 1 Get 1 Smashed Chicken Package Free Smashed Fish Package",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "46440",
+    "name": "Buy 1 Get 1 Paket Ayam Geprek Nasi Free Paket Ayam Geprek Mie",
+    "description": "Buy 1 Get 1 Smashed Chicken Rice Package Free Smashed Chicken Noodle Package",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "28000",
+    "name": "Paket Dower",
+    "description": "2 Pcs Smashed Wings + Rice",
+    "section": "paket ayam geprek"
+  },
+  {
+    "price": "24786",
+    "name": "Ayam Geprek Crispy + Nasi",
+    "description": "Crispy Geprek Chicken + Rice",
+    "section": "paket ayam geprek"
+  },
+  {
+    "price": "26681",
+    "name": "Fried Chicken Geprek + Mie",
+    "description": "Crispy Fried Chicken That Is Smashed But Different Because It Is Indomie, Fried (Already, Definitely Delicious) And Combined With Onion Sambal Made From Level 1/5.",
+    "section": "paket ayam geprek"
+  },
+  {
+    "price": "31343",
+    "name": "Ayam Geprek Crispy Mozarella + Nasi",
+    "description": "Crispy Fried Chicken Crushed With Onion Sambal From Level 1.D 5 Already Using Rice And Then Garnished With A Super Creamy Mozzarella Cheese.",
+    "section": "paket ayam geprek"
+  },
+  {
+    "price": "34219",
+    "name": "Ayam Geprek Crispy Mozarella + Mie",
+    "description": "Crispy Fried Chicken Crushed With Onion Sambal With A Spicy Level 1 S/D 5 Plus Fried Indomie Then Melted A Super Melted Mozzarella Cheese With Creamy And Savory.",
+    "section": "paket ayam geprek"
+  },
+  {
+    "price": "31729",
+    "name": "Telur Geprek Mozarella + Mie",
+    "description": "Mozzarella Smashed Egg + Noodles",
+    "section": "smashed egg package"
+  },
+  {
+    "price": "28753",
+    "name": "Mozarella Fried Egg + Rice",
+    "description": "Mozzarella Smashed Egg + Rice",
+    "section": "smashed egg package"
+  },
+  {
+    "price": "23794",
+    "name": "Telur Geprek Crispy + Mie",
+    "description": "Crispy Smashed Egg + Noodles",
+    "section": "smashed egg package"
+  },
+  {
+    "price": "23400",
+    "name": "Paket Hemat 1",
+    "description": "Smashed Chicken + Rice + Tofu / Tempeh + Earl Gray Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "32500",
+    "name": "Paket Hemat 2",
+    "description": "Smashed Chicken + Rice + Tofu/Tempeh + Thai Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "50000",
+    "name": "Paket Hemat 3",
+    "description": "Smashed Chicken + Rice + Tofu/Tempeh + Coffee",
+    "section": "paket hemat"
+  },
+  {
+    "price": "39000",
+    "name": "Fighter Package",
+    "description": "Smashed Chicken + Rice + Tofu/Tempe + Sausage + Egg",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Jomer 1",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Tofu/Tempeh + 1 Earl Gray Tea",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "58500",
+    "name": "Paket Jomer 2",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Tofu/Tempeh + 1 Thai Tea",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "48750",
+    "name": "Paket Kenyang 1",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Earl Gray Tea",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "55250",
+    "name": "Paket Kenyang 2",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Thai Tea",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "90000",
+    "name": "Paket Jomer 3",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Tofu/Tempeh + 1 Coffee",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "85000",
+    "name": "Paket Kenyang 3",
+    "description": "2 Smashed Chicken + 1 Rice + 1 Coffee",
+    "section": "paket kenyang merdeka"
+  },
+  {
+    "price": "31500",
+    "name": "Paket Ayam Geprek Free Terong Geprek",
+    "description": "Smashed Chicken + Rice + Smashed Egg",
+    "section": "promo menu 30 thousand-an"
+  },
+  {
+    "price": "31500",
+    "name": "Paket Ayam Geprek Free Jamur Crispy",
+    "description": "Smashed Chicken + Rice + Crispy Mushrooms",
+    "section": "promo menu 30 thousand-an"
+  },
+  {
+    "price": "31500",
+    "name": "Smashed Chicken Package Free Egg",
+    "description": "Smashed Chicken + Rice + Sunny Side Up Egg",
+    "section": "promo menu 30 thousand-an"
+  },
+  {
+    "price": "54000",
+    "name": "Paket Kongkow Ber-2",
+    "description": "2 Packages Of Smashed Chicken + 2 Earl Gray Tea",
+    "section": "hanging out together so economical"
+  },
+  {
+    "price": "86700",
+    "name": "Paket Kongkow Ber-3",
+    "description": "3 Smashed Chicken Packages + 3 Earl Gray Tea",
+    "section": "hanging out together so economical"
+  },
+  {
+    "price": "146500",
+    "name": "Paket Kongkow Ber-5",
+    "description": "5 Smashed Chicken Packages + 5 Earl Gray Tea",
+    "section": "hanging out together so economical"
+  },
+  {
+    "price": "287215",
+    "name": "Paket Kongkow Ber-10",
+    "description": "10 Smashed Chicken Packages + 10 Earl Gray Tea",
+    "section": "hanging out together so economical"
+  },
+  {
+    "price": "12500",
+    "name": "Terong Geprek",
+    "description": "Crispy Fried Eggplant With Onion Sambal",
+    "section": "ala carte"
+  },
+  {
+    "price": "23700",
+    "name": "Indomie Goreng Sosis Mozarella",
+    "description": "Fried Noodles Are Topped Over With Melted Mozzarella Cheese And Savory Toppings And More Premium Sausage. Served With Onion Sambal Level 1/5 Sd",
+    "section": "ala carte"
+  },
+  {
+    "price": "14000",
+    "name": "Indomie Goreng Sosis Super Pedas",
+    "description": "This Noodle Is Cooked In A Boiled Way But Served With Fried Noodles. Served With Onion Sauce From Level 1 To 5 And Sausage Topping More Enjoyable",
+    "section": "ala carte"
+  },
+  {
+    "price": "20990",
+    "name": "Ayam Geprek Crispy",
+    "description": "Crispy Fried Chicken That Is Smashed And Combined With Onion Sambal Which Is Made Freshly From Level 1 To 5. It'S Definitely Delicious And Makes You Addicted.",
+    "section": "ala carte"
+  },
+  {
+    "price": "27100",
+    "name": "Ayam Geprek Crispy Mozarella",
+    "description": "Crispy Fried Chicken Crushed With Onion Sambal From Level 1.D 5 And Then Garnished With Super Creamy Mozzarella Cheese.",
+    "section": "ala carte"
+  },
+  {
+    "price": "14000",
+    "name": "Jamur Crispy",
+    "description": "Crispy Fried Mushroom Crispy Mushrooms That Will Make You Addicted. Served With Onion Sambal",
+    "section": "ala carte"
+  },
+  {
+    "price": "24000",
+    "name": "Crispy Smashed Fish",
+    "description": "Crispy Smashed Fish",
+    "section": "ala carte"
+  },
+  {
+    "price": "15000",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13500",
+    "name": "Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Earl Grey Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Klepon Latte",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Taro Latte",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Kopi Latte",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3300",
+    "name": "Fried Tofu",
+    "description": "Fried Tofu",
+    "section": "add on"
+  },
+  {
+    "price": "3300",
+    "name": "Tempe Goreng",
+    "description": "Fried Tempeh",
+    "section": "add on"
+  },
+  {
+    "price": "8000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "add on"
+  },
+  { "price": "5000", "name": "Sosis", "description": "", "section": "add on" },
+  {
+    "price": "7000",
+    "name": "Rice",
+    "description": "White Rice",
+    "section": "add on"
+  },
+  {
+    "price": "48571",
+    "name": "Buy 1 Get 1 Paket Nasi Uduk Free Nasi Kuning",
+    "description": "Nasi Uduk + Egg Omelet + Crispy Kangkung + Sambal Free Yellow Rice + Omelet + Crispy Kangkung + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "26000",
+    "name": "Uduk Rice + Crispy Omelet + Sambal",
+    "description": "Nasi Uduk + Egg Omelet + Crispy Kangkung + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Kuning + Telur Dadar + Kangkung Crispy + Sambal",
+    "description": "Yellow Rice + Egg Omelette + Crispy Kangkung + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "29000",
+    "name": "Yellow Rice + Crispy + Fried Egg + Chili Sauce",
+    "description": "Yellow Rice + Omelet + Crispy Kangkung + Fried Food + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "29000",
+    "name": "Uduk Rice + Crispy + Fried Egg Rice + Chili Sauce",
+    "description": "Nasi Uduk + Omelette + Crispy Kangkung + Fried Food + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "30000",
+    "name": "Uduk Rice + Crispy + Sausage + Sambal",
+    "description": "Nasi Uduk + Omelette + Crispy Kangkung + Sausage + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Kuning + Telur Dadar + Kangkung Crispy + Sosis + Sambal",
+    "description": "Yellow Rice + Omelet + Crispy Kangkung + Sausage + Sambal",
+    "section": "sarapan series"
+  },
+  {
+    "price": "39675",
+    "name": "Crispy Fried Fish + Rice",
+    "description": "Crispy Smashed Fish + Rice",
+    "section": "smashed fish package"
+  },
+  {
+    "price": "43628",
+    "name": "Crispy Fried Fish + Noodles",
+    "description": "Crispy Smashed Fish + Noodles",
+    "section": "smashed fish package"
+  },
+  {
+    "price": "51180",
+    "name": "Crispy Mozarella Smashed Fish + Rice",
+    "description": "Crispy Mozzarella Smashed Fish + Rice",
+    "section": "smashed fish package"
+  },
+  {
+    "price": "53693",
+    "name": "Crispy Mozarella Crushed Fish + Noodles",
+    "description": "Crispy Mozzarella Smashed Fish + Noodles",
+    "section": "smashed fish package"
+  },
+  {
+    "price": "12000",
+    "name": "Fried Chicken Sayap",
+    "description": "Fried Chicken Wings That Are Crispy And No Chili Sauce But Still Yummy. Perfect For You Who Don'T Use Chili Sauce.",
+    "section": "fried chicken only (without sambal)"
+  },
+  {
+    "price": "12500",
+    "name": "Fried Chicken Drum Sticks",
+    "description": "Fried Chicken Thighs That Are Crispy Without Chili Sauce But Still Yummy. Perfect For You Who Don'T Want Chili Sauce.",
+    "section": "fried chicken only (without sambal)"
+  },
+  {
+    "price": "13500",
+    "name": "Fried Chicken Paha Atas",
+    "description": "Fried Chicken Upper Thighs Without Chili Sauce But Still Yummy. Perfect For You Who Don'T Use Chili Sauce.",
+    "section": "fried chicken only (without sambal)"
+  },
+  {
+    "price": "14500",
+    "name": "Fried Chicken Dada",
+    "description": "Fried Chicken Breast Parts That Are Crispy Without Chili Sauce But Still Yummy. Perfect For You Who Don'T Want To Use Chili Sauce.",
+    "section": "fried chicken only (without sambal)"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "price": "50000",
+    "name": "Menu D",
+    "description": "Cheesy Chicken Rice + Javanese Fried Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "49091",
+    "name": "Menu C",
+    "description": "Kung Pao Chicken Rice + Spaghetti Bolognaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "57273",
+    "name": "Menu E",
+    "description": "Tori Curry Ramen + Chicken Egg Roll Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "48181",
+    "name": "Menu A",
+    "description": "Salted Egg Chicken Rice + Black Pepper Chicken Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "48181",
+    "name": "Menu B",
+    "description": "Butter Sauce Chicken Rice + Thai Sauce Chicken Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Menu D",
+    "description": "Cheesy Chicken Rice + Javanese Fried Rice",
+    "section": "menu ke - 2 diskon 50%"
+  },
+  {
+    "price": "49091",
+    "name": "Menu C",
+    "description": "Kung Pao Chicken Rice + Spaghetti Bolognaise",
+    "section": "menu ke - 2 diskon 50%"
+  },
+  {
+    "price": "57273",
+    "name": "Menu E",
+    "description": "Tori Curry Ramen + Chicken Egg Roll Rice",
+    "section": "menu ke - 2 diskon 50%"
+  },
+  {
+    "price": "48181",
+    "name": "Menu A",
+    "description": "Salted Egg Chicken Rice + Black Pepper Chicken Rice",
+    "section": "menu ke - 2 diskon 50%"
+  },
+  {
+    "price": "48181",
+    "name": "Menu B",
+    "description": "Butter Sauce Chicken Rice + Thai Sauce Chicken Rice",
+    "section": "menu ke - 2 diskon 50%"
+  },
+  {
+    "price": "27273",
+    "name": "Javanese Fried Rice",
+    "description": "Indonesia'S Signature Dish, Fried Rice With Chicken Cutlets And Carrots Plus Omelet Topping, It Becomes A Favorite Menu That Has Never Miss.",
+    "section": "yum meals (indonesian)"
+  },
+  {
+    "price": "30909",
+    "name": "Smashed Chicken Rice",
+    "description": "Indonesia'S Signature Dish, A Combination Of White Rice With Scrambled Eggs And Crunchy Bits Of Smashed Chicken Wrapped In Korek Sambal",
+    "section": "yum meals (indonesian)"
+  },
+  {
+    "price": "32727",
+    "name": "Tori Katsu Don",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Topped With Katsu Crispy Chicken Pieces Wrapped In Special Katsu Sauce And Extra Salad",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "32727",
+    "name": "Tori Curry Don",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Egg Complemented With Katsu Crispy Chicken Pieces Wrapped In A Savory Curry Sauce And Extra Salad",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "27273",
+    "name": "Chicken Egg Roll Rice",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Egg Complemented With Chicken Egg Roll Pieces And Extra Salad",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "30909",
+    "name": "Tori Dry Ramen",
+    "description": "A Special Japanese Dish, Non Gravy Ramen With Savory Spices Topped With Sliced Bbq Chicken, Soft Onions, And Boiled Eggs",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "42273",
+    "name": "Tori Miso Ramen",
+    "description": "A Special Japanese Dish, The Ramen In Delicious Noodle Soup With A Soft Bbq Chicken Slices, Spring Onions, And Boiled Eggs",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "43636",
+    "name": "Tori Curry Ramen",
+    "description": "Japanese-Style Dish, Ramen In Savory Gravy With A Soft Bbq Chicken Slices, Spring Onions, And Boiled Eggs",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "44545",
+    "name": "Katsu Miso Ramen",
+    "description": "A Special Japanese Dish, Ramen In Savory Soup With Crispy Katsu Chicken Topping, Scallions, And Boiled Eggs",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "45909",
+    "name": "Katsu Curry Ramen",
+    "description": "Japanese Style Dish, Ramen In Savory Gravy With Crispy Katsu Chicken Topping, Scallions, And Boiled Eggs",
+    "section": "yum meals (japanese)"
+  },
+  {
+    "price": "36364",
+    "name": "Kung Pao Chicken Rice",
+    "description": "Chinese Style Dish, Kung Pao Chicken Rice, A Combination Of White Rice With Omelet Eggs With Pieces Of Delicious Flour Fried Chicken Fillet Covered With Savory Sauce And Chili Sliced Peanut Sauce",
+    "section": "yum meals (chinese)"
+  },
+  {
+    "price": "30909",
+    "name": "Black Pepper Chicken Rice",
+    "description": "Chinese Style Dish, Black Pepper Chicken Rice, Fried Flour Fillet Chicken Covered With A Savory, Spicy And Delicious Black Pepper Sauce",
+    "section": "yum meals (chinese)"
+  },
+  {
+    "price": "32727",
+    "name": "Butter Sauce Chicken Rice",
+    "description": "Chinese Negeri Dish, Butter Sauce Chicken Rice, Fried Flour Fillet Covered With Yummy Butter Sauce",
+    "section": "yum meals (chinese)"
+  },
+  {
+    "price": "30909",
+    "name": "Sweet And Sour Chicken Rice",
+    "description": "A-Style Dish, Sweet And Sour Sauce Chicken Rice, Fried Flour Chicken Fillet Covered With Thick Sauce With A Blend Of Flavors And Sweet Taste",
+    "section": "yum meals (chinese)"
+  },
+  {
+    "price": "25909",
+    "name": "Spaghetti Bolognaise",
+    "description": "Italian Dish, A Combination Of Spaghetti With Minced Beef Plus Its Delicious Bolognaise Sauce And A Sprinkling Of Cheese",
+    "section": "yum meals (italian)"
+  },
+  {
+    "price": "36273",
+    "name": "Cheesy Chicken Rice",
+    "description": "A Combination Of White Rice With Omelet Egg Topped With Crispy Chicken Slices Wrapped In Savory Cheese Sauce And A Sprinkling Of Cheese",
+    "section": "yum meals (italian)"
+  },
+  {
+    "price": "32727",
+    "name": "Salted Egg Chicken Rice",
+    "description": "Favorite Menu From Singapore, Salted Egg Sauce Chicken Rice, Fried Flour Chicken Covered With A Savory Salted Egg Sauce And Creamy, Abundant Nestang Taste",
+    "section": "yum meals (singaporean)"
+  },
+  {
+    "price": "30909",
+    "name": "Thai Sauce Chicken Rice",
+    "description": "Thai Dish, Thai Sauce Chicken Rice, Delicious White Rice With Omelet Topped With Crispy Chicken Pieces",
+    "section": "yum meals (thai)"
+  },
+  {
+    "price": "30909",
+    "name": "Basil Chicken Rice",
+    "description": "Thai Dish, Basil Chicken Rice, Minced Chicken With Fragrant Fresh Basil Leaves Enjoyed With Warm Rice And Omelet Egg",
+    "section": "yum meals (thai)"
+  },
+  {
+    "price": "30909",
+    "name": "Korean Spicy Chicken Rice",
+    "description": "Korean Style Dish, White Rice With Omelet Egg Added With Crispy Chicken Slices Wrapped In Korean Sauce And Sprinkled With Sesame Seeds",
+    "section": "yum meals (korean)"
+  },
+  {
+    "price": "36364",
+    "name": "Honey Chicken Wings Rice",
+    "description": "Korean Style Dish, White Rice With Omelet Egg Plus Chunks Of Chicken Wings Wrapped In Delicious Honey Sauce And A Sprinkling Of Sesame Vegetables",
+    "section": "yum meals (korean)"
+  },
+  {
+    "price": "40455",
+    "name": "Sweet And Sour Chicken Rice + Ocha",
+    "description": "",
+    "section": "happy set"
+  },
+  {
+    "price": "40455",
+    "name": "Korean Spicy Chicken Rice + Ocha",
+    "description": "",
+    "section": "happy set"
+  },
+  {
+    "price": "45909",
+    "name": "Honey Chicken Wings Rice + Ocha",
+    "description": "",
+    "section": "happy set"
+  },
+  {
+    "price": "40455",
+    "name": "Tori Dry Ramen + Ocha",
+    "description": "",
+    "section": "happy set"
+  },
+  {
+    "price": "29545",
+    "name": "Chicken Egg Roll",
+    "description": "Japanese Dish, Chicken Egg Roll With Extra Salad",
+    "section": "ala carte"
+  },
+  {
+    "price": "38182",
+    "name": "Korean Spicy Chicken",
+    "description": "Korean Style Dish, Chunks Of Crispy Chicken Wrapped In Korean Sauce And A Sprinkling Of Sesame",
+    "section": "ala carte"
+  },
+  {
+    "price": "38182",
+    "name": "Black Pepper Chicken",
+    "description": "Chinese Style Dish, Black Pepper Sauce Chicken, Fried Flour Fillet Covered With A Savory, Spicy And Delicious Black Pepper Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "38182",
+    "name": "Butter Sauce Chicken",
+    "description": "Chinese Style Dish, Butter Sauce Chicken, Fried Flour Fillet Covered With Yummy Butter Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "45909",
+    "name": "Kung Pao Chicken",
+    "description": "Chinese Style Dish, Delicious Crispy Chicken Cutlets Wrapped With Savory Kung Pao Sauce Plus Chili Slices And Peanuts",
+    "section": "ala carte"
+  },
+  {
+    "price": "49091",
+    "name": "Honey Chicken Wings",
+    "description": "Korean Style Dish, Sliced Chicken Wings Wrapped In Delicious Honey Sauce And A Sprinkling Of Sesame",
+    "section": "ala carte"
+  },
+  {
+    "price": "45909",
+    "name": "Salted Egg Chicken",
+    "description": "Favorite Menu From Singapore, Salted Egg Sauce Chicken, Flour Fried Chicken Covered With A Savory Salted Egg Sauce And Creamy, Abundant Shrimp Taste",
+    "section": "ala carte"
+  },
+  {
+    "price": "38182",
+    "name": "Sweet And Sour Chicken",
+    "description": "A-Style Dish, Sweet And Sour Sauce Chicken, Fried Flour Fillet Covered With Thick Sauce With A Blend Of Sweet And Sour Flavors",
+    "section": "ala carte"
+  },
+  {
+    "price": "4091",
+    "name": "Soy Sauce Cayenne Pepper",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "8182",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "8182",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "9091",
+    "name": "Sambal Matah",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "9091",
+    "name": "Sambal Korek",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "9091",
+    "name": "Shrimp Paste Sambal",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "14545",
+    "name": "Salad",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "24091",
+    "name": "Kentang Goreng",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Lemon Grass",
+    "description": "",
+    "section": "yum drink"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Thai Tea",
+    "description": "",
+    "section": "yum drink"
+  },
+  {
+    "price": "13636",
+    "name": "Es Soda Gembira",
+    "description": "",
+    "section": "yum drink"
+  },
+  {
+    "price": "13636",
+    "name": "Ocha",
+    "description": "",
+    "section": "yum drink"
+  }
+]

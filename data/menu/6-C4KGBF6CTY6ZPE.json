@@ -1,0 +1,446 @@
+[
+  {
+    "price": "54546",
+    "name": "Duo Thai Sweet Sour Crispy Chicken + Namjim Grilled Chicken",
+    "description": "Combo rice bowl cita rasa thailand! Harga spesial untuk Bangkok Crispy Chicken Bowl + Namjim Grilled Chicken Bowl dari Wai Thai Food!",
+    "section": "today's offer"
+  },
+  {
+    "price": "60273",
+    "name": "Duo Ayam Geprek Sambal (Ori + Mozza)",
+    "description": "Combo rice bowl cita rasa lokal! Harga spesial untuk Ayam Geprek Sambal Ori + Ayam Geprek Sambal Ori Mozza dari Ayam Koplo!",
+    "section": "today's offer"
+  },
+  {
+    "price": "76500",
+    "name": "Meteor Chicken Rice Big Bang + Meteor Chicken Rice Honey Garlaxy",
+    "description": "Combo rice bowl cita rasa korea! Harga spesial untuk Meteor Chicken Rice BIg Bang + Meteor Chicken Rice Honey Garlaxy dari Moon Chicken!",
+    "section": "today's offer"
+  },
+  {
+    "price": "67845",
+    "name": "Accha Rice Bowl Combo (Chicken Biryani + Butter Chicken)",
+    "description": "Combo rice bowl cita rasa india! Harga spesial untuk Chicken Biryani + Butter Chicken Combo dari Accha!",
+    "section": "today's offer"
+  },
+  {
+    "price": "74182",
+    "name": "Combo Aburi Gyudon + Tori Steak Teriyaki Don",
+    "description": "Combo rice bowl cita rasa jepang! Harga spesial untuk Aburi Gyudon + Tori Steak Teriyaki Don dari San Gyu!",
+    "section": "today's offer"
+  },
+  {
+    "price": "31818",
+    "name": "Thai Namjim Crispy Chicken + Sweet Iced Tea",
+    "description": "Paket Lengkap! Combo Thai Namjim Crispy Chicken Rice Bowl + Es Teh Manis dengan harga spesial!",
+    "section": "today's offer"
+  },
+  {
+    "price": "34545",
+    "name": "Thai Sweet Sour Grilled Chicken + Sweet Iced Tea",
+    "description": "Paket Lengkap! Combo Thai Bangkok Grilled Chicken Rice Bowl + Es Teh Manis dengan harga spesial!",
+    "section": "today's offer"
+  },
+  {
+    "price": "63636",
+    "name": "Ayam Geprek Ambyar + Nasi Kulit Renyah Idolaku",
+    "description": "B1G1 Ayam Geprek + Nasi Kulit!",
+    "section": "promo flash sale!"
+  },
+  {
+    "price": "54546",
+    "name": "Duo Thai Sweet Sour Crispy Chicken + Namjim Grilled Chicken",
+    "description": "Combo rice bowl cita rasa thailand! Harga spesial untuk Bangkok Crispy Chicken Bowl + Namjim Grilled Chicken Bowl dari Wai Thai Food!",
+    "section": "best combo!"
+  },
+  {
+    "price": "60273",
+    "name": "Duo Ayam Geprek Sambal (Ori + Mozza)",
+    "description": "Combo rice bowl cita rasa lokal! Harga spesial untuk Ayam Geprek Sambal Ori + Ayam Geprek Sambal Ori Mozza dari Ayam Koplo!",
+    "section": "best combo!"
+  },
+  {
+    "price": "76500",
+    "name": "Meteor Chicken Rice Big Bang + Meteor Chicken Rice Honey Garlaxy",
+    "description": "Combo rice bowl cita rasa korea! Harga spesial untuk Meteor Chicken Rice BIg Bang + Meteor Chicken Rice Honey Garlaxy dari Moon Chicken!",
+    "section": "best combo!"
+  },
+  {
+    "price": "67845",
+    "name": "Accha Rice Bowl Combo (Chicken Biryani + Butter Chicken)",
+    "description": "Combo rice bowl cita rasa india! Harga spesial untuk Chicken Biryani + Butter Chicken Combo dari Accha!",
+    "section": "best combo!"
+  },
+  {
+    "price": "74182",
+    "name": "Combo Aburi Gyudon + Tori Steak Teriyaki Don",
+    "description": "Combo rice bowl cita rasa jepang! Harga spesial untuk Aburi Gyudon + Tori Steak Teriyaki Don dari San Gyu!",
+    "section": "best combo!"
+  },
+  {
+    "price": "31818",
+    "name": "Thai Namjim Crispy Chicken + Sweet Iced Tea",
+    "description": "Paket Lengkap! Combo Thai Namjim Crispy Chicken Rice Bowl + Es Teh Manis dengan harga spesial!",
+    "section": "paket lengkap!"
+  },
+  {
+    "price": "34545",
+    "name": "Thai Sweet Sour Grilled Chicken + Sweet Iced Tea",
+    "description": "Paket Lengkap! Combo Thai Bangkok Grilled Chicken Rice Bowl + Es Teh Manis dengan harga spesial!",
+    "section": "paket lengkap!"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "26818",
+    "name": "Ayam Geprek Ketumbar Sambal Korek",
+    "description": "Nasi dengan Ayam potong dadu dengan bumbu ketumbar yang sedap dan sensasi sambal Korek yang pedas mantap djiwo! lengkap dengan serundeng. Pastinya bikin kamu makin semangat.",
+    "section": "ayam geprek ketumbar"
+  },
+  {
+    "price": "26818",
+    "name": "Ayam Geprek Ketumbar Sambal Matah",
+    "description": "Nasi dengan Ayam berbumbu ketumbar dipadukan sambal Matah yang pedas, aromatik dan segar, lengkap dengan serundeng.",
+    "section": "ayam geprek ketumbar"
+  },
+  {
+    "price": "26818",
+    "name": "Ayam Geprek Ketumbar Sambal Kecombrang",
+    "description": "Double Sedapnya! Nasi dengan perpaduan ayam potong dadu yang gurih dengan bumbu ketumbar yang harum ditambah sambal kecombrang yang pedas dan nikmat, lengkap dengan serundeng.",
+    "section": "ayam geprek ketumbar"
+  },
+  {
+    "price": "26818",
+    "name": "Ayam Geprek Ketumbar Sambal Kacang",
+    "description": "Nasi dengan sensasi Gurih Pedasnya sambal kacang yang dipadu dengan Ayam potong dadu bumbu ketumbar yang sedap, lengkap dengan serundeng bikin kamu ketagihan.",
+    "section": "ayam geprek ketumbar"
+  },
+  {
+    "price": "22182",
+    "name": "Ayam Geprek Ambyar Sambal Original",
+    "description": "Best Seller Kite Nih! Nasi + Ayam Koplo Pake Sambel Dicampur Sama Telur Orak-Arik, Serundeng, dan Kremesan. (alat makan hanya disediakan berdasarkan permintaan)",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "21818",
+    "name": "Kulit Ala Carte",
+    "description": "",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "2000",
+    "name": "Extra Kremes",
+    "description": "",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Korek Jontor",
+    "description": "",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Ori",
+    "description": "",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Matah",
+    "description": "",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "17636",
+    "name": "Nasi Kulit Renyah Idolaku",
+    "description": "Nasi kulit renyah, se-renyah jokes Bapack2. Kulit yang gurih dipadu dengan telur orak-arik dan sambal khas Indonesia. Makin komplit dengan taburan serundeng!",
+    "section": "nasi ayam ala indo"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice Big Bang",
+    "description": "Popcorn Chicken (boneless) + Nasi + Telur Mata Sapi + Extra Mayo. Pilih 1 rasa",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice Honey Garlaxy",
+    "description": "",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice Smokey Comet",
+    "description": "",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice Gangjeong",
+    "description": "",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice K-Jun Star",
+    "description": "",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Egg Mayo",
+    "description": "",
+    "section": "nasi ayam ala korea"
+  },
+  {
+    "price": "43545",
+    "name": "Chicken Biryani Rice Bowl (Contain: Ayam Kari, Nasi Biryani)",
+    "description": "(BEST SELLER) Nasi Basmati dimasak dengan rempah spesial khas India dan daging ayam yang dimarinasi (Tambahkan Biryani Sachet untuk rasa yang lebih gurih)",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "43545",
+    "name": "Butter Chicken + Nasi (Contain: Ayam Tikka)",
+    "description": "(NEW PORTION,MORE CHICKEN) Potongan ayam panggang dicampur kuah kari tomat & saus butter yang creamy abis! Disajikan dengan nasi hangat. Makin pas kalo pake sambal spesial ACCHA!",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "16364",
+    "name": "Chicken Kofta Bites 5pcs (Bakso Ayam)",
+    "description": "Daging ayam cincang yang diolah jadi bakso pake rempah spesial khas India, terus digoreng sampe bumbunya meresap. Seriusan, enak banget dicemilin!",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Sambal Accha",
+    "description": "Sambal yang dibuat dengan gaya India, tapi disesuaikan dengan lidah Indonesia.",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Yoghurt Sauce",
+    "description": "Saus kombinasi yogurt dan rempah spesial yang cocok bikin makanan makin enak!",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "9091",
+    "name": "Papadum (Kerupuk India)",
+    "description": "Kerupuk ala India yang gurih. Hati-hati bikin nagih!",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "18091",
+    "name": "Bite Size Chicken Samosa (3pcs)",
+    "description": "Mini size Samosa, cemilan India berisikan wortel, kacang polong, & ayam cincang gurih yang sekali HAP bikin kamu ketagihan!",
+    "section": "nasi ayam ala india"
+  },
+  {
+    "price": "47273",
+    "name": "Aburi Gyudon (Beef Rice Bowl)",
+    "description": "Menu Beef Gyudon ala San Gyu, menggunakan 100% daging sapi US Premium yang sedikit dibakar, memberikan kamu sensasi smokey yang nikmat di porsi menu makan mu. (alat makan diberikan saat request).",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "40000",
+    "name": "Tori Steak Teriyaki Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang, dipadukan dengan saus Teriyaki Jepang yang autentik.",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "40000",
+    "name": "Tori Steak Hickory Smoke Don (Chicken Rice Bowl)",
+    "description": "Steak ayam panggang dipadukan dengan saus smokey, manis, dan tajam",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "41818",
+    "name": "Curry Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Kari disajikan dengan nasi khas Jepang",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "34545",
+    "name": "Mentai Tori Katsu Don (Chicken Rice Bowl)",
+    "description": "Ayam katsu dengan saus Mentai yang sedikit dibakar dan tobiko, disajikan dengan nasi khas Jepang",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "34545",
+    "name": "Garlic Mayo Tori Don (Chicken Rice Bowl)",
+    "description": "Perpaduan ayam popcorn dengan saus garlic-mayo dengan topping telur mata sapi + nasi Jepang + salad. Umami bomb!",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "5909",
+    "name": "Extra Japanese Onsen Tamago",
+    "description": "Telur Onsen creamy San Gyu",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Garlic Mayo",
+    "description": "Saus gurih mayonise San Gyu bercampur dengan rasa bawang putih",
+    "section": "nasi ayam ala jepang"
+  },
+  {
+    "price": "28182",
+    "name": "Bangkok Popcorn Chicken Rice Bowl",
+    "description": "Popcorn Chicken dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "28182",
+    "name": "Namjim Popcorn Chicken Rice Bowl",
+    "description": "Ayam Crispy tanpa tulang yang renyah dipadukan dengan saus Khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2. Bisa pilih nasi favorite mu!",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Grilled Chicken Rice Bowl",
+    "description": "Ayam Panggang dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "30909",
+    "name": "Namjim Grilled Chicken Rice Bowl",
+    "description": "Ayam Panggang dengan saus khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Nam Jim Sauce",
+    "description": "Saus khas Thailand yang gurih, asam, dan sedikit pedas. Dengan rempah-rempah khas Thailand seperti daun ketumbar, cabai rawit, dan gurihnya kecap ikan.\\nLevel kepedasan: 2",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Bangkok Sauce",
+    "description": "Saus asam manis dengan campuran rempah-rempah thailand untuk cita rasa yang khas",
+    "section": "nasi ayam ala thailand"
+  },
+  {
+    "price": "13636",
+    "name": "Spicy Jumeokbab",
+    "description": "Nasi ala Korea dengan rumput laut, wijen dan Korean Hot Sauce",
+    "section": "extra karbo"
+  },
+  {
+    "price": "12727",
+    "name": "Jumeokbab",
+    "description": "Nasi ala Korea dengan rumput laut dan wijen",
+    "section": "extra karbo"
+  },
+  {
+    "price": "7636",
+    "name": "Indomie Goreng",
+    "description": "Selera kita bersama!",
+    "section": "extra karbo"
+  },
+  {
+    "price": "9000",
+    "name": "Nasi Wangi",
+    "description": "Nasi wangi dengan bumbu spesial. Wangi-wangi pedes!",
+    "section": "extra karbo"
+  },
+  {
+    "price": "7273",
+    "name": "Japanese White Rice",
+    "description": "Nasi Jepang yang pulen",
+    "section": "extra karbo"
+  },
+  {
+    "price": "13636",
+    "name": "Japanese Spicy Nori Rice",
+    "description": "Nasi Jepang pulen yang dibumbui dengan rumput laut, wijen dan bubuk cabai",
+    "section": "extra karbo"
+  },
+  {
+    "price": "16364",
+    "name": "Bread Pudding Sticks (Roti Panggang)",
+    "description": "Roti deep-fried yang gurih dan manis serta crispy pada bagian luar dan lembut di dalam, bikin kamu mau lagi dan lagi!",
+    "section": "extra karbo"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "8182",
+    "name": "Sweet Tropical",
+    "description": "Minuman pereda pedas dengan paduan buah tropikal sirsak dan guava yang memberikan sensasi manis yang segar!",
+    "section": "drinks"
+  },
+  {
+    "price": "16364",
+    "name": "ACCHAi! (350ml)",
+    "description": "Daripada cari masalah, mending chai masala! Minuman signature ACCHA yang diracik dari susu dan rempah pilihan. 100% enak!",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Coca Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Sprite",
+    "description": "",
+    "section": "drinks"
+  }
+]

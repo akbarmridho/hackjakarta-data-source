@@ -1,0 +1,74 @@
+[
+  {
+    "price": "28000",
+    "name": "Bundle Crepes And Orange",
+    "description": "Cream 1 Topping Pure Orange Ice",
+    "section": "monthly promotion"
+  },
+  {
+    "price": "13500",
+    "name": "Es Jeruk Murni",
+    "description": "100% Pure Orange, Sugar Suit Your Own Taste",
+    "section": "es jeruk murni"
+  },
+  {
+    "price": "30000",
+    "name": "Topping Cocosaurus Soft Skin",
+    "description": "",
+    "section": "crepes soft skin"
+  },
+  {
+    "price": "22000",
+    "name": "3 Topping Soft Skin",
+    "description": "Big Cream With 3 Choices Of Premium Toppings",
+    "section": "crepes soft skin"
+  },
+  {
+    "price": "19500",
+    "name": "2 Topping Soft Skin",
+    "description": "Big Cream With Soft Skin With 2 Choices Of Premium Toppings",
+    "section": "crepes soft skin"
+  },
+  {
+    "price": "17750",
+    "name": "1 Topping Soft Skin",
+    "description": "Big Soft Crispy With 1 Choice Of Premium Topping",
+    "section": "crepes soft skin"
+  },
+  {
+    "price": "30000",
+    "name": "Topping Cocosaurus",
+    "description": "",
+    "section": "crepes original skin"
+  },
+  {
+    "price": "22000",
+    "name": "3 Topping",
+    "description": "Big Cream With 3 Choices Of Premium Toppings",
+    "section": "crepes original skin"
+  },
+  {
+    "price": "19500",
+    "name": "2 Topping",
+    "description": "Big Cream With 2 Choices Of Premium Toppings",
+    "section": "crepes original skin"
+  },
+  {
+    "price": "17750",
+    "name": "1 Topping",
+    "description": "Big Cream With 1 Choice Of Premium Topping",
+    "section": "crepes original skin"
+  },
+  {
+    "price": "35000",
+    "name": "Choco Saltysaurus",
+    "description": "Premium Chocolate With Cream Sesalt And Marshmallow",
+    "section": "saltysaurus"
+  },
+  {
+    "price": "35000",
+    "name": "Matcha Saltysaurus",
+    "description": "Matcha Ice Matcha With Fresh Cream Plus Martianslette Dressing",
+    "section": "saltysaurus"
+  }
+]

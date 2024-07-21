@@ -1,0 +1,242 @@
+[
+  {
+    "price": "20000",
+    "name": "Nasi Ayam Goreng Penyet + Sambel",
+    "description": "Ini dia obatnya stress dan lapar! 1 potong ayam penyet pake nasi, kremes gurih, plus koleksi sambel yang bikin nagih! (Potongan ayam sesuai ketersediaan)",
+    "section": "today's offer"
+  },
+  {
+    "price": "100000",
+    "name": "5 Nasi Ayam Penyet Sambel Nusantara",
+    "description": "Ayam Penyet dengan 5 Sambel Andalan Ayam Koplo: Korek, Kecombrang, Ori, Kacang, Matah",
+    "section": "today's offer"
+  },
+  {
+    "price": "32728",
+    "name": "Combo Lengkap (Nasi Ayam Penyet Sambel + Extra Kulit + Es Teh)",
+    "description": "Rasakan kenikmatan Ayam Penyet Sambel dipadukan dengan kulit cripsy dan segarnya es teh manis, nikmat mana lagi yang kamu dustakan zheyenk!",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Nasi Ayam Goreng Penyet + Sambel",
+    "description": "Ini dia obatnya stress dan lapar! 1 potong ayam penyet pake nasi, kremes gurih, plus koleksi sambel yang bikin nagih! (Potongan ayam sesuai ketersediaan)",
+    "section": "flash sale"
+  },
+  {
+    "price": "100000",
+    "name": "5 Nasi Ayam Penyet Sambel Nusantara",
+    "description": "Ayam Penyet dengan 5 Sambel Andalan Ayam Koplo: Korek, Kecombrang, Ori, Kacang, Matah",
+    "section": "promo hemat ayam penyet"
+  },
+  {
+    "price": "32728",
+    "name": "Combo Lengkap (Nasi Ayam Penyet Sambel + Extra Kulit + Es Teh)",
+    "description": "Rasakan kenikmatan Ayam Penyet Sambel dipadukan dengan kulit cripsy dan segarnya es teh manis, nikmat mana lagi yang kamu dustakan zheyenk!",
+    "section": "promo hemat ayam penyet"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Kecombrang",
+    "description": "SAMBEL ASAM SEGAR. Nasi ayam penyet, kremes, dan sambel kecombrang. Wajib coba! (Chicken Cuts based on Availability)",
+    "section": "ayam penyet pake sambel"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Korek Jontor",
+    "description": "PECINTA PEDAS WAJIB COBA! Nasi ayam penyet pakai sambel korek + kremesan. Pedesnya bikin ajib! (Chicken Cuts based on Availability)",
+    "section": "ayam penyet pake sambel"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Kacang Goyang Lidah",
+    "description": "SAMBEL KACANG PEDAS GURIH, dijamin bikin goyang lidah! Nasi ayam penyet pakai sambel kacang + kremesan. (Chicken Cuts based on Availability)",
+    "section": "ayam penyet pake sambel"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Ori",
+    "description": "Sambel Original khas Ayam Koplo dijamin bikin kamu nagih! Nasi ayam penyet + sambel ori dan kremesan. (Chicken Cuts based on Availability)",
+    "section": "ayam penyet pake sambel"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Matah",
+    "description": "Nasi ayam penyet, kremes dengan Sambel Matah jagoannya Ayam Koplo. Harus coba! (Chicken Cuts based on Availability)",
+    "section": "ayam penyet pake sambel"
+  },
+  {
+    "price": "27273",
+    "name": "Indomie Ayam Penyet Sambel Kecombrang",
+    "description": "SAMBEL ASAM SEGAR. Indomie ayam penyet, kremes, dan sambel kecombrang. Wajib coba! (Chicken Cuts based on Availability)",
+    "section": "indomie - ayam penyet series"
+  },
+  {
+    "price": "27273",
+    "name": "Indomie Ayam Penyet Sambel Korek Jontor",
+    "description": "PECINTA PEDAS WAJIB COBA! Indomie ayam penyet pakai sambel korek + kremesan. Pedesnya bikin ajib! (Chicken Cuts based on Availability)",
+    "section": "indomie - ayam penyet series"
+  },
+  {
+    "price": "27273",
+    "name": "Indomie Ayam Penyet Sambel Kacang Goyang Lidah",
+    "description": "SAMBEL KACANG PEDAS GURIH, dijamin bikin goyang lidah! Indomie ayam penyet pakai sambel kacang + kremesan. (Chicken Cuts based on Availability)",
+    "section": "indomie - ayam penyet series"
+  },
+  {
+    "price": "27273",
+    "name": "Indomie Ayam Penyet Sambel Ori",
+    "description": "Sambel Original khas Ayam Koplo dijamin bikin kamu nagih! Indomie ayam penyet + sambel ori dan kremesan. (Chicken Cuts based on Availability)",
+    "section": "indomie - ayam penyet series"
+  },
+  {
+    "price": "27273",
+    "name": "Indomie Ayam Penyet Sambel Matah",
+    "description": "Indomie ayam penyet, kremes dengan Sambel Matah jagoannya Ayam Koplo. Harus coba! (Chicken Cuts based on Availability)",
+    "section": "indomie - ayam penyet series"
+  },
+  {
+    "price": "19091",
+    "name": "1 pc Ayam Goreng Penyet A La Carte",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "38182",
+    "name": "2 pcs Ayam Goreng Penyet A La Carte",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7636",
+    "name": "Extra Indomie Goreng",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "7182",
+    "name": "Extra Telor Ceplok",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "9000",
+    "name": "Extra Nasi Wangi",
+    "description": "Nasi wangi bumbu spesial Koplo. Wangi-wangi pedes-pedes gimana gitu. Pokoknya manteubh!",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Nisi Pitih",
+    "description": "Nasi putih, doang",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Ori",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Korek Jontor",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Matah",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Kecombrang",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Kacang Goyang Lidah",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "2000",
+    "name": "Extra Kremes",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "4000",
+    "name": "Es Teh Manis",
+    "description": "Kesegaran mantuliity, es teh favorit warga +62",
+    "section": "drinks"
+  },
+  {
+    "price": "3545",
+    "name": "Es Teh Tawar",
+    "description": "Kesegaran mantuliity, es teh favorit warga +62",
+    "section": "drinks"
+  },
+  {
+    "price": "8182",
+    "name": "Sweet Tropical",
+    "description": "Minuman pereda pedas dengan paduan buah tropikal sirsak dan guava yang memberikan sensasi manis yang segar!",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Premium Series",
+    "description": "Tulis di note Custom Message. Template : Dari : [X] Pada : [X] Pesan : [max. 50 karakter]",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Cafe Latte",
+    "description": "Perpaduan kopi espresso dan susu creamy, pilihan klasik pencinta kopi",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "drinks"
+  }
+]

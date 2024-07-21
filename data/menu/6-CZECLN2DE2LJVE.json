@@ -1,0 +1,794 @@
+[
+  {
+    "price": "71249",
+    "name": "Kwetiaw Goreng Siram Telur",
+    "description": "Fried Kwetiaw With Beef/Seafood Filling With Extra Separate Egg Dumplings",
+    "section": "today's offer"
+  },
+  {
+    "price": "68399",
+    "name": "Kwetiaw Goreng Siram",
+    "description": "Fried Kwetiaw With Beef/Seafood Filling With Extra Thick Gravy Separated",
+    "section": "today's offer"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Kuah Special",
+    "description": "Normal Portion Filled With 2X Flour Of Beef And Seafood Or You Can Choose One",
+    "section": "today's offer"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Jumbo Sauce (1/2 Portion)",
+    "description": "Large Portion Of Kwetiaw Kwetiaw",
+    "section": "today's offer"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Yam Special",
+    "description": "Normal Kwetiaw Yam Portion With 2Xflour Mix Beef And Seafood Or You Can Choose One",
+    "section": "today's offer"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Yam Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiaw With A Special Characteristic Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Kwetiaw Yam",
+    "description": "Kwetiaw Yam Without Filling/Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Siram Special",
+    "description": "Normal Portion Of Kwetiaw Doused With 2Xfold Beef And Seafood Or You Can Choose One",
+    "section": "today's offer"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Siram Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiau With Thick Sauce With A Mixture Of Vegetables With Choice Of Beef / Seafood Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "47499",
+    "name": "Kwetiaw Plain Flush",
+    "description": "Kwetiaw Doused With Thick Gravy Without Filling/Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Bun Special",
+    "description": "Kwetiaw Bun With A Large Portion And More Fillings",
+    "section": "today's offer"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Bun Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiaw Bun With Large Portion",
+    "section": "today's offer"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Kwetiaw Bun",
+    "description": "Kwetiaw Bun Without Filling/Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Goreng Special",
+    "description": "Fried Kwetiau With More Portions And More Fillings",
+    "section": "today's offer"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiau Goreng Jumbo (1 1/2 Porsi)",
+    "description": "Fried Kwetiaw With Large Portion",
+    "section": "today's offer"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Fried Kwetiaw",
+    "description": "Fried Kwetiaw Eggs Only Without Filling/Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "71250",
+    "name": "Kwetiaw Roasted With Egg",
+    "description": "Kwetiaw With Egg Sauce Topping With Beef / Seafood Filling",
+    "section": "today's offer"
+  },
+  {
+    "price": "61749",
+    "name": "Kwetiaw Yam",
+    "description": "Kwetiaw With A Special Taste Of Sour Taste With A Choice Of Beef / Seafood Toppings",
+    "section": "today's offer"
+  },
+  {
+    "price": "61749",
+    "name": "Kwetiaw Soup",
+    "description": "Boiled Kwetiaw Served With Gravy Topped With Beef / Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "64999",
+    "name": "Kwetiaw Goreng",
+    "description": "Dry Fried Kwetiaw With A Choice Of Beef / Seafood Topping",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "64999",
+    "name": "Kwetiaw Siram",
+    "description": "Kwetiaw Topped With Thick Sauce With Beef / Seafood Filling",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "64999",
+    "name": "Kwetiaw Bun",
+    "description": "Kwetiaw Fried With A Choice Of Beef / Seafood Topping",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "39500",
+    "name": "Chicken Katsudon",
+    "description": "",
+    "section": "rice bowl"
+  },
+  {
+    "price": "36500",
+    "name": "Chicken Katsu",
+    "description": "",
+    "section": "rice bowl"
+  },
+  {
+    "price": "38500",
+    "name": "Chicken Oyakodon",
+    "description": "",
+    "section": "rice bowl"
+  },
+  {
+    "price": "37500",
+    "name": "Chicken Teriyaki",
+    "description": "",
+    "section": "rice bowl"
+  },
+  {
+    "price": "37999",
+    "name": "Rica Rica Chicken Rice",
+    "description": "Rice + Selected Side Dishes + Capcay",
+    "section": "menu paket"
+  },
+  {
+    "price": "39999",
+    "name": "Kluyuk Chicken Rice",
+    "description": "Rice + Selected Side Dishes + Capcay",
+    "section": "menu paket"
+  },
+  {
+    "price": "38999",
+    "name": "Butter Fried Chicken Rice",
+    "description": "Rice + Selected Side Dishes + Capcay",
+    "section": "menu paket"
+  },
+  {
+    "price": "50000",
+    "name": "Complete Fried Chicken Package",
+    "description": "Rice + Chicken + Tofu/Tempe + Sayur Asem + Lalapan + Sambal",
+    "section": "menu paket"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Ayam Bakar Bumbu Rujak",
+    "description": "Rice + Chicken + Lalapan + Sambal",
+    "section": "menu paket"
+  },
+  {
+    "price": "33000",
+    "name": "Nasi Ayam Goreng Surabaya",
+    "description": "Rice + Chicken + Lalapan + Sambal",
+    "section": "menu paket"
+  },
+  {
+    "price": "33000",
+    "name": "Kalasan Fried Chicken Rice",
+    "description": "Rice + Chicken + Lalapan + Sambal",
+    "section": "menu paket"
+  },
+  {
+    "price": "30000",
+    "name": "Smashed Chicken Rice",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Ayam Geprek",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "11000",
+    "name": "Smashed Fried Egg",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "9000",
+    "name": "Indomie Goreng",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "9000",
+    "name": "Smashed Tofu",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "9000",
+    "name": "Tempe Geprek",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "22000",
+    "name": "Ayam Geprek Sambal Matah",
+    "description": "Crispy Fried Chicken With Balinese Matah Sambal",
+    "section": "menu paket"
+  },
+  {
+    "price": "22000",
+    "name": "Ayam Geprek Sambal Bawang",
+    "description": "Choose Spicy Level 1 - 10",
+    "section": "menu paket"
+  },
+  {
+    "price": "71249",
+    "name": "Kwetiaw Goreng Siram Telur",
+    "description": "Fried Kwetiaw With Beef/Seafood Filling With Extra Separate Egg Dumplings",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "68399",
+    "name": "Kwetiaw Goreng Siram",
+    "description": "Fried Kwetiaw With Beef/Seafood Filling With Extra Thick Gravy Separated",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Kuah Special",
+    "description": "Normal Portion Filled With 2X Flour Of Beef And Seafood Or You Can Choose One",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Jumbo Sauce (1/2 Portion)",
+    "description": "Large Portion Of Kwetiaw Kwetiaw",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Yam Special",
+    "description": "Normal Kwetiaw Yam Portion With 2Xflour Mix Beef And Seafood Or You Can Choose One",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Yam Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiaw With A Special Characteristic Taste",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Kwetiaw Yam",
+    "description": "Kwetiaw Yam Without Filling/Topping",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Siram Special",
+    "description": "Normal Portion Of Kwetiaw Doused With 2Xfold Beef And Seafood Or You Can Choose One",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Siram Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiau With Thick Sauce With A Mixture Of Vegetables With Choice Of Beef / Seafood Topping",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "47499",
+    "name": "Kwetiaw Plain Flush",
+    "description": "Kwetiaw Doused With Thick Gravy Without Filling/Topping",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Bun Special",
+    "description": "Kwetiaw Bun With A Large Portion And More Fillings",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiaw Bun Jumbo (1 1/2 Porsi)",
+    "description": "Kwetiaw Bun With Large Portion",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Kwetiaw Bun",
+    "description": "Kwetiaw Bun Without Filling/Topping",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "94999",
+    "name": "Kwetiaw Goreng Special",
+    "description": "Fried Kwetiau With More Portions And More Fillings",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "84549",
+    "name": "Kwetiau Goreng Jumbo (1 1/2 Porsi)",
+    "description": "Fried Kwetiaw With Large Portion",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "47499",
+    "name": "Plain Fried Kwetiaw",
+    "description": "Fried Kwetiaw Eggs Only Without Filling/Topping",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "71250",
+    "name": "Kwetiaw Roasted With Egg",
+    "description": "Kwetiaw With Egg Sauce Topping With Beef / Seafood Filling",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "61749",
+    "name": "Kwetiaw Yam",
+    "description": "Kwetiaw With A Special Taste Of Sour Taste With A Choice Of Beef / Seafood Toppings",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "61749",
+    "name": "Kwetiaw Soup",
+    "description": "Boiled Kwetiaw Served With Gravy Topped With Beef / Seafood",
+    "section": "kwetiaw"
+  },
+  {
+    "price": "37999",
+    "name": "Garlic Broccoli",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "46000",
+    "name": "Brokoli Cah Udang",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "46000",
+    "name": "Brokoli Cah Cumi",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Brokoli Cah Ayam",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "40500",
+    "name": "Brokoli Cah Jamur",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "35999",
+    "name": "Puyunghai Ayam",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "35000",
+    "name": "Mun Tofu",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "39000",
+    "name": "Tofu Sapo",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "59999",
+    "name": "Butter Fried Shrimp",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "54999",
+    "name": "Sweet And Sour Shrimp",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "47999",
+    "name": "Floured Fried Squid",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "48999",
+    "name": "Cumi Rica Rica",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "42000",
+    "name": "Bistik Ayam",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Nanking",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "44999",
+    "name": "Butter Fried Chicken",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "41999",
+    "name": "Ayam Rica Rica",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "47999",
+    "name": "Crispy Chicken",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "29000",
+    "name": "Kangkung Cah Saus Tiram",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "30000",
+    "name": "Stir Fried Water Spinach With Shrimp Paste",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "30000",
+    "name": "Stir-Fried Water Spinach With Garlic",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "37900",
+    "name": "Shrimp And Water Spinach Sautee",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "99999",
+    "name": "Bakmie Bun Special",
+    "description": "More Noodles With Large Portions And More Fillings",
+    "section": "noodles"
+  },
+  {
+    "price": "64999",
+    "name": "Noodle Soup",
+    "description": "Boiled Noodles Topped With Beef / Seafood With Caisim And Bean Sprouts Served With Separate Broth",
+    "section": "noodles"
+  },
+  {
+    "price": "88999",
+    "name": "Bakmi Bun Jumbo",
+    "description": "Bun Noodles With Large Portion",
+    "section": "noodles"
+  },
+  {
+    "price": "49999",
+    "name": "Plain Bun Noodles",
+    "description": "Egg Noodles",
+    "section": "noodles"
+  },
+  {
+    "price": "99999",
+    "name": "Bakmie Goreng Special",
+    "description": "Fried Noodles With A Large Portion. And More Fillings",
+    "section": "noodles"
+  },
+  {
+    "price": "88999",
+    "name": "Bakmie Goreng Jumbo",
+    "description": "Fried Noodles With Large Portion",
+    "section": "noodles"
+  },
+  {
+    "price": "49999",
+    "name": "Plain Fried Noodles",
+    "description": "Egg Fried Noodles Vegetables",
+    "section": "noodles"
+  },
+  {
+    "price": "64999",
+    "name": "Bakmie Goreng",
+    "description": "Dry Fried Noodles With A Choice Of Beef / Seafood Topping",
+    "section": "noodles"
+  },
+  {
+    "price": "61999",
+    "name": "Flushed Noodles",
+    "description": "Noodles With Thick Sauce Topping Filled With Beef / Seafood",
+    "section": "noodles"
+  },
+  {
+    "price": "61999",
+    "name": "Bakmi Bun",
+    "description": "Fried Noodles With A Choice Of Beef / Seafood Topping",
+    "section": "noodles"
+  },
+  {
+    "price": "61999",
+    "name": "Bakmie Yam",
+    "description": "Noodles That Have A Special Taste Of Sour Taste With A Choice Of Beef / Seafood Toppings",
+    "section": "noodles"
+  },
+  {
+    "price": "88999",
+    "name": "Nasi Siram Jumbo",
+    "description": "1.5 Portions",
+    "section": "rice"
+  },
+  {
+    "price": "40000",
+    "name": "Capcay Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "64999",
+    "name": "Nasi Siram",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "99999",
+    "name": "Nasi Goreng Special",
+    "description": "Fried Rice With Large Portion, Fillings Can Be Mixed With Beef/Sf",
+    "section": "rice"
+  },
+  {
+    "price": "89999",
+    "name": "Nasi Goreng Jumbo",
+    "description": "Fried Rice With Large Portion",
+    "section": "rice"
+  },
+  {
+    "price": "64999",
+    "name": "Kusut Fried Rice",
+    "description": "Fried Rice With A Mixture Of Kwetiaw With Choice Of Beef / Seafood Topping",
+    "section": "rice"
+  },
+  {
+    "price": "49999",
+    "name": "Plain Fried Rice",
+    "description": "Egg Fried Rice",
+    "section": "rice"
+  },
+  {
+    "price": "64999",
+    "name": "Fried Rice",
+    "description": "Fried Rice With A Special Taste With Many Choices Of Toppings",
+    "section": "rice"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "88999",
+    "name": "Bihun Goreng Jumbo",
+    "description": "Fried Vermicelli With Large Portion",
+    "section": "vermicelli"
+  },
+  {
+    "price": "49999",
+    "name": "Plain Fried Vermicelli",
+    "description": "Egg Fried Vermicelli",
+    "section": "vermicelli"
+  },
+  {
+    "price": "64999",
+    "name": "Bihun Goreng",
+    "description": "Dry Fried Vermicelli With A Choice Of Beef / Seafood Topping",
+    "section": "vermicelli"
+  },
+  {
+    "price": "64999",
+    "name": "Vermicelli Flush",
+    "description": "Vermicelli With Thick Sauce Topping Filled With Beef / Seafood",
+    "section": "vermicelli"
+  },
+  {
+    "price": "64999",
+    "name": "Vermicelli Bun",
+    "description": "Fried Vermicelli With A Choice Of Beef / Seafood Topping",
+    "section": "vermicelli"
+  },
+  {
+    "price": "64999",
+    "name": "Bihun Yam",
+    "description": "The Vermicelli That Has A Distinctive Taste Of Sour Taste With A Choice Of Beef / Seafood Toppings",
+    "section": "vermicelli"
+  },
+  {
+    "price": "99999",
+    "name": "Bihun Goreng Special",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "59999",
+    "name": "Bihunkuah",
+    "description": "Boiled Vermicelli Served With Gravy Topped With Beef / Seafood",
+    "section": "vermicelli"
+  },
+  {
+    "price": "28999",
+    "name": "Baso Gepeng 5 Biji",
+    "description": "",
+    "section": "soup meatball"
+  },
+  {
+    "price": "51999",
+    "name": "Baso Gepeng",
+    "description": "10 Pieces",
+    "section": "soup meatball"
+  },
+  {
+    "price": "80000",
+    "name": "Sop Sapi",
+    "description": "",
+    "section": "soup meatball"
+  },
+  {
+    "price": "20000",
+    "name": "Chocolate Cheese Toast",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "20000",
+    "name": "Chocolate Cheese Grilled Banana",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "20000",
+    "name": "Fried Bananas",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "12000",
+    "name": "Risol Smoked Beef Mayo",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "18000",
+    "name": "Fried Cheese Cassava",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "20000",
+    "name": "Kentang Goreng",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "10000",
+    "name": "Risol Ragaut Ayam",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "4000",
+    "name": "Crackers",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "12000",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "8000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "snack other menu"
+  },
+  {
+    "price": "18000",
+    "name": "Alokakua",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Es Jeruk Murni",
+    "description": "Ice Cubes + Squeezed Orange Water",
+    "section": "minuman"
+  },
+  {
+    "price": "9500",
+    "name": "Le Minerale",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "19900",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Es Jeruk Murni",
+    "description": "Ice + Orange Juice",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Es Kopi Kongcho",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Aren Sugar Coffee Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Liang Teh",
+    "description": "",
+    "section": "minuman"
+  }
+]

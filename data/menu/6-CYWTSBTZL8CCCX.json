@@ -1,0 +1,500 @@
+[
+  {
+    "price": "75000",
+    "name": "Sop Buntut",
+    "description": "Rice + Soup",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Beef Feet Soup",
+    "description": "Rice + Soto",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Soto Iso",
+    "description": "Rice + Soto",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Soto Babat",
+    "description": "Rice + Soto",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Gravel Soto",
+    "description": "Rice + Soto",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Soto Paru",
+    "description": "Rice + Soto",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Soto Daging Khas Betawi",
+    "description": "Rice + Meatball",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Soto Campur Khas Betawi",
+    "description": "Rice + Lung Meat",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Tongseng Sapi",
+    "description": "Rice + Beef",
+    "section": "soto / sop"
+  },
+  {
+    "price": "75000",
+    "name": "Sauteed Spicy Stir-Fried Ribs Package",
+    "description": "",
+    "section": "soto / sop"
+  },
+  {
+    "price": "75000",
+    "name": "Solo Seasoned Grilled Ribs Package",
+    "description": "Rice+ Ribs+Lalapan",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Tongseng Ayam",
+    "description": "Rice + Chicken + Egg",
+    "section": "soto / sop"
+  },
+  {
+    "price": "75000",
+    "name": "Beef Rib Soup Package",
+    "description": "Rice + Rib Soup",
+    "section": "soto / sop"
+  },
+  {
+    "price": "45000",
+    "name": "Betawi Typical Beef Soup",
+    "description": "Soto + Rice",
+    "section": "soto / sop"
+  },
+  {
+    "price": "42000",
+    "name": "Paket Sate Lilit Khas Bali",
+    "description": "",
+    "section": "special"
+  },
+  {
+    "price": "40000",
+    "name": "Penyet Chicken Package + Tofu Pepes",
+    "description": "White Rice + Fried Chicken + Pepes + Lalapan + Chili Sauce",
+    "section": "special"
+  },
+  {
+    "price": "41000",
+    "name": "Grilled Chicken Package + Tofu Pepes",
+    "description": "White Rice + Grilled Chicken + Pepes + Lalapan + Chili Sauce",
+    "section": "special"
+  },
+  {
+    "price": "45000",
+    "name": "Fried Pomfret Fish Package + Tofu Pepes",
+    "description": "White Rice + Fried Cabbage + Lalapan + Sambal + Tofu Pepes",
+    "section": "special"
+  },
+  {
+    "price": "45000",
+    "name": "Grilled Pomfret Fish Package + Tofu Pepes",
+    "description": "White Rice + Grilled Onions + Pepes + Lalapan + Chili Sauce",
+    "section": "special"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Nila Goreng Bumbu+Pepes",
+    "description": "White Rice + Fried Tilapia + Pepes + Lalapan + Sambal",
+    "section": "special"
+  },
+  {
+    "price": "45000",
+    "name": "Grilled Tilapia Package + Tofu Pepes",
+    "description": "White Rice + Grilled Tilapia + Lalapan + Sambal + Tofu Pepes",
+    "section": "special"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Sate Maranggi Sapi Original +Nasi (5 Tusuk )",
+    "description": "Original Beef Maranggi Satay Package + Rice (5 Skewers) Soy Sauce Sambal)",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "33000",
+    "name": "Paket Sate Maranggi Ayam+Nasi (5Tusuk)",
+    "description": "Chicken Maranggi Satay Package + Rice (5 Skewers)",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Sate Maranggi Kambing +Nasi ( 5 Tusuk )",
+    "description": "Goat Maranggi Satay Package + Rice (5 Skewers) Soy Sauce Tomato Sauce",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "60000",
+    "name": "Paket Sate Maranggi Sapi Premium +Nasi ( 5 Tusuk )",
+    "description": "Premium Beef Maranggi Satay Package + Rice (5 Skewers) Tomato Soy Sauce Sauce",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "60000",
+    "name": "Maranggi Chicken Satay Package + Rice (10 Skewers)",
+    "description": "Chicken Maranggi Satay Package + Rice (10 Skewers) Tomato Soy Sauce Sauce",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "82000",
+    "name": "Paket Sate Maranggi Sapi Original +Nasi (10 Tusuk )",
+    "description": "Original Beef Maranggi Satay Package + Rice (10 Skewers) Tomato Soy Sauce Sambal",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "90000",
+    "name": "Paket Sate Maranggi Kambing +Nasi ( 10 Tusuk )",
+    "description": "Goat Maranggi Satay Package + Rice (10 Skewers) Tomato Soy Sauce Sauce",
+    "section": "maranggi satay"
+  },
+  {
+    "price": "33900",
+    "name": "Green Sambal Penyet Chicken Package",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "34900",
+    "name": "Paket Ayam Lunak Kremes",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "34900",
+    "name": "Soft Chicken Uduk Rice Package",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "34900",
+    "name": "Paket Ayam Bakar Solo",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "38900",
+    "name": "Paket Ayam Goreng Urap Solo",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "38900",
+    "name": "Taliwang Spiced Grilled Chicken Package",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Bebek Goreng Kremes",
+    "description": "",
+    "section": "duck"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Bebek Bakar Kremes Sambel Matah",
+    "description": "",
+    "section": "duck"
+  },
+  {
+    "price": "38900",
+    "name": "Serundeng Fried Pomfret Fish Package",
+    "description": "Rice+Fish+Lalapan+Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "38900",
+    "name": "Solo Spice Grilled Pomfret Fish Package",
+    "description": "Sambal Grilled Pomfret Rice",
+    "section": "fish"
+  },
+  {
+    "price": "39900",
+    "name": "Serundeng Fried Tilapia Fish Package",
+    "description": "Rice+Fish+Sambal+Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "39900",
+    "name": "Solo Spice Grilled Tilapia Fish Package",
+    "description": "Grilled Tilapia Rice And Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "52000",
+    "name": "Paket Gurame Goreng Serundeng",
+    "description": "Fried Gourame Rice And Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "52000",
+    "name": "Solo Spice Grilled Gourami Fish Package",
+    "description": "Rice+Fish+Lalapan+Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "40000",
+    "name": "Fried Milkfish Package Without Durian",
+    "description": "Rice+Fish+Lalapan+Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "55000",
+    "name": "Grilled Milkfish Satay Package Without Durian",
+    "description": "Rice+Fish+Lalapan+Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "42000",
+    "name": "Spicy Stir-Fried Lung Stir-Fry Package",
+    "description": "Rice + Lung",
+    "section": "beef"
+  },
+  {
+    "price": "42000",
+    "name": "Empal Penyet Serundeng Package",
+    "description": "nasi+empal+lalapan+sambal",
+    "section": "beef"
+  },
+  {
+    "price": "42000",
+    "name": "Paket Oseng Sapi Cabe Ijo",
+    "description": "Rice + Beef",
+    "section": "beef"
+  },
+  {
+    "price": "37500",
+    "name": "Nasi Goreng Kampoeng",
+    "description": "nasi goreng ayam+telur",
+    "section": "fried rice"
+  },
+  {
+    "price": "45000",
+    "name": "Iso Tripe Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "45000",
+    "name": "Beef Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "37900",
+    "name": "Mie Goreng Jawa",
+    "description": "",
+    "section": "noodles \"tek-tek\""
+  },
+  {
+    "price": "37900",
+    "name": "Mie Godog Jawa",
+    "description": "",
+    "section": "noodles \"tek-tek\""
+  },
+  {
+    "price": "37900",
+    "name": "'Nyemek' Java Noodles\"",
+    "description": "",
+    "section": "noodles \"tek-tek\""
+  },
+  {
+    "price": "15000",
+    "name": "Javanese-Indonesian Fruit Salad With Vegetable Sauce",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "22500",
+    "name": "Mendoan Vegetable Pecel",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "15000",
+    "name": "Sayur Asem",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "8000",
+    "name": "Uduk Rice",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tofu",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "5000",
+    "name": "Mendoan",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "25000",
+    "name": "Mendoan Package Of 5",
+    "description": "Contains 5+ Sambal",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "30000",
+    "name": "Meatball Tofu",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "8000",
+    "name": "Tofu Pepes",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "5000",
+    "name": "Banana",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "10000",
+    "name": "Salted Egg",
+    "description": "",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Canned Crackers",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "4500",
+    "name": "Extra Chili Sauce",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "8000",
+    "name": "Bangka Crackers",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "12000",
+    "name": "Skin Crackers",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pandan Hangat (Tawar)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pandan Hangat (Manis)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Es Teh Pandan (Tawar)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Es Teh Pandan (Manis)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Jeruk Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Ades Botol (600 Ml)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Warm Nipis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Es Nipis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Teh Lemon Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Teh Lemon",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7500",
+    "name": "Aqua Botol (600Ml)",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Aqua Botol (330Ml)",
+    "description": "",
+    "section": "minuman"
+  }
+]

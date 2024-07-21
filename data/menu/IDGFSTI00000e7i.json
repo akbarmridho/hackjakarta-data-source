@@ -1,0 +1,720 @@
+[
+  {
+    "price": "22000",
+    "name": "Es Kopi Hitam",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Hot Black Coffee",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Es Kopi Susu",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Hot Milk Coffee",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Teh Tarik Panas",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Es Teh Tarik",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Jus Strobery",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "15400",
+    "name": "Singkong Thailand",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Lemon Squash",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Ice Orange / Warm Orange",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "42900",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "42900",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "36300",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "22000",
+    "name": "Es Cendol",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "16500",
+    "name": "Sum2 Biji Salak",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "16500",
+    "name": "Biji Salak",
+    "description": "",
+    "section": "others"
+  },
+  { "price": "16500", "name": "Kolak", "description": "", "section": "others" },
+  {
+    "price": "15400",
+    "name": "Pearl Porridge",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "44000",
+    "name": "Bihun Goreng",
+    "description": "",
+    "section": "others"
+  },
+  { "price": "9900", "name": "Siomay", "description": "", "section": "others" },
+  {
+    "price": "44000",
+    "name": "Special Fried Rice",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "44000",
+    "name": "Bakmi Goreng",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "42900",
+    "name": "Pa Chicken Noodles",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "42900",
+    "name": "Bakmi Ayam Ba",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "36300",
+    "name": "Chicken Noodles",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "8800",
+    "name": "Bolu Tape",
+    "description": "",
+    "section": "cake"
+  },
+  { "price": "8800", "name": "Onbekuk", "description": "", "section": "cake" },
+  {
+    "price": "9900",
+    "name": "Cheese Cake",
+    "description": "",
+    "section": "cake"
+  },
+  {
+    "price": "8800",
+    "name": "Muffin Coklat",
+    "description": "",
+    "section": "cake"
+  },
+  {
+    "price": "9900",
+    "name": "Cheese Roll",
+    "description": "",
+    "section": "cake"
+  },
+  {
+    "price": "9900",
+    "name": "Fruit Cake",
+    "description": "",
+    "section": "cake"
+  },
+  {
+    "price": "9900",
+    "name": "Roll Meses",
+    "description": "",
+    "section": "cake"
+  },
+  {
+    "price": "14300",
+    "name": "Roti Cheesy Smoked Chicken",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "99000",
+    "name": "Roti Keset Cheessy Smoked Chicken",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "24200",
+    "name": "Wheat Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "22000",
+    "name": "Roti Tawar",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Nut Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "14300",
+    "name": "Roti Baso Sapi",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Roti Baso Ayam",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Chocolate Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Chocolate Cheese Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Chocolate Banana Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Roti Abon",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "9900",
+    "name": "Roti Chicken Bun",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Cheese Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Sweet Cheese Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "28600",
+    "name": "Roti Kosong Manis",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Cheese Chocolate Banana Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Cheese Banana Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Roti Srikaya",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Crocodile Bread",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "19800",
+    "name": "Roti Bagelan",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Cheese Donuts",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "12100",
+    "name": "Donat Coklat",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "9900",
+    "name": "Donat Sate",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "88000",
+    "name": "Doormat 2 Flavors",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "88000",
+    "name": "Chocolate Doormat",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "11000",
+    "name": "Roti Nanas",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "13200",
+    "name": "Chocolate Banana Cheese Spc",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "82500",
+    "name": "Cheese Ham Doormat",
+    "description": "",
+    "section": "roti"
+  },
+  {
+    "price": "8800",
+    "name": "Makaroni",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Banana Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Smoked Beef Risol",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Pastel",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Ongol-Ongol",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Onde-Onde",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Kroket",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Dadar Gulung",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "11000",
+    "name": "Arem - Arem",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Bugis",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Cantik Manis",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Lemper Ayam",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Risoles",
+    "description": "",
+    "section": "wet cake"
+  },
+  { "price": "8800", "name": "Sus", "description": "", "section": "wet cake" },
+  {
+    "price": "7700",
+    "name": "Pisang Garing",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Puding Leci",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "33000",
+    "name": "Mochi",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Cempedak Goreng",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Puding Mangga",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Bubur Sumsum",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Lumpang Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Fruit Pie",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Stuffed Tofu",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "23100",
+    "name": "Meatball Tofu",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Puding Jeruk",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Lumpia",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Klepon",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Combro",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Steamed Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Bika Ambon",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Arem Oncom",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "12100",
+    "name": "Plain Fried Vermicelli",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Ragout",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Banana Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Sticky Rice Spices",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Lapis Pepe Chocolate",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Lapis Pepe Hijau",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Wheel Eyes",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "8800",
+    "name": "Coconut Pudding",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Beautiful Princess",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "9900",
+    "name": "Semar Mendem",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Coconut Cassava",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "7700",
+    "name": "Sweet Potato Talam Cake",
+    "description": "",
+    "section": "wet cake"
+  },
+  {
+    "price": "60500",
+    "name": "Rawon Daging",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "8800",
+    "name": "Telur Balado",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "8800",
+    "name": "Salted Egg",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "8800",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "8800",
+    "name": "White Rice",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "33000",
+    "name": "Ayam Goreng",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "4400",
+    "name": "White Rice 1⁄2",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "42900",
+    "name": "Gado Gado",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "48400",
+    "name": "Gado Gado Lontong",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "49500",
+    "name": "Lontong Cap Gomeh",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "49500",
+    "name": "Special Rames Rice",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "38500",
+    "name": "Ketoprak Tofu",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "12100",
+    "name": "Small Fat Rice",
+    "description": "",
+    "section": "indonesia"
+  },
+  {
+    "price": "49500",
+    "name": "Yi Fu Mie",
+    "description": "",
+    "section": "oriental"
+  },
+  {
+    "price": "44000",
+    "name": "Sauteed Capcay With Mushroom Rice",
+    "description": "",
+    "section": "oriental"
+  },
+  {
+    "price": "22000",
+    "name": "Soup Dumplings 1⁄2",
+    "description": "",
+    "section": "oriental"
+  },
+  {
+    "price": "44000",
+    "name": "Capcay Rice",
+    "description": "",
+    "section": "oriental"
+  },
+  {
+    "price": "38500",
+    "name": "Dumpling Soup 1",
+    "description": "",
+    "section": "oriental"
+  }
+]

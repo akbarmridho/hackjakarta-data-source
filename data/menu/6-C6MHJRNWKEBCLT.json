@@ -1,0 +1,122 @@
+[
+  {
+    "price": "32000",
+    "name": "Fried Authentic Tofu Skin",
+    "description": "Gohyong Authentic Basil With Delicious Skin Tofu With Gravy",
+    "section": "gohyong"
+  },
+  {
+    "price": "29000",
+    "name": "Gohyong Original Viral",
+    "description": "Original Gohyong With Delicious Sauce",
+    "section": "gohyong"
+  },
+  {
+    "price": "27000",
+    "name": "Kuotie/Gyoza/Dumpling Ayam",
+    "description": "Kuotie Or Gyoza Or Chicken Dumplings With Chilli Oil",
+    "section": "kuotie/gyoza/dumpling ayam"
+  },
+  {
+    "price": "25000",
+    "name": "Dimsum",
+    "description": "Dimsum Mix Contains 5",
+    "section": "dimsum"
+  },
+  {
+    "price": "17000",
+    "name": "Chicken Burger",
+    "description": "Beef Burger Filled With Patty Beef, Lettuce, Tomato And Cucumber",
+    "section": "burger"
+  },
+  {
+    "price": "19000",
+    "name": "Beef Patty Burger",
+    "description": "Beef Burger Filled With Patty Beef, Lettuce, Tomato And Cucumber",
+    "section": "burger"
+  },
+  {
+    "price": "10500",
+    "name": "Potato",
+    "description": "Fried Flour Potatoes",
+    "section": "snack"
+  },
+  {
+    "price": "12000",
+    "name": "Kulit",
+    "description": "Crispy Skin",
+    "section": "snack"
+  },
+  {
+    "price": "22000",
+    "name": "Ayam Gunting Large",
+    "description": "Large Portion Of Chicken With Bbq/Balado Flavor Powder",
+    "section": "snack"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Gunting Reguler",
+    "description": "Regular Portion Of Chicken With Bbq/Balado Flavor Powder",
+    "section": "snack"
+  },
+  {
+    "price": "8500",
+    "name": "Sate",
+    "description": "Breast Satay Fillet",
+    "section": "snack"
+  },
+  {
+    "price": "6500",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "white rice"
+  },
+  {
+    "price": "9000",
+    "name": "Sambal Geprek",
+    "description": "Smashed Sambal",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "8500",
+    "name": "Saus Dkribho",
+    "description": "Djribho Sauce",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "8000",
+    "name": "Cheese Sauce",
+    "description": "Cheese Sauce",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "8000",
+    "name": "Saus Drakor",
+    "description": "Fried Sauce",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "8000",
+    "name": "Saus Blackpepper",
+    "description": "Blackpepper Sauce",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "8000",
+    "name": "Chili Oil",
+    "description": "Chilli Oil",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "9000",
+    "name": "Madurese Black Sambal",
+    "description": "Madura Black Sambal",
+    "section": "sauce and chili sauce"
+  },
+  {
+    "price": "2000",
+    "name": "Bubuk Tabur Balado/Bbq",
+    "description": "Balado/ Bbq Powder",
+    "section": "sauce and chili sauce"
+  }
+]

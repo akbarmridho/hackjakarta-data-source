@@ -1,0 +1,412 @@
+[
+  {
+    "price": "86364",
+    "name": "2 Pcs Moon Fried Chicken + 2 Pcs Nashville Fried Chicken Rice Set",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "46363",
+    "name": "2 Pcs Nasi Ayam Penyet Sambel Kecombrang",
+    "description": "Hanya untuk kamu! Harga spesial untuk menu 2 Pcs Nasi Ayam Penyet Sambel Kecombrang",
+    "section": "today's offer"
+  },
+  {
+    "price": "47272",
+    "name": "2 Pcs Moon Fried Chicken Rice Set FREE Honey Mustard Sauce",
+    "description": "Hanya untuk kamu! Harga spesial untuk menu 2 Pcs Moon Fried Chicken Rice Set + Honey Mustard Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "86364",
+    "name": "2 Pcs Moon Fried Chicken + 2 Pcs Nashville Fried Chicken Rice Set",
+    "description": "",
+    "section": "best combo!"
+  },
+  {
+    "price": "46363",
+    "name": "2 Pcs Nasi Ayam Penyet Sambel Kecombrang",
+    "description": "Hanya untuk kamu! Harga spesial untuk menu 2 Pcs Nasi Ayam Penyet Sambel Kecombrang",
+    "section": "best combo!"
+  },
+  {
+    "price": "47272",
+    "name": "2 Pcs Moon Fried Chicken Rice Set FREE Honey Mustard Sauce",
+    "description": "Hanya untuk kamu! Harga spesial untuk menu 2 Pcs Moon Fried Chicken Rice Set + Honey Mustard Sauce",
+    "section": "best combo!"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "46364",
+    "name": "2 Pcs Moon Fried Chicken Rice Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "ayam korea"
+  },
+  {
+    "price": "30909",
+    "name": "1 Pc Moon Fried Chicken Rice Set",
+    "description": "1 Pc Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "ayam korea"
+  },
+  {
+    "price": "114545",
+    "name": "6 Pcs Moon Fried Chicken Ala Carte",
+    "description": "6 Pcs Moon Fried Chicken. Pilih 2 rasa",
+    "section": "ayam korea"
+  },
+  {
+    "price": "49091",
+    "name": "5 Pcs Korean Chicken Wings Rice Set",
+    "description": "5 Pcs Korean Chicken Wings + Nasi. Pilih 1 rasa",
+    "section": "ayam korea"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Korek Jontor",
+    "description": "PECINTA PEDAS WAJIB COBA! Nasi ayam penyet pakai sambel korek + kremesan. Pedesnya bikin ajib! (Chicken Cuts based on Availability)",
+    "section": "ayam goreng penyet"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Kecombrang",
+    "description": "SAMBEL ASAM SEGAR. Nasi ayam penyet, kremes, dan sambel kecombrang. Wajib coba! (Chicken Cuts based on Availability)",
+    "section": "ayam goreng penyet"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Kacang Goyang Lidah",
+    "description": "SAMBEL KACANG PEDAS GURIH, dijamin bikin goyang lidah! Nasi ayam penyet pakai sambel kacang + kremesan. (Chicken Cuts based on Availability)",
+    "section": "ayam goreng penyet"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Matah",
+    "description": "Nasi ayam penyet, kremes dengan Sambel Matah jagoannya Ayam Koplo. Harus coba! (Chicken Cuts based on Availability)",
+    "section": "ayam goreng penyet"
+  },
+  {
+    "price": "22273",
+    "name": "Ayam Goreng Penyet Sambel Ori",
+    "description": "Sambel Original khas Ayam Koplo dijamin bikin kamu nagih! Nasi ayam penyet + sambel ori dan kremesan. (Chicken Cuts based on Availability)",
+    "section": "ayam goreng penyet"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Original",
+    "description": "Nasi dengan potongan Ayam bumbu ketumbar yang harum dilumuri sambal spesial khas Bu Tumbar yang gurih dan pedas.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Korek",
+    "description": "Penggemar pedas wajib coba! Nasi dengan potongan Ayam bumbu ketumbar yang harum dan dilumuri sambal Korek yang pedas nikmat. (Potongan Ayam yang tersedia)",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Matah",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, ditemani sambal Matah yang segar dan sedikit pedas.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Kecombrang",
+    "description": "Kelezatan ganda! Nasi dengan potongan ayam berbumbu ketumbar yang harum, ditemani sambal kecombrang yang wangi, segar, dan memberikan sentuhan pedas, dijamin bikin ketagihan.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "25909",
+    "name": "Ayam Penyet Ketumbar Sambal Kacang",
+    "description": "Nasi dengan potongan ayam bumbu ketumbar yang harum, disertai sensasi gurih dan pedas dari sambal kacang yang pasti akan memikat selera kamu.",
+    "section": "ayam penyet ketumbar"
+  },
+  {
+    "price": "47273",
+    "name": "2 pcs Fried Chicken Hot Nashville Rice Set",
+    "description": "Ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "33636",
+    "name": "1 pc Fried Chicken Hot Nashville Rice Set",
+    "description": "Ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Hot Nashville A La Carte",
+    "description": "Sayap ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin ketagihan! Cocok untuk snack time!",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "40000",
+    "name": "3 pcs Chicken Wings Hot Nashville Complete Set",
+    "description": "3 pcs sayap ayam Goreng saos Hot Nashville + 1 Nasi + 1 Sweet Tropical Drink",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "31818",
+    "name": "3 pcs Chicken Wings Hot Nashville Rice Set",
+    "description": "Sayap ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "47273",
+    "name": "2 pcs Fried Chicken Fire Mala Rice Set",
+    "description": "Ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "33636",
+    "name": "1 pc Fried Chicken Fire Mala Rice Set (Nasi Ayam Goreng)",
+    "description": "Ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Fire Mala A La Carte",
+    "description": "Sayap ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Cocok untuk snack time!",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "31818",
+    "name": "3 pcs Chicken Wings Fire Mala Rice Set",
+    "description": "Sayap ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Dilengkapi dengan nasi putih",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "40000",
+    "name": "3 pcs Chicken Wings Fire Mala Complete Set",
+    "description": "3 pcs sayap ayam goreng saos Fire Mala + 1 Nasi + 1 Sweet Tropical Drink",
+    "section": "spicy fried chicken"
+  },
+  {
+    "price": "48091",
+    "name": "5 Pcs Signature Chicken Wings Ala Carte",
+    "description": "Chicken Wings juicy dengan saus rempah yang gurih dan aromatik khas ACCHA.",
+    "section": "ayam goreng india"
+  },
+  {
+    "price": "34455",
+    "name": "3 Pcs Signature Chicken Wings Rice Set",
+    "description": "Chicken Wings juicy dengan saus rempah yang gurih dan aromatik khas ACCHA, dihidangkan dengan nasi hangat.",
+    "section": "ayam goreng india"
+  },
+  {
+    "price": "32636",
+    "name": "1 Pcs Signature Fried Chicken Rice Set",
+    "description": "Potongan ayam goreng juicy dengan saus rempah yang gurih dan aromatik khas ACCHA ditambah dengan nasi putih hangat.",
+    "section": "ayam goreng india"
+  },
+  {
+    "price": "53545",
+    "name": "2 Pcs Signature Fried Chicken Rice Set",
+    "description": "Potongan ayam goreng juicy dengan saus rempah yang gurih dan aromatik khas ACCHA ditambah dengan nasi putih hangat.",
+    "section": "ayam goreng india"
+  },
+  {
+    "price": "30909",
+    "name": "Namjim Fried Chicken Rice Box",
+    "description": "Ayam Goreng dengan saus Khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2. Bisa pilih nasi favorite mu!",
+    "section": "ayam goreng thailand"
+  },
+  {
+    "price": "30909",
+    "name": "Tomyum Fried Chicken Rice Box",
+    "description": "Ayam Goreng dengan saus andalan dari Thailand yang memiliki tingkat kepedasan dan rasa asam yang aromatik dari cabai, jahe, asam, dan tomat. Bisa pilih nasi favorite mu!",
+    "section": "ayam goreng thailand"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Fried Chicken Rice Box",
+    "description": "Ayam Goreng dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "ayam goreng thailand"
+  },
+  {
+    "price": "6364",
+    "name": "Truffle Mayo Sauce",
+    "description": "Saos mayo dengan rasa dan aroma truffle yang unik",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "6364",
+    "name": "Pickle Mayo Sauce",
+    "description": "Saus mayo dipadu dengan cita rasa asam manis acar",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "6364",
+    "name": "Cheddar Cheese Sauce",
+    "description": "Saus keju cheddar yang lembut dan kental dengan cita rasa gurih keju",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4545",
+    "name": "Honey Mustard Sauce",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "6364",
+    "name": "Egg Mayo",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "7273",
+    "name": "Mentai Sauce",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "6364",
+    "name": "Garlic Mayo",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4545",
+    "name": "Yoghurt Sauce",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4545",
+    "name": "Sambal Accha",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4909",
+    "name": "Sambal Korek",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4909",
+    "name": "Sambal Ori",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "4909",
+    "name": "Sambal Matah",
+    "description": "",
+    "section": "sauces/sambal"
+  },
+  {
+    "price": "7636",
+    "name": "Indomie Goreng",
+    "description": "Selera kita bersama!",
+    "section": "extra carbs"
+  },
+  {
+    "price": "9000",
+    "name": "Nasi Wangi",
+    "description": "Nasi wangi dengan bumbu spesial. Wangi-wangi pedes!",
+    "section": "extra carbs"
+  },
+  {
+    "price": "13636",
+    "name": "Spicy Jumeokbap",
+    "description": "",
+    "section": "extra carbs"
+  },
+  {
+    "price": "12727",
+    "name": "Jumeokbap",
+    "description": "",
+    "section": "extra carbs"
+  },
+  {
+    "price": "16364",
+    "name": "Bread Pudding Sticks (Roti Panggang)",
+    "description": "Roti deep-fried yang gurih dan manis serta crispy pada bagian luar dan lembut di dalam, bikin kamu mau lagi dan lagi!",
+    "section": "extras"
+  },
+  {
+    "price": "21818",
+    "name": "Kulit Ala Carte",
+    "description": "",
+    "section": "extras"
+  },
+  { "price": "2000", "name": "Kremes", "description": "", "section": "extras" },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "16364",
+    "name": "ACCHAi! (350ml)",
+    "description": "Daripada cari masalah, mending chai masala! Minuman signature ACCHA yang diracik dari susu dan rempah pilihan. 100% enak!",
+    "section": "drinks"
+  },
+  {
+    "price": "8182",
+    "name": "Sweet Tropical",
+    "description": "Minuman pereda pedas dengan paduan buah tropikal sirsak dan guava yang memberikan sensasi manis yang segar!",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Coca Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  { "price": "11818", "name": "Sprite", "description": "", "section": "drinks" }
+]

@@ -1,0 +1,801 @@
+[
+  {
+    "price": "22500",
+    "name": "Hurricane Potato",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "79200",
+    "name": "Kimchee Curry",
+    "description": "",
+    "section": "vegetables curry"
+  },
+  {
+    "price": "85800",
+    "name": "Eggplant Curry",
+    "description": "",
+    "section": "vegetables curry"
+  },
+  {
+    "price": "79200",
+    "name": "Spinach Curry",
+    "description": "",
+    "section": "vegetables curry"
+  },
+  {
+    "price": "85800",
+    "name": "Vegetable Curry",
+    "description": "",
+    "section": "vegetables curry"
+  },
+  {
+    "price": "85800",
+    "name": "Mushroom Curry",
+    "description": "",
+    "section": "vegetables curry"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Shopping Bag",
+    "description": "",
+    "section": "shopping bag"
+  },
+  {
+    "price": "26400",
+    "name": "Coca Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  { "price": "15900", "name": "Water", "description": "", "section": "drinks" },
+  {
+    "price": "26400",
+    "name": "Sprite",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "19800",
+    "name": "Extra Grain Rice",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "15900",
+    "name": "Extra Rice",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Minced Beef Cutlet",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Minced Beef",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "43600",
+    "name": "Fried Shrimp",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "55500",
+    "name": "Yakiniku",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "33000",
+    "name": "Mushroom",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "19800",
+    "name": "Hard Boiled Egg",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "23800",
+    "name": "Extra Sauce Curry",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "46200",
+    "name": "Stewed Shrimp",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "33000",
+    "name": "Natto",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "55500",
+    "name": "Beef",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "52800",
+    "name": "Beef Shabu",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "26400",
+    "name": "Kimchee",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "33000",
+    "name": "Eggplant",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Sausage",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "33000",
+    "name": "Cheese",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "26400",
+    "name": "Spinach",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Fried Chicken",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "56800",
+    "name": "Seafood",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "39600",
+    "name": "Fried Squid",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Chicken Hamburg With Half Boiled Egg",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "30400",
+    "name": "Beef Bacon",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "33000",
+    "name": "Vegetable",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Shrimp Cutlet",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "43600",
+    "name": "Popcorn Shrimp",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "27800",
+    "name": "Creamed Croquette",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "22500",
+    "name": "Tuna",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "43600",
+    "name": "Beef Bacon Spinach",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "19800",
+    "name": "Corn",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "50200",
+    "name": "Chicken Cutlet",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "56800",
+    "name": "Cheese Hamburg",
+    "description": "Prices Do Not Include Curry",
+    "section": "additional topping"
+  },
+  {
+    "price": "29100",
+    "name": "Scrambled Egg",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "19800",
+    "name": "Half Boiled Egg",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "13200",
+    "name": "Fried Garlic",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "52800",
+    "name": "Chicken Cordon Bleu",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "150500",
+    "name": "Beef & Spinach Omelette Curry",
+    "description": "Beef , Spinach, Rice Omelette, Curry",
+    "section": "mix omelette curry"
+  },
+  {
+    "price": "166400",
+    "name": "Beef Shabu & Creamed Mushroom Omelette Curry",
+    "description": "Beef Shabu, Creamed Mushroom , Rice Omelette, Curry",
+    "section": "mix omelette curry"
+  },
+  {
+    "price": "162400",
+    "name": "Stewed Shrimp & Creamed Chicken Omelette Curry",
+    "description": "Stewed Shrimp, Creamed Chicken, Rice, Omelette, Curry",
+    "section": "mix omelette curry"
+  },
+  {
+    "price": "151800",
+    "name": "Fried Chicken & Mushroom Omelette Curry",
+    "description": "Fried Chicken, Mushroom, Rice Omelette, Curry",
+    "section": "mix omelette curry"
+  },
+  {
+    "price": "175600",
+    "name": "Chicken Cutlet & Seafood Omelette Curry",
+    "description": "Chicken Cutlet , Seafood ,Rice Omelette, Curry",
+    "section": "mix omelette curry"
+  },
+  {
+    "price": "63400",
+    "name": "Beef Bacon Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "59400",
+    "name": "Popcorn Shrimp Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "72600",
+    "name": "Fried Squid Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "55500",
+    "name": "Tuna Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "52800",
+    "name": "Egg Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "71300",
+    "name": "Fried Chicken Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "52800",
+    "name": "Corn Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "58100",
+    "name": "Sausage Salad",
+    "description": "",
+    "section": "salad"
+  },
+  {
+    "price": "79200",
+    "name": "Popcorn Shrimp & Corn Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "79200",
+    "name": "Fried Squid & Boiled Egg Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "81900",
+    "name": "Fried Squid & Tuna Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "80600",
+    "name": "Tuna Sausage Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "83200",
+    "name": "Beef Bacon & Corn Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "74000",
+    "name": "Mix Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "77900",
+    "name": "Fried Chicken & Boiled Egg Salad",
+    "description": "",
+    "section": "mix salad"
+  },
+  {
+    "price": "109600",
+    "name": "Creamed Croquette & Scrambled Egg Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "170300",
+    "name": "Beef, Mushroom & Scrambled Egg Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "136000",
+    "name": "Minced Beef Cutlet & Cheese Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "153200",
+    "name": "Shrimp Cutlet & Minced Beef Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "134700",
+    "name": "Yakiniku & Kimchee Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "113600",
+    "name": "Mushroom & Creamed Croquette Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "137300",
+    "name": "Seafood & Creamed Croquette Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "129400",
+    "name": "Popcorn Shrimp & Cheese Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "153200",
+    "name": "Minced Beef & Sausage Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "136000",
+    "name": "Shrimp Cutlet & Cheese Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "125400",
+    "name": "Beef Bacon Spinach & Scrambled Egg Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "159800",
+    "name": "Seafood & Sausage Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "153200",
+    "name": "Chicken Cutlet & Fried Chicken Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "138600",
+    "name": "Stewed Shrimp & Fried Squid Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "159800",
+    "name": "Cheese Hamburg & Sausage Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "162400",
+    "name": "Minced Beef Cutlet, Spinach & Cheese Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "146600",
+    "name": "Shrimp Cutlet & Fried Shrimp Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "142600",
+    "name": "Cheese Hamburg & Vegetable Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "136000",
+    "name": "Chicken Cutlet & Vegetable Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "137300",
+    "name": "Yakiniku & Scrambled Egg Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "153200",
+    "name": "Minced Beef Cutlet & Minced Beef Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "159800",
+    "name": "Minced Beef &Cheese Hamburg Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "153200",
+    "name": "Minced Beef & Chicken Cutlet Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "155800",
+    "name": "Beef Shabu & Sausage Curry",
+    "description": "",
+    "section": "mix curry"
+  },
+  {
+    "price": "92400",
+    "name": "Combo Mix Basket",
+    "description": "",
+    "section": "basket menu"
+  },
+  {
+    "price": "75300",
+    "name": "Seafood Mix Basket",
+    "description": "",
+    "section": "basket menu"
+  },
+  {
+    "price": "66000",
+    "name": "Mini Shrimp Basket",
+    "description": "",
+    "section": "basket menu"
+  },
+  {
+    "price": "52800",
+    "name": "Mini Meat Basket",
+    "description": "",
+    "section": "basket menu"
+  },
+  {
+    "price": "217800",
+    "name": "Curry Pouch 1000G",
+    "description": "",
+    "section": "curry pouch"
+  },
+  {
+    "price": "108900",
+    "name": "Curry Pouch 500G",
+    "description": "",
+    "section": "curry pouch"
+  },
+  {
+    "price": "162500",
+    "name": "Frozen Sausage",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "162500",
+    "name": "Frozen Fried Chicken",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "162500",
+    "name": "Frozen Chicken Cutlet",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "85800",
+    "name": "Natto Curry",
+    "description": "",
+    "section": "others curry"
+  },
+  {
+    "price": "80600",
+    "name": "Cream Croquette Curry",
+    "description": "",
+    "section": "others curry"
+  },
+  {
+    "price": "85800",
+    "name": "Cheese Curry",
+    "description": "",
+    "section": "others curry"
+  },
+  {
+    "price": "81900",
+    "name": "Scrambled Egg Curry",
+    "description": "",
+    "section": "others curry"
+  },
+  {
+    "price": "103000",
+    "name": "Sausage Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "103000",
+    "name": "Fried Chicken Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "96400",
+    "name": "Beef Bacon Spinach Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "103000",
+    "name": "Minced Beef Cutlet Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "108300",
+    "name": "Yakiniku Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "105600",
+    "name": "Beef Shabu Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "103000",
+    "name": "Minced Beef Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "108300",
+    "name": "Beef Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "109600",
+    "name": "Cheese Hamburg Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "103000",
+    "name": "Chicken Cutlet Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "103000",
+    "name": "Chicken Hamburg With Half Boiled Egg Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "105600",
+    "name": "Chicken Cordon Bleu Curry",
+    "description": "",
+    "section": "meat curry"
+  },
+  {
+    "price": "67400",
+    "name": "Kids D",
+    "description": "",
+    "section": "kids curry"
+  },
+  {
+    "price": "63400",
+    "name": "Kids C",
+    "description": "",
+    "section": "kids curry"
+  },
+  {
+    "price": "67400",
+    "name": "Kids B",
+    "description": "",
+    "section": "kids curry"
+  },
+  {
+    "price": "63400",
+    "name": "Kids A",
+    "description": "",
+    "section": "kids curry"
+  },
+  {
+    "price": "103000",
+    "name": "Shrimp Cutlet Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "96400",
+    "name": "Popcorn Shrimp Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "96400",
+    "name": "Fried Shrimp Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "109600",
+    "name": "Seafood Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "99000",
+    "name": "Stewed Shrimp Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "92400",
+    "name": "Fried Squid Curry",
+    "description": "",
+    "section": "seafood curry"
+  },
+  {
+    "price": "113600",
+    "name": "Cream Mushroom Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "114900",
+    "name": "Stewed Shrimp Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "118800",
+    "name": "Shrimp Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "118800",
+    "name": "Minced Beef Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "112200",
+    "name": "Popcorn Shrimp Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "124100",
+    "name": "Beef Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "116200",
+    "name": "Cream Chicken Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "118800",
+    "name": "Chicken Cutlet Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  },
+  {
+    "price": "118800",
+    "name": "Fried Chicken Omelette Curry",
+    "description": "",
+    "section": "omelette curry"
+  }
+]

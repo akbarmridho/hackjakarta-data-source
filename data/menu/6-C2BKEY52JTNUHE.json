@@ -1,0 +1,116 @@
+[
+  {
+    "price": "25000",
+    "name": "Rendang Duck",
+    "description": "Fried Duck + Rendang Seasoning + Lalapan",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "25000",
+    "name": "Bebek Goreng Serundeng",
+    "description": "Fried Duck + Serundeng + Chili Sauce + Lalapan",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "30000",
+    "name": "Rendang Duck Rice",
+    "description": "Rice + Fried Duck + Rendang Seasoning + Lalapan",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "30000",
+    "name": "Serundeng Duck Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "30000",
+    "name": "Serundeng Chicken Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "32000",
+    "name": "Fried Duck Rice + Tofu + Tempe",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "31000",
+    "name": "Serundeng Fried Chicken Rice + Tofu +Tempe",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "22000",
+    "name": "Chicken Soto Without Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "23000",
+    "name": "Chicken Feet Soto Without Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Soto Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Soto Rice + Chicken Feet",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tofu",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken Without Rice",
+    "description": "Grilled Chicken With Rice + Lalapan + Sambal",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "30000",
+    "name": "Grilled Chicken + White Rice",
+    "description": "Grilled Chicken+Lalapan+Sambal+Rice",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "",
+    "section": "fried duck with avocado and duro milk"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3500",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Aqua 600Ml",
+    "description": "Cold Regular Trasilia",
+    "section": "minuman"
+  }
+]

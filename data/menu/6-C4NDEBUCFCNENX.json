@@ -1,0 +1,315 @@
+[
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice",
+    "description": "Popcorn Chicken (boneless) + Nasi + Telur Mata Sapi + Extra Mayo. Pilih 1 rasa",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "62273",
+    "name": "XL Meteor Chicken (Chicken Only, 2x Portion)",
+    "description": "2x porsi Popcorn Chicken (boneless) + Extra Mayo. Pilih 1 rasa",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "181818",
+    "name": "Moon Box MFC",
+    "description": "(untuk sharing) 4pcs Moon Fried Chicken + 2 porsi Pop Corn Chicken (Boneless) + 4 Nasi + 2 Toppings",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "181818",
+    "name": "Moon Box Wings",
+    "description": "(untuk sharing) 10pcs Korean Chicken Wings + 2 porsi Pop Corn Chicken (Boneless) + 4 Nasi + 2 Toppings",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "12727",
+    "name": "Extra Jumeokbap (Korean seasoned rice)",
+    "description": "Nasi ala Korea dengan rumput laut dan wijen",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "13636",
+    "name": "Extra Spicy Jumeokbap",
+    "description": "Nasi ala Korea dengan rumput laut, wijen, dan Korean Hot Sauce",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Egg Mayo",
+    "description": "",
+    "section": "korean chicken popcorn"
+  },
+  {
+    "price": "54455",
+    "name": "Favorite Onigiri Bento A",
+    "description": "Bento dengan isian tori mayo + egg chicken roll dengan onigiri yang berbumbu dan salad.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "71818",
+    "name": "Premium Onigiri Bento A",
+    "description": "Bento dengan isian Onigiri berbumbu, Gyudon dan Tori mayo pilihanmu. Disajikan dengan salad.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "59000",
+    "name": "Premium Onigiri Bento B",
+    "description": "Bento dengan isian Onigiri berbumbu, Tori Mayo dan Tori Katsu pilihanmu. Disajikan dengan salad.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "34545",
+    "name": "Garlic Mayo Tori Don (Chicken Rice Bowl)",
+    "description": "Perpaduan ayam popcorn dengan saus garlic-mayo dengan topping telur mata sapi + nasi Jepang + salad. Umami bomb!",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "34545",
+    "name": "Tamayo Tori Don (Chicken Rice Bowl)",
+    "description": "Perpaduan ayam popcorn dengan Tamago-mayo (telur, mayonise) dengan topping telur mata sapi + nasi Jepang + salad. Dijamin Oishi!",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "25000",
+    "name": "Tori Mayo Ala Carte (Chicken)",
+    "description": "Tori mayo dengan 2 pilihan saus yang lezat.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "29091",
+    "name": "Gyu-Nomis A (Chicken Popcorn Rice Bowl)",
+    "description": "Perpaduan nasi Jepang dan Tori Popcorn dilumuri dengan saus Teriyaki.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "25455",
+    "name": "Gyu-Nomis B (Chicken Popcorn Rice Bowl)",
+    "description": "Perpaduan nasi Jepang dan Tori Popcorn dilumuri dengan saus Hickory.",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "5909",
+    "name": "Extra Japanese Onsen Tamago",
+    "description": "Telur Onsen creamy San Gyu",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "7273",
+    "name": "Extra Mentai Sauce",
+    "description": "Saus Mentai gurih manis San Gyu",
+    "section": "japanese chicken popcorn"
+  },
+  {
+    "price": "45364",
+    "name": "The OG! ChaChi Biryani Rice Box",
+    "description": "Biryani dipadukan dengan Chicken Popcorn yang crunchy dibalut saus rempah yang gurih dan aromatik khas ACCHA, disajikan dengan telor ceplok",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "46364",
+    "name": "The OG! ChaChi Rice Box",
+    "description": "Chicken Popcorn yang crunchy dibalut saus rempah yang gurih dan aromatik khas ACCHA, disajikan dengan telor ceplok dan nasi putih",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "16364",
+    "name": "Chicken Kofta Bites",
+    "description": "Daging ayam cincang yang diolah jadi bakso pake rempah spesial khas India, terus digoreng sampe bumbunya meresap. Seriusan, enak banget dicemilin!",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "9091",
+    "name": "Papadum (Kerupuk India)",
+    "description": "Kerupuk ala India yang gurih. Hati-hati bikin nagih!",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "4545",
+    "name": "Yoghurt Sauce",
+    "description": "Saus kombinasi yogurt dan rempah spesial yang cocok bikin makanan makin enak!",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "4545",
+    "name": "Sambal",
+    "description": "Sambal yang dibuat dengan gaya India, tapi disesuaikan dengan lidah Indonesia.",
+    "section": "indian chicken popcorn"
+  },
+  {
+    "price": "28182",
+    "name": "Bangkok Popcorn Chicken Rice Bowl",
+    "description": "Popcorn Chicken dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "28182",
+    "name": "Namjim Popcorn Chicken Rice Bowl",
+    "description": "Ayam Crispy tanpa tulang yang renyah dipadukan dengan saus Khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2. Bisa pilih nasi favorite mu!",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "63636",
+    "name": "Pop Khorn (Ayam Crispy Tanpa Nasi)",
+    "description": "Popcorn chicken dengan 2x saus andalan dari Thailand",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Tomyum Sauce",
+    "description": "Saus andalan dari Thailand, ledakan kesegaran pedas dan asam yang aromatik dari cabai, jahe, asam, dan tomat.",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Bangkok Sauce",
+    "description": "Saus asam manis dengan campuran rempah-rempah thailand untuk cita rasa yang khas",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Nam Jim Sauce",
+    "description": "Saus khas Thailand yang gurih, asam, dan sedikit pedas. Dengan rempah-rempah khas Thailand seperti daun ketumbar, cabai rawit, dan gurihnya kecap ikan.\\nLevel kepedasan: 2",
+    "section": "thai chicken popcorn"
+  },
+  {
+    "price": "21818",
+    "name": "Extra Kulit Crispy Idolaku",
+    "description": "Kulit ayam renyah, se-renyah jokes Bapack2. Gurihnya bikin nagih, fix bakal jadi Idola kamu! Porsi 4x lipat lebih banyak.",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "2000",
+    "name": "Extra Kremes",
+    "description": "",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Korek Jontor",
+    "description": "",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Matah",
+    "description": "",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "4909",
+    "name": "Extra Sambal Ori",
+    "description": "",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "7636",
+    "name": "Extra Indomie Goreng",
+    "description": "",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "9000",
+    "name": "Extra Nasi Wangi",
+    "description": "Nasi wangi bumbu spesial Koplo. Wangi-wangi pedes-pedes gimana gitu. Pokoknya manteubh!",
+    "section": "indonesian chicken popcorn"
+  },
+  {
+    "price": "16364",
+    "name": "Bread Pudding Sticks (Roti Panggang)",
+    "description": "Roti deep-fried yang gurih dan manis serta crispy pada bagian luar dan lembut di dalam, bikin kamu mau lagi dan lagi!",
+    "section": "extras"
+  },
+  {
+    "price": "5455",
+    "name": "Ice Tea (Es Teh Tawar)",
+    "description": "Es Teh Tawar yang dingin dan segar",
+    "section": "drinks"
+  },
+  {
+    "price": "6364",
+    "name": "Sweet Ice Tea (Es Teh Manis)",
+    "description": "Es Teh Manis yang dingin dan segar",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "8182",
+    "name": "Sweet Tropical",
+    "description": "Minuman pereda pedas dengan paduan buah tropikal sirsak dan guava yang memberikan sensasi manis yang segar!",
+    "section": "drinks"
+  },
+  {
+    "price": "16364",
+    "name": "ACCHAi! (350ml)",
+    "description": "Daripada cari masalah, mending chai masala! Minuman signature ACCHA yang diracik dari susu dan rempah pilihan. 100% enak!",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Coca Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  { "price": "11818", "name": "Sprite", "description": "", "section": "drinks" }
+]

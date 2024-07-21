@@ -1,0 +1,344 @@
+[
+  {
+    "price": "65000",
+    "name": "Regular Combo Platter",
+    "description": "Grilled Chicken,Gyro, Rice, Salad, Roasted Ribbons, Sauce (White, Hot Bbq)",
+    "section": "recommended"
+  },
+  {
+    "price": "68000",
+    "name": "Regular Gyro Platter",
+    "description": "Gyro, Rice, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "recommended"
+  },
+  {
+    "price": "60000",
+    "name": "Regular Chicken Platter",
+    "description": "Grilled Chicken, Rice, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "recommended"
+  },
+  {
+    "price": "54000",
+    "name": "Sandwich Combo",
+    "description": "Grilled Chicken,Gyro, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "recommended"
+  },
+  {
+    "price": "65000",
+    "name": "Regular Combo Platter",
+    "description": "Grilled Chicken,Gyro, Rice, Salad, Roasted Ribbons, Sauce (White, Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "68000",
+    "name": "Regular Gyro Platter",
+    "description": "Gyro, Rice, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "60000",
+    "name": "Regular Chicken Plato",
+    "description": "Grilled Chicken, Rice, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "60000",
+    "name": "Regular Beef Platter",
+    "description": "Pineapple, Rice, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "65000",
+    "name": "Regular Falafel Gyro Platter",
+    "description": "Balafel,Gro, Rice, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "65000",
+    "name": "Regular Falafel Chicken Platter",
+    "description": "Balafel, Roasted Chicken, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "regular platter"
+  },
+  {
+    "price": "76000",
+    "name": "Regular Double Cheese Combo Platter",
+    "description": "Mozzarella Cheese With Platter Combo, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "79000",
+    "name": "Regular Double Cheese Gyro Platter",
+    "description": "Mozzarella Cheese With Gyro Platter, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "72000",
+    "name": "Regular Double Cheese Chicken Platter",
+    "description": "Mozzarella Cheese With Chicken Platter, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "72000",
+    "name": "Regular Double Cheese Falafel Platter",
+    "description": "Mozzarella Cheese With Falafel Platter, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "76000",
+    "name": "Regular Double Cheese Gyro - Falafel Platter",
+    "description": "Mozzarella Cheese With Falafel - Gyro Platter, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "76000",
+    "name": "Regular Double Cheese Chicken - Falafel Platter",
+    "description": "Mozzarella Cheese With Fatfel - Chicken Platter, Including White And Cheese Already In The Platter",
+    "section": "cheese platter"
+  },
+  {
+    "price": "94000",
+    "name": "Large Combo Platter",
+    "description": "Grilled Chicken,Gyro, Rice, Salad, Roasted Ribbons, Sauce (White, Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "98000",
+    "name": "Large Gyro Platter",
+    "description": "Gyro, Rice, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "90000",
+    "name": "Large Chicken Plato",
+    "description": "Grilled Chicken, Rice, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "90000",
+    "name": "Large Beef Platter",
+    "description": "Pineapple, Rice, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "94000",
+    "name": "Large Beef Gyro Platter",
+    "description": "Balafel,Gro, Rice, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "94000",
+    "name": "Large Beef Chicken Platter",
+    "description": "Balafel, Roasted Chicken, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "new york platter (large)"
+  },
+  {
+    "price": "54000",
+    "name": "Sandwich Combo",
+    "description": "Grilled Chicken,Gyro, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "57000",
+    "name": "Gyro Sandwich",
+    "description": "Gyro, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Sandwich",
+    "description": "Grilled Chicken, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Sandwich",
+    "description": "Pineapple, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "54000",
+    "name": "Sanwich Beef Gyro",
+    "description": "Balafel,Gyro, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "54000",
+    "name": "Fried Sandwich With Chicken",
+    "description": "Balafel, Roasted Chicken, Salad, Ribbon, Sauce (White,Hot Bbq)",
+    "section": "sandwich"
+  },
+  {
+    "price": "60000",
+    "name": "Reguler Fallafel Platter",
+    "description": "Fallafel,Nasi,Salad,Roti Pita, Sauce (White,Hot & Bbq)",
+    "section": "vegan"
+  },
+  {
+    "price": "90000",
+    "name": "Large Fallafel Platter",
+    "description": "Fallafel,Nasi,Salad,Roti Pita, Sauce (White,Hot & Bbq)",
+    "section": "vegan"
+  },
+  {
+    "price": "50000",
+    "name": "Fried Sandwich",
+    "description": "Pineapple, Salad, Ribbon, Sauce (White, Hot Bbq)",
+    "section": "vegan"
+  },
+  {
+    "price": "55000",
+    "name": "Baklava 1 Coklat 2 Cashew By Mardin",
+    "description": "Baklava 1 Coklat 2 Cashew By Mardin",
+    "section": "side"
+  },
+  {
+    "price": "55000",
+    "name": "Baklava 4 Cashew By Mardin",
+    "description": "Baklava 4 Cashew By Mardin",
+    "section": "side"
+  },
+  {
+    "price": "55000",
+    "name": "Baklava 2 Coklat By Mardin",
+    "description": "Baklava 2 Coklat By Mardin",
+    "section": "side"
+  },
+  {
+    "price": "17000",
+    "name": "Flowers (2Pcs)",
+    "description": "Falafel Is Made From Chickenpeas, Vegetables, And Herbs",
+    "section": "side"
+  },
+  {
+    "price": "22000",
+    "name": "French Fries",
+    "description": "Deep Fried Crisp Cut Potatoes",
+    "section": "side"
+  },
+  {
+    "price": "39000",
+    "name": "Chicken Fries",
+    "description": "Grilled Chicken, Free Fries, White Sauce",
+    "section": "side"
+  },
+  {
+    "price": "44000",
+    "name": "Gyro Fries",
+    "description": "Gyro,French Fries, White Sauce",
+    "section": "side"
+  },
+  {
+    "price": "28000",
+    "name": "Hummus With Pita Brewd",
+    "description": "Ground Chicken Mixed With Sesame Seeds, Ribbons",
+    "section": "side"
+  },
+  {
+    "price": "33000",
+    "name": "Baklava",
+    "description": "Our Sweet From Peanuts, Phylo Pastry, Topping Of Fruits Sugar And Phistacio",
+    "section": "side"
+  },
+  {
+    "price": "7000",
+    "name": "Extra BBQ Sauce",
+    "description": "Our Bbq Sauce Is Slightly Sweet And Tangy",
+    "section": "add on"
+  },
+  {
+    "price": "12000",
+    "name": "Extra White Sauce",
+    "description": "Our World Famous White Sauce Is Made From Mayonnaise And A Blend Of Secret Spices.",
+    "section": "add on"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Hot Sauce",
+    "description": "Our World Famous Red Sauce Is Our Secret Blend Of Chilies And Spices. This Sauce Is Extremely Spicy",
+    "section": "add on"
+  },
+  {
+    "price": "12000",
+    "name": "Extra Rice",
+    "description": "Orange Rice Cooked With Secret Recipe",
+    "section": "add on"
+  },
+  {
+    "price": "28000",
+    "name": "Extra Gyro",
+    "description": "100% Halal Beef Cooked With Special Method",
+    "section": "add on"
+  },
+  {
+    "price": "17000",
+    "name": "Extra Chicken",
+    "description": "Griiled Tasty Chicken Cooked With Secret Recipe",
+    "section": "add on"
+  },
+  {
+    "price": "17000",
+    "name": "Extra Salad",
+    "description": "Lettuce,Tomat & White Sauce",
+    "section": "add on"
+  },
+  {
+    "price": "14000",
+    "name": "Extra Pita Bread",
+    "description": "1 Pcs Roti Pita",
+    "section": "add on"
+  },
+  {
+    "price": "9000",
+    "name": "Mineral Water",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "11000",
+    "name": "Ice Tea",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "14000",
+    "name": "Sweet Ice Tea",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "33000",
+    "name": "Burito Chicken",
+    "description": "",
+    "section": "burito"
+  },
+  {
+    "price": "33000",
+    "name": "Burito Falafel",
+    "description": "",
+    "section": "burito"
+  },
+  {
+    "price": "38000",
+    "name": "Burito Combo",
+    "description": "",
+    "section": "burito"
+  },
+  {
+    "price": "38000",
+    "name": "Burito Chicken - Falafel",
+    "description": "",
+    "section": "burito"
+  },
+  {
+    "price": "38000",
+    "name": "Burito Gyro - Falafel",
+    "description": "",
+    "section": "burito"
+  },
+  {
+    "price": "41000",
+    "name": "Burito Gyro",
+    "description": "",
+    "section": "burito"
+  }
+]

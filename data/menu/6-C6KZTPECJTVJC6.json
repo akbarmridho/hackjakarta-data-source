@@ -1,0 +1,728 @@
+[
+  {
+    "price": "35900",
+    "name": "Package Of Green Chili Penyet Chicken + Smashed Tofu Package",
+    "description": "1 Smashed Chicken Package + 1 Smashed Tofu Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "35900",
+    "name": "Kalasan Chicken Package + 1 Smashed Tofu Package",
+    "description": "1 Kalasan Chicken Package + 1 Smashed Tofu Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "35900",
+    "name": "Grilled Chicken With Soy Sauce + Smashed Tofu",
+    "description": "1 Grilled Chicken Package + 1 Smashed Tofu Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "30900",
+    "name": "Village Fried Rice + Smashed Tofu",
+    "description": "1 Free-Range Fried Rice + 1 Smashed Tofu Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "29190",
+    "name": "Paket Ayam Geprek Fillet",
+    "description": "Chicken Fillet + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "29190",
+    "name": "Geprek Chicken Fillet Green Chili Package",
+    "description": "Chicken Fillet + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "29190",
+    "name": "Paket Ayam Geprek Sambal Matah",
+    "description": "Chicken Fillet + White Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "today's offer"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet Cabe Ijo",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "today's offer"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet Sambal Matah",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "today's offer"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Paket Ayam Bakar + Tempe Geprek",
+    "description": "1 Grilled Chicken Package + Smashed Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Package Of Smashed Fried Chicken With Green Chili + Fried Tempeh",
+    "description": "1 Smashed Chicken Package + 1 Smashed Tempeh Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Paket Ayam Kalasan + Tempe Geprek",
+    "description": "1 Free-Range Fried Rice + 1 Smashed Tempeh Package",
+    "section": "today's offer"
+  },
+  {
+    "price": "36300",
+    "name": "Paket Cumi Baby Asin Sambal Balado",
+    "description": "White Rice + Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "36300",
+    "name": "Paket Cumi Baby Asin Cabe Ijo",
+    "description": "White Rice + Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "36300",
+    "name": "Oyster Sauce Salted Baby Squid Package",
+    "description": "White Rice + Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "36300",
+    "name": "Shrimp Sambal Balado Package",
+    "description": "Fried Shrimp + White Rice",
+    "section": "seafood"
+  },
+  {
+    "price": "36300",
+    "name": "Fried Shrimp Package",
+    "description": "Fried Shrimp + White Rice",
+    "section": "seafood"
+  },
+  {
+    "price": "24300",
+    "name": "Tuna Fish Package",
+    "description": "Tuna Fish + White Rice",
+    "section": "seafood"
+  },
+  {
+    "price": "30800",
+    "name": "Squid Baby Salted Balado Sambal - No Rice",
+    "description": "Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "30800",
+    "name": "Squid Baby Salted Oyster Sauce - No Rice",
+    "description": "Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "30800",
+    "name": "Squid Baby Salted Green Chili - No Rice",
+    "description": "Salted Baby Squid",
+    "section": "seafood"
+  },
+  {
+    "price": "30800",
+    "name": "Shrimp With Spicy Chili Sauce - No Rice",
+    "description": "Balado Shrimp + Sambal",
+    "section": "seafood"
+  },
+  {
+    "price": "30800",
+    "name": "Fried Shrimp - Without Rice",
+    "description": "Fried Prawns",
+    "section": "seafood"
+  },
+  {
+    "price": "19000",
+    "name": "Tuna Fish - No Rice",
+    "description": "Tuna Fish",
+    "section": "seafood"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Cabe Ijo Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Sambal Matah Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Saos Bbq Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "31800",
+    "name": "Indomie Ayam Geprek Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + Fried Indomie",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "31800",
+    "name": "Indomie Ayam Geprek Cabe Ijo Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + Fried Indomie",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "31800",
+    "name": "Indomie Ayam Geprek Sambal Matah Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + Fried Indomie",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "31800",
+    "name": "Indomie Ayam Geprek Saos Bbq Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + Fried Indomie",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Large - Tanpa Nasi",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Cabe Ijo Large - Tanpa Nasi",
+    "description": "Plump Breast / Whole Thigh",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Sambal Matah Large - Tanpa Nasi",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Saos Bbq Large - Tanpa Nasi",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "30300",
+    "name": "Paket Ayam Bakar",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Green Chili Grilled Chicken Package",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Grilled Chicken With Soy Sauce Package",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Kalasan Chicken Package",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Green Chili Kalasan Chicken Package",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Penyet Chicken Package",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "30300",
+    "name": "Package Of Green Chili Penyet Chicken",
+    "description": "Breast / Thigh + White Rice",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken - Without Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Green Chili Grilled Chicken - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken With Soy Sauce - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Kalasan Chicken - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Green Chili Kalasan Chicken - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Penyet Chicken - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "25000",
+    "name": "Smashed Chicken With Green Chili - No Rice",
+    "description": "Breast / Thigh",
+    "section": "grilled chicken and kalasan"
+  },
+  {
+    "price": "35900",
+    "name": "Package Of Green Chili Penyet Chicken + Smashed Tofu Package",
+    "description": "1 Smashed Chicken Package + 1 Smashed Tofu Package",
+    "section": "paket gajian"
+  },
+  {
+    "price": "35900",
+    "name": "Kalasan Chicken Package + 1 Smashed Tofu Package",
+    "description": "1 Kalasan Chicken Package + 1 Smashed Tofu Package",
+    "section": "paket gajian"
+  },
+  {
+    "price": "35900",
+    "name": "Grilled Chicken With Soy Sauce + Smashed Tofu",
+    "description": "1 Grilled Chicken Package + 1 Smashed Tofu Package",
+    "section": "paket gajian"
+  },
+  {
+    "price": "30900",
+    "name": "Village Fried Rice + Smashed Tofu",
+    "description": "1 Free-Range Fried Rice + 1 Smashed Tofu Package",
+    "section": "paket gajian"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Saos Gochujang Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Saos Bulgogi Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "30000",
+    "name": "Paket Ayam Geprek Saos Teriyaki Large",
+    "description": "Breast / Upper Thigh / Lower Thigh + White Rice",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "24300",
+    "name": "Large Ayam Geprek Saos Gochujang",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Saos Bulgogi Large - Tanpa Nasi",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "24300",
+    "name": "Ayam Geprek Saos Teriyaki Large - Tanpa Nasi",
+    "description": "Breast / Upper Thigh / Lower Thigh",
+    "section": "ayam geprek saos korea"
+  },
+  {
+    "price": "29190",
+    "name": "Paket Ayam Geprek Fillet",
+    "description": "Chicken Fillet + White Rice",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "29190",
+    "name": "Geprek Chicken Fillet Green Chili Package",
+    "description": "Chicken Fillet + White Rice",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "29190",
+    "name": "Paket Ayam Geprek Sambal Matah",
+    "description": "Chicken Fillet + White Rice",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet Cabe Ijo",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "31710",
+    "name": "Indomie Ayam Geprek Fillet Sambal Matah",
+    "description": "Chicken Fillet + Fried Indomie",
+    "section": "ayam geprek fillet"
+  },
+  {
+    "price": "35300",
+    "name": "Nasi Goreng Cumi Baby Asin",
+    "description": "Scrambled Eggs + Shredded Chicken + Squid Baby + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "35300",
+    "name": "Shrimp Fried Rice",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "42700",
+    "name": "Nasi Goreng Seafood",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Squid Baby + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "25100",
+    "name": "Village Fried Rice",
+    "description": "Scrambled Eggs + Shredded Chicken + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "27800",
+    "name": "Meatball Fried Rice",
+    "description": "Scrambled Eggs + Shredded Chicken + Meatballs + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "27800",
+    "name": "Nasi Goreng Sosis",
+    "description": "Scrambled Egg + Shredded Chicken + Sausage + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "32300",
+    "name": "Meatball Sausage Fried Rice",
+    "description": "Scrambled Eggs + Shredded Chicken + Sausage + Meatballs + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "32300",
+    "name": "Crazy Fried Rice",
+    "description": "Scrambled Eggs + Shredded Chicken + Sausage + Meatballs + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "32300",
+    "name": "Crazy Rice",
+    "description": "Scrambled Egg + Shredded Chicken + Sausage + Meatballs + Vegetables + White Rice",
+    "section": "fried rice"
+  },
+  {
+    "price": "30300",
+    "name": "Gizzard Liver Fried Rice",
+    "description": "Scrambled Eggs + Shredded Chicken + Liver Gizzard + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "30300",
+    "name": "Nasi Goreng Kornet",
+    "description": "Scrambled Egg + Shredded Chicken + Corn + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "29800",
+    "name": "Medan Anchovy Fried Rice",
+    "description": "Scrambled Egg + Shredded Chicken + Medan Anchovies + Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "35300",
+    "name": "Mie Goreng Cumi Baby Asin",
+    "description": "Scrambled Eggs + Shredded Chicken + Squid Baby + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "35300",
+    "name": "Shrimp Fried Noodles",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "42700",
+    "name": "Mie Goreng Seafood",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Squid Baby + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "25100",
+    "name": "Village Fried Noodles",
+    "description": "Scrambled Eggs + Shredded Chicken + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "27800",
+    "name": "Mie Goreng Sosis",
+    "description": "Scrambled Egg + Shredded Chicken + Sausage + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "27800",
+    "name": "Meatball Fried Noodles",
+    "description": "Scrambled Eggs + Shredded Chicken + Meatballs + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "32300",
+    "name": "Meatball Sausage Fried Noodles",
+    "description": "Scrambled Eggs + Shredded Chicken + Sausage + Meatballs + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "30300",
+    "name": "Gizzard Liver Fried Noodles",
+    "description": "Scrambled Eggs + Shredded Chicken + Liver Gizzard + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "30300",
+    "name": "Corned Fried Noodles",
+    "description": "Scrambled Egg + Shredded Chicken + Corn + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "29800",
+    "name": "Medan Anchovy Fried Noodles",
+    "description": "Scrambled Egg + Shredded Chicken + Medan Anchovies + Vegetables",
+    "section": "sauteed fried noodles"
+  },
+  {
+    "price": "35300",
+    "name": "Kwetiaw Goreng Cumi Baby Asin",
+    "description": "Scrambled Eggs + Shredded Chicken + Squid Baby + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "35300",
+    "name": "Kwetiaw Fried Shrimp",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "42700",
+    "name": "Kwetiaw Goreng Seafood",
+    "description": "Scrambled Egg + Shredded Chicken + Shrimp + Squid Baby + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "25100",
+    "name": "Village Fried Kwetiaw",
+    "description": "Scrambled Eggs + Shredded Chicken + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "27800",
+    "name": "Kwetiaw Goreng Sosis",
+    "description": "Scrambled Egg + Shredded Chicken + Sausage + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "27800",
+    "name": "Meatball Fried Kwetiaw",
+    "description": "Scrambled Eggs + Shredded Chicken + Meatballs + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "32300",
+    "name": "Kwetiaw Fried Sausage Meatballs",
+    "description": "Scrambled Eggs + Shredded Chicken + Sausage + Meatballs + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "30300",
+    "name": "Kwetiaw Goreng Kornet",
+    "description": "Scrambled Egg + Shredded Chicken + Corn + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "30300",
+    "name": "Kwetiaw Goreng Ati Ampela",
+    "description": "Scrambled Eggs + Shredded Chicken + Liver Gizzard + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "29800",
+    "name": "Kwetiaw Fried Anchovies Medan",
+    "description": "Scrambled Egg + Shredded Chicken + Medan Anchovies + Vegetables",
+    "section": "kwetiaw goreng"
+  },
+  {
+    "price": "11800",
+    "name": "Cabe Ijo",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "11800",
+    "name": "Sambal Geprek",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "11800",
+    "name": "Sambal Setan",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "8200",
+    "name": "Telor Ceplok / Dadar",
+    "description": "Fried / Omelette",
+    "section": "snacks"
+  },
+  {
+    "price": "8200",
+    "name": "White Rice",
+    "description": "1 Portion",
+    "section": "snacks"
+  },
+  {
+    "price": "7700",
+    "name": "Terong Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "7700",
+    "name": "Terong Geprek",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "7700",
+    "name": "Tempe Geprek",
+    "description": "6Pc",
+    "section": "snacks"
+  },
+  {
+    "price": "7700",
+    "name": "Smashed Tofu",
+    "description": "6Pc",
+    "section": "snacks"
+  },
+  {
+    "price": "3000",
+    "name": "Crackers",
+    "description": "1Pc",
+    "section": "snacks"
+  },
+  {
+    "price": "3000",
+    "name": "Tofu",
+    "description": "1Pc",
+    "section": "snacks"
+  },
+  {
+    "price": "3000",
+    "name": "Tempeh",
+    "description": "1Pc",
+    "section": "snacks"
+  },
+  {
+    "price": "7200",
+    "name": "Ice Good Day Moccacino",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11500",
+    "name": "Aqua 1500Ml",
+    "description": "1500Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8100",
+    "name": "Es Milo",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Es Nutrisari Jeruk Peras",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7200",
+    "name": "Teh Pucuk",
+    "description": "Pucuk Tea 350 Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Aqua 600 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Paket Ayam Bakar + Tempe Geprek",
+    "description": "1 Grilled Chicken Package + Smashed Tempeh",
+    "section": "paket hemat"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Package Of Smashed Fried Chicken With Green Chili + Fried Tempeh",
+    "description": "1 Smashed Chicken Package + 1 Smashed Tempeh Package",
+    "section": "paket hemat"
+  },
+  {
+    "price": "36920",
+    "name": "Ph Paket Ayam Kalasan + Tempe Geprek",
+    "description": "1 Free-Range Fried Rice + 1 Smashed Tempeh Package",
+    "section": "paket hemat"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "price": "10000",
+    "name": "𝐍𝐚𝐬𝐢 𝐏𝐮𝐭𝐢𝐡",
+    "description": "",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "12000",
+    "name": "𝐍𝐚𝐬𝐢 + 𝐒𝐚𝐲𝐮𝐫 + 𝐊𝐮𝐚𝐡 + 𝐒𝐚𝐦𝐛𝐞𝐥",
+    "description": "",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "20000",
+    "name": "𝐍𝐚𝐬𝐢 𝐏𝐞𝐫𝐤𝐞𝐝𝐞𝐥",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "20000",
+    "name": "𝐍𝐚𝐬𝐢 𝐓𝐞𝐥𝐮𝐫 𝐃𝐚𝐝𝐚𝐫",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "20000",
+    "name": "𝐍𝐚𝐬𝐢 𝐓𝐞𝐥𝐮𝐫 𝐆𝐮𝐥𝐚𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "20000",
+    "name": "𝐍𝐚𝐬𝐢 𝐓𝐞𝐥𝐮𝐫 𝐁𝐚𝐥𝐚𝐝𝐨",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Padang Ayam Bakar",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Padang Ayam Goreng",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Padang Ayam Gulai",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Padang Ayam Balado",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐌𝐮𝐣𝐚𝐢𝐫 𝐆𝐨𝐫𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐓𝐨𝐧𝐠𝐤𝐨𝐥 𝐁𝐚𝐥𝐚𝐝𝐨",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐋𝐞𝐥𝐞 𝐆𝐨𝐫𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐌𝐚𝐬 𝐆𝐮𝐥𝐚𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐊𝐞𝐦𝐛𝐮𝐧𝐠 𝐆𝐨𝐫𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐁𝐚𝐰𝐚𝐥 𝐁𝐚𝐤𝐚𝐫",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐊𝐞𝐧𝐭𝐚𝐧𝐠 𝐀𝐭𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "44000",
+    "name": "𝐍𝐚𝐬𝐢 𝐊𝐞𝐩𝐚𝐥𝐚 𝐊𝐚𝐤𝐚𝐩",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Padang Rendang",
+    "description": "",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐋𝐞𝐥𝐞 𝐁𝐚𝐤𝐚𝐫",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐌𝐚𝐬 𝐁𝐚𝐤𝐚𝐫",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐌𝐚𝐬 𝐆𝐨𝐫𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐊𝐞𝐦𝐛𝐮𝐧𝐠 𝐁𝐚𝐤𝐚𝐫",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐀𝐭𝐢 𝐒𝐚𝐩𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "26000",
+    "name": "𝐍𝐚𝐬𝐢 𝐋𝐢𝐦𝐩𝐚",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "28000",
+    "name": "𝐍𝐚𝐬𝐢 𝐏𝐚𝐫𝐮 𝐆𝐨𝐫𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "33000",
+    "name": "𝐍𝐚𝐬𝐢 𝐊𝐢𝐤𝐢𝐥 (𝔗𝔲𝔫𝔧𝔞𝔫𝔤)",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "33000",
+    "name": "𝐍𝐚𝐬𝐢 𝐂𝐢𝐧𝐜𝐚𝐧𝐠 𝐒𝐚𝐩𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "32000",
+    "name": "𝐍𝐚𝐬𝐢 𝐃𝐞𝐧𝐝𝐞𝐧𝐠",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "44000",
+    "name": "𝐍𝐚𝐬𝐢 𝐂𝐮𝐦𝐢",
+    "description": "𝕹𝖆𝖘𝖎 + 𝕷𝖆𝖚𝖐 +𝕾𝖆𝖞𝖚𝖗 + 𝕶𝖚𝖆𝖍 + 𝕾𝖆𝖒𝖇𝖊𝖑 𝕾𝖕𝖊𝖘𝖎𝖆𝖑 𝕶𝖍𝖆𝖘 𝕾𝖊𝖉𝖊𝖗𝖍𝖆𝖓𝖆 𝕸𝖎𝖓𝖆𝖓𝖌 \"𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕸𝖊𝖓𝖎𝖐𝖒𝖆𝖙𝖎\"",
+    "section": "nasi bungkus"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "10000",
+    "name": "Perkedel",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "10000",
+    "name": "Telur Dadar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "10000",
+    "name": "Telur Gulai",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "10000",
+    "name": "Telur Balado",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Bakar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Gulai",
+    "description": "",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ayam Balado",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Mujair Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Tongkol Balado",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Lele Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ikan Mas Gulai",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Kembung Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Kentang Ati",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ati Sapi",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "40000",
+    "name": "Kepala Kakap",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "10000",
+    "name": "𝐒𝐚𝐦𝐛𝐞𝐥 𝐇𝐢𝐣𝐚𝐮",
+    "description": "",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "8000",
+    "name": "Sayur Daun Singkong",
+    "description": "",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "20000",
+    "name": "Rendang",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Lele Bakar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ikan Mas Bakar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Ikan Mas Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Kembung Bakar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Bawal Bakar",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "19000",
+    "name": "Limpa Sapi",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "21000",
+    "name": "Paru Goreng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "22000",
+    "name": "Kikil (Tujang)",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "22000",
+    "name": "Cincang Sapi",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "22000",
+    "name": "Dendeng",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "40000",
+    "name": "Cumi",
+    "description": "Lauk Saja Tanpa Nasi Harga Satuan Bisa Request Sayur Sambel",
+    "section": "lauk (saja)"
+  },
+  {
+    "price": "7000",
+    "name": "Air Mineral 600Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es The Manis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Jeruk Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Teh Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Basreng level pedas",
+    "description": "Bakso goreng",
+    "section": "snack"
+  },
+  {
+    "price": "3000",
+    "name": "Kerupuk Putih",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "3000",
+    "name": "Kerupuk Udang",
+    "description": "Gurih & Renyah",
+    "section": "snack"
+  },
+  {
+    "price": "8000",
+    "name": "Kerupuk Kulit",
+    "description": "Gurih & Renyah",
+    "section": "snack"
+  },
+  {
+    "price": "7000",
+    "name": "Emping",
+    "description": "Gurih & Renyah",
+    "section": "snack"
+  },
+  {
+    "price": "31000",
+    "name": "Nasi Box Rendang",
+    "description": "Nasi + Sayur + Kuah + Sambel Spesial Khas Minang",
+    "section": "nasi box (kotak)"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Box Ayam",
+    "description": "",
+    "section": "nasi box (kotak)"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Box Ikan",
+    "description": "",
+    "section": "nasi box (kotak)"
+  }
+]

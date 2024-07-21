@@ -1,0 +1,560 @@
+[
+  {
+    "price": "45600",
+    "name": "Thanos",
+    "description": "Strawberry, Blueberry, Vanila, Lemon Juice, Soy Protein, Plantbased Milk 261Kcal",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Fruitfull",
+    "description": "Strawberry, Green Apple, Pineapple, Lemon Juice 74Kcal",
+    "section": "today's offer"
+  },
+  {
+    "price": "42000",
+    "name": "Pink Flamingo",
+    "description": "Fruit, Soursop, Lemon Juice, Plantbased-Milk 180Kcal",
+    "section": "today's offer"
+  },
+  {
+    "price": "1",
+    "name": "Kurang Puas? Lapor Klean Bowl Care!",
+    "description": "We Want To Always Make It Our Best Selling For Our Customers. Come To Us, Let'S Bake It. Kleanbowl Or Wa 08121221. Guarantee 100% Top!",
+    "section": "klean bowl care"
+  },
+  {
+    "price": "75000",
+    "name": "Tori Aburi Dry Ramen 453Kcal",
+    "description": "453Kcal; C: 60G, P:27G, F: 11G. Drink Ramen, Tori Aburi 100Gr, Seaweed, Sesame, Onion Sambal.",
+    "section": "tori aburi series"
+  },
+  {
+    "price": "75000",
+    "name": "Tori Aburi Don 392Kcal",
+    "description": "392Kcal; C:55G, P:25G, F:7G. Rice, Tori Aburi 100Gr, Seaweed, Sesame Seed, Sambal Bawang",
+    "section": "tori aburi series"
+  },
+  {
+    "price": "100000",
+    "name": "Rendang Fried Rice (Brown Rice) + Fruitfull",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "116000",
+    "name": "Rendang Fried Rice (Shirataki) + Fruitfull",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "104000",
+    "name": "Sg Fried Rice Shirataki + Black Swan",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "99000",
+    "name": "Beef Mentai + Yellow Lemonade",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "92000",
+    "name": "Nasi Tempong Shirataki + Pink Lemonade",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "110000",
+    "name": "Pasta Salmon + Thanos",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "95000",
+    "name": "Nasi Gila Shirataki + Fruitfull",
+    "description": "",
+    "section": "bundling promo"
+  },
+  {
+    "price": "43200",
+    "name": "Not Milk-Tea Shira Boba",
+    "description": "Tea, Plantbased Milk, Steara, Shirataki Boba 162Kcal",
+    "section": "klean cup series"
+  },
+  {
+    "price": "45600",
+    "name": "Thanos",
+    "description": "Strawberry, Blueberry, Vanila, Lemon Juice, Soy Protein, Plantbased Milk 261Kcal",
+    "section": "klean cup series"
+  },
+  {
+    "price": "42000",
+    "name": "Fruitfull",
+    "description": "Strawberry, Green Apple, Pineapple, Lemon Juice 74Kcal",
+    "section": "klean cup series"
+  },
+  {
+    "price": "42000",
+    "name": "Pink Flamingo",
+    "description": "Fruit, Soursop, Lemon Juice, Plantbased-Milk 180Kcal",
+    "section": "klean cup series"
+  },
+  {
+    "price": "50400",
+    "name": "Black Swan",
+    "description": "Strawberry, Aloevera, Black Yogurt, Lemon Juice, Plantbased-Milk 203 Kcal",
+    "section": "klean cup series"
+  },
+  {
+    "price": "28000",
+    "name": "Klean Latte 90Kcal",
+    "description": "100% Arabica Nusantara Plant Based Milk",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Klean Black 5Kcal",
+    "description": "100% Arabica Indonesian Style",
+    "section": "bottled drinks"
+  },
+  {
+    "price": "75000",
+    "name": "Skinny Mie Ayam (Ori) 469Kcal",
+    "description": "Vo9Kcal, C:40G, P:38G, F:18G. Green Noodle, Dumplings (2 Pcs), Minced Chicken, Beanco, Sprinkles.",
+    "section": "noodle series"
+  },
+  {
+    "price": "75000",
+    "name": "Skinny Mie Ayam (Yamien) 513Kcal",
+    "description": "513Kcal; C:50G, P:38G, F:18G Green Noodle, Dumpling (2Pcs), Minced Chicken, Bean Sprout, Pakcoy & Saus Yamin.",
+    "section": "noodle series"
+  },
+  {
+    "price": "75000",
+    "name": "Skinny Mie Ayam (Rica) 493Kcal",
+    "description": "493Kcal; C:3G, P:38G, F:18 Green Noodle, Dumplings (2Pcs), Minced Chicken, Beancot, Sauce Ricay Sauce.",
+    "section": "noodle series"
+  },
+  {
+    "price": "70000",
+    "name": "Fire Chicken Fried Rice",
+    "description": "Sangat Pedass!! Shirataki Rice 306Kcal C:13g, P:35g, F:13g / Brown Rice 462Kcal C:44g, P:38g, F:15g. Nasi goreng dengan potongan cabe rawit, rasa asin gurih, ayam, telur, dan sayuran.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Madura Fried Rice",
+    "description": "Shirataki Rice 345Kcal C:18g, P:28g, F:19g / Brown Rice 499Kcal C:38g, P:35g, F:24g. Nasi goreng dengan saos madura, ayam, sayuran dan telur.",
+    "section": "wok series"
+  },
+  {
+    "price": "85000",
+    "name": "X.O Seafood Fried Rice",
+    "description": "329Kcal. C:11G, P:22G, F:24G. Shirataki Fried Rice/445Kcal. C:4G, P.G. Example, Fried Rice: : Rice Portion Of Spicy Brown Sauce And Level 100Gr.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Rendang Fried Rice",
+    "description": "317Kcal. C:14G, P:29G, F: 17G. Shirataki Fried Rice / 42Kcal. C:3G, Pc:3G, Beef: Rendang Brown Rice, And Vegetables.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Crazy Rice",
+    "description": "367Kcal. C:15G, P:38G, F:18G. Shirataki Rice / 472Kcal. C:36G, P:41G, F:19G. Brown Rice, Topping Nasi Gila (100Gr Ayam), Acar, Telur.",
+    "section": "wok series"
+  },
+  {
+    "price": "80000",
+    "name": "Kway Teow Tek Tek 300Kcal",
+    "description": "C:28G, P:40G, F:18G. Shirataki Fried Kwetiaw, Savory Sweet Taste, With Chicken, Egg, And Vegetables.",
+    "section": "wok series"
+  },
+  {
+    "price": "80000",
+    "name": "Kwetiaw Siram Shirataki 312Kcal",
+    "description": "C:18G, P:26G, F:16G. Kwetiaw Shirataki With Poured Sauce And 100% Australian Low Fat Beef.",
+    "section": "wok series"
+  },
+  {
+    "price": "80000",
+    "name": "Char Kway Teow 350Kcal",
+    "description": "C:26G, P:28G, F:16G. Shirataki Fried Kwetiaw, Savory Sweet Taste, With 100% Australian Low Fat Beef.",
+    "section": "wok series"
+  },
+  {
+    "price": "80000",
+    "name": "Sg Char Kway Teow 301Kcal",
+    "description": "C: 12G, P:35G, F:13G. Shirataki Fried Kwetiaw, Savory Salty Taste, With Shrimp, Egg, And Vegetables.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Sg Fried Rice",
+    "description": "306Kcal. C:13G, P:35G, F:13G. Shirataki Fried Rice / 602Kcal. C:44G, P: 38G, Frozen Rice. Rice, Salted Chicken, Savory And Shrimp Flavors.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Klean Fried Rice",
+    "description": "350Kcal. C:25G, P:34G, F:13G. Shirataki Fried Rice/506Kcal. C:56G, Pc, P3G, Frozen: Fried Rice . Rice, Chicken, Savory And Eggs.",
+    "section": "wok series"
+  },
+  {
+    "price": "70000",
+    "name": "Beef Flush Rice",
+    "description": "366Kcal. C:18G, P:26G, F:23G. Shirataki Rice /-471Kcal. C:39G, Pc, P28, Frozen Rice : Low Fat And Brown Sauce.",
+    "section": "wok series"
+  },
+  {
+    "price": "110000",
+    "name": "Regular - Pasta Salmon 458Kcal",
+    "description": "C: 35G, P:37G, F: 19G. Pasta, Salmon, Edamame, Mushroom, Egg, Basil Pesto.",
+    "section": "regular size"
+  },
+  {
+    "price": "95000",
+    "name": "Regular - Salmon Mentai 503Kcal",
+    "description": "C: Vog, P:3G, F:20G. Brown Rice, Salmon Mentai, Edmame, Egg, Mushroom, Teriyaki Sauce.",
+    "section": "regular size"
+  },
+  {
+    "price": "80000",
+    "name": "Regular - Beef Mentai 503Kcal",
+    "description": "C:46G, P:35G, F:20G. Brown Rice, Beef Mentai, Edamame, Telur, Jamur, Teriyaki Sauce.",
+    "section": "regular size"
+  },
+  {
+    "price": "75000",
+    "name": "Regular - Ikan Bakar Jimbaran",
+    "description": "223Kcal. C:40G, P: 19G, F:8G. Shirataki Lime / 328Kcal. C:40G, P:21, Frozen Brown Rice, Grilled Sambal, Cucumber, Sambal, Tofu, Tempong, Cucumber.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Geprek Fit Dory 426Kcal",
+    "description": "C:35G, P:31G, F: 19G. Brown Rice, Grilled Dory, Tempeh, Kangkung, Egg, Crispy, Smashed Sambal.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Padang Fit Dory 413Kcal",
+    "description": "C:36G, P:26G, F: 19G. Brown Rice, Dory, Tofu, Long Egg, Crispy, Crispy Coconut Milk Free Curry, Green Sambal.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Pasta Dory Matah 391Kcal",
+    "description": "C:35G, P:28G, F:16G. Pasta, Dory, Tofu, Egg, Long Beans, Crunchy Bits, Matah Sambal.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Pasta Pesto Dory 413Kcal",
+    "description": "Pasta, Dory, Edamame, Tahu, Telur , Saos Pesto.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Ayam Cabe Ijo",
+    "description": "037Kcal. C:37G, P:4G, F:16G. Shirataki Lime / 478Kcal. C: 38G, P.44G, Frozen Brown Rice: Long Bean Sprouts, Chicken, Tempeh, Tofu, Tempeh, Crunchy Bits.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Nasi Tempong",
+    "description": "380Kcal. C:20G, P:42G, F:15G. Shirataki Rice / 805Kcal. C:4G, P: P:44G, F.16 Rice, Grilled Chicken, Tempeh, Tofu, Fried Onions.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Padang Fit 483Kcal",
+    "description": "C:36G, P:4G, F:20G. Brown Rice, Yellow Tofu, Long Beans, Scrambled Eggs, Crunchy Bits, Green Sambal, Coconut Milk Free Sugar.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Geprek Fit 464Kcal",
+    "description": "C:35G, P:16G, F:15G. Brown Rice, Grilled Chicken, Stir-Fried Tempeh, Kangkung, Egg, Crispy Topping, Shrimp Paste.",
+    "section": "regular size"
+  },
+  {
+    "price": "70000",
+    "name": "Regular - Skinny Limau",
+    "description": "334Kcal. C:16G, P:40G, F:12G. Shirataki Lime / 32Kcal. C:38G, P3G, Frozen: Frozen Brown Rice, Grilled Chicken, Cucumber, Matah Sambal, Matah Sambal.",
+    "section": "regular size"
+  },
+  {
+    "price": "105000",
+    "name": "Petite - Pasta Salmon 369Kcal",
+    "description": "C: 33G, P:29G, F:13G. Pasta, Salmon, Edmame, Basil Pesto Sauce.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Geprek Fit Dory 260Kcal",
+    "description": "C:31G, P:15G, F:8G. Brown Rice, Dory, Kangkung, Crunchy Bits, Smashed Sambal.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Padang Fit Dory 318Kcal",
+    "description": "C: 32G, P: 19G, F:13G. Brown Rice, Dory, Tofu, Crunchy, Coconut Milk Free Gulai, Green Sambal.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Pasta Dory Matah 285Kcal",
+    "description": "C:34G, P:18G, F: 8G. Pasta, Dory, Long Beans, Crunchy Bits, Matah Sambal.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Pasta Pesto Dory 324Kcal",
+    "description": "C: 33G, P:21G, F: 12G. Pasta, Dory, Edamame, Saos Pesto.",
+    "section": "petite size"
+  },
+  {
+    "price": "85000",
+    "name": "Petite - Salmon Mentai 408Kcal",
+    "description": "C: 44G, P:26G, F:14G. Brown Rice, Salmon Mentai, Edamame, Saos Teriyaki.",
+    "section": "petite size"
+  },
+  {
+    "price": "65000",
+    "name": "Petite - Beef Mentai 414Kcal",
+    "description": "C: 44G, P:28G, F:14G. Brown Rice, Beef Mentai, Edamame, Saos Teriyaki.",
+    "section": "petite size"
+  },
+  {
+    "price": "60000",
+    "name": "Grilled Fish With Shrimp Paste -",
+    "description": "173Kcal. C:15G, P:14G, F:6G. Shirataki 5 /777Kcal. C: 37G, Pc, Pc: 17, Frozen Brown Rice, Sambal Lontong, Sambal",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Ayam Cabe Ijo",
+    "description": "231Kcal. C: 11G, P:28G, F: 8G. Shirataki Lime / 336Kcal. C:3G, P:30G, Frozen Brown Rice, Long Beans, Sambal, Crunchy Bits.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Nasi Tempong",
+    "description": "255Kcal. C: 13G, P:31G, F:8G. Shirataki Rice / 360Kcal. C: 34G, P: 3 Egg, Frozen Brown Rice, Grilled Chicken, Sambal, Fried Onions.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Padang Fit 378Kcal",
+    "description": "C:32G, P:34G, F:14G. Brown Rice, Yellow Chicken, Tofu, Crispy Topping, Green Sambal, Coconut Milk Free Gulai.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Geprek Fit 298Kcal",
+    "description": "C:31G, P:31G, F:5G. Brown Rice, Grilled Chicken, Kangkung, Crispy, Smashed Sambal.",
+    "section": "petite size"
+  },
+  {
+    "price": "55000",
+    "name": "Petite - Skinny Limau",
+    "description": "260Kcal. C: 15G, P: 33G, F: 7G. Shirataki 5 / 354Kcal. C:3G, P:3G, Frozen Brown Rice, Grilled Chicken, Matah Sambal, Matah Sambal.",
+    "section": "petite size"
+  },
+  {
+    "price": "99000",
+    "name": "Truffle Salmon Mentai With Garlic Shirataki Rice 351Kcal",
+    "description": "C:15G, P:26G, F:22G. Garlic Shirataki Fried Rice With Salmon Mentai Dan Truffle Oil.",
+    "section": "truffle series"
+  },
+  {
+    "price": "70000",
+    "name": "Truffle Chicken Mentai With Garlic Shirataki Rice 344Kcal",
+    "description": "C:15G, P:33G, F:18G. Garlic Shirataki Fried Rice With Chicken Mentai Dan Truffle Oil.",
+    "section": "truffle series"
+  },
+  {
+    "price": "80000",
+    "name": "Truffle Beef Mentai With Garlic Shirataki Rice 357Kcal",
+    "description": "C:15G, P:28G, F:22G. Garlic Shirataki Fried Rice With Beef Mentai Dan Truffle Oil.",
+    "section": "truffle series"
+  },
+  {
+    "price": "68000",
+    "name": "Gyudon Matah",
+    "description": "330Kcal. C:3G, P:29G, F:20G. Shirataki Rice / 435Kcal. C:3G, P.3G:3G1, Frozen Brown Rice, Long Beans, Sambal, Matah Sambal.",
+    "section": "gyudon series"
+  },
+  {
+    "price": "68000",
+    "name": "Limau Gyudon Sambal Ijo",
+    "description": "311Kcal. C:10G, P:30G, F:18G. Shirataki Lime / 416Kcal. C:3G, P:32G, F. F. Brown Rice, Long Sz, Green Chilli, Cayenne, Egg.",
+    "section": "gyudon series"
+  },
+  {
+    "price": "68000",
+    "name": "Pasta Gyudon",
+    "description": "454Kcal. C:3G, P:34G, F:21G Matah Sambal / 428Kcal. C:3G, P:3G, Flour. Long Bean Sprouts, Sambal, Gyudon.",
+    "section": "gyudon series"
+  },
+  {
+    "price": "68000",
+    "name": "Gyudon Original",
+    "description": "304Kcal. C:9G, P:29G, F:18G. Shirataki Rice / 409Kcal. C:30G, P:32G, F:19G. Brown Rice, Slice Gyudon, Telur, Kacang Panjang, Cabe Bubuk.",
+    "section": "gyudon series"
+  },
+  {
+    "price": "200000",
+    "name": "Regular - Double Salmon",
+    "description": "2X Regular Salmon Bowls",
+    "section": "combo hemat regular size"
+  },
+  {
+    "price": "145000",
+    "name": "Regular - Chicken Beef",
+    "description": "2 Bowls Regular Size Of Chicken & Beef",
+    "section": "combo hemat regular size"
+  },
+  {
+    "price": "125000",
+    "name": "Regular - Double Chicken",
+    "description": "2X Regular Chicken Bowls",
+    "section": "combo hemat regular size"
+  },
+  {
+    "price": "170000",
+    "name": "Petite - Double Salmon",
+    "description": "2X Petite Salmon Bowls",
+    "section": "combo hemat petite size"
+  },
+  {
+    "price": "120000",
+    "name": "Petite - Chicken Beef",
+    "description": "2 Bowls Petite Size Of Chicken & Beef",
+    "section": "combo hemat petite size"
+  },
+  {
+    "price": "105000",
+    "name": "Petite - Double Chicken",
+    "description": "2X Petite Chicken Bowls",
+    "section": "combo hemat petite size"
+  },
+  {
+    "price": "70000",
+    "name": "Custom Regular Dory",
+    "description": "Choose 1 Base, Dory, 3 Side Dishes, 1 Topping, 1 Sauce.",
+    "section": "custom bowl"
+  },
+  {
+    "price": "85000",
+    "name": "Custom Regular Salmon",
+    "description": "Choose 1 Base, Salmon, 3 Side Dishes, 1 Topping, 1 Sauce.",
+    "section": "custom bowl"
+  },
+  {
+    "price": "75000",
+    "name": "Custom Regular Beef",
+    "description": "Choose 1 Base, Beef, 3 Side Dishes, 1 Topping, 1 Sauce.",
+    "section": "custom bowl"
+  },
+  {
+    "price": "70000",
+    "name": "Custom Regular Chicken",
+    "description": "Choose 1 Base, Grilled Chicken, 3 Side Dishes, 1 Topping, 1 Sauce.",
+    "section": "custom bowl"
+  },
+  {
+    "price": "30000",
+    "name": "Extra Grilled Chicken (Original)",
+    "description": "Extra Original Chicken 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "30000",
+    "name": "Extra Grilled Chicken (Ayam Kuning)",
+    "description": "Extra Yellow Chicken 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "30000",
+    "name": "Extra Grill Chicken (Ayam Bakar)",
+    "description": "Extra Grilled Chicken 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "30000",
+    "name": "Extra Dory",
+    "description": "Extra Dory Fish 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "60000",
+    "name": "Extra Grilled Salmon",
+    "description": "Extra Grilled Salmon",
+    "section": "adds on protein"
+  },
+  {
+    "price": "60000",
+    "name": "Extra Salmon Mentai",
+    "description": "Extra Mentai Salmon",
+    "section": "adds on protein"
+  },
+  {
+    "price": "45000",
+    "name": "Extra Gyudon Beef",
+    "description": "Extra Beef Gyudon 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "45000",
+    "name": "Extra Beef Mentai",
+    "description": "Extra Beef Mentai 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "30000",
+    "name": "Extra Grilled Fish",
+    "description": "Extra Jimbaran Grilled Fish 100Gr",
+    "section": "adds on protein"
+  },
+  {
+    "price": "20000",
+    "name": "Extra Shirataki Rice",
+    "description": "Extra Shirataki Rice 100Gr",
+    "section": "adds-on"
+  },
+  {
+    "price": "10000",
+    "name": "Extra Sauce",
+    "description": "Extra 1 Cup Sauce",
+    "section": "adds-on"
+  },
+  {
+    "price": "10000",
+    "name": "Extra Topping",
+    "description": "Extra 2X Toppings",
+    "section": "adds-on"
+  },
+  {
+    "price": "10000",
+    "name": "Extra Side Dish",
+    "description": "Extra 1 Macam Side Dish",
+    "section": "adds-on"
+  },
+  {
+    "price": "15000",
+    "name": "Extra Pasta",
+    "description": "Extra Pasta 100Gr",
+    "section": "adds-on"
+  },
+  {
+    "price": "15000",
+    "name": "Extra Brown Rice",
+    "description": "Extra Brown Rice 100Gr",
+    "section": "adds-on"
+  }
+]

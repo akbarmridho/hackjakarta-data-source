@@ -1,0 +1,152 @@
+[
+  {
+    "price": "54000",
+    "name": "Paket Hemat",
+    "description": "Porridge 2 Satay 4 (Random, Unless Quail Egg)",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Extra Chicken Porridge",
+    "description": "Gravy, Crackers, Chili Separately + Extra Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Special Chicken Porridge",
+    "description": "Gravy, Crackers, Chili Separately",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Regular Chicken Porridge",
+    "description": "Crackers, Gravy, Chili Separately",
+    "section": "today's offer"
+  },
+  {
+    "price": "155000",
+    "name": "Half Portion Of Chicken Porridge",
+    "description": "Porridge 4 Satay 8 Gravy 4",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "170000",
+    "name": "Special Chicken Porridge Savings Package",
+    "description": "Porridge 4 Satay 8 Aqua 4",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "190000",
+    "name": "Paket Hemat Bubur Ayam Exra Ayam Special",
+    "description": "Porridge 4 Satay 8 Aqua 4",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "150000",
+    "name": "Paket Hemat Kenyang Komplit",
+    "description": "Porridge 4 Satay 8 Can'T Request 4Th",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "22000",
+    "name": "Paket Husus Driver",
+    "description": "For Drivers",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "54000",
+    "name": "Paket Hemat",
+    "description": "Porridge 2 Satay 4 (Random, Unless Quail Egg)",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "31500",
+    "name": "Extra Chicken Porridge",
+    "description": "Gravy, Crackers, Chili Separately + Extra Chicken",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "27000",
+    "name": "Special Chicken Porridge",
+    "description": "Gravy, Crackers, Chili Separately",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "22500",
+    "name": "Regular Chicken Porridge",
+    "description": "Crackers, Gravy, Chili Separately",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "28000",
+    "name": "Chicken Porridge Half Extra Chicken",
+    "description": "Crackers, Gravy, Chili Separately",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "22000",
+    "name": "Special Half Chicken Porridge",
+    "description": "Half Portion",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "18000",
+    "name": "Half Portion Regular Chicken Porridge",
+    "description": "Half",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "12500",
+    "name": "Plain Porridge",
+    "description": "Plain For Gravy, Crackers, The Sauce Is Separated",
+    "section": "aneka bubur"
+  },
+  {
+    "price": "5000",
+    "name": "Quail Egg Satay",
+    "description": "Savory",
+    "section": "aneka sate ayam"
+  },
+  {
+    "price": "4000",
+    "name": "Chicken Liver Satay",
+    "description": "Savory",
+    "section": "aneka sate ayam"
+  },
+  {
+    "price": "4000",
+    "name": "Sate Kulit",
+    "description": "Savory",
+    "section": "aneka sate ayam"
+  },
+  {
+    "price": "4000",
+    "name": "Sate Usus",
+    "description": "Savory",
+    "section": "aneka sate ayam"
+  },
+  {
+    "price": "4000",
+    "name": "Sate Ampela",
+    "description": "Savory",
+    "section": "aneka sate ayam"
+  },
+  {
+    "price": "7000",
+    "name": "Aqua 300 Ml",
+    "description": "Cold Or Cold",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Crackers",
+    "description": "Savory",
+    "section": "aneka topping"
+  },
+  {
+    "price": "7000",
+    "name": "Emping",
+    "description": "Savory",
+    "section": "aneka topping"
+  }
+]

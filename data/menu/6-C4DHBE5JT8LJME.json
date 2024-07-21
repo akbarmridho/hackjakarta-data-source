@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "25000",
+    "name": "Iced Coffee Durian Blended (S )",
+    "description": "Fresh Blended Durian With Coconut Sugar Sprinkled With Vanilla Ice Cream Topping Plus Real Durian Meat And Espresso",
+    "section": "holiday deals"
+  },
+  {
+    "price": "24000",
+    "name": "Iced Coffee With Palm Sugar \"Coh Jepe\" Double Shot (S )",
+    "description": "Special Iced Coffee Request Ala \"Koh Jepe\" With Double Bajawa Flores Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "34000",
+    "name": "Iced Coffee With Palm Sugar \"Coh Jepe\" Double Shot (M)",
+    "description": "Special Iced Coffee Request Ala \"Koh Jepe\" With Double Bajawa Flores Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "39000",
+    "name": "Iced Coffee With Palm Sugar \"Coh Jepe\" Double Shot ( L )",
+    "description": "Special Iced Coffee Request Ala \"Koh Jepe\" With Double Bajawa Flores Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Coffee With Palm Sugar \"Coh Jepe\" (S )",
+    "description": "Special Iced Coffee Request Ala Koh Jepe With Flores Bajawa Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "29000",
+    "name": "Iced Coffee With Palm Sugar \"M Sugar\" (M)",
+    "description": "Special Iced Coffee Request Ala Koh Jepe With Flores Bajawa Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Coffee With Palm Sugar \"Coh Jepe\" ( L )",
+    "description": "Special Iced Coffee Request Ala Koh Jepe With Flores Bajawa Beans",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "22000",
+    "name": "Ice Coffee Milk \"Bang Alfan\" (S )",
+    "description": "Special Ice Coffee Of Bang Alafan, Freemilk + Espresso Beans Of Flores Bajawa + Coconut Sugar ( Non Creamer)",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "32000",
+    "name": "Ice Coffee Milk \"Bang Alfan\" (M )",
+    "description": "Es Kopi Susu Special Request Bang Alfan,Freshmilk + Espresso Beans Flores Bajawa + Gula Kelapa ( Non Creamer )",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "37000",
+    "name": "Ice Coffee Milk \"Bang Alfan\" ( L )",
+    "description": "Special Ice Coffee Of Bang Alafan, Freemilk + Espresso Beans Of Flores Bajawa + Coconut Sugar ( Non Creamer)",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "24000",
+    "name": "Iced Coffee Milk \"Coh Aming\" (S )",
+    "description": "Special Iced Coffee Request Ala Koh Aming With Freshmilk,Biji Mandheling Coffee + Coconut Sugar (Without Sugar)",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "34000",
+    "name": "Iced Coffee Milk \"Coh Aming\" (M )",
+    "description": "Special Iced Coffee Request Ala Koh Aming With Freshmilk,Biji Mandheling Coffee + Coconut Sugar (Without Sugar)",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "39000",
+    "name": "Iced Coffee Milk \"Coh Aming\" ( L )",
+    "description": "Special Iced Coffee Request Ala Koh Aming With Freshmilk,Biji Mandheling Coffee + Coconut Sugar (Without Sugar)",
+    "section": "special neighbors custom menu"
+  },
+  {
+    "price": "25000",
+    "name": "Icy Iced Coffee Milk Milo (S )",
+    "description": "Tetangga Milk Coffee Next To Milo Flavored With Milo Powder Ala Milo Milo",
+    "section": "coffee based"
+  },
+  {
+    "price": "29000",
+    "name": "Icy Iced Coffee Milk Milo (M)",
+    "description": "Tetangga Milk Coffee Next To Milo Flavored With Milo Powder Ala Milo Milo",
+    "section": "coffee based"
+  },
+  {
+    "price": "33000",
+    "name": "I Iced Coffee Milk Milo ( L )",
+    "description": "Tetangga Milk Coffee Next To Milo Flavored With Milo Powder Ala Milo Milo",
+    "section": "coffee based"
+  },
+  {
+    "price": "24000",
+    "name": "Savory Cheese Iced Coffee (S )",
+    "description": "Tetangga Milk Coffee Next To Macchiato With Savory Cheese Topping",
+    "section": "coffee based"
+  },
+  {
+    "price": "28000",
+    "name": "Savory Cheese Iced Coffee (M)",
+    "description": "Tetangga Milk Coffee Next To Macchiato With Savory Cheese Topping",
+    "section": "coffee based"
+  },
+  {
+    "price": "32000",
+    "name": "Savory Cheese Iced Coffee ( L )",
+    "description": "Tetangga Milk Coffee Next To Macchiato With Savory Cheese Topping",
+    "section": "coffee based"
+  },
+  {
+    "price": "26000",
+    "name": "Dark Moka Iced Coffee (S )",
+    "description": "Ice Coffee Milk With Real Dark Cocoa (Can Be Sweet Or Bitter Request)",
+    "section": "coffee based"
+  },
+  {
+    "price": "38000",
+    "name": "Dark Moka Iced Coffee (M)",
+    "description": "Ice Coffee Milk With Real Dark Cocoa (Can Be Sweet Or Bitter Request)",
+    "section": "coffee based"
+  },
+  {
+    "price": "43000",
+    "name": "I Iced Dark Moka Coffee ( L )",
+    "description": "Ice Coffee Milk With Real Dark Cocoa (Can Be Sweet Or Bitter Request)",
+    "section": "coffee based"
+  },
+  {
+    "price": "22000",
+    "name": "Ice Coffee Milk (S )",
+    "description": "Kopi Susu Tetangga Coffee Next To Rum Jama",
+    "section": "coffee based"
+  },
+  {
+    "price": "32000",
+    "name": "Ice Coffee Milk (M)",
+    "description": "Kopi Susu Tetangga Coffee Next To Rum Jama",
+    "section": "coffee based"
+  },
+  {
+    "price": "37000",
+    "name": "Ice Coffee Milk ( L )",
+    "description": "Kopi Susu Tetangga Coffee Next To Rum Jama",
+    "section": "coffee based"
+  },
+  {
+    "price": "26000",
+    "name": "Pandan Coffee Latte ( S )",
+    "description": "Pandan Latte With Espresso And Savory Coconut Sugar Ala Cendol Dawet",
+    "section": "coffee based"
+  },
+  {
+    "price": "39000",
+    "name": "Pandan Coffee Latte ( M )",
+    "description": "Pandan Latte With Espresso And Savory Coconut Sugar Ala Cendol Dawet",
+    "section": "coffee based"
+  },
+  {
+    "price": "44000",
+    "name": "Pandan Coffee Latte ( L )",
+    "description": "Pandan Latte With Espresso And Savory Coconut Sugar Ala Cendol Dawet",
+    "section": "coffee based"
+  },
+  {
+    "price": "25000",
+    "name": "Hazelnut Milk Coffee (S )",
+    "description": "Tetangga Milk Coffee Next To A Delicious Hazelnut Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "37500",
+    "name": "Hazelnut Milk Coffee (M)",
+    "description": "Tetangga Milk Coffee Next To A Delicious Hazelnut Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "42500",
+    "name": "Hazelnut Milk Coffee ( L )",
+    "description": "Tetangga Milk Coffee Next To A Delicious Hazelnut Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "25000",
+    "name": "Salted Caramel Iced Coffee Milk (S )",
+    "description": "Tetangga Coffee Milk Next To The Salted Caramel Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "37500",
+    "name": "Iced Coffee Milked Caramel (M)",
+    "description": "Tetangga Coffee Milk Next To The Salted Caramel Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "42500",
+    "name": "Iced Coffee Milked Caramel ( L )",
+    "description": "Tetangga Coffee Milk Next To The Salted Caramel Aroma",
+    "section": "coffee based"
+  },
+  {
+    "price": "20000",
+    "name": "Tetangga Iced Coffee Milk Yolk (S )",
+    "description": "Kopi Susu Tetangga Milk Coffee Next To A Beans Of Lalapan And Coconut Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "29000",
+    "name": "Tetangga Iced Coffee Milk (M)",
+    "description": "Kopi Susu Tetangga Milk Coffee Next To A Beans Of Lalapan And Coconut Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "33000",
+    "name": "Tetangga Iced Coffee Milk ( L )",
+    "description": "Kopi Susu Tetangga Milk Coffee Next To A Beans Of Lalapan And Coconut Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "20000",
+    "name": "Sspicy Milk Coffee With Palm Sugar (S )",
+    "description": "Milk Coffee Ice With Fragrant Palm Sugar And Creamy Milk",
+    "section": "coffee based"
+  },
+  {
+    "price": "29000",
+    "name": "Tgs Iced Coffee Milk With Palm Sugar (M)",
+    "description": "Milk Coffee Ice With Fragrant Palm Sugar And Creamy Milk",
+    "section": "coffee based"
+  },
+  {
+    "price": "33000",
+    "name": "Tgs Iced Coffee Milk With Palm Sugar - ( L )",
+    "description": "Milk Coffee Ice With Fragrant Palm Sugar And Creamy Milk",
+    "section": "coffee based"
+  },
+  {
+    "price": "23000",
+    "name": "Iced Coffee Milk Aceh Special Blend (S )",
+    "description": "Special Milk Coffee Ice Coffee With Beans Of Homebled A Mixture Of Delicious Aceh And Natural Sugar With Notes Of Chocolate",
+    "section": "coffee based"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Coffee Milk Aceh Special Blend (M)",
+    "description": "Special Milk Coffee Ice Coffee With Beans Of Homebled A Mixture Of Delicious Aceh And Natural Sugar With Notes Of Chocolate",
+    "section": "coffee based"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Coffee Milk Aceh Special Blend ( L )",
+    "description": "Special Milk Coffee Ice Coffee With Beans Of Homebled A Mixture Of Delicious Aceh And Natural Sugar With Notes Of Chocolate",
+    "section": "coffee based"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Coffee Milk 'Jadoel' (S )",
+    "description": "Jaduk-Style Milk Coffee With Carnation",
+    "section": "coffee based"
+  },
+  {
+    "price": "29000",
+    "name": "Iced Coffee Milk 'Jadoel' (M )",
+    "description": "Jaduk-Style Milk Coffee With Carnation",
+    "section": "coffee based"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Coffee Milk 'Jadoel' ( L )",
+    "description": "Jaduk-Style Milk Coffee With Carnation",
+    "section": "coffee based"
+  },
+  {
+    "price": "24000",
+    "name": "Kaffir Lima Sweet Milk Coffee (S )",
+    "description": "The Combination Of Spicy, Milk Combined With A Special Blend Of Coffee Seeds With The Hynt Aromatic Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "34500",
+    "name": "Kaffir Lima Sweet Milk Coffee (M)",
+    "description": "The Combination Of Spicy, Milk Combined With A Special Blend Of Coffee Seeds With The Hynt Aromatic Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "39500",
+    "name": "Kaffir Lima Sweet Milk Coffee ( L )",
+    "description": "The Combination Of Spicy, Milk Combined With A Special Blend Of Coffee Seeds With The Hynt Aromatic Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "24000",
+    "name": "Creamy Sweet Coffee With Milk (S )",
+    "description": "A Combination Of Creamy Flavors, Milk Coffee With A Special Blend Of Hyntik Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "34500",
+    "name": "Creamy Sweet Coffee With Milk (M )",
+    "description": "A Combination Of Creamy Flavors, Milk Coffee With A Special Blend Of Hyntik Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "39500",
+    "name": "Creamy Sweet Coffee With Dumplings ( L )",
+    "description": "A Combination Of Creamy Flavors, Milk Coffee With A Special Blend Of Hyntik Sweet And Legit Palm Sugar",
+    "section": "coffee based"
+  },
+  {
+    "price": "25000",
+    "name": "Fat Regal (S )",
+    "description": "Blended Regal With Salted Caramel Topping Vanilla Ice Cream Plus Regal Topping And Coconut Sugar",
+    "section": "bleded"
+  },
+  {
+    "price": "30000",
+    "name": "Family Regal ( M)",
+    "description": "Blended Regal With Salted Caramel Topping Vanilla Ice Cream Plus Regal Topping And Coconut Sugar",
+    "section": "bleded"
+  },
+  {
+    "price": "35000",
+    "name": "Fat Regal ( L )",
+    "description": "Blended Regal With Salted Caramel Topping Vanilla Ice Cream Plus Regal Topping And Coconut Sugar",
+    "section": "bleded"
+  },
+  {
+    "price": "24000",
+    "name": "Iced Coffee Milk Abouts Bleded (S )",
+    "description": "Blended Iced Coffee Ala Tetangga Plus Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "29000",
+    "name": "Iced Coffee Milk Abouts Bleded (M )",
+    "description": "Blended Iced Coffee Ala Tetangga Plus Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "34000",
+    "name": "Iced Coffee Milk Abouts Blended ( L )",
+    "description": "Blended Iced Coffee Ala Tetangga Plus Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "25000",
+    "name": "Iced Coffee With Coconut Milk Blended (S )",
+    "description": "Blended Iced Coffee Koh Aming Special Ala Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "30000",
+    "name": "Iced Coffee With Iced Koh Aming Bled (M)",
+    "description": "Blended Iced Coffee Koh Aming Special Ala Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "35000",
+    "name": "Iced Coffee With Coconut Milk Aming Blended ( L )",
+    "description": "Blended Iced Coffee Koh Aming Special Ala Tetangga",
+    "section": "bleded"
+  },
+  {
+    "price": "25000",
+    "name": "Choco Blackforest 2000 ( S )",
+    "description": "The Combination Of Delicious Chocolate With Strawberry Jam And Aroma Blackforest Plus Delicious Vanilla Ice Cream And A Sprinkling Of Savory Peanuts",
+    "section": "bleded"
+  },
+  {
+    "price": "30000",
+    "name": "Choco Blackforest 2000 ( M )",
+    "description": "The Combination Of Delicious Chocolate With Strawberry Jam And Aroma Blackforest Plus Delicious Vanilla Ice Cream And A Sprinkling Of Savory Peanuts",
+    "section": "bleded"
+  },
+  {
+    "price": "35000",
+    "name": "Choco Blackforest 2000 ( L )",
+    "description": "The Combination Of Delicious Chocolate With Strawberry Jam And Aroma Blackforest Plus Delicious Vanilla Ice Cream And A Sprinkling Of Savory Peanuts",
+    "section": "bleded"
+  },
+  {
+    "price": "21000",
+    "name": "Cookies N Cream ( S )",
+    "description": "A Combination Of Savory Milk With Oreo And Special Spices Plus A Creamy Vanilla Ice Cream",
+    "section": "bleded"
+  },
+  {
+    "price": "26000",
+    "name": "Cookies N Cream ( M )",
+    "description": "A Combination Of Savory Milk With Oreo And Special Spices Plus A Creamy Vanilla Ice Cream",
+    "section": "bleded"
+  },
+  {
+    "price": "30000",
+    "name": "Cookies N Cream ( L )",
+    "description": "A Combination Of Savory Milk With Oreo And Special Spices Plus A Creamy Vanilla Ice Cream",
+    "section": "bleded"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken N Rawins Caramel (S )",
+    "description": "Rum + Raisins + Caramel",
+    "section": "bleded"
+  },
+  {
+    "price": "29000",
+    "name": "Rum N Raisins Caramel ( M )",
+    "description": "Rum + Raisins + Caramel",
+    "section": "bleded"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken N Rawins Caramel ( L )",
+    "description": "Rum + Raisins + Caramel",
+    "section": "bleded"
+  },
+  {
+    "price": "33000",
+    "name": "Iced Coffee Durian Blended (M)",
+    "description": "Fresh Blended Durian With Coconut Sugar Sprinkled With Vanilla Ice Cream Topping Plus Real Durian Meat And Espresso",
+    "section": "bleded"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Coffee Durian Blended ( L )",
+    "description": "Fresh Blended Durian With Coconut Sugar Sprinkled With Vanilla Ice Cream Topping Plus Real Durian Meat And Espresso",
+    "section": "bleded"
+  },
+  {
+    "price": "28000",
+    "name": "Butter Sesame Iced Coffee (S )",
+    "description": "Premium Espressoes Combined With Savory Butter Avocado Juice Plus Ice Cream And Chocolate Sauce",
+    "section": "bleded"
+  },
+  {
+    "price": "42000",
+    "name": "Butter Sesame Iced Coffee (M)",
+    "description": "Premium Espressoes Combined With Savory Butter Avocado Juice Plus Ice Cream And Chocolate Sauce",
+    "section": "bleded"
+  },
+  {
+    "price": "46500",
+    "name": "Butter Sesame Iced Coffee ( L )",
+    "description": "Premium Espressoes Combined With Savory Butter Avocado Juice Plus Ice Cream And Chocolate Sauce",
+    "section": "bleded"
+  },
+  {
+    "price": "23000",
+    "name": "Honey Yuzu (S )",
+    "description": "A Blend Of Yuzu Orange Skin And Refreshing Honey",
+    "section": "fruit series"
+  },
+  {
+    "price": "25000",
+    "name": "Honey Yuzu (M)",
+    "description": "A Blend Of Yuzu Orange Skin And Refreshing Honey",
+    "section": "fruit series"
+  },
+  {
+    "price": "29000",
+    "name": "Honey Yuzu ( L )",
+    "description": "A Blend Of Yuzu Orange Skin And Refreshing Honey",
+    "section": "fruit series"
+  },
+  {
+    "price": "20000",
+    "name": "Orange Taped Sunboi (S )",
+    "description": "Sonkit Orange Juice, Tamarind, Red Kiamboi",
+    "section": "fruit series"
+  },
+  {
+    "price": "26000",
+    "name": "Orange Taped Sunboi (M)",
+    "description": "Sonkit Orange Juice, Tamarind, Red Kiamboi",
+    "section": "fruit series"
+  },
+  {
+    "price": "30000",
+    "name": "Orange Tamarid Sunboi ( L )",
+    "description": "Sonkit Orange Juice, Tamarind, Red Kiamboi",
+    "section": "fruit series"
+  },
+  {
+    "price": "21000",
+    "name": "Soothing Lemonberry ( S )",
+    "description": "Drinks With Natural Fruit Extract A Blend Of Fresh Strawberry Fruit And Lemon Added A Touch Of Mint Leaf Rice",
+    "section": "fruit series"
+  },
+  {
+    "price": "27000",
+    "name": "Soothing Lemonberry ( M )",
+    "description": "Drinks With Natural Fruit Extract A Blend Of Fresh Strawberry Fruit And Lemon Added A Touch Of Mint Leaf Rice",
+    "section": "fruit series"
+  },
+  {
+    "price": "31000",
+    "name": "Soothing Lemonberry ( L )",
+    "description": "Drinks With Natural Fruit Extract A Blend Of Fresh Strawberry Fruit And Lemon Added A Touch Of Mint Leaf Rice",
+    "section": "fruit series"
+  },
+  {
+    "price": "20000",
+    "name": "Sourpum Calbesi (S )",
+    "description": "Fresh, Real Sonkit Orange Juice, Lemon, Mint And Soup",
+    "section": "fruit series"
+  },
+  {
+    "price": "26000",
+    "name": "Sourpum Calbesi (M)",
+    "description": "Fresh, Real Sonkit Orange Juice, Lemon, Mint And Soup",
+    "section": "fruit series"
+  },
+  {
+    "price": "30000",
+    "name": "Sourpum Calbesi ( L )",
+    "description": "Fresh, Real Sonkit Orange Juice, Lemon, Mint And Soup",
+    "section": "fruit series"
+  },
+  {
+    "price": "25000",
+    "name": "Sourplum Lemonade With Pineapple Bits ( S )",
+    "description": "Fresh Lemon Juice Added With A Touch Of Mint Leaves, Soup And Pineapple Fruit Topping",
+    "section": "fruit series"
+  },
+  {
+    "price": "32000",
+    "name": "Sourplum Lemonade With Pineapple Bits ( M )",
+    "description": "Fresh Lemon Juice Added With A Touch Of Mint Leaves, Soup And Pineapple Fruit Topping",
+    "section": "fruit series"
+  },
+  {
+    "price": "35000",
+    "name": "Sourplum Lemonade With Pineapple Bits ( L )",
+    "description": "Fresh Lemon Juice Added With A Touch Of Mint Leaves, Soup And Pineapple Fruit Topping",
+    "section": "fruit series"
+  },
+  {
+    "price": "21000",
+    "name": "Marisa Aya (S )",
+    "description": "Enjoy The Freshness Of The Original Passion Fruit Combined With Lemon Mint And Sour Spring",
+    "section": "fruit series"
+  },
+  {
+    "price": "27000",
+    "name": "Passion Passionfruit (M)",
+    "description": "Enjoy The Freshness Of The Original Passion Fruit Combined With Lemon Mint And Sour Spring",
+    "section": "fruit series"
+  },
+  {
+    "price": "31000",
+    "name": "Passiond Lasa ( L )",
+    "description": "Enjoy The Freshness Of The Original Passion Fruit Combined With Lemon Mint And Sour Spring",
+    "section": "fruit series"
+  },
+  {
+    "price": "16000",
+    "name": "Americano ( S )",
+    "description": "Americanno, You Can Choose Beans (No Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "22500",
+    "name": "Americano ( M )",
+    "description": "Americanno, You Can Choose Beans (No Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "26500",
+    "name": "Americano ( L )",
+    "description": "Americanno, You Can Choose Beans (No Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "16000",
+    "name": "Black Coffee Ice (S )",
+    "description": "Black Coffee Ice Can Choose Beans (With Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "22500",
+    "name": "Black Coffee Ice (M)",
+    "description": "Black Coffee Ice Can Choose Beans (With Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "26500",
+    "name": "Black Coffee Ice ( L )",
+    "description": "Black Coffee Ice Can Choose Beans (With Sugar)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "22000",
+    "name": "Iced Coffee Latte ( S )",
+    "description": "Coffee Latte Can Be Requested Beans",
+    "section": "basic coffee"
+  },
+  {
+    "price": "25000",
+    "name": "Iced Coffee Latte ( M )",
+    "description": "Coffee Latte Can Be Requested Beans",
+    "section": "basic coffee"
+  },
+  {
+    "price": "29000",
+    "name": "Iced Coffee Latte ( L )",
+    "description": "Coffee Latte Can Be Requested Beans",
+    "section": "basic coffee"
+  },
+  {
+    "price": "26000",
+    "name": "Ice Shaken Latte ( S )",
+    "description": "Fresh Milk, Shake Espresso (Can Be Requested Beans)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "28000",
+    "name": "Ice Shaken Latte ( M )",
+    "description": "Fresh Milk, Shaken Espresso ( Bisa Request Beans )",
+    "section": "basic coffee"
+  },
+  {
+    "price": "32000",
+    "name": "Ice Shaken Latte ( L )",
+    "description": "Fresh Milk, Shake Espresso (Can Be Requested Beans)",
+    "section": "basic coffee"
+  },
+  {
+    "price": "24000",
+    "name": "Chocolate Latte (S )",
+    "description": "Original Dark Cocoa (Choose Sweet / Bitter)",
+    "section": "latte"
+  },
+  {
+    "price": "31000",
+    "name": "Chocolate Latte (M)",
+    "description": "Original Dark Cocoa (Choose Sweet / Bitter)",
+    "section": "latte"
+  },
+  {
+    "price": "35000",
+    "name": "Chocolate Latte ( L )",
+    "description": "Original Dark Cocoa (Choose Sweet / Bitter)",
+    "section": "latte"
+  },
+  {
+    "price": "24000",
+    "name": "Matcha Latte ( S )",
+    "description": "Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "31000",
+    "name": "Matcha Latte (M)",
+    "description": "Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "35000",
+    "name": "Matcha Latte ( L )",
+    "description": "Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "24000",
+    "name": "Houjicha Latte (S )",
+    "description": "Houjicha / Roasted Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "31000",
+    "name": "Houjicha Latte (M)",
+    "description": "Houjicha / Roasted Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "35000",
+    "name": "Houjicha Latte ( L )",
+    "description": "Houjicha / Roasted Matcha + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "24000",
+    "name": "Avocado Latte (S )",
+    "description": "Avocado + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "31000",
+    "name": "Avocado Latte (M)",
+    "description": "Avocado + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "35000",
+    "name": "Avocado Latte ( L )",
+    "description": "Avocado + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "24000",
+    "name": "Red Velvet Latte (S )",
+    "description": "Red Velvet + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "31000",
+    "name": "Red Velvet Latte (M)",
+    "description": "Red Velvet + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "35000",
+    "name": "Red Velvet Latte ( L )",
+    "description": "Red Velvet + Latte",
+    "section": "latte"
+  },
+  {
+    "price": "22000",
+    "name": "Iced Coffee Macchiato ( S )",
+    "description": "Kopi Susu Tetangga Coffee Next To The Creamy Flato Topping",
+    "section": "macchiato"
+  },
+  {
+    "price": "25000",
+    "name": "Iced Coffee Macchiato (M)",
+    "description": "Kopi Susu Tetangga Coffee Next To The Creamy Flato Topping",
+    "section": "macchiato"
+  },
+  {
+    "price": "29000",
+    "name": "Iced Coffee Macchiato ( L )",
+    "description": "Kopi Susu Tetangga Coffee Next To The Creamy Flato Topping",
+    "section": "macchiato"
+  },
+  {
+    "price": "23000",
+    "name": "Ice Coffee Rumcchiato ( S )",
+    "description": "Kopi Susu Tetangga Coffee Next To Macchiato With The Aroma Of Jamica Rum",
+    "section": "macchiato"
+  },
+  {
+    "price": "26000",
+    "name": "Ice Coffeerumchiato (M)",
+    "description": "Kopi Susu Tetangga Coffee Next To Macchiato With The Aroma Of Jamica Rum",
+    "section": "macchiato"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Coffeerumchiato ( L )",
+    "description": "Kopi Susu Tetangga Coffee Next To Macchiato With The Aroma Of Jamica Rum",
+    "section": "macchiato"
+  },
+  {
+    "price": "28000",
+    "name": "Matcha Macchiato (M)",
+    "description": "Matcha Latte With A Blend Of Creamy Macchiato Flavors",
+    "section": "macchiato"
+  },
+  {
+    "price": "32000",
+    "name": "Matcha Macchiato ( L )",
+    "description": "Matcha Latte With A Blend Of Creamy Macchiato Flavors",
+    "section": "macchiato"
+  },
+  {
+    "price": "29000",
+    "name": "Peachichiato Matcha (M)",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "33000",
+    "name": "Peachchiato Matcha ( L )",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "28000",
+    "name": "Houjicha Macchiato (M)",
+    "description": "Creamy Houjicha Drink Which Is Roasted Japanese Green Tea Plus A Savory Blend Of Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "32000",
+    "name": "Houjicha Macchiato ( L )",
+    "description": "Creamy Houjicha Drink Which Is Roasted Japanese Green Tea Plus A Savory Blend Of Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "29000",
+    "name": "Houjicha Gamchiato (M)",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "33000",
+    "name": "Houjicha Gamchiato ( L )",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "28000",
+    "name": "Chocolate Macchiato (M)",
+    "description": "Premium Chocolate Creamy Drink Plus A Savory Blend Of Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "32000",
+    "name": "Chocolate Macchiato ( L )",
+    "description": "Premium Chocolate Creamy Drink Plus A Savory Blend Of Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "29000",
+    "name": "Chocolate Butterchiato (M)",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "33000",
+    "name": "Chocolate Butterchiato ( L )",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "28000",
+    "name": "Avocado Macchiato (M)",
+    "description": "Creamy Avocado Drink Plus Savory Fla Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "32000",
+    "name": "Avocado Macchiato ( L )",
+    "description": "Creamy Avocado Drink Plus Savory Fla Machiato",
+    "section": "macchiato"
+  },
+  {
+    "price": "29000",
+    "name": "Avocadorumchiato (M)",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "33000",
+    "name": "Avocadorumchiato ( L )",
+    "description": "",
+    "section": "macchiato"
+  },
+  {
+    "price": "28000",
+    "name": "Red Velvet Macchiato (M)",
+    "description": "Red Velvet Latte With A Combination Of Creamy Macchiato Flavors",
+    "section": "macchiato"
+  },
+  {
+    "price": "32000",
+    "name": "Red Velvet Macchiato ( L )",
+    "description": "Red Velvet Latte With A Combination Of Creamy Macchiato Flavors",
+    "section": "macchiato"
+  },
+  {
+    "price": "23000",
+    "name": "Soya Iced Coffee Abouts (S )",
+    "description": "Soy Milk, Espresso (No Added Sugar Added)",
+    "section": "soy series"
+  },
+  {
+    "price": "33000",
+    "name": "Soya Iced Coffee Abouts (M)",
+    "description": "Soy Milk, Espresso (No Added Sugar Added)",
+    "section": "soy series"
+  },
+  {
+    "price": "38000",
+    "name": "Soya Iced Coffee Abouts ( L )",
+    "description": "Soy Milk, Espresso (No Added Sugar Added)",
+    "section": "soy series"
+  },
+  {
+    "price": "28000",
+    "name": "Soy Matcha Latte ( S )",
+    "description": "Soy Milk + Matcha",
+    "section": "soy series"
+  },
+  {
+    "price": "36000",
+    "name": "Soy Matcha Latte ( M )",
+    "description": "Soy Milk + Matcha",
+    "section": "soy series"
+  },
+  {
+    "price": "40000",
+    "name": "Latte Matcha ( L )",
+    "description": "Soy Milk + Matcha",
+    "section": "soy series"
+  },
+  {
+    "price": "28000",
+    "name": "Soy Houjicha Latte ( S )",
+    "description": "Soy Milk + Houjicha",
+    "section": "soy series"
+  },
+  {
+    "price": "36000",
+    "name": "Soy Houjicha Latte (M)",
+    "description": "Soy Milk + Houjicha",
+    "section": "soy series"
+  },
+  {
+    "price": "40000",
+    "name": "Soy Houjicha Latte ( L )",
+    "description": "Soy Milk + Houjicha",
+    "section": "soy series"
+  },
+  {
+    "price": "28000",
+    "name": "Latte Latte (S )",
+    "description": "Soy Milk + Dark Cocoa",
+    "section": "soy series"
+  },
+  {
+    "price": "36000",
+    "name": "Soy Chocolate Latte (M)",
+    "description": "Soy Milk + Dark Cocoa",
+    "section": "soy series"
+  },
+  {
+    "price": "40000",
+    "name": "Latte Latte ( L )",
+    "description": "Soy Milk + Dark Cocoa",
+    "section": "soy series"
+  },
+  {
+    "price": "28000",
+    "name": "Chicken Avocado Latte (S )",
+    "description": "Soy Milk + Avocado",
+    "section": "soy series"
+  },
+  {
+    "price": "36000",
+    "name": "Soup Avocado Latte ( M)",
+    "description": "Soy Milk + Avocado",
+    "section": "soy series"
+  },
+  {
+    "price": "40000",
+    "name": "Soy Avocado Latte ( L )",
+    "description": "Soy Milk + Avocado",
+    "section": "soy series"
+  },
+  {
+    "price": "28000",
+    "name": "Soy Red Velvet Latte (S )",
+    "description": "Soy Milk + Red Velvet",
+    "section": "soy series"
+  },
+  {
+    "price": "36000",
+    "name": "Soy Red Velvet Latte (M)",
+    "description": "Soy Milk + Red Velvet",
+    "section": "soy series"
+  },
+  {
+    "price": "40000",
+    "name": "Soy Red Velvet Latte ( L )",
+    "description": "Soy Milk + Red Velvet",
+    "section": "soy series"
+  },
+  {
+    "price": "17000",
+    "name": "Dumplings Steamed Dumpling (S )",
+    "description": "Nyegerin Fragrant Drink With A Sensation Of Yogurt Flavor From Yakol",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Crunchy Fruit Passion (M)",
+    "description": "Nyegerin Fragrant Drink With A Sensation Of Yogurt Flavor From Yakol",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Dumpling Fruit Steam ( L )",
+    "description": "Nyegerin Fragrant Drink With A Sensation Of Yogurt Flavor From Yakol",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Strawberry Yakult (S )",
+    "description": "Strawberries With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Strawberry Yakult (M)",
+    "description": "Strawberries With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Strawberry Yakult ( L )",
+    "description": "Strawberries With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Kiwi Yakult (S )",
+    "description": "Nyegerin Drink With Yogurt Flavor Sensation From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Kiwi Yakult (M)",
+    "description": "Nyegerin Drink With Yogurt Flavor Sensation From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Kiwi Yakult ( L )",
+    "description": "Nyegerin Drink With Yogurt Flavor Sensation From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Lychee Yakult (S )",
+    "description": "Lychee Nygerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Lychee Yakult (M)",
+    "description": "Lychee Nygerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Lychee Yakult ( L )",
+    "description": "Lychee Nygerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Mixberry Yakult (S )",
+    "description": "Nyegerin Mixberry Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Mixberry Yakult (M)",
+    "description": "Nyegerin Mixberry Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Mixberry Yakult ( L )",
+    "description": "Nyegerin Mixberry Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Mango Yakult (S )",
+    "description": "Mango Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Mango Yakult (M )",
+    "description": "Mango Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Mango Yakult ( L )",
+    "description": "Mango Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "17000",
+    "name": "Peach Yakult (S )",
+    "description": "Peach Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "21000",
+    "name": "Peach Yakult (M)",
+    "description": "Peach Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "25000",
+    "name": "Peach Yakult ( L )",
+    "description": "Peach Nyegerin Drink With A Sensation Of Yogurt Flavor From Yakolt",
+    "section": "steamed yakult"
+  },
+  {
+    "price": "27000",
+    "name": "Biscoff Creamy Latte ( S )",
+    "description": "Biscoff + Cream + Fresh Milk",
+    "section": "biscoff series"
+  },
+  {
+    "price": "36000",
+    "name": "Biscoff Creamy Latte ( M )",
+    "description": "Biscoff + Cream + Fresh Milk",
+    "section": "biscoff series"
+  },
+  {
+    "price": "41000",
+    "name": "Biscoff Creamy Latte ( L )",
+    "description": "Biscoff + Cream + Fresh Milk",
+    "section": "biscoff series"
+  },
+  {
+    "price": "29000",
+    "name": "Biscoff Coffee Latte ( S )",
+    "description": "Biscoff + Cream + Fresh Milk + Espresso",
+    "section": "biscoff series"
+  },
+  {
+    "price": "39000",
+    "name": "Biscoff Coffee Latte ( M )",
+    "description": "Biscoff + Cream + Fresh Milk + Espresso",
+    "section": "biscoff series"
+  },
+  {
+    "price": "45000",
+    "name": "Biscoff Coffee Latte ( L )",
+    "description": "Biscoff + Cream + Fresh Milk + Espresso",
+    "section": "biscoff series"
+  },
+  {
+    "price": "24000",
+    "name": "Mango Yoghurt Jelly ( S )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "29000",
+    "name": "Mango Yoghurt Jelly (M)",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "33000",
+    "name": "Mango Yoghurt Jelly ( L )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "24000",
+    "name": "Kiwi Yoghurt Jelly (S )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "29000",
+    "name": "Kiwi Yoghurt Jelly (M)",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "33000",
+    "name": "Kiwi Yoghurt Jelly ( L )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "24000",
+    "name": "Strawberry Yoghurt Jelly ( S )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "29000",
+    "name": "Strawberry Yoghurt Jelly ( M )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "33000",
+    "name": "Strawberry Yoghurt Jelly ( L )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "24000",
+    "name": "Mixberry Yoghurt Jelly ( S )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  },
+  {
+    "price": "29000",
+    "name": "Mixberry Yoghurt Jelly ( M )",
+    "description": "Drinks Yogurt With Fruit Juice With Chewy Jelly",
+    "section": "yoghurt series"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "price": "66000",
+    "name": "Beef Rice Noodles",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "66000",
+    "name": "Noodle Soup With Duck Soup",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "33000",
+    "name": "Yamin Cwei Noodle",
+    "description": "Without Gravy",
+    "section": "menu spesial"
+  },
+  {
+    "price": "33000",
+    "name": "Tim Rice",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "66000",
+    "name": "For Wimps Of Minced Beef",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "53000",
+    "name": "Curly Demie Char Siew",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "66000",
+    "name": "Curly Demie With Roasted Duck",
+    "description": "",
+    "section": "menu spesial"
+  },
+  {
+    "price": "75000",
+    "name": "A Complete Package Of Rubber Chicken",
+    "description": "Mie Karet + Mushroom Chicken + Boiled Free-Range Chicken",
+    "section": "mie karet"
+  },
+  {
+    "price": "55000",
+    "name": "Mushroom Chicken Curry",
+    "description": "Mie karet dengan topping Ayam Jamur",
+    "section": "mie karet"
+  },
+  {
+    "price": "55000",
+    "name": "Chewed Kampong Chicken Soup",
+    "description": "",
+    "section": "mie karet"
+  },
+  {
+    "price": "66000",
+    "name": "Curly Demie With Complete Chicken",
+    "description": "Curly Noodles + Mushroom Chicken + Boiled Free-Range Chicken",
+    "section": "mie keriting"
+  },
+  {
+    "price": "44000",
+    "name": "Demie Mushroom Chicken Curly",
+    "description": "Mie keriting dengan topping Ayam Jamur",
+    "section": "mie keriting"
+  },
+  {
+    "price": "44000",
+    "name": "Curly Demie With Boiled Kampong Chicken",
+    "description": "",
+    "section": "mie keriting"
+  },
+  {
+    "price": "13500",
+    "name": "Crispy Chicken Skin",
+    "description": "",
+    "section": "senex"
+  },
+  {
+    "price": "31000",
+    "name": "Beef Meatballs (5 Pcs)",
+    "description": "",
+    "section": "senex"
+  },
+  {
+    "price": "24000",
+    "name": "Pangsit Goreng Bebek (3 Pcs)",
+    "description": "",
+    "section": "senex"
+  },
+  {
+    "price": "20000",
+    "name": "Pangsit Goreng",
+    "description": "Pangsit Goreng kosongan",
+    "section": "senex"
+  },
+  {
+    "price": "45000",
+    "name": "Bakso Goreng",
+    "description": "",
+    "section": "senex"
+  },
+  {
+    "price": "27000",
+    "name": "Mie Hijau",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "26000",
+    "name": "Ekstra Ayam Kampung Rebus",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "26000",
+    "name": "Ekstra Ayam Jamur",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "42000",
+    "name": "Bebek Panggang",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "20000",
+    "name": "Ekstra Mie Keriting",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "33000",
+    "name": "Ekstra Mie Karet",
+    "description": "",
+    "section": "ekstra"
+  },
+  {
+    "price": "29000",
+    "name": "Ice Kaljer",
+    "description": "Orange Coconut + Coconut Meat",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Es Teh Manis",
+    "description": "Es Teh Manis Rasa Sereh",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25000",
+    "name": "Liang Teh",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "33000",
+    "name": "Jeruk Murni",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "33000",
+    "name": "Susu Kacang",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "24000",
+    "name": "Pudding Coconut",
+    "description": "",
+    "section": "manisan"
+  },
+  {
+    "price": "24000",
+    "name": "Pudding Monggo",
+    "description": "",
+    "section": "manisan"
+  },
+  {
+    "price": "128500",
+    "name": "Fore Frozen Yamin Cwie",
+    "description": "Description For 1 Box Contains 5 Portions By Frozen Consisting Of: Curly Noodles, Chicken Topping, Chili Sauce, Fried Onions, Sweet Soy Sauce And Icelel",
+    "section": "demie frozen"
+  },
+  {
+    "price": "188000",
+    "name": "Noodle Mix",
+    "description": "Untuk 1 Box Isi 5 Porsi DEMIE Frozen Terdiri Dari : - Mie Keriting -Topping Ayam Jamur & Ayam Kampung Rebus -Bumbu - Sambal - Minyak Garlic - Ice Gel",
+    "section": "demie frozen"
+  }
+]

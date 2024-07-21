@@ -1,0 +1,200 @@
+[
+  {
+    "price": "30875",
+    "name": "Juice Avocado Oreo ( Jus Alpukat )",
+    "description": "Juice Avocado+Ice Cream+Oreo",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Juice Avocado Milo ( Jus Alpukat )",
+    "description": "Juice avocado+Ice Cream+Milo",
+    "section": "today's offer"
+  },
+  {
+    "price": "30400",
+    "name": "Mango Nata De Coco (Jus Mango)",
+    "description": "Mango Juice + Ice Cream + Nata De Coco",
+    "section": "today's offer"
+  },
+  {
+    "price": "28980",
+    "name": "Mango Yogurt",
+    "description": "Potongan Mangga+Yakult",
+    "section": "today's offer"
+  },
+  {
+    "price": "29925",
+    "name": "Mango Yogurt Strawberry ( Jus Mangga )",
+    "description": "Potongan Mangga+Yakult+Strawberry Jam",
+    "section": "today's offer"
+  },
+  {
+    "price": "29440",
+    "name": "Juice Mango Thai ( Jus Mangga )",
+    "description": "Juice mangga+Ice Cream+Potongan Mangga",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Banana Strawberry",
+    "description": "perpaduan manis legitnya pisang + buah strawberry + susu strawberry + strawberry jam",
+    "section": "today's offer"
+  },
+  {
+    "price": "27550",
+    "name": "Strawberry Yogurt",
+    "description": "segarnya buah strawberry + yakult + strawberry jam",
+    "section": "today's offer"
+  },
+  {
+    "price": "29000",
+    "name": "Original Avocado Juice (Avocado Juice)",
+    "description": "Original Avocado Juice + Creamer + Decorated Chocolate Milk",
+    "section": "juice avocado"
+  },
+  {
+    "price": "30875",
+    "name": "Juice Avocado Oreo ( Jus Alpukat )",
+    "description": "Juice Avocado+Ice Cream+Oreo",
+    "section": "juice avocado"
+  },
+  {
+    "price": "30400",
+    "name": "Juice Avocado Milo ( Jus Alpukat )",
+    "description": "Juice avocado+Ice Cream+Milo",
+    "section": "juice avocado"
+  },
+  {
+    "price": "32500",
+    "name": "Juice Avocado Coffee ( Jus Alpukat )",
+    "description": "Juice avocado+Ice Cream+Coffee",
+    "section": "juice avocado"
+  },
+  {
+    "price": "32000",
+    "name": "Juice Avocado Tanz ( Jus Alpukat )",
+    "description": "Juice Avocado+Ice Cream+Ketan Fermentasi",
+    "section": "juice avocado"
+  },
+  {
+    "price": "32000",
+    "name": "Alpucok Yogurt Choco Crunch ( Alpukat Kocok )",
+    "description": "Daging Alpukat Dihancurkan+Yakult+Choco Crunch",
+    "section": "alpukat kocok"
+  },
+  {
+    "price": "32500",
+    "name": "Alpucok Yogurt Strawberry ( Alpukat Kocok )",
+    "description": "Daging Alpukat Dihancurkan+Yakult+Strawberry Jam",
+    "section": "alpukat kocok"
+  },
+  {
+    "price": "32000",
+    "name": "Alpucok Yogurt Milo ( Alpukat Kocok )",
+    "description": "Daging Alpukat Dihancurkan+Yakult+Milo",
+    "section": "alpukat kocok"
+  },
+  {
+    "price": "31000",
+    "name": "Alpucok Yogurt Jack ( Alpukat Kocok )",
+    "description": "Daging Alpukat Dihancurkan+Yakult+Potongan Nangka",
+    "section": "alpukat kocok"
+  },
+  {
+    "price": "30400",
+    "name": "Mango Nata De Coco (Jus Mango)",
+    "description": "Mango Juice + Ice Cream + Nata De Coco",
+    "section": "juice mango"
+  },
+  {
+    "price": "28980",
+    "name": "Mango Yogurt",
+    "description": "Potongan Mangga+Yakult",
+    "section": "juice mango"
+  },
+  {
+    "price": "29925",
+    "name": "Mango Yogurt Strawberry ( Jus Mangga )",
+    "description": "Potongan Mangga+Yakult+Strawberry Jam",
+    "section": "juice mango"
+  },
+  {
+    "price": "29440",
+    "name": "Juice Mango Thai ( Jus Mangga )",
+    "description": "Juice mangga+Ice Cream+Potongan Mangga",
+    "section": "juice mango"
+  },
+  {
+    "price": "29000",
+    "name": "Original Juice Mango (Coconut Juice)",
+    "description": "Original Juice Mango",
+    "section": "juice mango"
+  },
+  {
+    "price": "32500",
+    "name": "Juice Mango Jack ( Jus Mangga )",
+    "description": "Juice Mangga+Ice Cream+Potongan Nangka",
+    "section": "juice mango"
+  },
+  {
+    "price": "27550",
+    "name": "Banana Strawberry",
+    "description": "perpaduan manis legitnya pisang + buah strawberry + susu strawberry + strawberry jam",
+    "section": "banana smoothie"
+  },
+  {
+    "price": "27000",
+    "name": "Banana Taro",
+    "description": "perpaduan manis legitnya pisang + fresh milk taro",
+    "section": "banana smoothie"
+  },
+  {
+    "price": "28000",
+    "name": "Banana Nut",
+    "description": "perpaduan manis legitnya pisang + sensasi gurih biskuit kacang",
+    "section": "banana smoothie"
+  },
+  {
+    "price": "28000",
+    "name": "Korean Strawberry Milk",
+    "description": "",
+    "section": "strawberry series"
+  },
+  {
+    "price": "29000",
+    "name": "Korean Strawberry Milk",
+    "description": "Strawberry Fresh + Strawberry Jam + Fresh Milk",
+    "section": "strawberry series"
+  },
+  {
+    "price": "29000",
+    "name": "Strawberry Smoothie",
+    "description": "segarnya buah strawberry + susu strawberry + strawberry jam",
+    "section": "strawberry series"
+  },
+  {
+    "price": "27550",
+    "name": "Strawberry Yogurt",
+    "description": "segarnya buah strawberry + yakult + strawberry jam",
+    "section": "strawberry series"
+  },
+  {
+    "price": "33000",
+    "name": "Fresh Orange Juice",
+    "description": "air jeruk murni",
+    "section": "orenge (jeruk)"
+  },
+  {
+    "price": "26000",
+    "name": "Potato Meat Ball",
+    "description": "Daging Kentang+Daging Sapi+Sambal ( 7 Pcs Balls )",
+    "section": "makanan sehat"
+  },
+  {
+    "price": "26000",
+    "name": "Banana Choco Ball",
+    "description": "Daging Pisang+Choco Crunch ( 7 Pcs Balls )",
+    "section": "makanan sehat"
+  }
+]

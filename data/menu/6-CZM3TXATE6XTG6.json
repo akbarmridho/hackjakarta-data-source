@@ -1,0 +1,596 @@
+[
+  {
+    "price": "25000",
+    "name": "Mie Ayam ( Yamin Komplit )",
+    "description": "Noodles + 2 Beef Meatballs + 2 Boiled Dumplings + Chopped Chicken + Mustard Greens + Soas + Separated Gravy Sauce (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Ayam ( Komplit )",
+    "description": "Noodles + 2 Beef Meatballs + 2 Boiled Dumplings + Chopped Chicken + Mustard Greens + Soas + Separated Gravy Sauce (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Noodles (Special Meatball)",
+    "description": "Noodles + 3 Beef Meatballs + Chopped Chicken + Mustard Greens + Soas + Separate Gravy Sauce (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Ayam ( Pangsit Goreng )",
+    "description": "Noodles + Fried Dumplings + Chopped Chicken + Mustard Greens + Soas + Separated Gravy Sauce (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Ayam ( Pangsit Rebus )",
+    "description": "Noodles + 3 Boiled Dumplings + Chopped Chicken + Mustard Greens + Soas + Separate Gravy Sauce (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "24000",
+    "name": "Plain Chicken Noodles",
+    "description": "Noodles + Cinjang Chicken + Mustard Greens + Soas + Gravy Sauce Separated (Halal)",
+    "section": "mie ayam sumiyati ðÿ"
+  },
+  {
+    "price": "60000",
+    "name": "Buy 1 Get 1 Free ( Mie Ayam Yamin Komplit )",
+    "description": "Buy 1 Get 1 Free",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiau ( Komplit )",
+    "description": "Kwetiau + 2 Beef Meatballs + 2 Boiled Dumplings + Chopped Chicken + Mustard Greens + Soas + Separated Gravy Sauce (Halal)",
+    "section": "chicken rice noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Rice Noodles (Special Meatballs)",
+    "description": "Kwetiau + 3 Beef Meatballs + Chopped Chicken + Mustard Greens + Soas + Separate Gravy Sauce (Halal)",
+    "section": "chicken rice noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiau ( Pangsit Goreng )",
+    "description": "Kwetiau + 3 Fried Dumplings + Chopped Chicken + Mustard Greens + Soas + Separated Gravy Sauce (Halal)",
+    "section": "chicken rice noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetia (Boiled Dumplings)",
+    "description": "Kwetiau + Cinjang Chicken + Mustard Greens + 3 Boiled Dumplings",
+    "section": "chicken rice noodle"
+  },
+  {
+    "price": "23000",
+    "name": "Kwetiau Ayam ( Polos )",
+    "description": "Kwetiau + Boiled + Mustard Greens + Chopped Chicken",
+    "section": "chicken rice noodle"
+  },
+  {
+    "price": "4000",
+    "name": "White Crackers",
+    "description": "1Pc Of White Crackers",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Pangsit Goreng",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Pangsit Rebus",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "6000",
+    "name": "Extra Ceker Pedes Oy Oy",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Soy Sauce Chicken Feet",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "7500",
+    "name": "Extra Dumpling Ayam",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "7800",
+    "name": "Extra Cheese Dumplings",
+    "description": "1Pcs",
+    "section": "extra"
+  },
+  {
+    "price": "20000",
+    "name": "Complete Chicken Noodles",
+    "description": "",
+    "section": "wednesday discount strike"
+  },
+  {
+    "price": "13000",
+    "name": "Es Milo",
+    "description": "Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "es teh manis gula murnih",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Panas",
+    "description": "Not So Delicious?",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Medium Aqua",
+    "description": "Drink Before Hainanese?",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Pucuk",
+    "description": "Refresh Your Body ?",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Peeled Whole Round Coconut Ice",
+    "description": "1Pcs",
+    "section": "es kelapa. muda"
+  },
+  {
+    "price": "19500",
+    "name": "Young Coconut Ice + Orange",
+    "description": "Fresh",
+    "section": "es kelapa. muda"
+  },
+  {
+    "price": "18500",
+    "name": "Es Jerruk",
+    "description": "Fresh",
+    "section": "es kelapa. muda"
+  },
+  {
+    "price": "10000",
+    "name": "Es Kelapa Muda Oy Oy",
+    "description": "S3Gar",
+    "section": "es kelapa. muda"
+  },
+  {
+    "price": "37000",
+    "name": "Full Fresh Fruit Slices 650Ml",
+    "description": "The Full Fruit, Definitely Fresh",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "Sweet Fragrant Mango Cut 650Ml",
+    "description": "Fresh Mango Is Still Fresh Guaranteed To Taste Delicious",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "650Ml Cut Dragon Fruit",
+    "description": "The Spinach Is Still Fresh",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "32000",
+    "name": "Milon Potong 650Ml",
+    "description": "Fresh Milon Guaranteed Still Fresh",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "Belimbing Potong 650Ml",
+    "description": "Fresh Fruit",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "Banana Cut 650Ml",
+    "description": "Natural Fresh Fruit Pieces",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "33000",
+    "name": "Pepaya Potong",
+    "description": "buah segar pilihan",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "36000",
+    "name": "Discounts All Fruit",
+    "description": "The Spinach Is Good For The Body Health",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "Nanas Potong 650Ml",
+    "description": "Good Pineapple Fruit For Body Health",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "33000",
+    "name": "650Ml Cut Watermelon",
+    "description": "",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "48000",
+    "name": "Kaiwi Potong 650Ml",
+    "description": "Kiwi Good Maintaining Body Healthy",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "34000",
+    "name": "Appel Puji Potong 650Ml",
+    "description": "Vitamins Spin Spinach In Fresh Fruit",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "35000",
+    "name": "Appell Mirah Potong 650Ml",
+    "description": "",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "56000",
+    "name": "Red Wine Cut 650Ml",
+    "description": "",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "35000",
+    "name": "Jambu Kristal Potong 650Ml",
+    "description": "Guaranteed Fresh Fresh Fruit",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "43000",
+    "name": "Sankis Potong 650Ml",
+    "description": "Guaranteed To Eat",
+    "section": "cut fruit 650ml"
+  },
+  {
+    "price": "38400",
+    "name": "Jus Wartel ( Botol 500Ml )",
+    "description": "(Fill 500Ml Bottle)",
+    "section": "jus botol beton ( botol 500ml )"
+  },
+  {
+    "price": "39000",
+    "name": "Jus Terong Belanda ( Botol 500Ml )",
+    "description": "(Fill 500Ml Bottle)",
+    "section": "jus botol beton ( botol 500ml )"
+  },
+  {
+    "price": "20000",
+    "name": "Cucumber Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "22600",
+    "name": "Jus Alpukat Mentega",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "24000",
+    "name": "Sweet Fragrant Mango Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Juice Anggur",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Watermelon Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "24000",
+    "name": "Jus Kiwi",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "25000",
+    "name": "Sunkist Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Belimbing",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Wartel",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Lemon Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Jerruk",
+    "description": "Cap 16.Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Appel",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Jus Stoberry",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Banana Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Jambu Mirah",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Pineapple Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Sirsak",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Dragon Fruit Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Milon Juice",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Terong Belanda",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "22002",
+    "name": "Jus Tomat",
+    "description": "16Oz",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Pier Madu",
+    "description": "Fresh Pear Fruit Juice Helps Maintain Body Weight",
+    "section": "juice"
+  },
+  {
+    "price": "23000",
+    "name": "Jus Pepaya",
+    "description": "The Taste Of Shelf Life Is Increased, Especially When One Consists Of Cold And Cold",
+    "section": "juice"
+  },
+  {
+    "price": "29900",
+    "name": "Special Fruit Soup",
+    "description": "Fresh Fruit Definitely Fresh",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "29800",
+    "name": "Mango Soup",
+    "description": "It'S Definitely Fresh Like The Regular Mix Of All Fruit Choices",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "29800",
+    "name": "Fruit Soup Mixed With All Fruit",
+    "description": "A Mixture Of Fresh Fruit Rich In Abc",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "28500",
+    "name": "Dragon Fruit Soup",
+    "description": "Fruit Mix + Apple + Kiwi + Watermelon + Pineapple + Oranges + Sankis",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "29000",
+    "name": "White Milk Fruit Soup",
+    "description": "The Fruit Fresh",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "29800",
+    "name": "Avocado Fruit Soup",
+    "description": "Pineapple + Setobbry + Mango + Milon + Watermelon + Kiwi + Sankis + Ice + Sweet Potato Milk + Pure Sugar",
+    "section": "various fruit soups, chopped fruit juices"
+  },
+  {
+    "price": "35000",
+    "name": "Alpukat Kerrok Oreo",
+    "description": "Avocado In The Super Thickness Added With Special Broth + Oren Topping",
+    "section": "scrape avocado"
+  },
+  {
+    "price": "35000",
+    "name": "Alpukat Kerrok Milo",
+    "description": "Avocado Made In Super Spinach, Added With Special Broth",
+    "section": "scrape avocado"
+  },
+  {
+    "price": "34000",
+    "name": "Alpukat Kerrok Susu",
+    "description": "Avocado Made In Super Spinach, Added With Special Broth",
+    "section": "scrape avocado"
+  },
+  {
+    "price": "35000",
+    "name": "Special Avocado Shake",
+    "description": "Avocado Made In Super Spinach, Added With Special Broth",
+    "section": "scrape avocado"
+  },
+  {
+    "price": "35000",
+    "name": "Alpukat Kerrok Keju Parut",
+    "description": "Avocado Made In Super Spinach, Added With Special Broth",
+    "section": "scrape avocado"
+  },
+  {
+    "price": "17000",
+    "name": "Treat Driver (Complete Chicken Noodle)",
+    "description": "This Food For Your Dressing ( Thank You For Shareing Your Snack By Purchasing Korean Grab. Enjoying Your Blessing Even More..",
+    "section": "treat driver"
+  },
+  {
+    "price": "7000",
+    "name": "Traktir Drever ( Minum Teh Pucuk )",
+    "description": "This Drink Is For Your Dressing ( Thank You For Shareing Your Snack By Purchasing Drink. Enjoying Your Blessing Even More..",
+    "section": "treat driver"
+  },
+  {
+    "price": "27000",
+    "name": "Lele Goreng + Nasi",
+    "description": "Catfish + Lalapan + Sauce",
+    "section": "smashed chicken"
+  },
+  {
+    "price": "29500",
+    "name": "Smashed Chicken + Rice",
+    "description": "Smashed Chicken + Rice + Lalapan + Sambal",
+    "section": "smashed chicken"
+  },
+  {
+    "price": "29500",
+    "name": "Fried Chicken + Rice",
+    "description": "Fried Chicken + Rice + Mancumber + Lalapan + Sambal",
+    "section": "smashed chicken"
+  },
+  {
+    "price": "29000",
+    "name": "Chicken Pecel + Rice",
+    "description": "Fried Chicken + Lalapan + Sambal + Cabbage + Rice",
+    "section": "smashed chicken"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Ayam ( Dumpling + Keju )",
+    "description": "Noodles + 3 Dumplings Cheese + Chopped Chicken + Mustard Greens + Soas + Separate Gravy Sauce (Halal)",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Ayam ( Dumpling + Ayam )",
+    "description": "Noodles + Chopped Chicken + 3 Chicken Dumplings + Sambal Sauce + Mustard Greens",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "20000",
+    "name": "Mie Ayam ( Yamin Komplit )",
+    "description": "mie ayam komplit",
+    "section": "start from 10k"
+  },
+  {
+    "price": "31000",
+    "name": "Meatballs + Cheese",
+    "description": "",
+    "section": "tendon meatballs are a baby meatballs with ribs"
+  },
+  {
+    "price": "31000",
+    "name": "Oy Oy Egg Meatballs",
+    "description": "",
+    "section": "tendon meatballs are a baby meatballs with ribs"
+  },
+  {
+    "price": "31000",
+    "name": "Bakso Indomie Goreng",
+    "description": "",
+    "section": "tendon meatballs are a baby meatballs with ribs"
+  },
+  {
+    "price": "31000",
+    "name": "Boiled Indomie Meatballs",
+    "description": "",
+    "section": "tendon meatballs are a baby meatballs with ribs"
+  },
+  {
+    "price": "31000",
+    "name": "Big Smooth Meatballs",
+    "description": "4 + Smooth Meatballs Mieh Celery Tofu",
+    "section": "tendon meatballs are a baby meatballs with ribs"
+  },
+  {
+    "price": "32000",
+    "name": "Special Ketoprak",
+    "description": "",
+    "section": "ketoprak"
+  },
+  {
+    "price": "32000",
+    "name": "Ketoprak Sunny Side Up Eggs",
+    "description": "",
+    "section": "ketoprak"
+  },
+  {
+    "price": "32000",
+    "name": "Ketoprak Telor Dadar",
+    "description": "",
+    "section": "ketoprak"
+  },
+  {
+    "price": "20000",
+    "name": "Mie Ayam ( Yamin Komplit )",
+    "description": "",
+    "section": "chicken promo week"
+  }
+]

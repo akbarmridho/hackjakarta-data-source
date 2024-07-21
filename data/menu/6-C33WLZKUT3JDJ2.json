@@ -1,0 +1,219 @@
+[
+  {
+    "price": "40000",
+    "name": "Balinese Dance Nuts",
+    "description": "",
+    "section": "peanuts"
+  },
+  {
+    "price": "15000",
+    "name": "Balinese Peanuts",
+    "description": "Choose A Flavor: Salty, Original, Spicy, Sweet And Medan Peanuts",
+    "section": "peanuts"
+  },
+  {
+    "price": "15000",
+    "name": "Paket Hemat Coffle (Ice Americano + Waffle)",
+    "description": "",
+    "section": "bundling"
+  },
+  {
+    "price": "23000",
+    "name": "Keripik Jongkeng",
+    "description": "Flavors: Macaroni Spicy, Macaroni Origi",
+    "section": "food"
+  },
+  {
+    "price": "90000",
+    "name": "Milkfish Juwana Presto",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "100000",
+    "name": "Milkfish Juwana Smoke",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "40000",
+    "name": "Dodol Picnic 250 G",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Coffle 2 Pcs",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Ice/Hot Leychee Tea",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "12000",
+    "name": "Ice Lemon Tea",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Mocca Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Caramel Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Taro Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Matcha Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Vanila Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Coffee Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "25000",
+    "name": "Ice Americano",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Chocolate",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "30000",
+    "name": "Ice Capucino",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "35000",
+    "name": "Ice Hazelnut Latte",
+    "description": "",
+    "section": "ice"
+  },
+  {
+    "price": "25000",
+    "name": "Mocca Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Caramel Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Taro Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Matcha Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Vanilla Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Hot Chocolate",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Coffee Lattee",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "30000",
+    "name": "Hazelnut Latte",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "25000",
+    "name": "Capuccino",
+    "description": "",
+    "section": "hot"
+  },
+  {
+    "price": "20000",
+    "name": "Americano/Longblack",
+    "description": "",
+    "section": "hot"
+  },
+  { "price": "18000", "name": "Expresso", "description": "", "section": "hot" },
+  {
+    "price": "8000",
+    "name": "Honey Nipis",
+    "description": "",
+    "section": "soft drink"
+  },
+  {
+    "price": "6000",
+    "name": "Lee Mineral 330Ml",
+    "description": "Small Size",
+    "section": "soft drink"
+  },
+  {
+    "price": "8000",
+    "name": "Hydrococo 250Ml",
+    "description": "",
+    "section": "soft drink"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Kotak Sosro",
+    "description": "",
+    "section": "soft drink"
+  },
+  {
+    "price": "12000",
+    "name": "Teh Pucuk",
+    "description": "",
+    "section": "soft drink"
+  },
+  {
+    "price": "8000",
+    "name": "Air Mineral",
+    "description": "Depends On The Available Stock: Lee Mineral Or Prima",
+    "section": "soft drink"
+  }
+]

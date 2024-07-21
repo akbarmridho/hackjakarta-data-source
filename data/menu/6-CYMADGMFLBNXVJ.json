@@ -1,0 +1,812 @@
+[
+  {
+    "price": "45000",
+    "name": "Buy 1 Get 1 Paket Tokubetsu 3 Free Omuretsu Maki",
+    "description": "Beli Paket Tokubetsu 3 Gratis Omuretsu Maki",
+    "section": "today's offer"
+  },
+  {
+    "price": "65000",
+    "name": "Buy 1 Get 1 Paket Paket Tanoshii C Free Kappa Maki",
+    "description": "Beli Paket Tanoshii C Gratis Kappa Maki",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 3",
+    "description": "Sunset Roll, Salmon Beef Volcano, Godzilla Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "100000",
+    "name": "Konzatsu 1",
+    "description": "Exciting Rame-Rame: Salmon Volcano, Salmon Maki, Golden Gate, Tuna Volcano, Tuna Maki, Triple Heaven",
+    "section": "today's offer"
+  },
+  {
+    "price": "117500",
+    "name": "Konzatsu 2",
+    "description": "Exciting Rame-Rame: Top Of Gun Roll, Dory Lencano Roll, Classic Crispy Roll, Spicy Tuna Sausage, Chicken Teriyaki Roll, California Roll, Roll Preservatives, Sushi Rolls",
+    "section": "today's offer"
+  },
+  {
+    "price": "117500",
+    "name": "Konzatsu 3",
+    "description": "Exciting Rame-Rame: Ebi Tempura Roll, Ebi Cheese Roll, Spring Roll, Classic Crispy Roll, Salmon Maki, Salmon Volcano, Tuna Maki",
+    "section": "today's offer"
+  },
+  {
+    "price": "120000",
+    "name": "Shisso 1",
+    "description": "Ramean Package : California Beef Roll, Beef Chicken Roll, Beef Maki, Salmon Beef Jelly, Tuna Beef Sucano, Tuna Beefcono, Beef Cheese Roll, Beef Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "140000",
+    "name": "Shisso 2",
+    "description": "Ramean Package : Salmon Beef Volcano, Salmon Cheese, Sunrise Roll, Salmon Volcano, Salmon Maki, Dory Supple Roll, Frary Roll, Frary Roll, Dory Roll, Omsu Maki Makimur Maki",
+    "section": "today's offer"
+  },
+  {
+    "price": "175000",
+    "name": "Shisso 3",
+    "description": "Ramean Package : Tuna Beef Volcano, Tuna Cheese, Tuna Fray Roll, Hung Roll, Tuna Lecano, Flour Heaven, Spicy Tunaise, Tuna Spicy Roll, Classic Roll, Crispy Roll, Classic Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 1",
+    "description": "Tuna Cheese Roll, California Roll, Beef Chicken Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 2",
+    "description": "Top Of Gun Roll, Tuna Beef Lencano, Beef Maki Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 1",
+    "description": "Salmon Volcano, Tuna Lencano, Salmon Maki, Tuna Maki",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 2",
+    "description": "Triple Heaven, Ebi Tempura Roll, Ebi Cheese Roll, Godzilla Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 3",
+    "description": "Avocado Sunshine, Flour Maki, Ebikado Roll, Up Rolls",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi A",
+    "description": "Salmon Volcano, Salmon Maki, Gold Gate",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi B",
+    "description": "Tuna Lencano, Tuna Maki, Triple Heaven",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Tanoshi C",
+    "description": "Avocado Sunshine, Cikado Roll, Ebikado Roll, Spicy Tuna Paradise",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi D",
+    "description": "Calilfor California Roll, Chicken Teriyaki Roll, Sushi Fray Roll, Godzilla Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "52500",
+    "name": "Tanoshi E",
+    "description": "Ebi Tempura Roll, Ebi Cheese Roll, Roll, Classic Crispy Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 1",
+    "description": "Tuna Lencano, Beef Maki Roll, Triple Heaven",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 2",
+    "description": "Sunbet Roll, Top Of Gun Roll, Salmon Volcano",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 3",
+    "description": "Salmon Beef Volcano, Gold Gate, Tuna Cheese Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Spicy Bite",
+    "description": "Sushi Filled With Prawns, Crabsticks, Crunchy Bits And Spicy Mayonnaise. The Top Is Given Tobiko And Spicy Mayonnaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Fray Bite",
+    "description": "Sushi Filled With Prawns, Crabsticks, Crunchy Bits And Spicy Mayonnaise. The Top Is Given Tobiko And Spicy Mayonnaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Classic Bite",
+    "description": "Sushi Filled With Chicken, Crabstick, Crunchy Bits, Topped With Spicy Mayonnaise And Original Mayonnaise Then Grilled",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Volcano",
+    "description": "Sushi Filled With Kani Stick, Tempura Crunchy Bits, Vegetables, Topped With Dori Fish",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Floss Maki",
+    "description": "Sushi Filled With Cooked Dori Fish, Crunchy Bits Tempura And Lalapan Topped With Shredded Onion",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Omuretsu Dori Maki Roll",
+    "description": "Sushi Filled With Omelet, Dori Fish, Crunchy Bits Tempura And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Fray Roll",
+    "description": "Sushi Filled With Dori Fish And Crunchy Bits Tempura Then Fried With Flour",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Volcano",
+    "description": "Sushi Filled With Kani Sticks, Tanuki, Vegetables, Topped With Dory Fish",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Fray Roll",
+    "description": "Sushi Filled With Dory And Tanuki And Then Fried With Flour",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Floss Maki",
+    "description": "Sushi Filled With Cooked Dory Fish, Tanuki And Vegetables Topped With Shredded Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "22500",
+    "name": "Omuretsu Dory Maki Roll",
+    "description": "Sushi Filled With Omelet, Tanuki And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Maki",
+    "description": "Sushi Filled With Salmon Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Cheese",
+    "description": "Sushi Filled With Raw Salmon, Crunchy Bits Tempura, Vegetables Topped With Spicy Mayo, Grated Cheese, And Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Sunrise Roll",
+    "description": "Sushi Filled With Fried Salmon, Omelet, Wrapped In Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Volcano",
+    "description": "Sushi Filled With Shrimp Vegetables Topped With Salmon And Grilled",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Cheese",
+    "description": "Sushi Filled With Raw Tuna, Crunchy Bits Tempura, Vegetables Topped With Spicy Mayo, Grated Cheese, And Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Fray Roll",
+    "description": "Sushi Filled With Spicy Tuna Wrapped In Katsu Flour And Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Tiger Roll",
+    "description": "Sushi Filled With Tempura Crunchy Bits, Cucumber, Shrimp, Nori Added Topping And Avocado Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Hungry Roll",
+    "description": "Sushi Filled With Tempura Crunchy Bits, Cucumber, Tuna, Nori Added Tobiko Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Volcano",
+    "description": "Sushi Filled With Kani Stick Vegetables Topped With Tuna And Grilled",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Triple Heaven",
+    "description": "Sushi Filled With Kani Stick Vegetables With Spicy Tuna Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Maki",
+    "description": "Sushi Filled With Tuna Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Sunset Roll",
+    "description": "Sushi Filled With Fried Tuna, Omelet, Wrapped In Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Top Gun Roll",
+    "description": "Sushi Filled With Tempura, Wrapped In Nori And Flour And Then Fried Topped With Spicy Mayonnaise And Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Classic Fray Roll",
+    "description": "Sushi Filled With Prawns, Kani Sticks, Tanuki And Then Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Sushi Fray Roll",
+    "description": "Sushi Filled With Kani Sticks Tanuki And Then Fried With Flour",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Spicy Tuna Paradise",
+    "description": "Sushi Filled With Spicy Tuna And Then Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Golden Gate",
+    "description": "Sushi Filled With Tuna And Then Fried",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "California Roll",
+    "description": "Sushi Filled With Kani Stick And Then Wrapped In Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Merapi Roll",
+    "description": "Sushi Filled With Chicken Topped With A Mixture Of Tobiko And Kani Stick",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Spicy Chicken Roll",
+    "description": "Sushi Filled With Fried Chicken, Tanuki, Vegetables, Cayenne Pepper, Wrapped In Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Kappa Maki",
+    "description": "Sushi Filled With Kani Stick, Cucumber, Lettuce And Tanuki",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Ebi Tempura Roll",
+    "description": "Sushi Filled With Prawns Wrapped In Togashi",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Omuretsu Maki",
+    "description": "Sushi Filled With Omelet, Tanuki, And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Kakiage Roll",
+    "description": "Sushi Filled With Legs, Cucumber And Tanuki",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Classic Crispy Roll",
+    "description": "Sushi Filled With Tanuki, Crabstick, Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Godzilla Roll",
+    "description": "Sushi Filled With Prawns Vegetables Topped With Kani Stick",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Floss Maki",
+    "description": "Sushi Filled With Cheese Vegetables Topped With Shredded Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "23400",
+    "name": "Ebi Cheese Roll",
+    "description": "Sushi Filled With Shrimp Topped With Cheese And Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 3",
+    "description": "Sunset Roll, Salmon Beef Volcano, Godzilla Roll",
+    "section": "#huntingnewtaste"
+  },
+  {
+    "price": "45000",
+    "name": "Buy 1 Get 1 Paket Tokubetsu 3 Free Omuretsu Maki",
+    "description": "Beli Paket Tokubetsu 3 Gratis Omuretsu Maki",
+    "section": "brand week festival"
+  },
+  {
+    "price": "65000",
+    "name": "Buy 1 Get 1 Paket Paket Tanoshii C Free Kappa Maki",
+    "description": "Beli Paket Tanoshii C Gratis Kappa Maki",
+    "section": "brand week festival"
+  },
+  {
+    "price": "100000",
+    "name": "Konzatsu 1",
+    "description": "Exciting Rame-Rame: Salmon Volcano, Salmon Maki, Golden Gate, Tuna Volcano, Tuna Maki, Triple Heaven",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "117500",
+    "name": "Konzatsu 2",
+    "description": "Exciting Rame-Rame: Top Of Gun Roll, Dory Lencano Roll, Classic Crispy Roll, Spicy Tuna Sausage, Chicken Teriyaki Roll, California Roll, Roll Preservatives, Sushi Rolls",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "117500",
+    "name": "Konzatsu 3",
+    "description": "Exciting Rame-Rame: Ebi Tempura Roll, Ebi Cheese Roll, Spring Roll, Classic Crispy Roll, Salmon Maki, Salmon Volcano, Tuna Maki",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "120000",
+    "name": "Shisso 1",
+    "description": "Ramean Package : California Beef Roll, Beef Chicken Roll, Beef Maki, Salmon Beef Jelly, Tuna Beef Sucano, Tuna Beefcono, Beef Cheese Roll, Beef Roll",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "140000",
+    "name": "Shisso 2",
+    "description": "Ramean Package : Salmon Beef Volcano, Salmon Cheese, Sunrise Roll, Salmon Volcano, Salmon Maki, Dory Supple Roll, Frary Roll, Frary Roll, Dory Roll, Omsu Maki Makimur Maki",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "175000",
+    "name": "Shisso 3",
+    "description": "Ramean Package : Tuna Beef Volcano, Tuna Cheese, Tuna Fray Roll, Hung Roll, Tuna Lecano, Flour Heaven, Spicy Tunaise, Tuna Spicy Roll, Classic Roll, Crispy Roll, Classic Roll",
+    "section": "pasti diskon 65%"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 1",
+    "description": "Tuna Cheese Roll, California Roll, Beef Chicken Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "45000",
+    "name": "Tokubetsu 2",
+    "description": "Top Of Gun Roll, Tuna Beef Lencano, Beef Maki Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 1",
+    "description": "Salmon Volcano, Tuna Lencano, Salmon Maki, Tuna Maki",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 2",
+    "description": "Triple Heaven, Ebi Tempura Roll, Ebi Cheese Roll, Godzilla Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "52500",
+    "name": "Hemat 3",
+    "description": "Avocado Sunshine, Flour Maki, Ebikado Roll, Up Rolls",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi A",
+    "description": "Salmon Volcano, Salmon Maki, Gold Gate",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi B",
+    "description": "Tuna Lencano, Tuna Maki, Triple Heaven",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "52500",
+    "name": "Tanoshi C",
+    "description": "Avocado Sunshine, Cikado Roll, Ebikado Roll, Spicy Tuna Paradise",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "50000",
+    "name": "Tanoshi D",
+    "description": "Calilfor California Roll, Chicken Teriyaki Roll, Sushi Fray Roll, Godzilla Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "52500",
+    "name": "Tanoshi E",
+    "description": "Ebi Tempura Roll, Ebi Cheese Roll, Roll, Classic Crispy Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 1",
+    "description": "Tuna Lencano, Beef Maki Roll, Triple Heaven",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 2",
+    "description": "Sunbet Roll, Top Of Gun Roll, Salmon Volcano",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "45000",
+    "name": "Ureshii 3",
+    "description": "Salmon Beef Volcano, Gold Gate, Tuna Cheese Roll",
+    "section": "pasti diskon 50%"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Spicy Bite",
+    "description": "Sushi Filled With Prawns, Crabsticks, Crunchy Bits And Spicy Mayonnaise. The Top Is Given Tobiko And Spicy Mayonnaise",
+    "section": "crazy rich"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Fray Bite",
+    "description": "Sushi Filled With Prawns, Crabsticks, Crunchy Bits And Spicy Mayonnaise. The Top Is Given Tobiko And Spicy Mayonnaise",
+    "section": "crazy rich"
+  },
+  {
+    "price": "28800",
+    "name": "Rich Classic Bite",
+    "description": "Sushi Filled With Chicken, Crabstick, Crunchy Bits, Topped With Spicy Mayonnaise And Original Mayonnaise Then Grilled",
+    "section": "crazy rich"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Volcano",
+    "description": "Sushi Filled With Kani Stick, Tempura Crunchy Bits, Vegetables, Topped With Dori Fish",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Floss Maki",
+    "description": "Sushi Filled With Cooked Dori Fish, Crunchy Bits Tempura And Lalapan Topped With Shredded Onion",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "23400",
+    "name": "Omuretsu Dori Maki Roll",
+    "description": "Sushi Filled With Omelet, Dori Fish, Crunchy Bits Tempura And Vegetables",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "23400",
+    "name": "Dori Fray Roll",
+    "description": "Sushi Filled With Dori Fish And Crunchy Bits Tempura Then Fried With Flour",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Volcano",
+    "description": "Sushi Filled With Kani Sticks, Tanuki, Vegetables, Topped With Dory Fish",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Fray Roll",
+    "description": "Sushi Filled With Dory And Tanuki And Then Fried With Flour",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "22500",
+    "name": "Dory Floss Maki",
+    "description": "Sushi Filled With Cooked Dory Fish, Tanuki And Vegetables Topped With Shredded Topping",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "22500",
+    "name": "Omuretsu Dory Maki Roll",
+    "description": "Sushi Filled With Omelet, Tanuki And Vegetables",
+    "section": "cobain dori-nya yuk"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Maki",
+    "description": "Sushi Filled With Salmon Vegetables",
+    "section": "salmon bikin mood-on"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Cheese",
+    "description": "Sushi Filled With Raw Salmon, Crunchy Bits Tempura, Vegetables Topped With Spicy Mayo, Grated Cheese, And Tobiko",
+    "section": "salmon bikin mood-on"
+  },
+  {
+    "price": "23400",
+    "name": "Sunrise Roll",
+    "description": "Sushi Filled With Fried Salmon, Omelet, Wrapped In Tobiko",
+    "section": "salmon bikin mood-on"
+  },
+  {
+    "price": "23400",
+    "name": "Salmon Volcano",
+    "description": "Sushi Filled With Shrimp Vegetables Topped With Salmon And Grilled",
+    "section": "salmon bikin mood-on"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Cheese",
+    "description": "Sushi Filled With Raw Tuna, Crunchy Bits Tempura, Vegetables Topped With Spicy Mayo, Grated Cheese, And Tobiko",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Fray Roll",
+    "description": "Sushi Filled With Spicy Tuna Wrapped In Katsu Flour And Fried",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Tiger Roll",
+    "description": "Sushi Filled With Tempura Crunchy Bits, Cucumber, Shrimp, Nori Added Topping And Avocado Topping",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Hungry Roll",
+    "description": "Sushi Filled With Tempura Crunchy Bits, Cucumber, Tuna, Nori Added Tobiko Topping",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Volcano",
+    "description": "Sushi Filled With Kani Stick Vegetables Topped With Tuna And Grilled",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Triple Heaven",
+    "description": "Sushi Filled With Kani Stick Vegetables With Spicy Tuna Topping",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Tuna Maki",
+    "description": "Sushi Filled With Tuna Vegetables",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Sunset Roll",
+    "description": "Sushi Filled With Fried Tuna, Omelet, Wrapped In Tobiko",
+    "section": "tuna mania"
+  },
+  {
+    "price": "23400",
+    "name": "Top Gun Roll",
+    "description": "Sushi Filled With Tempura, Wrapped In Nori And Flour And Then Fried Topped With Spicy Mayonnaise And Tobiko",
+    "section": "fried sushi"
+  },
+  {
+    "price": "18000",
+    "name": "Classic Fray Roll",
+    "description": "Sushi Filled With Prawns, Kani Sticks, Tanuki And Then Fried",
+    "section": "fried sushi"
+  },
+  {
+    "price": "18000",
+    "name": "Sushi Fray Roll",
+    "description": "Sushi Filled With Kani Sticks Tanuki And Then Fried With Flour",
+    "section": "fried sushi"
+  },
+  {
+    "price": "23400",
+    "name": "Spicy Tuna Paradise",
+    "description": "Sushi Filled With Spicy Tuna And Then Fried",
+    "section": "fried sushi"
+  },
+  {
+    "price": "23400",
+    "name": "Golden Gate",
+    "description": "Sushi Filled With Tuna And Then Fried",
+    "section": "fried sushi"
+  },
+  {
+    "price": "23400",
+    "name": "California Roll",
+    "description": "Sushi Filled With Kani Stick And Then Wrapped In Tobiko",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Merapi Roll",
+    "description": "Sushi Filled With Chicken Topped With A Mixture Of Tobiko And Kani Stick",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Spicy Chicken Roll",
+    "description": "Sushi Filled With Fried Chicken, Tanuki, Vegetables, Cayenne Pepper, Wrapped In Tobiko",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Kappa Maki",
+    "description": "Sushi Filled With Kani Stick, Cucumber, Lettuce And Tanuki",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Ebi Tempura Roll",
+    "description": "Sushi Filled With Prawns Wrapped In Togashi",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Omuretsu Maki",
+    "description": "Sushi Filled With Omelet, Tanuki, And Vegetables",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Kakiage Roll",
+    "description": "Sushi Filled With Legs, Cucumber And Tanuki",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Classic Crispy Roll",
+    "description": "Sushi Filled With Tanuki, Crabstick, Shrimp",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Godzilla Roll",
+    "description": "Sushi Filled With Prawns Vegetables Topped With Kani Stick",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Floss Maki",
+    "description": "Sushi Filled With Cheese Vegetables Topped With Shredded Topping",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "23400",
+    "name": "Ebi Cheese Roll",
+    "description": "Sushi Filled With Shrimp Topped With Cheese And Tobiko",
+    "section": "sushi that you like"
+  },
+  {
+    "price": "30000",
+    "name": "Beef Chicken Roll",
+    "description": "Sushi Filled With Beef, Chicken, Cucumber, Tempura Crunchy Bits Wrapped With Spicy Tobiko Topping Mayonnaise Original Mayonnaise",
+    "section": "beef lover"
+  },
+  {
+    "price": "32000",
+    "name": "Beef Cheese Roll",
+    "description": "Sushi Filled With Beef, Crunchy Bits Tempura, Vegetables Topped With Spicy Mayo, Grated Cheese, And Tobiko",
+    "section": "beef lover"
+  },
+  {
+    "price": "32000",
+    "name": "Beef Teriyaki Roll",
+    "description": "Sushi Filled With Beef, Chicken, Cucumber, Tempura Crunchy Bits Wrapped In Tobiko With Spicy Mayonnaise Topping Original Mayonnaise And Teriyaki Sauce",
+    "section": "beef lover"
+  },
+  {
+    "price": "32000",
+    "name": "California Beef Roll",
+    "description": "Sushi Filled With Cucumber, Crunchy Bits Tempura, Beef, Wrapped In Tobiko",
+    "section": "beef lover"
+  },
+  {
+    "price": "30000",
+    "name": "Beef Maki Roll",
+    "description": "Sushi Filled With Beef, Tempura Crunchy Bits, Cucumber",
+    "section": "beef lover"
+  },
+  {
+    "price": "32000",
+    "name": "Salmon Beef Volcano",
+    "description": "Sushi Filled With Beef, Cucumber, Tempura Crunchy Bits Topped With Salmon, Tobiko And Spicy Mayoise Then Grilled",
+    "section": "beef lover"
+  },
+  {
+    "price": "32000",
+    "name": "Tuna Beef Volcano",
+    "description": "Sushi Filled With Beef, Cucumber, Tempura Crunchy Bits Topped With Tuna, Tobiko And Spicy Mayoise Then Grilled",
+    "section": "beef lover"
+  },
+  {
+    "price": "30000",
+    "name": "Beef Ramen",
+    "description": "Ramen Noodles With Gravy, Vegetables And Naruto With Beef Complement",
+    "section": "ramen noodle"
+  },
+  {
+    "price": "30000",
+    "name": "Spicy Ramen",
+    "description": "Ramen Noodles With Spicy Sauce, Vegetables And Naruto With Boiled Chicken Complement",
+    "section": "ramen noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Katsu Don",
+    "description": "Rice Bowl With Chicken Katsu Egg With Ramen Sauce",
+    "section": "rice bowl"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Teriyaki",
+    "description": "Teriyaki Chicken Rice Bowls",
+    "section": "rice bowl"
+  },
+  {
+    "price": "18000",
+    "name": "Okonomiyaki",
+    "description": "Snack From Flour, Vegetables, Topped With Mayonnaise And Cheese",
+    "section": "snack"
+  },
+  {
+    "price": "18000",
+    "name": "Takoyaki",
+    "description": "Snack From Flour With Kani Stick Topped With Mayonnaise Cheese",
+    "section": "snack"
+  }
+]

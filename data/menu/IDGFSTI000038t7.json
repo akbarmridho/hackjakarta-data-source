@@ -1,0 +1,680 @@
+[
+  {
+    "price": "70000",
+    "name": "TTM 3 Minuman + 2 Roti",
+    "description": "Combo 3 Minuman Favoritmu + 2 Roti Coklat Klasik",
+    "section": "tanggal tua meriah"
+  },
+  {
+    "price": "80000",
+    "name": "TTM 3 Minuman + 2 Toast",
+    "description": "Combo 3 Minuman Favoritmu + 2 Bambang Choco Cheese Toast",
+    "section": "tanggal tua meriah"
+  },
+  {
+    "price": "24000",
+    "name": "Master Chef Peach Aren Latte",
+    "description": "Kopi susu dengan sirup peach, gula aren dan topping cream macchiato + sleeve exclusive*!",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "23000",
+    "name": "Sunny Peach Thai Tea",
+    "description": "Teh thailand, susu dan sirup peach dengan topping cream macchiato + sleeve exclusive*!",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "26000",
+    "name": "Green Hunter Peach Matcha",
+    "description": "Perpaduan matcha dan sirup peach dengan topping cream macchiato + sleeve exclusive*!",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "20000",
+    "name": "Captain Apple Cream",
+    "description": "Kesegaran teh dan sirup apel dipadukan dengan cream macchiato + sleeve exclusive*!",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "14000",
+    "name": "Peach Matcha Soft Serve",
+    "description": "Ice cream lembut dengan perpaduan rasa matcha dan buah peach",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "47000",
+    "name": "Bundle of 3 Foods",
+    "description": "Special Price! Choose 3 Foods One Piece x Tahilalats Series (Mix & Match)",
+    "section": "petualangan rasa - one piece x tahilalats"
+  },
+  {
+    "price": "37000",
+    "name": "3 Roti Hanya 37RB",
+    "description": "Pilih 3 Roti Favortimu Roti Coklat Klasik / Roti Keju Manis / Roti Srikaya",
+    "section": "promo roti mantap abis"
+  },
+  {
+    "price": "56000",
+    "name": "Bundle 3 Toast",
+    "description": "Pilih 3 toast favoritmu! Kenangan Toast Wahyu Sapi/ Kenangan Toast Adam Ayam/ Kenangan Toast Kun Ya Kaya Kenangan Toast Bambang Choco Cheese",
+    "section": "promo toast series"
+  },
+  {
+    "price": "53000",
+    "name": "Bundle 2 Toast & Drink",
+    "description": "Pilih 2 toast favoritmu + 1 Minuman! Kenangan Toast Kun Ya Kaya Kenangan Toast Bambang Choco CheeseT (mix & match) + Kopi Kenangan Mantan/ Ameri",
+    "section": "promo toast series"
+  },
+  {
+    "price": "57000",
+    "name": "Bundle 2 Toast & Drink",
+    "description": "Pilih 2 Toast Favoritmu + 1 Minuman! Wahyu Sapi Toast/ Adam Ayam Toast (Mix & Match)",
+    "section": "promo toast series"
+  },
+  {
+    "price": "24000",
+    "name": "Creamy Aren Latte",
+    "description": "Perpaduan espresso, susu creamy dan gula aren asli",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "22000",
+    "name": "Kopi Kenangan Mantan",
+    "description": "Kopi, Susu, & Gula Aren",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "30000",
+    "name": "PASAL 1",
+    "description": "Kopi Kenangan Mantan (R) & Roti Coklat Klasik / Butter Croissant",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "70000",
+    "name": "Bundle B",
+    "description": "Special Price! 3 Kopi Susu Black Aren (R) + 2 Cerita Roti Coklat Klasik / Susu Manis / Butter Croissant",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "57000",
+    "name": "Bundle 2 Toast & Drink",
+    "description": "Pilih 2 Toast Favoritmu + 1 Minuman! Wahyu Sapi Toast/ Adam Ayam Toast (Mix & Match)",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "53000",
+    "name": "Bundle 2 Toast & Drink",
+    "description": "Pilih 2 toast favoritmu + 1 Minuman! Kenangan Toast Kun Ya Kaya Kenangan Toast Bambang Choco CheeseT (mix & match) + Kopi Kenangan Mantan/ Ameri",
+    "section": "resto's top picks"
+  },
+  {
+    "price": "24000",
+    "name": "Creamy Aren Latte",
+    "description": "Perpaduan espresso, susu creamy dan gula aren asli",
+    "section": "new! the o.g aren series"
+  },
+  {
+    "price": "60000",
+    "name": "Oatside Beli 3 Hanya 60rb",
+    "description": "Beli 3 varian Kopi Kenangan x Oatside hanya 60rb!",
+    "section": "oatside series"
+  },
+  {
+    "price": "27000",
+    "name": "Oatside Boba Gula Aren",
+    "description": "Susu Oatside dan gula aren asli Indonesia dengan tambahan topping golden boba",
+    "section": "oatside series"
+  },
+  {
+    "price": "27000",
+    "name": "Oatside Matcha Latte",
+    "description": "Perpaduan fresh milk dari Oatside dan high quality matcha powder",
+    "section": "oatside series"
+  },
+  {
+    "price": "27000",
+    "name": "Oatside Latte",
+    "description": "Espresso dengan Susu Oatside Steamed",
+    "section": "oatside series"
+  },
+  {
+    "price": "25000",
+    "name": "Oatside Kopi Kenangan Mantan",
+    "description": "Kopi dengan Susu Oatside dan Gula Aren Asli",
+    "section": "oatside series"
+  },
+  {
+    "price": "22000",
+    "name": "Kopi Kenangan Mantan",
+    "description": "Kopi, Susu, & Gula Aren",
+    "section": "coffee category"
+  },
+  {
+    "price": "23000",
+    "name": "Kopi Susu Black Aren",
+    "description": "Racikan kopi susu dengan kemewahan rasa gula aren yang lebih kuat & nikmat",
+    "section": "coffee category"
+  },
+  {
+    "price": "34000",
+    "name": "Avocado Coffee",
+    "description": "Rasakan kelembutan Alpukat dipadu dengan espresso di dalam minuman manismu!",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Caramel Latte",
+    "description": "Espresso, Susu, dan Sirup Karamel",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Cloud Caramel Macchiato",
+    "description": "Espresso, susu dan sirup caramel dilengkapi oleh cloud dan sirup caramel di atas",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Dua Shot Iced Shaken",
+    "description": "Dobel Espresso",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Hazelnut Latte",
+    "description": "Espresso, Vanilla, Susu, Sirup Hazelnut",
+    "section": "coffee category"
+  },
+  {
+    "price": "24000",
+    "name": "Kopi Dolce",
+    "description": "Rasa yang gak bakal pernah lupa, kopi dicampur susu segar dan kental manis",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Kopi Kenangan Mantan Boba",
+    "description": "Kombinasi Kopi Kenangan Mantan dengan manis & kenyal nya golden boba",
+    "section": "coffee category"
+  },
+  {
+    "price": "31000",
+    "name": "Mocha Latte",
+    "description": "Perpaduan klasik antara cokelat asli Belanda dengan espresso",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Vanilla Latte",
+    "description": "Espresso dan susu dengan sirup vanilla",
+    "section": "coffee category"
+  },
+  {
+    "price": "29000",
+    "name": "Kenangan Mantan CEO",
+    "description": "Kenangan Mantan CEO",
+    "section": "coffee category"
+  },
+  {
+    "price": "28000",
+    "name": "Matcha Espresso",
+    "description": "Perpaduan espresso, fresh milk dan high quality matcha powder",
+    "section": "coffee category"
+  },
+  {
+    "price": "24000",
+    "name": "Cappuccino",
+    "description": "Espresso, Susu Steamed, Buih Susu",
+    "section": "coffee category"
+  },
+  {
+    "price": "24000",
+    "name": "Latte",
+    "description": "Espresso, Susu Steamed",
+    "section": "coffee category"
+  },
+  {
+    "price": "18000",
+    "name": "Americano",
+    "description": "Espresso dan Air Mineral",
+    "section": "coffee category"
+  },
+  {
+    "price": "105000",
+    "name": "Seliter Kenangan - Kopi Susu Black Aren",
+    "description": "Racikan kopi susu dengan kemewahan rasa gula aren yang lebih kuat & nikmat dalam ukuran 1 liter",
+    "section": "coffee category"
+  },
+  {
+    "price": "120000",
+    "name": "Seliter Kenangan - Matcha Espresso",
+    "description": "Perpaduan espresso,fresh milk dan high quality matcha powder 1L",
+    "section": "coffee category"
+  },
+  {
+    "price": "80000",
+    "name": "Seliter Kenangan - Americano",
+    "description": "Espresso yang dicampur air mineral dalam ukuran 1L",
+    "section": "coffee category"
+  },
+  {
+    "price": "100000",
+    "name": "Seliter Kenangan - Kopi Kenangan Mantan",
+    "description": "Kopi Susu dengan gula aren asli Indonesia dalam ukuran 1L",
+    "section": "coffee category"
+  },
+  {
+    "price": "100000",
+    "name": "Seliter Kenangan - Latte",
+    "description": "Espresso yang dicampur dengan fresh milk dalam ukuran 1L",
+    "section": "coffee category"
+  },
+  {
+    "price": "30000",
+    "name": "Avocado Caramel",
+    "description": "Rasakan kelembutan Alpukat dipadu dengan saus Caramel yang gurih dan manis!",
+    "section": "non coffee category"
+  },
+  {
+    "price": "26000",
+    "name": "Avocado Milk",
+    "description": "Rasakan kelembutan Alpukat dipadu dengan susu untuk menemani harimu!",
+    "section": "non coffee category"
+  },
+  {
+    "price": "31000",
+    "name": "Caramel Dutch Choco",
+    "description": "Caramel, Cokelat Asli",
+    "section": "non coffee category"
+  },
+  {
+    "price": "26000",
+    "name": "Dutch Chocolate",
+    "description": "Perpaduan cokelat asli Belanda dengan creamy nya susu yang nikmat",
+    "section": "non coffee category"
+  },
+  {
+    "price": "18000",
+    "name": "Earl Grey Tea",
+    "description": "Teh Melati Earl Grey",
+    "section": "non coffee category"
+  },
+  {
+    "price": "31000",
+    "name": "Hazelnut Dutch Choco",
+    "description": "Hazelnut, Cokelat Asli",
+    "section": "non coffee category"
+  },
+  {
+    "price": "17000",
+    "name": "Lemon Black Tea",
+    "description": "Black tea dengan lemon",
+    "section": "non coffee category"
+  },
+  {
+    "price": "26000",
+    "name": "Oreo Shake",
+    "description": "Susu vanilla dengan remah Oreo",
+    "section": "non coffee category"
+  },
+  {
+    "price": "20000",
+    "name": "Raspberry Hibiscus",
+    "description": "Teh buah raspberry hibiscus dan lemon",
+    "section": "non coffee category"
+  },
+  {
+    "price": "24000",
+    "name": "Susu Grass Jelly",
+    "description": "Susu, Gula aren, Topping grass jelly",
+    "section": "non coffee category"
+  },
+  {
+    "price": "24000",
+    "name": "Matcha Latte",
+    "description": "Perpaduan fresh milk dan high quality matcha powder",
+    "section": "non coffee category"
+  },
+  {
+    "price": "23000",
+    "name": "Thai Green Tea",
+    "description": "Teh Thailand hijau, Susu",
+    "section": "non coffee category"
+  },
+  {
+    "price": "22000",
+    "name": "Thai Tea",
+    "description": "Teh Thailand, Susu",
+    "section": "non coffee category"
+  },
+  {
+    "price": "22000",
+    "name": "Milo Dinosaurus",
+    "description": "Susu Milo dengan taburan bubuk Milo",
+    "section": "non coffee category"
+  },
+  {
+    "price": "19000",
+    "name": "Kenangan Milk Tea",
+    "description": "Resep orisinil milk tea yang famous, pasti langsung akrab buat siapa saja",
+    "section": "non coffee category"
+  },
+  {
+    "price": "19000",
+    "name": "Earl Grey Milk Tea",
+    "description": "Aroma harum dan manisnya jasmine earl grey lebih menggoda daripada si dia",
+    "section": "non coffee category"
+  },
+  {
+    "price": "23000",
+    "name": "Hazelnut Choco Milk Tea",
+    "description": "Sensasi rasa manis pahit dari cokelat premium, hazelnut dan milk tea",
+    "section": "non coffee category"
+  },
+  {
+    "price": "110000",
+    "name": "Seliter Kenangan - Matcha Latte",
+    "description": "Perpaduan fresh milk dan high quality matcha powder dalam ukuran",
+    "section": "non coffee category"
+  },
+  {
+    "price": "90000",
+    "name": "Seliter Kenangan - Thai Tea",
+    "description": "Thai Tea (Teh Thailand dan susu) dalam ukuran 1L",
+    "section": "non coffee category"
+  },
+  {
+    "price": "66500",
+    "name": "Box Of 3",
+    "description": "Choose FriendChip/Berry + Biscoff/RVelvet + Hazelnut/Dark Side",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "241000",
+    "name": "Box Of 12",
+    "description": "Choose 4 FriendChip/Berry + 4 Biscoff/RVelvet + 4 Hazelnut/Dark Side",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "123000",
+    "name": "Box Of 6",
+    "description": "Choose 2 FriendChip/Berry + 2 Biscoff/RVelvet + 2 Hazelnut/Dark Side",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "81000",
+    "name": "Teman Cerita Super Party",
+    "description": "Pilih 6 varian Cerita Roti favoritmu!",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "126500",
+    "name": "Pesta Kenangan Cerita Roti 1",
+    "description": "3 Es Milo Dinosaurus (R) + 2 Es Kopi Kenangan Mantan (R) + 1 Roti Cokelat Klasik + 1 Roti Baso Ayam",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "128500",
+    "name": "Pesta Kenangan Cerita Roti 2",
+    "description": "3 Es Thai Tea + 2 Es Kopi Kenangan Mantan (R) + 1 Roti Keju Manis + 1 Roti Martabak",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "28000",
+    "name": "Bundle A",
+    "description": "Special Price! 1 Kopi Susu Black Aren (R) + 1 Cerita Roti Coklat Klasik / Susu Manis /Butter Croissant",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "70000",
+    "name": "Bundle B",
+    "description": "Special Price! 3 Kopi Susu Black Aren (R) + 2 Cerita Roti Coklat Klasik / Susu Manis / Butter Croissant",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "45000",
+    "name": "Kopi Susu Black Aren Hanya 45RB!",
+    "description": "Special Price! 2 Kopi Susu Black Aren (R) + 1 Americano (R)",
+    "section": "kenangan bersama"
+  },
+  {
+    "price": "30000",
+    "name": "PASAL 1",
+    "description": "Kopi Kenangan Mantan (R) & Roti Coklat Klasik / Butter Croissant",
+    "section": "pasangan ideal (pasal)"
+  },
+  {
+    "price": "31000",
+    "name": "PASAL 2",
+    "description": "Americano + Roti Srikaya / Chocolate Croissant",
+    "section": "pasangan ideal (pasal)"
+  },
+  {
+    "price": "34000",
+    "name": "PASAL 3",
+    "description": "Oatside Latte + 1 Roti Keju Manis / Butter Croissant",
+    "section": "pasangan ideal (pasal)"
+  },
+  {
+    "price": "35000",
+    "name": "PASAL 4",
+    "description": "Milo Dinosaurus + Roti Srikaya/Chocolate Croissant",
+    "section": "pasangan ideal (pasal)"
+  },
+  {
+    "price": "18000",
+    "name": "Roti Baso Ayam",
+    "description": "Roti baso selembut awan dengan isi daging ayam yang gurih dan saus spesial",
+    "section": "food"
+  },
+  {
+    "price": "19000",
+    "name": "Berry Mellow Toast",
+    "description": "Roti toast tebal dengan isi selai blueberry keju, ditambah dengan melted marshmallow.",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Roti Baso Sapi Wagyu",
+    "description": "Roti baso selembut awan dengan isi daging sapi wagyu dan citarasa umami",
+    "section": "food"
+  },
+  {
+    "price": "21000",
+    "name": "Adam Ayam Toast",
+    "description": "Roti toast tebal dengan isi daging luncheon ayam, keju slice, ditambah topping s",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Coffee Crookie",
+    "description": "Perpaduan croissant dan coffee cookie dengan isian saus cokelat",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Choco Chunk Crookie",
+    "description": "Perpaduan croissant dan choco chunk cookie dengan isian saus cokelat",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Roti Coklat Klasik",
+    "description": "Roti bantal lembut dengan isi krim coklat dan taburan coklat meses",
+    "section": "food"
+  },
+  {
+    "price": "21000",
+    "name": "Wahyu Sapi Toast",
+    "description": "Roti toast tebal dengan isi daging luncheon sapi, keju slice, ditambah topping",
+    "section": "food"
+  },
+  {
+    "price": "18000",
+    "name": "Roti Daging Asap Keju",
+    "description": "Roti bantal lembut dengan isi daging asap dan keju serta taburan keju parut",
+    "section": "food"
+  },
+  {
+    "price": "29500",
+    "name": "Join the Dark Side Cookie",
+    "description": "Soft cookie dark chocolate dengan filling selai kacang dan taburan sea salt",
+    "section": "food"
+  },
+  {
+    "price": "19000",
+    "name": "Kun Ya Kaya Toast",
+    "description": "Roti toast tebal dengan isi selai srikaya dan krim butter",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Roti Keju Manis",
+    "description": "Roti bantal lembut isi keju serta topping krim butter & taburan keju parut",
+    "section": "food"
+  },
+  {
+    "price": "29500",
+    "name": "Mr. Hazelnut Cookie",
+    "description": "Soft cookie dengan isian nutella, choco chips dan taburan seasalt",
+    "section": "food"
+  },
+  {
+    "price": "19000",
+    "name": "Bambang Choco Cheese Toast",
+    "description": "Roti toast tebal dengan isi krim coklat, keju slice & topping susu kental manis",
+    "section": "food"
+  },
+  {
+    "price": "15000",
+    "name": "Roti Martabak",
+    "description": "Roti bantal isi krim coklat, selai kacang & remahan kacang khas martabak favorit",
+    "section": "food"
+  },
+  {
+    "price": "12000",
+    "name": "Roti Susu Manis",
+    "description": "Roti bantal isi krim susu dan remahan susu manis berkualitas khas martabak manis",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Almond Croissant",
+    "description": "Pastry dengan taburan kacang almond yang renyah dan gula halus",
+    "section": "food"
+  },
+  {
+    "price": "14000",
+    "name": "Butter Croissant",
+    "description": "Croissant pastry yang renyah dengan lapisan butter",
+    "section": "food"
+  },
+  {
+    "price": "17000",
+    "name": "Chocolate Croissant",
+    "description": "Croissant pastry yang renyah dengan lapisan butter dan isian cokelat",
+    "section": "food"
+  },
+  {
+    "price": "26000",
+    "name": "Chicken Curry Puff",
+    "description": "Puff pastry yang renyah dengan isian kari ayam melimpah",
+    "section": "food"
+  },
+  {
+    "price": "21000",
+    "name": "Chocolate Cromboloni",
+    "description": "Croissant Bomboloni berbentuk bulat berisi krim cokelat, frosting cokelat & tabu",
+    "section": "food"
+  },
+  {
+    "price": "25500",
+    "name": "Red Velvet Madness Cookie",
+    "description": "Soft cookie red velvet dengan isian cream cheese dan taburan kacang",
+    "section": "food"
+  },
+  {
+    "price": "17000",
+    "name": "Roti Srikaya",
+    "description": "Roti bantal lembut isi selai srikaya",
+    "section": "food"
+  },
+  {
+    "price": "16000",
+    "name": "Choco Chip Cookies",
+    "description": "Cookies renyah dengan taburan choco chip",
+    "section": "food"
+  },
+  {
+    "price": "28000",
+    "name": "FREEZY Kopi Kenangan Mantan",
+    "description": "Ice blended kopi susu dengan gula aren",
+    "section": "freezy series"
+  },
+  {
+    "price": "30000",
+    "name": "FREEZY Latte",
+    "description": "Ice blended espresso dan susu segar",
+    "section": "freezy series"
+  },
+  {
+    "price": "35000",
+    "name": "FREEZY Mocha Latte",
+    "description": "Ice blended cokelat asli Belanda dengan espresso",
+    "section": "freezy series"
+  },
+  {
+    "price": "33000",
+    "name": "FREEZY Dutch Chocolate",
+    "description": "Ice blended cokelat asli Belanda dengan susu segar",
+    "section": "freezy series"
+  },
+  {
+    "price": "30000",
+    "name": "FREEZY Matcha Latte",
+    "description": "Ice blended high quality matcha powder dan susu",
+    "section": "freezy series"
+  },
+  {
+    "price": "27000",
+    "name": "Kopi Kenangan Mantan Float",
+    "description": "Kopi Kenangan Mantan Float",
+    "section": "float"
+  },
+  {
+    "price": "31000",
+    "name": "Avocado Milk Float",
+    "description": "Avocado Milk Float",
+    "section": "float"
+  },
+  {
+    "price": "31000",
+    "name": "Dutch Chocolate Float",
+    "description": "Dutch Chocolate Float",
+    "section": "float"
+  },
+  {
+    "price": "12000",
+    "name": "Vanilla Soft Serve",
+    "description": "Ice cream vanilla lembut",
+    "section": "kenangan ice soft serve"
+  },
+  {
+    "price": "15000",
+    "name": "Choco Soft Serve",
+    "description": "Ice cream vanilla lembut dengan lumuran saus cokelat nikmat ala choco sundae",
+    "section": "kenangan ice soft serve"
+  },
+  {
+    "price": "17000",
+    "name": "Affogato Soft Serve",
+    "description": "Ice cream vanilla lembut dipadukan dengan espresso shot",
+    "section": "kenangan ice soft serve"
+  },
+  {
+    "price": "53000",
+    "name": "Cities of Indonesia Bottle",
+    "description": "Cities of Indonesia edition bottle dengan Tinggi 23cm, Diameter 9cm, dan Kapasitas 1000ml",
+    "section": "merchandise"
+  }
+]

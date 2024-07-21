@@ -1,0 +1,698 @@
+[
+  {
+    "price": "20000",
+    "name": "1 Kopi Susu Aren Rp20Rb",
+    "description": "Palm Sugar Milk Coffee (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "Fourever Kopi Susu Aren Cuma Rp 49Rb-An",
+    "description": "4 Palm Sugar Milk Coffee (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "40000",
+    "name": "Duo Kopi Susu Aren Cuma Rp 32Rb",
+    "description": "2 Palm Sugar Milk Coffee (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "48000",
+    "name": "Duo Spanish Latte Series Mulai 38Rb-An",
+    "description": "2 Spanish Latte Atau 2 Spanish Aren Latte",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "1 Tomoro Aren Latte Rp22Rb",
+    "description": "Toro Palm Sugar (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "48600",
+    "name": "Favorite Refal Hasdy",
+    "description": "1 Butter Kassant + Choose 1 Salt Cream Drink (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "61000",
+    "name": "Duo Sea Salt Cloud Series",
+    "description": "Octopus Matcha Latte Or Salt Cream Caramel Machia",
+    "section": "today's offer"
+  },
+  {
+    "price": "38000",
+    "name": "Duo Tomoro Aren Latte Cuma Rp 38Rb",
+    "description": "2 Tomyoro Palm Sugar (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "87000",
+    "name": "Fourever Tomoro Aren Latte Cuma Rp 60Rb-An",
+    "description": "4 Tomyoro Palm Sugar (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "105000",
+    "name": "Fourever Spanish Aren Latte Cuma 73Rb-An",
+    "description": "4 Spanish Aren Latte Iced",
+    "section": "today's offer"
+  },
+  {
+    "price": "110000",
+    "name": "6 Coffee Milk Palm Sugar 76Rb-An",
+    "description": "6 Palm Sugar Milk Coffee (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "32000",
+    "name": "Beli 1 Food + 1 Drink Free Meg Cheede (Limited Offer)",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "170000",
+    "name": "6 Spanish Aren Latte Rp 118Rb-An",
+    "description": "6 Spanish Aren Latte Iced",
+    "section": "today's offer"
+  },
+  {
+    "price": "130000",
+    "name": "6 Tomoro Aren Latte Rp 91Rb-An",
+    "description": "6 Tomyoro Palm Sugar (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "140000",
+    "name": "6 Chocolate Rp 97Rb-An",
+    "description": "6 Chocolate (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "150000",
+    "name": "6 Tomoro Oat Latte Rp 105 Thousand-An",
+    "description": "6 Toro Oat Latte (R)",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "1 Kopi Susu Aren Rp20Rb",
+    "description": "Palm Sugar Milk Coffee (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "66000",
+    "name": "Fourever Kopi Susu Aren Cuma Rp 49Rb-An",
+    "description": "4 Palm Sugar Milk Coffee (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "40000",
+    "name": "Duo Kopi Susu Aren Cuma Rp 32Rb",
+    "description": "2 Palm Sugar Milk Coffee (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "48000",
+    "name": "Duo Spanish Latte Series Mulai 38Rb-An",
+    "description": "2 Spanish Latte Atau 2 Spanish Aren Latte",
+    "section": "special offers"
+  },
+  {
+    "price": "22000",
+    "name": "1 Tomoro Aren Latte Rp22Rb",
+    "description": "Toro Palm Sugar (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "48600",
+    "name": "Favorite Refal Hasdy",
+    "description": "1 Butter Kassant + Choose 1 Salt Cream Drink (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "61000",
+    "name": "Duo Sea Salt Cloud Series",
+    "description": "Octopus Matcha Latte Or Salt Cream Caramel Machia",
+    "section": "special offers"
+  },
+  {
+    "price": "38000",
+    "name": "Duo Tomoro Aren Latte Cuma Rp 38Rb",
+    "description": "2 Tomyoro Palm Sugar (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "87000",
+    "name": "Fourever Tomoro Aren Latte Cuma Rp 60Rb-An",
+    "description": "4 Tomyoro Palm Sugar (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "105000",
+    "name": "Fourever Spanish Aren Latte Cuma 73Rb-An",
+    "description": "4 Spanish Aren Latte Iced",
+    "section": "special offers"
+  },
+  {
+    "price": "22000",
+    "name": "1 Kopi Susu Aren Rp5Rb",
+    "description": "KOPI SUSU AREN (R)",
+    "section": "special offers"
+  },
+  {
+    "price": "32000",
+    "name": "Beli 1 Food + 1 Drink Free Meg Cheede (Limited Offer)",
+    "description": "",
+    "section": "special offer"
+  },
+  {
+    "price": "24000",
+    "name": "Veggie Pizza",
+    "description": "Pizza dengan topping sayuran, saus tomat dan keju mozzarella yang creamy",
+    "section": "food and bakery"
+  },
+  {
+    "price": "26000",
+    "name": "Smoked Chicken Mushroom Pizza",
+    "description": "Pizza dengan toping smoked chicken mushroom, jagung, saus tomat dan keju mozzarella yang creamy",
+    "section": "food and bakery"
+  },
+  {
+    "price": "26000",
+    "name": "Pepperoni Pizza",
+    "description": "Pizza dengan toping beef pepperoni, saus tomat dan keju mozzarella yang creamy",
+    "section": "food and bakery"
+  },
+  {
+    "price": "30000",
+    "name": "Rice Milk Latte",
+    "description": "",
+    "section": "new beverages"
+  },
+  {
+    "price": "34000",
+    "name": "Rice Milk Citrus Latte",
+    "description": "",
+    "section": "new beverages"
+  },
+  {
+    "price": "32000",
+    "name": "Rice Milk Aren Latte",
+    "description": "",
+    "section": "new beverages"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Latte",
+    "description": "A Blend Of Tomyoro Blended Espresso With A Creamy And Savory Cheese",
+    "section": "new beverages"
+  },
+  {
+    "price": "32000",
+    "name": "Chocolate Cheese Latte",
+    "description": "A Blend Of Premium Chocolate Toro With A Creamy And Savory Cheese",
+    "section": "new beverages"
+  },
+  {
+    "price": "34000",
+    "name": "Caramel Cheese Latte",
+    "description": "A Blend Of Toro Blended Espresso, Caramel And Creamy Cheese Milk And Savory",
+    "section": "new beverages"
+  },
+  {
+    "price": "43000",
+    "name": "Durian King Latte",
+    "description": "A Blend Of Espresso From Tomyoro Blend With Creamy Milk, With A Durian Topping",
+    "section": "new beverages"
+  },
+  {
+    "price": "43000",
+    "name": "Durian King Coconut Latte",
+    "description": "A Blend Of Espresso From Tororo Blend With A Creamy Original Coconut Milk, With A Durian Topping",
+    "section": "new beverages"
+  },
+  {
+    "price": "43000",
+    "name": "Durian King Ketan Frappe",
+    "description": "A Combination Of Real Black Sticky Rice With Soft Smooth Smooth Smooth Smooth Smooth Smoothie, Added With A Durian Topping",
+    "section": "new beverages"
+  },
+  {
+    "price": "30000",
+    "name": "Pawsome Orange Smoothie",
+    "description": "Nopi Kane, Four Without Bete A Blend Of Shoots And Fresh Oranges, Produces A Refreshing Drink",
+    "section": "the great monday series"
+  },
+  {
+    "price": "30000",
+    "name": "Pawsome Cookie Oat Latte",
+    "description": "Nopi Kane, Four Without Bete A Blend Of Espresso From Tomyoro Blend And Creamy Oat Milk With Coconut Syrup",
+    "section": "the great monday series"
+  },
+  {
+    "price": "30000",
+    "name": "Pawsome Spanish Latte",
+    "description": "Nopi Kane, Four Without Bete A Blend Of Tomyoro Blended Espresso And Creamy Milk With A Sweet Taste On Each Tebulang",
+    "section": "the great monday series"
+  },
+  {
+    "price": "32000",
+    "name": "Pawsome Spanish Aren Latte",
+    "description": "Nopi Kane, Four Without Bete A Blend Of Tomyo Blend Espresso, Creamy Milk With A Sweet Taste And Palm Sugar Syrup In Every Tebulang",
+    "section": "the great monday series"
+  },
+  {
+    "price": "110000",
+    "name": "6 Coffee Milk Palm Sugar 76Rb-An",
+    "description": "6 Palm Sugar Milk Coffee (R)",
+    "section": "family favorites combo"
+  },
+  {
+    "price": "170000",
+    "name": "6 Spanish Aren Latte Rp 118Rb-An",
+    "description": "6 Spanish Aren Latte Iced",
+    "section": "family favorites combo"
+  },
+  {
+    "price": "130000",
+    "name": "6 Tomoro Aren Latte Rp 91Rb-An",
+    "description": "6 Tomyoro Palm Sugar (R)",
+    "section": "family favorites combo"
+  },
+  {
+    "price": "140000",
+    "name": "6 Chocolate Rp 97Rb-An",
+    "description": "6 Chocolate (R)",
+    "section": "family favorites combo"
+  },
+  {
+    "price": "150000",
+    "name": "6 Tomoro Oat Latte Rp 105 Thousand-An",
+    "description": "6 Toro Oat Latte (R)",
+    "section": "family favorites combo"
+  },
+  {
+    "price": "34000",
+    "name": "Sea Salt Cloud Matcha Latte",
+    "description": "A Combination Of Matcha And Milk With The Addition Of Salt Foam On Top",
+    "section": "cloud series"
+  },
+  {
+    "price": "30000",
+    "name": "Sea Salt Cloud Chocolate",
+    "description": "Perpaduan coklat premium dan susu dengan sea salt cloud foam diatasnya",
+    "section": "cloud series"
+  },
+  {
+    "price": "34000",
+    "name": "Sea Salt Cloud Caramel Machiato",
+    "description": "A Blend Of Espresso, Milk And Caramel Syrup With Extra Vanilla Cream On Top",
+    "section": "cloud series"
+  },
+  {
+    "price": "28000",
+    "name": "TOMORO Oat Latte",
+    "description": "\"Latte\" berarti susu di Italia. Kami menggunakan 100% gula aren dari Indonesia, dicampurkan dengan espresso dan susu yang di steam dengan busa susu tipis di atasnya. *Tidak tersedia minuman HOT **Hanya tersedia Less Sugar & Normal Sugar",
+    "section": "oatside series"
+  },
+  {
+    "price": "34000",
+    "name": "Manuka Oat Latte",
+    "description": "Perpaduan madu manuka dengan susu oat yang sehat, menjadikan minuman ini cocok buat kalian yang sedang menjalankan hidup sehat.",
+    "section": "oatside series"
+  },
+  {
+    "price": "34000",
+    "name": "Hojicha Oat Latte",
+    "description": "Perpaduan rasa manis dengan teknik pemanggangan dari hojicha menghasilkan warna yang khas, berbalut dengan tekstur creamy dari susu oat yang sehat. Cocok buat kalian yang menyukai rasa manis.",
+    "section": "oatside series"
+  },
+  {
+    "price": "34000",
+    "name": "Choco Oat Latte",
+    "description": "Kombinasi cokelat premium dan susu segar, menghasilkan rasa yang kaya dan lembut.",
+    "section": "oatside series"
+  },
+  {
+    "price": "32000",
+    "name": "Matcha Oat Latte",
+    "description": "Kombinasi premium matcha dan susu segar.",
+    "section": "oatside series"
+  },
+  {
+    "price": "30000",
+    "name": "Oat Aren Frappe",
+    "description": "Kombinasi Espresso, gula aren yang di campur dengan susu dan es. Whipped cream pada gambar tidak termasuk",
+    "section": "oatside series"
+  },
+  {
+    "price": "22000",
+    "name": "Kopi Susu Aren",
+    "description": "Combination Of Coffee, Real Palm Sugar And Creamy Milk",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Spanish Latte",
+    "description": "A Blend Of Tomyoro Blended Espresso And Creamy Milk With A Sweet Taste On Each Tebulang",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "32000",
+    "name": "Spanish Aren Latte",
+    "description": "A Blend Of Tomyo Blend Espresso, Creamy Milk With A Sweet Taste And Palm Sugar Syrup In Every Tebulang",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "20000",
+    "name": "Americano",
+    "description": "Rasa Espresso yang kaya di tuangkan ke dalam air panas, mempertahankan crema yang sempurna dalam cangkir dengan cita rasa cokelat hazelnut dan gula merah.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "22000",
+    "name": "Grapefruit Americano",
+    "description": "Perpaduan wangi grapefruit yang khas dengan aroma TOMORO Cafe Americano, menciptakan kombinasi yang sempurna dan pilihan yang tepat untuk musim panas.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "22000",
+    "name": "Lemonade Americano",
+    "description": "Ekstrak lemon dicampur dengan Cafe Americano, memberikan sensasi rasa yang sangat berbeda. Sangat menyegarkan dan cocok untuk pelepas dahaga.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "22000",
+    "name": "Jasmine Americano",
+    "description": "Wangi teh melati dipadukan dengan aroma kopi yang menyegarkan, memberikan sensasi yang luar biasa untuk minuman ini.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "24000",
+    "name": "TOMORO Aren Latte",
+    "description": "\"Latte\" berarti susu di Italia. Kami menggunakan 100% gula aren dari Indonesia, dicampurkan dengan espresso dan susu yang di steam dengan busa susu tipis di atasnya. *Untuk minuman yang tidak ada gula, di sarankan pesan Caffe Latte",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "26000",
+    "name": "Caffe Latte",
+    "description": "\"Latte\" di Italia berarti susu. Campuran antara kopi dan susu yang seimbang dengan busa susu yang tipis dan lembut di atasnya dan disajikan dengan tanpa gula.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "26000",
+    "name": "Cappuccino",
+    "description": "Cappuccino membutuhkan keterampilan dari barista terbaik, perpaduan espresso yang sempurna dengan susu dan busa susu yang lebih tebal.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Caffe Mocha",
+    "description": "Kaya akan espresso dan saus cokelat ganache yang di kombinasi dengan susu steam yang lembut.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Caramel Macchiato",
+    "description": "Espresso yang intens dicampurkan dengan sirup karamel sebelum ditambahkan ke susu steam yang halus.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "26000",
+    "name": "TOMORO Coconut Latte",
+    "description": "Welcome Coconut Latte paling asli pertama di Indonesia yang bisa buat ngopi lebih enak terbuat dari buah dan air kelapa asli.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "29000",
+    "name": "Coconut Aren Latte",
+    "description": "Welcome Coconut Latte paling asli pertama di Indonesia yang bisa buat ngopi lebih enak terbuat dari buah dan air kelapa asli.",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "36000",
+    "name": "Breve Latte",
+    "description": "Kami menggunakan half & half susu segar dan krim untuk membuat minuman kopi susu yang lembut dan lebih creamy",
+    "section": "espresso brewed coffee"
+  },
+  {
+    "price": "27000",
+    "name": "Chocolate Frappe",
+    "description": "Cokelat yang dicampur dengan susu dan es. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "27000",
+    "name": "Coffee Frappe",
+    "description": "Espresso yang dicampur dengan susu dan es. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "28000",
+    "name": "Aren Latte Frappe",
+    "description": "Kombinasi Espresso, gula aren yang di campur dengan susu dan es. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "28000",
+    "name": "Caffe Mocha Frappe",
+    "description": "Espresso dan cokelat yang dicampurkan dengan susu dan es. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "30000",
+    "name": "Matcha Frappe",
+    "description": "Kombinasi premium matcha dan susu segar. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "30000",
+    "name": "Coconut Aren Frappe",
+    "description": "Perpaduan susu kelapa asli yang diblend dengan sirup gula aren, menjadikan minuman ini cocok untuk semua orang. Whipped cream pada gambar tidak termasuk",
+    "section": "frappe"
+  },
+  {
+    "price": "12000",
+    "name": "Pristine",
+    "description": "Air Mineral 400ml",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "17000",
+    "name": "Pink Pop Lemonade",
+    "description": "Perpaduan rasa lemon yang segar ditambahkan rasa manis dan It's Pink!",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "22000",
+    "name": "Pink Pop Lemon Tea",
+    "description": "Perpaduan antara rasa asam manis dari lemon dan juga teh melati",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "26000",
+    "name": "Chocolate",
+    "description": "Kombinasi cokelat premium dan susu segar, menghasilkan rasa yang kaya dan lembut.",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "26000",
+    "name": "Coconut Choco",
+    "description": "Perpaduan antara coklat premium dari TOMORO dan juga susu kelapa asli menjadikan minuman ini lebih creamy dan dapat dinikmati semua orang.",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "30000",
+    "name": "Matcha Latte",
+    "description": "Kombinasi premium matcha dan susu segar.",
+    "section": "non-coffee beverage"
+  },
+  {
+    "price": "20000",
+    "name": "Choco Danish",
+    "description": "Terinspirasi dari hidangan Perancis, pastry coklat memiliki kombinasi yang lembut dan sempurna antara susu cokelat dan lapisan pastry.",
+    "section": "food & bakery"
+  },
+  {
+    "price": "20000",
+    "name": "Butter Croissant",
+    "description": "Butter croissant klasik dengan lapisan yang renyah dan aroma butter asli yang khas didalamnya.",
+    "section": "food & bakery"
+  },
+  {
+    "price": "24000",
+    "name": "Cinnamon Roll",
+    "description": "Hidangan pastry dengan isi cinammon dan dilapisi gula pada permukaannya.",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Beef Sausage Croissant",
+    "description": "Perpaduan croissant yang lembut dan sosis sapi dengan saus mayonais",
+    "section": "food & bakery"
+  },
+  {
+    "price": "30000",
+    "name": "Cheesy Beef Panini",
+    "description": "Teksyur renyah panini, lelehan keju yang menggiurkan dikombinasikan dengan daging sapi.",
+    "section": "food & bakery"
+  },
+  {
+    "price": "34000",
+    "name": "Beef Omelette Sandwich",
+    "description": "Perpaduan antara roti yang lembut dengan isian daging sapi dan telur omelet",
+    "section": "food & bakery"
+  },
+  {
+    "price": "34000",
+    "name": "Smoked Chicken Onion Sandwich",
+    "description": "Perpaduan antara roti yang lembut dengan isian smoked chicken, keju dan juga caramelized onion",
+    "section": "food & bakery"
+  },
+  {
+    "price": "16000",
+    "name": "Chocolate Cookies",
+    "description": "Terbuat dari cokelat yang kaya rasa dan dipadukan dengan potongan cokelat di atasnya",
+    "section": "food & bakery"
+  },
+  {
+    "price": "16000",
+    "name": "Sweet Potato Cookies",
+    "description": "Terbuat dari ubi manis dan di padukan dengan potongan oreo di atasnya",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Mandarin Orange Danish",
+    "description": "Perpaduan pastry dengan krim yang manis, ditambahkan dengan mandarin orange topping",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Banana Chocolate Danish",
+    "description": "Perpaduan antara pastry dengan krim pisang dan coklat",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Chocolate Roll Cake",
+    "description": "Chocolate cake dengan krim cokelat yang lembut di dalamnya",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Red Velvet Roll Cake",
+    "description": "Red velvet cake yang lembut dengan krim keju dibaian dalamnya",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Srikaya Castella Cake",
+    "description": "Perpaduan antara kue castella yang khas dengan selai srikaya pada bagian dalamnya",
+    "section": "food & bakery"
+  },
+  {
+    "price": "23000",
+    "name": "Speculaas Cake",
+    "description": "Perpaduan antara gula aren dan speculaas, ditambahkan kacang pecan",
+    "section": "food & bakery"
+  },
+  {
+    "price": "24000",
+    "name": "Tuna Mayo Toast",
+    "description": "Roti lapis berisikan daging ikan tuna yang sehat dan kaya akan protein.",
+    "section": "food & bakery"
+  },
+  {
+    "price": "35000",
+    "name": "Asian Steak Sandwich",
+    "description": "Perpaduan antara roti yang lembut dengan irisan daging sapi, ditambah dengan saus teriyaki",
+    "section": "food & bakery"
+  },
+  {
+    "price": "35000",
+    "name": "BBQ Chickwich",
+    "description": "Perpaduan antara roti yang lembut dengan daging ayam dan saus barbecue",
+    "section": "food & bakery"
+  },
+  {
+    "price": "149000",
+    "name": "Tote Bag Large",
+    "description": "Tote Bag Large",
+    "section": "merchandise"
+  },
+  {
+    "price": "299000",
+    "name": "3pcs Tote Bag Large",
+    "description": "3pcs Tote Bag Large",
+    "section": "merchandise"
+  },
+  {
+    "price": "99000",
+    "name": "Tote Bag Small",
+    "description": "Tote Bag Small",
+    "section": "merchandise"
+  },
+  {
+    "price": "199000",
+    "name": "3pcs Tote Bag Small",
+    "description": "3pcs Tote Bag Small",
+    "section": "merchandise"
+  },
+  {
+    "price": "30000",
+    "name": "Santos Maritaca Brazil Caffè Americano",
+    "description": "Kopi single origin dari Brazil kali ini memiliki aroma kacang Brazil, coklat nougat dan berakhir dengan toffee. Kopi yang tentunya bisa dinikmati semua kalangan penikmat kopi.",
+    "section": "master s.o.e. series"
+  },
+  {
+    "price": "36000",
+    "name": "Santos Maritaca Brazili Caffé Latte",
+    "description": "Espresso Received With Coffee, Combined With Fresh Milk, Produces A More Delicious And Soft Coffee This Time.",
+    "section": "master s.o.e. series"
+  },
+  {
+    "price": "42000",
+    "name": "Santos Maritaca Brazil Breve Latte",
+    "description": "The most popular choice of beverage from Master Single Origin Espresso series, giving you a harmonious and balanced beverage. Truly a perfect combination with espresso from Santos Maritaca Brazil.",
+    "section": "master s.o.e. series"
+  },
+  {
+    "price": "40000",
+    "name": "Best Deal 1",
+    "description": "Choose 1 Food + Choose 1 Drink (R)",
+    "section": "my meal bundle"
+  },
+  {
+    "price": "44000",
+    "name": "Best Deal 2",
+    "description": "1 Cinnamon Roll + Choose 1 Drink (R)",
+    "section": "my meal bundle"
+  },
+  {
+    "price": "24000",
+    "name": "Strawberry Americano",
+    "description": "Perpaduan antara espresso dari TOMORO Blend dan Strawberry Puree asli,menghasilkan rasa manis yang menyegarkan.",
+    "section": "fruitie series"
+  },
+  {
+    "price": "24000",
+    "name": "Strawberry Jasmine Tea",
+    "description": "Perpaduan sempurna dari rasa manis dari Strawberry Puree Asli dan wangi dari Jasmine Green Tea,menghasilkan rasa yang menyegarkan.",
+    "section": "fruitie series"
+  },
+  {
+    "price": "30000",
+    "name": "Strawberry Coconut Frappe",
+    "description": "Perpaduan Susu Kelapa Asli yang di blend dengan es,di tambahkan rasa manis dari Strawberry Puree Asli, menghasilkan rasa yang menyegarkan. Whipped Cream pada gambar tidak termasuk.",
+    "section": "fruitie series"
+  },
+  {
+    "price": "34000",
+    "name": "Strawberry Jasmine Smoothie",
+    "description": "Perpaduan Jasmine Green Tea yang di blend dengan Strawberry Puree Asli,menghasilkan minuman yang menyegarkan.Whipped Cream pada gambar tidak termasuk.",
+    "section": "fruitie series"
+  }
+]

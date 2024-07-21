@@ -1,0 +1,224 @@
+[
+  {
+    "price": "5000",
+    "name": "White Rice",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Lontong 1",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7000",
+    "name": "Lontong Jumbo 1",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7000",
+    "name": "Aqua Botol 1",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pucuk Harum 1",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam 10 Tusuk + Nasi",
+    "description": "Chicken Satay With Skin",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam 10 Tusuk + Lontong 1",
+    "description": "Chicken Satay With Skin",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Ayam 15 Tusuk + Nasi",
+    "description": "Chicken Satay Mixed With Skin",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Ayam 15 Tusuk + Lontong 1",
+    "description": "Chicken Satay Mixed With Skin",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "20000",
+    "name": "Sate Ayam 10 Tusuk",
+    "description": "Chicken Satay With Skin",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "30000",
+    "name": "Sate Ayam 15 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "40000",
+    "name": "Sate Ayam 20 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "50000",
+    "name": "Sate Ayam 25 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "60000",
+    "name": "Sate Ayam 30 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "80000",
+    "name": "Sate Ayam 40 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "100000",
+    "name": "Sate Ayam 50 Tusuk",
+    "description": "",
+    "section": "sate ayam spesial food,,"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam Taichan 10 Tusuk + Nasi",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam Taichan 10 Tusuk + Lontong 1",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Ayam Taichan 15 Tusuk + Nasi",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Ayam Taichan 15 Tusuk + Lontong 1",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "20000",
+    "name": "Sate Ayam Taichan 10 Tusuk",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "30000",
+    "name": "Sate Ayam Taichan 15 Tusuk",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "40000",
+    "name": "Sate Ayam Taichan 20 Tusuk",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "50000",
+    "name": "Sate Ayam Taichan 25 Tusuk",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "60000",
+    "name": "Sate Ayam Taichan 30 Tusuk",
+    "description": "",
+    "section": "sate ayam taichan spesial food,,"
+  },
+  {
+    "price": "37000",
+    "name": "Sate Kambing 10 Tusuk + Nasi",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "37000",
+    "name": "Sate Kambing 10 Tusuk + Lontong 1",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "53000",
+    "name": "Sate Kambing 15 Tusuk + Nasi",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "53000",
+    "name": "Sate Kambing 15 Tusuk + Lontong 1",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "32000",
+    "name": "Sate Kambing 10 Tusuk",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "64000",
+    "name": "Sate Kambing 15 Tusuk",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "64000",
+    "name": "Sate Kambing 20 Tusuk",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "80000",
+    "name": "Sate Kambing 25 Tusuk",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "96000",
+    "name": "Sate Kambing 30 Tusuk",
+    "description": "",
+    "section": "sate kambing spesial food,,"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam Full Daging 10 Tusuk",
+    "description": "",
+    "section": "sate ayam & sate ayam taichan & sate kambing full daging"
+  },
+  {
+    "price": "25000",
+    "name": "Sate Ayam Taichan Full Daging 10 Tusuk",
+    "description": "",
+    "section": "sate ayam & sate ayam taichan & sate kambing full daging"
+  },
+  {
+    "price": "40000",
+    "name": "Sate Kambing Full Daging 10 Tusuk",
+    "description": "",
+    "section": "sate ayam & sate ayam taichan & sate kambing full daging"
+  }
+]

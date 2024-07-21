@@ -1,0 +1,417 @@
+[
+  {
+    "price": "24640",
+    "name": "Ayam Bakar Doank",
+    "description": "Chicken. Sambal. Lalap",
+    "section": "today's offer"
+  },
+  {
+    "price": "24640",
+    "name": "Ayam Goreng Doank",
+    "description": "Chicken. Sambal. Lalap",
+    "section": "today's offer"
+  },
+  {
+    "price": "35200",
+    "name": "Fried Chicken With Tofu Tempeh + Rice",
+    "description": "Rice Tofu Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Chicken Thighs With Red Chili Sauce Plus Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "31680",
+    "name": "Chicken Breast With Red Chili Sauce Plus Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Chicken Thighs With Green Chili Sauce Plus Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "31680",
+    "name": "Chicken Breast With Green Chili Sauce Plus Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "25520",
+    "name": "Pecel Lele With Green Chili Sauce + Rice",
+    "description": "Pecel Lele Rice With Lalapan Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "25520",
+    "name": "Catfish + Rice Pecel",
+    "description": "Catfish. Rice. Lalapan. Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "28160",
+    "name": "Tempeh Tofu Catfish + Rice",
+    "description": "Catfish . Tofu. Tempeh . Rice . Sambal. Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Breast Fried Chicken Rice",
+    "description": "Rice. Fried Chicken. Green Sambal. Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "31680",
+    "name": "Breast Grilled Chicken Rice",
+    "description": "Rice. Grilled Chicken. Green Sambal. Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "29920",
+    "name": "Ayam Goreng Paha + Nasi",
+    "description": "Fried Chicken. Rice. Sambal. Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "30800",
+    "name": "Thigh Grilled Chicken + Rice",
+    "description": "Grilled Chicken. Rice. Sambal. Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "34000",
+    "name": "Ayam Goreng Paha + Nasi",
+    "description": "",
+    "section": "hoki diskon"
+  },
+  {
+    "price": "35000",
+    "name": "Fried Chicken Breast + Rice",
+    "description": "",
+    "section": "hoki diskon"
+  },
+  {
+    "price": "96000",
+    "name": "Ayam Bakar X Ayam Goreng X Pecel Lele",
+    "description": "",
+    "section": "lovember (happy hour 20.00 - 23.59)"
+  },
+  {
+    "price": "57000",
+    "name": "Ayam Bakar Plus Nasi Buy 1 Get 1",
+    "description": "",
+    "section": "super deal upto 50%(14.00 - 16.00)"
+  },
+  {
+    "price": "56000",
+    "name": "Ayam Goreng Plus Nasi Buy 1 Get 1",
+    "description": "",
+    "section": "super deal upto 50%(14.00 - 16.00)"
+  },
+  {
+    "price": "45000",
+    "name": "Lele Goreng Plus Nasi Buy 1 Get 1",
+    "description": "2 Catfish 2 Rice",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "13000",
+    "name": "Le Mineral 1500Ml",
+    "description": "1500Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Coca Cola 390Ml",
+    "description": "Bottle",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Sprite 390Ml",
+    "description": "Bottle",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Flavor Variant Of Refreshing Solution",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Pocari Can 330Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pucuk 350Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Air Mineral (Le Mineral)",
+    "description": "600 Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Nu Green Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "24640",
+    "name": "Ayam Bakar Doank",
+    "description": "Chicken. Sambal. Lalap",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "24640",
+    "name": "Ayam Goreng Doank",
+    "description": "Chicken. Sambal. Lalap",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "35200",
+    "name": "Fried Chicken With Tofu Tempeh + Rice",
+    "description": "Rice Tofu Chicken",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "30800",
+    "name": "Chicken Thighs With Red Chili Sauce Plus Rice",
+    "description": "",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "31680",
+    "name": "Chicken Breast With Red Chili Sauce Plus Rice",
+    "description": "",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "30800",
+    "name": "Chicken Thighs With Green Chili Sauce Plus Rice",
+    "description": "",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "31680",
+    "name": "Chicken Breast With Green Chili Sauce Plus Rice",
+    "description": "",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "3000",
+    "name": "Extra Sambal",
+    "description": "",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "25520",
+    "name": "Pecel Lele With Green Chili Sauce + Rice",
+    "description": "Pecel Lele Rice With Lalapan Sambal",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "25520",
+    "name": "Catfish + Rice Pecel",
+    "description": "Catfish. Rice. Lalapan. Sambal",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "28160",
+    "name": "Tempeh Tofu Catfish + Rice",
+    "description": "Catfish . Tofu. Tempeh . Rice . Sambal. Lalapan",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "30800",
+    "name": "Breast Fried Chicken Rice",
+    "description": "Rice. Fried Chicken. Green Sambal. Lalapan",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "31680",
+    "name": "Breast Grilled Chicken Rice",
+    "description": "Rice. Grilled Chicken. Green Sambal. Lalapan",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "29920",
+    "name": "Ayam Goreng Paha + Nasi",
+    "description": "Fried Chicken. Rice. Sambal. Lalapan",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "30800",
+    "name": "Thigh Grilled Chicken + Rice",
+    "description": "Grilled Chicken. Rice. Sambal. Lalapan",
+    "section": "chicken and catfish pecel"
+  },
+  {
+    "price": "42000",
+    "name": "Complete Grilled Le Minerale",
+    "description": "Grilled Chicken Tofu, Tempeh + Rice + Mineral 600Ml",
+    "section": "paket"
+  },
+  {
+    "price": "41000",
+    "name": "Lemineral Goreng Komplit",
+    "description": "Fried Chicken Tofu, Tempeh + Rice + Le Mineral 600Ml",
+    "section": "paket"
+  },
+  {
+    "price": "83000",
+    "name": "Paket Goreng Komplit Ber 2",
+    "description": "2 Fried Chicken 2 Rices 2 Tofus 2 Tempeh 2 Teh Pucuk",
+    "section": "paket"
+  },
+  {
+    "price": "84000",
+    "name": "Complete Grilled Package For 2",
+    "description": "2 Grilled Chicken 2 Rice Portions 2 Tofus 2 Tempeh Pucuk",
+    "section": "paket"
+  },
+  {
+    "price": "80000",
+    "name": "Paket Goreng Ber2",
+    "description": "2 Chicken 2 Rice 2 Teh Pucuk",
+    "section": "paket"
+  },
+  {
+    "price": "6800",
+    "name": "White Rice",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "6800",
+    "name": "Telor Dadar",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "6800",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "topping"
+  },
+  { "price": "2500", "name": "Tofu", "description": "", "section": "topping" },
+  {
+    "price": "2500",
+    "name": "Tempeh",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "33000",
+    "name": "Avocado Shake Durian",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "28000",
+    "name": "Coconut Scrape Avocado",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "28000",
+    "name": "Jackfruit Scrape Avocado",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "25000",
+    "name": "Avocado Shake With Milk",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "33000",
+    "name": "Ice Durian Teler",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "30000",
+    "name": "Es Teler",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "25000",
+    "name": "Es Campur",
+    "description": "",
+    "section": "es es es"
+  },
+  {
+    "price": "16000",
+    "name": "Indomie Kari Ayam Plus Telor",
+    "description": "",
+    "section": "aneka indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Indomie Ayam Bawang Plus Telor",
+    "description": "",
+    "section": "aneka indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Indomie Goreng Plus Telor",
+    "description": "",
+    "section": "aneka indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Indomie Soto Mie Plus Telor",
+    "description": "",
+    "section": "aneka indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Jus Melon",
+    "description": "",
+    "section": "aneka juz"
+  },
+  {
+    "price": "16000",
+    "name": "Pineapple Juice",
+    "description": "",
+    "section": "aneka juz"
+  },
+  {
+    "price": "16000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "aneka juz"
+  },
+  {
+    "price": "16000",
+    "name": "Jus Jambu",
+    "description": "",
+    "section": "aneka juz"
+  },
+  {
+    "price": "16000",
+    "name": "Mango Juice",
+    "description": "",
+    "section": "aneka juz"
+  }
+]

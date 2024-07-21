@@ -1,0 +1,932 @@
+[
+  {
+    "price": "13636",
+    "name": "Himalayan Butter Palm Latte",
+    "description": "Pepaduan kopi susu rasa gula aren yang legit dengan krim himalayan seasalt yang creamy dan buttery khas Point Coffee.",
+    "section": "today's offer"
+  },
+  {
+    "price": "53637",
+    "name": "Geng NGOPI",
+    "description": "3 cups Point Coffee siap menemani kebersamaanmu!",
+    "section": "today's offer"
+  },
+  {
+    "price": "36364",
+    "name": "Special Price!! Today Only",
+    "description": "Nikmatnya bundle 2 cups varian Iced Point Coffee.",
+    "section": "today's offer"
+  },
+  {
+    "price": "90909",
+    "name": "Temen Ngopi",
+    "description": "Paket 3 Iced Palm Sugar Latte + 2 Iced Caramel Macchiato",
+    "section": "today's offer"
+  },
+  {
+    "price": "90909",
+    "name": "Temen Nongki",
+    "description": "Paket 3 Iced Palm Sugar Latte + 2 Iced Matcha",
+    "section": "today's offer"
+  },
+  {
+    "price": "36364",
+    "name": "PADUKA ICED",
+    "description": "Paket Dua Iced Americano",
+    "section": "today's offer"
+  },
+  {
+    "price": "29091",
+    "name": "PADUKA HOT",
+    "description": "Paket Dua Hot Americano",
+    "section": "today's offer"
+  },
+  {
+    "price": "27272",
+    "name": "Paket #KOPIBAPER 2btl",
+    "description": "Kopi Original/Jadul/Hazelnut/Caramel/Palm Sugar/Earl Grey Milk Tea/ Choco Berry",
+    "section": "today's offer"
+  },
+  {
+    "price": "13636",
+    "name": "Himalayan Butter Palm Latte",
+    "description": "Pepaduan kopi susu rasa gula aren yang legit dengan krim himalayan seasalt yang creamy dan buttery khas Point Coffee.",
+    "section": "signature series"
+  },
+  {
+    "price": "22727",
+    "name": "Himalayan Butterscotch Latte",
+    "description": "Perpaduan kopi susu dengan butterscotch yang gurih dan krim himalayan seasalt yang creamy dan buttery khas Point Coffee.",
+    "section": "signature series"
+  },
+  {
+    "price": "22727",
+    "name": "Sunset",
+    "description": "Minuman segar dengan rasa manis dari peach rasa khas point coffee.",
+    "section": "refresher"
+  },
+  {
+    "price": "22727",
+    "name": "Aurora",
+    "description": "Minuman segar dengan perpaduan rasa asam dan manis buah kiwi khas Point Coffee.",
+    "section": "refresher"
+  },
+  {
+    "price": "22727",
+    "name": "Kiwi Pandan",
+    "description": "Perpaduan kesegaran antara buah kiwi dengan aroma dan rasa pandan yang khas tanpa gula",
+    "section": "refresher"
+  },
+  {
+    "price": "53637",
+    "name": "Geng NGOPI",
+    "description": "3 cups Point Coffee siap menemani kebersamaanmu!",
+    "section": "special bundle"
+  },
+  {
+    "price": "36364",
+    "name": "Special Price!! Today Only",
+    "description": "Nikmatnya bundle 2 cups varian Iced Point Coffee.",
+    "section": "special bundle"
+  },
+  {
+    "price": "90909",
+    "name": "Temen Ngopi",
+    "description": "Paket 3 Iced Palm Sugar Latte + 2 Iced Caramel Macchiato",
+    "section": "special bundle"
+  },
+  {
+    "price": "90909",
+    "name": "Temen Nongki",
+    "description": "Paket 3 Iced Palm Sugar Latte + 2 Iced Matcha",
+    "section": "special bundle"
+  },
+  {
+    "price": "36364",
+    "name": "PADUKA ICED",
+    "description": "Paket Dua Iced Americano",
+    "section": "special bundle"
+  },
+  {
+    "price": "29091",
+    "name": "PADUKA HOT",
+    "description": "Paket Dua Hot Americano",
+    "section": "special bundle"
+  },
+  {
+    "price": "54545",
+    "name": "Duo Frappe",
+    "description": "Manjakan harimu dengan 2 cups Frappe!",
+    "section": "special bundle"
+  },
+  {
+    "price": "27272",
+    "name": "Paket #KOPIBAPER 2btl",
+    "description": "Kopi Original/Jadul/Hazelnut/Caramel/Palm Sugar/Earl Grey Milk Tea/ Choco Berry",
+    "section": "paket #kopibaper"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Almond Latte",
+    "description": "Minuman kopi dengan perpaduan rasa dan aroma gurih kacang almond",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Palm Sugar Latte",
+    "description": "Satu shot Espresso dengan perpaduan manisnya gula aren dan lembutnya susu steam berlapis foam",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Pistachio Latte",
+    "description": "Minuman kopi dengan perpaduan rasa dan aroma gurih kacang pistachio",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Long Black",
+    "description": "Dua shot espresso dengan air panas tanpa gula",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Flat White",
+    "description": "Dua shot espresso dengan susu steam yang lembut tanpa gula",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Mocha",
+    "description": "Satu shot Espresso dengan cokelat khas Point Coffee dan susu steam",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Latte",
+    "description": "Satu shot espresso dengan susu steam dan berlapis foam tipis di atasnya tanpa gula",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Cappuccino",
+    "description": "Dua shot espresso dengan susu steam berlapis foam di atasnya tanpa gula",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Caramel Macchiato",
+    "description": "Perpaduan antara kopi dan susu dengan rasa caramel yang creamy.",
+    "section": "hot coffee"
+  },
+  {
+    "price": "13636",
+    "name": "Hot Piccolo",
+    "description": "Kopi dengan sedikit susu (Rasa kopi strong)",
+    "section": "hot coffee"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Cafe Dolce",
+    "description": "Satu shot espresso dengan susu fresh dan susu manis rasa vanila",
+    "section": "hot coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Shaken Black Lychee",
+    "description": "Perpaduan nikmatnya kopi hitam dan kesegaran daari lychee dishake bersama memberikan memberikan sensasi foamy yang unik.",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Pistachio Latte",
+    "description": "Minuman kopi dengan perpaduan rasa dan aroma gurih kacang pistachio",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Shaken Blackpeach",
+    "description": "Perpaduan Nikmatnya kopi hitam dan kesegaran buah peach yang dishake bersama memberikan memberikan sensasi foamy yang unik",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Latte",
+    "description": "Dua shot espresso dengan susu segar tanpa gula",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Mocha",
+    "description": "Dua shot Espresso dengan cokelat khas Point Coffee dan susu segar",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Dolce",
+    "description": "Dua shot Espresso dengan susu kental manis dan susu segar",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Palm Sugar Latte",
+    "description": "Dua shot Espresso dengan perpaduan manisnya gula aren dan susu segar",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Shaken Creamy Latte",
+    "description": "Perpaduan kopi susu yang legit dan manis dishake bersama dengan signature ingredients Point Coffee yang memberikan sensasi rasa nikmat dan creamy",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Almond Latte",
+    "description": "Minuman kopi dengan perpaduan rasa dan aroma gurih kacang almond",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Cappuccino",
+    "description": "Dua Shot Espresso Dengan Susu Segar Dan Tambahan Coffee Jelly Tanpa Gula.",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Long Black",
+    "description": "Dua shot espresso dengan air dingin tanpa gula",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Shaken Blackpeach",
+    "description": "Perpaduan Nikmatnya kopi hitam dan kesegaran buah peach yang dishake bersama memberikan memberikan sensasi foamy yang unik.",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Shaken Creamy Latte",
+    "description": "Perpaduan kopi susu yang legit dan manis dishake bersama dengan signature ingredients Point Coffee yang memberikan sensasi rasa nikmat dan creamy.",
+    "section": "iced coffee"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Creamy Matchachio",
+    "description": "Minuman susu dengan perpaduan pistachio dan krim matcha yang lembut.",
+    "section": "iced milk"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Matcha",
+    "description": "Perpaduan antara matcha yang manis dan wangi dengan susu segar",
+    "section": "iced milk"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Signature Chocolate",
+    "description": "Perpaduan antara cokelat khas Point Coffee dengan susu segar",
+    "section": "iced milk"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Matcha",
+    "description": "Perpaduan antara matcha yang manis dan wangi dengan susu steam berlapis foam tanpa gula",
+    "section": "hot milk"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Signature Chocolate",
+    "description": "Perpaduan antara cokelat khas Point Coffee dengan susu steam berlapis foam tanpa gula",
+    "section": "hot milk"
+  },
+  {
+    "price": "22727",
+    "name": "Es Loreng",
+    "description": "Perpaduan antara susu segar dan gula aren dengan topping brown sugar konyaku",
+    "section": "#milikindonesia"
+  },
+  {
+    "price": "22727",
+    "name": "Kopi Pandan",
+    "description": "Perpaduan antara susu segar, pandan dan satu shot espresso tanpa gula",
+    "section": "#milikindonesia"
+  },
+  {
+    "price": "22727",
+    "name": "Cendolita",
+    "description": "Minuman khas Indonesia yang manis dan creamy ditambah dengan gula aren dan topping nangka jelly",
+    "section": "#milikindonesia"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Rose & Rosella",
+    "description": "Minuman teh dengan rasa dan aroma bunga rose & rosella",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Earl Grey",
+    "description": "Minuman Teh Dengan Rasa Dan Aroma Khas Earl Grey.",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Chamomile",
+    "description": "Minuman teh dengan rasa dan aroma bunga chamomile",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Brewed Tea",
+    "description": "Minuman teh dengan rasa teh hitam",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Brewed Peach Tea",
+    "description": "Minuman teh dengan rasa peach yang manis dan segar",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Brewed Lychee Tea",
+    "description": "Minuman teh dengan rasa lychee yang manis dan segar",
+    "section": "iced tea"
+  },
+  {
+    "price": "16364",
+    "name": "Iced Lemon Tea",
+    "description": "Teh segar yang kaya akan rasa lemon yang asam dan manis",
+    "section": "iced tea"
+  },
+  {
+    "price": "13636",
+    "name": "Hot Lemon Tea",
+    "description": "Teh yang kaya akan rasa lemon yang asam dan manis tanpa gula",
+    "section": "hot tea"
+  },
+  {
+    "price": "13636",
+    "name": "Hot Brewed Tea",
+    "description": "Minuman teh dengan rasa teh hitam",
+    "section": "hot tea"
+  },
+  {
+    "price": "13636",
+    "name": "Hot Brewed Lychee Tea",
+    "description": "Minuman teh dengan rasa lychee yang manis dan segar",
+    "section": "hot tea"
+  },
+  {
+    "price": "13636",
+    "name": "Hot Brewed Peach Tea",
+    "description": "Minuman teh dengan rasa peach yang manis dan segar",
+    "section": "hot tea"
+  },
+  {
+    "price": "40818",
+    "name": "Tumbler Double Wall (Straw & Non-Straw)",
+    "description": "Tumbler Double Wall (Straw & Non Straw)",
+    "section": "merchandise"
+  },
+  {
+    "price": "136273",
+    "name": "Mug Tanpa Handle Point Coffee",
+    "description": "Mug Tanpa Handle Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "34455",
+    "name": "Notebook Point Coffee",
+    "description": "Notebook Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "318182",
+    "name": "Tumbler Thermos Point Coffee",
+    "description": "Tumbler Thermos Point Coffee (Double Wall)",
+    "section": "merchandise"
+  },
+  {
+    "price": "136273",
+    "name": "Mug Dengan Handle Point Coffee",
+    "description": "Mug Dengan Handle Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "29909",
+    "name": "Totebag Point Coffee",
+    "description": "Totebag Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "36364",
+    "name": "Metal Keychain Point Coffee",
+    "description": "Point Coffee Merchandise Metal Keychain",
+    "section": "merchandise"
+  },
+  {
+    "price": "18182",
+    "name": "Rubber Keychain Point Coffee",
+    "description": "Point Coffee Merchandise Rubber Keychain",
+    "section": "merchandise"
+  },
+  {
+    "price": "163545",
+    "name": "Tas Laptop Point Coffee",
+    "description": "Tas Laptop Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "109000",
+    "name": "Cup Espresso Point Coffee",
+    "description": "Cup Espresso Point Coffee (2 Oz)",
+    "section": "merchandise"
+  },
+  {
+    "price": "145364",
+    "name": "Mug Tyeso Point Coffee",
+    "description": "Point Coffee Mug Tyeso Black Series",
+    "section": "merchandise"
+  },
+  {
+    "price": "109000",
+    "name": "Organizer Bag Point Coffee",
+    "description": "Point Coffee Organizer Bag Black Series",
+    "section": "merchandise"
+  },
+  {
+    "price": "163545",
+    "name": "V60 Point Coffee",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "90818",
+    "name": "Bricks Point Coffee",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "66273",
+    "name": "Payung Lipat Point Coffee",
+    "description": "Payung Lipat Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "136273",
+    "name": "Tumbler Spike Point Coffee",
+    "description": "Tumbler Spike Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "81727",
+    "name": "Pocket Cup Point Coffee",
+    "description": "Foldable Pocket Cup Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "31727",
+    "name": "Mug Point Coffee",
+    "description": "Stoneware Mug Point Coffee",
+    "section": "merchandise"
+  },
+  {
+    "price": "109000",
+    "name": "Vacuum Flask Point Coffee",
+    "description": "Point Coffee Vacuum Flask Black Series",
+    "section": "merchandise"
+  },
+  {
+    "price": "122636",
+    "name": "Tumbler Suhu Black Point Coffee",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "122636",
+    "name": "Tumbler Suhu Hijau Point Coffee",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "13636",
+    "name": "Yummy Choice FZ Nasi Daun Ayam Geprek",
+    "description": "Paket nasi bakar yang disajikan dengan ayam geprek sambal madura dan kemangi yang harum, gurih, dan pedas.",
+    "section": "nasi bento"
+  },
+  {
+    "price": "29091",
+    "name": "Yummy Choice Nasi Bakar Ayam",
+    "description": "Nasi dengan toping ayam suwir, teri dan sambal hijau (pedas). *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "29091",
+    "name": "Yummy Choice Nasi Ayam Betutu Sambal Matah",
+    "description": "Nasi dengan ayam bumbu betutu dan sambal matah (pedas). *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "30909",
+    "name": "Yummy Choice Nasi Rendang Cabe Ijo",
+    "description": "Nasi Dengan Daging Bumbu Khas Minang Dengan Sambal Ijo (Pedas). *Dapat Dipesan Dalam Kondisi Beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "30909",
+    "name": "Yummy Choice Nasi Beef Yakiniku",
+    "description": "Nasi dengan lauk daging sapi saus yakiniku, sambal bawang, dan taburan mix vegetables (jagung pipil, wortel, kacang polong hijau) di atas nasi. *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "29091",
+    "name": "Yummy Choice Nasi Ayam Woku",
+    "description": "Nasi dengan ayam bumbu woku (pedas). *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "30909",
+    "name": "Yummy Choice Nasi Daging Sapi Cincang",
+    "description": "Nasi dengan daging cincang saus hamburg dan taburan mix vegetables (jagung pipil, wortel, kacang polong hijau) di atas nasi. *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "29091",
+    "name": "Yummy Choice Nasi Chicken Teriyaki",
+    "description": "Nasi dengan ayam saus teriyaki, sambal bawang, dan taburan mix vegetables (jagung pipil, wortel, kacang polong hijau) di atas nasi. *dapat dipesan dalam kondisi beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "29091",
+    "name": "Yummy Choice Nasi Bakar Ikan Cakalang",
+    "description": "Nasi Bakar Dengan Isian Ikan Cakalang Berbumbu Khas Manado (Pedas). *Dapat Dipesan Dalam Kondisi Beku",
+    "section": "nasi bento"
+  },
+  {
+    "price": "9091",
+    "name": "Yummy Choice French Fries",
+    "description": "Kentang goreng yang dipotong tipis dengan tekstur yang lebih crunch. Harga normal 12.000",
+    "section": "fried snack"
+  },
+  {
+    "price": "14545",
+    "name": "Yummy Choice Crispy Boneless Chicken",
+    "description": "Ayam Fillet goreng yang disajikan dengan bumbu Spicy BBQ. Berat 65gr / pcs.",
+    "section": "fried snack"
+  },
+  {
+    "price": "13545",
+    "name": "Yummy Choice Fried Chicken Dada",
+    "description": "Sayap Ayam dibalut dengan tepung yang renyah.",
+    "section": "fried chicken"
+  },
+  {
+    "price": "13545",
+    "name": "Yummy Choice Fried Chicken Paha Atas",
+    "description": "Nasi Putih",
+    "section": "fried chicken"
+  },
+  {
+    "price": "11727",
+    "name": "Yummy Choice Fried Chicken Paha Bawah",
+    "description": "Dada Ayam dibalut dengan tepung yang renyah.",
+    "section": "fried chicken"
+  },
+  {
+    "price": "4545",
+    "name": "Yummy Choice Nasi Putih",
+    "description": "Nasi Putih",
+    "section": "fried chicken"
+  },
+  {
+    "price": "11727",
+    "name": "Yummy Choice Fried Chicken Sayap",
+    "description": "Paha Atas Ayam dibalut dengan tepung yang renyah.",
+    "section": "fried chicken"
+  },
+  {
+    "price": "8182",
+    "name": "Yummy Choice Steam Pao Besar Ayam Kecap",
+    "description": "Pao kukus besar dengan filling ayam kecap.",
+    "section": "steam food"
+  },
+  {
+    "price": "17273",
+    "name": "Yummy Choice Siomay Ayam Udang 2's",
+    "description": "2 Pcs Siomay Yang Terbuat Dari Campuran Daging Ayam Dan Udang Segar, Dikonsumsi Dengan Bumbu Kacang Halus, Kecap Manis Dan Perasan Jeruk Nipis Untuk Menambahkan Kelezatan",
+    "section": "steam food"
+  },
+  {
+    "price": "8182",
+    "name": "Yummy Choice Steam Pao Besar Ayam Panggang",
+    "description": "Pao kukus besar dengan filling ayam panggang.",
+    "section": "steam food"
+  },
+  {
+    "price": "10000",
+    "name": "Yummy Choice Dimsum Ayam 2's",
+    "description": "2 pcs dimsum yang terbuat dari olahan daging ayam",
+    "section": "steam food"
+  },
+  {
+    "price": "10000",
+    "name": "Yummy Choice Dimsum Ayam Udang 2's",
+    "description": "2 pcs dimsum yang terbuat dari olahan daging ayam dengan toping udang",
+    "section": "steam food"
+  },
+  {
+    "price": "10000",
+    "name": "Yummy Choice Dimsum Ayam Bayam 2's",
+    "description": "2 pcs dimsum yang terbuat dari olahan daging ayam dan sayur bayam",
+    "section": "steam food"
+  },
+  {
+    "price": "10000",
+    "name": "Yummy Choice Dimsum Ayam Jamur 2's",
+    "description": "2 pcs dimsum yang terbuat dari daging ayam dengan topping jamur",
+    "section": "steam food"
+  },
+  {
+    "price": "10000",
+    "name": "Yummy Choice Dimsum Ayam Pedas 2's",
+    "description": "2 pcs dimsum yang terbuat dari daging ayam dicampur dengan chilli oil",
+    "section": "steam food"
+  },
+  {
+    "price": "13636",
+    "name": "Yummy Choice FZ Bihun Goreng",
+    "description": "Bihun Goreng Frozen yang disajikan dengan toping ayam suwir dan taburan bawang goreng dengan cita rasa yang manis gurih.",
+    "section": "pasta & noodle"
+  },
+  {
+    "price": "16273",
+    "name": "Paket 1 Fried Chicken + 1 Nasi Putih",
+    "description": "1 pcs Fried Chicken + 1 pcs Nasi Putih",
+    "section": "paket single fried chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Yummy Choice Rawon Daging Sapi",
+    "description": "Sup daging sapi berkuah hitam khas Jawa Timur yang disajikan besama bawang goreng dan sambal. Produk dapat dikirim beku / dipanaskan di toko.",
+    "section": "lauk pauk"
+  },
+  {
+    "price": "30909",
+    "name": "Yummy Choice Soto Daging Sapi",
+    "description": "Sup daging sapi berkuah kuning khas Jawa Timur yang disajikan bersama sambal, bawang goreng, dan seledri. Produk dapat dikirim beku / dipanaskan di toko.",
+    "section": "lauk pauk"
+  },
+  {
+    "price": "12727",
+    "name": "Yummy Choice Sosis Bakar Sapi Original",
+    "description": "Sosis Sapi original yang di grilled. Bisa pilih Saus Chilli / BBQ",
+    "section": "sosis bakar"
+  },
+  {
+    "price": "12727",
+    "name": "Yummy Choice Sosis Bakar Keju Original",
+    "description": "Sosis sapi dengan filling keju yang di grilled. Bisa pilih Saus Chilli / BBQ",
+    "section": "sosis bakar"
+  },
+  {
+    "price": "69091",
+    "name": "Gift Hampers #KOPIBAPER",
+    "description": "Gift Hampers berisi 4 botol #KOPIBAPER (tulis ucapan di note pesanan)",
+    "section": "gift hampers"
+  },
+  {
+    "price": "27273",
+    "name": "Cookies&Cream Frappe",
+    "description": "Minuman ice blended dengan campuran susu, vanilla dan biskuit oreo (oreo blended).",
+    "section": "frappe"
+  },
+  {
+    "price": "27273",
+    "name": "Crunchy Caramel Frappe",
+    "description": "Minuman ice blended dengan campuran susu, caramel dan ada tekstur crunchy.",
+    "section": "frappe"
+  },
+  {
+    "price": "27273",
+    "name": "Avocadofee Frappe",
+    "description": "Minuman ice blended dengan campuran avocado dan kopi.",
+    "section": "frappe"
+  },
+  {
+    "price": "27273",
+    "name": "Matcha Frappe",
+    "description": "Minuman ice blended dengan campuran susu dan matcha khas Point Coffee.",
+    "section": "frappe"
+  },
+  {
+    "price": "27273",
+    "name": "Chocolate Frappe",
+    "description": "Minuman ice blended dengan campuran susu dan coklat khas Point Coffee.",
+    "section": "frappe"
+  },
+  {
+    "price": "27273",
+    "name": "Mysterious Green Frappe",
+    "description": "Minuman blended dari negeri dongeng dengan campuran bubuk daun ajaib dengan resep rahasia Point Coffee yang memikat hati",
+    "section": "frappe"
+  },
+  {
+    "price": "31818",
+    "name": "Peach Berry Yogurt Frappe",
+    "description": "Minuman blended perpaduan rasa manis buah strawberry dan buah peach dengan rasa ciri khas cimory yogurt dan sensasi kenyal jelly",
+    "section": "summer delight"
+  },
+  {
+    "price": "31818",
+    "name": "Purple Berry Yogurt Frappe",
+    "description": "Minuman blended perpaduan rasa manis buah berry dan bunga telang dengan rasa ciri khas cimory yogurt dan sensasi kenyal jelly",
+    "section": "summer delight"
+  },
+  {
+    "price": "22727",
+    "name": "Milky Melon Frappe",
+    "description": "Minuman susu blended dengan rasa milky dipadukan dengan aroma dan rasa manis khas buah melon.",
+    "section": "ramadan moonlight"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Melon Splash",
+    "description": "Minuman dengan perpaduan rasa asam dan manis khas buah melon yang menyegarkan.",
+    "section": "ramadan moonlight"
+  },
+  {
+    "price": "22727",
+    "name": "Melon Splash Iced",
+    "description": "Minuman dengan perpaduan rasa asam dan manis khas buah melon yang menyegarkan.",
+    "section": "ramadan moonlight"
+  },
+  {
+    "price": "22727",
+    "name": "Milky Melon Frappe",
+    "description": "Minuman susu blended dengan rasa milky dipadukan dengan aroma dan rasa manis khas buah melon.",
+    "section": "ramadan moonlight"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Melon Splash",
+    "description": "Minuman dengan perpaduan rasa asam dan manis khas buah melon yang menyegarkan.",
+    "section": "ramadan moonlight"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Biscoff Milkcheese",
+    "description": "Minuman yang mengkombinasikan rasa manis, gurih, dan creamy yang dipadukan dengan sensasi crunchy dari lotus biscoff.",
+    "section": "biscoff series"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Biscoff Latte",
+    "description": "Minuman kopi susu manis dan gurih yang dipadukan dengan sensasi crunchy dari lotus biscoff.",
+    "section": "biscoff series"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Berrypresso",
+    "description": "Minuman kopi susu dengan perpaduan rasa asam dan manis dari strawberry dengan hint gurih",
+    "section": "exclusive online menu"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Soya Pandan",
+    "description": "Minuman dengan perpaduan rasa manis dan wangi pandan dengan gurih khas susu soya",
+    "section": "soya series"
+  },
+  {
+    "price": "18182",
+    "name": "Hot Soya Mocha latte",
+    "description": "Minuman dengan perpaduan kopi dan coklat dengan gurih khas susu soya.",
+    "section": "soya series"
+  },
+  {
+    "price": "22727",
+    "name": "Iced Soya Berry Chocolate",
+    "description": "Minuman dengan perpaduan manis dari strawberry dan chocolate dengan susu soya.",
+    "section": "soya series"
+  },
+  {
+    "price": "20000",
+    "name": "Paket 2 Dimsum 2's",
+    "description": "Pilih 2 porsi dimsum 2's (4 pcs) favoritmu!",
+    "section": "best seller menu"
+  },
+  {
+    "price": "9091",
+    "name": "Double Cheese Bread",
+    "description": "roti yang manis dengan filling keju yang lumer dan melimpah",
+    "section": "roti"
+  },
+  {
+    "price": "9091",
+    "name": "Tuna Mayo Corn",
+    "description": "nikmati pastry yang gurih dan renyah dikombinasikan dengan isian ikan tuna dan jagung dilengkapi dengan mayonnaise yang creamy",
+    "section": "roti"
+  },
+  {
+    "price": "9091",
+    "name": "Polo Keju",
+    "description": "Nikmati isian keju yang lumer di dalam roti yang nikmat dengan balutan biskuit yang renyah",
+    "section": "roti"
+  },
+  {
+    "price": "9091",
+    "name": "Polo Coklat",
+    "description": "Nikmati isian coklat yang lumer di dalam roti yang nikmat dengan balutan biskuit yang renyah",
+    "section": "roti"
+  },
+  {
+    "price": "9091",
+    "name": "Roti Klepon Manis",
+    "description": "Roti yang diambil dari ciri khas Indonesia, dengan teksture lembut dan filling parutan kelapa berpadu dengan gula merah yang manis ditambah aroma pandan yang harum",
+    "section": "roti"
+  },
+  {
+    "price": "9091",
+    "name": "Cream Cheese Topping Pie",
+    "description": "Pastry yang renyah dengan topping cream cheese yang gurih",
+    "section": "roti"
+  },
+  {
+    "price": "16364",
+    "name": "Yummy Choice Onigiri Daging Sapi Cincang",
+    "description": "Nasi kepal dengan filling daging sapi cincang yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Ayam Suwir Gurih",
+    "description": "Nasi kepal Jepang dengan filling ayam suwir gurih yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Tuna Mayonaise",
+    "description": "Nasi Kepal Jepang Dengan Filling Tuna Mayonaise Yang Dapat Dimakan Langsung Tanpa Dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "16364",
+    "name": "Yummy Choice Onigiri Salmon Mayo",
+    "description": "Nasi kepal dengan filling salmon mayo yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Chicken Teriyaki",
+    "description": "Nasi kepal Jepang dengan filling chicken teriyaki yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Spicy Tuna",
+    "description": "Nasi Kepal Jepang Dengan Filling Hot Tuna Yang Dapat Dimakan Langsung Tanpa Dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "16364",
+    "name": "Yummy Choice Onigiri Spicy Salmon",
+    "description": "Nasi kepal dengan filling spicy salmon yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Chicken Mayonaise",
+    "description": "Nasi kepal Jepang dengan filling chicken mayonaise yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "11818",
+    "name": "Yummy Choice Onigiri Spicy Chicken Mayo",
+    "description": "Nasi kepal Jepang dengan filling spicy chicken mayo yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "16364",
+    "name": "Yummy Choice Onigiri Salmon Teriyaki",
+    "description": "Nasi kepal dengan filling salmon teriyaki yang dapat dimakan langsung tanpa dipanaskan.",
+    "section": "onigiri"
+  },
+  {
+    "price": "8636",
+    "name": "Choco Pie",
+    "description": "",
+    "section": "donut"
+  },
+  {
+    "price": "8636",
+    "name": "Cookies Ring",
+    "description": "",
+    "section": "donut"
+  },
+  {
+    "price": "8636",
+    "name": "Almond Ring",
+    "description": "",
+    "section": "donut"
+  }
+]

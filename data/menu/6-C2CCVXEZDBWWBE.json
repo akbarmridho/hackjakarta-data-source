@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "22000",
+    "name": "Nasi+Cumi Asin Bumbu Cabe Ijo",
+    "description": "White Rice + Salted Squid With Green Chili Seasoning",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "20000",
+    "name": "Fish Rice With Fresh Vegetables Sambal",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "25000",
+    "name": "Rice + Egg Balado + Vegetables + Egg + Egg Sambal",
+    "description": "",
+    "section": "jelas hemat 30%"
+  },
+  {
+    "price": "17000",
+    "name": "Sweet And Spicy Snapper",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "17000",
+    "name": "Balado Snapper",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "17000",
+    "name": "Yellow Spiced Snapper Fish",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Ikan Lele Bumbu Kuning",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "60000",
+    "name": "4 Catfish + Green Sambal + Fresh Vegetables",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Catfish With Green Chili Seasoning",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Ikan Lele Goreng Serundeng",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "8000",
+    "name": "Medan Anchovy Tofu Pepes",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "17000",
+    "name": "Snapper With Green Chili Seasoning",
+    "description": "",
+    "section": "fish variety"
+  },
+  {
+    "price": "80000",
+    "name": "Paket Rabu",
+    "description": "3 Cups + 3 Rice Portions + Lalapan + Sambal",
+    "section": "paket rabu"
+  },
+  {
+    "price": "200000",
+    "name": "10 Packs Of Rice",
+    "description": "Rice + Cob Fish, Stir-Fried, Scrambled Tempeh, Chili Sauce",
+    "section": "rames rice wrapped"
+  },
+  {
+    "price": "85000",
+    "name": "5 Packs Of Rice",
+    "description": "Rice + Chicken + Scrambled Tempe + Stir-Fried + Sambal",
+    "section": "rames rice wrapped"
+  },
+  {
+    "price": "26000",
+    "name": "1 Pack Of Rice",
+    "description": "Jengkol, Sauteed, Intestines, Cue Balado Cobs, Chili Sauce",
+    "section": "rames rice wrapped"
+  },
+  {
+    "price": "40000",
+    "name": "2 Wrapped Rice",
+    "description": "Jengkol Balado, Sauteed, Scrambled Tempeh, Chili Sauce",
+    "section": "rames rice wrapped"
+  },
+  {
+    "price": "16000",
+    "name": "Indomi Goreng Telor Urak Arik",
+    "description": "",
+    "section": "indomie"
+  },
+  {
+    "price": "17000",
+    "name": "Indomi Mie Rebus Telor Cabe Rawit",
+    "description": "",
+    "section": "indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Indomi Rebus",
+    "description": "",
+    "section": "indomie"
+  },
+  {
+    "price": "16000",
+    "name": "Indomie Fried Egg",
+    "description": "Fried Noodles + Choice Of Fried/Boiled Egg",
+    "section": "indomie"
+  },
+  {
+    "price": "3500",
+    "name": "White Crackers",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "2500",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "2500",
+    "name": "Fried Tofu",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3500",
+    "name": "Perkedel",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Oncom",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Crispy Fried Fishcake",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Tofu Martabak",
+    "description": "Spring Roll Skin + Tofu",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Gorengan Bakwan",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Stuffed Tofu Fritters",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "3000",
+    "name": "Flour Tempe Fritters",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "2000",
+    "name": "Small Shrimp Fritters",
+    "description": "",
+    "section": "fritters"
+  },
+  {
+    "price": "15000",
+    "name": "Oseng Cumi Asin+Tempe Pedes Manis",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Cumi Asin Pedes Manis",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Cumi Asin Merecon",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Padang Sauce Salted Squid",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Stir-Fried Salted Squid",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "10000",
+    "name": "Tofu Squid + Oyster Sauce",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "10000",
+    "name": "Stir-Fried Squid Chickpeas",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Stir-Fried Water Spinach Squid",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "20000",
+    "name": "Stir-Fried Salted Squid And Bitter Beans",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "20000",
+    "name": "Cumis Asin Pete Bumbu Cabe Ijo",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "20000",
+    "name": "Cumi Asin Balado Pete",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "15000",
+    "name": "Cumi Asin Bumbu Cabe Ijo",
+    "description": "",
+    "section": "salted squid"
+  },
+  {
+    "price": "10000",
+    "name": "Shredded Cobs",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "12000",
+    "name": "Padang Sauce Cue Fish",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "10000",
+    "name": "Ikan Cue Goreng",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "12000",
+    "name": "Cuek Pesmol Fish",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "8000",
+    "name": "Cue Balado Tuna Fish",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "12000",
+    "name": "Cue Balado Fish",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "15000",
+    "name": "Ikan Tongkol Cue Pete Balado",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "10000",
+    "name": "Cue Fish With Green Chili Sauce",
+    "description": "",
+    "section": "aneka ikan cue"
+  },
+  {
+    "price": "17000",
+    "name": "Sweet And Spicy Pomfret Fish",
+    "description": "",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "17000",
+    "name": "Fried Pomfret Fish + Shrimp Paste Fried Sambal",
+    "description": "Pomfret Fish 1+Sambal",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Pomfret Fish",
+    "description": "Delicious",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Pesmol Pomfret",
+    "description": "Pesmol Fish",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "16000",
+    "name": "Pomfret Fish With Padang Sauce",
+    "description": "",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "18000",
+    "name": "Pomfret With Pecak Chili Sauce",
+    "description": "",
+    "section": "pomfret fish variety"
+  },
+  {
+    "price": "15000",
+    "name": "Fried Mackerel Fish",
+    "description": "",
+    "section": "mackarel varieties"
+  },
+  {
+    "price": "16000",
+    "name": "Bloating Pesmol",
+    "description": "",
+    "section": "mackarel varieties"
+  },
+  {
+    "price": "16000",
+    "name": "Mackerel Fish With Green Chili Seasoning",
+    "description": "",
+    "section": "mackarel varieties"
+  },
+  {
+    "price": "17000",
+    "name": "Ikan Bujair Pedes Manis",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "18000",
+    "name": "Tilapia Fish + Fried Shrimp Paste Sambal",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "16000",
+    "name": "Pesmol Mujair Fish",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Bujair Fish",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "16000",
+    "name": "Tilapia Fish With Padang Sauce",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "18000",
+    "name": "Sambel Soy Sauce Tilapia Fish",
+    "description": "1 Fish With Soy Sauce Sauce",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "18000",
+    "name": "Ikan Bujaer Sambel Ijo",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "18000",
+    "name": "Spicy Chili Sauce Bujaer Fish",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "16000",
+    "name": "Ikan Bujair Bumbu Cabe Ijo",
+    "description": "",
+    "section": "various tilapia fish"
+  },
+  {
+    "price": "16000",
+    "name": "Tongkol Basah Balado",
+    "description": "",
+    "section": "aneka ikan tuna+tongkol basah"
+  },
+  {
+    "price": "16000",
+    "name": "Sweet And Spicy Tuna Fish",
+    "description": "",
+    "section": "aneka ikan tuna+tongkol basah"
+  },
+  {
+    "price": "16000",
+    "name": "Red Chili Seasoning Tuna",
+    "description": "",
+    "section": "aneka ikan tuna+tongkol basah"
+  },
+  {
+    "price": "18000",
+    "name": "Rice + Egg Omelet Filled With Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "31000",
+    "name": "Nasi Ayam Sambel Pecak+Telor Dadar",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24000",
+    "name": "Rice + Green Chili Chicken Penyet",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi+Ikan Bujaer Sambel Ijo",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "28000",
+    "name": "Rice+Green Chicken Penyet With Green Chili Sauce+Tempeh",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "115000",
+    "name": "5 Rice + Green Sambal Chicken",
+    "description": "Rice, Chicken, Lalapan, Sambal",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "28000",
+    "name": "Rice + Chicken With Chili Sauce + Tofu + Vegetables",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi+Ayam Serundeng+Tumisan+Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24000",
+    "name": "Rice + Balado Fish + Vegetables + Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "22000",
+    "name": "Rice + Green Chili Chicken",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "22000",
+    "name": "Nasi+Ayam Pedes Manis",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "14000",
+    "name": "Nasi Telor Orak Arik",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "10000",
+    "name": "Rice+Tempe Tofu Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "16500",
+    "name": "Rice+Oreg Tempeh+Chicken Intestines+Prekedel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi+Ayam Goreng+Kentang Balado+Mie Goreng+Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi+Ayam Balado+Sayuran+Tempe Oreg+Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "30000",
+    "name": "Rice + Balado Fish + Balado Egg Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "25000",
+    "name": "Rice + Cue Fish + Eggplant Chili Sauce + Eggplant",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi +Telor Ceplok Balado+Mie Goreng+Tumisan+Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "15000",
+    "name": "Rice + Intestines + Red Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "26000",
+    "name": "Rice+Fried Pomfret Fish+Tahu Tempeh Tempeh Lalapan Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi+Bujaer Lalapan Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "20000",
+    "name": "Padang Sauce Shrimp Rice",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "20000",
+    "name": "Rice + Fish + Sautee + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "28000",
+    "name": "Rice + Fried Chicken + Tofu Fish + Vegetables + Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "17000",
+    "name": "Rice + Egg Omelet + Vegetable Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "18500",
+    "name": "Rames Rice + Regular Ceplok Egg/Balado Egg + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "18500",
+    "name": "Rice+Ti Ampela Liver+Tofu Tempeh",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "20000",
+    "name": "Fried Egg Rice With Tofu Tempeh + Vegetable Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "15000",
+    "name": "Nasi+Sambel Tempe Kemangi",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "18500",
+    "name": "Nasi Rames + Telor Bulat+Tumisan Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "18500",
+    "name": "Rice + Stir-Fried Omelet + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Tuna Fish Rice + Vegetables + Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Rice + Tilapia Fish + Sautee + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "15000",
+    "name": "Rice + Egg Omelet With Shrimp Paste Fried Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Rames Rice + Pomfret Fish + Sautéed Sauce",
+    "description": "Rice + Pomfret Fish + Stir-Fried Vegetables + Choice Of ( Kangkung / Bean Sprouts / Fried Noodles / Scrambled / Tempeh",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Rames Rice + Tuna+ Stir-Fried Fish + Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Rames Rice + Mackerel Fish + Sautee Fish + Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "24500",
+    "name": "Nasi Rames+Ayam Goreng+Tumisan+Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "17000",
+    "name": "Nasi+Orak Arik Wortel Kol+Telor",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "22000",
+    "name": "Nasi+Ikan Lele Goreng+Lalapan Sambel",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "15000",
+    "name": "Nasi+Sambel Pete",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "14000",
+    "name": "Rice+Steamed Tofu Anchovies",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "27000",
+    "name": "Rice+Spicy Tofu Anchovies + Egg + Salted Fish + Chili Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "32000",
+    "name": "Rice + Balado Bitter Bean + Egg Omelet + Tofu + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "30000",
+    "name": "Rice + Meat + Beef Rendang + Egg + Vegetable Salad In Peanut Sauce",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "30000",
+    "name": "Rice + Beef Rendang + Potato + Sambal",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "27000",
+    "name": "Nasi+Udang Pete Balado",
+    "description": "",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "20000",
+    "name": "Rice With Fried Egg + Long Bean Pencok",
+    "description": "Fried Egg Rice + Long Bean Penyets",
+    "section": "mixed rice package"
+  },
+  {
+    "price": "17000",
+    "name": "Red Chili Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "3000",
+    "name": "Medium Shredded Chicken Head",
+    "description": "Chicken Head, Scrambled Etc",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Ayam Selundreng",
+    "description": "Chicken Satreng, Chicken, Coconut Etc",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Ayam Balado",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "17000",
+    "name": "Soy Sauce Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Telor Bulat Sambel",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "15000",
+    "name": "Sambel Ati Ampela Kentang",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "12000",
+    "name": "Sambel Ati Ampela",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "12000",
+    "name": "Ati Ampela Semur",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "17000",
+    "name": "Ayam Bumbu Cabe Ijo",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Telor Buled Balado",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Balado Fried Egg",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "15000",
+    "name": "Ayam Goreng",
+    "description": "Fried Chicken",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Telor Dadar",
+    "description": "Telor Dadar",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Sunny Side Up",
+    "description": "Fried Eggs",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Padang Sauce Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "12000",
+    "name": "Stewed Wings",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Stewed Seasoned Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "4000",
+    "name": "Stewed Chicken Head",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "18000",
+    "name": "Green Chili Chicken Penyet",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Ayam Rica+Rica",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Chicken Opor",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Opor With Egg",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Curry Chicken",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Ayam Caus Tiram",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "16000",
+    "name": "Rendang Beef",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "20000",
+    "name": "Sambel Ati Ampela Kentang Pete",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "7000",
+    "name": "Es Nutri Sari",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Tora Bika Cappuccino Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Hot Kapal Api Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Energen Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Ovaltin Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Abc Coffee Hot Milk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Hot Red Ginger",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "2000",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es Good Day Cappucino",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Es Jeruk Peras",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Salted Egg",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "10000",
+    "name": "Anchovy",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Oncom",
+    "description": "Garlic Red Onions Say Salame Sliced Chilies Tomatoes Onions",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Coconut Milk Cassava Leaf Vegetables",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "10000",
+    "name": "Sambel Tempe Kemangi",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Kikil Chili Seasoning",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tempeh Oreg Wet",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Kentang Balado",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Terong Balado",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "20000",
+    "name": "Vegetable Beef Soup",
+    "description": "Etc.",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Bean Sprouts Soup",
+    "description": "Wirtel Beans Etc",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Vegetables With Tofu Yellow Seasoning",
+    "description": "Tofu Tempeh Santen Etc.",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Jackfruit Vegetables With Gulai Sauce",
+    "description": "Jackfruit Santen Etc",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Sauteed Carrots + Spicy Eggs",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Bihun Goreng",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Stir-Fried Yellow Velvetleaf",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "15000",
+    "name": "Kentang Balado Pete",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Capcay",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Daun Pepaya Toge",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tumis Kacang Toge",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Sauteed White Mustard Greens + Tofu",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tumis Kangkung Toge",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tofu Green Mustard Sautee",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Stir-Fried Tofu Pokcuy",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tumis Sawi Putih+Toge",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "10000",
+    "name": "Mustopa Potatoes",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tumisan Buncis,Wortel,Kol",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "15000",
+    "name": "Terong Balado Pete",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Soy Sauce Tofu Tempeh Stew",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Terong Bumbu Cabe Ijo",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Acar Timun Wortel",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Fishcake Balado",
+    "description": "Balado Otak2",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Vegetable Pak Choy",
+    "description": "Wortel Pakcoy Baso",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "10000",
+    "name": "Kerang Balado",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Rebon Salted Fish",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "12000",
+    "name": "Jengkol Balado",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Tumis Toge",
+    "description": "",
+    "section": "sauteed and vegetables"
+  },
+  {
+    "price": "8000",
+    "name": "Sauteed Mushrooms",
+    "description": "",
+    "section": "sauteed and vegetables"
+  }
+]

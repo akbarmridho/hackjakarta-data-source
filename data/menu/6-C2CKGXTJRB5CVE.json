@@ -1,0 +1,350 @@
+[
+  {
+    "price": "70000",
+    "name": "Package 1",
+    "description": "Package Of 3 Chicken Noodles + 3 Sweet Tea Series",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Package 2",
+    "description": "Package 1 Chicken Noodle + 1 Sweet Tea Series",
+    "section": "today's offer"
+  },
+  {
+    "price": "40000",
+    "name": "Package 3 Sweet Tea",
+    "description": "Choose Your 3 Sweet Tea Series!",
+    "section": "today's offer"
+  },
+  {
+    "price": "40500",
+    "name": "3 Coffee Milk",
+    "description": "Are You Milk Coffee Team? These 3 Keraton Palm Sugar Milk Coffee In 1 Click Are Perfect For You, Normal Price Idr 60,000",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "6 Pcs Of Coffee Milk",
+    "description": "Are You Milk Coffee Team? These 6 Keraton Palm Sugar Milk Coffee In 1 Click Are Perfect For You, Normal Price Idr 120,000",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Keraton Palm Sugar Coffee",
+    "description": "Palm Sugar, Espresso Cassava Plus Milk Can Be Served Hot Or Cold",
+    "section": "today's offer"
+  },
+  {
+    "price": "12000",
+    "name": "Legendary Black Coffee Robusta",
+    "description": "Double Shot Of Espresso With Water Can Be Served Hot Or Cold",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "White Rocher",
+    "description": "Made For All White Chocolate Lovers, White Rocher Is A Combination Of Chocolate Rocher, Milk With Abundant Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Cheezy Biscoff",
+    "description": "Inspired From A Lotus Biscoff Drink, Chezy Biscoff Made With The High Level Of Creamy. Using Selected Cheese, Cheezy Biscoff Suitable For Cheese Lovers.",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Pandan Biscoff",
+    "description": "Lotus Biscoff Drinks From Lotus With Pandans Are Perfect For Lotus Biscoff Lovers",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Lotus Biscoff",
+    "description": "Vanilla Sweet Drink, Palm Sugar, Butter Cream And Lotus Sprinkle",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Dalgona Ovomaltine",
+    "description": "Drinks From Ovoaltine Jam And Delicious Dalgona Trendara Coffee",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Taro Ovomaltine",
+    "description": "Drinks From Ovomaltine Jam Mixed With Taro To Produce A Unique Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Plain Package",
+    "description": "1 Variant Of Original Noodles And 1 Variant Of Pick Cup There'S Honey Or Keraton Milk Coffee",
+    "section": "today's offer"
+  },
+  {
+    "price": "32500",
+    "name": "Chicken Package",
+    "description": "1 Variant Of Noodles With A Sprinkling Of Chicken And 1 Variant Of Pickled Honey Lime Series Or Keraton Milk Coffee",
+    "section": "today's offer"
+  },
+  {
+    "price": "35500",
+    "name": "Complete Package",
+    "description": "1 Variant Of Bakmie With A Sprinkling Of Chicken And Extra Pentol + 1 Variant Of Pickled Honey Lime Series Or Palm Sugar",
+    "section": "today's offer"
+  },
+  {
+    "price": "70000",
+    "name": "Package 1",
+    "description": "Package Of 3 Chicken Noodles + 3 Sweet Tea Series",
+    "section": "economical package"
+  },
+  {
+    "price": "25000",
+    "name": "Package 2",
+    "description": "Package 1 Chicken Noodle + 1 Sweet Tea Series",
+    "section": "economical package"
+  },
+  {
+    "price": "40000",
+    "name": "Package 3 Sweet Tea",
+    "description": "Choose Your 3 Sweet Tea Series!",
+    "section": "economical package"
+  },
+  {
+    "price": "40500",
+    "name": "3 Coffee Milk",
+    "description": "Are You Milk Coffee Team? These 3 Keraton Palm Sugar Milk Coffee In 1 Click Are Perfect For You, Normal Price Idr 60,000",
+    "section": "economical package"
+  },
+  {
+    "price": "80000",
+    "name": "6 Pcs Of Coffee Milk",
+    "description": "Are You Milk Coffee Team? These 6 Keraton Palm Sugar Milk Coffee In 1 Click Are Perfect For You, Normal Price Idr 120,000",
+    "section": "economical package"
+  },
+  {
+    "price": "57000",
+    "name": "Paket 3 Honey Lime Series",
+    "description": "Choose Your 3 Favorite Honey Lime Series!",
+    "section": "economical package"
+  },
+  {
+    "price": "15000",
+    "name": "Keraton Palm Sugar Coffee",
+    "description": "Palm Sugar, Espresso Cassava Plus Milk Can Be Served Hot Or Cold",
+    "section": "coffee series"
+  },
+  {
+    "price": "12000",
+    "name": "Legendary Black Coffee Robusta",
+    "description": "Double Shot Of Espresso With Water Can Be Served Hot Or Cold",
+    "section": "coffee series"
+  },
+  {
+    "price": "25000",
+    "name": "Caramel Macchiato Coffee",
+    "description": "A Blend Of Pickled Cup Milk Coffee Free With Extra Caramel Sauce",
+    "section": "coffee series"
+  },
+  {
+    "price": "20000",
+    "name": "Creamy Latte Coffee",
+    "description": "The Taste Of Delicious Coffee And Plantbased Milk Which Makes Your Day More Excited!",
+    "section": "coffee series"
+  },
+  {
+    "price": "22000",
+    "name": "Chocolate Coffee",
+    "description": "A Blend Of Pickled Cup Milk Coffee Free With Extra Chocolate Sauce",
+    "section": "coffee series"
+  },
+  {
+    "price": "30000",
+    "name": "Choco Rocher",
+    "description": "Alcoholic Drinks That Are Combined With Chocolate Rocher Combined With Milk, Butter Cream And A Mixture Of Peanuts",
+    "section": "choco series"
+  },
+  {
+    "price": "30000",
+    "name": "Dark Rocher",
+    "description": "A Combination Of Spicy Chocolate Flavors With A Mixture Of Peanuts And Cream. Perfect For Dark Chocolate Lovers!",
+    "section": "choco series"
+  },
+  {
+    "price": "33000",
+    "name": "Crunchy Ovomaltine",
+    "description": "Inspired Drinks From Ovoaltine Jam Which Will Be Rich In Chocolate And Crunchy Flavor",
+    "section": "choco series"
+  },
+  {
+    "price": "30000",
+    "name": "Hershey'S Milk Chocolate",
+    "description": "Drinks Combined With Chocolate Quality From Herskie'S Special Sensation",
+    "section": "choco series"
+  },
+  {
+    "price": "30000",
+    "name": "Hershey'S Cookies & Cream",
+    "description": "Creamy Drink Is Very From Herskie'S And Rich In Vanilla Flavor With A Refreshing Sensation",
+    "section": "choco series"
+  },
+  {
+    "price": "16000",
+    "name": "Honey Lime",
+    "description": "Fresh Drinks Rich In Vitamin C, Delicious To Enjoy It On A Hot Day",
+    "section": "honey lime series"
+  },
+  {
+    "price": "19000",
+    "name": "Yakult Honey Lime",
+    "description": "Fresh Drinks Rich In Vitamin C Combined With Yaklette, Delicious To Enjoy It On A Hot Day",
+    "section": "honey lime series"
+  },
+  {
+    "price": "19000",
+    "name": "Berry Yakult",
+    "description": "Fresh Drinks From Raspberry Jam Added With Yakelt That Makes You Taste Sweet And Sour",
+    "section": "honey lime series"
+  },
+  {
+    "price": "22000",
+    "name": "Berry Cheese",
+    "description": "Fresh Drinks From Raspberry Jam Plus Cheese Cream, Delicious To Enjoy It On A Hot Day",
+    "section": "honey lime series"
+  },
+  {
+    "price": "19000",
+    "name": "Raspberry Honey Lime",
+    "description": "Fresh Drinks Rich In Vitamin C Combined With Raspberry Jam, Delicious To Enjoy It On A Hot Day",
+    "section": "honey lime series"
+  },
+  {
+    "price": "18000",
+    "name": "Mango Tango Tea",
+    "description": "Signature Tea With Mango Flavor Makes Your Day More Spicy!",
+    "section": "sweet tea series"
+  },
+  {
+    "price": "18000",
+    "name": "Lemon Lime Tea",
+    "description": "Signature Tea With Lime Flavor Makes Your Day More Enthusiasm!",
+    "section": "sweet tea series"
+  },
+  {
+    "price": "18000",
+    "name": "Lychee Beach Tea",
+    "description": "Signature Tea With Lychee Flavor Makes Your Day More Enthusiasm!",
+    "section": "sweet tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Milk Tea Mango",
+    "description": "100% Signature Milk Tea With Mango Sauce Makes Your Days More Tasty!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Milk Tea Caramel",
+    "description": "100% Signature Milk Tea With Caramel Sauce Makes Your Days Even Better!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "22000",
+    "name": "Milk Tea Hazelnut",
+    "description": "100% Signature Milk Tea With Hazelnut Sauce Makes Your Days Even Better!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "25000",
+    "name": "White Rocher",
+    "description": "Made For All White Chocolate Lovers, White Rocher Is A Combination Of Chocolate Rocher, Milk With Abundant Cheese",
+    "section": "saving menu"
+  },
+  {
+    "price": "25000",
+    "name": "Cheezy Biscoff",
+    "description": "Inspired From A Lotus Biscoff Drink, Chezy Biscoff Made With The High Level Of Creamy. Using Selected Cheese, Cheezy Biscoff Suitable For Cheese Lovers.",
+    "section": "saving menu"
+  },
+  {
+    "price": "25000",
+    "name": "Pandan Biscoff",
+    "description": "Lotus Biscoff Drinks From Lotus With Pandans Are Perfect For Lotus Biscoff Lovers",
+    "section": "saving menu"
+  },
+  {
+    "price": "25000",
+    "name": "Lotus Biscoff",
+    "description": "Vanilla Sweet Drink, Palm Sugar, Butter Cream And Lotus Sprinkle",
+    "section": "saving menu"
+  },
+  {
+    "price": "28000",
+    "name": "Dalgona Ovomaltine",
+    "description": "Drinks From Ovoaltine Jam And Delicious Dalgona Trendara Coffee",
+    "section": "saving menu"
+  },
+  {
+    "price": "25000",
+    "name": "Tetangga Coffee Milk",
+    "description": "Ice Coffee Milk With Special Iced Coffee. Not Containing Alcohol!",
+    "section": "saving menu"
+  },
+  {
+    "price": "28000",
+    "name": "Taro Ovomaltine",
+    "description": "Drinks From Ovomaltine Jam Mixed With Taro To Produce A Unique Taste",
+    "section": "saving menu"
+  },
+  {
+    "price": "25000",
+    "name": "Pandan Milk Coffee",
+    "description": "The Combination Of Special Espresso Esp With Sweet Pandan And Suitable For You, The Lovers Of Indonesian Flavor!",
+    "section": "saving menu"
+  },
+  {
+    "price": "33000",
+    "name": "Raspberry Ovomaltine",
+    "description": "Drinks From Ovomaltine Jam Mixed With Raspberry Jam To Produce A Unique Taste",
+    "section": "saving menu"
+  },
+  {
+    "price": "16000",
+    "name": "Plain Bakmi",
+    "description": "Noodles With Crispy Toppings That Make You Addicted!",
+    "section": "bakmie kid"
+  },
+  {
+    "price": "18500",
+    "name": "Chicken Bakmie",
+    "description": "Noodles With Chicken And Crunchy Topping That Make You Addicted!",
+    "section": "bakmie kid"
+  },
+  {
+    "price": "21500",
+    "name": "Complete Bakmi",
+    "description": "Noodles With A Sprinkling Of Chicken, Pentol And Crunchy Bits Of Jenda!",
+    "section": "bakmie kid"
+  },
+  {
+    "price": "30000",
+    "name": "Plain Package",
+    "description": "1 Variant Of Original Noodles And 1 Variant Of Pick Cup There'S Honey Or Keraton Milk Coffee",
+    "section": "bakmie kid"
+  },
+  {
+    "price": "32500",
+    "name": "Chicken Package",
+    "description": "1 Variant Of Noodles With A Sprinkling Of Chicken And 1 Variant Of Pickled Honey Lime Series Or Keraton Milk Coffee",
+    "section": "bakmie kid"
+  },
+  {
+    "price": "35500",
+    "name": "Complete Package",
+    "description": "1 Variant Of Bakmie With A Sprinkling Of Chicken And Extra Pentol + 1 Variant Of Pickled Honey Lime Series Or Palm Sugar",
+    "section": "bakmie kid"
+  }
+]

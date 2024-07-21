@@ -1,0 +1,92 @@
+[
+  {
+    "price": "59400",
+    "name": "Butaki! Butadon(L)",
+    "description": "Big Size",
+    "section": "today's offer"
+  },
+  {
+    "price": "48600",
+    "name": "Butaki! Butadon (R)",
+    "description": "Slice With Rice!",
+    "section": "today's offer"
+  },
+  {
+    "price": "46800",
+    "name": "Beef Teriyaki",
+    "description": "100% Sliced Beef With Rice With A Little Beans Of Chives And Sesame Seeds",
+    "section": "today's offer"
+  },
+  {
+    "price": "39600",
+    "name": "Chicken Teriyaki",
+    "description": "Soft And Tender Chicken Teriyaki And Rice Added With Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "41400",
+    "name": "Butaki! Spicy Buta Ramen",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "41400",
+    "name": "Butaki! Buta Ramen",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "59400",
+    "name": "Butaki! Butadon(L)",
+    "description": "Big Size",
+    "section": "rice bowl"
+  },
+  {
+    "price": "48600",
+    "name": "Butaki! Butadon (R)",
+    "description": "Slice With Rice!",
+    "section": "rice bowl"
+  },
+  {
+    "price": "46800",
+    "name": "Beef Teriyaki",
+    "description": "100% Sliced Beef With Rice With A Little Beans Of Chives And Sesame Seeds",
+    "section": "rice bowl"
+  },
+  {
+    "price": "39600",
+    "name": "Chicken Teriyaki",
+    "description": "Soft And Tender Chicken Teriyaki And Rice Added With Vegetables",
+    "section": "rice bowl"
+  },
+  {
+    "price": "41400",
+    "name": "Butaki! Spicy Buta Ramen",
+    "description": "",
+    "section": "ramen"
+  },
+  {
+    "price": "41400",
+    "name": "Butaki! Buta Ramen",
+    "description": "",
+    "section": "ramen"
+  },
+  {
+    "price": "36000",
+    "name": "Butaki! Butadon (N)",
+    "description": "Meat With No Rice",
+    "section": "meat only"
+  },
+  {
+    "price": "34000",
+    "name": "Beef Teriyaki (N)",
+    "description": "Beef Without Rice",
+    "section": "meat only"
+  },
+  {
+    "price": "28500",
+    "name": "Chicken Teriyaki (N)",
+    "description": "Chicken And Vegetable Meat. No Rice",
+    "section": "meat only"
+  }
+]

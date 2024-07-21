@@ -1,0 +1,272 @@
+[
+  {
+    "price": "17200",
+    "name": "Choco Peanut",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "19500",
+    "name": "Peanut And Cheese",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "19500",
+    "name": "Choco Cheese",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "21600",
+    "name": "Banana Choco Cheese",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "24850",
+    "name": "Cookies 'N Cream",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "23750",
+    "name": "Banana Vanilla Custard",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "24850",
+    "name": "Double Choco",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "25900",
+    "name": "Banana Choco Melt",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "25900",
+    "name": "Choco Custard",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "27000",
+    "name": "Oreo Vanilla Custard",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "35650",
+    "name": "Nutella Cheese",
+    "description": "",
+    "section": "sweet crepes"
+  },
+  {
+    "price": "1000",
+    "name": "Takeaway Bag",
+    "description": "Must Be For More Ordering Than 3 Cream Products",
+    "section": "disclaimer"
+  },
+  {
+    "price": "25900",
+    "name": "Tuna Pizza",
+    "description": "",
+    "section": "savory crepes"
+  },
+  {
+    "price": "25900",
+    "name": "Chili Doc",
+    "description": "",
+    "section": "savory crepes"
+  },
+  {
+    "price": "24850",
+    "name": "Smoked Beef And Cheese",
+    "description": "",
+    "section": "savory crepes"
+  },
+  {
+    "price": "25900",
+    "name": "Spicy Tuna",
+    "description": "",
+    "section": "savory crepes"
+  },
+  {
+    "price": "29200",
+    "name": "Crispy Chicken Bbq",
+    "description": "Creamy Delicacy With Sliced Chicken And Anchovies Barbey Sauce",
+    "section": "savory crepes"
+  },
+  {
+    "price": "30200",
+    "name": "Premium Beef Burger",
+    "description": "",
+    "section": "savory crepes"
+  },
+  {
+    "price": "32400",
+    "name": "Silverqueen",
+    "description": "Soft Cream (Not Crispy) With Silverqueen Chocolate Pieces",
+    "section": "soft crepes"
+  },
+  {
+    "price": "35650",
+    "name": "Ovomaltine Only",
+    "description": "Soft Cream (Not Crispy) With Ovomaltine Jam",
+    "section": "soft crepes"
+  },
+  {
+    "price": "35650",
+    "name": "Ovomaltine Cheese",
+    "description": "Soft Cream (Not Crispy) With A Sweet Blend Of Ovomaltine With Savory Sprinkling Of Cheese",
+    "section": "soft crepes"
+  },
+  {
+    "price": "35650",
+    "name": "Oreo Ovomaltine",
+    "description": "Soft Cream (Not Crispy) With Ovomaltine Jam And Crunchy Biscuits",
+    "section": "soft crepes"
+  },
+  {
+    "price": "32900",
+    "name": "Tuna Pizza With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "32900",
+    "name": "Chili Doc With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "31850",
+    "name": "Smoked Beef And Cheese With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "32900",
+    "name": "Spicy Tuna With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "36200",
+    "name": "Crispy Chicken Bbq With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "37200",
+    "name": "Premium Beef Burger With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "26500",
+    "name": "Choco Cheese With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "28600",
+    "name": "Banana Choco Cheese With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "40450",
+    "name": "Steak And Cheese With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "36200",
+    "name": "Chicken Honey Mustard With Nu Tea",
+    "description": "With A Choice Of Nu Tea Drinks",
+    "section": "value meals nu tea"
+  },
+  {
+    "price": "25300",
+    "name": "Double Cheese",
+    "description": "A Blend Of Abundant Cheese With Sweet Honey",
+    "section": "new crepes"
+  },
+  {
+    "price": "29200",
+    "name": "Chicken Honey Mustard",
+    "description": "It'S Delicious The Chicken Pieces In Honey Mustard Sauce In The Tender Creamy",
+    "section": "new crepes"
+  },
+  {
+    "price": "33450",
+    "name": "Steak And Cheese",
+    "description": "Selected Beef Pieces Combined With Delicious Cheese Sauce, Makes You Addicted",
+    "section": "new crepes"
+  },
+  {
+    "price": "32900",
+    "name": "Tuna Pizza With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "32900",
+    "name": "Chili Doc With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "31850",
+    "name": "Smoked Beef And Cheese With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "32900",
+    "name": "Spicy Tuna With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "36200",
+    "name": "Crispy Chicken Bbq With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "37200",
+    "name": "Premium Beef Burger With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "26500",
+    "name": "Choco Cheese With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "28600",
+    "name": "Banana Choco Cheese With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "40450",
+    "name": "Steak And Cheese With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  },
+  {
+    "price": "36200",
+    "name": "Chicken Honey Mustard With Aqua",
+    "description": "With Aqua Drinks",
+    "section": "dcrepes aqua"
+  }
+]

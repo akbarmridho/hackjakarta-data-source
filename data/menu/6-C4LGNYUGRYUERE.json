@@ -1,0 +1,830 @@
+[
+  {
+    "price": "10780",
+    "name": "Chocolate Toast",
+    "description": "Toast With The Best Sprinkling Of Chocolate Served With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Roti Bakar Strobery",
+    "description": "Toast Combined With Strawberry Jam",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Nut Toast",
+    "description": "Toast With Peanut Butter And Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Roti Bakar Nanas",
+    "description": "Toast With A Pineapple Taste Mixed With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Chocolate Grilled Bananas",
+    "description": "Bananas With Quality Bgus Is Grilled And Grilled In The Right Cook Level At Sprinkled With Chocolate + Sweetened Condensed Milk Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Chocolate Cheese Toast",
+    "description": "Toast With Chocolate Flavor And Cheese Served With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Chocolate Cheese Grilled Banana",
+    "description": "Bananas With The Best Quality Grilled With The Right Blend Of Chocolate And Sprinkled With Cheese + Milk Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Pineapple Cheese Toast",
+    "description": "Pineapple Flavored Toast And Cheese Added With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Nut Cheese Toast",
+    "description": "Toast With Peanut Butter Flavor And Cheese Mixed With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Strawberry Toast",
+    "description": "Toast Combined With Strawberry Jam",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Milk Cheese Toast",
+    "description": "Bread Combined With Cheese And Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Milk Cheese Toast",
+    "description": "Toasted Flavored Cheese Flavor Served With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "18480",
+    "name": "Chocolate Cheese Banana Toast",
+    "description": "Toasted Banana Flavor Plus Chocolate And Cheese Mixed With Sweetened Condensed Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "18480",
+    "name": "Cheese Corned Toast",
+    "description": "Toast With Corned And Cheese Flavor",
+    "section": "today's offer"
+  },
+  {
+    "price": "13090",
+    "name": "Egg Toast",
+    "description": "Toast With Egg Flavor",
+    "section": "today's offer"
+  },
+  {
+    "price": "13090",
+    "name": "Corned Beef Toast",
+    "description": "Toast With Corned Flavor",
+    "section": "today's offer"
+  },
+  {
+    "price": "18480",
+    "name": "Egg Corned Beef Toast",
+    "description": "Toasted Bread With Eggs And Corned",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Corned Toast",
+    "description": "Corned And Cheese Flavored Toast",
+    "section": "today's offer"
+  },
+  {
+    "price": "23100",
+    "name": "Cheese Corned Egg Toast",
+    "description": "Toast With A Corned Egg Flavor And Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Egg Toast",
+    "description": "Toasted Egg Flavored Bread Mixed With Cheese And Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "18480",
+    "name": "Milk Cheese Banana Bread",
+    "description": "Banana Flavored Bread And Mixed With Cheese And Milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Indomie Goreng Polos",
+    "description": "Indomie Fried Served With Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Indomie Rebus Polos (Varian Rasa)",
+    "description": "Indomie Boiled Served With Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Telor",
+    "description": "Indomie'S Special Fried Noodles Combined With Vegetables And Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Rebus + Telor",
+    "description": "Indomie Boiled Served With Egg And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Goreng Double Polos",
+    "description": "Indomie Fried With Double Portion Makes It Full",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Aceh Telor",
+    "description": "Special Aceh Fried Indomie Combined With Syrup And Eggs Make You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Rendang Telor",
+    "description": "Indomie Fried Rendang Combined With Vegetables And Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "26180",
+    "name": "Indomie Goreng Double Telor",
+    "description": "Indomie Fried With Double Portion Added With Vegetables And Eggs Make You Full",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "White Coffie",
+    "description": "White Coffee With A Special Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "16940",
+    "name": "Omlet (Piza Mie)",
+    "description": "Indomie Mixed With Eggs And Then Fried With The Right Cook Level",
+    "section": "today's offer"
+  },
+  {
+    "price": "23100",
+    "name": "Omlet Telor Double",
+    "description": "Indomie Daule Egg Which Is Given With The Right Cook Level",
+    "section": "today's offer"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Tektek",
+    "description": "Indomie Fried Then Fried Again With A Mixture Of Eggs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23100",
+    "name": "Indomie Rebus Telor Kornet",
+    "description": "Indomie Gravy Topped With Corned Egg And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "26950",
+    "name": "Indomie Boiled Corned Egg Cheese",
+    "description": "Indomie Rebua Topped With Cheese Corned Egg Added With Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Rebus Kornet",
+    "description": "Boiled Indomie With Corned Beef Topping And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "26950",
+    "name": "Indomie Fried Egg Corned Cheese",
+    "description": "Indomie Fried Topped With Corned Egg And Cheese Added With Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "23100",
+    "name": "Indomie Goreng Telor Kornet",
+    "description": "Indomie Fried Combined With Eggs, Corned And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "11550",
+    "name": "Super Plain Vermicelli",
+    "description": "Super Special Vermicelli Combined With Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Goreng Kornet",
+    "description": "Indomie Fried Combined With Corned Beef And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Fire Ship Coffee",
+    "description": "Kapal Selam Coffee Which Is Full Of A More Delicious Inspiration",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Kopi Indocafe",
+    "description": "Indocaffee Coffee Is Clearly Delicious R@",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Abc Milk Coffee",
+    "description": "Special Abc Coffee Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "3800",
+    "name": "Plain Iced Tea",
+    "description": "Iced Tea Makes It Fresh",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Tea With Selected Tea Makes It Fresh",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Es Nutrisari (All Varian Rasa)",
+    "description": "Nutrisari With Various Flavors And Rich Vitamins",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Ice Fanta Milk",
+    "description": "Fanta Is Served With Sweet And Sour Milk Served Cold It Is Refreshening",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Kukubima Milk Ice",
+    "description": "Kuku Bima Combined With Sweet And Sour Milk Served Cold",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Extrajoss Susu",
+    "description": "Extra Joss Combined With Crispy Milk To Make The Mouth Even More Jos",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Chocolatos Matcha",
+    "description": "Chocolate Matcha With A Distinctive Taste Combined With The Milk Of Vermicelli",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Chocolatos Susu",
+    "description": "Chocolate Chocolate Dipping With Milk Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Soda Susu",
+    "description": "Soda With Various Spices Combined With Milk To Make You Full And Then",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Good Day Freeze",
+    "description": "Good Delicious Freez Combined With Milk Makes The Body Even More Enjoyable",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Good Day Cappuccino Iced",
+    "description": "Good Day Cappuccino Combined With Milk Makes The Aroma Even More Crispy",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Ovaltine Milk Ice",
+    "description": "Oillatine Combined With Milk And Makes It Fresh",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Milo Susu",
+    "description": "Milo Combined With Milk That Makes It Fresh",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Es Extrajoss",
+    "description": "Extra Josbikin Your Day More Joss",
+    "section": "today's offer"
+  },
+  {
+    "price": "5700",
+    "name": "Es Kukubima",
+    "description": "Kuku Bima Makes Your Day More Rosoooo",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Teh Tarik",
+    "description": "Poured Tea With A More Crispy Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "13300",
+    "name": "Es Drink Beng-Beng",
+    "description": "Drink Bengkasa Chocolate Jlasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "14250",
+    "name": "1/2 Cooked Village Egg (2 Items/Portion)",
+    "description": "Free-Range Chicken Eggs Served With Cooked Wheat To Share With Stamina",
+    "section": "today's offer"
+  },
+  {
+    "price": "10780",
+    "name": "Chocolate Toast",
+    "description": "Toast With The Best Sprinkling Of Chocolate Served With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "10780",
+    "name": "Roti Bakar Strobery",
+    "description": "Toast Combined With Strawberry Jam",
+    "section": "toast"
+  },
+  {
+    "price": "10780",
+    "name": "Nut Toast",
+    "description": "Toast With Peanut Butter And Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "10780",
+    "name": "Roti Bakar Nanas",
+    "description": "Toast With A Pineapple Taste Mixed With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "10780",
+    "name": "Chocolate Grilled Bananas",
+    "description": "Bananas With Quality Bgus Is Grilled And Grilled In The Right Cook Level At Sprinkled With Chocolate + Sweetened Condensed Milk Taste",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Chocolate Cheese Toast",
+    "description": "Toast With Chocolate Flavor And Cheese Served With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Chocolate Cheese Grilled Banana",
+    "description": "Bananas With The Best Quality Grilled With The Right Blend Of Chocolate And Sprinkled With Cheese + Milk Makes You Addicted",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Pineapple Cheese Toast",
+    "description": "Pineapple Flavored Toast And Cheese Added With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Nut Cheese Toast",
+    "description": "Toast With Peanut Butter Flavor And Cheese Mixed With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Strawberry Toast",
+    "description": "Toast Combined With Strawberry Jam",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Milk Cheese Toast",
+    "description": "Bread Combined With Cheese And Milk",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Milk Cheese Toast",
+    "description": "Toasted Flavored Cheese Flavor Served With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "18480",
+    "name": "Chocolate Cheese Banana Toast",
+    "description": "Toasted Banana Flavor Plus Chocolate And Cheese Mixed With Sweetened Condensed Milk",
+    "section": "toast"
+  },
+  {
+    "price": "18480",
+    "name": "Cheese Corned Toast",
+    "description": "Toast With Corned And Cheese Flavor",
+    "section": "toast"
+  },
+  {
+    "price": "13090",
+    "name": "Egg Toast",
+    "description": "Toast With Egg Flavor",
+    "section": "toast"
+  },
+  {
+    "price": "13090",
+    "name": "Corned Beef Toast",
+    "description": "Toast With Corned Flavor",
+    "section": "toast"
+  },
+  {
+    "price": "18480",
+    "name": "Egg Corned Beef Toast",
+    "description": "Toasted Bread With Eggs And Corned",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Corned Toast",
+    "description": "Corned And Cheese Flavored Toast",
+    "section": "toast"
+  },
+  {
+    "price": "23100",
+    "name": "Cheese Corned Egg Toast",
+    "description": "Toast With A Corned Egg Flavor And Cheese",
+    "section": "toast"
+  },
+  {
+    "price": "15400",
+    "name": "Cheese Egg Toast",
+    "description": "Toasted Egg Flavored Bread Mixed With Cheese And Milk",
+    "section": "toast"
+  },
+  {
+    "price": "18480",
+    "name": "Milk Cheese Banana Bread",
+    "description": "Banana Flavored Bread And Mixed With Cheese And Milk",
+    "section": "toast"
+  },
+  {
+    "price": "10780",
+    "name": "Indomie Goreng Polos",
+    "description": "Indomie Fried Served With Lalapan",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "10780",
+    "name": "Indomie Rebus Polos (Varian Rasa)",
+    "description": "Indomie Boiled Served With Lalapan",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Telor",
+    "description": "Indomie'S Special Fried Noodles Combined With Vegetables And Eggs",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Rebus + Telor",
+    "description": "Indomie Boiled Served With Egg And Lalapan",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Goreng Double Polos",
+    "description": "Indomie Fried With Double Portion Makes It Full",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Aceh Telor",
+    "description": "Special Aceh Fried Indomie Combined With Syrup And Eggs Make You Addicted",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "15400",
+    "name": "Indomie Goreng Rendang Telor",
+    "description": "Indomie Fried Rendang Combined With Vegetables And Eggs",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "26180",
+    "name": "Indomie Goreng Double Telor",
+    "description": "Indomie Fried With Double Portion Added With Vegetables And Eggs Make You Full",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "16940",
+    "name": "Omlet (Piza Mie)",
+    "description": "Indomie Mixed With Eggs And Then Fried With The Right Cook Level",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "23100",
+    "name": "Omlet Telor Double",
+    "description": "Indomie Daule Egg Which Is Given With The Right Cook Level",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Tektek",
+    "description": "Indomie Fried Then Fried Again With A Mixture Of Eggs And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "23100",
+    "name": "Indomie Rebus Telor Kornet",
+    "description": "Indomie Gravy Topped With Corned Egg And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "26950",
+    "name": "Indomie Boiled Corned Egg Cheese",
+    "description": "Indomie Rebua Topped With Cheese Corned Egg Added With Lalapan",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Rebus Kornet",
+    "description": "Boiled Indomie With Corned Beef Topping And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "26950",
+    "name": "Indomie Fried Egg Corned Cheese",
+    "description": "Indomie Fried Topped With Corned Egg And Cheese Added With Lalapan",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "23100",
+    "name": "Indomie Goreng Telor Kornet",
+    "description": "Indomie Fried Combined With Eggs, Corned And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "11550",
+    "name": "Super Plain Vermicelli",
+    "description": "Super Special Vermicelli Combined With Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "16940",
+    "name": "Indomie Goreng Kornet",
+    "description": "Indomie Fried Combined With Corned Beef And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "35000",
+    "name": "Omlet Telor Double Sosis",
+    "description": "Omlet With A Mixture Of 2 Eggs Combined With Sausage Topping",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "30000",
+    "name": "Omlet Sosis",
+    "description": "Omlet With A Mixture Of Sausage",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "30000",
+    "name": "Mie Tektek Sosis",
+    "description": "Indomie Fried Tektek With Extra Sausages And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "22000",
+    "name": "Super Egg Vermicelli",
+    "description": "Super Special Vermicelli Combined With Vegetables And Eggs",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "35000",
+    "name": "Indomie Rebus Telor Baso Sosis",
+    "description": "Indomie Boiled Combined With Egg, Baso, Sausage And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Rebus Sosis Baso",
+    "description": "Indomie Boiled Flavor Variants Combined With Sausage, Meatballs And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Rebus Sosis",
+    "description": "Indomie Boiled Flavor Variants Combined With Sausage And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Rebus Baso(3Pcs)",
+    "description": "Indomie Boiled Flavors Combined With Meatballs And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Goreng Baso(3Pcs)",
+    "description": "Indomie Fried Combined With Beef Meatballs And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Goreng Sosis Baso",
+    "description": "Indomie Fried Combined With Sausage And Baso Added With Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Goreng Sosis",
+    "description": "Indomie Fried Combined With Beef Sausage And Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "35000",
+    "name": "Indomie Goreng Telor Sosis Baso",
+    "description": "Indomie Fried Combined With Eggs, Sausage, Meatballs + Vegetables",
+    "section": "makanan ( indomie)"
+  },
+  {
+    "price": "5700",
+    "name": "Fire Ship Coffee",
+    "description": "Kapal Selam Coffee Which Is Full Of A More Delicious Inspiration",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "White Coffie",
+    "description": "White Coffee With A Special Taste",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Kopi Indocafe",
+    "description": "Indocaffee Coffee Is Clearly Delicious R@",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Abc Milk Coffee",
+    "description": "Special Abc Coffee Taste",
+    "section": "minuman"
+  },
+  {
+    "price": "3800",
+    "name": "Plain Iced Tea",
+    "description": "Iced Tea Makes It Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Tea With Selected Tea Makes It Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Es Nutrisari (All Varian Rasa)",
+    "description": "Nutrisari With Various Flavors And Rich Vitamins",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Ice Fanta Milk",
+    "description": "Fanta Is Served With Sweet And Sour Milk Served Cold It Is Refreshening",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Kukubima Milk Ice",
+    "description": "Kuku Bima Combined With Sweet And Sour Milk Served Cold",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Extrajoss Susu",
+    "description": "Extra Joss Combined With Crispy Milk To Make The Mouth Even More Jos",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Chocolatos Matcha",
+    "description": "Chocolate Matcha With A Distinctive Taste Combined With The Milk Of Vermicelli",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Chocolatos Susu",
+    "description": "Chocolate Chocolate Dipping With Milk Makes You Addicted",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Soda Susu",
+    "description": "Soda With Various Spices Combined With Milk To Make You Full And Then",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Good Day Freeze",
+    "description": "Good Delicious Freez Combined With Milk Makes The Body Even More Enjoyable",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Good Day Cappuccino Iced",
+    "description": "Good Day Cappuccino Combined With Milk Makes The Aroma Even More Crispy",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Ovaltine Milk Ice",
+    "description": "Oillatine Combined With Milk And Makes It Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Milo Susu",
+    "description": "Milo Combined With Milk That Makes It Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Es Extrajoss",
+    "description": "Extra Josbikin Your Day More Joss",
+    "section": "minuman"
+  },
+  {
+    "price": "5700",
+    "name": "Es Kukubima",
+    "description": "Kuku Bima Makes Your Day More Rosoooo",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Teh Tarik",
+    "description": "Poured Tea With A More Crispy Taste",
+    "section": "minuman"
+  },
+  {
+    "price": "13300",
+    "name": "Es Drink Beng-Beng",
+    "description": "Drink Bengkasa Chocolate Jlasa",
+    "section": "minuman"
+  },
+  {
+    "price": "14250",
+    "name": "1/2 Cooked Village Egg (2 Items/Portion)",
+    "description": "Free-Range Chicken Eggs Served With Cooked Wheat To Share With Stamina",
+    "section": "minuman"
+  },
+  {
+    "price": "14000",
+    "name": "Es Jeruk",
+    "description": "Oranges With Quality To Choose @ Make Your Day Fresh",
+    "section": "minuman"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Package Of Chocolate Cheese Toast + Indomie And Egg + Sweet Iced Tea",
+    "description": "Complete Package With Super Frugal Price",
+    "section": "paket hemat"
+  },
+  {
+    "price": "30000",
+    "name": "2 Portions Of Bread And Banana Chocolate Cheese",
+    "description": "Save More And Delicious",
+    "section": "paket hemat"
+  },
+  {
+    "price": "30000",
+    "name": "2 Portions Of Chocolate Cheese Toast",
+    "description": "Saving And Delicious Packages",
+    "section": "paket hemat"
+  }
+]

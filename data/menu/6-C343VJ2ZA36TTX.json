@@ -1,0 +1,656 @@
+[
+  {
+    "price": "32728",
+    "name": "Best Seller Bundle 1",
+    "description": "Americano dan Ovomaltine Flash Bread",
+    "section": "today's offer"
+  },
+  {
+    "price": "73637",
+    "name": "Feast For Two",
+    "description": "Kopi dan Snacks untuk berdua",
+    "section": "today's offer"
+  },
+  {
+    "price": "95454",
+    "name": "Buy 5 Get 5",
+    "description": "Buy 5 Get 5 minuman favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "32728",
+    "name": "Best Seller Bundle 1",
+    "description": "Americano dan Ovomaltine Flash Bread",
+    "section": "combo deals"
+  },
+  {
+    "price": "73637",
+    "name": "Feast For Two",
+    "description": "Kopi dan Snacks untuk berdua",
+    "section": "combo deals"
+  },
+  {
+    "price": "95454",
+    "name": "Buy 5 Get 5",
+    "description": "Buy 5 Get 5 minuman favoritmu",
+    "section": "combo deals"
+  },
+  {
+    "price": "51818",
+    "name": "Best Seller Bundle 2",
+    "description": "Latte Gula Aren dan Spicy Croque Monsieur",
+    "section": "combo deals"
+  },
+  {
+    "price": "26364",
+    "name": "Latte Gula Aren",
+    "description": "Kopi susu dengan gula aren",
+    "section": "signature"
+  },
+  {
+    "price": "31818",
+    "name": "Seasalt Latte Gula Aren",
+    "description": "Kopi susu dengan gula aren dan seasalt cream",
+    "section": "signature"
+  },
+  {
+    "price": "29091",
+    "name": "Macadamia Latte",
+    "description": "Latte dengan macadamia",
+    "section": "signature"
+  },
+  {
+    "price": "31818",
+    "name": "Lychee Yakult Soda With Popping Boba",
+    "description": "Perpaduan Lychee, Yakult, dengan sensasi Popping Mango Boba",
+    "section": "signature"
+  },
+  {
+    "price": "31818",
+    "name": "Chocolate Rose Latte",
+    "description": "Cokelat yang velvety dengan rose syrup, dengan rose flakes diatasnya",
+    "section": "signature"
+  },
+  {
+    "price": "33636",
+    "name": "Whipped Strawberry Matcha",
+    "description": "Matcha dengan Strawberry whipped cream diatsnya",
+    "section": "signature"
+  },
+  {
+    "price": "56364",
+    "name": "SIGNATURE 600ml Bottle",
+    "description": "Minuman Signature pilihanmu dalam 600ml Bottle",
+    "section": "signature"
+  },
+  {
+    "price": "81818",
+    "name": "Signature 1L Bottle",
+    "description": "Minuman Signature pilihanmu dalam 1L Bottle",
+    "section": "signature"
+  },
+  {
+    "price": "26364",
+    "name": "Americano With Specialty Blend (Origins)",
+    "description": "Campuran Espresso Specialty Blend (Origins) Dengan Air",
+    "section": "black"
+  },
+  {
+    "price": "19091",
+    "name": "Americano",
+    "description": "Campuran Espresso dengan air",
+    "section": "black"
+  },
+  {
+    "price": "30000",
+    "name": "Yuzu Espresso Tonic",
+    "description": "Espresso dan sparkling tonic water dengan yuzu",
+    "section": "black"
+  },
+  {
+    "price": "30000",
+    "name": "Mint & Lime Espresso Tonic",
+    "description": "Espresso dan sparkling tonic water dengan mint & lime",
+    "section": "black"
+  },
+  {
+    "price": "41818",
+    "name": "Black 600Ml Bottle",
+    "description": "Minuman Black pilihanmu dalam 600ml Bottle",
+    "section": "black"
+  },
+  {
+    "price": "73636",
+    "name": "BLACK 1L Bottle",
+    "description": "Minuman Black pilihanmu dalam 1L Bottle",
+    "section": "black"
+  },
+  {
+    "price": "30909",
+    "name": "Latte With Speciality Blend (Origins)",
+    "description": "Espresso Special Blend (Origins) And Milk With A Thin Layer Of Foam",
+    "section": "white"
+  },
+  {
+    "price": "30909",
+    "name": "Flat White With Speciality Blend (Origins)",
+    "description": "Paduan Espresso Specialty Blend (Origins) Dan Steamed Milk Yang Lembut",
+    "section": "white"
+  },
+  {
+    "price": "32727",
+    "name": "Cappuccino With Speciality Blend (Origins)",
+    "description": "A Blend Of Special Blends Of Blend (Origins) And Creamy Milk",
+    "section": "white"
+  },
+  {
+    "price": "23636",
+    "name": "Latte",
+    "description": "Perpaduan espresso dan susu dengan lapisan foam tipis",
+    "section": "white"
+  },
+  {
+    "price": "23636",
+    "name": "Flat White",
+    "description": "Paduan espresso dan steamed milk yang lembut",
+    "section": "white"
+  },
+  {
+    "price": "25455",
+    "name": "Cappuccino",
+    "description": "Perpaduan espresso dan susu yang creamy",
+    "section": "white"
+  },
+  {
+    "price": "30909",
+    "name": "Caramel Macchiato",
+    "description": "Kopi susu dengan sirup vanilla, dan caramel yang creamy",
+    "section": "white"
+  },
+  {
+    "price": "56364",
+    "name": "WHITE 600ml Bottle",
+    "description": "Minuman White pilihanmu dalam 600ml Bottle",
+    "section": "white"
+  },
+  {
+    "price": "81818",
+    "name": "White 1L Bottle",
+    "description": "Minuman White pilihanmu dalam 1L Bottle",
+    "section": "white"
+  },
+  {
+    "price": "26364",
+    "name": "Signature Chocolate",
+    "description": "Cokelat yang nikmat dengan susu dan whipped cream",
+    "section": "chocolate"
+  },
+  {
+    "price": "29091",
+    "name": "Chocolate Macadamia Bliss",
+    "description": "Cokelat dengan macadamia",
+    "section": "chocolate"
+  },
+  {
+    "price": "31818",
+    "name": "Chocolate Rose Latte",
+    "description": "Cokelat yang velvety dengan rose syrup, dengan rose flakes diatasnya",
+    "section": "chocolate"
+  },
+  {
+    "price": "31818",
+    "name": "Toblerone Latte",
+    "description": "Kopi Susu rasa toblerone dan topping Toblerone",
+    "section": "chocolate"
+  },
+  {
+    "price": "61818",
+    "name": "CHOCOLATE 600ml Bottle",
+    "description": "Minuman Chocolate pilihanmu dalam 600ml Bottle",
+    "section": "chocolate"
+  },
+  {
+    "price": "85455",
+    "name": "CHOCOLATE 1L Bottle",
+    "description": "Minuman Chocolate pilihanmu dalam 1L Bottle",
+    "section": "chocolate"
+  },
+  {
+    "price": "28182",
+    "name": "Signature Matcha",
+    "description": "Paduan matcha premium dengan whipped cream, dan vanilla",
+    "section": "matcha"
+  },
+  {
+    "price": "31818",
+    "name": "Classic Matcha Latte (Coffee)",
+    "description": "Perpaduan klasik matcha, susu, dan espresso",
+    "section": "matcha"
+  },
+  {
+    "price": "33636",
+    "name": "Aren Matcha Latte",
+    "description": "Matcha latte dengan gula aren",
+    "section": "matcha"
+  },
+  {
+    "price": "33636",
+    "name": "Whipped Strawberry Matcha",
+    "description": "Matcha dengan Strawberry whipped cream diatsnya",
+    "section": "matcha"
+  },
+  {
+    "price": "33636",
+    "name": "Blueberry Matcha Latte",
+    "description": "Paduan unik matcha dengan blueberry",
+    "section": "matcha"
+  },
+  {
+    "price": "34545",
+    "name": "Matcha Rose Tea Latte",
+    "description": "Matcha dengan rose syrup, dengan rose flakes diatasnya",
+    "section": "matcha"
+  },
+  {
+    "price": "62727",
+    "name": "Matcha 600Ml Bottle",
+    "description": "Minuman Matcha pilihanmu dalam 600ml Bottle",
+    "section": "matcha"
+  },
+  {
+    "price": "85455",
+    "name": "Matcha 1L Bottle",
+    "description": "Minuman Matcha pilihanmu dalam 1L Bottle",
+    "section": "matcha"
+  },
+  {
+    "price": "16364",
+    "name": "Black Tea",
+    "description": "Teh harum dan klasik",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "English Breakfast Tea",
+    "description": "teh klasik dan nikmat",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "Chamomile Flower Tea",
+    "description": "Teh dengan aroma Chamomile Flower",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "Vanilla Earl Grey Tea",
+    "description": "Teh Earl Grey dengan rasa vanilla",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "Coconut & Mango Green Tea",
+    "description": "Green Tea dengan rasa kelapa dan mangga yang menyegarkan",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "Lemon Lime Mint Ice Tea",
+    "description": "Lemon Ice Tea yang segar dengan rasa lime mint",
+    "section": "traditional teas"
+  },
+  {
+    "price": "25455",
+    "name": "Lemon Lychee Ice Tea",
+    "description": "Lemon Ice Tea yang segar dengan rasa leci",
+    "section": "traditional teas"
+  },
+  {
+    "price": "41818",
+    "name": "Traditional Teas 600Ml Bottle",
+    "description": "Minuman Traditional Teas pilihanmu dalam 600ml Bottle",
+    "section": "traditional teas"
+  },
+  {
+    "price": "71818",
+    "name": "Traditional Teas 1L Bottle",
+    "description": "Minuman Traditional Teas pilihanmu dalam 1L Bottle",
+    "section": "traditional teas"
+  },
+  {
+    "price": "18182",
+    "name": "Milk Tea",
+    "description": "Paduan teh dan susu yang nikmat",
+    "section": "milk tea"
+  },
+  {
+    "price": "25455",
+    "name": "Earl Grey Milk Tea",
+    "description": "Teh Earl Grey dan susu yang creamy",
+    "section": "milk tea"
+  },
+  {
+    "price": "30000",
+    "name": "Blue Butterfly Pea Milk Tea",
+    "description": "Milk Tea dengan infused Butterfly Pea flower",
+    "section": "milk tea"
+  },
+  {
+    "price": "30000",
+    "name": "Rose Green Milk Tea",
+    "description": "Milk tea dengan rose syrup, dengan rose petals diatasnya",
+    "section": "milk tea"
+  },
+  {
+    "price": "49091",
+    "name": "MILK TEA 600ml Bottle",
+    "description": "Minuman Milk Tea pilihanmu dalam 600ml Bottle",
+    "section": "milk tea"
+  },
+  {
+    "price": "76364",
+    "name": "MILK TEA 1L Bottle",
+    "description": "Minuman Milk Tea pilihanmu dalam 1L Bottle",
+    "section": "milk tea"
+  },
+  {
+    "price": "26364",
+    "name": "Yuzu Pineapple Refresher",
+    "description": "Yuzu dan nanas yang menyegarkan, dengan bubbly soda water",
+    "section": "refreshers"
+  },
+  {
+    "price": "26364",
+    "name": "Yuzu Grape Refresher",
+    "description": "Yuzu dan anggur yang menyegarkan, dengan bubbly soda water",
+    "section": "refreshers"
+  },
+  {
+    "price": "26364",
+    "name": "Mango Kalamansi Refresher",
+    "description": "Segarnya mangga dan jeruk kalamansi, dengan bubbly soda water",
+    "section": "refreshers"
+  },
+  {
+    "price": "30000",
+    "name": "Butterfly Pea Tea Tonic",
+    "description": "Lemonade menyegarkan dengan Butterfly Pea Flower",
+    "section": "refreshers"
+  },
+  {
+    "price": "31818",
+    "name": "Citrus Berry Refresher with Popping Boba",
+    "description": "Paduan segarnya citrus berry dengan sensasi Popping Mango Boba",
+    "section": "refreshers"
+  },
+  {
+    "price": "31818",
+    "name": "Lychee Yakult Soda With Popping Boba",
+    "description": "Perpaduan Lychee, Yakult, dengan sensasi Popping Mango Boba",
+    "section": "refreshers"
+  },
+  {
+    "price": "60000",
+    "name": "REFRESHERS 600ml Bottle",
+    "description": "Minuman Refreshers pilihanmu dalam 600ml Bottle",
+    "section": "refreshers"
+  },
+  {
+    "price": "87273",
+    "name": "REFRESHERS 1L Bottle",
+    "description": "Minuman Refreshers pilihanmu dalam 1L Bottle",
+    "section": "refreshers"
+  },
+  {
+    "price": "25455",
+    "name": "Vegan Rendang Sandwich",
+    "description": "Sandwich dengan rasa Rendang yang lezat dengan vegan ingredients",
+    "section": "snacks"
+  },
+  {
+    "price": "18182",
+    "name": "Ovomaltine Flash Bread",
+    "description": "Roti lembut berisi ovomaltine yang crunchy",
+    "section": "snacks"
+  },
+  {
+    "price": "23636",
+    "name": "Peanut Butter Sandwich",
+    "description": "Roti dengan peanut butter creamy, nikmat di setiap gigitannya",
+    "section": "snacks"
+  },
+  {
+    "price": "32727",
+    "name": "Blueberry Cromboloni",
+    "description": "Pastry renyah dengan isian blueberry manis",
+    "section": "snacks"
+  },
+  {
+    "price": "20000",
+    "name": "Butter Croissant",
+    "description": "Croissant berlapis beraroma mentega",
+    "section": "snacks"
+  },
+  {
+    "price": "21818",
+    "name": "Chocolate Croissant",
+    "description": "Croissant berlapis dengan filling coklat premium",
+    "section": "snacks"
+  },
+  {
+    "price": "23636",
+    "name": "Almond Croissant",
+    "description": "Croissant dengan irisan almond dan filling premium",
+    "section": "snacks"
+  },
+  {
+    "price": "16364",
+    "name": "Chocolate Stroopwafel",
+    "description": "Paduan tekstur wafel yang renyah dengan rasa coklat premium",
+    "section": "snacks"
+  },
+  {
+    "price": "16364",
+    "name": "Caramel Stroopwafel",
+    "description": "Paduan tekstur wafel yang renyah dengan rasa caramel premium",
+    "section": "snacks"
+  },
+  {
+    "price": "32727",
+    "name": "Smoked Chicken Blackpepper Sandwich",
+    "description": "Sandwich dengan isi campuran daging sapi dan keju premium yang super nikmat dan mengenyangkan",
+    "section": "snacks"
+  },
+  {
+    "price": "33636",
+    "name": "Beef and Cheese Sandwich",
+    "description": "Stick renyah dengan cita rasa balado yang premium, dijamin bisa buat mood kamu semakin meningkat",
+    "section": "snacks"
+  },
+  {
+    "price": "13636",
+    "name": "Crispy Stick Balado Flavor",
+    "description": "Stick renyah dengan cita rasa jagung bakar yang premium membuat harimu semakin rileks dan bertenaga",
+    "section": "snacks"
+  },
+  {
+    "price": "13636",
+    "name": "Crispy Stick Roasted Corn Flavor",
+    "description": "Chips kentang goreng dengan tekstur renyah dibalut dengan bumbu salted egg yang buat kamu semangat menjalani hari",
+    "section": "snacks"
+  },
+  {
+    "price": "22727",
+    "name": "Milk Chocolate Brownie",
+    "description": "Brownie lembut dan fudgy",
+    "section": "snacks"
+  },
+  {
+    "price": "21818",
+    "name": "Cookies Croissant",
+    "description": "Croissant dengan chocolate chip cookie yang buttery",
+    "section": "snacks"
+  },
+  {
+    "price": "22727",
+    "name": "Pink Crispy Croissant",
+    "description": "Croissant renyah, dilapisi dengan red velvet dan white chocolate sauce",
+    "section": "snacks"
+  },
+  {
+    "price": "22727",
+    "name": "Milk Choco Crispy Croissant",
+    "description": "Croissant renyah, dilapisi dengan chocolate sauce",
+    "section": "snacks"
+  },
+  {
+    "price": "25455",
+    "name": "Tuna Avocado Sandwich",
+    "description": "Sandwich dengan tuna dan puree alpukat",
+    "section": "snacks"
+  },
+  {
+    "price": "21818",
+    "name": "Cinnamon Roll",
+    "description": "Roti gulung berisi krim kayu manis dengan frosting cream vanilla",
+    "section": "snacks"
+  },
+  {
+    "price": "13636",
+    "name": "Chocolate Chip Cookie",
+    "description": "Cookie dengan topping chocolate chip",
+    "section": "snacks"
+  },
+  {
+    "price": "13636",
+    "name": "Oatmeal Raisin Cookie",
+    "description": "Cookie dengan topping oatmeal raisin",
+    "section": "snacks"
+  },
+  {
+    "price": "25455",
+    "name": "Spicy Croque Monsieur",
+    "description": "Roti berisi daging asap dengan lelehan keju dan saus bechamel",
+    "section": "snacks"
+  },
+  {
+    "price": "25455",
+    "name": "Sausage Puff",
+    "description": "Pastry diisi dengan sosis gurih, cocok untuk camilan yang nikmat",
+    "section": "snacks"
+  },
+  {
+    "price": "21818",
+    "name": "Tuna Puff",
+    "description": "Pastry dengan isian Tuna yang gurih",
+    "section": "snacks"
+  },
+  {
+    "price": "18182",
+    "name": "Salted Egg Potato Chips",
+    "description": "Chips kentang goreng dengan tekstur renyah dibalut dengan bumbu salted egg yang buat kamu semangat menjalani hari",
+    "section": "snacks"
+  },
+  {
+    "price": "56364",
+    "name": "SIGNATURE 600ml Bottle",
+    "description": "Minuman Signature pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "81818",
+    "name": "Signature 1L Bottle",
+    "description": "Minuman Signature pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "41818",
+    "name": "Black 600Ml Bottle",
+    "description": "Minuman Black pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "73636",
+    "name": "Black 1L Bottle",
+    "description": "Minuman Black pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "56364",
+    "name": "WHITE 600ml Bottle",
+    "description": "Minuman White pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "81818",
+    "name": "WHITE 1L Bottle",
+    "description": "Minuman White pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "61818",
+    "name": "Chocolate 600Ml Bottle",
+    "description": "Minuman Chocolate pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "85455",
+    "name": "CHOCOLATE 1L Bottle",
+    "description": "Minuman Chocolate pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "62727",
+    "name": "Matcha 600Ml Bottle",
+    "description": "Minuman Matcha pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "85455",
+    "name": "MATCHA 1L Bottle",
+    "description": "Minuman Matcha pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "41818",
+    "name": "Traditional Teas 600Ml Bottle",
+    "description": "Minuman Traditional Teas pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "71818",
+    "name": "Traditional Teas 1L Bottle",
+    "description": "Minuman Traditional Teas pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "49091",
+    "name": "MILK TEA 600ml Bottle",
+    "description": "Minuman Milk Tea pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "76364",
+    "name": "MILK TEA 1L Bottle",
+    "description": "Minuman Milk Tea pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "60000",
+    "name": "REFRESHERS 600ml Bottle",
+    "description": "Minuman Refreshers pilihanmu dalam 600ml Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "87273",
+    "name": "Refreshers 1L Bottle",
+    "description": "Minuman Refreshers pilihanmu dalam 1L Bottle",
+    "section": "bottled beverages"
+  },
+  {
+    "price": "19091",
+    "name": "Small Iced Americano",
+    "description": "",
+    "section": "americano"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "price": "6000",
+    "name": "Es Teh Maniz",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Popice Toping",
+    "description": "You Can Request Flavors",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "White/Chocolate Dancow",
+    "description": "Customers Can Be Chat",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Gooday Cofea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18500",
+    "name": "Indomie Tek Goreng",
+    "description": "",
+    "section": "instant food"
+  },
+  {
+    "price": "15000",
+    "name": "Indomie Goreng / Rebus Biasa",
+    "description": "Indomie Fried/Boiled Topped With Sausage And Meatballs",
+    "section": "instant food"
+  },
+  {
+    "price": "10000",
+    "name": "Sosis Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "8000",
+    "name": "Cireng Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "8000",
+    "name": "Otak Otak Goreng",
+    "description": "",
+    "section": "snacks"
+  },
+  {
+    "price": "10000",
+    "name": "Banana Kegencet",
+    "description": "Fried Bananas, Salad, Served With Cash Cheese Milk Topping",
+    "section": "snacks"
+  }
+]

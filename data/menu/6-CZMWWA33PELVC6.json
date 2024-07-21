@@ -1,0 +1,220 @@
+[
+  {
+    "price": "48000",
+    "name": "Sate Ayam Taichan 20 Tusuk",
+    "description": "Taichan Chicken Satay",
+    "section": "serba 39ribu"
+  },
+  {
+    "price": "21000",
+    "name": "Sop Kambing",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "22000",
+    "name": "Sate Ayam 10 Tusuk",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "30000",
+    "name": "Sate Kambing",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "105000",
+    "name": "Paket Murmer",
+    "description": "Goat Satay 20, Chicken Satay 10, Soup 1, And Rice 2",
+    "section": "paket hemat"
+  },
+  {
+    "price": "160000",
+    "name": "Paket Liga Champions",
+    "description": "30 Skewers Of Chicken Satay 30 Skewers Free Soup 1 Portion",
+    "section": "paket hemat"
+  },
+  {
+    "price": "104000",
+    "name": "Paket Rame Rame",
+    "description": "15 Chicken Satay, 15 Goat Satay, 1 Portion, Rice 2",
+    "section": "paket hemat"
+  },
+  {
+    "price": "90000",
+    "name": "Great Package",
+    "description": "Chicken Satay 20, 10 Goat Satay, 1 Portion",
+    "section": "paket hemat"
+  },
+  {
+    "price": "98000",
+    "name": "Paket Ceria",
+    "description": "Chicken Satay 20 Skewers 20 Free 1 Rice",
+    "section": "paket hemat"
+  },
+  {
+    "price": "85000",
+    "name": "Family Package",
+    "description": "10 Chicken Satay, 10 Goat Satay, 1 Soup, Rice 2, Lontong 1",
+    "section": "paket hemat"
+  },
+  {
+    "price": "58000",
+    "name": "Paket Spesial",
+    "description": "Sop 1 Goat Satay 10 Chicken Satay 10",
+    "section": "paket hemat"
+  },
+  {
+    "price": "69000",
+    "name": "Sate Ayam Taichan 30 Tusuk",
+    "description": "Taichan Chicken Satay",
+    "section": "food"
+  },
+  {
+    "price": "135000",
+    "name": "Sate Kambing 50 Tusuk",
+    "description": "50 Skewers Of Goat Satay With Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "90000",
+    "name": "Sate Kambing 30 Tusuk",
+    "description": "30 Skewers Of Goat Satay With Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "75000",
+    "name": "Sate Kambing 25 Tusuk",
+    "description": "Goat Satay 25 Skewers With Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "68000",
+    "name": "Sate Kambing 20 Tusuk",
+    "description": "Goat Satay 20 Skewers Can Be Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "45000",
+    "name": "Sate Kambing 15 Tusuk",
+    "description": "Goat Satay 15 Skewers Can Be Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "34000",
+    "name": "Sate Kambing 10 Tusuk",
+    "description": "10 Skewers Of Goat Satay With Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "110000",
+    "name": "Sate Ayam 50 Tusuk",
+    "description": "Chicken Satay 50 Skewers Can Be Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Sate Ayam Taichan 10 Tusuk",
+    "description": "Taichan Chicken Satay",
+    "section": "food"
+  },
+  {
+    "price": "48000",
+    "name": "Sate Ayam 20 Tusuk",
+    "description": "",
+    "section": "food"
+  },
+  { "price": "6000", "name": "Lontong", "description": "", "section": "food" },
+  { "price": "6000", "name": "Rice", "description": "", "section": "food" },
+  {
+    "price": "24000",
+    "name": "Sop Kambing 1 Porsi",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "55000",
+    "name": "Sate Ayam 25 Tusuk",
+    "description": "Chicken Satay 25 Skewers Can Be Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Sate Ayam 10 Tusuk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "66000",
+    "name": "Sate Ayam 30 Tusuk",
+    "description": "30 Skewers Of Chicken Satay With Peanut Sauce Or Soy Sauce",
+    "section": "food"
+  },
+  {
+    "price": "36000",
+    "name": "Sate Ayam 15 Tusuk",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "69000",
+    "name": "Sate Kulit Taichan 30 Tusuk",
+    "description": "Taichan Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "46000",
+    "name": "Sate Kulit Taichan 20 Tusuk",
+    "description": "Taichan Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "23000",
+    "name": "Sate Kulit Taichan 10 Tusuk",
+    "description": "Taichan Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "66000",
+    "name": "Sate Kulit 30 Tusuk",
+    "description": "Peanut / Soy Sauce Seasoned Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "44000",
+    "name": "Sate Kulit 20 Tusuk",
+    "description": "Peanut / Soy Sauce Seasoned Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "22000",
+    "name": "Sate Kulit 10 Tusuk",
+    "description": "Peanut / Soy Sauce Seasoned Skin Satay",
+    "section": "food"
+  },
+  {
+    "price": "2000",
+    "name": "Crackers",
+    "description": "Crackers",
+    "section": "food"
+  },
+  {
+    "price": "21000",
+    "name": "Gule Kambing",
+    "description": "Goat Gule",
+    "section": "food"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Pucuk",
+    "description": "Drink Cold Pucuk Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Air Minum",
+    "description": "Drink Water",
+    "section": "minuman"
+  }
+]

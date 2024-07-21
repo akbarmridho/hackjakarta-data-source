@@ -1,0 +1,74 @@
+[
+  {
+    "price": "43000",
+    "name": "Chicken Penyet Sambal Ijo Special Vegetable Tamarind",
+    "description": "Chicken Thighs/Breasts, Rice, Fried Onions, Lalaban, Tofu, Tempeh, Sayur Asem",
+    "section": "food"
+  },
+  {
+    "price": "38500",
+    "name": "Chicken Penyet Complete Green Chili Sauce",
+    "description": "Chicken Thigh/Breast, Rice, Fried Onions, Lalaban, Tofu, Tempeh",
+    "section": "food"
+  },
+  {
+    "price": "33500",
+    "name": "Penyet Chicken With Green Chili Sauce",
+    "description": "Chicken Thigh/Breast, Rice, Fried Onions, Lalaban, Super Hot Green Sambal",
+    "section": "food"
+  },
+  {
+    "price": "26500",
+    "name": "Karedok Lontong",
+    "description": "Lontong, Special Peanut Sauce, Cucumber, Lalapan, Long Beans, Cabbage, Bean Sprouts, Tofu, Tempeh, Basil, Fried Onions, Crackers.",
+    "section": "food"
+  },
+  {
+    "price": "28500",
+    "name": "Gado Gado Lontong",
+    "description": "Lontong, Special Peanut Sauce, Tofu, Tempeh, Corn, Pumpkin, Cucumber, Cucumber, Bean Sprouts, Long Beans, Cabbage, Fried Onions, Crackers.",
+    "section": "food"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "29500",
+    "name": "Gado Gado Telor",
+    "description": "Ground Peanut Sauce, Tofu, Tempeh, Corn, Cucumber, Pumpkin, Potatoes, Kale, Bean Sprouts, Eggs, Fried Onions, Crackers.",
+    "section": "food"
+  },
+  {
+    "price": "28500",
+    "name": "Egg Karedok",
+    "description": "Sambal Ground Beans, Cabbage, Bean Sprouts, Long Beans, Cucumber, Egg, Basil, Fried Onions, Crackers.",
+    "section": "food"
+  },
+  {
+    "price": "32500",
+    "name": "Karedok Lontong Telor",
+    "description": "Sambal Ground Beans, Lontong, Cabbage, Bean Sprouts, Lalabage, Cucumber, Long Beans, Tofu, Basil, Fried Onions, Crackers, Eggs.",
+    "section": "food"
+  },
+  {
+    "price": "24500",
+    "name": "Karedok Original",
+    "description": "Sambal Ground Beans, Cabbage, Bean Sprouts, Cucumber, Tofu, Lalab Eggplant, Long Beans, Basil, Fried Onions, Crackers.",
+    "section": "food"
+  },
+  {
+    "price": "24500",
+    "name": "Gado Gado Original",
+    "description": "Special Peanut Sauce, Kale, Bean Sprouts, Long Beans, Cucumber, Pumpkin, Potatoes, Tofu, Tempeh, Carrots, Crackers, Cabbage, Fried Onions.",
+    "section": "food"
+  },
+  {
+    "price": "31500",
+    "name": "Gado-Gado Lontong Egg",
+    "description": "Peanut Sauce, Kale, Bean Sprouts, Lontong, Long Beans, Tofu, Tempeh, Cucumber, Pumpkin, Potatoes, Cabbage, Crackers, Eggs",
+    "section": "food"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "price": "5000",
+    "name": "1 Large Palembang Fish Cake Without Mackerel Fish",
+    "description": "",
+    "section": "per piece menu"
+  },
+  {
+    "price": "5000",
+    "name": "1 Large Pempek Lenjer Without Mackerel Fish",
+    "description": "",
+    "section": "per piece menu"
+  },
+  {
+    "price": "7500",
+    "name": "1.Pc Pempek Big Egg Mackerel",
+    "description": "1.Pc Pempek Mackerel Egg + Cuko Sauce + Cucumber",
+    "section": "per piece menu"
+  },
+  {
+    "price": "7500",
+    "name": "1.Pc Pempek Lenjer Big Tenggiri Fish",
+    "description": "1.Pc Pempek Lenjer Mackerel Fish + Cuko Sauce + Cucumber",
+    "section": "per piece menu"
+  },
+  {
+    "price": "7500",
+    "name": "1.Pc Pempek Adaan Big Mackerel Fish",
+    "description": "1.Pc Pempek There Is A Mackerel Fish + Cuko Sauce + Cucumber",
+    "section": "per piece menu"
+  },
+  {
+    "price": "7500",
+    "name": "1.Pc Pempek Big Mackerel Fish Skin",
+    "description": "1.Pc Pempek Skin + Cuko Sauce Has Palembang + Cucumber",
+    "section": "per piece menu"
+  },
+  {
+    "price": "25000",
+    "name": "1 Large Palembang Mackerel Fishcake",
+    "description": "1.Pc Mackerel Pempek Big Mackerel Fish Combined With Cuko Sauce, Cucumber, Chili Sauce, Vermicelli",
+    "section": "per piece menu"
+  },
+  {
+    "price": "30000",
+    "name": "4. Mixed Mackerel Fishcake",
+    "description": "1 Pempek Of Mackerel.1.Skin+1.Adaan.+Lenjer+1. Egg + Cuko Gravy + Cucumber",
+    "section": "menu campur"
+  },
+  {
+    "price": "60000",
+    "name": "8.Pc Big Pempek Mackerel Fish",
+    "description": "Pempek Sauce + Cucumber",
+    "section": "menu campur"
+  },
+  {
+    "price": "88000",
+    "name": "12. Mixed Mackerel Fishcake",
+    "description": "",
+    "section": "menu campur"
+  },
+  {
+    "price": "27000",
+    "name": "10 Palembang Fish Cake Mixed With Regular Lenjer.Without. Fish",
+    "description": "Pempek Egg.5. + Regular Lenjer.5 Without Fish + Cuko Sauce + Cucumber",
+    "section": "menu campur"
+  },
+  {
+    "price": "25000",
+    "name": "10.Tusuk.Cilok Goreng Campur Cihu Goreng",
+    "description": "5.Pcs Fried Egg + 5.Pcs Fried Cihu + Chili Sauce Has Bang Jun",
+    "section": "menu campur"
+  },
+  {
+    "price": "25000",
+    "name": "10. Tapioca Balls With Egg And Chili Sauce",
+    "description": "1 Skewer Contains 3",
+    "section": "menu porsian"
+  },
+  {
+    "price": "25000",
+    "name": "10.Tusuk Cilok Goreng Bumbu Saos Sambal",
+    "description": "1 Skewer Contains 4 Cilok",
+    "section": "menu porsian"
+  },
+  {
+    "price": "27000",
+    "name": "10.Pc Regular Lenjer Fish Cake",
+    "description": "10.Pcs Pempek Regular Lenjer Without Fish + Cuko Sauce Has Palembang + Cucumber",
+    "section": "menu porsian"
+  },
+  {
+    "price": "27000",
+    "name": "10. Pcs Regular Egg Fish Cake. Without.Fish",
+    "description": "10.Pcs Regular Egg Pempek Without Fish + Cuko Sauce Has Palembang + Cucumber",
+    "section": "menu porsian"
+  },
+  {
+    "price": "25000",
+    "name": "10. Skewered Tapioca With Spicy Sauce",
+    "description": "1 Skewer Contains 3 Cihu",
+    "section": "menu porsian"
+  },
+  {
+    "price": "25000",
+    "name": "1 Large Submarine Fishcake",
+    "description": "1.Pc Big Kapal Selam Pempek Combined With Cuko Sauce + Cucumber + Sambal",
+    "section": "menu porsian"
+  },
+  {
+    "price": "25000",
+    "name": "10. Skewered Mackerel Fish With Chili Sauce",
+    "description": "10. Mackerel Semol + Chili Sauce + Soy Sauce",
+    "section": "big sempolan mackerel fish flavor"
+  },
+  {
+    "price": "25000",
+    "name": "10. Skewered Peanut Mackerel Fish Sempol",
+    "description": "10. Mackerel Semol + Peanut Sauce + Soy Sauce",
+    "section": "big sempolan mackerel fish flavor"
+  },
+  {
+    "price": "25000",
+    "name": "10. Skewered Tapioca (Ciloca Tofu) Seasoning Sauce",
+    "description": "",
+    "section": "tofu cilok (cihu) fried egg"
+  },
+  {
+    "price": "25000",
+    "name": "10 Fried Tapioca Skewers Filled With Chili Sauce",
+    "description": "",
+    "section": "cilok mackerel 1 skewer contains 3"
+  },
+  {
+    "price": "45000",
+    "name": "20.Pcs Regular Egg Fishcake Without Mackerel Fish",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "57000",
+    "name": "10 Pempek Lenjer Mackerel Fish",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "57000",
+    "name": "10 Pempek Mackerel Fish Egg",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "57000",
+    "name": "10 Pempek Adaan Mackerel Fish",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "57000",
+    "name": "10 Pempek Mackerel Fish Skin",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "38000",
+    "name": "20 Large Sempol Mackerel Fish",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "38000",
+    "name": "20 Fried Tapioca Balls With Mackerel Fish",
+    "description": "1 Skewer Contains 3 Fried Cilok",
+    "section": "frozen food"
+  },
+  {
+    "price": "38000",
+    "name": "20 Fried Tapioca Balls (Cilok Tofu)",
+    "description": "1 Skewer Contains 3 Cihu",
+    "section": "frozen food"
+  },
+  {
+    "price": "95000",
+    "name": "5 Big Submarines",
+    "description": "",
+    "section": "frozen food"
+  },
+  {
+    "price": "1500",
+    "name": "Es Batu",
+    "description": "",
+    "section": "es batu"
+  },
+  { "price": "7000", "name": "Gold", "description": "", "section": "minuman" },
+  {
+    "price": "8000",
+    "name": "Mizone",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Good Day Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  { "price": "6000", "name": "Milku", "description": "", "section": "minuman" },
+  {
+    "price": "8000",
+    "name": "Uulta Milk 200 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Ulita Milk 125 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Canned Solution",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Canned Pocari",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Ademsari Kaleng",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16000",
+    "name": "C 1000",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Bear Milk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3500",
+    "name": "Yakult 1 Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Cola Cola",
+    "description": "Cold/Not",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Floridina",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Fanta",
+    "description": "Cold/Not",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh Pucuk",
+    "description": "Cold/Not",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Sprite",
+    "description": "Cold/No",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Medium Size Mineral Water",
+    "description": "Cold / No",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Large Size Mineral Water",
+    "description": "Cold / No",
+    "section": "minuman"
+  }
+]

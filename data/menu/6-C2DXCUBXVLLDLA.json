@@ -1,0 +1,404 @@
+[
+  {
+    "price": "44900",
+    "name": "Complete Roasted Chicken + Sweet Iced Tea",
+    "description": "Chicken, Tempeh, Tofu, Sweet Iced Tea, Lalapan, Red Green Sambal, Plain",
+    "section": "serba 39k"
+  },
+  {
+    "price": "32000",
+    "name": "Grilled Gourami Without Rice",
+    "description": "Grilled Gourame With Barbecue Seasoning, Red Sambal Ijo, Lalapan, It'S Really Spicy",
+    "section": "green chili chicken + rice"
+  },
+  {
+    "price": "28900",
+    "name": "Grilled Chicken Without Rice",
+    "description": "Grilled Chicken Barbeque Lalapan Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "32900",
+    "name": "Grilled Chicken With Rice",
+    "description": "Grilled Chicken Barbeque Rice Lalapan Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "37900",
+    "name": "Complete Grilled Chicken",
+    "description": "Grilled Chicken Barbeque Rice Tofu And Tempeh Lalapan Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "27900",
+    "name": "Fried Chicken Without Rice",
+    "description": "Fried Chicken With Lalapan Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "31900",
+    "name": "Fried Chicken With Rice",
+    "description": "Fried Chicken Rice With Lalapan Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "36900",
+    "name": "Ayam Goreng Komplit",
+    "description": "Fried Chicken Rice Tofu And Tempeh Lalapan With Red Green Sambal Tastes Great",
+    "section": "chicken cuisine"
+  },
+  {
+    "price": "28900",
+    "name": "Smashed Chicken Without Rice",
+    "description": "Smashed Chicken With Spicy Green Sambal",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "34900",
+    "name": "Smashed Chicken With Rice",
+    "description": "Smashed Chicken Rice Lalapan With Spicy Green Sambal",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "39900",
+    "name": "Complete Squeezed Chicken",
+    "description": "Smashed Chicken Rice Lalapan Tofu Tempeh With Spicy Green Sambal",
+    "section": "chicken penyet green sambal"
+  },
+  {
+    "price": "9000",
+    "name": "Green Chili Smashed Eggplant",
+    "description": "Fried Eggplant + Green Sauce",
+    "section": "fish"
+  },
+  {
+    "price": "4300",
+    "name": "Sambal Ijo",
+    "description": "Extra Green Sambal For One Portion",
+    "section": "fish"
+  },
+  {
+    "price": "16000",
+    "name": "Ati Ampela + Nasi Goreng/Bakar",
+    "description": "Liver Gizzard, Rice With Red Lalapan Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "8500",
+    "name": "Liver Gizzard Without Rice",
+    "description": "Liver Gizzard, Fried / Grilled Sambal Ijo With Red Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "5000",
+    "name": "Fried Tempeh Tofu",
+    "description": "Fried/Grilled Tempe Tofu",
+    "section": "fish"
+  },
+  {
+    "price": "5800",
+    "name": "White Rice",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "5000",
+    "name": "Kol Goreng",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "5900",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Rice Grilled Gourami",
+    "description": "Grilled Gourame Rice, Tofu, Tempeh",
+    "section": "fish"
+  },
+  {
+    "price": "37900",
+    "name": "Grilled Gourami With Rice",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Fried Gurame With Rice",
+    "description": "Fried Gourame Rice, Tofu, Tempeh",
+    "section": "fish"
+  },
+  {
+    "price": "37900",
+    "name": "Fried Gurame Rice",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "32900",
+    "name": "Fried Gurame Without Rice",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "27900",
+    "name": "Complete Fried Mackerel Fish",
+    "description": "Kembung Rice Tofu, Tempeh, Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "23900",
+    "name": "Fried Mackerel With Rice",
+    "description": "Kembung Rice Lalapan Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "20900",
+    "name": "Fried Mackerel Without Rice",
+    "description": "Kembung Lalapan Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "28900",
+    "name": "Complete Grilled Chub Mackerel",
+    "description": "Kembung Rice Tofu, Tempeh, Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "24900",
+    "name": "Rice Grilled Chub Mackerel",
+    "description": "Kembung Rice Lalapan Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "21900",
+    "name": "Kembung Bakar Without Rice",
+    "description": "Grilled Kembung Lalapan Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "39900",
+    "name": "Kuwek Goreng Komplit",
+    "description": "Kuwek Fried Rice, Tofu, Tempeh, Red Sambal, Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "36900",
+    "name": "Kuwek Fried Rice",
+    "description": "Kuwek Fried Rice, Lalapan, Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "33900",
+    "name": "Kuwek Goreng Without Rice",
+    "description": "Kuwek Fried Lalapan Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "40900",
+    "name": "Complete Grilled Kuwek",
+    "description": "Grilled Kuwek Rice, Tempeh, Lalapan, Red Sambal Iyo Spicy Pool",
+    "section": "fish"
+  },
+  {
+    "price": "37900",
+    "name": "Kuwek Bakar Rice",
+    "description": "Kuwek Grilled Rice Lalapan Red Sambal Iyo Spicy Poool Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "34900",
+    "name": "Kuwek Bakar Without Rice",
+    "description": "Grilled Kuwek Lalapan Red Sambal Iyo Spicy Poool",
+    "section": "fish"
+  },
+  {
+    "price": "28000",
+    "name": "Grilled Pomfret + Rice",
+    "description": "Grilled Pomfretl Barbeque + Rice With Red Lalapan Sauce, The Spiciness Is Great",
+    "section": "fish"
+  },
+  {
+    "price": "28000",
+    "name": "Fried Pomfret + Rice",
+    "description": "Fried Cabbage + Rice, Green Sauce, The Spiciness Fried Cabbage Is Great",
+    "section": "fish"
+  },
+  {
+    "price": "24000",
+    "name": "Grilled Pomfret Without Rice",
+    "description": "Grilled Pomfret, Sambal Ijo Red Lalapan Is Great",
+    "section": "fish"
+  },
+  {
+    "price": "27000",
+    "name": "Fried Pomfret + Rice",
+    "description": "Fried Cabbage + Rice With Red Sauce With The Spiciness Of Spiciness",
+    "section": "fish"
+  },
+  {
+    "price": "27000",
+    "name": "Fried Tilapia Without Rice",
+    "description": "Fried Tilapia, The Red Sambal Of The Spicy Sauce Is Great",
+    "section": "fish"
+  },
+  {
+    "price": "27000",
+    "name": "Grilled Tilapia Barbeque Without Rice",
+    "description": "Grilled Tilapia Barbeque, Red Sambal Ijo With The Spiciness Of Spiciness",
+    "section": "fish"
+  },
+  {
+    "price": "31000",
+    "name": "Nila Goreng+Nasi",
+    "description": "Fried Tilapia + Rice With Red Sambal And Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "32000",
+    "name": "Nila Bakar Barbeque+ Nasi",
+    "description": "Grilled Tilapia Barbeque + Rice With Red Sambal Of The Spicy Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "25000",
+    "name": "Lele Bakar Barbeque + Nasi",
+    "description": "Grilled Catfish + Green Sambal With Red Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "22000",
+    "name": "Lele Bakar Barbeque Tanpa Nasi",
+    "description": "Grilled Catfish, Red Sambal With Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "18000",
+    "name": "Fried Catfish Without Rice",
+    "description": "Fried Catfish, Red Sambal With Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "6000",
+    "name": "Medium Aqua",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "16900",
+    "name": "Smashed Chicken Without Rice",
+    "description": "Plain Spicy Sambal Chicken",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "21900",
+    "name": "Ayam Geprek Nasi Sambal Ijo",
+    "description": "Chicken Rice, Lalapan, Plain Sambal",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "26900",
+    "name": "Ayam Geprek Komplit Sambal Ijo",
+    "description": "Chicken Rice, Tofu, Tempeh, Fresh Chili Sauce",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "16900",
+    "name": "Crunchy Fried Chicken Without Rice",
+    "description": "Plain Spicy Sambal Chicken",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "21900",
+    "name": "Smashed Chicken With Rice",
+    "description": "Chicken Rice, Lalapan, Plain Sambal",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "25900",
+    "name": "Ayam Geprek Komplit",
+    "description": "Chicken Rice, Tofu, Tempeh, Fresh Chili Sauce",
+    "section": "ayam geprek"
+  },
+  {
+    "price": "27900",
+    "name": "Complete Yamin Noodles",
+    "description": "Chicken Noodles Boiled Meatballs",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "18900",
+    "name": "Mie Yamin Polos",
+    "description": "Plain Chicken Noodles",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "26900",
+    "name": "Complete Chicken Noodles",
+    "description": "Chicken Noodles Boiled Meatballs",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "20900",
+    "name": "Mie Ayam Pangsit Rebus",
+    "description": "",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "18600",
+    "name": "Plain Chicken Noodles",
+    "description": "Noodles, Chicken, Chili Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "21300",
+    "name": "Complete Chicken Kwetiau With Meatballs",
+    "description": "Chicken Kwetiau Meatballs Wet Dumplings",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Plain Chicken Kuey Teow",
+    "description": "Kwetiau, Chicken, Mustard Greens, Chili Sauce, Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "24000",
+    "name": "Complete Meatball Chicken Kwetiau",
+    "description": "Chicken/Yamin Meatballs Boiled Fried Dumplings, Mustard Greens, Chili Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "18600",
+    "name": "Plain Chicken Vermicelli",
+    "description": "Vermicelli, Chicken, Cayenne, Sambal, Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "21300",
+    "name": "Complete Meatball Chicken Vermicelli",
+    "description": "Chicken Vermicelli, Meatballs, Boiled Dumplings + Fried, Mustard Greens, Chili Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "21300",
+    "name": "Bihun Ayam Yamin Bakso Komplit",
+    "description": "Chicken Vermicelli Yamin Dumpling Meatballs Wet Dumplings",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "18600",
+    "name": "Plain Chicken Boiled Dumplings",
+    "description": "Boiled Dumplings, Chicken, Cayenne, Sambal, Sauce",
+    "section": "meatball chicken noodles"
+  },
+  {
+    "price": "21300",
+    "name": "Chicken Boiled Dumplings + Meatballs",
+    "description": "Dumplings, Chicken, Meatballs, Mustard Greens",
+    "section": "meatball chicken noodles"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "price": "19000",
+    "name": "Boiled Dumplings/Grilled Dumplings In 3",
+    "description": "Boiled Dumplings Contains 3 Pieces",
+    "section": "serba 15ribu"
+  },
+  {
+    "price": "19000",
+    "name": "Beef Meatballs Filled With 3",
+    "description": "Beef Meatball Contains 3 Pieces",
+    "section": "serba 15ribu"
+  },
+  {
+    "price": "1",
+    "name": "Free Drizzle/Sweets/Cassquid Stir-Fried Noodles/Noodle",
+    "description": "Free While Supplies Are Still Available. Request For 5 Star Please. Thank You",
+    "section": "menu favorite"
+  },
+  {
+    "price": "33000",
+    "name": "Noodles / Kwetiau / Chicken Rice With Mushroom",
+    "description": "Noodles / Kwetiau / Mushroom Chicken Vermicelli",
+    "section": "menu favorite"
+  },
+  {
+    "price": "33000",
+    "name": "Noodles / Rice Noodles / Chicken Vermicelli B2",
+    "description": "Minced Topping",
+    "section": "menu favorite"
+  },
+  {
+    "price": "1",
+    "name": "Free / Gratis Wonton Strips",
+    "description": "Please Give A Note To Give A Star 5 And Crunchy. Thank You.",
+    "section": "menu favorite"
+  },
+  {
+    "price": "27000",
+    "name": "Beef Meatballs Contains 5",
+    "description": "Beef Meatballs Contains 5",
+    "section": "menu favorite"
+  },
+  {
+    "price": "27000",
+    "name": "Pangsit Pangsit Rebus/Pangsit Kuah Isi 5",
+    "description": "Dumplings Contains 5 Pieces",
+    "section": "menu favorite"
+  },
+  {
+    "price": "37000",
+    "name": "Chicken Team Rice",
+    "description": "Chicken Steamed Rice",
+    "section": "menu favorite"
+  },
+  {
+    "price": "17000",
+    "name": "Pangsit Goreng Isi Babi Fried Wonton 3 Pieces",
+    "description": "Portion Fried Wonton Filled With Three Fried Dumplings",
+    "section": "menu favorite"
+  },
+  {
+    "price": "33750",
+    "name": "Mie / Bakmie / Kwetiau / Bihun Ayam B2 Jamur Set Promo",
+    "description": "Welcome! Only In Grab Discount Package If You Don'T Want The Mushrooms Write It In The Notes",
+    "section": "makanan paket"
+  },
+  {
+    "price": "39000",
+    "name": "Noodles / Kwetiau / Vermicelli Dumplings With Chicken Meatballs Set",
+    "description": "Minced Topping Chicken With Meatball Dumplings, If You Don'T Want The Mushrooms, Write It In The Notes",
+    "section": "makanan paket"
+  }
+]

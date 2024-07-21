@@ -1,0 +1,392 @@
+[
+  {
+    "price": "190000",
+    "name": "4 Is A Party!",
+    "description": "4 Classic Express Pizza (2 Margherita + 2 Funghi Di Bosco/Mushroom Pesto/American)",
+    "section": "today's offer"
+  },
+  {
+    "price": "117273",
+    "name": "2 Classic Pizza",
+    "description": "2 Classic Pizza (Options: Margherita, Japanese, Flourhi In Bosco, Qatro Formagi, Plain Cono Flour, Mushroom Pestom Restaurant)",
+    "section": "today's offer"
+  },
+  {
+    "price": "117273",
+    "name": "Pizza Pasta Bundle",
+    "description": "1 Classic Pizza + 1 Paste",
+    "section": "today's offer"
+  },
+  {
+    "price": "115000",
+    "name": "Garlic Prawn",
+    "description": "Butterflied Garlic King Prawn On Italian Tomato Dip, Mozzarella, Red Onion, And Baby Plum Tomatoes. Finished With Parsley And Lemon.",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "105000",
+    "name": "Carbonara",
+    "description": "Beef Rasher On A Bechamel Base, Garlic Oil, Mozzarella And Parmesan, With A Cage Free Egg In The Centre, Finished With Fresh Parsley.",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "115000",
+    "name": "Toscana",
+    "description": "Crumbled Beef Sausage, Tomato Pasta, Mozzarella, And Oreo. Frozen With Fresh Mozzarella, Basilkol, Olive Oil Oil On Cheese.",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "115000",
+    "name": "Hawaiian Hot",
+    "description": "Beef Rasher, N'Duja Sausage, Italian Tomato Dip, Jalapeno Pepper, Pineapple Salsa, And Oregano. Finished With Parsley And Grana Padano Cheese.",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "103000",
+    "name": "Quattro Formaggi",
+    "description": "Mozzarella, Gogonzola, Cheddar, Parmesan Cheese, Olive",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "112000",
+    "name": "Milano",
+    "description": "Beef Crumbled With Fennel, Mushroom Sauce, Red Onion, Mozarella",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "112000",
+    "name": "Pizza Quattro Carbon Carbon",
+    "description": "Chicken Slice, Spicy Beef, Pepperoni, Chicken, Mozarella",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "103000",
+    "name": "Mushroom Pesto",
+    "description": "Bechamel, Mushroom, Mozarella, Garlic Oil, Pesto",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "103000",
+    "name": "Il Padrino",
+    "description": "Tomato Pasta, Chicken Bread, Chayote Mushroom, Cherry Tomato, Mozzarella, Pesto Oreo",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "110000",
+    "name": "Plain E Porcini",
+    "description": "Portobello Mushroom, Chicken Breast, Mozarella With Mushrooms Sauce And Pesto",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "115000",
+    "name": "Alaba",
+    "description": "Beef Salami, Mascarpone Cheese, Mozzarella, And Fennel Seed, Finished, With Parmesan And Parsley",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "115000",
+    "name": "Hot Honey Chicken & Pepperoni",
+    "description": "",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "108000",
+    "name": "La Reine",
+    "description": "Portobello Mushrooms, Chicken Cooked Slice, Beef Rasher Stripes, Black Olives, Bocconcini Mozzarella, Garlic Oil On B�Chamel Based. Finished With Truffle Oil And Chopped Parsley.",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "110000",
+    "name": "Plain Italiano",
+    "description": "Chicken Breast,Spinach Bechamel On Pizza Base, Grated Grana Padano Cheese, Garlic Oil, Oregano, And Black Pepper. Finished With Slow-Roasted Tomatoes, Pesto",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "112000",
+    "name": "Hawaii Pizza",
+    "description": "Minced Beef, Barbeque Sauce, Onion, Tomato And Red Cheddar",
+    "section": "classic pizza (6 slices)"
+  },
+  {
+    "price": "47000",
+    "name": "Baked Potato Wedges",
+    "description": "Baked Potato Served With Caesar Dressing",
+    "section": "starter"
+  },
+  {
+    "price": "47000",
+    "name": "Garlic Bread With Mozzarella",
+    "description": "Iconic Carlic Bread Topped With Deliious Garlic Butter And Melted Mozzarella Cheese",
+    "section": "starter"
+  },
+  {
+    "price": "47000",
+    "name": "Dough Ball Pizza Marzano",
+    "description": "Made Fresh Dailty Dipped With Our Famous Garlic Butter",
+    "section": "starter"
+  },
+  {
+    "price": "57000",
+    "name": "Mushroom Dips & Flat Bread",
+    "description": "Mushrooms, Bechamel Sauce, Truffle Oil, Parmesan, Rrosemary And Garlic Oil Served With Baked Flat Bread.",
+    "section": "starter"
+  },
+  {
+    "price": "71000",
+    "name": "Baked Mushroom Pesto Mozzarella",
+    "description": "Portobello Mushroom, Pesto, Mozzarella, Parsley Served With Baked Dough Balls.",
+    "section": "starter"
+  },
+  {
+    "price": "70000",
+    "name": "Baked Chicken Wings",
+    "description": "Chicken Wings Baked With Smoky Berbeque Sauce, Rocket Leaves, And Grana Padano Cheese",
+    "section": "starter"
+  },
+  {
+    "price": "69000",
+    "name": "Bruschetta Caprese",
+    "description": "Garlic Bread Topped With Garlic Butter, Fresh Mozzarella Cheese, Slow Roasted Tomato And Basil Leaf. Finished With Pesto.",
+    "section": "starter"
+  },
+  {
+    "price": "71000",
+    "name": "Funghi Al Forno",
+    "description": "Baked Portobello And Champignon Mushtroom With Herbs & Garlic, Bechamel, Grana Padano Cheese, Fresh Mozarella And Balsamic Sauce",
+    "section": "starter"
+  },
+  {
+    "price": "70000",
+    "name": "Lemon Herbs Chicken Wings",
+    "description": "Baked Chicken Wings With Lemon, Rosemary, Garlic And Oregano.Served With Hot Honey Dip And Parsley.",
+    "section": "starter"
+  },
+  {
+    "price": "51000",
+    "name": "Hot Honey Dough Balls",
+    "description": "Delicious Iconic Dough Balls Tossed In Chili & Basil Sauce And Drizzled With Hot Honey",
+    "section": "starter"
+  },
+  {
+    "price": "62000",
+    "name": "Mixed Salad",
+    "description": "Mixed Lettuce, Romaine, Rocket Leaves, Red Onion, Cucumber, Tomatoes, Olives. Served With House Dressing.",
+    "section": "salad"
+  },
+  {
+    "price": "105000",
+    "name": "Grand Chicken Caesar Salad",
+    "description": "Chicken, Parmesan, Cirspy Beef Rasher, Romaine Lettuce, Croutons, Caesar Dressing Served With Breadsticks",
+    "section": "salad"
+  },
+  {
+    "price": "101000",
+    "name": "Benelvento Salad",
+    "description": "Mixed Leaves, Mushrooms, Tomatoes, Avocado, Fresh Mozzarella, House Dressing, Balsamic, Served With Breadsticks.",
+    "section": "salad"
+  },
+  {
+    "price": "98000",
+    "name": "Tuna Salad",
+    "description": "Mixed Leaves, Tuna, Cage Free Egg, Green Beans, Potatoes, Tomatoes, Olives, House Dressing Served With Breadsticks",
+    "section": "salad"
+  },
+  {
+    "price": "190000",
+    "name": "4 Is A Party!",
+    "description": "4 Classic Express Pizza (2 Margherita + 2 Funghi Di Bosco/Mushroom Pesto/American)",
+    "section": "#don'tmisout deals!"
+  },
+  {
+    "price": "117273",
+    "name": "2 Classic Pizza",
+    "description": "2 Classic Pizza (Options: Margherita, Japanese, Flourhi In Bosco, Qatro Formagi, Plain Cono Flour, Mushroom Pestom Restaurant)",
+    "section": "#don'tmisout deals!"
+  },
+  {
+    "price": "117273",
+    "name": "Pizza Pasta Bundle",
+    "description": "1 Classic Pizza + 1 Paste",
+    "section": "#don'tmisout deals!"
+  },
+  {
+    "price": "145000",
+    "name": "Mushroom & Truffle",
+    "description": "Bechamel Sauce Pizza Base With Portobello, Champignon And Sauted Mixed Mushrooms, Mozzarella, And Rosemary, Ricotta Cheese, Truffle Oil, Parsley And Shaved Grana Padano.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "145000",
+    "name": "Manzo Affumicato E Formaggio",
+    "description": "Cream Cheese And Bechamel, Mozzarella, Grana Padano, Rosemary, Oregano, Garlic Oil. Finished With Sliced Of Honey Roast Beef, Basil And Hot Honey Sauce.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "145000",
+    "name": "Bolognese Fiesta",
+    "description": "Bolognese Sauce, Tortilla Chips, Pasta Sauce, Jalapco, Red Chili, Cajun Sprouts, Melted Red Cheddar, Mozzarella, Oil Garlic, Tomato, Red Powder, And Fresh Onions.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "145000",
+    "name": "American Hot",
+    "description": "Beef Pepperoni,Passa, Mozzarella, Jalapco Pepper, Oreo And Olive Oil.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "145000",
+    "name": "Double American Cheese",
+    "description": "Double The Pepperoni, Double The Cheese! You Can'T Go Wrong With This One.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "127000",
+    "name": "La Regine",
+    "description": "Tomato Sauce, Chicken Sliced, Black Olives, Mushroom, And Mozzarella. 'La Reine' Means The Queen'.",
+    "section": "big classic (8 slices)"
+  },
+  {
+    "price": "110000",
+    "name": "Polpo Del Mare",
+    "description": "Passata sauce, baby octopus, cherry tomato, mixed pepper, mozzarella cheese, garlic oil, blackpepper,oregano. Finished with coriander leaves and lemon wedge Classic Size (6 Slices, Round Shape)",
+    "section": "pizza by yours truly"
+  },
+  {
+    "price": "110000",
+    "name": "Piatto Classic",
+    "description": "Béchamel and spinach sauce base,artichoke, cherry tomatoes, crumbled beef sausage, mozzarella cheese, garlic oil, black pepper, and oregano and grana padano cheese. Classic Size (6 Slices)",
+    "section": "pizza by yours truly"
+  },
+  {
+    "price": "110000",
+    "name": "Manzo Arrosto E Salsiccia",
+    "description": "Italian tomato dip base, sliced roasted beef, crumbled beef sausage, red onion, cherry tomato, mozzarella cheese, blackpepper, garlic oil and oregano with chopped parsley. Classic Size (6 Slices)",
+    "section": "pizza by yours truly"
+  },
+  {
+    "price": "86000",
+    "name": "Margherita",
+    "description": "Mozzarella, Tomato, Basil",
+    "section": "classic express pizza (6 slice)"
+  },
+  {
+    "price": "109000",
+    "name": "American",
+    "description": "Beef Pepperoni, Mozzarella",
+    "section": "classic express pizza (6 slice)"
+  },
+  {
+    "price": "92000",
+    "name": "Funghi In Bosco",
+    "description": "Portobelo Mushrooms, Mozarella, Garlic Oil",
+    "section": "classic express pizza (6 slice)"
+  },
+  {
+    "price": "109000",
+    "name": "Trifolata",
+    "description": "Portions Of Mushrooms Truffle Mushroom Paste, Gorgonzoella, Mozzarella, Garlic Oil, Parmesan, And Parsley.",
+    "section": "classic express pizza (6 slice)"
+  },
+  {
+    "price": "94000",
+    "name": "Spaghetti E Funghi",
+    "description": "Spaghetti With Chicken, Mushroom, Garlic Oil, Chili Crushed, Tomato Cherry, Pesto And Basil.",
+    "section": "pasta"
+  },
+  {
+    "price": "91000",
+    "name": "Fettucini Carbonara",
+    "description": "Fettucini Pasta, Beef Rasher In Carbonara Sauce, Parmesan And Finished With Crispy Beef Rasher.",
+    "section": "pasta"
+  },
+  {
+    "price": "94000",
+    "name": "Spaghetti Bolognese",
+    "description": "Spaghetti Pasta, Bolognese Sauce Finished With Parmesan Cheese.",
+    "section": "pasta"
+  },
+  {
+    "price": "102000",
+    "name": "Spaghetti Tartufo",
+    "description": "Mushroom Cream Paste, Portobello Mushroom, Truffle Oil, Garlic Oil, Finished With Rocket And Parmesan.",
+    "section": "pasta"
+  },
+  {
+    "price": "102000",
+    "name": "Lasagna Classica",
+    "description": "Layers Of Pasta Sheets With Bolognese Sauce, Bechamel, Tomato Sauce, Mozzarella And Parmesan.",
+    "section": "pasta"
+  },
+  {
+    "price": "102000",
+    "name": "Pesto Plain Penne",
+    "description": "Baked Penne Pasta With Chicken Breast, Mushtoom, Red Onion, Bechamel Sauce, Pesto, Mozzarella, Grana Padano Cheese, And Basil.",
+    "section": "pasta"
+  },
+  {
+    "price": "92000",
+    "name": "Risotto E Piselli",
+    "description": "Risotto, Green Peas, Beef Rasher, Pesto, Finished With Rocket Leaf And Parmesan Crisp.",
+    "section": "pasta"
+  },
+  {
+    "price": "92000",
+    "name": "Penne Beef Formaggio",
+    "description": "Creamy Baked Penne, Mozzarella, Red Cheddar, Garlic Oil And Topped With Beef Rasher And Shaved Grana Padano.",
+    "section": "pasta"
+  },
+  {
+    "price": "92000",
+    "name": "Orechiette Con Pesto E Piselli",
+    "description": "Unique Orechiette Pasta From Souther Italy With Garlic Oil, Piselli (Green Peas), Cream, Pesto, Butter, Rocket Leaves And Grana Padano Cheese",
+    "section": "pasta"
+  },
+  {
+    "price": "108000",
+    "name": "Fettucine Pesto E Salmon",
+    "description": "Fettucini Pasta, Pesto Genvese, Garlic Oil, Baked Salmon, Lemon And Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "103000",
+    "name": "Spaghetti",
+    "description": "Spaghetti, Tomato Sauce, Prawns, Chili, Garlic Oil, Basil And Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "71000",
+    "name": "Spaghetti Aglio Olio",
+    "description": "With Garlic Oil, Chili Crushed, Basil And Parsley.",
+    "section": "pasta"
+  },
+  {
+    "price": "18000",
+    "name": "Nestea Lemon Tea",
+    "description": "",
+    "section": "bevereage"
+  },
+  {
+    "price": "18000",
+    "name": "Nestle Blackcurrant",
+    "description": "",
+    "section": "bevereage"
+  },
+  {
+    "price": "18000",
+    "name": "Nestle Lemonade",
+    "description": "",
+    "section": "bevereage"
+  },
+  {
+    "price": "9091",
+    "name": "Aqua Mineral Water",
+    "description": "",
+    "section": "bevereage"
+  },
+  {
+    "price": "18000",
+    "name": "Nestle Green Tea",
+    "description": "",
+    "section": "bevereage"
+  }
+]

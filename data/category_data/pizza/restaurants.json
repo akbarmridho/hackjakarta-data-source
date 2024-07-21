@@ -1,28 +1,17 @@
 [
-    {
-        "name": "Pizza Head - Lippo Kuningan",
-        "tags": [
-            "Pizza",
-            "Pasta",
-            "Fast Food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-head-lippo-kuningan-delivery/6-C3EHALKXG6MXSA?"
-    },
-    {
-        "name": "Pizza Delicious - Cempaka Putih",
-        "tags": [
-            "Pizza",
-            "Pizza & Pasta"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pizza-delicious-cempaka-putih-delivery/6-C2WGTABAPCNELN?"
-    },
-    {
-        "name": "All In One - Mangga Dua Square Lower Level",
-        "tags": [
-            "Pizza",
-            "International",
-            "Snack"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/all-in-one-mangga-dua-square-lower-level-delivery/6-CZLKA2DEEKJ1AN?"
-    }
+  {
+    "name": "Pizza Head - Lippo Kuningan",
+    "tags": ["Pizza", "Pasta", "Fast Food"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-head-lippo-kuningan-delivery/6-C3EHALKXG6MXSA?"
+  },
+  {
+    "name": "Pizza Delicious - Cempaka Putih",
+    "tags": ["Pizza", "Pizza & Pasta"],
+    "link": "https://food.grab.com/id/en/restaurant/pizza-delicious-cempaka-putih-delivery/6-C2WGTABAPCNELN?"
+  },
+  {
+    "name": "All In One - Mangga Dua Square Lower Level",
+    "tags": ["Pizza", "International", "Snack"],
+    "link": "https://food.grab.com/id/en/restaurant/all-in-one-mangga-dua-square-lower-level-delivery/6-CZLKA2DEEKJ1AN?"
+  }
 ]

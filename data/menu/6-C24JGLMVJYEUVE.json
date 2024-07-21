@@ -1,0 +1,212 @@
+[
+  {
+    "price": "38000",
+    "name": "Mango Juice",
+    "description": "Small Size 14 Oz/420 Ml Fresh Mango Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Jus Stroberi",
+    "description": "Small Size 14 Oz/420 Ml Fresh Strawberry Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "38000",
+    "name": "Avocado Juice",
+    "description": "Small Size 14 Oz/420 Ml Fresh Avocado Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "60000",
+    "name": "Jus Durian Monthong",
+    "description": "Small Size 14 Oz/420 Ml Fresh Durian Montong Balinese Blended With Premium Ingrediants With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Chocolate Avocado Juice",
+    "description": "Small Size 14 Oz/420 Mlmixed Fresh Avocado And Premium Chocolate",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "38000",
+    "name": "Sunkist Orange Juice",
+    "description": "Small Size 14 Oz/420 Ml Fresh Sunkist Orange Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Jus Jambu",
+    "description": "Small Size 14 Oz/420 Ml Fresh Guava Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Dragon Fruit Juice",
+    "description": "Small Size 14 Oz/420 Ml Fresh Dragon Fruit Blended With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Jus Sirsak",
+    "description": "Small Size 14 Oz/420 Ml Fresh Soursoped With Premium Ingredients With Whipped Cream And Fresh Toppings",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "33000",
+    "name": "Jus Alpukat Kopi",
+    "description": "Small Size 14 Oz/420 Ml Mixed Fresh Avocado And Premium Coffee Milk",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "22000",
+    "name": "Almond Date Milk",
+    "description": "Small Size 250 Ml Mix Blended Fresh Milk With Sukari Dates And Roasted Almond Nut",
+    "section": "jus buah fresh juice smoothies"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "Small Size 14 Oz/420 Ml Black Puffed Tea With Ice And Sugar Syrup",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "15000",
+    "name": "Es Teh Lemon",
+    "description": "Small Size 14 Oz/420 Ml Black Puffed Tea With Ice, Fresh Lemon Juice, Lemon Slices And Sugar Syrup",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "19000",
+    "name": "Lychee Iced Tea",
+    "description": "Small Size 14 Oz/420 Ml Of Black Puffed Tea With Ice, Lychee Syrup, Fresh Lychee And Sugar Syrup",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "33000",
+    "name": "Cookies And Cream Milkshake",
+    "description": "Small Size 14 Oz/420 Ml Mixed Vanilla Ice Cream And Oreo Coffee With Whipped Cream And Oreo Topping",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "33000",
+    "name": "Coklat Milkshake",
+    "description": "Small Size 14 Oz/420 Ml Mixed Premium Chocolate With Whipped Cream And Chocolate Toppings",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "38000",
+    "name": "Matcha Milkshake",
+    "description": "Small Size 14 Oz/420 Ml Mixed Premium Blended Matcha With Whipped Cream, Sprinkle Matcha Powder And Chocolate Toppings",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "33000",
+    "name": "Vanilla Milkshake",
+    "description": "Small Size 14 Oz/420 Ml Mixed Vanilla Flavor With Whipped Cream And White Chocolate Chips",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "38000",
+    "name": "Hot Chocolate",
+    "description": "Medium Size 12 Oz/360 Ml Hot Chocolate, Premium Dark Chocolate Powder With Sugar And Hot Steam Milk",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "38000",
+    "name": "Matcha Latte Panas",
+    "description": "Medium Size 12 Oz/360 Ml Hot Matcha Latte, Premium Japanese Matcha Powder With Sugar And Hot Steam Milk",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "38000",
+    "name": "Hot Vanilla Latte",
+    "description": "Medium Size 12 Oz/360 Ml Hot Vanilla, Premium Vanilla Powder With Sugar And Hot Steam Milk",
+    "section": "teh/tea/milkshake"
+  },
+  {
+    "price": "35000",
+    "name": "Cappuccino Panas",
+    "description": "Medium Size 12 Oz/360 Ml Hot Cafe Latte, Espresso With Mix Robusta And Arabica Beans And Hot Milk",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "35000",
+    "name": "Hot Latte Coffee",
+    "description": "Medium Size 12 Oz/360 Ml Hot Cafe Latte, Espresso With Mix Robusta And Arabica Beans And Hot Milk",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "35000",
+    "name": "Hot Mochacino",
+    "description": "Medium Size 12 Oz/360 Ml Hot Mochaccino, Espresso With Mix Robusta And Arabica Beans, Dark Chocolate Sauce And Hot Milk",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "35000",
+    "name": "Americano Panas",
+    "description": "Medium Size 12 Oz/360 Ml Hot Americano With Mix Robusta And Arabica Beans, Double Shot Espresso With Hot Water",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "35000",
+    "name": "Hot Black Coffee",
+    "description": "Medium Size 12 Oz/360 Ml Hot Black Coffee With Mix Robusta And Arabica Beans",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "40000",
+    "name": "Vanilla Frappe Crumble",
+    "description": "Small Size 14 Oz/420 Ml Coffee Blended With Premium Vanilla Syrup, Fresh Milk, Mix Arabica And Robusa Betaans, Sweet Cream And Creamy Dumplings With White Chocolate Chocolate Sauce And Chocolate Sauce",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "40000",
+    "name": "Chocolate Frappe Crumble",
+    "description": "Small Size 14 Oz/420 Ml Coffee Blended With Premium Chocolate Milk, Fresh Milk, Mix Arabica And Beans Of Sweet Beans, Creamy Chocolate With Chocolate Milk Sauce And Chocolate Sauce",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "40000",
+    "name": "Caramel Frappe Crumble",
+    "description": "Small Size 14 Oz/420 Ml Coffee Blended With Premium Caramel Syrup, Fresh Milk, Mix Arabica And Robusa Betaans, Sweet Creamed Cream And Caramelette With Salmon Seasoned Sauce And Salted Sauce",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Americano Ice",
+    "description": "Small Size 14 Oz/420 Ml Iced American, Double Shots Of Espresso Pores In A Mineral Water And Ice Cubes With Syrup, With Orange Mix And Beans",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Es Kopi Hitam",
+    "description": "Small Size 14 Oz/420 Ml Black Iced Coffee, Long Shot Of Espresso Poured In Ice Cubes With Sugar Syrup, Mix Arabica And Beans",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Es Cappucino Gula Aren",
+    "description": "Small Size 14 Oz/420 Ml Cappuccino With Palm Sugar, With Premium Gourd Oranges Areh Palm Sugar, Fresh Milk Milk And Mix Arab Beans",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Palm Sugar Iced Coffee Milk (Latte)",
+    "description": "Small Size 14 Oz/420 Ml Iced Coffee With Palm Sugar, With Premium Gourds Bengsarella Palm Sugar, Fresh Milk And Mix Arabic Beans",
+    "section": "kopi/coffee"
+  },
+  {
+    "price": "50000",
+    "name": "Kebab Daging Sapi",
+    "description": "Large Size, Lenght 25 Cm Diameter 6 Cm, Beef Wrap, Marinated Sukiyaki Beef Slices, French Fries, Lettuce Curly, Lettuce Head, Tomato, Cucumbar, Dressing With Mayonaise, Chili Sauce And Yellow Cheddar Cheese Sauce, Wrap With Tortilla Sheet And Grill With Salted Butter",
+    "section": "kebab/wrap"
+  },
+  {
+    "price": "45000",
+    "name": "Chicken Kebab",
+    "description": "Large Size, Lenght 25 Cm Diameter 6 Cm, Chicken Wrap With Marinated Boneless Chicken Thigh, French Fries, Lettuce Curly, Lettuce Head, Tomato, Cucumbar, Dressing With Mayonaise, Chili Sauce And Yellow Cheddar Cheese Sauce, Wrap With Tortilla Sheet And Grill With Salted Butter",
+    "section": "kebab/wrap"
+  }
+]

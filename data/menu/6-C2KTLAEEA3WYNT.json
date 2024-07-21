@@ -1,0 +1,56 @@
+[
+  {
+    "price": "15000",
+    "name": "Regular Chicken Porridge",
+    "description": "Complete Chicken Porridge",
+    "section": "cikini chicken porridge"
+  },
+  {
+    "price": "22000",
+    "name": "Special Chicken Porridge",
+    "description": "Chicken Porridge + 2 Offal Satay Choose According To Slera",
+    "section": "cikini chicken porridge"
+  },
+  {
+    "price": "30000",
+    "name": "Special Chicken Porridge + Red Village Chicken Eggs 1/2 Cooked",
+    "description": "Chicken Porridge + 2 Satay And Eggs",
+    "section": "cikini chicken porridge"
+  },
+  {
+    "price": "20000",
+    "name": "Chicken Porridge + Red Village Chicken Eggs 1/2 Cooked",
+    "description": "",
+    "section": "cikini chicken porridge"
+  },
+  {
+    "price": "5000",
+    "name": "Chicken Liver Satay",
+    "description": "",
+    "section": "sate jeroan"
+  },
+  {
+    "price": "5000",
+    "name": "Sate Usus",
+    "description": "",
+    "section": "sate jeroan"
+  },
+  {
+    "price": "5000",
+    "name": "Sate Ampela",
+    "description": "",
+    "section": "sate jeroan"
+  },
+  {
+    "price": "5000",
+    "name": "Quail Eggs Satay",
+    "description": "",
+    "section": "egg"
+  },
+  {
+    "price": "7000",
+    "name": "Half Cooked Red Village Chicken Eggs",
+    "description": "",
+    "section": "egg"
+  }
+]

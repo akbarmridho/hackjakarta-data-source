@@ -1,0 +1,464 @@
+[
+  {
+    "price": "20000",
+    "name": "Package Of Mixed Fried Rice And Fried Potato 10",
+    "description": "Tempe Tofu Sweet Potato Bakwan Risol Creng",
+    "section": "today's offer"
+  },
+  {
+    "price": "40000",
+    "name": "Mixed Fritter Package 20 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "today's offer"
+  },
+  {
+    "price": "38250",
+    "name": "Mix Package For All Fritters 20 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Mix Package For All Fritters 15",
+    "description": "Choose Your Own Fried Food To Satisfy It",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Fried Bananas 10 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Mix Fritters 10 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "today's offer"
+  },
+  {
+    "price": "23000",
+    "name": "Tofu Meatballs",
+    "description": "",
+    "section": "last call deals 30%"
+  },
+  {
+    "price": "48000",
+    "name": "Complete Package Of 20 Pieces Fried Foods",
+    "description": "",
+    "section": "package 1"
+  },
+  {
+    "price": "26000",
+    "name": "Complete Fried Package 10 Pieces",
+    "description": "",
+    "section": "package 1"
+  },
+  {
+    "price": "15000",
+    "name": "Package 5 Pieces Fried",
+    "description": "Tofu Bakwan Tempeh Sweet Potato Creng Cassava",
+    "section": "package 1"
+  },
+  {
+    "price": "20000",
+    "name": "Package Of Mixed Fried Rice And Fried Potato 10",
+    "description": "Tempe Tofu Sweet Potato Bakwan Risol Creng",
+    "section": "package 1"
+  },
+  {
+    "price": "40000",
+    "name": "Mixed Fritter Package 20 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "package 1"
+  },
+  {
+    "price": "38250",
+    "name": "Mix Package For All Fritters 20 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "package 1"
+  },
+  {
+    "price": "30000",
+    "name": "Mix Package For All Fritters 15",
+    "description": "Choose Your Own Fried Food To Satisfy It",
+    "section": "package 1"
+  },
+  {
+    "price": "30000",
+    "name": "Bakwan 15 Biji",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "18000",
+    "name": "Mix Fritters 10 Pieces",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "20000",
+    "name": "Fried Bananas 10 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Ube Goreng",
+    "description": "1 Pc Fried Banana",
+    "section": "fried foods"
+  },
+  {
+    "price": "30000",
+    "name": "Mixed Fritters 15 Seeds",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "20000",
+    "name": "Mix Fritters 10 Pieces",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "21600",
+    "name": "Mix Fritters 10 Pieces",
+    "description": "Choose Your Own Fried Food",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tofu",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tapioca",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Cassava",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Cassava",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Bananas",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Oncom Pcs 1",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Bakwan",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Risol",
+    "description": "Risol",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Teppe / Tofu",
+    "description": "Pcs 1 Tofu / Tempeh",
+    "section": "fried foods"
+  },
+  {
+    "price": "25000",
+    "name": "Cireng 10 Biji",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "18000",
+    "name": "Bakwan 10 Biji",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "24000",
+    "name": "Fried Fermented Cassava 10 Pieces",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "3000",
+    "name": "Stuffed Tofu",
+    "description": "Pc 1",
+    "section": "fried foods"
+  },
+  {
+    "price": "22000",
+    "name": "Bakso Sepesial",
+    "description": "",
+    "section": "holiday offer 20%"
+  },
+  {
+    "price": "22000",
+    "name": "Egg Meatballs",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "22000",
+    "name": "Spicy Meatballs + Tofu1",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "35000",
+    "name": "Firecracker Kid Meatballs",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "35000",
+    "name": "Rib Meatballs",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "25000",
+    "name": "Big Smooth Meatballs",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "25000",
+    "name": "Bakso Urat Indomie Goreng",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "25000",
+    "name": "Egg Meatballs",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "25000",
+    "name": "Bakso Urat Indomie Soto",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "30000",
+    "name": "Large Tendon Meatball",
+    "description": "Choose Your Own Noodles",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "22000",
+    "name": "Spicy Meatballs",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Soto Meatballs",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "22000",
+    "name": "Bakso Urat",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "22000",
+    "name": "Bakso Indomi Goreng",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "25000",
+    "name": "Regular Chocolate Meatballs",
+    "description": "",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "29000",
+    "name": "Bakso Urat Besar 2 Bakso Kecil 2",
+    "description": "Vegetable Mustard Greens",
+    "section": "bakso sepesial"
+  },
+  {
+    "price": "28000",
+    "name": "Banana Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "28000",
+    "name": "Banana Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "35000",
+    "name": "Round Coconut",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "22000",
+    "name": "Es Kelapa Muda",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "22000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "22000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Jus Nanas Madu",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "28000",
+    "name": "Mango Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "20000",
+    "name": "Mango Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "20000",
+    "name": "Guava Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "20000",
+    "name": "Dragon Fruit Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "20000",
+    "name": "Jus / Juice Sirsak",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "26000",
+    "name": "Juice / Juice Mix 2 Soursop Mix Banana",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "20000",
+    "name": "Dragon Fruit Juice",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Slices Of Dragon Fruit",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet Fragrant Mango Slices",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Alpukat Kerrok Milo",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Regular Avocado Shake",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Avocado Shake With Milk",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Mixed Fruit Soup",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "36000",
+    "name": "Mixed Fruit Soup",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "26000",
+    "name": "Sweet Fragrant Cut Mango",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "25000",
+    "name": "Apple Slices",
+    "description": "",
+    "section": "fruit juice and soup"
+  },
+  {
+    "price": "28000",
+    "name": "Regular Chicken Noodles",
+    "description": "Vegetable Mustard Greens",
+    "section": "mie ayam"
+  },
+  {
+    "price": "28000",
+    "name": "Regular Chicken Noodles",
+    "description": "Vegetable Mustard Greens",
+    "section": "mie ayam"
+  },
+  {
+    "price": "28000",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "mie ayam"
+  }
+]

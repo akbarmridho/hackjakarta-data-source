@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "65909",
+    "name": "Diskon 44% Medium Pizza + Sides",
+    "description": "Diskon hingga 44% Medium HT Premium/Favourite apa saja + Bread Sides (Bread Sticks/Choco Bread Sticks/Tasty Pocket/Garlic Cheesy Rolls/Cheesy Bread) seharga Rp 65.909 (Harga sebelum pajak)",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "114545",
+    "name": "PAPI DUO PLUS - Paket 2 Medium Premium Pizza",
+    "description": "NEW PIE PIZZA! 2 Medium (HT/Thin/PAN) Premium/Favourite/Super Value Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "107727",
+    "name": "PAPI Value Max",
+    "description": "3 Medium Hand-Tossed Super Value Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "145000",
+    "name": "PAPI DUO Cheese Burst",
+    "description": "2 Medium CB Premium/Favourite/Super Value Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "163636",
+    "name": "PAPI TRIO - Paket 3 Medium Pizza",
+    "description": "3 Medium HT/TC/PAN (Premium/Favourite/Super Value) Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "154545",
+    "name": "PAPI DUO - Paket 2 Large Pizza",
+    "description": "2 Large HT Premium/Favourite/Super Value Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "100000",
+    "name": "PAPI DUO - Paket 2 Medium Pizza",
+    "description": "2 Medium HT/TC/PAN Favourite/Super Value Pizza",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19999",
+    "name": "Hemat Gila 3",
+    "description": "Bread Stick + Tasty Pocket",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19999",
+    "name": "Hemat Gila 6",
+    "description": "3 Tasty Pocket",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19999",
+    "name": "Hemat Gila 9",
+    "description": "Choco Bread Stick + Tasty Pocket",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19999",
+    "name": "Hemat Gila 10",
+    "description": "Chocolate Lava",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "27273",
+    "name": "My Paket 2",
+    "description": "1 Pizza Mania + 1 Tasty Stuffed Pocket + Ades/Frestea",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "16364",
+    "name": "Best Ever Value Deal Pizza Mania",
+    "description": "1 Pizza Mania.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "240909",
+    "name": "Jumbo Deal",
+    "description": "2 Medium HT Premium/Favourite/Super Value Pizza + 2 Bread Sticks + 2 Pasta + 2 Chicken Sides",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "165455",
+    "name": "Big Deal",
+    "description": "2 Medium HT Premium/Favourite/Super Value Pizza + 2 Tasty Stuffed Pocket + 1 Bread sticks + 1 Chicken Side",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "500",
+    "name": "Extra Chili Sauce",
+    "description": "1 sachet saos sambal",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "5000",
+    "name": "Dominos Pizza Eco Bag",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Philly Cheese Steak - Classic Handtossed",
+    "description": "Provolone Cheese Sauce, Cheddar Cheese Sauce, Creamy Cheese Sauce, Tomato Sauce, Beef Steak, Onions, Green Pepper, Champignon Mushroom, Mozzarella Cheese, Parsley, Parmesan Cheese Cup",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Philly Cheese Steak - Crunchy Thin Crust",
+    "description": "Provolone Cheese Sauce, Cheddar Cheese Sauce, Creamy Cheese Sauce, Tomato Sauce, Beef Steak, Onions, Green Pepper, Champignon Mushroom, Mozzarella Cheese, Parsley, Parmesan Cheese Cup",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Philly Cheese Steak - Soft Pan Pizza",
+    "description": "Provolone Cheese Sauce, Cheddar Cheese Sauce, Creamy Cheese Sauce, Tomato Sauce, Beef Steak, Onions, Green Pepper, Champignon Mushroom, Mozzarella Cheese, Parsley, Parmesan Cheese Cup",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Philly Cheese Steak - Cheese Burst",
+    "description": "Provolone Cheese Sauce, Cheddar Cheese Sauce, Creamy Cheese Sauce, Tomato Sauce, Beef Steak, Onions, Green Pepper, Champignon Mushroom, Mozzarella Cheese, Parsley, Parmesan Cheese Cup",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Philly Cheese Steak - Double Cheese Burst",
+    "description": "Provolone Cheese Sauce, Cheddar Cheese Sauce, Creamy Cheese Sauce, Tomato Sauce, Beef Steak, Onions, Green Pepper, Champignon Mushroom, Mozzarella Cheese, Parsley, Parmesan Cheese Cup",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Pie Super Meaty Bolognese - Classic Handtossed",
+    "description": "Rustic Sauce, Creamy Liquid Cheese Sauce, Meatball, Beef Crumble, Onions, Tomato Sauce, Mozzarella Cheese, Green Paprika, Tomato, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Pie Super Meaty Bolognese - Crunchy Thin Crust",
+    "description": "Rustic Sauce, Creamy Liquid Cheese Sauce, Meatball, Beef Crumble, Onions, Tomato Sauce, Mozzarella Cheese, Green Paprika, Tomato, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Pie Super Meaty Bolognese - Soft Pan Pizza",
+    "description": "Rustic Sauce, Creamy Liquid Cheese Sauce, Meatball, Beef Crumble, Onions, Tomato Sauce, Mozzarella Cheese, Green Paprika, Tomato, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Pie Super Meaty Bolognese - Cheese Burst",
+    "description": "Rustic Sauce, Creamy Liquid Cheese Sauce, Meatball, Beef Crumble, Onions, Tomato Sauce, Mozzarella Cheese, Green Paprika, Tomato, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Pie Super Meaty Bolognese - Double Cheese Burst",
+    "description": "Rustic Sauce, Creamy Liquid Cheese Sauce, Meatball, Beef Crumble, Onions, Tomato Sauce, Mozzarella Cheese, Green Paprika, Tomato, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Pie Supreme Cheese - Classic Handtossed",
+    "description": "Mozzarella Cheese, Cheese Sauce, Corn, Beef Sausage, Macaroni, Beef Crumble, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Pie Supreme Cheese - Crunchy Thin Crust",
+    "description": "Mozzarella Cheese, Cheese Sauce, Corn, Beef Sausage, Macaroni, Beef Crumble, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Pie Supreme Cheese - Soft Pan Pizza",
+    "description": "Mozzarella Cheese, Cheese Sauce, Corn, Beef Sausage, Macaroni, Beef Crumble, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Pie Supreme Cheese - Cheese Burst",
+    "description": "Mozzarella Cheese, Cheese Sauce, Corn, Beef Sausage, Macaroni, Beef Crumble, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Pie Supreme Cheese - Double Cheese Burst",
+    "description": "Mozzarella Cheese, Cheese Sauce, Corn, Beef Sausage, Macaroni, Beef Crumble, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Ultimate Meat Overload - Crunchy Thin Crust",
+    "description": "BBQ Sauce, Cheese Sauce, Mozzarella Cheese, Beef Pepperoni, Beef Rasher, Beef Crumble, Beef Sausage, Chicken Sausage, Chicken Strips, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Ultimate Meat Overload - Soft Pan Pizza",
+    "description": "BBQ Sauce, Cheese Sauce, Mozzarella Cheese, Beef Pepperoni, Beef Rasher, Beef Crumble, Beef Sausage, Chicken Sausage, Chicken Strips, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Ultimate Meat Overload - Classic Handtossed",
+    "description": "BBQ Sauce, Cheese Sauce, Mozzarella Cheese, Beef Pepperoni, Beef Rasher, Beef Crumble, Beef Sausage, Chicken Sausage, Chicken Strips, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Ultimate Meat Overload - Cheese Burst",
+    "description": "BBQ Sauce, Cheese Sauce, Mozzarella Cheese, Beef Pepperoni, Beef Rasher, Beef Crumble, Beef Sausage, Chicken Sausage, Chicken Strips, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Ultimate Meat Overload - Double Cheese Burst",
+    "description": "BBQ Sauce, Cheese Sauce, Mozzarella Cheese, Beef Pepperoni, Beef Rasher, Beef Crumble, Beef Sausage, Chicken Sausage, Chicken Strips, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Alfredo Chk Mushroom Truffle - Crunchy Thin Crust",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Chili Chicken, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Alfredo Chk Mushroom Truffle - Soft Pan Pizza",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Chili Chicken, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Alfredo Chk Mushroom Truffle - Classic Handtossed",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Chili Chicken, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Alfredo Chk Mushroom Truffle - Cheese Burst",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Chili Chicken, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Alfredo Chk Mushroom Truffle - Double Cheese Burst",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Chili Chicken, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Alfredo Beef Mushroom Truffle - Crunchy Thin Crust",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Alfredo Beef Mushroom Truffle - Soft Pan Pizza",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Alfredo Beef Mushroom Truffle - Classic Handtossed",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Alfredo Beef Mushroom Truffle - Cheese Burst",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Alfredo Beef Mushroom Truffle - Double Cheese Burst",
+    "description": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Classic Cheeseburger - Crunchy Thin Crust",
+    "description": "Tomato sauce, mustard sauce, tomato, beef rasher, beef crumble, onion, slice cheese, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Classic Cheeseburger - Soft Pan Pizza",
+    "description": "Tomato sauce, mustard sauce, tomato, beef rasher, beef crumble, onion, slice cheese, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Classic Cheeseburger - Classic Handtossed",
+    "description": "Tomato sauce, mustard sauce, tomato, beef rasher, beef crumble, onion, slice cheese, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Classic Cheeseburger - Cheese Burst",
+    "description": "Tomato sauce, mustard sauce, tomato, beef rasher, beef crumble, onion, slice cheese, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Classic Cheeseburger - Double Cheese Burst",
+    "description": "Tomato sauce, mustard sauce, tomato, beef rasher, beef crumble, onion, slice cheese, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Grilled Beef Supreme - Medium - Crunchy Thin Crust",
+    "description": "BBQ sauce, cheese sauce, onion, beef burger, jalapeno, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Grilled Beef Supreme - Medium - Soft Pan Pizza",
+    "description": "BBQ sauce, cheese sauce, onion, beef burger, jalapeno, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Grilled Beef Supreme - Medium - Classic Handtossed",
+    "description": "BBQ sauce, cheese sauce, onion, beef burger, jalapeno, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Grilled Beef Supreme - Medium - Cheese Burst",
+    "description": "BBQ sauce, cheese sauce, onion, beef burger, jalapeno, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Grilled Beef Supreme - Medium - Double Cheese Burst",
+    "description": "BBQ sauce, cheese sauce, onion, beef burger, jalapeno, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Cheesy Meatball Blast - Medium - Crunchy Thin Crust",
+    "description": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Cheesy Meatball Blast - Medium - Soft Pan Pizza",
+    "description": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Cheesy Meatball Blast - Medium - Classic Handtossed",
+    "description": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Cheesy Meatball Blast - Medium - Cheese Burst",
+    "description": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Cheesy Meatball Blast - Medium - Double Cheese Burst",
+    "description": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Chicken Lovers - Medium - Crunchy Thin Crust",
+    "description": "Tomato sauce, chicken rasher, parsley, chicken pepperoni, marinated chicken, cheesy bites, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Chicken Lovers - Medium - Soft Pan Pizza",
+    "description": "Tomato sauce, chicken rasher, parsley, chicken pepperoni, marinated chicken, cheesy bites, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Chicken Lovers - Medium - Classic Handtossed",
+    "description": "Tomato sauce, chicken rasher, parsley, chicken pepperoni, marinated chicken, cheesy bites, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Chicken Lovers - Medium - Cheese Burst",
+    "description": "Tomato sauce, chicken rasher, parsley, chicken pepperoni, marinated chicken, cheesy bites, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Chicken Lovers - Medium - Double Cheese Burst",
+    "description": "Tomato sauce, chicken rasher, parsley, chicken pepperoni, marinated chicken, cheesy bites, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Cheese Mania - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, parsley, extra mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Cheese Mania - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, parsley, extra mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Cheese Mania - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, parsley, extra mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Cheese Mania - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, parsley, extra mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Cheese Mania - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, parsley, extra mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Extravaganzza - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, green pepper, onion, black olives, mushroom, beef pepperoni, beef crumble, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Extravaganzza - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, green pepper, onion, black olives, mushroom, beef pepperoni, beef crumble, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Extravaganzza - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, green pepper, onion, black olives, mushroom, beef pepperoni, beef crumble, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Extravaganzza - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, green pepper, onion, black olives, mushroom, beef pepperoni, beef crumble, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Extravaganzza - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, green pepper, onion, black olives, mushroom, beef pepperoni, beef crumble, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Meatzza - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, beef pepperoni, beef sausage cut, beef crumble, beef rasher, marinated chicken, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Meatzza - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, beef pepperoni, beef sausage cut, beef crumble, beef rasher, marinated chicken, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Meatzza - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, beef pepperoni, beef sausage cut, beef crumble, beef rasher, marinated chicken, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Meatzza - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, beef pepperoni, beef sausage cut, beef crumble, beef rasher, marinated chicken, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Meatzza - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, beef pepperoni, beef sausage cut, beef crumble, beef rasher, marinated chicken, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Veggie Mania - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, green pepper, corn, mushroom, tomato, black olives, onion, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Veggie Mania - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, green pepper, corn, mushroom, tomato, black olives, onion, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Veggie Mania - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, green pepper, corn, mushroom, tomato, black olives, onion, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Veggie Mania - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, green pepper, corn, mushroom, tomato, black olives, onion, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Veggie Mania - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, green pepper, corn, mushroom, tomato, black olives, onion, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Ultimate Cheese Melt - Medium - Crunchy Thin Crust",
+    "description": "Liquid cheese sauce, mozzarella cheese, cheddar cheese sauce, ricotta cheese , mozzarella string, parmesan cheese, parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "89545",
+    "name": "Ultimate Cheese Melt - Medium - Soft Pan Pizza",
+    "description": "Liquid cheese sauce, mozzarella cheese, cheddar cheese sauce, ricotta cheese , mozzarella string, parmesan cheese, parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "85000",
+    "name": "Ultimate Cheese Melt - Medium - Classic Handtossed",
+    "description": "Liquid cheese sauce, mozzarella cheese, cheddar cheese sauce, ricotta cheese , mozzarella string, parmesan cheese, parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "98636",
+    "name": "Ultimate Cheese Melt - Medium - Cheese Burst",
+    "description": "Liquid cheese sauce, mozzarella cheese, cheddar cheese sauce, ricotta cheese , mozzarella string, parmesan cheese, parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "103182",
+    "name": "Ultimate Cheese Melt - Medium - Double Cheese Burst",
+    "description": "Liquid cheese sauce, mozzarella cheese, cheddar cheese sauce, ricotta cheese , mozzarella string, parmesan cheese, parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Double Beef Burger - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, mustard sauce, tomato sauce, beef crumble, tomato, mozzarella cheese.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Double Beef Burger - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, mustard sauce, tomato sauce, beef crumble, tomato, mozzarella cheese.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "70000",
+    "name": "Double Beef Burger - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, mustard sauce, tomato sauce, beef crumble, tomato, mozzarella cheese.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "83636",
+    "name": "Double Beef Burger - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, mustard sauce, tomato sauce, beef crumble, tomato, mozzarella cheese.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "88182",
+    "name": "Double Beef Burger - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, mustard sauce, tomato sauce, beef crumble, tomato, mozzarella cheese.",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Chicken Delight - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, onion, tomato, chili chicken, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Chicken Delight - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, onion, tomato, chili chicken, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "70000",
+    "name": "Chicken Delight - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, onion, tomato, chili chicken, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "83636",
+    "name": "Chicken Delight - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, onion, tomato, chili chicken, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "88182",
+    "name": "Chicken Delight - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, onion, tomato, chili chicken, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Beef Pepperoni Feast - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, beef pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Beef Pepperoni Feast - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, beef pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "70000",
+    "name": "Beef Pepperoni Feast - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, beef pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "83636",
+    "name": "Beef Pepperoni Feast - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, beef pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "88182",
+    "name": "Beef Pepperoni Feast - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, beef pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Meat & Meat - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, parsley, beef pepperoni, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "74545",
+    "name": "Meat & Meat - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, parsley, beef pepperoni, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "70000",
+    "name": "Meat & Meat - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, parsley, beef pepperoni, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "83636",
+    "name": "Meat & Meat - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, parsley, beef pepperoni, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "88182",
+    "name": "Meat & Meat - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, parsley, beef pepperoni, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Pepperoni Feast - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, chicken pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Pepperoni Feast - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, chicken pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "45455",
+    "name": "Chicken Pepperoni Feast - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, chicken pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "59091",
+    "name": "Chicken Pepperoni Feast - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, chicken pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "63636",
+    "name": "Chicken Pepperoni Feast - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, chicken pepperoni, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Margherita - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, tomato, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Margherita - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, tomato, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "45455",
+    "name": "Margherita - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, tomato, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "59091",
+    "name": "Margherita - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, tomato, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "63636",
+    "name": "Margherita - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, tomato, parsley, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Cheesy Sausage - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Cheesy Sausage - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "45455",
+    "name": "Cheesy Sausage - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "59091",
+    "name": "Cheesy Sausage - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "63636",
+    "name": "Cheesy Sausage - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, beef sausage cut, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Beef Delight - Medium - Crunchy Thin Crust",
+    "description": "Domino's pizza sauce, beef rasher, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "50000",
+    "name": "Beef Delight - Medium - Soft Pan Pizza",
+    "description": "Domino's pizza sauce, beef rasher, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "45455",
+    "name": "Beef Delight - Medium - Classic Handtossed",
+    "description": "Domino's pizza sauce, beef rasher, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "59091",
+    "name": "Beef Delight - Medium - Cheese Burst",
+    "description": "Domino's pizza sauce, beef rasher, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "63636",
+    "name": "Beef Delight - Medium - Double Cheese Burst",
+    "description": "Domino's pizza sauce, beef rasher, mozzarella cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "17727",
+    "name": "Creamy Chicken",
+    "description": "Saos Keju, Chicken Strips, Keju Mozzarella, Mayonnaise, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "17727",
+    "name": "Chicken BBQ",
+    "description": "Saus Barbeque, Saus Rustic, Saus Keju, Sosis Ayam, Keju Mozarella, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "17727",
+    "name": "Cheesy Beef",
+    "description": "Saus Keju Cheddar, Saus Tomat, Sosis Sapi, Keju Mozarella, Parsley",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "17727",
+    "name": "K-Lovers Pizza",
+    "description": "Gochujang Sauce, Cheese Sauce, Beef Sausage, Sesame, Parsley, Mozarella Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "17727",
+    "name": "Beef Rasher",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "32727",
+    "name": "Philly Cheese Steak Spaghetti",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "32727",
+    "name": "Mac 'n Cheese Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "32727",
+    "name": "Chicken Creamy Spaghetti Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "32727",
+    "name": "Meatball Marinara Spaghetti Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "37273",
+    "name": "Mac 'n Cheese Extra Cheese Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "37273",
+    "name": "Beef Pepper Spaghetti with Cheese Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "37273",
+    "name": "Chicken Creamy Spaghetti with Cheese Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "32727",
+    "name": "Mac' n Truffle Beef Pasta",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "37273",
+    "name": "Mac' n Truffle Beef Pasta Extra Cheese",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "36363",
+    "name": "Cheesy Chicken Philly",
+    "description": "Domino's Pizza Cheesy Chicken Philly",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "30455",
+    "name": "Wingchujang Chikin (5 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "60455",
+    "name": "Wingchujang Chikin (10 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "24091",
+    "name": "Habanero Boneless Wings (3 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "27727",
+    "name": "Crispy Chicken Strips (4 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "27727",
+    "name": "Chick and Cheese Ring (6 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "30455",
+    "name": "Chicken Wings (5 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "45909",
+    "name": "Chick and Cheese Ring (10 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "60455",
+    "name": "Chicken Wings (10 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "62273",
+    "name": "Crispy Chicken Strips (10 Pieces)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "34545",
+    "name": "Cheesy Calzone Sticks (8 Pieces)",
+    "description": "8 pieces Cheesy Calzone Sticks",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "30909",
+    "name": "Cheese Bread (8 Pieces)",
+    "description": "8 Pcs Cheesy Bread",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "27727",
+    "name": "Bread Sticks (8 Pieces)",
+    "description": "8-piece Stick Bread",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "21818",
+    "name": "Garlic Cheesy Rolls (2 Pieces)",
+    "description": "Soft onion bread contains 2 pieces",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19091",
+    "name": "Chicken & Rice - Personal Original",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "33182",
+    "name": "Chicken & Rice - Medium Original",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19091",
+    "name": "Chicken & Rice - Personal Sambal",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "33182",
+    "name": "Chicken & Rice - Medium Sambal",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "19091",
+    "name": "Chicken & Rice - Personal BBQ",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "33182",
+    "name": "Chicken & Rice - Medium BBQ",
+    "description": "Medium Classic Fried Chicken served with Domino's Original Pizza Sauce",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "10909",
+    "name": "Tasty Creamy Philly Beef",
+    "description": "Domino's Pizza Creamy Philly Beef Pocket",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "18182",
+    "name": "Crispy Tortilla Chips",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "10909",
+    "name": "Tasty Stuffed Pocket Peppery Beef Sausage",
+    "description": "Domino's Pizza Tasty Stuffed Pocket Peppery",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "10909",
+    "name": "Tasty Stuffed Pocket Spicy Chicken Sausage",
+    "description": "Tasty Stuffed Pocket Spicy Chicken Sausage",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "13182",
+    "name": "Tasty Stuffed Pocket Peppery Beef Sausage with Cheese",
+    "description": "Domino's Pizza Tasty Stuffed Pocket Peppery with Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "13182",
+    "name": "Tasty Stuffed Pocket Spicy Chicken Sausage with Cheese",
+    "description": "Tasty Stuffed Pocket Spicy Chicken Sausage with Cheese",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "28636",
+    "name": "Chocociz Rolls",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "28636",
+    "name": "Chocolate Lava",
+    "description": "Sweet Lava Chocolate",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "27727",
+    "name": "Choco Bread Stick",
+    "description": "8 Pcs Chocolate Bread Stics",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "2818",
+    "name": "BBQ Dipping Sauce",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "2818",
+    "name": "Black Pepper Dipping Sauce",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "2818",
+    "name": "Rustic Dipping Sauce",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "3727",
+    "name": "Cheesy Dipping Sauce",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "13182",
+    "name": "Coca Cola (390 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "13182",
+    "name": "Fanta (390 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "13182",
+    "name": "Sprite (390 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "18182",
+    "name": "Coca Cola (1 Liter)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "18182",
+    "name": "Fanta (1 Liter)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "18182",
+    "name": "Sprite (1 Liter)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "11364",
+    "name": "Ades (600 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "12727",
+    "name": "Frestea Apple (350 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "12727",
+    "name": "Frestea Jasmine (350 ml)",
+    "description": "",
+    "section": "domino's pizza"
+  },
+  {
+    "price": "23637",
+    "name": "Sparkling Pineapple",
+    "description": "Pineapple Flavors And Cold Sour, Sweet And Refreshing",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "9546",
+    "name": "Teh",
+    "description": "Special Black Tea Of Bakmi Gm",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "9546",
+    "name": "Es Teh",
+    "description": "Ice Tea",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "10455",
+    "name": "Air Mineral / Aqua",
+    "description": "Aqua Size 330 Ml",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "10455",
+    "name": "Pucuk Tea 350 Ml",
+    "description": "Teh Pucuk Fragrant Size 350 Ml",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "10455",
+    "name": "Teh Manis",
+    "description": "Sweet Tea",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "10455",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea With Special Bakmi Gm Sugar",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "12273",
+    "name": "Lemon Es Teh",
+    "description": "Iced Tea With Lemon Juice Refreshing And Special Curry Of Bakmi Gm",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "12273",
+    "name": "Hot Green Tea",
+    "description": "Original Japanese Egg Served Hot",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "12273",
+    "name": "Es Green Tea",
+    "description": "Green Tea Original Japanese Served Cold",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "19091",
+    "name": "Hydro Coco",
+    "description": "",
+    "section": "bakmi gm"
+  },
+  {
+    "price": "25455",
+    "name": "Fruit Punch",
+    "description": "Guava Juice, Syrup And Orange Served With Ice Cubes",
+    "section": "bakmi gm"
+  }
+]

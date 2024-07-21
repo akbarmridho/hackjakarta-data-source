@@ -1,0 +1,638 @@
+[
+  {
+    "price": "20000",
+    "name": "Coconut Coffee Latte",
+    "description": "Espresso yang bold berpadu sempurna dengan NOBO coconut milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "40909",
+    "name": "Combo Coconut Series",
+    "description": "1 Coconut Coffee Latte + 1 Coco Velvet Latte",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Coconut Coffee Latte",
+    "description": "Espresso yang bold berpadu sempurna dengan NOBO coconut milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "109091",
+    "name": "Sango Box + 4 Minuman",
+    "description": "4 Nyeo + 4 Of Your Favorite Drinks",
+    "section": "today's offer"
+  },
+  {
+    "price": "22728",
+    "name": "Coco Velvet Latte",
+    "description": "Velvety smooth espresso dipadukan dengan jasmine tea dan NOBO coconut milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "22728",
+    "name": "Coco Velvet Latte",
+    "description": "Velvety smooth espresso dipadukan dengan jasmine tea dan NOBO coconut milk",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Butter Toast + Minuman",
+    "description": "1 Butter Toast + 1 Your Favorite Drink",
+    "section": "today's offer"
+  },
+  {
+    "price": "40909",
+    "name": "Combo Coconut Series",
+    "description": "1 Coconut Coffee Latte + 1 Coco Velvet Latte",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Diskon 45%! 1 Egg & Cheese + 1 minuman",
+    "description": "1 Egg and Cheese + 1 minuman ukuran reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Diskon 45%! 1 Egg Curry Mayo + 1 minuman",
+    "description": "1 Egg Curry Mayo + 1 minuman ukuran reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "28500",
+    "name": "Diskon 45%! 1 Spicy Bulgogi + 1 minuman",
+    "description": "1 Spicy Bulgogi + 1 minuman ukuran reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "21000",
+    "name": "Diskon 45%! 2 Minuman Regular",
+    "description": "2 Minuman Regular Favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Diskon 45%! 2 Toast Favoritmu",
+    "description": "2 Toast Favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "29091",
+    "name": "2 Coffee Milk Friends Only 32K",
+    "description": "2 Kopi Susu Sahabat reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "40909",
+    "name": "3 Coffee Milk Friends Only 45K",
+    "description": "3 Kopi Susu Sahabat reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "63636",
+    "name": "5 Coffee Milk Friends Only 70K",
+    "description": "5 Kopi Susu Sahabat reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "118181",
+    "name": "10 Coffee Milk Friends Only 130K",
+    "description": "10 Kopi Susu Sahabat reguler",
+    "section": "today's offer"
+  },
+  {
+    "price": "27272",
+    "name": "Buy Nastar / Green Bananas Free Coffee Milk And Friends",
+    "description": "1 Nastar Crumble Latte / 1 Pisang Ijo Latte + 1 Kopi Susu Sahabat (Reg)",
+    "section": "today's offer"
+  },
+  {
+    "price": "9091",
+    "name": "Kurma Milk Tea 10K",
+    "description": "The Combination Of Earl Gray Milk Tea Flavor Which Aromatic And Sweet Grma Flavors",
+    "section": "today's offer"
+  },
+  {
+    "price": "13637",
+    "name": "Nastar Crumble Latte 15K",
+    "description": "A Blend Of Unique Drinks Of Nastar Flavors With Crunchy Biscuits And Macchiato Cream",
+    "section": "today's offer"
+  },
+  {
+    "price": "13637",
+    "name": "Green Banana Latte 15K",
+    "description": "A Combination Of Sweet And Savory Special Banana Green With Machiato Cream",
+    "section": "today's offer"
+  },
+  {
+    "price": "39091",
+    "name": "Combo Soul Toast",
+    "description": "1 Toast + 1 Drink",
+    "section": "today's offer"
+  },
+  {
+    "price": "74546",
+    "name": "Fun Combo For Two",
+    "description": "2 Toast + 2 Drinks",
+    "section": "today's offer"
+  },
+  {
+    "price": "68182",
+    "name": "Three Toast Is More Economical",
+    "description": "Pilih 3 Toast Favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "27272",
+    "name": "Snacks Starting From 30K",
+    "description": "2 Minuman Favoritmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "38182",
+    "name": "Snacks From 42K",
+    "description": "3 Minuman Favoitmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "59091",
+    "name": "Five Snacks Starting From 65K",
+    "description": "5 Minuman Favoitmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "109091",
+    "name": "Snacks Starting From 120K",
+    "description": "10 Minuman Favoitmu",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Coconut Coffee Latte",
+    "description": "Espresso yang bold berpadu sempurna dengan NOBO coconut milk",
+    "section": "new release"
+  },
+  {
+    "price": "40909",
+    "name": "Combo Coconut Series",
+    "description": "1 Coconut Coffee Latte + 1 Coco Velvet Latte",
+    "section": "new release"
+  },
+  {
+    "price": "20000",
+    "name": "Coconut Coffee Latte",
+    "description": "Espresso yang bold berpadu sempurna dengan NOBO coconut milk",
+    "section": "new release"
+  },
+  {
+    "price": "109091",
+    "name": "Sango Box + 4 Minuman",
+    "description": "4 Nyeo + 4 Of Your Favorite Drinks",
+    "section": "new release"
+  },
+  {
+    "price": "65455",
+    "name": "Sango Box",
+    "description": "Choose Your 4 Favorite Dumplings",
+    "section": "new release"
+  },
+  {
+    "price": "22728",
+    "name": "Coco Velvet Latte",
+    "description": "Velvety smooth espresso dipadukan dengan jasmine tea dan NOBO coconut milk",
+    "section": "new release"
+  },
+  {
+    "price": "22728",
+    "name": "Coco Velvet Latte",
+    "description": "Velvety smooth espresso dipadukan dengan jasmine tea dan NOBO coconut milk",
+    "section": "new release"
+  },
+  {
+    "price": "20000",
+    "name": "Butter Toast + Minuman",
+    "description": "1 Butter Toast + 1 Your Favorite Drink",
+    "section": "new release"
+  },
+  {
+    "price": "40909",
+    "name": "Combo Coconut Series",
+    "description": "1 Coconut Coffee Latte + 1 Coco Velvet Latte",
+    "section": "new release"
+  },
+  {
+    "price": "16364",
+    "name": "Butter Toast",
+    "description": "Toasted Jica Toast Baked With Butter",
+    "section": "new release"
+  },
+  {
+    "price": "25500",
+    "name": "Diskon 45%! 1 Egg & Cheese + 1 minuman",
+    "description": "1 Egg and Cheese + 1 minuman ukuran reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "25500",
+    "name": "Diskon 45%! 1 Egg Curry Mayo + 1 minuman",
+    "description": "1 Egg Curry Mayo + 1 minuman ukuran reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "28500",
+    "name": "Diskon 45%! 1 Spicy Bulgogi + 1 minuman",
+    "description": "1 Spicy Bulgogi + 1 minuman ukuran reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "21000",
+    "name": "Diskon 45%! 2 Minuman Regular",
+    "description": "2 Minuman Regular Favoritmu",
+    "section": "special offers"
+  },
+  {
+    "price": "30000",
+    "name": "Diskon 45%! 2 Toast Favoritmu",
+    "description": "2 Toast Favoritmu",
+    "section": "special offers"
+  },
+  {
+    "price": "29091",
+    "name": "2 Coffee Milk Friends Only 32K",
+    "description": "2 Kopi Susu Sahabat reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "40909",
+    "name": "3 Coffee Milk Friends Only 45K",
+    "description": "3 Kopi Susu Sahabat reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "63636",
+    "name": "5 Coffee Milk Friends Only 70K",
+    "description": "5 Kopi Susu Sahabat reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "118181",
+    "name": "10 Coffee Milk Friends Only 130K",
+    "description": "10 Kopi Susu Sahabat reguler",
+    "section": "special offers"
+  },
+  {
+    "price": "27272",
+    "name": "Buy Nastar / Green Bananas Free Coffee Milk And Friends",
+    "description": "1 Nastar Crumble Latte / 1 Pisang Ijo Latte + 1 Kopi Susu Sahabat (Reg)",
+    "section": "limited time offer"
+  },
+  {
+    "price": "9091",
+    "name": "Kurma Milk Tea 10K",
+    "description": "The Combination Of Earl Gray Milk Tea Flavor Which Aromatic And Sweet Grma Flavors",
+    "section": "limited time offer"
+  },
+  {
+    "price": "13637",
+    "name": "Nastar Crumble Latte 15K",
+    "description": "A Blend Of Unique Drinks Of Nastar Flavors With Crunchy Biscuits And Macchiato Cream",
+    "section": "limited time offer"
+  },
+  {
+    "price": "13637",
+    "name": "Green Banana Latte 15K",
+    "description": "A Combination Of Sweet And Savory Special Banana Green With Machiato Cream",
+    "section": "limited time offer"
+  },
+  {
+    "price": "39091",
+    "name": "Combo Soul Toast",
+    "description": "1 Toast + 1 Drink",
+    "section": "combo hemat"
+  },
+  {
+    "price": "74546",
+    "name": "Fun Combo For Two",
+    "description": "2 Toast + 2 Drinks",
+    "section": "combo hemat"
+  },
+  {
+    "price": "68182",
+    "name": "Three Toast Is More Economical",
+    "description": "Pilih 3 Toast Favoritmu",
+    "section": "combo hemat"
+  },
+  {
+    "price": "27272",
+    "name": "Snacks Starting From 30K",
+    "description": "2 Minuman Favoritmu",
+    "section": "combo hemat"
+  },
+  {
+    "price": "38182",
+    "name": "Snacks From 42K",
+    "description": "3 Minuman Favoitmu",
+    "section": "combo hemat"
+  },
+  {
+    "price": "59091",
+    "name": "Five Snacks Starting From 65K",
+    "description": "5 Minuman Favoitmu",
+    "section": "combo hemat"
+  },
+  {
+    "price": "109091",
+    "name": "Snacks Starting From 120K",
+    "description": "10 Minuman Favoitmu",
+    "section": "combo hemat"
+  },
+  {
+    "price": "16364",
+    "name": "Best Friend Milk Coffee",
+    "description": "Using A Blend Of Selected Coffee Seeds, Create A Creamy Coffee Flavor.",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "19091",
+    "name": "Milk Coffee",
+    "description": "Espresso, Fresh Milk And Palm Sugar",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "22727",
+    "name": "Twilight Milk Coffee",
+    "description": "100% Arabica, Fresh Milk And Palm Sugar",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "15455",
+    "name": "Americano",
+    "description": "Espresso And Mineral Water",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "20000",
+    "name": "Latte",
+    "description": "Espresso & Susu Segar",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Double Shaken Twilight",
+    "description": "Double Espresso With Cream Milk With A Little Sweet. Served Without Ice, 3/4 Glass",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Caramel Latte",
+    "description": "Espresso, Susu Segar, Dan Caramel",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Hazelnut Latte",
+    "description": "Espresso, Susu Segar, Dan Hazelnut",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Vanilla Latte",
+    "description": "Espresso, Fresh Milk, And Vanilla",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Pandan Latte",
+    "description": "Espresso, Susu Segar, Dan Pandan",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "24545",
+    "name": "Caramel Macchiato",
+    "description": "Espresso, Fresh Milk, Caramel, And Macchiato Cream",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "21818",
+    "name": "Pulled Coffee",
+    "description": "Espresso And Sweetened Condensed Milk",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "22727",
+    "name": "Avocado Coffee",
+    "description": "Avocado Puree, Fresh Milk And Espresso",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "22727",
+    "name": "Milo Coffee",
+    "description": "Espresso, Fresh Milk And Milo",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "21818",
+    "name": "Chocolate Coffee",
+    "description": "Espresso, Fresh And Chocolate Milk",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "24545",
+    "name": "Kopi Milo Macchiato",
+    "description": "Espresso, Fresh Milk, Milo And Macchiato Cream",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "20000",
+    "name": "Chocolate Milk",
+    "description": "Fresh And Chocolate Milk",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "22727",
+    "name": "Hazelnut Choco",
+    "description": "Chocolate With Hazelnut",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Milo Macchiato",
+    "description": "Milo And Macchiato",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Cookies N Cream",
+    "description": "Klasik Cookies And Cream",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Matcha Latte",
+    "description": "Fresh Milk And Matcha Tea",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Matcha Hazelnut Latte",
+    "description": "Matcha, Fresh Milk, Hazelnut And Vanilla",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "18182",
+    "name": "Teh Earl Grey",
+    "description": "Teh Earl Grey Manis",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "21818",
+    "name": "Brown Sugar Earl Grey Milk Tea",
+    "description": "Brown Sugar And Earl Gray Milk Tea",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Brown Sugar Milk Tea With Coffee Jelly",
+    "description": "Brown Sugar Milk Tea Dengan Coffee Jelly",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Brown Sugar Milk Tea With Cincau",
+    "description": "Brown Sugar Milk Tea With Grass Jelly",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Blossom Berry",
+    "description": "Fresh Fruit Strawberry And Pear, Combined With Chamomie Tea And Nata De Coco",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "23636",
+    "name": "Purple Summer",
+    "description": "Fresh Dragon And Peach Fruit, Combined With Chamomie Tea And Nata De Coco",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "54545",
+    "name": "1 Liter #One Promise",
+    "description": "",
+    "section": "janji jiwa"
+  },
+  {
+    "price": "16364",
+    "name": "Butter Toast",
+    "description": "Toasted Jica Toast Baked With Butter",
+    "section": "soul toast"
+  },
+  {
+    "price": "27273",
+    "name": "Baru! Wheat Toast",
+    "description": "Bigger Choices Made From Selected Wheats",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Crispy Chicken Spicy",
+    "description": "Crispy, Spicy, Juicy Chicken Fillet Combined With Mayonnaise",
+    "section": "soul toast"
+  },
+  {
+    "price": "22727",
+    "name": "Dippin' Toast",
+    "description": "Original Toast Dan Es Coklat / Es Pistachio Coklat",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Beef Truffle Mayo",
+    "description": "Beef With Omellete, Cheese And Garlic Sauce And Truffle Mayo",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Spicy Bulgogi",
+    "description": "Beef With Coleslaw, Omelet And Cheese And Bulgogi Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Crispy Chicken Mentai",
+    "description": "Chicken Meat With Coleslaw And Cheese And Mentai Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Double Cheese Hamburg",
+    "description": "Beef With Coleslaw, Omelet, Cheese Plus Jiwa Toast'S Special Cheese Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Cheezy Crispy Chicken Mentai",
+    "description": "Chicken Meat With Coleslaw, Omelet, Mentai Sauce And Jiwa Toast'S Special Cheese Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Hamburg Curry Mayo",
+    "description": "Beef With Coleslaw And Cheese And Savory Japanese Mayo Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Chicken Katsu Curry Mayo",
+    "description": "Chicken Meat With Coleslaw And Cheese And Savory Japanese Mayo Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "27273",
+    "name": "Egg Curry Mayo",
+    "description": "The Classic Blend Of Omelet, Coleslaw And Savory Japanese Mayo Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Smoked Beef And Cheese",
+    "description": "Premium Smoked Beef With Coleslaw, Omelette And Cheese With Jiwa Toast'S Signature Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "27273",
+    "name": "Egg And Cheese",
+    "description": "The Classic Blend Of Omelet And Cheese With Jiwa Toast'S Signature Sauce",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Crunchy Choco",
+    "description": "Toast Using Crunchy Chocolate Jam And Corn Flakes",
+    "section": "soul toast"
+  },
+  {
+    "price": "32727",
+    "name": "Crunchy Choco Cheese",
+    "description": "Toast Using Crunchy Chocolate Jam And Cheese",
+    "section": "soul toast"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Sauce",
+    "description": "",
+    "section": "soul toast"
+  },
+  {
+    "price": "22727",
+    "name": "Dippin' Fries",
+    "description": "Cocol Your Potatoes, Combined Your Heart",
+    "section": "soul toast"
+  },
+  {
+    "price": "22727",
+    "name": "Crispy Chicken Nugget",
+    "description": "Chicken Nugget Combined With Your Favorite Sauce Choice",
+    "section": "soul toast"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "price": "71000",
+    "name": "Pain Suisse au Mocha + Iced Tall Caramel Macchiato",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "Chocolate Milk Pudding + Iced Tall Caramel Macchiato",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "Vanilla Brown Sugar Pudding + Iced Tall Caramel Macchiato",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Picnic Beverages with Special Price",
+    "description": "Buy 1 only 35k, Buy 2 only 59k (free to choose), tall size",
+    "section": "today's offer"
+  },
+  {
+    "price": "255000",
+    "name": "Buy 1 Get 1 Whole Bean 250GR",
+    "description": "Buy 1 Get 1 Spring Blend 250GR",
+    "section": "today's offer"
+  },
+  {
+    "price": "70000",
+    "name": "Buy 1 Get 1 VIA Iced Coffee",
+    "description": "Buy 1 Get 1 VIA Iced Coffee",
+    "section": "today's offer"
+  },
+  {
+    "price": "129000",
+    "name": "SPECIAL PRICE 2L HANYA 129K!!",
+    "description": "Harga spesial untuk minuman 2L favoritmu. Selected Variant Only.",
+    "section": "today's offer"
+  },
+  {
+    "price": "95000",
+    "name": "Buy 1 Get 1 Free only 95RB!!",
+    "description": "Buy 1 Get 1 Free VIA Coffee Dairy, while stock last",
+    "section": "today's offer"
+  },
+  {
+    "price": "159000",
+    "name": "Starbucks 6 x 250 ml",
+    "description": "Pilih 6 minuman favoritmu untuk dinikmati di rumah bersama keluarga. Untuk menjaga kualitas, produk ini tidak dapat di Customize.",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "Starbucks 3 x 250 ml",
+    "description": "Pilih 3 minuman favoritmu untuk dinikmati di rumah bersama keluarga. Untuk menjaga kualitas, produk ini tidak dapat di Customize.",
+    "section": "today's offer"
+  },
+  {
+    "price": "70000",
+    "name": "Special Bundle Starbucks Refreshers!",
+    "description": "Tall Size Only!! 2 Beverage Refreshers hanya 70RB!!",
+    "section": "today's offer"
+  },
+  {
+    "price": "85900",
+    "name": "Bundles Berdua",
+    "description": "Nikmati 2 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "today's offer"
+  },
+  {
+    "price": "119900",
+    "name": "Bundles Bertiga A",
+    "description": "Nikmati 3 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "today's offer"
+  },
+  {
+    "price": "129900",
+    "name": "Bundles Bertiga B",
+    "description": "Nikmati 3 minuman terbaik di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "today's offer"
+  },
+  {
+    "price": "139900",
+    "name": "Bundles Berempat A",
+    "description": "Nikmati 4 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "today's offer"
+  },
+  {
+    "price": "149900",
+    "name": "Bundles Berempat B",
+    "description": "Nikmati 4 minuman terbaik di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "today's offer"
+  },
+  {
+    "price": "120000",
+    "name": "Americano + VIA Italian Roast / Colombia",
+    "description": "Tall Size, 1 Americano + 1 VIA Italian Roast / Colombia",
+    "section": "today's offer"
+  },
+  {
+    "price": "61000",
+    "name": "Hot Creamy Caramel Latte",
+    "description": "",
+    "section": "delivery exclusive beverage"
+  },
+  {
+    "price": "61000",
+    "name": "Iced Creamy Caramel Latte",
+    "description": "",
+    "section": "delivery exclusive beverage"
+  },
+  {
+    "price": "71000",
+    "name": "Pain Suisse au Mocha + Iced Tall Caramel Macchiato",
+    "description": "",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "30000",
+    "name": "Pain Suisse au Mocha",
+    "description": "",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "66000",
+    "name": "Chocolate Milk Pudding + Iced Tall Caramel Macchiato",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "385000",
+    "name": "Picnic Mat Outdoor 2024",
+    "description": "Ukuran 147cm x 120cm Stok dan persediaan terbatas.",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "25000",
+    "name": "Chocolate Milk Pudding",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "66000",
+    "name": "Vanilla Brown Sugar Pudding + Iced Tall Caramel Macchiato",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "25000",
+    "name": "Vanilla Brown Sugar Pudding",
+    "description": "makanan disajikan dalam keadaan dingin",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "35000",
+    "name": "Picnic Beverages with Special Price",
+    "description": "Buy 1 only 35k, Buy 2 only 59k (free to choose), tall size",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "675000",
+    "name": "Merchandise Picnic 2024 Edition",
+    "description": "A. TMB SS 16OZ W HANDLE PICNIC TIME B. TMB SS 30OZ PICNIC TIME All comes in Stanley",
+    "section": "new picnic 2024"
+  },
+  {
+    "price": "255000",
+    "name": "Buy 1 Get 1 Whole Bean 250GR",
+    "description": "Buy 1 Get 1 Spring Blend 250GR",
+    "section": "special offers"
+  },
+  {
+    "price": "70000",
+    "name": "Buy 1 Get 1 VIA Iced Coffee",
+    "description": "Buy 1 Get 1 VIA Iced Coffee",
+    "section": "special offers"
+  },
+  {
+    "price": "129000",
+    "name": "SPECIAL PRICE 2L HANYA 129K!!",
+    "description": "Harga spesial untuk minuman 2L favoritmu. Selected Variant Only.",
+    "section": "special offers"
+  },
+  {
+    "price": "95000",
+    "name": "Buy 1 Get 1 Free only 95RB!!",
+    "description": "Buy 1 Get 1 Free VIA Coffee Dairy, while stock last",
+    "section": "special offers"
+  },
+  {
+    "price": "159000",
+    "name": "Starbucks 6 x 250 ml",
+    "description": "Pilih 6 minuman favoritmu untuk dinikmati di rumah bersama keluarga. Untuk menjaga kualitas, produk ini tidak dapat di Customize.",
+    "section": "special offers"
+  },
+  {
+    "price": "99000",
+    "name": "Starbucks 3 x 250 ml",
+    "description": "Pilih 3 minuman favoritmu untuk dinikmati di rumah bersama keluarga. Untuk menjaga kualitas, produk ini tidak dapat di Customize.",
+    "section": "special offers"
+  },
+  {
+    "price": "70000",
+    "name": "Special Bundle Starbucks Refreshers!",
+    "description": "Tall Size Only!! 2 Beverage Refreshers hanya 70RB!!",
+    "section": "special offers"
+  },
+  {
+    "price": "52000",
+    "name": "Cold Brew Coffee with Lemonade",
+    "description": "",
+    "section": "special offers"
+  },
+  {
+    "price": "44000",
+    "name": "Iced Americano With Brown Sugar Foam",
+    "description": "",
+    "section": "special offers"
+  },
+  {
+    "price": "55000",
+    "name": "Cocoa Espresso Frappuccino",
+    "description": "",
+    "section": "special offers"
+  },
+  {
+    "price": "44000",
+    "name": "Hot Dolce Americano",
+    "description": "",
+    "section": "special offers"
+  },
+  {
+    "price": "44000",
+    "name": "Iced Dolce Americano",
+    "description": "",
+    "section": "special offers"
+  },
+  {
+    "price": "110000",
+    "name": "Special 1L Vanilla Custard Latte, hanya 70RB!!",
+    "description": "Special price untuk 1L Vanilla Custard Latte, persediaan terbatas",
+    "section": "special offers"
+  },
+  {
+    "price": "110000",
+    "name": "Secret Recipe with Special Price",
+    "description": "Buy 1 only 35k, Buy 2 only 59k (free to choose), tall size",
+    "section": "special offers"
+  },
+  {
+    "price": "85900",
+    "name": "Bundles Berdua",
+    "description": "Nikmati 2 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "package bundles"
+  },
+  {
+    "price": "119900",
+    "name": "Bundles Bertiga A",
+    "description": "Nikmati 3 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "package bundles"
+  },
+  {
+    "price": "129900",
+    "name": "Bundles Bertiga B",
+    "description": "Nikmati 3 minuman terbaik di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "package bundles"
+  },
+  {
+    "price": "139900",
+    "name": "Bundles Berempat A",
+    "description": "Nikmati 4 minuman terlaris di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "package bundles"
+  },
+  {
+    "price": "149900",
+    "name": "Bundles Berempat B",
+    "description": "Nikmati 4 minuman terbaik di Starbucks dengan harga special. Bebas pilih minuman sesukamu, Tall Size.",
+    "section": "package bundles"
+  },
+  {
+    "price": "120000",
+    "name": "Americano + VIA Italian Roast / Colombia",
+    "description": "Tall Size, 1 Americano + 1 VIA Italian Roast / Colombia",
+    "section": "package bundles"
+  },
+  {
+    "price": "57000",
+    "name": "Asian Dolce Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "38000",
+    "name": "Americano",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "61000",
+    "name": "Salted Caramel Macchiato",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "61000",
+    "name": "Caramel Macchiato",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Salted Caramel Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Caramel Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Vanilla Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Hazelnut Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "48000",
+    "name": "Caffe Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "48000",
+    "name": "Cappuccino",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Caffe Mocha",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "62000",
+    "name": "Caramel Signature Chocolate",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "56000",
+    "name": "Signature Chocolate",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "62000",
+    "name": "Hazelnut Signature Chocolate",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Greentea Latte",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "28000",
+    "name": "Teavana Tea ( Tea Bag )",
+    "description": "",
+    "section": "hot beverages"
+  },
+  {
+    "price": "45000",
+    "name": "Iced Strawberry Acai Lemonade Refreshers�",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "45000",
+    "name": "Iced Pink Drink Strawberry Acai Refreshers�",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "52000",
+    "name": "Double Shot Ice Shaken Espresso (10oz)",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Iced Asian Dolce Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "38000",
+    "name": "Iced Americano",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "61000",
+    "name": "Iced Salted Caramel Macchiato",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "61000",
+    "name": "Iced Caramel Macchiato",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Iced Salted Caramel Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "46000",
+    "name": "Cold Brew",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Iced Caramel Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Iced Vanilla Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "54000",
+    "name": "Iced Hazelnut Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "48000",
+    "name": "Iced Caffe Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "48000",
+    "name": "Iced Cappuccino",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "52000",
+    "name": "Vanilla Sweet Cream Cold Brew",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Iced Caffe Mocha",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "61000",
+    "name": "Brown Sugar Oatmilk Iced Shaken Espresso with Blonde",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "28000",
+    "name": "Teavana Iced Tea",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "44000",
+    "name": "Iced Shaken Lemonade Tea",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "62000",
+    "name": "Iced Caramel Signature Chocolate",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "56000",
+    "name": "Iced Signature Chocolate",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "62000",
+    "name": "Iced Hazelnut Signature Chocolate",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Iced Greentea Latte",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "57000",
+    "name": "Iced Mango Candy Milk",
+    "description": "",
+    "section": "iced beverages"
+  },
+  {
+    "price": "62000",
+    "name": "Caramel Macchiato Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "53000",
+    "name": "Vanilla Cream Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "47000",
+    "name": "Coffee Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "53000",
+    "name": "Caramel Cream Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Salted Caramel Javachip Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "55000",
+    "name": "Caramel Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "55000",
+    "name": "Mocha Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Double Chocolate Cream Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Caramel Java Chip Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Dark Mocha Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Green Tea Cream Frappuccino",
+    "description": "",
+    "section": "frappuccino"
+  },
+  {
+    "price": "60000",
+    "name": "Java Chip Frappuccino",
+    "description": "Untuk menjaga kualitas, produk ini tidak menggunakan Whipped Cream",
+    "section": "frappuccino"
+  },
+  {
+    "price": "47000",
+    "name": "Raspberry Curant Frappuccino",
+    "description": "",
+    "section": "frappuccino"
+  },
+  {
+    "price": "47000",
+    "name": "Mango Passion Frappuccino",
+    "description": "",
+    "section": "frappuccino"
+  },
+  {
+    "price": "80000",
+    "name": "1 Liter Bottled Coffee Beverage",
+    "description": "1 Liter Bottled Coffee Beverage",
+    "section": "bottled beverage"
+  },
+  {
+    "price": "80000",
+    "name": "1L Non Coffee Beverages",
+    "description": "Selection of 1L Non Coffee Beverages",
+    "section": "bottled beverage"
+  },
+  {
+    "price": "22000",
+    "name": "Butter Croissant",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "27000",
+    "name": "Cinnamon Rolls",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "43000",
+    "name": "Classic Dark Chocolate",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "32000",
+    "name": "Raisin Oatmeal Scones",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "40000",
+    "name": "Cheese Quiche",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Chocolate Croissant",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "47000",
+    "name": "Beef Filone Sandwich",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "41000",
+    "name": "New york cheese cake",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "42000",
+    "name": "Smoked Beef Quiche",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "31000",
+    "name": "Espresso Brownies",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "52000",
+    "name": "Smoked Beef Mushroom & Cheese Panini",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "40000",
+    "name": "Classic Tuna Toastie",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "41000",
+    "name": "Almond Croissant",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Peanut Butter Panini Sandwich",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "50000",
+    "name": "Tuna Cheese Oat Panini",
+    "description": "a sandwich made from tuna mayo mixture, red & green paprika & cheese",
+    "section": "food"
+  },
+  {
+    "price": "33000",
+    "name": "Via Red Velvet",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "43000",
+    "name": "Scarlet Velvet Cake",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "35000",
+    "name": "VIA Black Coffee",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "70000",
+    "name": "VIA Flavored Coffee",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "145000",
+    "name": "Whole Bean Dark Roast 250 Gr",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "95000",
+    "name": "Packaged Teas (12 Full-Leaf Bags)",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "145000",
+    "name": "Whole Bean Medium Roast 250 Gr",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "145000",
+    "name": "Whole Bean Blonde / Golden 250 Gr",
+    "description": "",
+    "section": "brew me at home"
+  },
+  {
+    "price": "400000",
+    "name": "Tumbler Special Edition Summer 3 2024",
+    "description": "A. WTBL 16OZ PL BOHEMIAN ALPACA PATTERN B. TMBL 8OZ SS BOHEMIAN FASHIONISTA ALPACA PATTERN C. TMBL 12.9OZ SS BOHEMIAN ALPACAS GATHERING D. TMBL 12OZ SS PINK BOHEMIAN FASHIONISTA ALPACAS E. WTBL 20OZ SS BOHEMIAN ALPACAS ON RAINBOW MOUNTAIN",
+    "section": "merchandise"
+  },
+  {
+    "price": "335000",
+    "name": "NEW! Summer 2 2024 Collection",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "365000",
+    "name": "Summer 1 2024 Collection",
+    "description": "A. TMBL 16OZ PL SUMMER SEAGULL AND SUFRBOARD B. CCUP 16OZ PL BEARISTA LIFEBUOY SEASIDE GETAWAY C. TMBL 12OZ SS SUMMER BOAT SAILING SIREN D. TMBL 16OZ SS SUMMER BEACHSIDE CLIFF E. WTBL 20OZ SS SUMMER TERRAZZO KETTLEBELL SIREN",
+    "section": "merchandise"
+  },
+  {
+    "price": "400000",
+    "name": "Disney 2024 Collection",
+    "description": "A. TMBL16 DISNEY STITCH N ANGL B. TMBL12SS DISNEY DONALD N DAISY C. TMBL16SS DISNEY MKY DNLD N GFY D. TMBL 16SS CHIP AND DALE E. TMBL 20SS DISNEY AND FRIENDS",
+    "section": "merchandise"
+  },
+  {
+    "price": "270000",
+    "name": "Starbucks New Greens A",
+    "description": "A. CCUP 16OZ PL NG TRANSPARENT B. WTB 14OZ PL NG W SLEEVE C. WTBL 14 NEW GREENS GRADIENT D. MUG 12OZ SS NG GRADIENT",
+    "section": "merchandise"
+  },
+  {
+    "price": "495000",
+    "name": "Starbucks X Purana",
+    "description": "A. S230801 TMB INDONESIA SS 16OZ B. S230802 TMB JAKARTA SS 16OZ C. S230805 TMB BALI SS 16OZ D. S230803 TMB BANDUNG SS 16OZ E. S230804 TMB SURABAYA SS 16OZ F. S230806 TMB YOGYAKARTA SS 16OZ G. S230807 TMB MEDAN SS 16OZ H. S230808 TMB MAKASSAR SS 16OZ I. S230809 TMB LOMBOK SS 16OZ",
+    "section": "merchandise"
+  },
+  {
+    "price": "550000",
+    "name": "Starbucks New Greens B",
+    "description": "A. TMB 12OZ SS NG GRADIENT B. TMB 16OZ SS NG GRADIENT C. WTB 20OZ SS NG GRADIENT D. TMB 12OZ SS NEW GREENS DARK E. TMB 18OZ SS NEW GREENS DARK F. CCUP 18OZ SS NG W STOPPER",
+    "section": "merchandise"
+  },
+  {
+    "price": "265000",
+    "name": "Translucent & Green Collection",
+    "description": "A. 20OZ Trnslcnt Mint, Plstc B. WTBL 10SS GREEN V2, Stnls C. TMBL 16SS MATTE GREEN V2, Stnls D. 13SS Green, Stnls E. WTBL 15SS WORDMARK GREEN V2",
+    "section": "merchandise"
+  },
+  {
+    "price": "115000",
+    "name": "Special Price 55RB, Tumbler Colorful Weaves",
+    "description": "Special Price 1L Tumbler Colorful Weaves hanya 55 RB, tersedia warna Navy dan Green",
+    "section": "merchandise"
+  },
+  {
+    "price": "61000",
+    "name": "Choco Malty Delight Latte",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "51000",
+    "name": "Smoked Beef Mac & Cheese",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "61000",
+    "name": "Iced Choco Malty Delight Latte",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "29000",
+    "name": "Holiday Éclair",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "61000",
+    "name": "Choco Malty Delight Coffee Frappuccino",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "35000",
+    "name": "Garlic Cream Cheese Croissant",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "61000",
+    "name": "Choco Malty Delight Cream Frappuccino",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "33000",
+    "name": "Choco Hazelnut Croissant",
+    "description": "",
+    "section": "seasonal items"
+  },
+  {
+    "price": "41000",
+    "name": "Toffee Nut Cake",
+    "description": "",
+    "section": "seasonal items"
+  }
+]

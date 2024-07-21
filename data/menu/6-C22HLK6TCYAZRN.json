@@ -1,0 +1,338 @@
+[
+  {
+    "price": "38000",
+    "name": "Boiled Dumplings",
+    "description": "5Pcs Boiled Dumplings",
+    "section": "today's offer"
+  },
+  {
+    "price": "13205",
+    "name": "Cheese Bread",
+    "description": "Soft Bread Filled With Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "13205",
+    "name": "Chocolate Cheese Bread",
+    "description": "Soft Bread Filled With Chocolate And Delicious Grated Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "13205",
+    "name": "Red Bean Bread",
+    "description": "Soft Bread Filled With Red Beans, Definitely Delicious",
+    "section": "today's offer"
+  },
+  {
+    "price": "14672",
+    "name": "Roti Daging Ayam/Pcs",
+    "description": "Delicious Snacks Bgt Lhooott Bread",
+    "section": "today's offer"
+  },
+  {
+    "price": "13205",
+    "name": "Banana Cheese Bread",
+    "description": "Soft Dough Bread Filled With Banana Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "13205",
+    "name": "Roti Smoke Beef",
+    "description": "Soft Bread Filled With Smoked Beef And Delicious Cheese",
+    "section": "today's offer"
+  },
+  {
+    "price": "27900",
+    "name": "Bakmie Ayam Standard",
+    "description": "Noodles 1 Portion, Chicken Meat, Green Vegetables, Fried Onions, Green Onions, Gravy, Chili Sauce, Pickled Chilies",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "29900",
+    "name": "Normal Neighbor Noodles",
+    "description": "Noodles 1 Portion, Chicken Meat, Half Boiled Egg, Green Vegetables, Fried Onions, Green Onions, Gravy, Chili Sauce, Pickled Chilies",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "29900",
+    "name": "Wide Noodles",
+    "description": "Wide Noodles 1 Portion",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "31900",
+    "name": "Mie Kurus",
+    "description": "Noodles (Noodles), Soy Sauce Chicken, Green Vegetables, Sambal, Pickled Chilies, Green Onions, Fried Onions, Gravy",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "34900",
+    "name": "Meatball Noodles",
+    "description": "Normal Portion Of Neighbor Noodles Plus 2 Pcs Of Meatballs",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "41900",
+    "name": "Bakmie Jumbo Neighbor",
+    "description": "1 And A Half Noodle Portion, Chicken Meat, 1/2 Boiled Egg, Green Vegetables, Fried Onions, Spring Onions, Gravy, Chili Sauce, Pickled Chilies",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "29000",
+    "name": "Beef Meatball Tofu Soup",
+    "description": "2 Chicken Meatballs And 4 Beef Meatballs",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "43900",
+    "name": "Complete Noodles",
+    "description": "Egg Topping, Soy Sauce Chicken, 3 Pcs Meatballs, 1Pc Dumpling",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "29900",
+    "name": "Bihun Porsi Normal",
+    "description": "Vermicelli 1 Portion, Half Boiled Egg, Chicken, Green Vegetables, Fried Onions, Green Onions, Gravy, Chili Sauce, Pickled Chilies",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "31900",
+    "name": "Kwetiau Porsi Normal",
+    "description": "Boiled Kwetiau 1 Portion, Chicken, Half Boiled Egg, Green Vegetables, Fried Onions, Spring Onions, Gravy, Chili Sauce, Pickled Chilies",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "28900",
+    "name": "Fort Siomay",
+    "description": "5 Pcs Of Fish Somay, 1/2 Boiled Egg 1 Tofu Meat",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "32000",
+    "name": "Fish Meatball Tofu Soup",
+    "description": "2 Pcs Of Tofu Meatballs. 4Pcs Fish Balls. Green Vegetables. Fried Garlic. Scallions",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "44900",
+    "name": "Paket Bukber",
+    "description": "Jumbo Chicken Noodles Without Eggs + Meatballs",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "White Rice For Eating With Meatball Tofu",
+    "section": "rebusan (kukusan)"
+  },
+  {
+    "price": "34900",
+    "name": "Bihun Goreng",
+    "description": "Vermicelli, Minced Chicken, Egg, Otak2 Singapore, Vegetables, Green Onions, Fried Onions, Chili Sauce, Pickled Chilies",
+    "section": "fried foods"
+  },
+  {
+    "price": "34900",
+    "name": "Fried Noodles",
+    "description": "Noodles, Minced Chicken, Eggs, Otak2 Singapore, Vegetables, Green Onions, Fried Onions, Chili Sauce, Pickled Chilies",
+    "section": "fried foods"
+  },
+  {
+    "price": "34900",
+    "name": "Fried Kwetiau",
+    "description": "Kwetiau, Eggs, Meatballs, Otak2, Vegetables",
+    "section": "fried foods"
+  },
+  {
+    "price": "34900",
+    "name": "Misoa Goreng",
+    "description": "",
+    "section": "fried foods"
+  },
+  {
+    "price": "34500",
+    "name": "Gyoza/Kuotie",
+    "description": "Contains 5Pcs",
+    "section": "fried foods"
+  },
+  {
+    "price": "34500",
+    "name": "Lumpia Ayam",
+    "description": "4 Pcs Of Tofu Skin Chicken Spring Rolls",
+    "section": "fried foods"
+  },
+  {
+    "price": "18000",
+    "name": "Beef Meatballs 1/2 Serving",
+    "description": "5 Pcs Meatballs + Gravy And Onions",
+    "section": "meatballs"
+  },
+  {
+    "price": "32000",
+    "name": "Bakso Sapi 1Porsi",
+    "description": "10 Pcs Beef Meatballs",
+    "section": "meatballs"
+  },
+  {
+    "price": "29900",
+    "name": "Bakso Gepeng",
+    "description": "5 Pcs Flattened Meatballs",
+    "section": "meatballs"
+  },
+  {
+    "price": "40500",
+    "name": "Neighbors 1",
+    "description": "1 Standard Noodle, 5 Pcs Fried Dumpling Skin, 1 Cleo 200Ml",
+    "section": "neighbor package"
+  },
+  {
+    "price": "103000",
+    "name": "Neighbors 2",
+    "description": "2 Jumbo Noodles, 10Pcs Fried Dumplings",
+    "section": "neighbor package"
+  },
+  {
+    "price": "100000",
+    "name": "Neighbors 3",
+    "description": "2 Standard Noodles, 5 Pcs Gyoza, 5Pcs Fried Dumpling Skin",
+    "section": "neighbor package"
+  },
+  {
+    "price": "10000",
+    "name": "Fried Dumplings",
+    "description": "Fried Dumpling Skin Contains 5 Pcs",
+    "section": "dumplings"
+  },
+  {
+    "price": "38000",
+    "name": "Boiled Dumplings",
+    "description": "5Pcs Boiled Dumplings",
+    "section": "dumplings"
+  },
+  {
+    "price": "13205",
+    "name": "Cheese Bread",
+    "description": "Soft Bread Filled With Cheese",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13205",
+    "name": "Chocolate Cheese Bread",
+    "description": "Soft Bread Filled With Chocolate And Delicious Grated Cheese",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13205",
+    "name": "Red Bean Bread",
+    "description": "Soft Bread Filled With Red Beans, Definitely Delicious",
+    "section": "bread and cake"
+  },
+  {
+    "price": "14672",
+    "name": "Roti Daging Ayam/Pcs",
+    "description": "Delicious Snacks Bgt Lhooott Bread",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13205",
+    "name": "Banana Cheese Bread",
+    "description": "Soft Dough Bread Filled With Banana Cheese",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13205",
+    "name": "Roti Smoke Beef",
+    "description": "Soft Bread Filled With Smoked Beef And Delicious Cheese",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Roti Kismis",
+    "description": "",
+    "section": "bread and cake"
+  },
+  {
+    "price": "16900",
+    "name": "Lapis Legit Premium",
+    "description": "Size 10X7Cm",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Roti Mocca Ceres",
+    "description": "Ceres Chocolate Mocha Creamed Bread",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Cream Cheese Bread",
+    "description": "Soft Bread Filled With Cream And Grated Cheese",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Chocolate Banana Bread",
+    "description": "Filled With Bananas And Chocolate",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Coconut Bread",
+    "description": "Coconut Filling Cooked In White Sugar",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Roti Abon",
+    "description": "Shredded Topping",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Roti Nanas",
+    "description": "Soft Dough Filled With Beefy Pineapple",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Chocolate Bread",
+    "description": "Soft Bread Filled With Chocolate",
+    "section": "bread and cake"
+  },
+  {
+    "price": "16900",
+    "name": "Marmer Premium",
+    "description": "Premium Soft Marmer Cake",
+    "section": "bread and cake"
+  },
+  {
+    "price": "13900",
+    "name": "Roti Sosis",
+    "description": "Soft Bread Filled With Chicken Sausage",
+    "section": "bread and cake"
+  },
+  {
+    "price": "9500",
+    "name": "Young Coconut Pudding",
+    "description": "Original Coconut Pudding With Young Coconut Water",
+    "section": "snacks"
+  },
+  {
+    "price": "3000",
+    "name": "Air Mineral",
+    "description": "Cleo Botol Kecil",
+    "section": "minuman"
+  },
+  {
+    "price": "8750",
+    "name": "Lemon Tea",
+    "description": "Lemon Tea Size 14Oz",
+    "section": "minuman"
+  },
+  {
+    "price": "34900",
+    "name": "Menu Driver",
+    "description": "Buyed By Customers But Immediately Given For Drivers. 1Custol Can Only Buy 1 Portion",
+    "section": "traktir driver"
+  }
+]

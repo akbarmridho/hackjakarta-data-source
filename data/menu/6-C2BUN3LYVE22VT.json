@@ -1,0 +1,896 @@
+[
+  {
+    "price": "32500",
+    "name": "Complete Grilled Chicken",
+    "description": "0",
+    "section": "today's offer"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Fried Chicken Rice",
+    "description": "Fried Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Sweet Spicy Gurami",
+    "description": "Sweet Spicy Gurami Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Grilled Chicken Rice",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempe",
+    "section": "today's offer"
+  },
+  {
+    "price": "36600",
+    "name": "Complete Sweet Spicy Gurami",
+    "description": "Sweet Spicy Gurami Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "29400",
+    "name": "Nasi Ayam Pedes Manis",
+    "description": "Sweet Spicy Chicken Rice With Lalap Tofu And Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "36600",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "37200",
+    "name": "Fried Gurami Rice",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Fried Gurami",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "37200",
+    "name": "Nasi Gurami Pedes Manis",
+    "description": "Sweet Spicy Gurami, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Fried Chicken",
+    "description": "Rice With Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "41600",
+    "name": "Fried Gurami Rice",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "37200",
+    "name": "Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Fried Chicken Package",
+    "description": "Fried Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Grilled Chicken",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "41600",
+    "name": "Sweet And Sour Gourami Rice",
+    "description": "Sweet And Sour Gurami Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Grilled Chicken Package",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Vegetables, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "44200",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Fried Gurami Rice",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "36600",
+    "name": "Fried Gurami With Iced Tea",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "44200",
+    "name": "Complete Fried Gurami",
+    "description": "Rice With Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "41600",
+    "name": "Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "today's offer"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "today's offer"
+  },
+  {
+    "price": "36600",
+    "name": "Nasi Gurami Bakar Es Teh",
+    "description": "Rice With Sambal Lalap, Tofu, Tempe Gurami, Grilled Sweet Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "88000",
+    "name": "Grilled Gurami Complete Combo Portion For 2",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "#grabbundleoffers"
+  },
+  {
+    "price": "145000",
+    "name": "Complete Grilled Chicken 5 Portions",
+    "description": "5 Rice Portions 5 Grilled Chicken 5 Sambal 5 Lalap 5 Tofus 5 Tempehs 5 Sayur Asem 5 Salted Fish. Made 5 Portions Of Chicken Breast Mixed",
+    "section": "combo package"
+  },
+  {
+    "price": "86000",
+    "name": "Complete Fried Gurami Combo 2 Portion",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "combo package"
+  },
+  {
+    "price": "58000",
+    "name": "Ayam Goreng Kumbo 2 Porsi",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, 2 Portions",
+    "section": "combo package"
+  },
+  {
+    "price": "58000",
+    "name": "Ayam Bakar Kumbo 2Porsi",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem For 2 Portions",
+    "section": "combo package"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Ayam Goreng Sambel Lalap Paha",
+    "description": "Fried Chicken Rice Thigh Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "24000",
+    "name": "Grilled Chicken Rice With Fresh Vegetables Sauce",
+    "description": "Grilled Chicken Rice Thigh Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Ayam Pedes Manis Dada Sambel Lalap",
+    "description": "Sweet Spicy Chicken Breast Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Gurami Pedes Manis Sambel Lalap",
+    "description": "Sweet Spicy Gurami Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Ayam Goreng Sambel Lalap Dada",
+    "description": "Fried Chicken Breast Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken Rice With Fried Chicken Breast Sambal",
+    "description": "Grilled Chicken Breast Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "35000",
+    "name": "Grilled Gurami Rice With Fresh Vegetables Sauce",
+    "description": "Grilled Gouramy Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "35000",
+    "name": "Nasi Gurami Goreng Sambel Lalap",
+    "description": "Fried Gouramy Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Mackerel With Fresh Vegetables Sambal",
+    "description": "Grilled Kembung Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Salem Sweet And Sour Chub Mackerel With Fresh Vegetables",
+    "description": "Sweet And Sour Kem Wrapped Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Mackerel With Fresh Vegetables And Chili Sauce",
+    "description": "Fried Kembung Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Lele Pedes Manis Sambel Lalap",
+    "description": "Sweet Spicy Catfish Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "33000",
+    "name": "Grilled Tilapia Rice With Fresh Vegetables Sauce",
+    "description": "Grilled Tilapia Rice Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Pomfret With Fresh Vegetables And Chili Sauce Rice",
+    "description": "Fried Pomfret Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Pomfret With Fresh Vegetables Rice",
+    "description": "Grilled Pomfret Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Lele Goreng Sambel Lalap",
+    "description": "Fried Catfish Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "33000",
+    "name": "Nasi Nila Goreng Sambel Lalap",
+    "description": "Fried Tilapia Rice Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Lelebakar Sambel Lalap",
+    "description": "Grilled Catfish Rice With Sambal Lalap",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet Spicy Pomfret Rice With Fresh Vegetables Sambal",
+    "description": "Sweet Spicy Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "33000",
+    "name": "Nasi Nila Pedes Manis Sambel Lalap",
+    "description": "Sweet Spicy Tilapia Rice With Lalap Sambal",
+    "section": "paket murah meriah"
+  },
+  {
+    "price": "52000",
+    "name": "Ayam Pedes Asem Manis",
+    "description": "Sweet And Sour Chicken Rice Sambal Lalap Tofu And Tempeh",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "71000",
+    "name": "Gurami Asem Manis Lenkap",
+    "description": "Sweet And Sour Gurami Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "71000",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "71000",
+    "name": "Complete Fried Gurami",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "54000",
+    "name": "Complete Fried Chicken",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "54000",
+    "name": "Complete Grilled Chicken",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "52000",
+    "name": "Bawal Pedes Asem Manis",
+    "description": "Rice With Sambal Lalap Tofu And Tempeh",
+    "section": "blessing of the beginning of the year"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Fried Chicken",
+    "description": "Rice With Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "monthly promo"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Grilled Chicken",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "monthly promo"
+  },
+  {
+    "price": "44200",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "monthly promo"
+  },
+  {
+    "price": "44200",
+    "name": "Complete Fried Gurami",
+    "description": "Rice With Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "monthly promo"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Rica Rice",
+    "description": "Rice With Chicken, Sambal Lalap, Tofu, Tempeh",
+    "section": "monthly promo"
+  },
+  {
+    "price": "7500",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "5000",
+    "name": "Plain Iced Tea",
+    "description": "Plain Ice Tea",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "10000",
+    "name": "White Milk Ice",
+    "description": "White Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "11000",
+    "name": "Iced Milk Tea",
+    "description": "Iced Tea Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "15000",
+    "name": "Tarik Iced Tea + Milk",
+    "description": "Iced Tea + Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "17000",
+    "name": "Es Susu Madu Jahe",
+    "description": "Ginger Honey Ice Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "17000",
+    "name": "Hot Ginger Honey Milk",
+    "description": "Hot Ginger Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "15000",
+    "name": "Milk Cappuccino Ice",
+    "description": "Milk Kapuccino Ice",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "17000",
+    "name": "Kapucino Susu Panas",
+    "description": "Hot Milk Kapuccino",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Tawar Panas",
+    "description": "Hot Plain Tea",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "10000",
+    "name": "Hot Milk",
+    "description": "Hot Milk",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "10000",
+    "name": "Hot Milk Tea",
+    "description": "Hot Milk Tea",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "6000",
+    "name": "Hot Tea",
+    "description": "Hot Tea",
+    "section": "various juices and fresh cut fruits"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Grilled Chicken",
+    "description": "0",
+    "section": "month of blessings"
+  },
+  {
+    "price": "32500",
+    "name": "Complete Fried Chicken Rice",
+    "description": "Fried Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "month of blessings"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Fried Gurami",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "month of blessings"
+  },
+  {
+    "price": "41600",
+    "name": "Fried Gurami Rice",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "month of blessings"
+  },
+  {
+    "price": "41600",
+    "name": "Sweet And Sour Gourami Rice",
+    "description": "Sweet And Sour Gurami Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "month of blessings"
+  },
+  {
+    "price": "42900",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "month of blessings"
+  },
+  {
+    "price": "41600",
+    "name": "Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "month of blessings"
+  },
+  {
+    "price": "62000",
+    "name": "Rice With Grilled Tilapia Fish",
+    "description": "Grilled Tilapia Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "month of blessings"
+  },
+  {
+    "price": "62000",
+    "name": "Nasi Nila Goreng",
+    "description": "Fried Tilapia Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "month of blessings"
+  },
+  {
+    "price": "29400",
+    "name": "Grilled Chicken Rice",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempe",
+    "section": "promo gila"
+  },
+  {
+    "price": "29400",
+    "name": "Nasi Ayam Pedes Manis",
+    "description": "Sweet Spicy Chicken Rice With Lalap Tofu And Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "37200",
+    "name": "Fried Gurami Rice",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "37200",
+    "name": "Nasi Gurami Pedes Manis",
+    "description": "Sweet Spicy Gurami, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "37200",
+    "name": "Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "58000",
+    "name": "Nasi Nila Pedes Manis",
+    "description": "Sweet Spicy Tilapia Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "58000",
+    "name": "Rice With Grilled Tilapia Fish",
+    "description": "Grilled Tilapia Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "58000",
+    "name": "Nasi Nila Goreng",
+    "description": "Fried Tilapia Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "promo gila"
+  },
+  {
+    "price": "75000",
+    "name": "Roasted Chicken",
+    "description": "Braised Chicken 2 Thighs 2 Breasts 4 Sambal 4 Lalap",
+    "section": "ready to cook"
+  },
+  {
+    "price": "75000",
+    "name": "Sweet Tamarind Chicken 4 Pieces Without Rice",
+    "description": "Sweet And Sour Chicken 2 Breasts 2 Thighs 4 Sambal 4 Lalap",
+    "section": "complement"
+  },
+  {
+    "price": "75000",
+    "name": "4 Pieces Fried Chicken. Without Rice",
+    "description": "Fried Chicken Thighs 2 Breasts.4 Sambal 4 Lalap",
+    "section": "complement"
+  },
+  {
+    "price": "75000",
+    "name": "Grilled Chicken 4 Pieces Without Rice",
+    "description": "Grilled Chicken 4 Pieces 2 Breasts 2 Thighs 4 Sambal 4 Lalap",
+    "section": "complement"
+  },
+  {
+    "price": "24000",
+    "name": "Grilled Chicken Without Rice",
+    "description": "Grilled Chicken With Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "24000",
+    "name": "Fried Chicken Thigh Rice",
+    "description": "Fried Chicken Thighs Sambal Lalap",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet Spicy Chicken Without Rice Breast",
+    "description": "Sweet Spicy Chicken, Lalap, Sayur Asem",
+    "section": "complement"
+  },
+  {
+    "price": "8000",
+    "name": "Fried Tofu",
+    "description": "Fried Tofu",
+    "section": "complement"
+  },
+  {
+    "price": "8000",
+    "name": "Tempe Goreng",
+    "description": "Fried Tempeh",
+    "section": "complement"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "complement"
+  },
+  {
+    "price": "8000",
+    "name": "Terong Goreng",
+    "description": "Fried Eggplant",
+    "section": "complement"
+  },
+  {
+    "price": "34000",
+    "name": "Sweet Spicy Gurami Without Rice",
+    "description": "Sweet Spicy Gurami Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Gurami Without Rice",
+    "description": "Grilled Gouramy Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Chicken Without Rice Breast",
+    "description": "Fried Chicken With Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "8000",
+    "name": "Tempeh Tofu",
+    "description": "Tofu And Tempeh",
+    "section": "complement"
+  },
+  {
+    "price": "5000",
+    "name": "Sambel",
+    "description": "Sambal",
+    "section": "complement"
+  },
+  {
+    "price": "6000",
+    "name": "Sayur Asem",
+    "description": "Sayur Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken Without Rice Breast",
+    "description": "Grilled Chicken With Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "34000",
+    "name": "Fried Gurami Without Rice",
+    "description": "Fried Gurami With Lalap Vegetable Sauce",
+    "section": "complement"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Kembung Salembakar",
+    "description": "Grilled Kembung Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complement"
+  },
+  {
+    "price": "28000",
+    "name": "Grilled Mackerel Rice",
+    "description": "Grilled Kem Wrapped Rice With Sambal Lalap Tofu And Tempeh",
+    "section": "complement"
+  },
+  {
+    "price": "30000",
+    "name": "Salem Sweet Sour Mackerel Complete",
+    "description": "Sweet And Sour Kem Wrapped Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complement"
+  },
+  {
+    "price": "28000",
+    "name": "Salem Sweet And Sour Mackerel Rice",
+    "description": "Sweet And Sour Kem Wrapped Rice, Sambal Lalap, Tofu, Tempeh",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Salem Sweet And Sour Mackerel Without Rice",
+    "description": "Sweet And Soy Sauce Sambal Lalap Vegetables",
+    "section": "complement"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Fried Mackerel Fish",
+    "description": "Rice With Fried Soy Sauce, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complement"
+  },
+  {
+    "price": "28000",
+    "name": "Fried Mackerel Rice",
+    "description": "Fried Kembung Rice, Tofu, Tempeh",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Salem Kembung Bakar Without Rice",
+    "description": "Grilled Kembung Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Salem Sweet And Sour Mackerel Without Rice",
+    "description": "Sweet And Soy Sauce Sambal Lalap Vegetables",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Mackerel Fish Without Rice",
+    "description": "Fried Soy Sauce Lalap Vegetables",
+    "section": "complement"
+  },
+  {
+    "price": "33000",
+    "name": "Grilled Tilapia Without Rice",
+    "description": "Grilled Tilapia Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Catfish Without Rice",
+    "description": "Fried Catfish With Lalap Vegetable Sauce",
+    "section": "complement"
+  },
+  {
+    "price": "33000",
+    "name": "Fried Tilapia Without Rice",
+    "description": "Fried Tilapia Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "33000",
+    "name": "Sweet And Spicy Tilapia Without Rice",
+    "description": "Sweet Spicy Tilapia Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet Spicy Catfish Without Rice",
+    "description": "Sweet Spicy Catfish With Lalap Vegetable Sauce",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Pomfret Without Rice",
+    "description": "Poml Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Pomfret Without Rice",
+    "description": "Grilled Pomfret Sambal Lalap Vegetables",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Catfish Without Rice",
+    "description": "Grilled Catfish Sambal Lalap Vegetable Asem",
+    "section": "complement"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet Spicy Pomfret Fish Without Rice",
+    "description": "Sweet Spicy Sambal Lalap Vegetable Sauce",
+    "section": "complement"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Sweet Spicy Gurami",
+    "description": "Sweet Spicy Gurami Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Fried Chicken Package",
+    "description": "Fried Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Grilled Chicken Package",
+    "description": "Grilled Chicken Rice, Sambal Lalap, Tofu, Tempeh, Salted Vegetables, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Fried Gurami Rice",
+    "description": "Rice With Fried Gurami And Fresh Vegetable Sambal, Tofu, Tempe, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "44000",
+    "name": "Complete Grilled Gurami Rice",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Fried Pomfret Fish",
+    "description": "Rice With Fried Pomfret Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Sweet Spicy Pomfret Fish",
+    "description": "Sweet Spicy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Fried Tilapia Rice",
+    "description": "Fried Tilapia Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Grilled Tilapia Fish",
+    "description": "Grilled Tilapia Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "45000",
+    "name": "Complete Sweet Spicy Tilapia",
+    "description": "Sweet Spicy Tilapia Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Fried Catfish",
+    "description": "Fried Catfish Rice With Lalap Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Grilled Catfish",
+    "description": "Grilled Catfish Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Package Of Grilled Chub Mackerel",
+    "description": "Grilled Kembung Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Grilled Pomfret Fish Package",
+    "description": "Grilled Pomfret Shrimp Sambal Lalap Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "35000",
+    "name": "Complete Fried Fish Package",
+    "description": "Fried Fish Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "complete package"
+  },
+  {
+    "price": "36600",
+    "name": "Complete Sweet Spicy Gurami",
+    "description": "Sweet Spicy Gurami Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "promo menu"
+  },
+  {
+    "price": "36600",
+    "name": "Complete Grilled Gurami",
+    "description": "Grilled Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Salted Fish, Sayur Asem",
+    "section": "promo menu"
+  },
+  {
+    "price": "36600",
+    "name": "Fried Gurami With Iced Tea",
+    "description": "Fried Gouramy Rice, Sambal Lalap, Tofu, Tempeh, Iced Tea",
+    "section": "promo menu"
+  },
+  {
+    "price": "36600",
+    "name": "Nasi Gurami Bakar Es Teh",
+    "description": "Rice With Sambal Lalap, Tofu, Tempe Gurami, Grilled Sweet Iced Tea",
+    "section": "promo menu"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "price": "57273",
+    "name": "Chatime Milk Tea + Brown Sugar Milk Tea + Mango Green Tea, with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl + Mango Green Tea with Pearl hanya 63rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "45455",
+    "name": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl hanya 50rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "57273",
+    "name": "Grass Jelly with Fresh Milk + Vanilla Milk Tea & Mango Green Tea with Pearl",
+    "description": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl + Mango Green Tea with Pearl hanya 63rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "45455",
+    "name": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl",
+    "description": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl hanya 50rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "32728",
+    "name": "Chatime (Reg) + Hotdakk Original Sausage",
+    "description": "Pilih menu minuman Chatime kesukaaanmu + Hotdakk Original Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "43637",
+    "name": "Chatime Roasted Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl",
+    "description": "Chatime Roasted Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl hanya 48rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "18182",
+    "name": "Hotdakk Honey Cornflakes",
+    "description": "Hotdakk ala korea berlapis cornflakes dengan taburan gula, pilihan isian: sosis/ mozarella/ sosis & mozarela",
+    "section": "today's offer"
+  },
+  {
+    "price": "18182",
+    "name": "Hotdakk Tiramisu",
+    "description": "Hotdakk ala korea dengan isian keju mozarella, topping saus tiramisu dan taburan bubuk kopi",
+    "section": "today's offer"
+  },
+  {
+    "price": "43636",
+    "name": "Chatime Milk Tea with Pearl + Pure Cocoa with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Pure Cocoa with Pearl hanya 48rb!",
+    "section": "today's offer"
+  },
+  {
+    "price": "34546",
+    "name": "Chatime + Hotdakk",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Hotdakk Original Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + Tokpokki",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Tokpokki",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + Rapokki",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Rapokki",
+    "section": "today's offer"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + K-Pop Chikin",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + K-Pop Chikin / K-Fries Chikin (Korean Sauce / BBQ / Gangnam Sweet & Sour)",
+    "section": "today's offer"
+  },
+  {
+    "price": "37272",
+    "name": "Chatime + K-Pop Crispy Stick",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + K-Pop Crispy Stick all variant. Menu kolaborasi dengan Kanzler!",
+    "section": "today's offer"
+  },
+  {
+    "price": "28182",
+    "name": "K-POP Crispy Stick",
+    "description": "KANZLER Crispy Chicken Nugget Stick dipadukan dengan tokpokki dan pilihan saus ala Korea khas CUPBOP favoritmu #INIBARUCRISPY",
+    "section": "crispy nugget x kanzler #inibarucrispy"
+  },
+  {
+    "price": "28182",
+    "name": "K-FRIES Crispy Stick",
+    "description": "KANZLER Crispy Chicken Nugget Stick dipadukan dengan kentang goreng dan pilihan saus ala Korea khas CUPBOP favoritmu #INIBARUCRISPY",
+    "section": "crispy nugget x kanzler #inibarucrispy"
+  },
+  {
+    "price": "57273",
+    "name": "Chatime Milk Tea + Brown Sugar Milk Tea + Mango Green Tea, with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl + Mango Green Tea with Pearl hanya 63rb!",
+    "section": "hemat tiap hari"
+  },
+  {
+    "price": "45455",
+    "name": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl hanya 50rb!",
+    "section": "hemat tiap hari"
+  },
+  {
+    "price": "57273",
+    "name": "Grass Jelly with Fresh Milk + Vanilla Milk Tea & Mango Green Tea with Pearl",
+    "description": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl + Mango Green Tea with Pearl hanya 63rb!",
+    "section": "hemat tiap hari"
+  },
+  {
+    "price": "45455",
+    "name": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl",
+    "description": "Grass Jelly with Fresh Milk + Vanilla Milk Tea with Pearl hanya 50rb!",
+    "section": "hemat tiap hari"
+  },
+  {
+    "price": "18182",
+    "name": "Hotdakk Honey Cornflakes",
+    "description": "Hotdakk ala korea berlapis cornflakes dengan taburan gula, pilihan isian: sosis/ mozarella/ sosis & mozarela",
+    "section": "sweet deals"
+  },
+  {
+    "price": "25455",
+    "name": "Hotdakk White Choco Rainbow",
+    "description": "Korean Hotdakk dengan isian keju mozarella, topping saus cokelat putih dan bubble puff warna - warni",
+    "section": "sweet deals"
+  },
+  {
+    "price": "18182",
+    "name": "Hotdakk Tiramisu",
+    "description": "Hotdakk ala korea dengan isian keju mozarella, topping saus tiramisu dan taburan bubuk kopi",
+    "section": "sweet deals"
+  },
+  {
+    "price": "32728",
+    "name": "Chatime (Reg) + Hotdakk Original Sausage",
+    "description": "Pilih menu minuman Chatime kesukaaanmu + Hotdakk Original Sausage",
+    "section": "super brand week"
+  },
+  {
+    "price": "43637",
+    "name": "Chatime Roasted Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl",
+    "description": "Chatime Roasted Milk Tea with Pearl + Brown Sugar Milk Tea with Pearl hanya 48rb!",
+    "section": "super brand week"
+  },
+  {
+    "price": "43636",
+    "name": "Chatime Milk Tea with Pearl + Pure Cocoa with Pearl",
+    "description": "Chatime Milk Tea with Pearl + Pure Cocoa with Pearl hanya 48rb!",
+    "section": "super brand week"
+  },
+  {
+    "price": "22727",
+    "name": "Hotdakk Honey Cornflakes",
+    "description": "Korean Hotdakk berlapis cornflakes dengan taburan gula, pilihan isian: sosis/ mozarella/ sosis & mozarela",
+    "section": "new: sweet hotdakk"
+  },
+  {
+    "price": "25455",
+    "name": "Hotdakk White Choco Rainbow",
+    "description": "Korean Hotdakk dengan isian keju mozarella, topping saus cokelat putih dan bubble puff warna - warni",
+    "section": "new: sweet hotdakk"
+  },
+  {
+    "price": "25455",
+    "name": "Hotdakk Tiramisu",
+    "description": "Korean Hotdakk dengan isian keju mozarella, topping saus tiramisu dan taburan bubuk kopi",
+    "section": "new: sweet hotdakk"
+  },
+  {
+    "price": "25455",
+    "name": "Hotdakk Choco Peanut",
+    "description": "Korean Hotdakk dengan isian keju mozarella dan topping selai kacang bertabur meses",
+    "section": "new: sweet hotdakk"
+  },
+  {
+    "price": "31818",
+    "name": "Rose Tokpokki",
+    "description": "Kue beras topping fishcake ala Korea bersaus pedas manis dengan tambahan susu yang creamy",
+    "section": "new! rose series"
+  },
+  {
+    "price": "33636",
+    "name": "Rose Rapokki",
+    "description": "Ramyeon topping tokpokki dan fishcake ala Korea bersaus pedas manis dengan tambahan susu yang creamy",
+    "section": "new! rose series"
+  },
+  {
+    "price": "30000",
+    "name": "K-POP CHIKIN GANGNAM SWEET & SOUR",
+    "description": "Ayam Goreng Korea dengan Saus Asam Manis khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "30000",
+    "name": "K-POP CHIKIN KOREAN SAUCE",
+    "description": "Ayam Goreng Korea dengan Saus Gurih khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "30000",
+    "name": "K- POP CHIKIN GARLIC BUTTER MAYO",
+    "description": "Ayam Goreng Korea dengan Saus Garlic Butter Mayo yang Creamy khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "30000",
+    "name": "K-POP CHIKIN SWEET HONEY",
+    "description": "Ayam Goreng Korea dengan Saus Madu yang Manis khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "30000",
+    "name": "K- POP CHIKIN FIRE",
+    "description": "Ayam Goreng Korea dengan Saus Pedas Gurih khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "30000",
+    "name": "K-POP CHIKIN BBQ",
+    "description": "Ayam Goreng Korea dengan Bumbu BBQ khas Cupbop dan Pilihan Topping Tokpokki atau Kentang Goreng (fries)",
+    "section": "k-pop chikin"
+  },
+  {
+    "price": "19091",
+    "name": "Sokkochi",
+    "description": "BARU! Sate fish cake dan sosis dengan saus manis pedas khas Korea!",
+    "section": "korean street food"
+  },
+  {
+    "price": "19091",
+    "name": "Hotdakk Original",
+    "description": "Korean Hotdakk ala Korea dengan Isian Sosis/ Mozarella/ Sosis dan Mozarella",
+    "section": "korean street food"
+  },
+  {
+    "price": "23636",
+    "name": "Korean Loaded Fries",
+    "description": "Kentang goreng dengan taburan bumbu BBQ dan pilihan 2 saus khas Cupbop",
+    "section": "korean street food"
+  },
+  {
+    "price": "23636",
+    "name": "Hotdakk Potato",
+    "description": "Korean Hotdakk ala Korea Berlapis Potongan Kentang dengan Isian Sosis/ Mozarella/ Sosis dan Mozarella",
+    "section": "korean street food"
+  },
+  {
+    "price": "23636",
+    "name": "Hotdakk Noodle",
+    "description": "Korean Hotdakk ala Korea Berlapis Mie dengan Isian Sosis/ Mozarella/ Sosis dan Mozarella",
+    "section": "korean street food"
+  },
+  {
+    "price": "57273",
+    "name": "Trio Hotdakk Sausage",
+    "description": "1 Hotdakk Original Sausage + 1 Hotdakk Potato Sausage + 1 Hotdakk Noodle Sausage",
+    "section": "korean street food"
+  },
+  {
+    "price": "63636",
+    "name": "Trio Hotdakk Sausage Mozarella",
+    "description": "1 Hotdakk Original Sausage Mozzarella + 1 Hotdakk Potato Sausage Mozzarella + 1 Hotdakk Noodle Sausage Mozzarella",
+    "section": "korean street food"
+  },
+  {
+    "price": "63636",
+    "name": "Trio Hotdakk Mozarella",
+    "description": "1 Hotdakk Original Mozzarella + 1 Hotdakk Potato Mozzarella + 1 Hotdakk Noodle Mozzarella",
+    "section": "korean street food"
+  },
+  {
+    "price": "29091",
+    "name": "Tokpokki Original",
+    "description": "Kue Beras Khas Korea dengan Saus Gochujang Manis Pedas",
+    "section": "korean street food"
+  },
+  {
+    "price": "30909",
+    "name": "Rapokki Original",
+    "description": "Mie ala Korea dengan Topping Kue Beras dan Fishcake bersaus Gochujang Manis Pedas",
+    "section": "korean street food"
+  },
+  {
+    "price": "23636",
+    "name": "Chatime Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "23636",
+    "name": "Chatime Roasted Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "23636",
+    "name": "Jasmine Green Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "23636",
+    "name": "Authentic Thai Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Vanilla Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Caramel Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Hazelnut Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "26364",
+    "name": "Hazelnut Chocolate Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Brown Sugar Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Strawberry Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Lychee Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Honey Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Matcha Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "25455",
+    "name": "Thai Tea Coffee",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "26364",
+    "name": "Taro Milk Tea",
+    "description": "",
+    "section": "signature milk tea"
+  },
+  {
+    "price": "24545",
+    "name": "Brown Sugar Classic Tea Latte",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "24545",
+    "name": "Green Tea Latte",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "24545",
+    "name": "Matcha Tea Latte",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "20000",
+    "name": "Chatime Roasted Tea",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "20000",
+    "name": "Jasmine Green Tea",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "20000",
+    "name": "Black Tea",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "22727",
+    "name": "Japanese Sakura Sencha",
+    "description": "",
+    "section": "tea-presso"
+  },
+  {
+    "price": "23636",
+    "name": "Honey Green Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Honey Black Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Mango Green Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Lychee Green Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Lychee Black Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Taiwan Plum Ice Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "23636",
+    "name": "Sour Plum Green Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "24545",
+    "name": "Lemon Green Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "24545",
+    "name": "Lemon Black Tea",
+    "description": "",
+    "section": "tearrific"
+  },
+  {
+    "price": "25455",
+    "name": "Mango Smoothie",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "25455",
+    "name": "Strawberry Smoothie",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "26364",
+    "name": "Cocoa Deluxe",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "27273",
+    "name": "Chocolate Matcha",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "28182",
+    "name": "Matcha Red Bean Smoothie",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "28182",
+    "name": "Espresso Smoothie",
+    "description": "",
+    "section": "smoothies"
+  },
+  {
+    "price": "26364",
+    "name": "Chatime Milk Tea With Oat Milk",
+    "description": "Signature Milk Tea ala Chatime dengan Oat Milk Oatside yang bikin kamu #sedoaterus",
+    "section": "chatime x oatside #sedoaterus"
+  },
+  {
+    "price": "29091",
+    "name": "Pure Cocoa With Oat Milk",
+    "description": "Signature Chocolate dari Chatime dengan Oat Milk Oatside yang bikin kamu #sedoaterus",
+    "section": "chatime x oatside #sedoaterus"
+  },
+  {
+    "price": "30000",
+    "name": "Brown Sugar with Oat Milk",
+    "description": "Brown Sugar khas Chatime dan Oat Milk Oatside yang bikin kamu #sedoaterus",
+    "section": "chatime x oatside #sedoaterus"
+  },
+  {
+    "price": "3636",
+    "name": "Spunbond Chatime 2",
+    "description": "Reusable Bag , Maximum 2 Cups",
+    "section": "reusable take-away bag"
+  },
+  {
+    "price": "7273",
+    "name": "Spunbond Chatime 4-8",
+    "description": "Reusable Bag , Maximum 8 Cups",
+    "section": "reusable take-away bag"
+  },
+  {
+    "price": "1818",
+    "name": "Spunbond Chatime 1",
+    "description": "Reusable Bag , Maximum 1 Cup",
+    "section": "reusable take-away bag"
+  },
+  {
+    "price": "26364",
+    "name": "Mochaccino",
+    "description": "Latte dengan rasa cokelat spesial, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "20909",
+    "name": "Kopi Susu Gula Aren",
+    "description": "NEW! Kopi Susu dengan Gula Aren dari Chatime Special Blend, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "21818",
+    "name": "Latte",
+    "description": "Espresso shots dengan susu, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "21818",
+    "name": "Cappuccino",
+    "description": "Espresso shots dengan susu dan lapisan foam tebal diatasnya, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "25455",
+    "name": "Vanilla Latte",
+    "description": "Latte dengan sensasi manisnya Vanilla, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "25455",
+    "name": "Hazelnut Latte",
+    "description": "Latte dengan aroma dan sensasi nutty dari Hazelnut, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "25455",
+    "name": "Caramel Latte",
+    "description": "Latte dengan aroma dan sensasi manis dari saus Caramel roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "20909",
+    "name": "Americano",
+    "description": "Espresso roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "23636",
+    "name": "House Blended Coffee",
+    "description": "Paduan Kopi Special Blend dengan susu, roasted by Tanamera Coffee",
+    "section": "coffee & latte (roasted by tanamera coffee)"
+  },
+  {
+    "price": "24545",
+    "name": "Brown Sugar with Fresh Milk",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "25455",
+    "name": "Brown Sugar Cocoa Latte",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "26364",
+    "name": "Pure Cocoa",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "26364",
+    "name": "Grass Jelly With Fresh Milk",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "22727",
+    "name": "Taiwan Mango Juice",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "24545",
+    "name": "Honey Lemon Juice",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "26364",
+    "name": "Matcha Mousse",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "27273",
+    "name": "Chocolate Mousse",
+    "description": "",
+    "section": "mood refresh"
+  },
+  {
+    "price": "63636",
+    "name": "Milk Tea Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "63636",
+    "name": "Hazelnut Chocolate Milk Tea Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "63636",
+    "name": "Chatime Roasted Milk Tea Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "63636",
+    "name": "Chatime Mango Green Tea Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "63636",
+    "name": "Jasmine Green Tea Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "63636",
+    "name": "Honey Lemon Gede Banget 1L",
+    "description": "",
+    "section": "chatime gede banget 1l"
+  },
+  {
+    "price": "68182",
+    "name": "Trio Hotdakk",
+    "description": "Trio Happiness! Mix 3 Hotdakk : Original, Potato & Noodle mulai dari 50k saja!",
+    "section": "trio happiness"
+  },
+  {
+    "price": "34546",
+    "name": "Chatime + Hotdakk",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Hotdakk Original Sausage",
+    "section": "jajan nikmat"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + Tokpokki",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Tokpokki",
+    "section": "jajan nikmat"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + Rapokki",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + Rapokki",
+    "section": "jajan nikmat"
+  },
+  {
+    "price": "37273",
+    "name": "Chatime + K-Pop Chikin",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + K-Pop Chikin / K-Fries Chikin (Korean Sauce / BBQ / Gangnam Sweet & Sour)",
+    "section": "jajan nikmat"
+  },
+  {
+    "price": "37272",
+    "name": "Chatime + K-Pop Crispy Stick",
+    "description": "Jajan Nikmat! Pilih menu minuman Chatime kesukaanmu + K-Pop Crispy Stick all variant. Menu kolaborasi dengan Kanzler!",
+    "section": "jajan nikmat"
+  },
+  {
+    "price": "26364",
+    "name": "Green Apple Coco",
+    "description": "Perpaduan Chatime Green Tea rasa Apel dan Leci dengan kesegeran Air Kelapa Asli dari Hydro Coco!",
+    "section": "coco splash x hydro coco #aslisegernya"
+  },
+  {
+    "price": "27273",
+    "name": "Red Berry Coco",
+    "description": "Perpaduan Chatime Green Tea rasa Semangka dan Mixberry dengan kesegaran Air Kelapa Asli dari Hydro Coco!",
+    "section": "coco splash x hydro coco #aslisegernya"
+  },
+  {
+    "price": "27273",
+    "name": "Coco Milky Watermelon",
+    "description": "Perpaduan Chatime Milk Tea rasa Semangka dan Leci dengan kesegaran Air Kelapa Asli dari Hydro Coco!",
+    "section": "coco splash x hydro coco #aslisegernya"
+  },
+  {
+    "price": "54545",
+    "name": "Chatime Choco Berry Latte + Sweet Hotdakk",
+    "description": "1 Choco Berry Latte (L) + 1 Cupbop Sweet Hotdakk Pilihanmu",
+    "section": "sweet time"
+  },
+  {
+    "price": "54545",
+    "name": "Chatime Very Berry Latte + Sweet Hotdakk",
+    "description": "1 Very Berry Latte (L) + 1 Cupbop Sweet Hotdakk Pilihanmu",
+    "section": "sweet time"
+  },
+  {
+    "price": "51818",
+    "name": "Chatime + Sweet Hotdakk",
+    "description": "Chatime (Reg/Large) selected menu + 1 Cupbop Sweet Hotdakk Pilihanmu",
+    "section": "sweet time"
+  },
+  {
+    "price": "29091",
+    "name": "Choco Berry Latte",
+    "description": "Fresh milk dengan strawberry flavor, cream rasa cokelat, dan dark chocolate chip, bikin rasanya BERRY good!",
+    "section": "berry in love (new!)"
+  },
+  {
+    "price": "29091",
+    "name": "Very Berry Latte",
+    "description": "Paduan Jasmine Green Tea dengan rasa strawberry, fresh milk dan sereal warna-warni yang crunchy, bikin minuman ini BERRY special!",
+    "section": "berry in love (new!)"
+  },
+  {
+    "price": "77273",
+    "name": "1 Chatime Gede Banget 1L + Free Reusable Bag",
+    "description": "Special Limited Edition Chatime Hampers! 1 Chatime Gede Banget selected menu + free reusable bag hanya 60rb",
+    "section": "hampers gede banget"
+  },
+  {
+    "price": "140909",
+    "name": "2 Chatime Gede Banget 1L + Free Reusable Bag",
+    "description": "Special Limited Edition Chatime Hampers! 2 Chatime Gede Banget selected menu + free reusable bag hanya 110rb",
+    "section": "hampers gede banget"
+  }
+]

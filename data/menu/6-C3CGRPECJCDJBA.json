@@ -1,0 +1,146 @@
+[
+  {
+    "price": "22727",
+    "name": "Berry Shake",
+    "description": "Strawberry, Milk, Honey (280 Cals)",
+    "section": "shake it off"
+  },
+  {
+    "price": "25454",
+    "name": "Berry Oreo Shake",
+    "description": "Strawberry, Milk, Oreo, Honey (360 Cals)",
+    "section": "shake it off"
+  },
+  {
+    "price": "42727",
+    "name": "Shake O Shake",
+    "description": "Berry Shake & Berry Oreo Shake Bundling!",
+    "section": "shake it off"
+  },
+  {
+    "price": "56364",
+    "name": "Double Hemat 2 Cup",
+    "description": "",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "82727",
+    "name": "Triple Hemat 3 Cup",
+    "description": "",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "104545",
+    "name": "Party Pack 4 Cup",
+    "description": "",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "24545",
+    "name": "Single Hemat 1 Cup",
+    "description": "Discount 25% All Variant Exclude Berry Shake & Berry Oreo Shake",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "67273",
+    "name": "Joomba Full Set",
+    "description": "1 Smoothie Bowl & 1 Reguler Smoothie",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "52727",
+    "name": "Dairy Free Set",
+    "description": "Combined With Orange/ Watermelon Lychee Bread/Tempeh/Smashed-Go",
+    "section": "frugal satisfaction"
+  },
+  {
+    "price": "31818",
+    "name": "Watermelon Berry Breeze",
+    "description": "Watermelon, Strawberry, Strawbery Yoghurt, Honey (190 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "31818",
+    "name": "Power Berry",
+    "description": "Strawberry, Banana, Yoghurt (200 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "31818",
+    "name": "Berry Wild",
+    "description": "Mix Berries, Strawberry, Yoghurt (180 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "31818",
+    "name": "Bts (Berry Tango Smoothies)",
+    "description": "Mango, Strawberries, Yoghurt, Honey (195 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "32727",
+    "name": "Tropical Mango",
+    "description": "Mango Pieces, Lemon, Passion Fruit, Yogurt (1880 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "31818",
+    "name": "Spang-Gong",
+    "description": "Mango Piece, Spinach, Banana, Coconut Water, Passion Fruit (180 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "29091",
+    "name": "Supernuts",
+    "description": "Banana, Peanut Butter, Oats, Low Fat Milk (290 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "29091",
+    "name": "Happy Oreo",
+    "description": "Banana, Low Fat Milk, Oreo (310 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "31818",
+    "name": "Watermelon Lychee Breeze",
+    "description": "Watermelon, Lychee, Honey (185 Cal)",
+    "section": "joomba"
+  },
+  {
+    "price": "32727",
+    "name": "Cocodew",
+    "description": "Hydrococo, Honeydew, Coconut, Coconut Milk, Honey (190Cals)",
+    "section": "joomba x hydro coco"
+  },
+  {
+    "price": "59091",
+    "name": "Coco Loco",
+    "description": "Coconade & Cocodew Bundling!",
+    "section": "joomba x hydro coco"
+  },
+  {
+    "price": "43636",
+    "name": "Choco Madness",
+    "description": "Base: Banana, Chocolate, Peanut Topping: Corn Flake, Banana, Diced Peanut, Shredded Coconut, Chia Seeds",
+    "section": "joomba bowl"
+  },
+  {
+    "price": "43636",
+    "name": "Mango Berry (Marry)",
+    "description": "Base: Banana, Mango, Strawberry Topping: Banana, Peanut Butter, Granola, Shredded Coconut, Chia Seeds",
+    "section": "joomba bowl"
+  },
+  {
+    "price": "43636",
+    "name": "Classic Smoothie Bowl",
+    "description": "Base: Banana, Strawberry, Yogurt Topping: Banana, Granola, Chia Seeds, Shredded Coconut, Strawberry Jam",
+    "section": "joomba bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Create Your Own Smoothie Bowl",
+    "description": "Base : Mango Berry (Marry)/ Classic Smoothie Bowl/ Choco Madness (Exclude Topping)",
+    "section": "joomba bowl"
+  }
+]

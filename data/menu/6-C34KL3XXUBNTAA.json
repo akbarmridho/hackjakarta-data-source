@@ -1,0 +1,123 @@
+[
+  {
+    "price": "28000",
+    "name": "Complete Omelette With Rice And Egg",
+    "description": "Sweet Spicy Peanut Sauce + Rice + Vegetables + Omelet",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "23000",
+    "name": "Complete Pecel Rice",
+    "description": "Peanut Sauce + Complete Vegetables + Rice",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "24000",
+    "name": "Complete Lontong Pecel",
+    "description": "Peanut Sauce + Complete Vegetables + Lontong",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "27000",
+    "name": "Rice Stall Karedok Complete",
+    "description": "Spicy Peanut Sauce + + Lontong + Vegetables",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "23000",
+    "name": "Karedok Without Rice Cake",
+    "description": "Peanut Sauce + Complete Vegetables + Bean Sprouts",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "23000",
+    "name": "Pecel Without Rice Complete",
+    "description": "Peanut Sauce + Vegetables + Mixed With Bakwan + Noodles",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "27000",
+    "name": "Vegetable Rice Cake + Round Egg + Coconut Milk Sauce",
+    "description": "Coconut Milk Sauce + Shredded Chicken + Pumpkin Vegetables + Chili Sauce + Seasoned Eggs",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "21000",
+    "name": "Complete Gado Gado Rice",
+    "description": "Peanut Sauce + Complete Vegetables + Rice Free Egg Pieces",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "21000",
+    "name": "Complete Gado Gado Lontong",
+    "description": "Peanut Sauce + Complete Vegetables + Lontong",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "25000",
+    "name": "Complete Gado Gado Omelette Rice",
+    "description": "Peanut Sauce + Complete Vegetables + Omelet",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "25000",
+    "name": "Gado Gado Telur Dadar Komplit",
+    "description": "Peanut Sauce + Complete Vegetables + Omelette +",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "24000",
+    "name": "Vegetable Rice Cake + Round Egg In Coconut Milk Sauce",
+    "description": "Coconut Milk Sauce + Siyem Pumpkin + Long Beans + Chicken Curry",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "21000",
+    "name": "Complete Vegetable Kupat",
+    "description": "Coconut Milk Sauce + Pumpkin Vegetables + Long Beans + Chicken Curry + Lontong",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "25000",
+    "name": "Regular Ketoprak",
+    "description": "Peanut Sauce + Bean Sprouts + Vermicelli",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "24000",
+    "name": "Rice Cake Vegetable Tofu Pillow",
+    "description": "Coconut Milk Sauce + Tofu + Pumpkin Vegetables + Spicy Chili Sauce",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "27000",
+    "name": "Spicy Omelette Ketoprak",
+    "description": "Lontong + Omelet + Peanut Sauce",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "23000",
+    "name": "Lontong Sayur Kuah Santan",
+    "description": "Coconut Milk Sauce + Pumpkin Vegetables + Spicy Sambal + Hot Tofu",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "27000",
+    "name": "Lontong + Round Egg Ketoprak",
+    "description": "Peanut Sauce + Bean Sprouts + Tofu + Vermicelli + Boiled Eggs + Lontong",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "27000",
+    "name": "Lontong Sayur+Telor Bulat",
+    "description": "Coconut Milk Sauce + Vegetables + Chili Sauce + Boiled Eggs + Banta Tofu",
+    "section": "meno sarapan"
+  },
+  {
+    "price": "8000",
+    "name": "Le Menerale 600Ml",
+    "description": "",
+    "section": "minum"
+  },
+  { "price": "8000", "name": "Aqua", "description": "Cold", "section": "minum" }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "price": "54000",
+    "name": "Buy 6 Get 7",
+    "description": "Beli 6 Dapat 7.",
+    "section": "today's offer"
+  },
+  {
+    "price": "82200",
+    "name": "Paket 10",
+    "description": "5 Options Menu (2 Pcs Of Chocolate Cheese Must Be, 8 Pcs Original/Colate/Cheese)",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Buy 10 Get 12",
+    "description": "Beli 10 Dapat 12.",
+    "section": "today's offer"
+  },
+  {
+    "price": "93000",
+    "name": "Paket 12",
+    "description": "6 Options Menu (2 Pcs Of Chocolate Cheese Must Be, 10 Pcs Original/Colate/Cheese)",
+    "section": "today's offer"
+  },
+  {
+    "price": "54000",
+    "name": "Buy 6 Get 7",
+    "description": "Beli 6 Dapat 7.",
+    "section": "free pukis package."
+  },
+  {
+    "price": "90000",
+    "name": "Buy 10 Get 12",
+    "description": "Beli 10 Dapat 12.",
+    "section": "free pukis package."
+  },
+  {
+    "price": "9000",
+    "name": "Original Classic Pukis Cake",
+    "description": "Pukis Cake With Soft Texture With Sweet Taste",
+    "section": "classic jumbo pukis"
+  },
+  {
+    "price": "9000",
+    "name": "Classic Chocolate Pukis Cake",
+    "description": "Pukis Cake With Chocolate Sprinkles On Top",
+    "section": "classic jumbo pukis"
+  },
+  {
+    "price": "9000",
+    "name": "Classic Cheese Pukis Cake",
+    "description": "Cheese In Pukis",
+    "section": "classic jumbo pukis"
+  },
+  {
+    "price": "9700",
+    "name": "Classic Chocolate Cheese Pukis",
+    "description": "Pukis Cake With A Blend Of Chocolate On The Outside And Cheese In Pukis",
+    "section": "classic jumbo pukis"
+  },
+  {
+    "price": "9000",
+    "name": "Chocolate Pandan Pukis Cake",
+    "description": "Chocolate Pandan Jumbo Paru (Sweet With Pandan Dough And Chocolate Topping On Top)",
+    "section": "pukis jumbo pandan"
+  },
+  {
+    "price": "9000",
+    "name": "Cheese Pandan Pukis Cake",
+    "description": "Jumbo Pandan Cheese Pusum (Sweet With Pandan Dough And Cheese Topping Inside)",
+    "section": "pukis jumbo pandan"
+  },
+  {
+    "price": "9700",
+    "name": "Chocolate Cheese Pandan Pukis Cake",
+    "description": "Jumbo Pandan Chocolate Cheese Pusum (Sweet With Pandan Dough And Chocolate Topping On Top And Cheese Inside)",
+    "section": "pukis jumbo pandan"
+  },
+  {
+    "price": "9000",
+    "name": "Pukis Pandan Original",
+    "description": "Original Pandan Jumbo Paru (Sweet With Pandan Dough)",
+    "section": "pukis jumbo pandan"
+  },
+  {
+    "price": "55400",
+    "name": "Paket 6",
+    "description": "4 Options Menu (2 Pcs Of Chocolate Cheese Must Be, 4 Pcs Original/Colate/Cheese)",
+    "section": "pukis savings package"
+  },
+  {
+    "price": "82200",
+    "name": "Paket 10",
+    "description": "5 Options Menu (2 Pcs Of Chocolate Cheese Must Be, 8 Pcs Original/Colate/Cheese)",
+    "section": "pukis savings package"
+  },
+  {
+    "price": "93000",
+    "name": "Paket 12",
+    "description": "6 Options Menu (2 Pcs Of Chocolate Cheese Must Be, 10 Pcs Original/Colate/Cheese)",
+    "section": "pukis savings package"
+  },
+  {
+    "price": "15000",
+    "name": "Kopi Americano",
+    "description": "Coffee Drink With A Large Portion Of Taste, Made From A Mixture Of Water And Selected Coffee",
+    "section": "new city coffee"
+  },
+  {
+    "price": "21000",
+    "name": "Kopi Aren",
+    "description": "Formula Of Coffee Containing Palm Sugar",
+    "section": "new city coffee"
+  },
+  {
+    "price": "21000",
+    "name": "Kopi Latte",
+    "description": "A Blend Of Coffee And Premium Milk",
+    "section": "new city coffee"
+  },
+  {
+    "price": "50000",
+    "name": "Peanut Martabak",
+    "description": "Sweet Martabak With Peanut Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "65000",
+    "name": "Chocolate Martabak",
+    "description": "Sweet Martabak With Chocolate Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "71500",
+    "name": "Peanut Chocolate Martabak",
+    "description": "Sweet Martabak With Peanut Chocolate Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "71500",
+    "name": "Sesame Nut Chocolate Martabak",
+    "description": "Sweet Martabak With Sesame Chocolate Bean Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "78000",
+    "name": "Cheese Martabak",
+    "description": "Sweet Martabak With Cheese Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "84500",
+    "name": "Chocolate Cheese Martabak",
+    "description": "Sweet Martabak Filled With Cheese And Chocolate Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "70000",
+    "name": "Peanut Chocolate Cheese Martabak",
+    "description": "Sweet Martabak Filled With Cheese, Chocolate And Peanuts",
+    "section": "martabak manis"
+  },
+  {
+    "price": "91000",
+    "name": "Sesame Nut Cheese Chocolate Martabak",
+    "description": "Sweet Martabak With Sesame Chocolate Cheese Filling",
+    "section": "martabak manis"
+  },
+  {
+    "price": "71500",
+    "name": "Martabak 1/2 Cheese 1/2 Chocolate",
+    "description": "Sweet Martabak Filled With 1/2 Cheese And 1/2 Chocolate",
+    "section": "martabak manis"
+  },
+  {
+    "price": "65000",
+    "name": "Martabak 1/2 Cheese 1/2 Chocolate Cheese",
+    "description": "Sweet Martabak Filled With 1/2 Cheese And 1/2 Cheese Chocolate",
+    "section": "martabak manis"
+  },
+  {
+    "price": "84500",
+    "name": "Martabak 1/2 Cheese 1/2 Chocolate Sesame Nuts",
+    "description": "Sweet Martabak Filled With 1/2 Cheese And 1/2 Sesame Bean Chocolate",
+    "section": "martabak manis"
+  },
+  {
+    "price": "84500",
+    "name": "Martabak 1/2 Cheese 1/2 Chocolate Sesame Nut Cheese",
+    "description": "Sweet Martabak Filled With 1/2 Cheese And 1/2 Sesame Peanut Cheese Chocolate",
+    "section": "martabak manis"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "price": "250000",
+    "name": "Ayam Garam Hakka Per Ekor",
+    "description": "Haka Salt Chicken",
+    "section": "bebek peking & ayam garam hakka"
+  },
+  {
+    "price": "300000",
+    "name": "Peking Duck Per Head",
+    "description": "Peking Duck Per Tail",
+    "section": "bebek peking & ayam garam hakka"
+  },
+  {
+    "price": "10000",
+    "name": "Plain White Rice",
+    "description": "Plain White Rice",
+    "section": "plain rice"
+  },
+  {
+    "price": "10000",
+    "name": "Plain Hainam Rice",
+    "description": "Plain Hainam Rice",
+    "section": "plain rice"
+  },
+  {
+    "price": "85000",
+    "name": "Roasted Per Ounce",
+    "description": "Savory Crispy",
+    "section": "per ons"
+  },
+  {
+    "price": "60000",
+    "name": "Go Hiong",
+    "description": "Shrimp, Fish And",
+    "section": "per ons"
+  },
+  {
+    "price": "85000",
+    "name": "Chasio Daging Per Ons",
+    "description": "Sweet, Beefy, Savory",
+    "section": "per ons"
+  },
+  {
+    "price": "85000",
+    "name": "Honey Chasio Per Ounce",
+    "description": "Crispy, Sweet And Tasty",
+    "section": "per ons"
+  },
+  {
+    "price": "15000",
+    "name": "Keripik Singkong Gurih",
+    "description": "Sweet Salty And Salty Cassava Chips",
+    "section": "keripik"
+  },
+  {
+    "price": "50000",
+    "name": "Lau Pho Ping",
+    "description": "Lau Po Ping",
+    "section": "keripik"
+  },
+  {
+    "price": "160000",
+    "name": "Medan Nuts",
+    "description": "Medan Cashew Nuts",
+    "section": "keripik"
+  },
+  {
+    "price": "25000",
+    "name": "More Rich",
+    "description": "Sweet Melinjo",
+    "section": "keripik"
+  },
+  {
+    "price": "25000",
+    "name": "More Rich",
+    "description": "Balado Chips",
+    "section": "keripik"
+  },
+  {
+    "price": "40000",
+    "name": "Krezz",
+    "description": "Sweet Spicy Chips",
+    "section": "keripik"
+  },
+  {
+    "price": "13000",
+    "name": "Crackers",
+    "description": "Crispy Savory",
+    "section": "keripik"
+  },
+  {
+    "price": "60000",
+    "name": "1 Plain White Rice, 1 Yong Tofu",
+    "description": "Fish Balls, Tofu, Bitter Gourd, White Rice",
+    "section": "gravy"
+  },
+  {
+    "price": "60000",
+    "name": "Curry Vermicelli",
+    "description": "It Contains Chicken, Potatoes And Vermicelli",
+    "section": "gravy"
+  },
+  {
+    "price": "55000",
+    "name": "Curry Rice",
+    "description": "It Contains Chicken Meat, Potatoes And White Rice",
+    "section": "gravy"
+  },
+  {
+    "price": "55000",
+    "name": "Bakso Ikan",
+    "description": "Fish Meatballs With Selected Meat",
+    "section": "gravy"
+  },
+  {
+    "price": "55000",
+    "name": "Tofu With Bean Sprout",
+    "description": "Fish + Shrimp And Fish Balls With Chicken Gravy",
+    "section": "gravy"
+  },
+  {
+    "price": "55000",
+    "name": "Medan Curry",
+    "description": "It Contains Chicken And Potatoes",
+    "section": "gravy"
+  },
+  {
+    "price": "85000",
+    "name": "1 ✕ Nasi Hainam Campur, 1 ✕ More Rich",
+    "description": "Hainam Rice 1 Balado Chips",
+    "section": "hainam rice"
+  },
+  {
+    "price": "120000",
+    "name": "1 Rice With Boiled Chicken Thighs, 1 Yong Tahu",
+    "description": "Hainam Rice And Fish Ball Tofu Pare Meatballs",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Combination Of Grilled And Chasio Honey",
+    "description": "Roasted And Chasio Honey With Hainam Rice/White",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Babi Panggang",
+    "description": "Savory Roast + Hainam Rice / White",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Go Hiong",
+    "description": "Shrimp + Fish + Rolled In Tofu Skin",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Hainam Rice With Boiled Chicken",
+    "description": "Hainam / White Rice + Chicken + Egg",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Hainam Rice / Baked Chicken White Rice",
+    "description": "Grilled Chicken, Rice And Eggs",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Chasio Honey + Hainam Rice",
+    "description": "Crispy And Sweet Honey Chasio",
+    "section": "hainam rice"
+  },
+  {
+    "price": "60000",
+    "name": "Hainam Rice Mix",
+    "description": "Roast , Chasio Beef, Honey Chasio, Chicken And Egg",
+    "section": "hainam rice"
+  }
+]

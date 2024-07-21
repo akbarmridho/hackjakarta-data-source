@@ -1,0 +1,356 @@
+[
+  {
+    "price": "23637",
+    "name": "Tomyum Crispy Chicken Fried Rice",
+    "description": "Flash Sale! Nikmati Tom Yum Fried Rice topping Crispy Chicken dengan harga spesial!",
+    "section": "today's offer"
+  },
+  {
+    "price": "43182",
+    "name": "Tomyum Seafood Fried Rice JUMBO!",
+    "description": "Thaisty Deals! Tomyum Seafood Fried Rice favorit dengan porsi JUMBO!",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Combo Tomyum Fried Rice",
+    "description": "Best Seller! Combo Tomyum Seafood Fried Rice + Tomyum Crispy Chicken Fried Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "40909",
+    "name": "Tomyum Fried Rice + Wai Thai Tea",
+    "description": "Nikmati combo favorit Tom Yum Fried Rice + Wai Thai Tea dengan harga special!",
+    "section": "today's offer"
+  },
+  {
+    "price": "22727",
+    "name": "Tomyum Crispy Chicken Rice Bowl",
+    "description": "Popcorn Chicken Tom Yum + Nasi",
+    "section": "today's offer"
+  },
+  {
+    "price": "15910",
+    "name": "FREE Upsize Pink Lemonade Tea",
+    "description": "Hanya untuk kamu! Harga spesial untuk Pink Lemonade Tea UPSIZE!",
+    "section": "today's offer"
+  },
+  {
+    "price": "23637",
+    "name": "Tomyum Crispy Chicken Fried Rice",
+    "description": "Flash Sale! Nikmati Tom Yum Fried Rice topping Crispy Chicken dengan harga spesial!",
+    "section": "flash sale"
+  },
+  {
+    "price": "43182",
+    "name": "Tomyum Seafood Fried Rice JUMBO!",
+    "description": "Thaisty Deals! Tomyum Seafood Fried Rice favorit dengan porsi JUMBO!",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "50000",
+    "name": "Combo Tomyum Fried Rice",
+    "description": "Best Seller! Combo Tomyum Seafood Fried Rice + Tomyum Crispy Chicken Fried Rice",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "40909",
+    "name": "Tomyum Fried Rice + Wai Thai Tea",
+    "description": "Nikmati combo favorit Tom Yum Fried Rice + Wai Thai Tea dengan harga special!",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "68182",
+    "name": "Combo Bangkok Popcorn Chicken + Tomyum Seafood Fried Rice",
+    "description": "Best Seller! Combo Bangkok Popcorn Chicken + Tomyum Seafood Fried Rice",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "109091",
+    "name": "2 Bangkok Popcorn Chicken FREE Tomyum Fried Rice",
+    "description": "Beli 2 Bangkok Popcorn Chicken Rice Bowl, Gratis 1 Tomyum Fried Rice!",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "40909",
+    "name": "Bangkok Grilled Chicken Rice Bowl + Free Ice Tea",
+    "description": "Best Seller! Bangkok Sweet & Sour Grilled Chicken Bowl dengan Ice Tea",
+    "section": "wtf thaisty deals!"
+  },
+  {
+    "price": "22727",
+    "name": "Tomyum Crispy Chicken Rice Bowl",
+    "description": "Popcorn Chicken Tom Yum + Nasi",
+    "section": "wtf serba 25k!"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Crispy Chicken Rice Bowl",
+    "description": "Popcorn Chicken Asam Manis + Nasi",
+    "section": "wtf serba 25k!"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Fried Chicken Rice Set",
+    "description": "Ayam Goreng Asam Manis + Nasi",
+    "section": "wtf serba 25k!"
+  },
+  {
+    "price": "15910",
+    "name": "FREE Upsize Pink Lemonade Tea",
+    "description": "Hanya untuk kamu! Harga spesial untuk Pink Lemonade Tea UPSIZE!",
+    "section": "sweet deals by dari pada"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "31818",
+    "name": "Tom Yum Seafood Khao Pad (Fried Rice/Nasi Goreng)",
+    "description": "Nasi Goreng Tomyum ala Thailand yang segar, asam, dan sedikit pedas. Dengan topping telur mata sapi, dan bakso seafood yang bisa dipilih sesuai keinginanmu. Level kepedasan 1.",
+    "section": "thai must try!"
+  },
+  {
+    "price": "31818",
+    "name": "Tom Yum Crispy Chicken Khao Pad (Fried Rice/Nasi Goreng)",
+    "description": "Nasi goreng Tom Yum ala Thai yang segar, asam, dan sedikit pedas. Dengan topping potongan ayam renyah dan telur mata sapi. Level kepedesan: 1",
+    "section": "thai must try!"
+  },
+  {
+    "price": "50000",
+    "name": "Tom Yum Crispy Chicken Khao Pad JUMBO (Fried Rice/Nasi Goreng)",
+    "description": "Nasi goreng Tom Yum ala Thai porsi JUMBO yang segar, asam, dan sedikit pedas. Dengan topping potongan ayam renyah dan telur mata sapi. Level kepedesan: 1",
+    "section": "thai must try!"
+  },
+  {
+    "price": "23636",
+    "name": "Bangkok Egg Rice (Nasi Telur Bangkok)",
+    "description": "Value meal! Nasi dengan telur mata sapi dan potongan bakso seafood. Dilengkapi dengan kremes dan saus asam manis khas Thailand (level pedas 1).",
+    "section": "thai must try!"
+  },
+  {
+    "price": "28182",
+    "name": "Namjim Popcorn Chicken Rice Bowl",
+    "description": "Ayam Crispy tanpa tulang yang renyah dipadukan dengan saus Khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2. Bisa pilih nasi favorite mu!",
+    "section": "thai popcorn chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Namjim Fried Chicken Rice Box",
+    "description": "Ayam Goreng dengan saus Khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2. Bisa pilih nasi favorite mu!",
+    "section": "thai fried chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Tomyum Fried Chicken Rice Box",
+    "description": "Ayam Goreng dengan saus andalan dari Thailand yang memiliki tingkat kepedasan dan rasa asam yang aromatik dari cabai, jahe, asam, dan tomat. Bisa pilih nasi favorite mu!",
+    "section": "thai fried chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Tomyum Grilled Chicken Rice Bowl",
+    "description": "Ayam Panggang dengan saus andalan dari Thailand yang memiliki tingkat kepedasan dan rasa asam yang aromatik dari cabai, jahe, asam, dan tomat. Bisa pilih nasi favorite mu!",
+    "section": "thai grilled chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Namjim Grilled Chicken Rice Bowl",
+    "description": "Ayam Panggang dengan saus khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2",
+    "section": "thai grilled chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Grilled Chicken Rice Bowl",
+    "description": "Ayam Panggang dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "thai grilled chicken"
+  },
+  {
+    "price": "30909",
+    "name": "Namjim Chicken Wings Rice Box",
+    "description": "Sayap Ayam dengan saus khas Thailand yang gurih, asam, dan sedikit pedas. Level kepedasan: 2",
+    "section": "thai chicken wings"
+  },
+  {
+    "price": "30909",
+    "name": "Tomyum Chicken Wings Rice Box",
+    "description": "Sayap Ayam dengan saus andalan dari Thailand yang memiliki tingkat kepedasan dan rasa asam yang aromatik dari cabai, jahe, asam, dan tomat. Bisa pilih nasi favorite mu!",
+    "section": "thai chicken wings"
+  },
+  {
+    "price": "30909",
+    "name": "Bangkok Chicken Wings Rice Box",
+    "description": "Sayap Ayam dengan saus asam manis khas Thailand. Level kepedasan: 1. Bisa pilih nasi favorite mu!",
+    "section": "thai chicken wings"
+  },
+  {
+    "price": "63636",
+    "name": "Pop Khorn (Ayam Crispy Tanpa Nasi)",
+    "description": "Popcorn chicken dengan 2x saus andalan dari Thailand",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "7273",
+    "name": "Extra Sunny Side Up",
+    "description": "",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "14545",
+    "name": "Extra Herb Fragrant Rice",
+    "description": "Nasi wangi dengan campuran macam rempah khas Thailand",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "8182",
+    "name": "Extra Plain Rice",
+    "description": "Nasi putih",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Tomyum Sauce",
+    "description": "Saus andalan dari Thailand, ledakan kesegaran pedas dan asam yang aromatik dari cabai, jahe, asam, dan tomat.",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Nam Jim Sauce",
+    "description": "Saus khas Thailand yang gurih, asam, dan sedikit pedas. Dengan rempah-rempah khas Thailand seperti daun ketumbar, cabai rawit, dan gurihnya kecap ikan.\\nLevel kepedasan: 2",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "68182",
+    "name": "Gai Yang (Ayam Panggang Tanpa Nasi)",
+    "description": "2 Pcs grilled chicken dengan 2x saus andalan dari Thailand",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "9091",
+    "name": "Extra Bangkok Sauce",
+    "description": "Saus asam manis dengan campuran rempah-rempah thailand untuk cita rasa yang khas",
+    "section": "a la carte (protein only)"
+  },
+  {
+    "price": "46364",
+    "name": "2 Pcs Fried Chicken Rice Set by MOON CHICKEN",
+    "description": "2 Pcs Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "25909",
+    "name": "Nasi Putih Ayam Geprek Seutuhnya by AYAM KOPLO",
+    "description": "Nasi Ayam Geprek Seutuhnya + pilihan sambal Nusantara",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "47273",
+    "name": "Aburi Gyudon (Beef Rice Bowl) by SAN GYU",
+    "description": "Menu Beef Gyudon ala San Gyu, menggunakan 100% daging sapi US Premium yang sedikit dibakar, memberikan kamu sensasi smokey yang nikmat di porsi menu makan mu. (alat makan diberikan saat request).",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "45364",
+    "name": "Butter Chicken + Naan by ACCHA",
+    "description": "(NEW PORTION,MORE CHICKEN) Best Seller! Potongan ayam panggang dicampur kuah kari tomat & saus butter yang creamy!Disajikan sama roti naan(Tambahkan Masala Sachet agar lebih gurih)",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "33636",
+    "name": "1 pc Hot Nashville Fried Chicken Rice Set by HOT SIDE STORY",
+    "description": "Dare to try the hottest chicken in town! Nashville chicken with rice, select your spiciness level!",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "25909",
+    "name": "Nasi Ayam Goreng Penyet Ketumbar by AYAM BU TUMBAR",
+    "description": "Nasi Ayam Goreng Penyet Ketumbar + Pilihan Sambal Nusantara",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "13636",
+    "name": "Wai Thai Tea",
+    "description": "Teh susu ala Thailand yang manis, creamy dan segar",
+    "section": "drinks & extra"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Butterfly Lemon Tea",
+    "description": "Butterfly Pea Flower Tea dengan buah lemon segar",
+    "section": "drinks & extra"
+  },
+  {
+    "price": "4000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "drinks & extra"
+  },
+  {
+    "price": "3545",
+    "name": "Iced Tea",
+    "description": "",
+    "section": "drinks & extra"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Cafe Latte",
+    "description": "Perpaduan kopi espresso dan susu creamy, pilihan klasik pencinta kopi",
+    "section": "kopi dari pada by hangry"
+  }
+]

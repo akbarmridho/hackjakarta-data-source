@@ -1,0 +1,458 @@
+[
+  {
+    "price": "44000",
+    "name": "Cinnamon roll cream cheese",
+    "description": "",
+    "section": "bread"
+  },
+  {
+    "price": "27500",
+    "name": "Cinnamon roll original",
+    "description": "",
+    "section": "bread"
+  },
+  {
+    "price": "68200",
+    "name": "Ice / Hot Matcha Latte",
+    "description": "Matcha with frothed milk",
+    "section": "drinks"
+  },
+  {
+    "price": "31900",
+    "name": "Croissant",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "52800",
+    "name": "Croissant Chocolate",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "30800",
+    "name": "Nutella Banana",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "53900",
+    "name": "Palmier",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "78100",
+    "name": "Praline Soft Baguette",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "41800",
+    "name": "Gourmandise",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "41800",
+    "name": "Escargot Raisin",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "53900",
+    "name": "Cheese Croissant",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "39600",
+    "name": "Pain chocolat",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "16500",
+    "name": "Mini Croissant",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "61600",
+    "name": "Pain chocolat Almond",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "34100",
+    "name": "Canele",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "39600",
+    "name": "Bags of 5 Chouquettes",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "56100",
+    "name": "Cocoa Double Baguette",
+    "description": "",
+    "section": "vinoaseries"
+  },
+  {
+    "price": "46200",
+    "name": "Americano",
+    "description": "Espresso Mixed With Hot Water",
+    "section": "ready to drink"
+  },
+  {
+    "price": "57200",
+    "name": "Cappucino",
+    "description": "The Combination Of Espresso, Steamed Milk And Foam.",
+    "section": "ready to drink"
+  },
+  {
+    "price": "57200",
+    "name": "Latte",
+    "description": "Espresso With Steamed Milk",
+    "section": "ready to drink"
+  },
+  {
+    "price": "66000",
+    "name": "Chocolate",
+    "description": "Valrhona Chocolate With Whipped Cream And Skim Milk",
+    "section": "ready to drink"
+  },
+  {
+    "price": "66000",
+    "name": "Mushroom Soup",
+    "description": "",
+    "section": "appetizers"
+  },
+  {
+    "price": "148500",
+    "name": "Roasted Salmon Salad",
+    "description": "",
+    "section": "appetizers"
+  },
+  {
+    "price": "84700",
+    "name": "Caesar Salad",
+    "description": "",
+    "section": "appetizers"
+  },
+  {
+    "price": "123200",
+    "name": "Tuna Salad",
+    "description": "",
+    "section": "appetizers"
+  },
+  {
+    "price": "123200",
+    "name": "Grilled Chicken Salad",
+    "description": "",
+    "section": "appetizers"
+  },
+  {
+    "price": "297000",
+    "name": "Assorted Macaron",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "79200",
+    "name": "Millefeuile Chocolate",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "79200",
+    "name": "Millefeuile Strawberry",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "84700",
+    "name": "Strawberry Tartlet",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "68200",
+    "name": "Millefeuile Nature",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "63800",
+    "name": "Eclair Vanilla",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "63800",
+    "name": "Eclair Chocolate",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "79200",
+    "name": "Eclair Strawberry",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "63800",
+    "name": "Eclair Coffee",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "88000",
+    "name": "Raspberry Tartlet",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "84700",
+    "name": "Multifruit Tartlet",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "38500",
+    "name": "PETITE MILLEFEUILLE NATURE",
+    "description": "Custard cream and layered puff pastry",
+    "section": "pastries"
+  },
+  {
+    "price": "49500",
+    "name": "PETITE MILLEFEUILLE CHOCOLATE",
+    "description": "Custard cream , layered puff pastry and chocolate filling",
+    "section": "pastries"
+  },
+  {
+    "price": "49500",
+    "name": "PETITE MILLEFEUILLE STRAWBERRY",
+    "description": "Custard cream , layered puff pastry and fresh strawberry",
+    "section": "pastries"
+  },
+  {
+    "price": "90200",
+    "name": "Creme Brule",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "117700",
+    "name": "Tiramisu",
+    "description": "",
+    "section": "pastries"
+  },
+  {
+    "price": "115500",
+    "name": "Atlantique Sandwich",
+    "description": "No Salad",
+    "section": "main course"
+  },
+  {
+    "price": "71500",
+    "name": "Dieppois Sandwich",
+    "description": "No Salad",
+    "section": "main course"
+  },
+  {
+    "price": "93500",
+    "name": "Chicken Ham & Cheese Sandwich",
+    "description": "No Salad",
+    "section": "main course"
+  },
+  {
+    "price": "62700",
+    "name": "Spaghetti Aglio Olio",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "117700",
+    "name": "Salmon Avocado Sandwich",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "84700",
+    "name": "Paul Casserolle",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "84700",
+    "name": "Beef Lasagna",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "84700",
+    "name": "Beef Parmentier",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "66000",
+    "name": "Hot Chocolate",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "57200",
+    "name": "Hot Cappucino",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "57200",
+    "name": "Hot Coffee Latte",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "62700",
+    "name": "Pinapple Juice",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "39600",
+    "name": "Garlic Bread",
+    "description": "10 pieces of toasted garlic butter sliced baguette",
+    "section": "breads"
+  },
+  {
+    "price": "41800",
+    "name": "Hazelnut Praline Brioche",
+    "description": "Brioche with hazelnut praline",
+    "section": "breads"
+  },
+  {
+    "price": "41800",
+    "name": "Chocolate Lava Bun",
+    "description": "Sweet bun filled with melted PAUL chocolate",
+    "section": "breads"
+  },
+  {
+    "price": "34100",
+    "name": "Fougasse Cheese",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "45100",
+    "name": "Flute Sesame",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "34100",
+    "name": "Flute Paul",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "38500",
+    "name": "Chocolate Banana Muffin",
+    "description": "Chocolate muffin filled with banana chunks and chocolate chips",
+    "section": "breads"
+  },
+  {
+    "price": "38500",
+    "name": "Blueberry Muffin",
+    "description": "Blueberry muffin topped with streusel",
+    "section": "breads"
+  },
+  {
+    "price": "41800",
+    "name": "Cinamon Roll Chocolate",
+    "description": "Soft bread with cinnamon powder, brown sugar, and topped with chocolate sauce",
+    "section": "breads"
+  },
+  {
+    "price": "72600",
+    "name": "Pain De Mie Nature",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "78100",
+    "name": "Pain De Mie 6 Cereals",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "72600",
+    "name": "Pain De Mie Chocolat",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "34100",
+    "name": "Fougasse Olive",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "56100",
+    "name": "Pain Multi Grains",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "45100",
+    "name": "Pain Complet",
+    "description": "",
+    "section": "breads"
+  },
+  {
+    "price": "132000",
+    "name": "Sandwich to go",
+    "description": "Enjoy a sandwich of your choice (Charlemange Dinde / Dieppoise / Sesame Chicken / Ham& Cheese Croissant) and soft drink (coca cola / coke zero / sprite) or mineral water",
+    "section": "special package"
+  },
+  {
+    "price": "173800",
+    "name": "Croissant lovers can't miss",
+    "description": "Enjoy 20% on our Croissant box containing: 1 Butter croissant, 1 Pain au chocolat, 1 Escargot Raisin, 1 Croissant almond.",
+    "section": "special package"
+  },
+  {
+    "price": "38500",
+    "name": "Berries Bircher",
+    "description": "Yogurt, Oatmeal, Honey, Milk, Lime juice and Berries in a jar",
+    "section": "eating well"
+  },
+  {
+    "price": "49500",
+    "name": "Coconut chia pudding",
+    "description": "Yogurt,coconut,red berries and chia seeds in a jar",
+    "section": "eating well"
+  },
+  {
+    "price": "60500",
+    "name": "Croissant Strawberry Cream",
+    "description": "French butter croissant filled with crème Chantilly and strawberries",
+    "section": "the art of croissant"
+  },
+  {
+    "price": "55000",
+    "name": "Croissant Hazelnut Chocolate",
+    "description": "French butter croissant filled with Nutella and topped with hazelnuts",
+    "section": "the art of croissant"
+  },
+  {
+    "price": "55000",
+    "name": "Morning Rush",
+    "description": "Choose Your Favourite Hot Coffee / Tea And Viennoisseries (Pain Chocolat / Croissant / Escargot Raisin)",
+    "section": "best sellers"
+  }
+]

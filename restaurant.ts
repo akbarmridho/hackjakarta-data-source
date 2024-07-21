@@ -40,7 +40,7 @@ interface Restaurant {
     await driver.manage().setTimeouts({ implicit: 8000 });
 
     const elements = await driver.findElements(
-      By.className("RestaurantListCol___1FZ8V")
+      By.className("RestaurantListCol___1FZ8V"),
     );
 
     for (const element of elements) {
@@ -48,13 +48,13 @@ interface Restaurant {
       const absoluteLink = await linkElement.getAttribute("href");
 
       const restaurantNameElement = await element.findElement(
-        By.className("name___2epcT")
+        By.className("name___2epcT"),
       );
 
       const restaurantName = await restaurantNameElement.getText();
 
       const restaurantTagElemment = await element.findElement(
-        By.className("cuisine___T2tCh")
+        By.className("cuisine___T2tCh"),
       );
 
       const restaurantTags = await restaurantTagElemment.getText();
@@ -71,7 +71,7 @@ interface Restaurant {
     await fs.writeFile(
       `${catdir}/restaurants.json`,
       JSON.stringify(restaurants),
-      "utf-8"
+      "utf-8",
     );
 
     await driver.quit();

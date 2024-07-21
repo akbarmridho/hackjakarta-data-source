@@ -1,0 +1,230 @@
+[
+  {
+    "price": "34900",
+    "name": "Soft Bone Chicken Uduk Rice",
+    "description": "Rice + Chicken + Lalapan + Sambal",
+    "section": "menu ayam"
+  },
+  {
+    "price": "34900",
+    "name": "Uduk Rice Grilled Chicken Package",
+    "description": "Nasi Uduk + Grilled Chicken + Peanut Sambal + Shrimp Paste Sauce + Lalapan",
+    "section": "menu ayam"
+  },
+  {
+    "price": "35900",
+    "name": "Crispy Grilled Chicken Uduk Rice Package",
+    "description": "Nasi Uduk + Grilled Chicken + Crunchy Bits + Sambal + Lalapan",
+    "section": "menu ayam"
+  },
+  {
+    "price": "34900",
+    "name": "Kremes Fried Chicken Uduk Rice Package",
+    "description": "Nasi Uduk + Fried Chicken + Crunchy Bits + Sambal + Lalapan",
+    "section": "menu ayam"
+  },
+  {
+    "price": "38900",
+    "name": "Urap Smashed Chicken Uduk Rice Package",
+    "description": "Nasi Uduk + Fried Chicken + Urap + Sambal",
+    "section": "menu ayam"
+  },
+  {
+    "price": "38900",
+    "name": "Soft Bone Chicken Uduk Rice",
+    "description": "Nasi Uduk + Chicken + Mendoan + Peanut Sambal + Shrimp Paste + Lalapan",
+    "section": "menu ayam"
+  },
+  {
+    "price": "40900",
+    "name": "Complete Soft Bone Chicken Uduk Rice",
+    "description": "Nasi Uduk + Chicken + Tempe + Tofu + Peanut Sambal + Shrimp Paste + Lalapan",
+    "section": "menu ayam"
+  },
+  {
+    "price": "70000",
+    "name": "Paket Nasi Uduk Iga Bakar Komplit",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "40900",
+    "name": "Uduk Rice With Grilled Tilapia Fish Package",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "43900",
+    "name": "Complete Fried Tilapia Uduk Rice Package",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "39900",
+    "name": "Fried Tilapia Uduk Rice",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "39900",
+    "name": "Grilled Pomfret Uduk Rice",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "38900",
+    "name": "Uduk Rice With Fried Pomfret Fish",
+    "description": "",
+    "section": "fish menu"
+  },
+  {
+    "price": "41900",
+    "name": "Complete Fried Pomfret Uduk Rice Package",
+    "description": "Rice+Onions+Tempeh Tofu+ Lalapan + Chili Sauce",
+    "section": "fish menu"
+  },
+  {
+    "price": "48000",
+    "name": "Uduk Rice Package Fried Gourami",
+    "description": "Nasi Uduk Wrapped In Leaves + Fried Gourame + Peanut Sambal + Shrimp Paste + Lalapan",
+    "section": "fish menu"
+  },
+  {
+    "price": "48000",
+    "name": "Uduk Rice Package With Grilled Gourami",
+    "description": "Nasi Uduk Wrapped In Leaves + Grilled Gourame + Peanut Sambal + Shrimp Paste + Lalapan",
+    "section": "fish menu"
+  },
+  {
+    "price": "70000",
+    "name": "Complete Uduk Rice Crushed Ribs Package",
+    "description": "",
+    "section": "menu daging"
+  },
+  {
+    "price": "43000",
+    "name": "Fried Lung Uduk Rice Package",
+    "description": "",
+    "section": "menu daging"
+  },
+  {
+    "price": "43000",
+    "name": "Nasi Uduk Emal Penyet",
+    "description": "",
+    "section": "menu daging"
+  },
+  {
+    "price": "43900",
+    "name": "Complete Empal Uduk Rice Package",
+    "description": "Rice+Emal+Tofu, Tempeh+Lalapan+Sambal",
+    "section": "menu daging"
+  },
+  {
+    "price": "43900",
+    "name": "Complete Lung Uduk Rice Package",
+    "description": "Rice + Lung + Tempe Tofu + Lalapan + Sambal",
+    "section": "menu daging"
+  },
+  {
+    "price": "69000",
+    "name": "Uduk Rice Package Ribs Penyet",
+    "description": "Nasi Uduk Wrapped In Leaves + Smashed Fried Ribs + Sambal + Lalapan",
+    "section": "menu daging"
+  },
+  {
+    "price": "69000",
+    "name": "Paket Nasi Uduk Iga Bakar",
+    "description": "Nasi Uduk Wrapped In Leaves + Grilled Ribs + Peanut Sambal + Shrimp Paste + Lalapan",
+    "section": "menu daging"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "White Rice 1 Portion",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "7000",
+    "name": "Wrapped Uduk Rice With Leaves",
+    "description": "1 Portion Of Nasi Uduk Wrapped In Leaves",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "4000",
+    "name": "Mendoan",
+    "description": "1Pc",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "20000",
+    "name": "Mendoan Package",
+    "description": "Mendoan Isi 5 Pcs + Cabe Rawit",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "30000",
+    "name": "Tofu Meatballs Semarang",
+    "description": "Fried Tofu Meatballs 5 Pcs",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "Fried Tempeh 1 Pc",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "17000",
+    "name": "Pecel Sayur",
+    "description": "Pecel With Peanut Sauce",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "15000",
+    "name": "Javanese-Indonesian Vegetable Salad With Vegetable Sauce",
+    "description": "Urap Vegetable Coconut Seasoning",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tofu",
+    "description": "Fried Tofu 1Pc",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "3000",
+    "name": "Canned White Crackers",
+    "description": "Can 1 Pc Of White Crackers",
+    "section": "menu pendamping"
+  },
+  {
+    "price": "15000",
+    "name": "Es Jeruk Murni",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Es Jeruk Nipis",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Chiled Juice",
+    "description": "",
+    "section": "menu minuman"
+  }
+]

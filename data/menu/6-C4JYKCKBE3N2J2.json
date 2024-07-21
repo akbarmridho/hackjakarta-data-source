@@ -1,0 +1,1138 @@
+[
+  {
+    "price": "129819",
+    "name": "Family Pack 1",
+    "description": "Ayam Asam Manis [1 Porsi] + Mie Goreng Ayam [1 Porsi] + Cap Cay Goreng [1 Porsi]",
+    "section": "today's offer"
+  },
+  {
+    "price": "131455",
+    "name": "Family Pack 2",
+    "description": "Chicken Cordon Bleu FF [1 Porsi]+ Bihun Goreng Ayam [1 Porsi] + Cap Cay Seafood [1 Porsi]",
+    "section": "today's offer"
+  },
+  {
+    "price": "128183",
+    "name": "Family Pack 3",
+    "description": "Ayam Goreng Mentega [1 Porsi] + Bihun Goreng Ayam [1 Porsi] + Cap Cay Goreng [1 Porsi]",
+    "section": "today's offer"
+  },
+  {
+    "price": "138910",
+    "name": "Family Pack 4",
+    "description": "Bistik Ayam [1 Porsi] + Mie Goreng Sapi [1 Porsi] + Cap Cay Seafood [1 Porsi]",
+    "section": "today's offer"
+  },
+  {
+    "price": "39091",
+    "name": "Nasi Chicken Bulgogi",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Cordon Bleu + French Fries Dan Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Cordon Bleu + Rice And Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "55455",
+    "name": "Fish + Chip + Rice And Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "55455",
+    "name": "Fish & Chips + French Fries Dan Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Mozarella + French Fries Dan Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Mozarella + Rice And Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "50000",
+    "name": "Chicken Steak Cheesy + Rice And Salad",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "46364",
+    "name": "Rice + Sapo Tofu Seafood",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "42727",
+    "name": "Rice + Chicken Tofu Sapo",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "44545",
+    "name": "Rice + Beef Tofu Sapo",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "39091",
+    "name": "Mie Ayam Teriyaki",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "39091",
+    "name": "Rice + Black Pepper Chicken",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "25455",
+    "name": "Spagetti Bolognaise",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "40000",
+    "name": "Mie + Ayam Katsu Teriyaki",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "40000",
+    "name": "Rice + Chicken Katsu Teriyaki",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "39091",
+    "name": "Rice + Teriyaki Chicken",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "30909",
+    "name": "Nasi + Ayam Crispy Black Pepper Sauce",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "30909",
+    "name": "Nasi + Cripsy Chicken Spicy Mayo",
+    "description": "",
+    "section": "menu special"
+  },
+  {
+    "price": "46364",
+    "name": "Rice + Butter Fried Chicken",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "46364",
+    "name": "Rice + Sweet And Sour Chicken",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "46364",
+    "name": "Rice + Flour Fried Chicken",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "51818",
+    "name": "Butter Fried Fish Filet Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "51818",
+    "name": "Floured Fried Fish Filet Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "51818",
+    "name": "Rica-Rica Fried Fish Filet Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "51818",
+    "name": "Sweet And Sour Fish Filet Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "49091",
+    "name": "Rice + Floured Shrimp",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "46364",
+    "name": "Rice + Rica Fried Chicken",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "42727",
+    "name": "Cap Cay Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "42727",
+    "name": "Mushroom Cah Chicken Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "42727",
+    "name": "Chicken Rice With Pea Sautee",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "42727",
+    "name": "Cauliflower Cah Chicken Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "42727",
+    "name": "Nasi Fu Yung Hai",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "46364",
+    "name": "Flour Chicken Steak Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "47273",
+    "name": "Butter Beef Steak Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "47273",
+    "name": "Flour Beef Steak Rice",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "50909",
+    "name": "Rice + Flour Squid",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "50909",
+    "name": "Rice + Butter Squid",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "50909",
+    "name": "Nasi + Cumi Rica-Rica",
+    "description": "",
+    "section": "menu paket"
+  },
+  {
+    "price": "52727",
+    "name": "Butter Fried Chicken / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "52727",
+    "name": "Flour Fried Chicken / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "52727",
+    "name": "Ayam Goreng Rica / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "52727",
+    "name": "Ayam Nanking / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "52727",
+    "name": "Ayam Asam Manis",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "58182",
+    "name": "Butter Fried Fish Filet / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "58182",
+    "name": "Flour Fried Fish Filet / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "58182",
+    "name": "Rica-Rica Fried Fish Filet / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "58182",
+    "name": "Sweet And Sour Fish Filet / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "56364",
+    "name": "Flour Fried Shrimp / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "52727",
+    "name": "Flour Chicken Steak / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "53636",
+    "name": "Butter Beef Steak / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "53636",
+    "name": "Flour Beef Steak / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "48182",
+    "name": "Cap Cay Goreng / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "49091",
+    "name": "Ayam Cah Jamur / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "49091",
+    "name": "Ayam Cah Capri / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "49091",
+    "name": "Cauliflower Stir-Fried Chicken / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "49091",
+    "name": "Fu Yung Hai / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "54545",
+    "name": "Cap Cay Seafood",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "57273",
+    "name": "Cumi Goreng Mentega / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "57273",
+    "name": "Fried Squid Flour / Portion",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "57273",
+    "name": "Cumi Goreng Rica / Porsi",
+    "description": "",
+    "section": "menu porsi"
+  },
+  {
+    "price": "47273",
+    "name": "Medan Anchovy Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "39091",
+    "name": "Nasi Goreng Special",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "42727",
+    "name": "Nasi Goreng Modern",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "47273",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "42727",
+    "name": "Stink Bean Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "42727",
+    "name": "Nasi Goreng Sosis",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "42727",
+    "name": "Smoked Chicken Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "42727",
+    "name": "Nasi Goreng Italy",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "39091",
+    "name": "Nasi Goreng Tom Yum Ayam",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "47273",
+    "name": "Nasi Goreng Tom Yum Seafood",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "50909",
+    "name": "Nasi Goreng Kepiting",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "49091",
+    "name": "Nasi Goreng Kambing",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "33636",
+    "name": "Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "43636",
+    "name": "Green Chili Beef Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "43636",
+    "name": "Green Chili Anchovy Fried Rice",
+    "description": "",
+    "section": "fried rice"
+  },
+  {
+    "price": "43636",
+    "name": "Nasi Goreng Bebek Cabe Ijo",
+    "description": "",
+    "section": "fried rice"
+  },
+  { "price": "28182", "name": "Mie Ayam", "description": "", "section": "mie" },
+  {
+    "price": "35455",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "41818",
+    "name": "Mie Goreng Ayam",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "41818",
+    "name": "Mie Siram Ayam",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "41818",
+    "name": "Chicken Noodle Soup",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "45455",
+    "name": "Beef Fried Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "48182",
+    "name": "Mie Goreng Seafood",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "45455",
+    "name": "Beef Flush Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "28182",
+    "name": "Mie Ayam Solaria Special ( Pedas )",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "23636",
+    "name": "Fish Ball Soup",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "23636",
+    "name": "Bakso Halus Bihun",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "23636",
+    "name": "Smooth Meatballs Noodles",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "33636",
+    "name": "Mie Ayam Pangsit Rebus",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "40909",
+    "name": "Boiled Dumpling Chicken Noodles Meatballs",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "23636",
+    "name": "Boiled Dumplings",
+    "description": "",
+    "section": "mie"
+  },
+  {
+    "price": "26364",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "31818",
+    "name": "Boiled Dumpling Chicken Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "33636",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "39091",
+    "name": "Boiled Dumpling Chicken Vermicelli Meatballs",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "40000",
+    "name": "Bihun Goreng Ayam",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "40000",
+    "name": "Bihun Siram Ayam",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Vermicelli Soup",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "44545",
+    "name": "Beef Fried Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "46364",
+    "name": "Bihun Goreng Seafood",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "44545",
+    "name": "Beef Flush Vermicelli",
+    "description": "",
+    "section": "vermicelli"
+  },
+  {
+    "price": "34545",
+    "name": "Chicken Rice Noodle",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "41818",
+    "name": "Meatball Chicken Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "45455",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "45455",
+    "name": "Flush Chicken Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "45455",
+    "name": "Chicken Cooked Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "46364",
+    "name": "Flush Cow Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "49091",
+    "name": "Kwetiau Seafood Goreng",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "49091",
+    "name": "Kwetiau Seafood Siram",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "46364",
+    "name": "Fried Beef Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "47273",
+    "name": "Boiled Chicken Dumplings Meatballs",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "40909",
+    "name": "Boiled Dumpling Chicken Kwetiau",
+    "description": "",
+    "section": "kwetiau"
+  },
+  {
+    "price": "41818",
+    "name": "Lo Mie",
+    "description": "",
+    "section": "lo mie & i fu mie"
+  },
+  {
+    "price": "41818",
+    "name": "I Fu Mie",
+    "description": "",
+    "section": "lo mie & i fu mie"
+  },
+  {
+    "price": "45455",
+    "name": "I Fu Mie Seafood",
+    "description": "",
+    "section": "lo mie & i fu mie"
+  },
+  {
+    "price": "25455",
+    "name": "Express Bowl Ayam Rica",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "25455",
+    "name": "Express Bowl Ayam Mentega",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "25455",
+    "name": "Express Bowl Ayam Asam Manis",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "25455",
+    "name": "Express Bowl Ayam Mayo",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "25455",
+    "name": "Express Bowl Ayam Teriyaki",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "28182",
+    "name": "Express Bowl Fillet Ikan Mayo",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "28182",
+    "name": "Express Bowl Fillet Ikan Rica",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "28182",
+    "name": "Express Bowl Fillet Ikan Teriyaki",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "28182",
+    "name": "Express Bowl Fillet Ikan Asam Manis",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "28182",
+    "name": "Express Bowl Fillet Ikan Mentega",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Express Bowlmix ( Udang, Ikan, Ayam ) Mentega",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Express Bowlmix ( Udang, Ikan, Ayam ) Rica",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Express Bowlmix ( Udang, Ikan, Ayam ) Asam Manis",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Express Bowlmix ( Udang, Ikan, Ayam ) Mayo",
+    "description": "",
+    "section": "express bowl"
+  },
+  {
+    "price": "30909",
+    "name": "Express Bowlmix ( Udang, Ikan, Ayam ) Teriyaki",
+    "description": "",
+    "section": "express bowl"
+  },
+  { "price": "13636", "name": "Siomay", "description": "", "section": "snack" },
+  {
+    "price": "24545",
+    "name": "Wedges With Bolognaise Sauce",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Spring Roll",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Prawn Ball",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Crispy Mini Wonton",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Fish Balls",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "20909",
+    "name": "Cuttlefish Ball",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "21818",
+    "name": "French Fries",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "18182",
+    "name": "Chikado",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "9091",
+    "name": "White Rice",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "29091",
+    "name": "Soup Ayam",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "40909",
+    "name": "Gravy Cap Cay / Portion",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "21818",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25455",
+    "name": "Taro Milk Shake",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21818",
+    "name": "Frozen Capucino",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Orange Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Juice Melon",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21818",
+    "name": "Teh Tarik",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21818",
+    "name": "Black Currant",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20909",
+    "name": "Milk Shake Strawberry",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20909",
+    "name": "Milk Shake Chocolate",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20909",
+    "name": "Milk Shake Vanilla",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20909",
+    "name": "Milk Shake Blackcurrant",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8182",
+    "name": "Hot Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16364",
+    "name": "Es Lemonade",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Millo",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Juice Tomat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20909",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9091",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16364",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "15455",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12727",
+    "name": "Ice Tea Green",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9091",
+    "name": "Teh Manis Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21818",
+    "name": "Es Kopi Malaka",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "21818",
+    "name": "Vietnamese Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Juice Mangga ( Musiman )",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Juice Sirsak",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22727",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Sejora",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16364",
+    "name": "Melon Lemonade",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10909",
+    "name": "Air Mineral Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25455",
+    "name": "Cookies N Cream Iced Blend",
+    "description": "",
+    "section": "special drink"
+  },
+  {
+    "price": "25455",
+    "name": "Vanilla Latte Iced Blend",
+    "description": "",
+    "section": "special drink"
+  },
+  {
+    "price": "129819",
+    "name": "Family Pack 1",
+    "description": "Ayam Asam Manis [1 Porsi] + Mie Goreng Ayam [1 Porsi] + Cap Cay Goreng [1 Porsi]",
+    "section": "family pack"
+  },
+  {
+    "price": "131455",
+    "name": "Family Pack 2",
+    "description": "Chicken Cordon Bleu FF [1 Porsi]+ Bihun Goreng Ayam [1 Porsi] + Cap Cay Seafood [1 Porsi]",
+    "section": "family pack"
+  },
+  {
+    "price": "128183",
+    "name": "Family Pack 3",
+    "description": "Ayam Goreng Mentega [1 Porsi] + Bihun Goreng Ayam [1 Porsi] + Cap Cay Goreng [1 Porsi]",
+    "section": "family pack"
+  },
+  {
+    "price": "138910",
+    "name": "Family Pack 4",
+    "description": "Bistik Ayam [1 Porsi] + Mie Goreng Sapi [1 Porsi] + Cap Cay Seafood [1 Porsi]",
+    "section": "family pack"
+  },
+  {
+    "price": "141821",
+    "name": "New Family 1",
+    "description": "Sweet And Sour Chicken [1 Portion] + Chicken Fried Noodles (1 Portion) + Fried Cap Cay + 1 Portion]",
+    "section": "family pack"
+  },
+  {
+    "price": "150003",
+    "name": "New Family 3",
+    "description": "Sweet And Sour Fillet [1 Portion] + Beef Fried Vermicelli (1 Portion) + Fried Cap Cay Sauce [1 Portion)",
+    "section": "family pack"
+  },
+  {
+    "price": "143639",
+    "name": "New Family 2",
+    "description": "Chicken Cordon Bleu Ff [ 1 Porsi ] + Bihun Goreng Ayam [ 1 Porsi ] + Cap Cay Seafood [ 1 Porsi ]",
+    "section": "family pack"
+  },
+  {
+    "price": "150911",
+    "name": "New Family 4",
+    "description": "Chicken Steak [1 Portion) + Beef Fried Noodles (1 Portion) + Cap Cay Seafood [1 Portion)",
+    "section": "family pack"
+  },
+  {
+    "price": "110912",
+    "name": "Deals 1",
+    "description": "Seafood Fried Rice [1 Pack] + Beef Fried Noodles (1 Pack) + Sweet Ice Tea [2 Cups]",
+    "section": "super deals"
+  },
+  {
+    "price": "104549",
+    "name": "Deals 2",
+    "description": "Nasi Goreng Special [ 1 Pack ] + Bihun Goreng Seafood [ 1 Pack ] + Es Teh Manis [ 2 Cup ]",
+    "section": "super deals"
+  },
+  {
+    "price": "70914",
+    "name": "Deals 3",
+    "description": "Express Bowl Ayam Rica [ 1 Pack ] + Express Bowl Ayam Teriyaki [ 1 Pack ] + Es Teh Manis [ 2 Cup ]",
+    "section": "super deals"
+  }
+]

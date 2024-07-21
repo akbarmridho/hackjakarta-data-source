@@ -1,0 +1,494 @@
+[
+  {
+    "price": "15000",
+    "name": "Roti Cane Frozen",
+    "description": "",
+    "section": "#paketsiapmasak"
+  },
+  {
+    "price": "30000",
+    "name": "Indomie Bumbu Aceh Special",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "27000",
+    "name": "Indomie Bumbu Aceh Seafood",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie Bumbu Aceh Cumi",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "22000",
+    "name": "Indomie bumbu Aceh Udang",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "20000",
+    "name": "Indomie bumbu Aceh Daging",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "60000",
+    "name": "Indomie Bumbu Aceh Kepiting",
+    "description": "",
+    "section": "indomie bumbu aceh(goreng/rebus)"
+  },
+  {
+    "price": "10000",
+    "name": "kopi aceh",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "12000",
+    "name": "kopi tarik aceh",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "15000",
+    "name": "kopi aceh gayo sanger dingin",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "14000",
+    "name": "kopi aceh gayo sanger panas",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "12000",
+    "name": "kopi aceh gayo espresso dingin",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "10000",
+    "name": "kopi aceh gayo espresso panas",
+    "description": "",
+    "section": "kopi aceh gayo"
+  },
+  {
+    "price": "12000",
+    "name": "Teh Tari Aceh panas",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Teh Tarik Aceh dingi",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "13000",
+    "name": "Teh Tarik Hijau panas",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Teh Tarik hijau dingin",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "10000",
+    "name": "ES Timun Serut",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Jeruk Panas",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es jeruk",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es lemon Tea",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Aqua",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh pucuk",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh hijau dingin",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh hijau panas",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh manis dingin",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh manis panas",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "3000",
+    "name": "Teh tawar dingin",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "2000",
+    "name": "Teh tawar",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "15000",
+    "name": "jus alpukat",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "15000",
+    "name": "jus mangga",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus terong belanda",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus belimbing",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus tomat",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus jambu",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus jeruk",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh botol",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "12000",
+    "name": "jus wortel",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Telur",
+    "description": "",
+    "section": "menu lain"
+  },
+  {
+    "price": "5000",
+    "name": "Nasi",
+    "description": "",
+    "section": "menu lain"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Kari Kambing",
+    "description": "",
+    "section": "menu lain"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Kari Sapi",
+    "description": "",
+    "section": "menu lain"
+  },
+  {
+    "price": "18000",
+    "name": "Martabak Biasa",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "22000",
+    "name": "Martabak Special",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "35000",
+    "name": "Martabak Kari Kambing",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "35000",
+    "name": "Martabak Kari Sapi",
+    "description": "",
+    "section": "martabak"
+  },
+  {
+    "price": "15000",
+    "name": "Roti Cane gula",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "15000",
+    "name": "Roti Cane susu",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "18000",
+    "name": "Roti Cane keju & Susu",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "18000",
+    "name": "Roti Cane Mesis & Susu",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "20000",
+    "name": "Roti Cane Komplit",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "15000",
+    "name": "Roti Cane Kuah Kari",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "33000",
+    "name": "Roti Cane Kari Kambing",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "33000",
+    "name": "Roti Cane Kari Sapi",
+    "description": "",
+    "section": "roti cane"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi goreng daging",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "18000",
+    "name": "Nasi Goreng Telur",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "22000",
+    "name": "Nasi Goreng Ayam",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Cumi",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "24000",
+    "name": "Nasi Goreng Udang",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Goreng Daging & Udang",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Goreng Daging & Cumi",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "27000",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "27000",
+    "name": "Nasi Goreng Kambing",
+    "description": "",
+    "section": "nasi goreng aceh"
+  },
+  {
+    "price": "18000",
+    "name": "Bihun Goreng Biasa",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "20000",
+    "name": "Bihun Goreng Telur",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "22000",
+    "name": "Bihun Goreng Ayam",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "23000",
+    "name": "Bihun Goreng Daging",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "23000",
+    "name": "Bihun Goreng Udang",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "23000",
+    "name": "Bihun Goreng Cumi",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "28000",
+    "name": "Bihun Goreng Seafood",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "30000",
+    "name": "Bihun Goreng Special",
+    "description": "",
+    "section": "bihun goreng"
+  },
+  {
+    "price": "24000",
+    "name": "Mie Aceh Daging",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "18000",
+    "name": "Mie Aceh Biasa",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "20000",
+    "name": "Mie Aceh Telur",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "22000",
+    "name": "Mie Aceh Ayam",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "24000",
+    "name": "Mie Aceh Cumi",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "24000",
+    "name": "Mie Aceh Udang",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "27000",
+    "name": "Mie Aceh Daging & Udang",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "27000",
+    "name": "Mie Aceh Daging & Cumi",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Aceh Seafood",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "27000",
+    "name": "Mie Aceh Kambing",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  },
+  {
+    "price": "60000",
+    "name": "Mie Aceh Kepiting",
+    "description": "",
+    "section": "mie aceh(goreng/rebus/tumis)"
+  }
+]

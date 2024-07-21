@@ -1,0 +1,566 @@
+[
+  {
+    "price": "18182",
+    "name": "PESTAPORA SERBA 20 RIBU",
+    "description": "Pembelian menu selected Regular Box hanya 20 ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "22727",
+    "name": "PESTAPORA SERBA 25 RIBU",
+    "description": "Pembelian menu selected Regular Box hanya 25 ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "33636",
+    "name": "Best Single",
+    "description": "Pembelian menu regular box chicken + ice tea hanya 37ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "86364",
+    "name": "Best Couple",
+    "description": "Pembelian 2 regular box beef + 2 ice tea hanya 95ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "62727",
+    "name": "Best Squad",
+    "description": "Pembelian 3 murmer bowl hanya 69ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "35455",
+    "name": "Best Snack\"",
+    "description": "Pembelian menu snack + ice tea hanya 39ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang by Chef Arnold",
+    "description": "Selamat Makan Nasi Omelet Udang by Chef Arnold",
+    "section": "today's offer"
+  },
+  {
+    "price": "53636",
+    "name": "Single Deals",
+    "description": "Pembelian 1 Nasi Omelet Udang by Chef Arnold + 1 Ice Tea hanya 59ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Couple Deals",
+    "description": "Pembelian 2 Nasi Omelet Udang by Chef Arnold + 2 Ice Tea hanya 99ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "130909",
+    "name": "Group Deals",
+    "description": "Pembelian 3 Nasi Omelet Udang by Chef Arnold + 3 Ice Tea hanya 144ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "59091",
+    "name": "Combo Set Promo Chicken",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "68182",
+    "name": "Combo Set Promo Beef",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "63636",
+    "name": "Combo Set Promo Seafood",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "44091",
+    "name": "Daily Combo A",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "52728",
+    "name": "Daily Combo B",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "192727",
+    "name": "Save 5 Woku Chicken",
+    "description": "Pembelian 5 Nasi Ayam Woku hanya 212rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "380909",
+    "name": "Save 10 Woku Chicken",
+    "description": "Pembelian 10 Nasi Ayam Woku hanya 419rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "274545",
+    "name": "Save 5 Woku Chicken Set Box",
+    "description": "Pembelian 5 Set Box Ayam Woku hanya 302rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "550000",
+    "name": "Hemat 10 Ayam Woku Set Box",
+    "description": "Pembelian 10 Set Box Ayam Woku hanya 605rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "180909",
+    "name": "Hemat 5 Buttersoy Chicken",
+    "description": "Pembelian 5 Set Buttersoy Chicken hanya 199rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "362727",
+    "name": "Hemat 10 Buttersoy Chicken",
+    "description": "Pembelian 10 Buttersoy Chicken hanya 399rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "271818",
+    "name": "Hemat 5 Buttersoy Chicken Set Box",
+    "description": "Pembelian 5 Buttersoy Chicken Set Box hanya 299rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "540909",
+    "name": "Hemat 10 Buttersoy Chicken Set Box",
+    "description": "Pembelian 10 Buttersoy Chicken Set Box hanya 595rb",
+    "section": "today's offer"
+  },
+  {
+    "price": "18182",
+    "name": "PESTAPORA SERBA 20 RIBU",
+    "description": "Pembelian menu selected Regular Box hanya 20 ribu",
+    "section": "pestapora"
+  },
+  {
+    "price": "22727",
+    "name": "PESTAPORA SERBA 25 RIBU",
+    "description": "Pembelian menu selected Regular Box hanya 25 ribu",
+    "section": "pestapora"
+  },
+  {
+    "price": "33636",
+    "name": "Best Single",
+    "description": "Pembelian menu regular box chicken + ice tea hanya 37ribu",
+    "section": "best of july"
+  },
+  {
+    "price": "86364",
+    "name": "Best Couple",
+    "description": "Pembelian 2 regular box beef + 2 ice tea hanya 95ribu",
+    "section": "best of july"
+  },
+  {
+    "price": "62727",
+    "name": "Best Squad",
+    "description": "Pembelian 3 murmer bowl hanya 69ribu",
+    "section": "best of july"
+  },
+  {
+    "price": "35455",
+    "name": "Best Snack\"",
+    "description": "Pembelian menu snack + ice tea hanya 39ribu",
+    "section": "best of july"
+  },
+  {
+    "price": "47727",
+    "name": "Cumi Sambal Bawang Goreng By Chef Juna",
+    "description": "Enjoy The Salted Squid With Fried Onion Sambal Topped With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "43182",
+    "name": "Ayam Woku By Chef Juna",
+    "description": "Enjoy Eating Chicken Cooked With Spicy Yellow Woku Seasoning And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "40909",
+    "name": "Gochujang Chicken",
+    "description": "Enjoy Eating Chicken Menu, Gochujang Sauce, Added With Chicken Sausage And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "40909",
+    "name": "Buttersoy Chicken",
+    "description": "Enjoy Eating On The Chicken Karaage Menu Covered With Butter Soy Sauce And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "50000",
+    "name": "Beef Teriyaki",
+    "description": "Enjoy Eating On The Sliced Beef Menu Which Is Marinated With Teriyaki Sauce And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "50000",
+    "name": "Beef Basil",
+    "description": "Enjoy Eating On The Sliced Beef Menu Which Is Marinated With Basil Sauce And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "50000",
+    "name": "Beef Blackpepper",
+    "description": "Enjoy Eating On The Sliced Beef Menu Which Is Marinated With Black Pepper Sauce And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "40909",
+    "name": "Chicken Karagee Rica-Rica ️",
+    "description": "Good To Eat Spicy Chicken Karaage Menu With Rica-Rica Spicy Sambal Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "47727",
+    "name": "Cumi Pete Balado ️",
+    "description": "Enjoy Your Meal Of Spicy Squid With Sambal Balado, A Mixture Of Salt And Spicy Flavors Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "47727",
+    "name": "Addicted Onion Squid",
+    "description": "Enjoy Eating Spicy Squid With Spicy Onion Sambal And Nagih And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "43182",
+    "name": "Nasi Cakalang Sambal Roa By Chef Juna ️",
+    "description": "Good To Eat Cakalang Fish Spicy Menu With Sambal Roa, Plus Shredded Eggs And Tempeh Orek Which Are Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "40909",
+    "name": "Taliwang Chicken",
+    "description": "Enjoy Eating Chicken Karaage Marinated With Sambal Taliwang And Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "40909",
+    "name": "Ayam Geprek Sambal Nagih ️",
+    "description": "Enjoy Eating The Spicy Chicken Menu, Crushed With Sambal That Makes You Addicted, Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "56181",
+    "name": "Sei Sapi Sambal Susu By Chef Renatta",
+    "description": "Enjoy Eating Se'I Beef Menu With Sambal Balado Milk And Eaten With Warm White Rice That Makes It More Complete.",
+    "section": "regular box"
+  },
+  {
+    "price": "27273",
+    "name": "Makmur Rice Crispy Chicken",
+    "description": "Enjoy Eating Boneless Crispy New Chicken Menu With Corn Beans, Eaten With Warm White Rice And Fried Noodles.",
+    "section": "regular box"
+  },
+  {
+    "price": "27273",
+    "name": "People'S Rice",
+    "description": "Enjoy Eating Shredded Chicken With Sambal Balado, Scrambled Eggs And Tempeh Orek Which Is Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "29545",
+    "name": "Sparta",
+    "description": "Enjoy The Chicken Cutlets With Eggs Covered In Mentaiko, Eaten With A Savory Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "31818",
+    "name": "Tempur Rice",
+    "description": "Enjoy The Shredded Tuna Fish With Scrambled Eggs And Tempeh Orek Which Is Eaten With Warm White Rice.",
+    "section": "regular box"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang by Chef Arnold",
+    "description": "Selamat Makan Nasi Omelet Udang by Chef Arnold",
+    "section": "collabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "53636",
+    "name": "Single Deals",
+    "description": "Pembelian 1 Nasi Omelet Udang by Chef Arnold + 1 Ice Tea hanya 59ribu",
+    "section": "collabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "90000",
+    "name": "Couple Deals",
+    "description": "Pembelian 2 Nasi Omelet Udang by Chef Arnold + 2 Ice Tea hanya 99ribu",
+    "section": "collabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "130909",
+    "name": "Group Deals",
+    "description": "Pembelian 3 Nasi Omelet Udang by Chef Arnold + 3 Ice Tea hanya 144ribu",
+    "section": "collabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "36364",
+    "name": "Nasi Ayam Bakar By Chef Juna ✨",
+    "description": "Good Luck, Special Chef Juna Grilled Chicken Menu, Marinated With Rica-Rica Sambal, Eaten With Warm White Rice And Cucumber.",
+    "section": "menu chef juna"
+  },
+  {
+    "price": "36364",
+    "name": "Stir-Fried Chicken Rice By Chef Juna",
+    "description": "Enjoy Eating The Special Chef Juna Chicken Menu With Stir-Fried Corn Beans, Eaten With Hot White Rice And Cayenne Pepper.",
+    "section": "menu chef juna"
+  },
+  {
+    "price": "43182",
+    "name": "Tinorangsak Chicken Rice By Chef Juna",
+    "description": "Good To Eat With Special Chef Juna Chicken Karaage Seasoning, Sprinkled With Warm White Rice And Cucumber.",
+    "section": "menu chef juna"
+  },
+  {
+    "price": "47727",
+    "name": "Nasi Cumi Tinorangsak By Chef Juna ✨",
+    "description": "Enjoy The Special Chef Juna Squid Menu Covered With People, Eaten With Warm White Rice And Cucumber.",
+    "section": "menu chef juna"
+  },
+  {
+    "price": "59091",
+    "name": "Combo Set Promo Chicken",
+    "description": "",
+    "section": "combo set promo"
+  },
+  {
+    "price": "68182",
+    "name": "Combo Set Promo Beef",
+    "description": "",
+    "section": "combo set promo"
+  },
+  {
+    "price": "63636",
+    "name": "Combo Set Promo Seafood",
+    "description": "",
+    "section": "combo set promo"
+  },
+  {
+    "price": "44091",
+    "name": "Daily Combo A",
+    "description": "",
+    "section": "regular combo"
+  },
+  {
+    "price": "52728",
+    "name": "Daily Combo B",
+    "description": "",
+    "section": "regular combo"
+  },
+  {
+    "price": "63636",
+    "name": "Set Box Seafood",
+    "description": "Enjoy Your Meal, 1 Premium Box Seafood Plus Sliced Balado Potatoes, Stir-Fried Corn Beans, And Sunny Side Up Eggs.",
+    "section": "set box"
+  },
+  {
+    "price": "65909",
+    "name": "Set Box Beef",
+    "description": "Enjoy Eating 1 Premium Box Of Beef Plus Sliced Balado Potatoes, Stir-Fried Corn Beans, And Sunny Side Up Eggs.",
+    "section": "set box"
+  },
+  {
+    "price": "60000",
+    "name": "Set Box Chicken",
+    "description": "Enjoy Eating 1 Premium Box Of Chicken Plus Sliced Balado Potatoes, Stir-Fried Corn Beans, And Sunny Side Up Eggs.",
+    "section": "set box"
+  },
+  {
+    "price": "192727",
+    "name": "Save 5 Woku Chicken",
+    "description": "Pembelian 5 Nasi Ayam Woku hanya 212rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "380909",
+    "name": "Save 10 Woku Chicken",
+    "description": "Pembelian 10 Nasi Ayam Woku hanya 419rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "274545",
+    "name": "Save 5 Woku Chicken Set Box",
+    "description": "Pembelian 5 Set Box Ayam Woku hanya 302rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "550000",
+    "name": "Hemat 10 Ayam Woku Set Box",
+    "description": "Pembelian 10 Set Box Ayam Woku hanya 605rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "180909",
+    "name": "Hemat 5 Buttersoy Chicken",
+    "description": "Pembelian 5 Set Buttersoy Chicken hanya 199rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "362727",
+    "name": "Hemat 10 Buttersoy Chicken",
+    "description": "Pembelian 10 Buttersoy Chicken hanya 399rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "271818",
+    "name": "Hemat 5 Buttersoy Chicken Set Box",
+    "description": "Pembelian 5 Buttersoy Chicken Set Box hanya 299rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "540909",
+    "name": "Hemat 10 Buttersoy Chicken Set Box",
+    "description": "Pembelian 10 Buttersoy Chicken Set Box hanya 595rb",
+    "section": "bulk order"
+  },
+  {
+    "price": "31818",
+    "name": "Sosiji Tokpokki (Chicken Sausage + Topokki)",
+    "description": "Enjoy Eating Watermeang Tokpokki And Sausage Covered With Gochujang Sauce. Spicy And Savory Taste Makes It More Enthusiastic!",
+    "section": "daily bites"
+  },
+  {
+    "price": "36364",
+    "name": "Tak-Ko-Gi Tokpokki (Chicken Popcorn + Toppoki)",
+    "description": "Enjoy Eating Watermeang Pieces Of Chicken Popcorn And Sausage Covered With Gochujang Sauce. Spicy And Savory Taste Makes It More Enthusiasm!",
+    "section": "daily bites"
+  },
+  {
+    "price": "24545",
+    "name": "Butter Soy Chicken Bowl",
+    "description": "Good Luck, A Bowl Of Chicken Pieces Covered With Butter Soy Sauce, Accompanied By Chicken Sausage And Eaten With Warm White Rice.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Gochujang Chicken Bowl",
+    "description": "Enjoy Eating Watermelon, Gochujang Sauce With The Addition Of Chicken Sausage Which Is Eaten With Warm White Rice.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Sparta Bowl",
+    "description": "Enjoy The Nasi Lemak Consisting Of 2 Pieces Of Chicken, Accompanied By Omelet By Mentai Sauce And Eaten With Warm White Rice.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Karaage Mentaiko Bowl",
+    "description": "Enjoy Eating A Bowl Of Chicken Karaage And Chicken Sausage Covered In Mentai Sauce, Eaten With Warm White Rice.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Boneless Chicken Bowl",
+    "description": "Enjoy Eating With Boneless Fried Chicken Covered With Warm White Rice. Cucumber And Sambal Sauce.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Boneless Chicken Saus Mentega Bowl",
+    "description": "Good To Eat Boneless And Sausage Fried Chicken Covered With Butter Sauce. Savory And Feltful!",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "24545",
+    "name": "Ayam Rica-Rica Bowl",
+    "description": "Enjoy Eating A Bowl Of Chicken Pieces Covered With Rica-Rica Sambal And Eaten With Warm White Rice.",
+    "section": "murmer bowl"
+  },
+  {
+    "price": "7273",
+    "name": "Egg",
+    "description": "Enjoy The Eggs That Are Processed Into 2 Choices: Sunny Side Up / Scrambled Egg",
+    "section": "alacarte - lauk aja"
+  },
+  {
+    "price": "6364",
+    "name": "Sambal/Sauce",
+    "description": "Enjoy The Addition Of Sambal (Balado, Matah, Green Milk,)",
+    "section": "alacarte - lauk aja"
+  },
+  {
+    "price": "63636",
+    "name": "Lauk Aja Ayam",
+    "description": "11 Chicken Menu Options, 2X More Portions Than Ricebox",
+    "section": "alacarte - lauk aja"
+  },
+  {
+    "price": "9091",
+    "name": "Rice",
+    "description": "Enjoy The Addition Of Warm White Rice 180Gr",
+    "section": "alacarte - lauk aja"
+  },
+  {
+    "price": "18182",
+    "name": "Almightea - Lemon Tea",
+    "description": "Lemon Flavored Tea",
+    "section": "daily drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Flavored Tea",
+    "description": "Enjoy The Signature Tea From Dailybox",
+    "section": "daily drinks"
+  },
+  {
+    "price": "9091",
+    "name": "Air Mineral 600Ml",
+    "description": "Enjoy The Drink A Bottle Of Refreshing Mineral Water!",
+    "section": "daily drinks"
+  },
+  {
+    "price": "22727",
+    "name": "Es Kopi Jadoel",
+    "description": "Milk Coffee With Caramel Roasted",
+    "section": "daily drinks"
+  },
+  {
+    "price": "22727",
+    "name": "Ice Signature Chocolate",
+    "description": "Ice Chocolate With Milk",
+    "section": "daily drinks"
+  },
+  {
+    "price": "18182",
+    "name": "Ice Lemongrass Tea",
+    "description": "Ice Tea With Lemongrass Aroma (Sweet)",
+    "section": "daily drinks"
+  },
+  {
+    "price": "18182",
+    "name": "Ice Green Tea",
+    "description": "Extra Sweet Green Tea With Jaminese Flavor",
+    "section": "daily drinks"
+  },
+  {
+    "price": "18182",
+    "name": "Ice Lemonade",
+    "description": "Fresh Lemon Juice And Has Sour And Sweet Taste",
+    "section": "daily drinks"
+  },
+  {
+    "price": "18182",
+    "name": "Serenitea - Java Tea",
+    "description": "Tea, Jelly Lychee, And Basil",
+    "section": "daily drinks"
+  },
+  {
+    "price": "22727",
+    "name": "Ice Mango Peach",
+    "description": "Drinks With A Mixture Of Mango And Peach Flavors",
+    "section": "daily drinks"
+  }
+]

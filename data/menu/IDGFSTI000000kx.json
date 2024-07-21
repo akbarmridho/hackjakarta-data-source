@@ -1,0 +1,536 @@
+[
+  {
+    "price": "133636",
+    "name": "Donuts 1/2 Dzn + Jcoffee Drip 1 Box",
+    "description": "",
+    "section": "bite and sip!"
+  },
+  {
+    "price": "173636",
+    "name": "Donuts 1 Dzn + Jcoffee Drip 1 Box",
+    "description": "",
+    "section": "bite and sip!"
+  },
+  {
+    "price": "226364",
+    "name": "Donuts 2 Dzn + Jcoffee Drip 1 Box",
+    "description": "",
+    "section": "bite and sip!"
+  },
+  {
+    "price": "133636",
+    "name": "Jpops 1 Box + Jcoffee Drip 1 Box",
+    "description": "",
+    "section": "bite and sip!"
+  },
+  {
+    "price": "101818",
+    "name": "Original Almond",
+    "description": "",
+    "section": "new cookies"
+  },
+  {
+    "price": "101818",
+    "name": "Choco Almond",
+    "description": "",
+    "section": "new cookies"
+  },
+  {
+    "price": "1066.364",
+    "name": "Mars",
+    "description": "1 Cashew Crunchy, 1 Cookies Choco Nutzy, 1 Cookies Nutty Fruity, 1 St Choco, 1 Caramel Almond, 1 Golden Nastar, 1 Box Coffee Drip, 1 Cheese Strip M, 1 Choco Strip L, 2 Craft Mugs.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "931818",
+    "name": "Venus",
+    "description": "1 Cheezy Rich, 1 Golden Nastar, 1 St. Choco, 1 Caramel Almond, 1 Cashew Crunchy, 1 Cheese Strip L, 1 Box Coffee Drip, 1 Mug 12 oz.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "744545",
+    "name": "Moon",
+    "description": "1 Cheese Strip L, 1 Choco Strip L, 1 Choco Strip M, 1 Cheese Strip M, 1 Cashew Crunchy, 1 Caramel Almond 1 Golden Nastar, 1 Cookies Choco Nutzy, 1 Cookies Nutty Fruity.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "517273",
+    "name": "Blessing",
+    "description": "1 Cheese Strip L, 1 Choco Strip L, 1 Choco Strip M, 1 Cheese Strip M, 1 Original Almond, 1 St. Choco.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "507273",
+    "name": "Blossom",
+    "description": "1 Cheese Strip L, 1 Choco Strip L, 1 Choco Strip M, 1 Choco Almond, 1 Caramel Almond, 1 Cookies Choco Nutzy, 1 Cookies Nutty Fruity",
+    "section": "gift hampers"
+  },
+  {
+    "price": "392727",
+    "name": "Delight",
+    "description": "1 Mug 12 Oz, 1 Choco Strip M, 1 Box Coffee Drip, 1 Caramel Almond.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "382727",
+    "name": "Cheer",
+    "description": "1 Original Almond, 1 St Choco, 1 Choco Strip L, 1 Cheese Strip M.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "310000",
+    "name": "Grace",
+    "description": "1 Cookies Choco Nutzy, 1 Cookies Nutty Fruity, 1 Choco Strip M, 1 Caramel Almond, 1 Cashew Crunchy.",
+    "section": "gift hampers"
+  },
+  {
+    "price": "371818",
+    "name": "Charm",
+    "description": "1 St Choco, 1 Cheezy Rich, 1 Golden Nastar",
+    "section": "gift hampers"
+  },
+  {
+    "price": "44545",
+    "name": "Crunchy Choco Milk Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk Ini Tidak Menggunakan Whipcream",
+    "section": "new beverage"
+  },
+  {
+    "price": "42727",
+    "name": "Iced Teanacolada",
+    "description": "",
+    "section": "new beverage"
+  },
+  {
+    "price": "42727",
+    "name": "Iced Cinnamon Latte",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "new beverage"
+  },
+  {
+    "price": "37273",
+    "name": "ICED JASMINE PASSIONFRUIT CHEESE TEA",
+    "description": "",
+    "section": "new beverage"
+  },
+  {
+    "price": "26364",
+    "name": "Apple Juice",
+    "description": "",
+    "section": "jco juice"
+  },
+  {
+    "price": "26364",
+    "name": "Orange Juice",
+    "description": "",
+    "section": "jco juice"
+  },
+  {
+    "price": "60909",
+    "name": "Totebag Peacock",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "101818",
+    "name": "Mug Coffee Time (16 oz)",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "90909",
+    "name": "Mug Art Deco (12 oz)",
+    "description": "",
+    "section": "merchandise"
+  },
+  {
+    "price": "6364",
+    "name": "Thank You!",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "6364",
+    "name": "Happy Lunar New Year",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "6364",
+    "name": "Happy Birthday",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "6364",
+    "name": "Hip-Hip Hooray!",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "6364",
+    "name": "Eid Mubarak",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "6364",
+    "name": "Season's Greetings",
+    "description": "",
+    "section": "greetings card"
+  },
+  {
+    "price": "32727",
+    "name": "Jclub Pack Americano / Hot Tea (Uno)",
+    "description": "",
+    "section": "breakfast with j.coffee"
+  },
+  {
+    "price": "38182",
+    "name": "Jclub Pack Jcoccino (Uno)",
+    "description": "",
+    "section": "breakfast with j.coffee"
+  },
+  {
+    "price": "40909",
+    "name": "Jclub Pack Chocolate (Uno)",
+    "description": "",
+    "section": "breakfast with j.coffee"
+  },
+  {
+    "price": "44545",
+    "name": "Sandwich Pack Americano (Due)",
+    "description": "",
+    "section": "breakfast with j.coffee"
+  },
+  {
+    "price": "61818",
+    "name": "1 Box Jpops DIY",
+    "description": "12 Pcs Mini Donuts & 6 Toppings : Strawberry, White & Dark Chocolate Dips Rainbow & Choco Sprinkles, Oreo Crumbs",
+    "section": "donuts"
+  },
+  {
+    "price": "100909",
+    "name": "Jcronut 1Dzn",
+    "description": "",
+    "section": "donuts"
+  },
+  {
+    "price": "61818",
+    "name": "DONUTS 1/2 DZN",
+    "description": "",
+    "section": "donuts"
+  },
+  {
+    "price": "100909",
+    "name": "DONUTS 1 DZN",
+    "description": "",
+    "section": "donuts"
+  },
+  {
+    "price": "153636",
+    "name": "DONUTS 2 DZN",
+    "description": "",
+    "section": "donuts"
+  },
+  {
+    "price": "61818",
+    "name": "JPOP 2 DZN",
+    "description": "Mini Donuts (1 Box Isinya Sudah 2 Dzn/Lusin)",
+    "section": "donuts"
+  },
+  {
+    "price": "91818",
+    "name": "Jclub 1/2 dzn",
+    "description": "",
+    "section": "donuts"
+  },
+  {
+    "price": "70909",
+    "name": "Jcool To Go",
+    "description": "",
+    "section": "ice cream yogurt"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Americano 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Latte 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Jcoccino 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Brown Sugar 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Thai Tea 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Chocolate 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "81818",
+    "name": "Iced Mocha 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "61818",
+    "name": "Iced Lemon Tea 1L",
+    "description": "",
+    "section": "beverages 1l"
+  },
+  {
+    "price": "27273",
+    "name": "Iced Lemon Tea",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "TIRAMISU FRAPPE",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "42727",
+    "name": "CARAMEL JCOCCINO FRAPPE",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "38182",
+    "name": "Iced Tiramisu Latte",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "39091",
+    "name": "Iced Mocha Espresso",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "ICED CHOCOLATE MINT",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "24545",
+    "name": "ICED GREEN TEA",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "Mocha Espresso Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk Ini Tidak Menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "ICED CARAMEL JCOCCINO",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "32727",
+    "name": "ICED CAFÉ LATTE",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40000",
+    "name": "ICED GREEN TEA LATTE",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "24545",
+    "name": "ICED AMERICANO",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "42727",
+    "name": "BLUEBERRY YOGURT FRAPPE",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "32727",
+    "name": "ICED BROWN SUGAR LATTE",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "42727",
+    "name": "STRAWBERRY YOGURT FRAPPE",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "35455",
+    "name": "Iced Chocolate",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "Choco Forest Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "Avocado Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "31818",
+    "name": "Iced Jcoccino",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "40000",
+    "name": "Oreo Frappe",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "29091",
+    "name": "Iced Thai Tea",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "39091",
+    "name": "Chocolate Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "39091",
+    "name": "Jcoccino Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "40909",
+    "name": "Greentea Frappe",
+    "description": "Untuk Menjaga Kualitas, Produk ini TIDAK menggunakan Whipcream",
+    "section": "beverages"
+  },
+  {
+    "price": "44545",
+    "name": "CHEESE STRIP M",
+    "description": "Tinggi 14 cm",
+    "section": "cookies"
+  },
+  {
+    "price": "64545",
+    "name": "CHEESE STRIP L",
+    "description": "Tinggi 24 cm",
+    "section": "cookies"
+  },
+  {
+    "price": "44545",
+    "name": "CHOCO STRIP M",
+    "description": "Tinggi 14 cm",
+    "section": "cookies"
+  },
+  {
+    "price": "64545",
+    "name": "CHOCO STRIP L",
+    "description": "Tinggi 24 cm",
+    "section": "cookies"
+  },
+  {
+    "price": "101818",
+    "name": "Cheezy Rich",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "101818",
+    "name": "Golden Nastar",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "81818",
+    "name": "Caramel Almond",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "81818",
+    "name": "St Choco",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "73636",
+    "name": "Cashew Crunchy",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "73636",
+    "name": "Cashew Original",
+    "description": "",
+    "section": "cookies"
+  },
+  {
+    "price": "77273",
+    "name": "Jcoffee drip 1 box",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "36364",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "sliced cake"
+  },
+  {
+    "price": "36364",
+    "name": "Black Forest",
+    "description": "",
+    "section": "sliced cake"
+  },
+  {
+    "price": "36364",
+    "name": "Red Velvet Cheese",
+    "description": "",
+    "section": "sliced cake"
+  },
+  {
+    "price": "46364",
+    "name": "Jcroffle",
+    "description": "5 Pcs Jcroffle",
+    "section": "jcroffle"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "price": "251900",
+    "name": "SUB BITES - CHICKEN",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "today's offer"
+  },
+  {
+    "price": "313500",
+    "name": "SUB BITES - BEEF",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "today's offer"
+  },
+  {
+    "price": "286000",
+    "name": "SUB BITES - MIX",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "today's offer"
+  },
+  {
+    "price": "220000",
+    "name": "SUB BITES - MIX COOKIES",
+    "description": "SUB-BITES adalah paket kombinasi soft cookies dari Subway : 4 Chocochip Cookies 4 Oatmeal Cookies 4 Double Choco Cookies",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Hebat 1",
+    "description": "1 Sandwich 6-inch + 1 side dish",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Hebat 2",
+    "description": "1 Sandwich 6-inch + 1 Beverage",
+    "section": "today's offer"
+  },
+  {
+    "price": "55000",
+    "name": "Hebat 3",
+    "description": "1 Sandwich 6-inch + 1 side dish + 1 beverage",
+    "section": "today's offer"
+  },
+  {
+    "price": "140000",
+    "name": "Hebat 4",
+    "description": "1 Sandwich Footlong + 3 Beverage + 2 Side Dish",
+    "section": "today's offer"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Double BLT Combo",
+    "description": "Buy Double BLT Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "today's offer"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Pizza Melt Combo",
+    "description": "Buy Pizza Melt 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "today's offer"
+  },
+  {
+    "price": "84000",
+    "name": "#B1G1 BBQ Chicken Combo",
+    "description": "Buy BBQ Chicken 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "today's offer"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Roast Beef Combo",
+    "description": "Buy Roast Beef 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "today's offer"
+  },
+  {
+    "price": "251900",
+    "name": "SUB BITES - CHICKEN",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "subway hampers"
+  },
+  {
+    "price": "313500",
+    "name": "SUB BITES - BEEF",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "subway hampers"
+  },
+  {
+    "price": "286000",
+    "name": "SUB BITES - MIX",
+    "description": "SUB-BITES adalah paket kombinasi sandwich 3” lezat dari Subway. Tersedia 3 kombinasi sandwich yang menggugah selera. Bebas pilih menu Beef sandwich terbaik, menu Chicken sandwich atau kombinasikan sandwich Beef, Chicken, Tuna, atau Veggies sesuai kreasi.",
+    "section": "subway hampers"
+  },
+  {
+    "price": "220000",
+    "name": "SUB BITES - MIX COOKIES",
+    "description": "SUB-BITES adalah paket kombinasi soft cookies dari Subway : 4 Chocochip Cookies 4 Oatmeal Cookies 4 Double Choco Cookies",
+    "section": "subway hampers"
+  },
+  {
+    "price": "45000",
+    "name": "Hebat 1",
+    "description": "1 Sandwich 6-inch + 1 side dish",
+    "section": "paket hebat"
+  },
+  {
+    "price": "45000",
+    "name": "Hebat 2",
+    "description": "1 Sandwich 6-inch + 1 Beverage",
+    "section": "paket hebat"
+  },
+  {
+    "price": "55000",
+    "name": "Hebat 3",
+    "description": "1 Sandwich 6-inch + 1 side dish + 1 beverage",
+    "section": "paket hebat"
+  },
+  {
+    "price": "140000",
+    "name": "Hebat 4",
+    "description": "1 Sandwich Footlong + 3 Beverage + 2 Side Dish",
+    "section": "paket hebat"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Double BLT Combo",
+    "description": "Buy Double BLT Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "#b1g1 subway deals"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Pizza Melt Combo",
+    "description": "Buy Pizza Melt 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "#b1g1 subway deals"
+  },
+  {
+    "price": "84000",
+    "name": "#B1G1 BBQ Chicken Combo",
+    "description": "Buy BBQ Chicken 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "#b1g1 subway deals"
+  },
+  {
+    "price": "97000",
+    "name": "#B1G1 Roast Beef Combo",
+    "description": "Buy Roast Beef 6\" Combo, get Special Recipe of Subway Chick 'n Chick 6\" Combo",
+    "section": "#b1g1 subway deals"
+  },
+  {
+    "price": "56500",
+    "name": "Captain Fish Wrap",
+    "description": "Ikan laut Pollock yang bertekstur halus dan lembut, dibalut tepung roti yang renyah dan gurih. Di lengkapi dengan saus tar-tar yang segar dan creamy. Tersedia juga dalam ukuran sandwich, dan Fish & Chips dengan salad.",
+    "section": "captain fish"
+  },
+  {
+    "price": "62500",
+    "name": "Fish & Chips",
+    "description": "Ikan laut Pollock yang bertekstur halus dan lembut, dibalut tepung roti yang renyah dan gurih. Di lengkapi dengan salad serta saus tar-tar yang segar dan creamy. Makin lengkap dengan Waffle Fries menambah cita rasa gurih dan bikin semakin puas!",
+    "section": "captain fish"
+  },
+  {
+    "price": "55500",
+    "name": "Captain Fish with Fries",
+    "description": "Sandwich dengan menggunakan ikan laut Pollock yang bertekstur halus dan lembut, dibalut tepung roti yang renyah dan gurih. Di lengkapi dengan saus tar-tar yang segar dan creamy.",
+    "section": "captain fish"
+  },
+  {
+    "price": "56500",
+    "name": "Coke K-Wave Combo - Chicken",
+    "description": "1 Chicken 6inch Sandwich + 1 Coca-Cola K-Wave",
+    "section": "coke k-wave series"
+  },
+  {
+    "price": "66500",
+    "name": "Coke K-Wave Combo - Beef",
+    "description": "1 Spicy Italian / Italian BMT 6inch Sandwich + 1 Coca-Cola K-Wave",
+    "section": "coke k-wave series"
+  },
+  {
+    "price": "13000",
+    "name": "Coke K-Wave Zero Sugar 250ml",
+    "description": "Taste the fruity fantasy and celebrate the devotion of K-Pop fans with Coca-Cola® K-Wave, the latest from Coca-Cola Creations",
+    "section": "coke k-wave series"
+  },
+  {
+    "price": "66000",
+    "name": "Ultimate Cheese Spicy Supreme",
+    "description": "Perpaduan antara garlic cream cheese, irisan daging pepperoni, salami dan chicken strip ditambah dengan keju cheddar yang gurih di dalam roti garlic, disajikan dengan berbagai pilihan sayuran segar dan sauce spicy mayo yang pedas creamy",
+    "section": "subway series"
+  },
+  {
+    "price": "75000",
+    "name": "Ultimate Cheese Steak",
+    "description": "Perpaduan antara garlic cream cheese, cheddar cheese dan potongan daging steak di dalam roti garlic disajikan dengan berbagai pilihan sayuran segar dan sauce mayonnise creamy",
+    "section": "subway series"
+  },
+  {
+    "price": "56500",
+    "name": "Pizza Melt",
+    "description": "Kenikmatan perpaduan pepperoni, salami dan breakfast strip diatas saus marinara yang menggoda dan lelehan keju cheddar",
+    "section": "subway series"
+  },
+  {
+    "price": "56500",
+    "name": "Double BLT",
+    "description": "Kenikmatan berlipat ganda dengan Double BLT - Pepperoni, Breakfast Strip & Double Cheddar Cheese #doublecheese",
+    "section": "subway series"
+  },
+  {
+    "price": "28500",
+    "name": "Veggie Delight",
+    "description": "Sandwich segar dari roti dan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "35500",
+    "name": "Egg Mayo",
+    "description": "Sandwich sederhana namun istimewa, dengan potongan telur dicampur krim mayo yang lembut, serta isian sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "39500",
+    "name": "Chicken Slice",
+    "description": "Sandwich nikmat dengan irisan tipis daging ayam, disajikan dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "43500",
+    "name": "Roasted Chicken",
+    "description": "Sandwich lezat dengan isian daging ayam dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "43500",
+    "name": "BBQ Chicken",
+    "description": "Sandwich yang dibalut dengan manis gurih saus BBQ pada daging ayam lembut, dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "43500",
+    "name": "Chicken Teriyaki",
+    "description": "Potongan daging ayam lembut dengan saus teriyaki khas Asia dibalut dengan roti tipis dan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "43500",
+    "name": "Tuna Mayo",
+    "description": "Sandwich dengan isian tuna dan lembutnya krim mayo yang nikmat dan disajikan dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "53500",
+    "name": "Italian BMT",
+    "description": "Sandwich favorit di dunia yang terdiri dari salami, pepperoni, dan daging. Dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "53500",
+    "name": "Spicy Italian",
+    "description": "Sandwich dengan isian pepperoni dan irisan salami, dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "64500",
+    "name": "Steak & Cheese",
+    "description": "Sandwich nikmat dengan isian daging steak yang lembut, keju, dan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "64500",
+    "name": "Roast Beef",
+    "description": "Sandwich lezat dengan isian irisan daging sapi dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "64500",
+    "name": "Subway Turkey",
+    "description": "Menu yang ditunggu-tunggu! Perpaduan sempurna antara irisan daging turkey, irisan daging sapi dan irisan daging ayam untuk memanjakan lidah penggemarnya",
+    "section": "ala carte"
+  },
+  {
+    "price": "31500",
+    "name": "Wrap - Veggie Delight",
+    "description": "Wrap dengan sayuran segar pilihan",
+    "section": "ala carte"
+  },
+  {
+    "price": "38500",
+    "name": "Wrap - Egg Mayo",
+    "description": "Menu wrap sederhana namun istimewa, dengan potongan telur dicampur krim mayo yang lembut, serta isian sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "42500",
+    "name": "Wrap - Chicken Slice",
+    "description": "Roti tipis nikmat dengan irisan tipis daging ayam, disajikan dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "47000",
+    "name": "Wrap - BBQ Chicken",
+    "description": "Daging ayam lembut berpadu dengan manis gurih saus BBQ dan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "47000",
+    "name": "Wrap - Chicken Teriyaki",
+    "description": "Potongan daging ayam lembut dengan saus teriyaki khas Asia dibalut dengan roti tortilla dan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "47000",
+    "name": "Wrap - Roasted Chicken",
+    "description": "Roti Tortilla lezat dengan isian daging ayam dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "46500",
+    "name": "Wrap - Tuna Mayo",
+    "description": "Roti tipis dengan isian tuna dan lembutnya krim mayo yang nikmat dan disajikan dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "56500",
+    "name": "Wrap - Italian BMT",
+    "description": "Isian favorit di dunia yang terdiri dari salami, pepperoni, dan daging, di balut dengan roti tipis dan disajikan dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "56500",
+    "name": "Wrap - Spicy Italian",
+    "description": "Roti tipis dengan isian pepperoni dan irisan salami, dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "67500",
+    "name": "Wrap - Steak & Cheese",
+    "description": "Roti tipis dengan isian bola daging yang juicy dari saus marinara dan kesegaran sayuran.",
+    "section": "ala carte"
+  },
+  {
+    "price": "67500",
+    "name": "Wrap - Subway Turkey",
+    "description": "Menu yang ditunggu-tunggu! Perpaduan sempurna antara irisan daging turkey, irisan daging sapi dan irisan daging ayam untuk memanjakan lidah penggemarnya",
+    "section": "ala carte"
+  },
+  {
+    "price": "67500",
+    "name": "Wrap - Roast Beef",
+    "description": "Roti tipis lezat dengan isian irisan daging sapi dengan sayuran segar.",
+    "section": "ala carte"
+  },
+  {
+    "price": "52500",
+    "name": "Salad - Egg Mayo",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "55500",
+    "name": "Salad - Chicken Slice",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "60500",
+    "name": "Salad - Roasted Chicken",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "60500",
+    "name": "Salad - BBQ Chicken",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "60500",
+    "name": "Salad - Chicken Teriyaki",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "60500",
+    "name": "Salad - Tuna",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "70500",
+    "name": "Salad - Italian BMT",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "70500",
+    "name": "Salad - Spicy Italian",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "81500",
+    "name": "Salad - Steak & Cheese",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "81500",
+    "name": "Salad - Roast Beef",
+    "description": "Berbagai macam sayuran segar yang dipadukan dengan daging pilihan dan sauce yang dapat disesuaikan dengan selera.",
+    "section": "ala carte"
+  },
+  {
+    "price": "81500",
+    "name": "Salad - Subway Turkey",
+    "description": "Menu yang ditunggu-tunggu! Perpaduan sempurna antara irisan daging turkey, irisan daging sapi dan irisan daging ayam untuk memanjakan lidah penggemarnya",
+    "section": "ala carte"
+  },
+  {
+    "price": "67500",
+    "name": "Wrap - Beef Brisket",
+    "description": "100% daging Beef Brisket dengan kualitas terbaik dari Subway, hanya untukmu! Dengan saus Spicy Mayo yang creamy, tangy & spicy, sensasi yang tiada akhir!",
+    "section": "ala carte"
+  },
+  {
+    "price": "21500",
+    "name": "Subway Cookies",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "16500",
+    "name": "Chicken Cream Soup",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "32500",
+    "name": "Mushroom Soup 8oz",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "31000",
+    "name": "Waffle Fries",
+    "description": "Potongan kentang yang di oven berbentuk waffle dengan texture renyah diluar dan lembut didalam.",
+    "section": "side dish"
+  },
+  {
+    "price": "26500",
+    "name": "Coca Cola 390ml",
+    "description": "Coca Cola 390ml",
+    "section": "beverages"
+  },
+  {
+    "price": "26500",
+    "name": "Fanta 390ml",
+    "description": "Fanta 390ml",
+    "section": "beverages"
+  },
+  {
+    "price": "26500",
+    "name": "Sprite 390ml",
+    "description": "Sprite 16 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Cappucino",
+    "description": "Hot Cappucino 8 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Latte",
+    "description": "Hot Latte 8 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Americano",
+    "description": "Hot Americano 8 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "24000",
+    "name": "Milo",
+    "description": "Hot Milo 8 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "26500",
+    "name": "Iced Green Tea 22 Oz",
+    "description": "Iced Green Tea 22 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "26500",
+    "name": "Iced Lemon Tea 22 Oz",
+    "description": "Iced Lemon Tea 22 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "11000",
+    "name": "R Mineral Water",
+    "description": "R Mineral Water",
+    "section": "beverages"
+  },
+  {
+    "price": "18000",
+    "name": "R Minute Maid Pulppy",
+    "description": "R Minute Maid Pulppy",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Hot Tea 8 Oz",
+    "description": "Hot Tea 8 Oz",
+    "section": "beverages"
+  },
+  {
+    "price": "31000",
+    "name": "Waffle Fries",
+    "description": "Potongan kentang yang di oven berbentuk waffle dengan texture renyah diluar dan lembut didalam.",
+    "section": "minway's favorite!"
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "price": "148183",
+    "name": "Combo Flying Chicken",
+    "description": "1 Flying Chicken (Spicy/Non Spicy) + 3 Nasi + 3 Small Drink",
+    "section": "today's offer"
+  },
+  {
+    "price": "80909",
+    "name": "5 Drum Stick Laksa Chicken",
+    "description": "5 Drum Stick Laksa Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "20909",
+    "name": "Laksa Friend Fries",
+    "description": "French Fries With Cheese Sauce And Laksa Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "38182",
+    "name": "Nugget Bubble Gold Series 500Gr",
+    "description": "1 Pack Of Nugget Bubble Gold Series Packaging 500Gr",
+    "section": "frozen food"
+  },
+  {
+    "price": "20000",
+    "name": "Nugget Bubble Crumb Selection Series 250Gr",
+    "description": "1 Pax Nugget Bubble Crumb Selection Series Kemasan 250Gr",
+    "section": "frozen food"
+  },
+  {
+    "price": "20000",
+    "name": "Nugget Classic Recipe Series 250Gr",
+    "description": "1 Pack Of Nugget Classic Request Series Packaging 250Gr",
+    "section": "frozen food"
+  },
+  {
+    "price": "38182",
+    "name": "Nugget Flying Chicken Gold Series 500Gr",
+    "description": "1 Pack Of Nugget Flying Chicken Gold Series Packaging 500Gr",
+    "section": "frozen food"
+  },
+  {
+    "price": "31818",
+    "name": "Richoco Chicken",
+    "description": "1 Richoco Chicken + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "48182",
+    "name": "Combo Richoco Chicken",
+    "description": "1 Richoco Chicken + 1 Rice + 1 Medium Drink + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "22727",
+    "name": "Richoco Friend Fries",
+    "description": "French Fries Dengan Richoco Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "31818",
+    "name": "Laksa Chicken",
+    "description": "1 Laksa Chicken + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "48182",
+    "name": "Combo Laksa Chicken",
+    "description": "1 Laksa Chicken + 1 Rice + 1 Medium Drink + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "33636",
+    "name": "Loaded Fries Chicken Bites",
+    "description": "French Fries + Chicken Bites + Snack Siip Bite Keju + Bbq Sauce Level 0-5 + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "33636",
+    "name": "Loaded Fries Chicken Katsu",
+    "description": "French Fries + 1 Chicken Katsu + Snack Siip Bite Keju + Bbq Sauce Level 0-5 + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "33636",
+    "name": "Loaded Fries Richeese Factory Nugget",
+    "description": "French Fries + 4 Pcs Richeese Nugget + Snack Siip Bite Keju + Bbq Sauce Level 0-5 + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "22727",
+    "name": "Chicken Bites Richoco",
+    "description": "Chicken Bites Dengan Richoco Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "34545",
+    "name": "Nugget Non Spicy",
+    "description": "6 / 9 Pcs Nugget Non Spicy",
+    "section": "new menu"
+  },
+  {
+    "price": "35455",
+    "name": "Nugget Spicy",
+    "description": "6 / 9 Pcs Nugget Spicy",
+    "section": "new menu"
+  },
+  {
+    "price": "22727",
+    "name": "Chicken Bites Banzai",
+    "description": "Chicken Bites Banzai + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "22727",
+    "name": "Banzai Friend Fries",
+    "description": "French Fries Dengan Cheese Sauce + Banzai Powder",
+    "section": "new menu"
+  },
+  {
+    "price": "180000",
+    "name": "Combo Banzai Chicken Whole",
+    "description": "1 Banzai Chicken Whole + 3 Nasi + 3 Small Drink + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "126364",
+    "name": "Banzai Chicken Whole",
+    "description": "1 Banzai Chicken Whole + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "42727",
+    "name": "Combo Banzai Chicken",
+    "description": "1 Banana Chicken + 1 Rice + 1 Medium Drink + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "24545",
+    "name": "Banzai Chicken",
+    "description": "1 Banana Chicken + Cheese Sauce",
+    "section": "new menu"
+  },
+  {
+    "price": "39091",
+    "name": "Pahe Fire Chicken",
+    "description": "1 Nasi + 1 Fire Chicken (Level 0-5) + Cheese Sauce. Harga Normal Rp 44.500",
+    "section": "combo rice"
+  },
+  {
+    "price": "27273",
+    "name": "Pahe Richicken",
+    "description": "1 Richicken + 1 Nasi + Cheese Sauce. Harga Normal Rp 34.500",
+    "section": "combo rice"
+  },
+  {
+    "price": "29091",
+    "name": "Pahe Flying Chicken",
+    "description": "1 Flying Chicken Personal + 1 Nasi + Cheese Sauce. Harga Normal Rp 36.500",
+    "section": "combo rice"
+  },
+  {
+    "price": "152727",
+    "name": "Combo Hampers 1",
+    "description": "1 Flying Chicken (Spicy/Non Spicy) + Drink 1L /3 Large Drink + Cheese Sauce",
+    "section": "promo"
+  },
+  {
+    "price": "148183",
+    "name": "Combo Flying Chicken",
+    "description": "1 Flying Chicken (Spicy/Non Spicy) + 3 Nasi + 3 Small Drink",
+    "section": "promo"
+  },
+  {
+    "price": "175455",
+    "name": "Combo Hampers 2",
+    "description": "1 Fire Chicken Whole + Drink 1L /3 Large Drink + Cheese Sauce",
+    "section": "promo"
+  },
+  {
+    "price": "80909",
+    "name": "5 Drum Stick Laksa Chicken",
+    "description": "5 Drum Stick Laksa Chicken",
+    "section": "promo"
+  },
+  {
+    "price": "20909",
+    "name": "Laksa Friend Fries",
+    "description": "French Fries With Cheese Sauce And Laksa Sauce",
+    "section": "promo"
+  },
+  {
+    "price": "42727",
+    "name": "Special Price Fire Burger Beef",
+    "description": "Fire Burger With Selected Beef And Bbq Level 0-5",
+    "section": "promo"
+  },
+  {
+    "price": "32727",
+    "name": "Special Price Fire Burger Chicken",
+    "description": "Fire Burger With Crispy Fried Chicken Meat And Bbq Level 0-5",
+    "section": "promo"
+  },
+  {
+    "price": "57273",
+    "name": "Combo Rich Burger Lite",
+    "description": "2 Rich Burger + 2 Medium Fruitarian Drink",
+    "section": "promo"
+  },
+  {
+    "price": "66364",
+    "name": "Combo Fire Burger Lite",
+    "description": "2 Fire Burger Satay (Level 0-5) + 2 Medium Fruit",
+    "section": "promo"
+  },
+  {
+    "price": "135455",
+    "name": "Flying Chicken 7Pcs",
+    "description": "7 Flying Chicken Personal (3 Potongan Besar dan 4 Drum Stick) + Cheese Sauce",
+    "section": "promo"
+  },
+  {
+    "price": "40000",
+    "name": "Combo 1 Richicken",
+    "description": "1 Richicken + 1 Nasi + 1 Medium Drink + 1 Perkedel/Cheesy Cream Soup + Cheese Sauce",
+    "section": "combo special"
+  },
+  {
+    "price": "40909",
+    "name": "Combo 1 Flying Chicken Personal",
+    "description": "1 Flying Chicken Personal + 1 Nasi + 1 Medium Drink + 1 Perkedel/Cheesy Cream Soup + Cheese Sauce",
+    "section": "combo special"
+  },
+  {
+    "price": "50909",
+    "name": "Combo 2 Flying Chicken Personal",
+    "description": "2 Flying Chicken Personal + 1 Nasi + 1 Medium Drink + Cheese Sauce",
+    "section": "combo special"
+  },
+  {
+    "price": "50000",
+    "name": "Combo 2 Richicken",
+    "description": "2 Richicken + 1 Nasi + 1 Medium Drink + Cheese Sauce",
+    "section": "combo special"
+  },
+  {
+    "price": "47273",
+    "name": "Combo 4 Fire Wings",
+    "description": "4 Fire Wings + 1 Nasi + 1 Minuman + Cheese Sauce",
+    "section": "combo favorite"
+  },
+  {
+    "price": "65455",
+    "name": "Combo Duo Fire Chicken",
+    "description": "2 Fire Chicken + 1 Nasi + 1 Minuman + Cheese Sauce",
+    "section": "combo favorite"
+  },
+  {
+    "price": "46364",
+    "name": "Combo 1 Fire Chicken",
+    "description": "1 Fire Chicken + 1 Nasi + 1 Medium Drink + Cheese Sauce",
+    "section": "combo favorite"
+  },
+  {
+    "price": "61818",
+    "name": "Combo Fire Drum Stick",
+    "description": "2 Fire Drum Stick + 1 Rice + 1 Medium Drink + Cheese Sauce",
+    "section": "combo favorite"
+  },
+  {
+    "price": "49091",
+    "name": "Combo Cheese Crackling",
+    "description": "1 Fire Chicken + 1 Nasi + Cheese Crackling + 1 Medium Drink + Cheese Sauce",
+    "section": "combo favorite"
+  },
+  {
+    "price": "194545",
+    "name": "Combo Fire Chicken",
+    "description": "1 Fire Chicken Whole + 3 Nasi + 3 Small Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "232727",
+    "name": "Big Eight Fire Chicken",
+    "description": "8 Fire Chicken + 4 Nasi + 4 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "181818",
+    "name": "Big Eight Flying Chicken / Richicken",
+    "description": "8 Flying Chicken Personal / Richicken + 4 Nasi + 4 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "122727",
+    "name": "Big Four Fire Chicken",
+    "description": "4 Fire Chicken + 2 Nasi + 2 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "155455",
+    "name": "Big Five Fire Chicken",
+    "description": "5 Fire Chicken + 3 Rice Portions + 3 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "90909",
+    "name": "Big Four Flying Chicken / Richicken",
+    "description": "4 Flying Chicken Personal / Richicken + 2 Nasi + 2 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "126364",
+    "name": "Big Five Flying Chicken / Richicken",
+    "description": "5 Flying Chicken Personal / Richicken + 3 Nasi + 3 Medium Drink + Cheese Sauce",
+    "section": "sharing combo"
+  },
+  {
+    "price": "50909",
+    "name": "Combo Chicken Rb-1",
+    "description": "1 Richicken / Flying Chicken Personal + 1 Rich Burger Chicken + Cheese Sauce",
+    "section": "combo burger chicken"
+  },
+  {
+    "price": "99091",
+    "name": "Combo Chicken Rb-2",
+    "description": "2 Richicken / Flying Chicken Personal + 2 Rich Burger Chicken + Cheese Sauce",
+    "section": "combo burger chicken"
+  },
+  {
+    "price": "101818",
+    "name": "Combo Chicken Fb-2",
+    "description": "2 Richicken / Flying Chicken Personal + 2 Fire Burger Chicken (Level 0-5) + Cheese Sauce",
+    "section": "combo burger chicken"
+  },
+  {
+    "price": "52727",
+    "name": "Combo Chicken Fb-1",
+    "description": "1 Richicken / Flying Chicken Personal + 1 Fire Burger Chicken (Level 0-5) + Cheese Sauce",
+    "section": "combo burger chicken"
+  },
+  {
+    "price": "18182",
+    "name": "Fire Chicken Rice",
+    "description": "1 Fire Chicken Rice (Spicy/Non Spicy) Ala Carte",
+    "section": "fire chicken rice"
+  },
+  {
+    "price": "18182",
+    "name": "Happy Hour - Fire Chicken Rice",
+    "description": "Buy Fire Chicken Rice (Spicy/Non Spicy) Free Small Fruitarian Drink",
+    "section": "fire chicken rice"
+  },
+  {
+    "price": "32727",
+    "name": "Fire Burger Chicken",
+    "description": "Fire Burger With Crispy Fried Chicken Meat And Bbq Level 0-5",
+    "section": "rich burger"
+  },
+  {
+    "price": "31818",
+    "name": "Rich Burger - Chicken",
+    "description": "Rich Burger With Crispy Fried Chicken Meat And Rich Burger'S Signature Sauce",
+    "section": "rich burger"
+  },
+  {
+    "price": "40909",
+    "name": "Combo Fire Burger Chicken",
+    "description": "Fire Burger With Chicken And Bbq Sauce 0-5 + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "50909",
+    "name": "Combo Fries Rich Burger - Chicken",
+    "description": "Rich Burger Dengan Daging Ayam Renyah + Rich French Fries + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "52727",
+    "name": "Combo Fries Fire Burger Chicken",
+    "description": "Fire Burger With Chicken And Bbq Sauce Level 0-5 + Rich French Fries + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "23636",
+    "name": "Fire Burger Lite",
+    "description": "1 Fire Burger Satay (Level 0-5)",
+    "section": "rich burger"
+  },
+  {
+    "price": "19091",
+    "name": "Rich Burger Lite",
+    "description": "1 Rich Burger Lite",
+    "section": "rich burger"
+  },
+  {
+    "price": "42727",
+    "name": "Fire Burger Beef",
+    "description": "Fire Burger With Selected Beef And Bbq Level 0-5",
+    "section": "rich burger"
+  },
+  {
+    "price": "40909",
+    "name": "Rich Burger - Beef",
+    "description": "Rich Burger With Selected Beef And Rich Burger Sauce",
+    "section": "rich burger"
+  },
+  {
+    "price": "45455",
+    "name": "Combo Rich Burger - Beef",
+    "description": "Rich Burger With Selected Beef + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "39091",
+    "name": "Combo Rich Burger - Chicken",
+    "description": "Rich Burger Chicken + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "47273",
+    "name": "Combo Fire Burger Beef",
+    "description": "Fire Burger With Selected Beef And Bbq Level 0-5 + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "58182",
+    "name": "Combo Fries Rich Burger - Beef",
+    "description": "Rich Burger With Selected Beef + Rich French Fries + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "60000",
+    "name": "Combo Fries Fire Burger Beef",
+    "description": "Fire Burger With Selected Beef And Bbq Level 0-5 + Rich French Fries + 1 Medium Drink",
+    "section": "rich burger"
+  },
+  {
+    "price": "10909",
+    "name": "Perkedel",
+    "description": "1Pc Cake",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "10909",
+    "name": "Cheesy Cream Soup",
+    "description": "1 Cheesy Cream Soup",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "18182",
+    "name": "Potato Pompom",
+    "description": "Potato Pomboom",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "25455",
+    "name": "Fire French Fries",
+    "description": "",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "20909",
+    "name": "French Fries",
+    "description": "",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "20909",
+    "name": "Chicken Bites",
+    "description": "Chicken Bites (Spicy / Non Spicy)",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "30000",
+    "name": "Fire Wedges",
+    "description": "",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "14545",
+    "name": "Cheese Crackling",
+    "description": "",
+    "section": "side dish & dessert"
+  },
+  {
+    "price": "142727",
+    "name": "Fire Chicken",
+    "description": "1 Fire Chicken Whole + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "20909",
+    "name": "Richicken 1Pcs",
+    "description": "1 Richicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "202727",
+    "name": "Fire Chicken 8Pcs",
+    "description": "8 Fire Chicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "80909",
+    "name": "Fire Chicken 3Pcs",
+    "description": "3 Fire Chicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "131818",
+    "name": "Fire Chicken 5Pcs",
+    "description": "5 Fire Chicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "54545",
+    "name": "Richicken 3Pcs",
+    "description": "3 Richicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "87273",
+    "name": "Richicken 5Pcs",
+    "description": "5 Richicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "30909",
+    "name": "Fire Wings 3Pcs",
+    "description": "3 Potong Fire Wings + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "60000",
+    "name": "Flying Chicken 3Pcs",
+    "description": "3 Flying Chicken Personal + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "43636",
+    "name": "Fire Wings 6Pcs",
+    "description": "6 Potong Fire Wings + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "95455",
+    "name": "Flying Chicken 5Pcs",
+    "description": "5 Flying Chicken Personal + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "30000",
+    "name": "Fire Chicken 1Pcs",
+    "description": "Fire Chicken (Level 0-5)",
+    "section": "ala carte"
+  },
+  {
+    "price": "152727",
+    "name": "Flying Chicken 8Pcs",
+    "description": "8 Flying Chicken Personal + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "10455",
+    "name": "Rice Ala Carte",
+    "description": "1 Rice",
+    "section": "ala carte"
+  },
+  {
+    "price": "124545",
+    "name": "Flying Chicken",
+    "description": "1 Flying Chicken (Spicy/Non Spicy) Ala Carte",
+    "section": "ala carte"
+  },
+  {
+    "price": "50909",
+    "name": "Drum Stick Fire Chicken 2Pcs",
+    "description": "2 Drum Stick Fire Chicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "37273",
+    "name": "Drum Stick Richicken 2Pcs",
+    "description": "2 Drum Stick Richicken + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "40000",
+    "name": "Drum Stick Flying Chicken 2Pcs",
+    "description": "2 Drum Stick Flying Chicken Personal + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "22727",
+    "name": "Flying Chicken 1 Pcs",
+    "description": "1 Flying Chicken Personal + Cheese Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "10000",
+    "name": "Bbq Sauce",
+    "description": "1 Cup Bbq Sauce",
+    "section": "ala carte"
+  },
+  {
+    "price": "7727",
+    "name": "Mineral Water 330Ml",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "36364",
+    "name": "Fruitarian Drink 1L",
+    "description": "Fruitarian Drink In 1 Liter Packaging, Enough For 4-5 Glass",
+    "section": "beverages"
+  },
+  {
+    "price": "36364",
+    "name": "Pink Lava 1L",
+    "description": "Pink Lava In 1 Liter Packaging, Enough For 4-5 Cups",
+    "section": "beverages"
+  },
+  {
+    "price": "12727",
+    "name": "Fruitarian Drink",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lava",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "4545",
+    "name": "Amo Spark",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "9091",
+    "name": "Mineral Water 600Ml",
+    "description": "",
+    "section": "beverages"
+  },
+  {
+    "price": "15000",
+    "name": "Iced Mocha",
+    "description": "",
+    "section": "coffee beverages"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Chocolate",
+    "description": "",
+    "section": "coffee beverages"
+  },
+  {
+    "price": "15000",
+    "name": "Iced Vanilla Latte",
+    "description": "",
+    "section": "coffee beverages"
+  },
+  {
+    "price": "15000",
+    "name": "Iced Coffee Milk",
+    "description": "",
+    "section": "coffee beverages"
+  },
+  {
+    "price": "68182",
+    "name": "Combo 1 Amo Baby Fire Chicken",
+    "description": "1 Fire Chicken (Level 0) + 1 Rice + 1 Small Drink + Cheese Sauce + Dvd Amo Baby + 1 Perkedel/Cheesy Cream Soup",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "36364",
+    "name": "Jai Amo Baby",
+    "description": "1 Pc Baby Amo",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "63636",
+    "name": "Combo 1 Amo Baby Flying Chicken",
+    "description": "1 Flying Chicken (Non Spicy) + 1 Rice + 1 Small Drink + Cheese Sauce + Dvd Amo Baby + 1 Perkedel/Cheesy Cream Soup",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "63636",
+    "name": "Combo 1 Amo Baby Rich Chicken",
+    "description": "1 Richicken + 1 Rice + 1 Small Drink + Cheese Sauce + Dvd Amo Baby + 1 Perkedel/Cheesy Cream Soup",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "95455",
+    "name": "Combo 2 Amo Baby Fire Chicken",
+    "description": "2 Fire Chicken (Level 0) + 2 Rice + 2 Small Drink + Cheese Sauce + Dvd Amo Baby",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "90909",
+    "name": "Combo 2 Amo Baby Flying Chicken",
+    "description": "2 Flying Chicken (Non Spicy ) + 2 Rice + 2 Small Drink + Cheese Sauce + Dvd Amo Baby",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "90909",
+    "name": "Combo 2 Amo Baby Rich Chicken",
+    "description": "2 Richicken + 2 Rice + 2 Small Drink + Cheese Sauce + Dvd Amo Baby",
+    "section": "combo amo baby"
+  },
+  {
+    "price": "46364",
+    "name": "Combo Amo - 1 Fire Chicken",
+    "description": "1 Fire Chicken + 1 Nasi + 1 Amo Spark + Cheese Sauce",
+    "section": "combo amo"
+  },
+  {
+    "price": "47273",
+    "name": "Combo Amo - 4 Fire Wings",
+    "description": "4 Fire Wings + 1 Nasi + 1 Amo Spark + Cheese Sauce",
+    "section": "combo amo"
+  },
+  {
+    "price": "61818",
+    "name": "Combo Amo - Fire Drum Stick",
+    "description": "2 Fire Drum Stick + 1 Rice + 1 Tamarind + Cheese Sauce",
+    "section": "combo amo"
+  },
+  {
+    "price": "65455",
+    "name": "Combo Amo Duo Fire Chicken",
+    "description": "2 Fire Chicken + 1 Nasi + 1 Amo Spark + Cheese Sauce",
+    "section": "combo amo"
+  },
+  {
+    "price": "49091",
+    "name": "Combo Cheese Crackling Amo",
+    "description": "1 Fire Chicken + 1 Nasi + 1 Amo Spark + Cheese Crackling + Cheese Sauce",
+    "section": "combo amo"
+  },
+  {
+    "price": "3182",
+    "name": "Richeese Mi Instan - Richicken",
+    "description": "1 Richeese Mistan Fried Richicken (Lev 3)",
+    "section": "richeese mi instan"
+  },
+  {
+    "price": "3182",
+    "name": "Richeese Mi Instan (Lev 0-3)",
+    "description": "1 Riche Noodle Instian (Lev 0-3)",
+    "section": "richeese mi instan"
+  },
+  {
+    "price": "3182",
+    "name": "Instant Noodle Nabati - Soto Mi Flavor",
+    "description": "1 Tripe Of Mi Estan Soto Flavor",
+    "section": "richeese mi instan"
+  },
+  {
+    "price": "3636",
+    "name": "Richeese Mi Instan (Lev 5)",
+    "description": "1 Riche Noodle Instian (Lev 5)",
+    "section": "richeese mi instan"
+  }
+]

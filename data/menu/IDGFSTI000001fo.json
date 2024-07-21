@@ -1,0 +1,482 @@
+[
+  {
+    "price": "160000",
+    "name": "1/2 Komplit 1/2 Keju",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "175000",
+    "name": "Peanut Cheese Chocolate",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "195000",
+    "name": "Keju Coklat Mede",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "205000",
+    "name": "Keju Coklat Almond",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "165000",
+    "name": "Cheese",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "180000",
+    "name": "Keju Coklat",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "170000",
+    "name": "Raisins Cheese",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "170000",
+    "name": "Coklat Kacang",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "145000",
+    "name": "Coklat",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "145000",
+    "name": "Kacang",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "150000",
+    "name": "1/2Cok Kacang 1/2 Keju",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "250000",
+    "name": "1/2 Tob 1/2 Keju",
+    "description": "",
+    "section": "martabak klasik"
+  },
+  {
+    "price": "175000",
+    "name": "1/2 Ovo Keju",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "170000",
+    "name": "1/2 Ovomaltine",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "155000",
+    "name": "1/2 Nut Keju",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "145000",
+    "name": "1/2 Nutella",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "110000",
+    "name": "1/2 Kacang",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "110000",
+    "name": "1/2 Coklat",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "120000",
+    "name": "1/2 Coklat Kacang",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "110000",
+    "name": "1/2 Keju Kismis",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "140000",
+    "name": "1/2 Keju Coklat",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "130000",
+    "name": "1/2 Cheese",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "175000",
+    "name": "1/2 Chocolate Cheese Alamond",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "145000",
+    "name": "1/2 Keju Coklat Kacang",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "190000",
+    "name": "1/2 Tob Keju",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "145000",
+    "name": "1/2 Keju Coklat Mede",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "180000",
+    "name": "1/2 Toblerone",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "135000",
+    "name": "1/2 Lotus Biscoff",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "125000",
+    "name": "1/2 Durian",
+    "description": "",
+    "section": "martabak klasik reguler - 1/2 porsi"
+  },
+  {
+    "price": "140000",
+    "name": "Ayam",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "150000",
+    "name": "Ayam Jamur",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "145000",
+    "name": "Sapi",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "155000",
+    "name": "Sapi Jamur",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "150000",
+    "name": "Kornet",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "150000",
+    "name": "Tuna",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "135000",
+    "name": "Jamur",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "125000",
+    "name": "Plain Egg",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "180000",
+    "name": "Ayam Mozarella",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "195000",
+    "name": "Sapi Mozarella",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "230000",
+    "name": "Sapi Mozarella Special",
+    "description": "",
+    "section": "folded omelette"
+  },
+  {
+    "price": "130000",
+    "name": "Tipis Keju Coklat Kacang",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "130000",
+    "name": "Tipis Keju Coklat",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "110000",
+    "name": "Tipis Keju",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "110000",
+    "name": "Tipis Coklat Kacang",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "130000",
+    "name": "Tipis Nutella",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "140000",
+    "name": "Thin Ovomaltine",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "130000",
+    "name": "Tipis Toblerone",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "130000",
+    "name": "Tipis Lotus Biscoff",
+    "description": "",
+    "section": "martabak tipis"
+  },
+  {
+    "price": "80000",
+    "name": "Chocolate Folded Omelette",
+    "description": "",
+    "section": "martips box"
+  },
+  {
+    "price": "80000",
+    "name": "Martiks With Peanut Butter",
+    "description": "",
+    "section": "martips box"
+  },
+  {
+    "price": "80000",
+    "name": "Folded Omelette",
+    "description": "",
+    "section": "martips box"
+  },
+  {
+    "price": "80000",
+    "name": "Martiks Chocolate Peanuts",
+    "description": "",
+    "section": "martips box"
+  },
+  {
+    "price": "180000",
+    "name": "Nutella",
+    "description": "",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "200000",
+    "name": "Nut Keju",
+    "description": "",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "170000",
+    "name": "1/2 Nut 1/2 Keju",
+    "description": "",
+    "section": "martabak nutella"
+  },
+  {
+    "price": "195000",
+    "name": "Ovomaltine",
+    "description": "",
+    "section": "martabak ovomaltine"
+  },
+  {
+    "price": "210000",
+    "name": "Cheese Ovo",
+    "description": "",
+    "section": "martabak ovomaltine"
+  },
+  {
+    "price": "180000",
+    "name": "1/2 Ovo 1/2 Keju",
+    "description": "",
+    "section": "martabak ovomaltine"
+  },
+  {
+    "price": "170000",
+    "name": "Jagung Keju",
+    "description": "",
+    "section": "martabak jagung"
+  },
+  {
+    "price": "210000",
+    "name": "Jagung Keju Special",
+    "description": "",
+    "section": "martabak jagung"
+  },
+  {
+    "price": "140000",
+    "name": "1/2 Jagung Keju",
+    "description": "",
+    "section": "martabak jagung"
+  },
+  {
+    "price": "180000",
+    "name": "1/2 Jagung Keju Special",
+    "description": "",
+    "section": "martabak jagung"
+  },
+  {
+    "price": "310000",
+    "name": "Regular Promo 1",
+    "description": "Sweet Martabak 1/2 Chocolate Beans And Chicken Egg Martabak",
+    "section": "promo akrab"
+  },
+  {
+    "price": "315000",
+    "name": "Regular Promo 2",
+    "description": "Sweet Martabak 1/2 Peanut Chocolate 1/2 Cheese And Beef Egg Martabak",
+    "section": "promo akrab"
+  },
+  {
+    "price": "585000",
+    "name": "Regular Promo 3",
+    "description": "Sweet Martabak 1/2 Peanut Chocolate 1/2 Cheese, Thin Martabak And 2 Egg Martabak",
+    "section": "promo akrab"
+  },
+  {
+    "price": "165000",
+    "name": "1/2 Kitkat Keju",
+    "description": "",
+    "section": "martabak kitkat (new menu)"
+  },
+  {
+    "price": "205000",
+    "name": "Martabak Kitkat Keju",
+    "description": "",
+    "section": "martabak kitkat (new menu)"
+  },
+  {
+    "price": "170000",
+    "name": "Martabak 1/2 Kitkat 1/2 Keju",
+    "description": "",
+    "section": "martabak kitkat (new menu)"
+  },
+  {
+    "price": "180000",
+    "name": "Martabak Kitkat",
+    "description": "",
+    "section": "martabak kitkat (new menu)"
+  },
+  {
+    "price": "155000",
+    "name": "1/2 Martabak Kitkat",
+    "description": "",
+    "section": "martabak kitkat (new menu)"
+  },
+  {
+    "price": "135000",
+    "name": "1/2 Martabak Tiramisu",
+    "description": "",
+    "section": "martabak tiramisu"
+  },
+  {
+    "price": "180000",
+    "name": "Martabak Tiramisu (Large)",
+    "description": "",
+    "section": "martabak tiramisu"
+  },
+  {
+    "price": "300000",
+    "name": "Kombinasi 8 Rasa",
+    "description": "",
+    "section": "martabak kombinasi"
+  },
+  {
+    "price": "260000",
+    "name": "Kombinasi 6 Rasa",
+    "description": "",
+    "section": "martabak kombinasi"
+  },
+  {
+    "price": "180000",
+    "name": "Lotus Biscoff",
+    "description": "",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "170000",
+    "name": "1/2 Lotus Biscoff 1/2 Keju",
+    "description": "",
+    "section": "martabak lotus biscoff"
+  },
+  {
+    "price": "240000",
+    "name": "Toblerone",
+    "description": "",
+    "section": "martabak toblerone"
+  },
+  {
+    "price": "255000",
+    "name": "Tob Keju",
+    "description": "",
+    "section": "martabak toblerone"
+  },
+  {
+    "price": "180000",
+    "name": "Durian",
+    "description": "",
+    "section": "martabak durian"
+  },
+  {
+    "price": "220000",
+    "name": "Durian Special",
+    "description": "",
+    "section": "martabak durian"
+  }
+]

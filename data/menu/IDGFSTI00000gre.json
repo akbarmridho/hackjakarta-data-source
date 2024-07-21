@@ -1,0 +1,519 @@
+[
+  {
+    "price": "42727",
+    "name": "Paket Super Komplit 1",
+    "description": "Smashed Chicken Completed With White Rice Combined With Bohay / Carca/ Shrimp Paste Level 1-5 Plus Fried Intestines And Jumbo Sweet Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "53182",
+    "name": "Paket Super Komplit 2",
+    "description": "Smashed Chicken With More Portions With White Rice With Bohay Sambal / Karca / Shrimp Paste Level 1-5 Plus Fried Intestines And Jumbo Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "56818",
+    "name": "Paket Super Komplit 3",
+    "description": "Smashed Chicken, Eggs And Melted Mozzarella Cheese With White Rice With Bohay Sambal / Karca / Spicy Level 1-5 Plus Fried Intestines And Jumbo Sweet",
+    "section": "today's offer"
+  },
+  {
+    "price": "33636",
+    "name": "Paket Kenyang",
+    "description": "Smashed Sambal Bohay/Karca/Shrimp Paste + Indomie Guaranteed To Make You Full Day",
+    "section": "today's offer"
+  },
+  {
+    "price": "34545",
+    "name": "Paket Kenyang Matah",
+    "description": "Smashed Sambal Matah Package + Indomie Guaranteed To Make You Full Day",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Duo Hemat 1",
+    "description": "Paket Duo Hemat 1 For 2 Portions (Rice, Smashed Chicken Mix Egg + Bohay/Karca Paste + Cucumber)",
+    "section": "today's offer"
+  },
+  {
+    "price": "53182",
+    "name": "Paket Duo Hemat 2",
+    "description": "Paket Duo Hemat 2 For 2 Portions (Rice, Smashed Chicken Mix Egg + Mozzarella Cheese + Bohay/Karca/Shrimp Paste + Cucumber)",
+    "section": "today's offer"
+  },
+  {
+    "price": "32273",
+    "name": "Paket Geprek Bakar",
+    "description": "Grilled Smashed Package With Chicken Ketoprab Sauce, Served In Two Choices: Original/Spicy. The Sensation Of Smokey Sauce Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "44091",
+    "name": "Paket Geprek Jumbo Bakar",
+    "description": "Smashed Package Of Jumbo Breast/Tepong Grilled With Special Grilled Chicken Kepabon Sauce, Served In Two Choices: Original/Spicy. The Sensation Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "46364",
+    "name": "Paket Geprek Blenger Bakar",
+    "description": "Smashed Package With Egg Topping Mozzarella Cheese Grilled With Special Basilok Chicken Sauce, Served In Two Choices: Original/Spicy. The Sensation Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "33182",
+    "name": "Paket Indomie Geprek Bakar",
+    "description": "Indomie Smashed Package Grilled With Special Kepprabon Chicken Sauce, Served In Two Choices: Original/Spicy. The Sensation Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Indomie Geprek Jumbo Bakar",
+    "description": "Smashed Indomie Smashed Breast/Tepong Package Grilled With Special Grilled Chicken Keprabon, Served In Two Choices: Original/Spicy. The Sensation Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "46364",
+    "name": "Paket Indomie Geprek Blenger Bakar",
+    "description": "Smashed Indomie Smashed Package That Is Topped With Eggs Mozzarella Cheese And Grilled With The Special Keppraon Sauce, Served In Two Choices: Smoked Meatballs. Makes You Addicted!",
+    "section": "new menu paket geprek bakar"
+  },
+  {
+    "price": "27727",
+    "name": "Paket Geprek",
+    "description": "White Rice + Smashed Chicken + Lalapan + Choice Of Bohay Sambal (Onion)/Karca Sambal (Curry Rica)/Shrimp Paste With Spicy Level: Original (Separated Sambal), Level 1-5 (1 Level=4 Chilies)",
+    "section": "paket geprek"
+  },
+  {
+    "price": "39545",
+    "name": "Paket Geprek Jumbo",
+    "description": "White Rice+Jumbo Smashed Breast/Tepong Chicken+Lalapan+Choice Of Bohay Sambal (Onion)/ Karca Sambal (Kari Rica)/ Shrimp Paste With Spicy Level: Original(Sambal Separate), Level 1-5 (1 Level=4 Chilies)",
+    "section": "paket geprek"
+  },
+  {
+    "price": "41818",
+    "name": "Paket Geprek Blenger",
+    "description": "White Rice + Smashed Chicken + Egg + Mozzarella Cheese + Lalapan + Choice Of Bohay Sambal (Onion) Karca Sambal (Kari Rica)/ Shrimp Paste With Spicy Level: Original (Separate Chili), Level 1-5 (1 Level = 4 Chilies)",
+    "section": "paket geprek"
+  },
+  {
+    "price": "32273",
+    "name": "Paket Geprek Matah",
+    "description": "White Rice + Smashed Chicken + Matah Sambal With No Level Can Only Choose Separated Or Mixed Sambal + Lalapan",
+    "section": "paket geprek"
+  },
+  {
+    "price": "44091",
+    "name": "Paket Geprek Jumbo Matah",
+    "description": "White Rice + Smashed Chicken Jumbo Breast/Tepong + Matah Sambal Not Level Can Only Choose Separated Or Mixed Sambal + Lalapan",
+    "section": "paket geprek"
+  },
+  {
+    "price": "46364",
+    "name": "Paket Geprek Blenger Matah",
+    "description": "White Rice + Smashed Chicken + Egg + Mozzarella Cheese + Lalapan + Matah Sambal Not Level Can Only Choose Separated Or Mixed Sambal",
+    "section": "paket geprek"
+  },
+  {
+    "price": "29091",
+    "name": "Paket Indomie Geprek",
+    "description": "Indofried Noodle + Smashed Chicken + Lalapan + Choice Of Bohay Sambal (Onion)/Karca Sambal (Curry Rica)/Shrimp Paste With Spicy Level: Original (Separated Sambal), Level 1-5 (1 Level=4 Chilies)",
+    "section": "paket indomie"
+  },
+  {
+    "price": "41364",
+    "name": "Paket Indomie Geprek Jumbo",
+    "description": "Indofried Noodle + Jumbo Breast Smashed Chicken + Lalapan + Choice Of Bohay Sambal (Onion)/Karca Sambal (Kari Rica)/ Shrimp Paste With Spicy Level: Original (Separate Chili), Level 1-5 (1 Level=4 Chilies)",
+    "section": "paket indomie"
+  },
+  {
+    "price": "42273",
+    "name": "Paket Indomie Geprek Blenger",
+    "description": "Indomi Goreng + Smashed Chicken + Egg + Mozzarella Cheese + Lalapan + Choice Of Bohay Sambal (Onion) / Karca Sambal (Kari Rica) / Shrimp Paste With Spicy Level: Original (Separate Chili), Level 1-5 (1 Level = 4 Chilies)",
+    "section": "paket indomie"
+  },
+  {
+    "price": "33182",
+    "name": "Paket Indomie Geprek Matah",
+    "description": "Indofried Noodle + Smashed Chicken + Lalapan + Matah Sambal Not Leveled Only There Is A Choice Of Mixed Or Separated",
+    "section": "paket indomie"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Indomie Geprek Jumbo Matah",
+    "description": "Indofried Noodle + Jumbo Smashed Chicken Breast/Tepong + Matah Sambal Not Leveled Only There Is A Choice Of Mixed Sambal Or Separated",
+    "section": "paket indomie"
+  },
+  {
+    "price": "46364",
+    "name": "Paket Indomie Geprek Blenger Matah",
+    "description": "Indomi Goreng + Smashed Chicken + Egg + Mozzarella Cheese + Lalapan + Matah Sambal There Are Only An Option Of Sambal Or Separated",
+    "section": "paket indomie"
+  },
+  {
+    "price": "33636",
+    "name": "Sushi Geprek",
+    "description": "The First Smashed Sushi Is Indonesian With A Distinctive Delicious And Delicious Madurabon Chicken Taste, Served In Two Choices: Original Or Spicy",
+    "section": "sushi geprek"
+  },
+  {
+    "price": "42727",
+    "name": "Sumo (Sushi Geprek Mozzarella)",
+    "description": "The First Smashed Sushi Combined With Mozzarella Cheese With A Distinctive Taste Of Random And Delicious Kepabon, Served In Two Choices: Original Or One Pack Of Spicy. Contains 8 Pcs",
+    "section": "sushi geprek"
+  },
+  {
+    "price": "36818",
+    "name": "Sushi Gemes",
+    "description": "The First Smashed Crunchy Bits Sushi Is Served With A Distinctive Taste Of Unique And Delicious Madurabon Chicken Curry Plus A Sprinkling Of Original Chicken, Served In Two Choices: Original Spicy Or Spicy",
+    "section": "sushi geprek"
+  },
+  {
+    "price": "46818",
+    "name": "Shimesra (Sushi Gemes Mozarella)",
+    "description": "The First Smashed Sushi Smashed Crunchy Bits Combined With Original Mozzarella Cheese With A Distinctive Taste Of Super Spicy And Delicious Kepabon Flavors Plus A Sprinkling Of Crunchy Chicken Crunchy Bits, Served In A 8Pcs Of Spiciness.",
+    "section": "sushi geprek"
+  },
+  {
+    "price": "42727",
+    "name": "Paket Super Komplit 1",
+    "description": "Smashed Chicken Completed With White Rice Combined With Bohay / Carca/ Shrimp Paste Level 1-5 Plus Fried Intestines And Jumbo Sweet Iced Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "53182",
+    "name": "Paket Super Komplit 2",
+    "description": "Smashed Chicken With More Portions With White Rice With Bohay Sambal / Karca / Shrimp Paste Level 1-5 Plus Fried Intestines And Jumbo Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "56818",
+    "name": "Paket Super Komplit 3",
+    "description": "Smashed Chicken, Eggs And Melted Mozzarella Cheese With White Rice With Bohay Sambal / Karca / Spicy Level 1-5 Plus Fried Intestines And Jumbo Sweet",
+    "section": "paket hemat"
+  },
+  {
+    "price": "33636",
+    "name": "Paket Kenyang",
+    "description": "Smashed Sambal Bohay/Karca/Shrimp Paste + Indomie Guaranteed To Make You Full Day",
+    "section": "paket hemat"
+  },
+  {
+    "price": "34545",
+    "name": "Paket Kenyang Matah",
+    "description": "Smashed Sambal Matah Package + Indomie Guaranteed To Make You Full Day",
+    "section": "paket hemat"
+  },
+  {
+    "price": "20909",
+    "name": "Paket Irit",
+    "description": "The Combination Of Savory Savory Omelets Chicken Breast Completed With Warm White Rice And Tempeh As Well As Spicy Bohay Sambal (Milk. Level 1) Paired Completed With Warm White Rice",
+    "section": "paket hemat"
+  },
+  {
+    "price": "45000",
+    "name": "Paket Duo Hemat 1",
+    "description": "Paket Duo Hemat 1 For 2 Portions (Rice, Smashed Chicken Mix Egg + Bohay/Karca Paste + Cucumber)",
+    "section": "paket hemat"
+  },
+  {
+    "price": "53182",
+    "name": "Paket Duo Hemat 2",
+    "description": "Paket Duo Hemat 2 For 2 Portions (Rice, Smashed Chicken Mix Egg + Mozzarella Cheese + Bohay/Karca/Shrimp Paste + Cucumber)",
+    "section": "paket hemat"
+  },
+  {
+    "price": "40909",
+    "name": "Keprabon Kids 1",
+    "description": "Smashed Package + Scramble Egg + Milo",
+    "section": "keprabon kids"
+  },
+  {
+    "price": "56364",
+    "name": "Keprabon Kids 2",
+    "description": "Smashed Package Blenger + Scramble Egg + Milo",
+    "section": "keprabon kids"
+  },
+  {
+    "price": "30909",
+    "name": "Paket Ayam Mrotol",
+    "description": "Shredded Chicken And Chicken Skin Fried Dry With Spices And Special Spices Of Kepabon Chicken + Rice + Tempeh + Tofu + Chili Sauce",
+    "section": "other packages menu"
+  },
+  {
+    "price": "31818",
+    "name": "Penyet Meatball Package",
+    "description": "Smashed Meatballs Filled With 4 Pcs Of The Best Quality Beef Meatballs Pounded/Smashed With White Rice + Sambal + Lalapan",
+    "section": "other packages menu"
+  },
+  {
+    "price": "28636",
+    "name": "Matching Chicken Package",
+    "description": "Package Of Crunchy Chicken With Special Shrimp Paste Chicken Kepabon. Add A New Sensation Of Chicken Meals",
+    "section": "other packages menu"
+  },
+  {
+    "price": "39091",
+    "name": "Jumbo Matching Chicken Package",
+    "description": "Jumbo Crunchy Chicken Package With Special Keprabon Chicken Shrimp Paste. Adds A New Sensation Of Eating Chicken",
+    "section": "other packages menu"
+  },
+  {
+    "price": "39091",
+    "name": "Phk 1",
+    "description": "1 Portion Of Smashed Chicken + White Rice + Lalapan + Choice Of Bohay Sambal (Onion)/Karca (Curry Rica)/Shrimp Paste With Spicy Level: Original (Separated Sambal), Level 1-5 (1 Level=4 Chilies)",
+    "section": "phk"
+  },
+  {
+    "price": "50909",
+    "name": "Phk 2",
+    "description": "1 Portion Of Smashed Chicken Jumbo Breast/Tepong+White Rice+Lalapan+Choice Of Bohay Sambal (Onion)/Karca (Kari Rica)/Shrimp Paste With Spicy Level: Original(Sambal Separate), Level 1-5 (1 Level=4 Chilies)",
+    "section": "phk"
+  },
+  {
+    "price": "53182",
+    "name": "Phk 3",
+    "description": "1 Portion Of Smashed Chicken + White Rice + Egg + Mozzarella Cheese + Lalapan + Choice Of Bohay Sambal (Onion) /Karca (Kari Rica) / With Spicy Level: Original (Separate Chili), Level 1-5 (1 Level = 4 Chilies)",
+    "section": "phk"
+  },
+  {
+    "price": "42273",
+    "name": "Phk 1 Matah",
+    "description": "1 Portion Of Smashed Chicken + White Rice + Matah Sambal Not Level Can Only Choose Separated Or Mixed Sambal + Lalapan Plus Thai Tea Or Green Tea",
+    "section": "phk"
+  },
+  {
+    "price": "51818",
+    "name": "Phk 2 Matah",
+    "description": "1 Portion Of Smashed Chicken Jumbo Breast/Tepong + White Rice + Matah Sambal Not Level Can Only Choose Separated Or Mixed Sambal + Lalapan Plus Lalapan Or Green Tea",
+    "section": "phk"
+  },
+  {
+    "price": "56364",
+    "name": "Phk 3 Matah",
+    "description": "1 Portion Of Smashed Chicken + White Rice + Egg + Mozzarella Cheese + Matah Sambal Not Level Can Only Choose Separated Or Mixed Thai Tea Or Green",
+    "section": "phk"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Egg",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Fried Egg",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Tempe",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Sambal Bohay",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Sambal Karca",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "8636",
+    "name": "Extra Sambal Matah",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Shrimp Paste Chili Sauce",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "8636",
+    "name": "Extra Rice",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Grated Cheese",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "14545",
+    "name": "Pebble Rice",
+    "description": "A Blend Of White Rice With Original Chicken Crunchy Bits",
+    "section": "extra"
+  },
+  {
+    "price": "17273",
+    "name": "Extra Double Mozarella",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "15455",
+    "name": "Usus Goreng",
+    "description": "Fried Intestines From Kepabon Chicken. The Crispy Makes You Addicted Even More Delicious!",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Kremes",
+    "description": "Crunchy Bits Made From Real Chicken Broth Guaranteed To Make The Savory Addictive",
+    "section": "extra"
+  },
+  {
+    "price": "8182",
+    "name": "Gravel",
+    "description": "Crunchy Chicken With The First Spicy Level, Suitable For Eating Dining. Delicious, Crispy, And Nutritious With 3 Flavors Choices: Original, Spicy, Savory : 20 Gram.",
+    "section": "extra"
+  },
+  {
+    "price": "3182",
+    "name": "Ronalda Crackers",
+    "description": "Shrimp Crackers Made Of Selected Ingredients. Delicious, Savory And Crunchy, Suitable For Your Friends In The Freezer.",
+    "section": "extra"
+  },
+  {
+    "price": "10455",
+    "name": "Extra Mozarella Cheese",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Tofu",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Mix Tofu Tempeh",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "8182",
+    "name": "Extra Kol Goreng",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "9545",
+    "name": "Extra Toping Pete",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "33182",
+    "name": "Krikil Jumbo",
+    "description": "Crunchy Bits With The First Spicy Level Indonesian Style With Jumbo Size, Suitable For Eating Friends In The Mouth. Tasty, Crispy, And Nutritious With 3 Flavors: Spicy, Spicy And Spicy Nesto: 100 Grams",
+    "section": "extra"
+  },
+  {
+    "price": "17727",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "17727",
+    "name": "Green Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11364",
+    "name": "Teh Manis Jumbo",
+    "description": "Special Original Quality Formula Of Chicken Kepabon Served With Jumbo Size Cold / Hot Which Is Guaranteed To Spoil Your Thirst",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Tawar Jumbo",
+    "description": "Special Original Quality Formula Of Chicken Kepabon Served With Jumbo Size Cold / Hot Which Is Guaranteed To Spoil Your Thirst",
+    "section": "minuman"
+  },
+  {
+    "price": "6818",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7727",
+    "name": "Teh Manis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7727",
+    "name": "Mineral Water",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9091",
+    "name": "Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9091",
+    "name": "Capuccino",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12273",
+    "name": "Village Flower Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  { "price": "12273", "name": "Milo", "description": "", "section": "minuman" },
+  {
+    "price": "14091",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "14091",
+    "name": "Mango Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "14091",
+    "name": "Ice Miloreo",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6364",
+    "name": "Pudding Mangga",
+    "description": "Sweet And Fresh Pudding Softly Suitable For Your Dessert Dish. Soft Down To The Liver!",
+    "section": "dessert"
+  },
+  {
+    "price": "26818",
+    "name": "Traktir Drivermu: Paket Irit + Sweet Ice Tea",
+    "description": "This Food Will Be Provided To Drivers And Cannot Be Sprinkled With Customers. Maximum 1 Package Per Order.",
+    "section": "treat your driver #onekindnesseveryday"
+  },
+  {
+    "price": "108182",
+    "name": "Boneka Abon",
+    "description": "",
+    "section": "merchandise ayam keprabon"
+  }
+]

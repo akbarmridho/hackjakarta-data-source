@@ -1,0 +1,20 @@
+[
+  {
+    "price": "55000",
+    "name": "Mon Deli Mentai Torched",
+    "description": "Sushi Rice With Flared Salmon And Mentai Sauce, Kani, Wakame, Edmame, Tobiko",
+    "section": "poke bowls"
+  },
+  {
+    "price": "51000",
+    "name": "Mon Deli Sashimi",
+    "description": "Sushi Rice With Salmon Sashimi, Kani, Wakame, Edamame, Tobiko",
+    "section": "poke bowls"
+  },
+  {
+    "price": "51000",
+    "name": "Mon Deli Torched",
+    "description": "Sushi Rice With Flame Seared Salmon, Kani, Wakame, Edamame, Tobiko",
+    "section": "poke bowls"
+  }
+]

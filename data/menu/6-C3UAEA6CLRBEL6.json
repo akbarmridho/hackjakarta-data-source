@@ -1,0 +1,260 @@
+[
+  {
+    "price": "17845",
+    "name": "Nasi Rakyat RPP",
+    "description": "Steam Rice with Special Rendang Padang Pedes Sauce and Omelet",
+    "section": "new menu!!! rendang padang pedas (rpp)"
+  },
+  {
+    "price": "28178",
+    "name": "Geprek RPP",
+    "description": "Geprekan Mertua dengan Saus Rendang Padang Pedes Spesial",
+    "section": "new menu!!! rendang padang pedas (rpp)"
+  },
+  {
+    "price": "25000",
+    "name": "Original Geprek Chicken",
+    "description": "Rice, Lalapan, Boneless Smashed Chicken, Spicy Special Sambal And Nylekit Like Tongue-In-Law",
+    "section": "geprek menu"
+  },
+  {
+    "price": "27000",
+    "name": "Geprek Chicken Kecombrang",
+    "description": "Rice, Vegetable Lalapan, Boneless Kecombrang Smashed Chicken, Spicy And Soybeans Like Tongue-In-Law",
+    "section": "geprek menu"
+  },
+  {
+    "price": "35000",
+    "name": "Geprek Chicken Mozzarella",
+    "description": "Rice, Vegetable Lalapan, Mozzarella Smashed Chicken, Spicy Special Sambal And Nylekit Like Tongue-In-Law",
+    "section": "geprek menu"
+  },
+  {
+    "price": "25000",
+    "name": "Geprekan Mertua Sambal Ijo",
+    "description": "Nasi, lalapan sayur, ayam geprek, sambal ijo spesial yang pedas dan nyelekit seperti lidah mertua",
+    "section": "geprek menu"
+  },
+  {
+    "price": "31500",
+    "name": "2 Favorite Bundles",
+    "description": "Rice + Smashed Chicken + Special Sambal + Crispy Eggs And Vegetable Lalapan",
+    "section": "favourite menu"
+  },
+  {
+    "price": "30000",
+    "name": "Favorite Indonesian Style 1",
+    "description": "Rice + Smashed Chicken + Special Sambal + Tofu + Tempeh And Lalapan",
+    "section": "favourite menu"
+  },
+  {
+    "price": "34000",
+    "name": "Favorite Indonesian Style 3",
+    "description": "Rice + Smashed Chicken + Special Sambal + Crispy Egg + Tofu Or Tempeh And Vegetable Lalapan",
+    "section": "favourite menu"
+  },
+  {
+    "price": "33000",
+    "name": "Geprek Tongue X Gulo",
+    "description": "1 Smashed-In-Law + 1 Gulo Drink",
+    "section": "menu with spicy sprinkles"
+  },
+  {
+    "price": "117000",
+    "name": "3 Noodles",
+    "description": "3 Smashed-In-Law + 3 Drinks",
+    "section": "akak package - mantu"
+  },
+  {
+    "price": "156000",
+    "name": "4Pcs",
+    "description": "4 Smashed-In-Law + 4 Drinks",
+    "section": "akak package - mantu"
+  },
+  {
+    "price": "136500",
+    "name": "3 Pcs",
+    "description": "3 Favorite Parents-In-Law + 3 Drinks",
+    "section": "akak package - mantu"
+  },
+  {
+    "price": "182000",
+    "name": "4 Pcs",
+    "description": "4 Favorite-In-Law + 4 Drinks",
+    "section": "akak package - mantu"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Tamarid (Sam Javan)",
+    "description": "Javanese Sour Flavored Drink That Refreshs Your Heart",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Lemonmun (Lemonade)",
+    "description": "Anise Of Lemon Refreshing Drink",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Oplos Lemon Tea (Lemon Tea)",
+    "description": "Drinks Of Tea Lemon Refreshing Jiwa",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Teh Oplos Sereh (Lemongrass Tea)",
+    "description": "Freshly Refreshed Lemongrass Tea",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "6500",
+    "name": "Gulo - Teh Oplos Tawar (Es Teh Tawar)",
+    "description": "Plain Ice Tea With Authentic Local Flavor",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "8500",
+    "name": "Gulo - Teh Oplos Original (Es Teh Manis)",
+    "description": "Sweet Ice Tea With Refreshing Local Flavor",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Oplos Mango Tea (Mango Tea)",
+    "description": "",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Oplos Flavor Periaw (Peach Flavor Tea)",
+    "description": "",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "6500",
+    "name": "Medium Pucuk Tea",
+    "description": "",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "6500",
+    "name": "Aqua",
+    "description": "",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "12000",
+    "name": "Gulo - Teh Oplos Leci (Lychee Tea)",
+    "description": "",
+    "section": "glam x gulo"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "",
+    "section": "extra menu"
+  },
+  {
+    "price": "8000",
+    "name": "Crispy Egg",
+    "description": "Unit",
+    "section": "extra menu"
+  },
+  {
+    "price": "3500",
+    "name": "Tofu",
+    "description": "",
+    "section": "extra menu"
+  },
+  {
+    "price": "3500",
+    "name": "Tempes",
+    "description": "",
+    "section": "extra menu"
+  },
+  {
+    "price": "5000",
+    "name": "Fried Cabbage",
+    "description": "",
+    "section": "extra menu"
+  },
+  {
+    "price": "61000",
+    "name": "BnB Package: Beef Box Sambal Ijo Original x Gulo",
+    "description": "Beef Box Sambal Ijo Original + Gulo Drinks",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "76500",
+    "name": "BnB Package: Beef Box Sambal Ijo Premium Saikoro x Gulo",
+    "description": "Beef Box Sambal Ijo Premium Saikoro + Gulo Drinks",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "46000",
+    "name": "BnB Package: Wild Bites Sambal Ijo Fried Rice x Gulo",
+    "description": "Sambal Ijo Fried Rice + Gulo Drinks",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "54000",
+    "name": "Paket: Wild Bites Single Beef Box X Gulo",
+    "description": "1 Cassava Beef Box + 1 Gulo Drink",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "67500",
+    "name": "Paket: Wild Bites Single Premium Saikoro Box X Gulo",
+    "description": "1 Premium Saikoro Box + 1 Gulo Drink",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "59000",
+    "name": "Paket: Wild Bites Mixed Beef Box X Gulo",
+    "description": "1 Mixed Beef Box + 1 Gulo Drink",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "46000",
+    "name": "Paket: Wild Bites Chicken Box X Gulo",
+    "description": "1 Chicken + 1 Gulo Drinks",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "37000",
+    "name": "Paket: Wild Bites Fried Rice + Gulo",
+    "description": "1 Fried Rice + 1 Gulo Drinks",
+    "section": "glm x wild bites"
+  },
+  {
+    "price": "27000",
+    "name": "Pizza Box Smoked Beef",
+    "description": "Boxed Pizza With Smoked Beef And Mozzarella",
+    "section": "glm x pizza box"
+  },
+  {
+    "price": "26000",
+    "name": "Pizza Box",
+    "description": "Boxed Pizza With Beef Chunks And Mozzarella",
+    "section": "glm x pizza box"
+  },
+  {
+    "price": "25000",
+    "name": "Pizza Box Chicken",
+    "description": "Boxed Pizza With Chicken Chunks And Mozzarella",
+    "section": "glm x pizza box"
+  },
+  {
+    "price": "54000",
+    "name": "Pizza Box - Double Combo",
+    "description": "2 Pizza Box",
+    "section": "glm x pizza box"
+  },
+  {
+    "price": "81000",
+    "name": "Pizza Box - Triple Combo",
+    "description": "3 Pizza Box",
+    "section": "glm x pizza box"
+  }
+]

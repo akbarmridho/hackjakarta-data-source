@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "49900",
+    "name": "Sensation A (Nasi Goreng Dengan Ikan Asin, Siew Mai (R))",
+    "description": "Sensation A (Nasi Goreng Dengan Ikan Asin, Siew Mai (R))",
+    "section": "today's offer"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation B (Nasi Goreng Dengan Daging Sapi, Wan Ton Goreng (R))",
+    "description": "Sensation B (Nasi Goreng Dengan Daging Sapi, Wan Ton Goreng (R))",
+    "section": "today's offer"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation C (Nasi Goreng Ala Yang Chow, Fong Zau (R))",
+    "description": "Sensation C (Nasi Goreng Ala Yang Chow, Fong Zau (R))",
+    "section": "today's offer"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation D (Mie Goreng Telur, Cakwe Udang Mayonaise (R))",
+    "description": "Sensation D (Mie Goreng Telur, Cakwe Udang Mayonaise (R))",
+    "section": "today's offer"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation E (Kwetiaw Goreng Pedas Dengan Daging Ayam, Siew Mai (R))",
+    "description": "Sensation E (Kwetiaw Goreng Pedas Dengan Daging Ayam, Siew Mai (R))",
+    "section": "today's offer"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation A (Nasi Goreng Dengan Ikan Asin, Siew Mai (R))",
+    "description": "Sensation A (Nasi Goreng Dengan Ikan Asin, Siew Mai (R))",
+    "section": "special promo food"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation B (Nasi Goreng Dengan Daging Sapi, Wan Ton Goreng (R))",
+    "description": "Sensation B (Nasi Goreng Dengan Daging Sapi, Wan Ton Goreng (R))",
+    "section": "special promo food"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation C (Nasi Goreng Ala Yang Chow, Fong Zau (R))",
+    "description": "Sensation C (Nasi Goreng Ala Yang Chow, Fong Zau (R))",
+    "section": "special promo food"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation D (Mie Goreng Telur, Cakwe Udang Mayonaise (R))",
+    "description": "Sensation D (Mie Goreng Telur, Cakwe Udang Mayonaise (R))",
+    "section": "special promo food"
+  },
+  {
+    "price": "49900",
+    "name": "Sensation E (Kwetiaw Goreng Pedas Dengan Daging Ayam, Siew Mai (R))",
+    "description": "Sensation E (Kwetiaw Goreng Pedas Dengan Daging Ayam, Siew Mai (R))",
+    "section": "special promo food"
+  },
+  {
+    "price": "59900",
+    "name": "Strawberry Addict",
+    "description": "Strawberry Addict",
+    "section": "chef recommendation"
+  },
+  {
+    "price": "36900",
+    "name": "Ayam Dori Goreng",
+    "description": "Ayam Dori Goreng",
+    "section": "chef recommendation"
+  },
+  {
+    "price": "77900",
+    "name": "Nasi Goreng Udang dan Salmon",
+    "description": "Nasi Goreng Udang dan Salmon",
+    "section": "chef recommendation"
+  },
+  {
+    "price": "32900",
+    "name": "Roti Goreng Isi Pisang Cokelat Dengan Kacang Mede",
+    "description": "Roti Goreng Isi Pisang Cokelat Dengan Kacang Mede",
+    "section": "chef recommendation"
+  },
+  {
+    "price": "82900",
+    "name": "Ikan Dori Saus Leci",
+    "description": "Ikan Dori Saus Leci",
+    "section": "chef recommendation"
+  },
+  {
+    "price": "27900",
+    "name": "Ayam Goreng Isi Keju (S) (2 Pcs)",
+    "description": "Ayam Goreng Isi Keju (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "23900",
+    "name": "Bakpao Bebek Isi Ayam Dan Abon ( S ) (2 Pcs)",
+    "description": "Bakpao Bebek Isi Ayam Dan Abon ( S ) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "21900",
+    "name": "Bakpao Manggis Dengan Ayam Panggang Merah (S) (2 Pcs)",
+    "description": "Bakpao Manggis Dengan Ayam Panggang Merah (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "20900",
+    "name": "Bakpao Panda Isi Oreo (S) (2 Pcs)",
+    "description": "Bakpao Panda Isi Oreo (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "24900",
+    "name": "Bakpao Telur Asin (S) (2 Pcs)",
+    "description": "Bakpao Telur Asin (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "16900",
+    "name": "Bakpao Ulang Tahun (S) (2 Pcs)",
+    "description": "Bakpao Ulang Tahun (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "34900",
+    "name": "Cakwe Udang Mayonaise (S) (2 Pcs)",
+    "description": "Cakwe Udang Mayonaise (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "25900",
+    "name": "Gao Zi (S) (2 Pcs)",
+    "description": "Gao Zi (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "27900",
+    "name": "Imperial Ha Kau (S) (2 Pcs)",
+    "description": "Imperial Ha Kau (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "23900",
+    "name": "Lumpia Ayam Saus Tiram (S) (2 Pcs)",
+    "description": "Lumpia Ayam Saus Tiram (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "19900",
+    "name": "Lumpia Isi Ayam dan Jamur (S) (2 Pcs)",
+    "description": "Lumpia Isi Ayam dan Jamur (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "34900",
+    "name": "Lumpia Kulit Tahu Goreng Isi Udang (S) (2 Pcs)",
+    "description": "Lumpia Kulit Tahu Goreng Isi Udang (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "23900",
+    "name": "Mantou Panggang Dengan Irisan Daging Sapi (S) (2 Pcs)",
+    "description": "Mantou Panggang Dengan Irisan Daging Sapi (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "16900",
+    "name": "Mantou Goreng (S) (2 Pcs)",
+    "description": "Mantou Goreng (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "16900",
+    "name": "Mantou Kukus (S) (2 Pcs)",
+    "description": "Mantou Kukus (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "27900",
+    "name": "Siew Mai (S) (2 Pcs)",
+    "description": "Siew Mai (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "28900",
+    "name": "Siew Mai Rumput Laut (S) (2 Pcs)",
+    "description": "Siew Mai Rumput Laut (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "30900",
+    "name": "Siew Mai Udang (S) (2 Pcs)",
+    "description": "Siew Mai Udang (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "20900",
+    "name": "Tim Bakpao Isi Talas (S) (2 Pcs)",
+    "description": "Tim Bakpao Isi Talas (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "24900",
+    "name": "Tim Pangsit Udang dan Sayuran (S) (2 Pcs)",
+    "description": "Tim Pangsit Udang dan Sayuran (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "28900",
+    "name": "Tim Bakso Sapi (S) (2 Pcs)",
+    "description": "Tim Bakso Sapi (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "25900",
+    "name": "Tim Pangsit Udang Jamur (S) (2 Pcs)",
+    "description": "Tim Pangsit Udang Jamur (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "29900",
+    "name": "Tim Udang Jamur Shimeji (S) (2 Pcs)",
+    "description": "Tim Udang Jamur Shimeji (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "21900",
+    "name": "Wan Ton Goreng (S) (2 Pcs)",
+    "description": "Wan Ton Goreng (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "24900",
+    "name": "Xiao Long Bao Isi Ayam (S) (2 Pcs)",
+    "description": "Xiao Long Bao Isi Ayam (S) (2 Pcs)",
+    "section": "dimsum small"
+  },
+  {
+    "price": "37900",
+    "name": "Ayam Goreng Isi Keju (R) (3 Pcs)",
+    "description": "Ayam Goreng Isi Keju (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "32900",
+    "name": "Bakpao Bebek Isi Ayam Dan Abon ( R ) (3 Pcs)",
+    "description": "Bakpao Bebek Isi Ayam Dan Abon ( R ) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "30900",
+    "name": "Bakpao Manggis Dengan Ayam Panggang Merah (R) (3 Pcs)",
+    "description": "Bakpao Manggis Dengan Ayam Panggang Merah (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "29900",
+    "name": "Bakpao Panda Isi Oreo (R) (3 Pcs)",
+    "description": "Bakpao Panda Isi Oreo (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "33900",
+    "name": "Bakpao Telur Asin (R) (3 Pcs)",
+    "description": "Bakpao Telur Asin (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "24900",
+    "name": "Bakpao Ulang Tahun (R) (3 Pcs)",
+    "description": "Bakpao Ulang Tahun (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "49900",
+    "name": "Cakwe Udang Mayonaise (R) (3 Pcs)",
+    "description": "Cakwe Udang Mayonaise (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "34900",
+    "name": "Fong Zau (R)",
+    "description": "Fong Zau (R)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "34900",
+    "name": "Gao Zi (R) (3 Pcs)",
+    "description": "Gao Zi (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "38900",
+    "name": "Imperial Ha Kau (R) (3 Pcs)",
+    "description": "Imperial Ha Kau (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "32900",
+    "name": "Lumpia Ayam Saus Tiram (R) (3 Pcs)",
+    "description": "Lumpia Ayam Saus Tiram (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "33900",
+    "name": "Lumpia Isi Ayam dan Jamur (R) (4 Pcs)",
+    "description": "Lumpia Isi Ayam dan Jamur (R) (4 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "50900",
+    "name": "Lumpia Kulit Tahu Goreng Isi Udang (R) (3 Pcs)",
+    "description": "Lumpia Kulit Tahu Goreng Isi Udang (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "32900",
+    "name": "Mantau Panggang dengan Irisan Daging Sapi (R) (3 Pcs)",
+    "description": "Mantau Panggang dengan Irisan Daging Sapi (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "24900",
+    "name": "Mantou Goreng (R) (3 Pcs)",
+    "description": "Mantou Goreng (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "24900",
+    "name": "Mantou Kukus (R) (3 Pcs)",
+    "description": "Mantou Kukus (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "37900",
+    "name": "Siew Mai (R) (3 Pcs)",
+    "description": "Siew Mai (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "38900",
+    "name": "Siew Mai Rumput Laut (R) (3 Pcs)",
+    "description": "Siew Mai Rumput Laut (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "43900",
+    "name": "Siew Mai Udang (R) (3 Pcs)",
+    "description": "Siew Mai Udang (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "29900",
+    "name": "Tim Bakpao Isi Talas (R) (3 Pcs)",
+    "description": "Tim Bakpao Isi Talas (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "33900",
+    "name": "Tim Pangsit Udang dan Sayuran (R) (3 Pcs)",
+    "description": "Tim Pangsit Udang dan Sayuran (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "38900",
+    "name": "Tim Bakso Sapi (R) (3 Pcs)",
+    "description": "Tim Bakso Sapi (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "36900",
+    "name": "Tim Pangsit Udang Jamur (R) (3 Pcs)",
+    "description": "Tim Pangsit Udang Jamur (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "39900",
+    "name": "Tim Udang Jamur Shimeji (R) (3 Pcs)",
+    "description": "Tim Udang Jamur Shimeji (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "38900",
+    "name": "Wan Ton Goreng (R) (4 Pcs)",
+    "description": "Wan Ton Goreng (R) (4 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "37900",
+    "name": "Lumpia Ayam & Kepiting",
+    "description": "Lumpia Ayam & Kepiting",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "38900",
+    "name": "Tim pangsit Udang Dengan Soun Korea",
+    "description": "Tim pangsit Udang Dengan Soun Korea",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "33900",
+    "name": "Xiao Long Bao Isi Ayam (R) (3 Pcs)",
+    "description": "Xiao Long Bao Isi Ayam (R) (3 Pcs)",
+    "section": "dimsum reguler"
+  },
+  {
+    "price": "29900",
+    "name": "Mie Dengan Ayam Panggang Merah (Mini Bowl)",
+    "description": "Mie Dengan Ayam Panggang Merah (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "38900",
+    "name": "Mie Goreng Seafood XO (Mini Bowl)",
+    "description": "Mie Goreng Seafood XO (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "25900",
+    "name": "Mie Goreng Telur (Mini Bowl)",
+    "description": "Mie Goreng Telur (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "38900",
+    "name": "Kwetiaw Goreng Dengan Daging Sapi (Mini Bowl)",
+    "description": "Kwetiaw Goreng Dengan Daging Sapi (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "28900",
+    "name": "Kwetiaw Goreng Pedas Dengan Daging Ayam (Mini Bowl)",
+    "description": "Kwetiaw Goreng Pedas Dengan Daging Ayam (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "38900",
+    "name": "Kwetiaw Siram Sapi (Mini Bowl)",
+    "description": "Kwetiaw Siram Sapi (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "33900",
+    "name": "Nasi Goreng Ala Yang Chow (Mini Bowl)",
+    "description": "Nasi Goreng Ala Yang Chow (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "32900",
+    "name": "Nasi Goreng Dengan Daging Sapi (Mini Bowl)",
+    "description": "Nasi Goreng Dengan Daging Sapi (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "34900",
+    "name": "Nasi Goreng Hijau (Mini Bowl)",
+    "description": "Nasi Goreng Hijau (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "38900",
+    "name": "Nasi Goreng Kepiting (Mini Bowl)",
+    "description": "Nasi Goreng Kepiting (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "38900",
+    "name": "Nasi Goreng Seafood Saus XO (Mini Bowl)",
+    "description": "Nasi Goreng Seafood Saus XO (Mini Bowl)",
+    "section": "delivery bowl"
+  },
+  {
+    "price": "54900",
+    "name": "Buncis Goreng Telur Asin",
+    "description": "Buncis Goreng Telur Asin",
+    "section": "appetizer"
+  },
+  {
+    "price": "45900",
+    "name": "Jamur dan Tahu Goreng Lada Garam",
+    "description": "Jamur dan Tahu Goreng Lada Garam",
+    "section": "appetizer"
+  },
+  {
+    "price": "45900",
+    "name": "Jamur Enoki Goreng Lada Garam",
+    "description": "Jamur Enoki Goreng Lada Garam",
+    "section": "appetizer"
+  },
+  {
+    "price": "54900",
+    "name": "Sayap Ayam Goreng Dengan Bawang Putih",
+    "description": "Sayap Ayam Goreng Dengan Bawang Putih",
+    "section": "appetizer"
+  },
+  {
+    "price": "59900",
+    "name": "Tahu Goreng Dengan Telur Asin",
+    "description": "Tahu Goreng Dengan Telur Asin",
+    "section": "appetizer"
+  },
+  {
+    "price": "45900",
+    "name": "Tahu Goreng Lada Garam",
+    "description": "Tahu Goreng Lada Garam",
+    "section": "appetizer"
+  },
+  {
+    "price": "38900",
+    "name": "Bubur Satu Rasa",
+    "description": "Bubur Satu Rasa",
+    "section": "congee"
+  },
+  {
+    "price": "46900",
+    "name": "Bubur Dua Rasa",
+    "description": "Bubur Dua Rasa",
+    "section": "congee"
+  },
+  {
+    "price": "54900",
+    "name": "Bubur Tiga Rasa",
+    "description": "Bubur Tiga Rasa",
+    "section": "congee"
+  },
+  {
+    "price": "14900",
+    "name": "Chicken",
+    "description": "Chicken",
+    "section": "additional variation"
+  },
+  {
+    "price": "17900",
+    "name": "Fish",
+    "description": "Fish",
+    "section": "additional variation"
+  },
+  {
+    "price": "21900",
+    "name": "Preserved Century Egg (Phitan)",
+    "description": "Preserved Century Egg (Phitan)",
+    "section": "additional variation"
+  },
+  {
+    "price": "29900",
+    "name": "Shrimp",
+    "description": "Shrimp",
+    "section": "additional variation"
+  },
+  {
+    "price": "38900",
+    "name": "Sup Jagung Dengan Daging Ayam",
+    "description": "Sup Jagung Dengan Daging Ayam",
+    "section": "soup"
+  },
+  {
+    "price": "46900",
+    "name": "Sup Kepiting Asparagus",
+    "description": "Sup Kepiting Asparagus",
+    "section": "soup"
+  },
+  {
+    "price": "51900",
+    "name": "Sup Wan Ton",
+    "description": "Sup Wan Ton",
+    "section": "soup"
+  },
+  {
+    "price": "55900",
+    "name": "Mie Dengan Ayam Panggang Merah",
+    "description": "Mie Dengan Ayam Panggang Merah",
+    "section": "noodle"
+  },
+  {
+    "price": "49900",
+    "name": "Mie Dengan Ayam Cincang dan Jamur",
+    "description": "Mie Dengan Ayam Cincang dan Jamur",
+    "section": "noodle"
+  },
+  {
+    "price": "68900",
+    "name": "Mie Dengan Bebek Panggang",
+    "description": "Mie Dengan Bebek Panggang",
+    "section": "noodle"
+  },
+  {
+    "price": "73900",
+    "name": "Mie Dengan Irisan Daging Sapi dalam Kuah Pedas",
+    "description": "Mie Dengan Irisan Daging Sapi dalam Kuah Pedas",
+    "section": "noodle"
+  },
+  {
+    "price": "59900",
+    "name": "Mie Dengan Wanton Ayam dan Sayuran",
+    "description": "Mie Dengan Wanton Ayam dan Sayuran",
+    "section": "noodle"
+  },
+  {
+    "price": "72900",
+    "name": "Mie Goreng Buntut",
+    "description": "Mie Goreng Buntut",
+    "section": "noodle"
+  },
+  {
+    "price": "71900",
+    "name": "Mie Goreng Seafood XO",
+    "description": "Mie Goreng Seafood XO",
+    "section": "noodle"
+  },
+  {
+    "price": "49900",
+    "name": "Mie Goreng Telur",
+    "description": "Mie Goreng Telur",
+    "section": "noodle"
+  },
+  {
+    "price": "63900",
+    "name": "Mie Goreng Udang Dengan Saus Spesial",
+    "description": "Mie Goreng Udang Dengan Saus Spesial",
+    "section": "noodle"
+  },
+  {
+    "price": "63900",
+    "name": "Mie Udang Wan Ton",
+    "description": "Mie Udang Wan Ton",
+    "section": "noodle"
+  },
+  {
+    "price": "69900",
+    "name": "Kwetiaw Goreng Dengan Daging Sapi",
+    "description": "Kwetiaw Goreng Dengan Daging Sapi",
+    "section": "noodle"
+  },
+  {
+    "price": "62900",
+    "name": "Kwetiaw Goreng Pedas Dengan Daging Ayam",
+    "description": "Kwetiaw Goreng Pedas Dengan Daging Ayam",
+    "section": "noodle"
+  },
+  {
+    "price": "72900",
+    "name": "Kwetiaw Goreng Seafood Dan Saus XO",
+    "description": "Kwetiaw Goreng Seafood Dan Saus XO",
+    "section": "noodle"
+  },
+  {
+    "price": "69900",
+    "name": "Kwetiaw Siram Sapi",
+    "description": "Kwetiaw Siram Sapi",
+    "section": "noodle"
+  },
+  {
+    "price": "77900",
+    "name": "Kwetiaw Siram Seafood",
+    "description": "Kwetiaw Siram Seafood",
+    "section": "noodle"
+  },
+  {
+    "price": "64900",
+    "name": "Mie Goreng Sapi",
+    "description": "Mie Goreng Sapi",
+    "section": "noodle"
+  },
+  {
+    "price": "76900",
+    "name": "Nasi Ayam Ala Hainan",
+    "description": "Nasi Ayam Ala Hainan",
+    "section": "rice"
+  },
+  {
+    "price": "60900",
+    "name": "Nasi Ayam Panggang Merah",
+    "description": "Nasi Ayam Panggang Merah",
+    "section": "rice"
+  },
+  {
+    "price": "64900",
+    "name": "Nasi Goreng Ala Yang Chow",
+    "description": "Nasi Goreng Ala Yang Chow",
+    "section": "rice"
+  },
+  {
+    "price": "64900",
+    "name": "Nasi Goreng Bebek",
+    "description": "Nasi Goreng Bebek",
+    "section": "rice"
+  },
+  {
+    "price": "72900",
+    "name": "Nasi Goreng Buntut Dengan Sambal",
+    "description": "Nasi Goreng Buntut Dengan Sambal",
+    "section": "rice"
+  },
+  {
+    "price": "55900",
+    "name": "Nasi Goreng Dengan Daging Ayam",
+    "description": "Nasi Goreng Dengan Daging Ayam",
+    "section": "rice"
+  },
+  {
+    "price": "63900",
+    "name": "Nasi Goreng Dengan Daging Sapi",
+    "description": "Nasi Goreng Dengan Daging Sapi",
+    "section": "rice"
+  },
+  {
+    "price": "60900",
+    "name": "Nasi Goreng Dengan Ikan Asin",
+    "description": "Nasi Goreng Dengan Ikan Asin",
+    "section": "rice"
+  },
+  {
+    "price": "63900",
+    "name": "Nasi Goreng Hijau",
+    "description": "Nasi Goreng Hijau",
+    "section": "rice"
+  },
+  {
+    "price": "68900",
+    "name": "Nasi Goreng Kepiting",
+    "description": "Nasi Goreng Kepiting",
+    "section": "rice"
+  },
+  {
+    "price": "64900",
+    "name": "Nasi Goreng Sapi Sambal Ebi",
+    "description": "Nasi Goreng Sapi Sambal Ebi",
+    "section": "rice"
+  },
+  {
+    "price": "71900",
+    "name": "Nasi Goreng Seafood Saus XO",
+    "description": "Nasi Goreng Seafood Saus XO",
+    "section": "rice"
+  },
+  {
+    "price": "60900",
+    "name": "Nasi Goreng Sosis Ayam Garing",
+    "description": "Nasi Goreng Sosis Ayam Garing",
+    "section": "rice"
+  },
+  {
+    "price": "64900",
+    "name": "Nasi Goreng Pedas Ayam Keju",
+    "description": "Nasi Goreng Pedas Ayam Keju",
+    "section": "rice"
+  },
+  {
+    "price": "64900",
+    "name": "Nasi Goreng Terasi Dengan Ikan Dori",
+    "description": "Nasi Goreng Terasi Dengan Ikan Dori",
+    "section": "rice"
+  },
+  {
+    "price": "69900",
+    "name": "Ayam Ala Kung Pao",
+    "description": "Ayam Ala Kung Pao",
+    "section": "dishes"
+  },
+  {
+    "price": "64900",
+    "name": "Ayam Asam Manis",
+    "description": "Ayam Asam Manis",
+    "section": "dishes"
+  },
+  {
+    "price": "68900",
+    "name": "Ayam Goreng Dengan Saus Pedas Manis",
+    "description": "Ayam Goreng Dengan Saus Pedas Manis",
+    "section": "dishes"
+  },
+  {
+    "price": "64900",
+    "name": "Ayam Goreng Pedas Dengan Bumbu Bawang Putih",
+    "description": "Ayam Goreng Pedas Dengan Bumbu Bawang Putih",
+    "section": "dishes"
+  },
+  {
+    "price": "59900",
+    "name": "Ayam Goreng Saus Imperial",
+    "description": "Ayam Goreng Saus Imperial",
+    "section": "dishes"
+  },
+  {
+    "price": "116900",
+    "name": "Bebek Panggang",
+    "description": "Bebek Panggang",
+    "section": "dishes"
+  },
+  {
+    "price": "77900",
+    "name": "Fu Yung Hai",
+    "description": "Fu Yung Hai",
+    "section": "dishes"
+  },
+  {
+    "price": "63900",
+    "name": "Ikan Dori Dengan Telur",
+    "description": "Ikan Dori Dengan Telur",
+    "section": "dishes"
+  },
+  {
+    "price": "82900",
+    "name": "Sapo Tahu Dengan Seafood",
+    "description": "Sapo Tahu Dengan Seafood",
+    "section": "dishes"
+  },
+  {
+    "price": "93900",
+    "name": "Tumis Daging Sapi Dengan Saus Lada Hitam",
+    "description": "Tumis Daging Sapi Dengan Saus Lada Hitam",
+    "section": "dishes"
+  },
+  {
+    "price": "69900",
+    "name": "Sapo Tahu Dengan Daging Sapi Saus Pedas",
+    "description": "Sapo Tahu Dengan Daging Sapi Saus Pedas",
+    "section": "dishes"
+  },
+  {
+    "price": "55900",
+    "name": "Ayam Goreng Saus Mentega",
+    "description": "Ayam Goreng Saus Mentega",
+    "section": "dishes"
+  },
+  {
+    "price": "60900",
+    "name": "Tahu Dengan Jamur Shimeji",
+    "description": "Tahu Dengan Jamur Shimeji",
+    "section": "dishes"
+  },
+  {
+    "price": "55900",
+    "name": "Cap Cay Ayam Dan Putih Telur",
+    "description": "Cap Cay Ayam Dan Putih Telur",
+    "section": "vegetables"
+  },
+  {
+    "price": "51900",
+    "name": "Tumis Ayam dan Kacang Panjang Saus Lada Hitam",
+    "description": "Tumis Ayam dan Kacang Panjang Saus Lada Hitam",
+    "section": "vegetables"
+  },
+  {
+    "price": "38900",
+    "name": "Tumis Kailan Bawang Putih",
+    "description": "Tumis Kailan Bawang Putih",
+    "section": "vegetables"
+  },
+  {
+    "price": "38900",
+    "name": "Tumis Kailan Saus Tiram",
+    "description": "Tumis Kailan Saus Tiram",
+    "section": "vegetables"
+  },
+  {
+    "price": "45900",
+    "name": "Tumis Brokoli Bawang Putih",
+    "description": "Tumis Brokoli Bawang Putih",
+    "section": "vegetables"
+  },
+  {
+    "price": "84900",
+    "name": "Tumis Brokoli Dengan Udang",
+    "description": "Tumis Brokoli Dengan Udang",
+    "section": "vegetables"
+  },
+  {
+    "price": "45900",
+    "name": "Tumis Brokoli Saus Tiram",
+    "description": "Tumis Brokoli Saus Tiram",
+    "section": "vegetables"
+  },
+  {
+    "price": "63900",
+    "name": "Tumis Buncis Dengan Sapi Cincang",
+    "description": "Tumis Buncis Dengan Sapi Cincang",
+    "section": "vegetables"
+  },
+  {
+    "price": "71900",
+    "name": "Tumis Kailan Dengan Sapi",
+    "description": "Tumis Kailan Dengan Sapi",
+    "section": "vegetables"
+  },
+  {
+    "price": "38900",
+    "name": "Tumis Pak Choy Bawang Putih",
+    "description": "Tumis Pak Choy Bawang Putih",
+    "section": "vegetables"
+  },
+  {
+    "price": "38900",
+    "name": "Tumis Pak Choy Saus Tiram",
+    "description": "Tumis Pak Choy Saus Tiram",
+    "section": "vegetables"
+  },
+  {
+    "price": "68900",
+    "name": "Tumis Poling Dengan Tiga Jenis Telur",
+    "description": "Tumis Poling Dengan Tiga Jenis Telur",
+    "section": "vegetables"
+  },
+  {
+    "price": "76900",
+    "name": "Tumis Sapi Brokoli Dengan Tiga Jamur",
+    "description": "Tumis Sapi Brokoli Dengan Tiga Jamur",
+    "section": "vegetables"
+  },
+  {
+    "price": "47900",
+    "name": "Tumis Tauge Dengan Ikan Asin",
+    "description": "Tumis Tauge Dengan Ikan Asin",
+    "section": "vegetables"
+  },
+  {
+    "price": "49900",
+    "name": "Kai-Lan Dua Rasa",
+    "description": "Kai-Lan Dua Rasa",
+    "section": "vegetables"
+  },
+  {
+    "price": "8900",
+    "name": "Fried Egg",
+    "description": "Fried Egg",
+    "section": "side order"
+  },
+  {
+    "price": "15900",
+    "name": "Hainan Rice",
+    "description": "Hainan Rice",
+    "section": "side order"
+  },
+  {
+    "price": "8900",
+    "name": "Scramble Egg",
+    "description": "Scramble Egg",
+    "section": "side order"
+  },
+  {
+    "price": "11900",
+    "name": "Steamed Rice",
+    "description": "Steamed Rice",
+    "section": "side order"
+  },
+  {
+    "price": "84900",
+    "name": "Cumi Goreng Lada Garam",
+    "description": "Cumi Goreng Lada Garam",
+    "section": "seafood"
+  },
+  {
+    "price": "84900",
+    "name": "Cumi Goreng Pedas",
+    "description": "Cumi Goreng Pedas",
+    "section": "seafood"
+  },
+  {
+    "price": "84900",
+    "name": "Cumi Goreng Tepung",
+    "description": "Cumi Goreng Tepung",
+    "section": "seafood"
+  },
+  {
+    "price": "121900",
+    "name": "Ikan Gurame Goreng Kering",
+    "description": "Ikan Gurame Goreng Kering",
+    "section": "seafood"
+  },
+  {
+    "price": "137900",
+    "name": "Ikan Gurame Goreng Lada Garam",
+    "description": "Ikan Gurame Goreng Lada Garam",
+    "section": "seafood"
+  },
+  {
+    "price": "137900",
+    "name": "Ikan Gurame Goreng Saus Asam Manis",
+    "description": "Ikan Gurame Goreng Saus Asam Manis",
+    "section": "seafood"
+  },
+  {
+    "price": "137900",
+    "name": "Ikan Gurame Goreng Saus Thai",
+    "description": "Ikan Gurame Goreng Saus Thai",
+    "section": "seafood"
+  },
+  {
+    "price": "116900",
+    "name": "Kepiting Soka Lada Garam",
+    "description": "Kepiting Soka Lada Garam",
+    "section": "seafood"
+  },
+  {
+    "price": "108900",
+    "name": "Udang Goreng Lada Garam",
+    "description": "Udang Goreng Lada Garam",
+    "section": "seafood"
+  },
+  {
+    "price": "108900",
+    "name": "Udang Goreng Saus Mayonnaise",
+    "description": "Udang Goreng Saus Mayonnaise",
+    "section": "seafood"
+  },
+  {
+    "price": "108900",
+    "name": "Udang Goreng Telur Asin",
+    "description": "Udang Goreng Telur Asin",
+    "section": "seafood"
+  },
+  {
+    "price": "108900",
+    "name": "Udang Goreng Tepung",
+    "description": "Udang Goreng Tepung",
+    "section": "seafood"
+  },
+  {
+    "price": "25900",
+    "name": "Es Krim 2 Scoops",
+    "description": "Es Krim 2 Scoops",
+    "section": "dessert"
+  },
+  {
+    "price": "33900",
+    "name": "Es Cendol",
+    "description": "Es Cendol",
+    "section": "dessert"
+  },
+  {
+    "price": "38900",
+    "name": "Es Cendol Durian",
+    "description": "Es Cendol Durian",
+    "section": "dessert"
+  },
+  {
+    "price": "37900",
+    "name": "Es Kacang Merah Durian",
+    "description": "Es Kacang Merah Durian",
+    "section": "dessert"
+  },
+  {
+    "price": "41900",
+    "name": "Es Salju Buah",
+    "description": "Es Salju Buah",
+    "section": "dessert"
+  },
+  {
+    "price": "41900",
+    "name": "Es Salju Campur",
+    "description": "Es Salju Campur",
+    "section": "dessert"
+  },
+  {
+    "price": "38900",
+    "name": "Es Salju Oreo Dengan Ice Krim Vanilla",
+    "description": "Es Salju Oreo Dengan Ice Krim Vanilla",
+    "section": "dessert"
+  },
+  {
+    "price": "42900",
+    "name": "Es Salju Durian",
+    "description": "Es Salju Durian",
+    "section": "dessert"
+  },
+  {
+    "price": "33900",
+    "name": "Es Salju Kacang Merah",
+    "description": "Es Salju Kacang Merah",
+    "section": "dessert"
+  },
+  {
+    "price": "38900",
+    "name": "Es Salju Mango Melon",
+    "description": "Es Salju Mango Melon",
+    "section": "dessert"
+  },
+  {
+    "price": "36900",
+    "name": "Es Salju Podeng",
+    "description": "Es Salju Podeng",
+    "section": "dessert"
+  },
+  {
+    "price": "32900",
+    "name": "Mochi Dalam Sup Jahe",
+    "description": "Mochi Dalam Sup Jahe",
+    "section": "dessert"
+  },
+  {
+    "price": "37900",
+    "name": "Bola Ubi Goreng Isi Pasir Emas",
+    "description": "Bola Ubi Goreng Isi Pasir Emas",
+    "section": "dessert"
+  },
+  {
+    "price": "12900",
+    "name": "Chinesse Tea Chrysantinum",
+    "description": "Chinesse Tea Chrysantinum",
+    "section": "hot tea"
+  },
+  {
+    "price": "12900",
+    "name": "Chinesse Tea Green",
+    "description": "Chinesse Tea Green",
+    "section": "hot tea"
+  },
+  {
+    "price": "12900",
+    "name": "Chinesse Tea Jasmine",
+    "description": "Chinesse Tea Jasmine",
+    "section": "hot tea"
+  },
+  {
+    "price": "12900",
+    "name": "Chinesse Tea Kuan Yin",
+    "description": "Chinesse Tea Kuan Yin",
+    "section": "hot tea"
+  },
+  {
+    "price": "29900",
+    "name": "Hot Lemon Tea",
+    "description": "Hot Lemon Tea",
+    "section": "hot tea"
+  },
+  {
+    "price": "25900",
+    "name": "Hot Milk Tea",
+    "description": "Hot Milk Tea",
+    "section": "hot tea"
+  },
+  {
+    "price": "20900",
+    "name": "Hot Tea (Plain)",
+    "description": "Hot Tea (Plain)",
+    "section": "hot tea"
+  },
+  {
+    "price": "20900",
+    "name": "Hot Tea (Sweet)",
+    "description": "Hot Tea (Sweet)",
+    "section": "hot tea"
+  },
+  {
+    "price": "41900",
+    "name": "Iced Fruit Tea Lychee",
+    "description": "Iced Fruit Tea Lychee",
+    "section": "iced tea"
+  },
+  {
+    "price": "29900",
+    "name": "Iced Lemon Tea",
+    "description": "Iced Lemon Tea",
+    "section": "iced tea"
+  },
+  {
+    "price": "25900",
+    "name": "Iced Milk Tea",
+    "description": "Iced Milk Tea",
+    "section": "iced tea"
+  },
+  {
+    "price": "20900",
+    "name": "Iced Tea (Plain)",
+    "description": "Iced Tea (Plain)",
+    "section": "iced tea"
+  },
+  {
+    "price": "20900",
+    "name": "Iced Tea (Sweet)",
+    "description": "Iced Tea (Sweet)",
+    "section": "iced tea"
+  },
+  {
+    "price": "21900",
+    "name": "Coca Cola",
+    "description": "Coca Cola",
+    "section": "soft drink"
+  },
+  {
+    "price": "23900",
+    "name": "Diet Coke",
+    "description": "Diet Coke",
+    "section": "soft drink"
+  },
+  {
+    "price": "21900",
+    "name": "Sprite",
+    "description": "Sprite",
+    "section": "soft drink"
+  },
+  {
+    "price": "34900",
+    "name": "Milkshake Chocolate",
+    "description": "Milkshake Chocolate",
+    "section": "milkshake"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "price": "23637",
+    "name": "Sparkling Pineapple",
+    "description": "Pineapple Flavors And Cold Sour, Sweet And Refreshing",
+    "section": "drinks"
+  },
+  {
+    "price": "9546",
+    "name": "Teh",
+    "description": "Special Black Tea Of Bakmi Gm",
+    "section": "drinks"
+  },
+  {
+    "price": "9546",
+    "name": "Es Teh",
+    "description": "Ice Tea",
+    "section": "drinks"
+  },
+  {
+    "price": "10455",
+    "name": "Air Mineral / Aqua",
+    "description": "Aqua Size 330 Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "10455",
+    "name": "Pucuk Tea 350 Ml",
+    "description": "Teh Pucuk Fragrant Size 350 Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "10455",
+    "name": "Teh Manis",
+    "description": "Sweet Tea",
+    "section": "drinks"
+  },
+  {
+    "price": "10455",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea With Special Bakmi Gm Sugar",
+    "section": "drinks"
+  },
+  {
+    "price": "12273",
+    "name": "Lemon Es Teh",
+    "description": "Iced Tea With Lemon Juice Refreshing And Special Curry Of Bakmi Gm",
+    "section": "drinks"
+  },
+  {
+    "price": "12273",
+    "name": "Hot Green Tea",
+    "description": "Original Japanese Egg Served Hot",
+    "section": "drinks"
+  },
+  {
+    "price": "12273",
+    "name": "Es Green Tea",
+    "description": "Green Tea Original Japanese Served Cold",
+    "section": "drinks"
+  },
+  {
+    "price": "19091",
+    "name": "Hydro Coco",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "25455",
+    "name": "Fruit Punch",
+    "description": "Guava Juice, Syrup And Orange Served With Ice Cubes",
+    "section": "drinks"
+  },
+  {
+    "price": "22273",
+    "name": "Iced Lychee Tea",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "14091",
+    "name": "Fresh Lime Soda",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "34546",
+    "name": "Plain Orange",
+    "description": "Pure Orange Without Sugar",
+    "section": "drinks"
+  },
+  {
+    "price": "25000",
+    "name": "Es Jeruk",
+    "description": "Squeezed Orange Ice With Special Bakmi Gm Sugar",
+    "section": "drinks"
+  },
+  {
+    "price": "31364",
+    "name": "Air Jeruk",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "25455",
+    "name": "Iced Coffee With Milk 250 Ml",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "52273",
+    "name": "Siomay Ayam Frozen",
+    "description": "Contains 8 Pcs Chicken Dumplings + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "28182",
+    "name": "Frozen Dumpling Soup",
+    "description": "Dumplings Filled With Chicken Which Have Been Frozen, Contains 10 Pcs + Chicken Broth + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "60000",
+    "name": "Frozen Meatball Soup",
+    "description": "Gm'S Special Beef Meatballs Served, Contains 10 Pcs + Chicken Broth + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Jamur Spc Gm Frozen",
+    "description": "Chicken And Mushrooms Cooked With Gm Special Sauce And Already Steamed, Contains 2 Packs, Per Pack 75 Gr",
+    "section": "frozen foods"
+  },
+  {
+    "price": "60910",
+    "name": "Ayam Goreng Ala Gm",
+    "description": "Fried Chicken With Gm'S Signature Style Marinated, Contains 2 Portions ( There Are 1 Thigh And 1 Breast)",
+    "section": "frozen foods"
+  },
+  {
+    "price": "96364",
+    "name": "Ayam Cah Cabai Frozen",
+    "description": "Chicken Meat Cooked In Ala Gm'S Signature Chili Sauce And Red Chili Pieces And Green Baked, Contains 4 Packs + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "35910",
+    "name": "Ayam Mie Asin Frozen",
+    "description": "Boiled Chicken Meat With A Salty Savory Taste That Has Been Steamed, Contains 2 Packs, Per 40 Gr",
+    "section": "frozen foods"
+  },
+  {
+    "price": "16364",
+    "name": "Gm Style Chicken Gravy",
+    "description": "Gm'S Chicken Broth Steamed, Contains 8 Sachets",
+    "section": "frozen foods"
+  },
+  {
+    "price": "35910",
+    "name": "Frozen Shrimp Dumplings",
+    "description": "Dumplings Filled With Prawns That Have Been Frozen, Contains 5 Pcs + Chicken Broth + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "50455",
+    "name": "Kerupuk Yi Fu Mie",
+    "description": "Dry Fried Noodles, 4 Pcs",
+    "section": "frozen foods"
+  },
+  {
+    "price": "36819",
+    "name": "Raw Noodles",
+    "description": "Raw Raw Gm Noodles Steamed, Contains 2 Portions + Oil And Noodles + Sambal",
+    "section": "frozen foods"
+  },
+  {
+    "price": "55455",
+    "name": "Yi Fu Mie Chili Crab",
+    "description": "Y Fu Mie Crispy And Savory Noodles With Seafood Meatballs And Smothered In Savory Chili Sauce Ala, Spicy, Sweet And Aromatic",
+    "section": "noodle"
+  },
+  {
+    "price": "68182",
+    "name": "Bakmi Ayam Sultan",
+    "description": "Complete Chicken Noodles With 2 Meatballs Toppings, 2 Fried Dumplings, 2 Gravy Dumplings, And 2 Fried Dumplings",
+    "section": "noodle"
+  },
+  {
+    "price": "42728",
+    "name": "Bakmi Special GM",
+    "description": "\"en#• Sale only until 12 May, 12 days validity • Only valid for Bakmi Special GM||id#• Sale hingga 31 Mar, berlaku 30 hari • Hanya dapat digunakan untuk Bakmi Special GM\"",
+    "section": "noodle"
+  },
+  {
+    "price": "68182",
+    "name": "Bakmi Special Gm Sultan",
+    "description": "Special Meatballs With Extra Toppings Of 2 Meatballs, 2 Fried Dumplings, 2 Gravy Dumplings, And 2 Fried Wontons",
+    "section": "noodle"
+  },
+  {
+    "price": "42728",
+    "name": "Chicken Noodles",
+    "description": "Boiled Noodles Topped With Chicken, Caisim And Gravy, Please Select The Following Add-Ons To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings",
+    "section": "noodle"
+  },
+  {
+    "price": "56364",
+    "name": "Bakmi Goreng",
+    "description": "Fried Noodles With Shrimp Filling, Chicken Meat, Fish Balls, Eggs, Cabbage, Caisim And Scallions",
+    "section": "noodle"
+  },
+  {
+    "price": "39091",
+    "name": "Bakmi Ayam Panggang Char",
+    "description": "Noodles Combined With Grilled Chicken And Char Sauce, Served With Special Savory Savory Sauce",
+    "section": "noodle"
+  },
+  {
+    "price": "61819",
+    "name": "Bakmi Goreng Special",
+    "description": "Fried Noodles With Shrimp Filling, Chicken Meat, Fish Balls, Eggs, Cabbage, Caisim And Scallions And Sunny Side Up Eggs",
+    "section": "noodle"
+  },
+  {
+    "price": "40910",
+    "name": "Bakmi Ayam Saus Thai",
+    "description": "Boiled Noodles Topped With Thai Chicken And Served With Thai Gm'S Style Sauce",
+    "section": "noodle"
+  },
+  {
+    "price": "55910",
+    "name": "Bakmi Brokoli Sapi Lada Hitam",
+    "description": "Boiled Noodles With Broccoli Cooked With Beef And Black Pepper Sauce",
+    "section": "noodle"
+  },
+  {
+    "price": "44091",
+    "name": "Cooked Noodles",
+    "description": "Boiled Noodles With Vegetables, Chicken Meat, Shrimp, Fish Balls, Otak-Otak Meatballs Cooked In Spices",
+    "section": "noodle"
+  },
+  {
+    "price": "41819",
+    "name": "Bakmi Sambal Matah",
+    "description": "Boiled Noodles With Fried Chicken Katsu Topping And Matah Sambal",
+    "section": "noodle"
+  },
+  {
+    "price": "28637",
+    "name": "Cha Cha Cha Cha Chicken Noodles",
+    "description": "Boiled Noodles Topped With Roasted Chicken Cooked With Gm'S Style Pepper Sauce",
+    "section": "noodle"
+  },
+  {
+    "price": "30000",
+    "name": "Cha Cha Cha Noodle Soup",
+    "description": "Boiled Noodles Topped With Roasted Chicken And Gm'S Signature Pepper Sauce, Bean Sprouts, Green Onions, Poured With Chicken Gravy",
+    "section": "noodle"
+  },
+  {
+    "price": "56819",
+    "name": "Bakmi Daging Sapi Cah Cabai",
+    "description": "Boiled Noodles With Beef Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chilies And Red Chilies",
+    "section": "noodle"
+  },
+  {
+    "price": "50000",
+    "name": "Bakmi Cap Cay",
+    "description": "Boiled Noodles With Vegetables Cooked With Chicken, Shrimp, Otak-Otak Meatballs, Fish Balls",
+    "section": "noodle"
+  },
+  {
+    "price": "45910",
+    "name": "Bakmi Ayam Cah Jamur",
+    "description": "Boiled Noodles With Stir-Fried Chicken Meat, Mushrooms And Cabbage",
+    "section": "noodle"
+  },
+  {
+    "price": "38182",
+    "name": "Bakmi Ayam Cah Cabai",
+    "description": "Boiled Noodles With Chicken Meat Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chilies And Red Chilies",
+    "section": "noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Only Noodles",
+    "description": "Boiled Noodles With Gm Seasoning And Served With Chicken Gravy",
+    "section": "noodle"
+  },
+  {
+    "price": "40455",
+    "name": "Yi Fu Mie Ni",
+    "description": "Dried Fried Noodles That Are Poured With Vegetables Cooked With Chicken, Shrimp",
+    "section": "noodle"
+  },
+  {
+    "price": "40455",
+    "name": "Yi Fu Mie Ni Ayam Cah Cabai",
+    "description": "Dry Fried Noodles Cooked With Chicken Meat Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chilies And Red Chilies",
+    "section": "noodle"
+  },
+  {
+    "price": "44546",
+    "name": "Butter Fried Chicken Rice",
+    "description": "White Rice With Crispy And Juicy Fried Chicken Combined With Special Butter Sauce Of Bakmi Gm Sweet And Tasty",
+    "section": "rice"
+  },
+  {
+    "price": "26364",
+    "name": "Young Corn Cah Chicken Rice",
+    "description": "Rice With Young Corn Filling, Carrots, Chicken, Sliced Chilies, And Scallions",
+    "section": "rice"
+  },
+  {
+    "price": "26364",
+    "name": "Sauteed Chicken Rice",
+    "description": "Spicy Minced Chicken Rice Sauteed Basil With A Sprinkling Of Green Onions",
+    "section": "rice"
+  },
+  {
+    "price": "39091",
+    "name": "Gm Chicken Rice",
+    "description": "White Rice With Chicken And Mushroom Topping Gm Special Sauce, Gravy, Please Select The Following Add-Ons To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings, Shrimp Dumplings",
+    "section": "rice"
+  },
+  {
+    "price": "46365",
+    "name": "Char Grilled Chicken Fried Rice",
+    "description": "Fried Rice With Char Grilled Chicken, Eggs And A Sprinkling Of Green Onions",
+    "section": "rice"
+  },
+  {
+    "price": "32728",
+    "name": "Char Grilled Chicken Rice",
+    "description": "The Rice Is Combined With Grilled Chicken And Char Sauce, Served With A Special Savory Savory Sauce",
+    "section": "rice"
+  },
+  {
+    "price": "52728",
+    "name": "Nasi Goreng Ayam Panggang Char Special",
+    "description": "Fried Rice With Char Grilled Chicken, Eggs, A Sprinkling Of Spring Onions And Sunny Side Up Eggs",
+    "section": "rice"
+  },
+  {
+    "price": "25000",
+    "name": "Cha Cha Cha Chicken Rice",
+    "description": "White Rice Topped With Chicken Cooked With Gm'S Style Pepper Sauce",
+    "section": "rice"
+  },
+  {
+    "price": "24546",
+    "name": "Nasi Goreng Sambal Matah",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "52728",
+    "name": "Nasi Goreng Katsu Sambal Matah",
+    "description": "",
+    "section": "rice"
+  },
+  {
+    "price": "30910",
+    "name": "Nasi Goreng Smoked Chicken Special",
+    "description": "Fried Rice With Smoked Chicken, Mixed Vegetables, Eggs And Sunny Side Up Eggs, Choose Your Favorite Size: Small / Regular",
+    "section": "rice"
+  },
+  {
+    "price": "29546",
+    "name": "Anchovy Fried Rice",
+    "description": "Fried Rice With Anchovy And Mixed Vegetable Filling, And A Little Spicy, Choose Your Favorite Size: Small / Regular",
+    "section": "rice"
+  },
+  {
+    "price": "58182",
+    "name": "Nasi Goreng Special",
+    "description": "Fried Rice With Stuffed Chicken, Shrimp, Fish Baso, Egg, And Sliced Red Chili And Sunny Side Up Eggs",
+    "section": "rice"
+  },
+  {
+    "price": "26364",
+    "name": "Nasi Goreng Smoked Chicken",
+    "description": "Fried Rice With Smoked Chicken, Mixed Vegetables, And Egg, Choose Your Favorite Size: Small / Regular",
+    "section": "rice"
+  },
+  {
+    "price": "52728",
+    "name": "Fried Rice",
+    "description": "Fried Rice With Chicken, Shrimp Filling, Fish Baso, Eggs, And Sliced Red Chili",
+    "section": "rice"
+  },
+  {
+    "price": "52273",
+    "name": "Black Pepper Beef Broccoli Rice",
+    "description": "White Rice With Broccoli Cooked With Beef And Black Pepper Sauce",
+    "section": "rice"
+  },
+  {
+    "price": "37273",
+    "name": "Nasi Ayam Saus Thai",
+    "description": "White Rice Topped With Thai Chicken And Served With Thai Gm'S Signature Sauce",
+    "section": "rice"
+  },
+  {
+    "price": "53182",
+    "name": "Beef Rice With Chili Sautee",
+    "description": "White Rice With Beef Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chili And Red Chilies",
+    "section": "rice"
+  },
+  {
+    "price": "46364",
+    "name": "Cap Cay Rice",
+    "description": "White Rice With Vegetables Cooked With Chicken, Shrimp, Otak-Otak Meatballs, Fish Meatballs",
+    "section": "rice"
+  },
+  {
+    "price": "42273",
+    "name": "Mushroom Cah Chicken Rice",
+    "description": "White Rice With Stir-Fried Chicken, Mushrooms And Cabbage",
+    "section": "rice"
+  },
+  {
+    "price": "34546",
+    "name": "Chicken Rice With Stir-Fried Chili",
+    "description": "White Rice With Chicken Cooked In Gm'S Style Chili Sauce And Green Chili Pieces And Red Chili",
+    "section": "rice"
+  },
+  {
+    "price": "43637",
+    "name": "Tim Rice",
+    "description": "Chicken And Chicken Steamed Rice",
+    "section": "rice"
+  },
+  {
+    "price": "9091",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "rice"
+  },
+  {
+    "price": "40910",
+    "name": "Chicken Vermicelli With Thai Sauce",
+    "description": "Boiled Vermicelli Topped With Thai Chicken And Served With Thai Style Of Gm",
+    "section": "rice noodle"
+  },
+  {
+    "price": "42728",
+    "name": "Bihun Special Gm",
+    "description": "Vermicelli With Chicken And Mushroom Topping Gm Special Sauce, Caisim And Gravy. Please Select The Following Add-Ons To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings",
+    "section": "rice noodle"
+  },
+  {
+    "price": "42728",
+    "name": "Chicken Vermicelli",
+    "description": "Vermicelli With Chicken Pieces, Caisim And Gravy, Please Select The Following Add-On To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings",
+    "section": "rice noodle"
+  },
+  {
+    "price": "58182",
+    "name": "Char Grilled Chicken Vermicelli",
+    "description": "Vermicelli Combined With Grilled Chicken And Char Sauce, Served With A Special Savory Of Gm",
+    "section": "rice noodle"
+  },
+  {
+    "price": "30001",
+    "name": "Cha Cha Cha Vermicelli Soup",
+    "description": "Boiled Vermicelli With Chicken Topping With Gm'S Signature Pepper Sauce, Bean Sprouts, Green Onions Which Are Poured With Chicken Gravy",
+    "section": "rice noodle"
+  },
+  {
+    "price": "56364",
+    "name": "Bihun Goreng",
+    "description": "Fried Vermicelli With Shrimp Filling, Chicken Meat, Fish Balls, Eggs, Cabbage, Caisim And Green Onions",
+    "section": "rice noodle"
+  },
+  {
+    "price": "61819",
+    "name": "Bihun Goreng Special",
+    "description": "Fried Vermicelli Filled With Prawns, Chicken Meat, Fish Balls, Eggs, Cabbage, Caisim And Scallions And Sunny Side Up Eggs",
+    "section": "rice noodle"
+  },
+  {
+    "price": "45910",
+    "name": "Bihun Ayam Cah Jamur",
+    "description": "Vermicelli With Stir-Fried Chicken Meat, Mushrooms And Cabbage",
+    "section": "rice noodle"
+  },
+  {
+    "price": "56819",
+    "name": "Bihun Daging Sapi Cah Cabai",
+    "description": "Vermicelli With Beef Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chili And Red Chilies",
+    "section": "rice noodle"
+  },
+  {
+    "price": "50000",
+    "name": "Vermicelli Cap Cay",
+    "description": "Vermicelli With Vegetables Cooked With Chicken, Shrimp, Otak-Otak Meatballs, Fish Balls",
+    "section": "rice noodle"
+  },
+  {
+    "price": "38182",
+    "name": "Bihun Ayam Cah Cabai",
+    "description": "Vermicelli With Chicken Meat Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chili And Red Chilies",
+    "section": "rice noodle"
+  },
+  {
+    "price": "28637",
+    "name": "Cha Cha Cha Cha Cha Chicken Vermicelli",
+    "description": "Vermicelli With Roasted Chicken Topping Cooked With Gm'S Style Pepper Sauce",
+    "section": "rice noodle"
+  },
+  {
+    "price": "55910",
+    "name": "Black Pepper Beef Broccoli Vermicelli",
+    "description": "Vermicelli With Broccoli Cooked With Beef And Black Pepper Sauce",
+    "section": "rice noodle"
+  },
+  {
+    "price": "44091",
+    "name": "Cooked Vermicelli",
+    "description": "Vermicelli With Vegetables, Chicken, Shrimp, Fish Balls, Otak-Otak Meatballs Cooked In Spices",
+    "section": "rice noodle"
+  },
+  {
+    "price": "25000",
+    "name": "Only Bee Hoon",
+    "description": "Vermicelli With Gm Seasoning And Served With Chicken Gravy",
+    "section": "rice noodle"
+  },
+  {
+    "price": "57728",
+    "name": "Shirataki Special Gm",
+    "description": "Shirataki With Chicken And Mushroom Topping Gm Special Sauce, Caisim And Gravy, Please Choose The Following Add-Ons To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings",
+    "section": "shirataki"
+  },
+  {
+    "price": "57728",
+    "name": "Shirataki Ayam",
+    "description": "Shirataki Topped With Chicken, Caisim And Gravy, Please Select The Following Add-On To Complete This Menu: Meatballs, Boiled Dumplings, Fried Dumplings",
+    "section": "shirataki"
+  },
+  {
+    "price": "75455",
+    "name": "Shirataki Ayam Panggang Char",
+    "description": "Shirataki Combined With Grilled Chicken And Char Sauce, Served With Savory Gm'S Special Savory Sauce",
+    "section": "shirataki"
+  },
+  {
+    "price": "49091",
+    "name": "Shirataki Kuah Cha Cha",
+    "description": "Shirataki Boiled Topped With Chicken Cooked In A Style Of Gm'S Pepper Sauce, Bean Sprouts, Green Onions Which Are Poured With Chicken Gravy",
+    "section": "shirataki"
+  },
+  {
+    "price": "40000",
+    "name": "Shirataki Doank",
+    "description": "Shirataki With Gm Seasoning And Served With Chicken Gravy",
+    "section": "shirataki"
+  },
+  {
+    "price": "43637",
+    "name": "Shirataki Ayam Lada Cha Cha",
+    "description": "Shirataki Topped With Rolled Chicken Cooked With Gm'S Style Pepper Sauce",
+    "section": "shirataki"
+  },
+  {
+    "price": "55910",
+    "name": "Shirataki Ayam Saus Thai",
+    "description": "Shirataki Topped With Thai Chicken And Served With Thai Gm'S Signature Sauce",
+    "section": "shirataki"
+  },
+  {
+    "price": "71819",
+    "name": "Shirataki Daging Sapi Cah Cabai",
+    "description": "Shirataki With Beef Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chili And Red Chilies",
+    "section": "shirataki"
+  },
+  {
+    "price": "70910",
+    "name": "Shirataki Brokoli Sapi Lada Hitam",
+    "description": "Shirataki With Broccoli Cooked With Beef And Black Pepper Sauce",
+    "section": "shirataki"
+  },
+  {
+    "price": "65000",
+    "name": "Shirataki Cap Cay",
+    "description": "Shirataki With Vegetables Cooked With Chicken, Shrimp, Otak-Otak Meatballs, Fish Meatballs",
+    "section": "shirataki"
+  },
+  {
+    "price": "60910",
+    "name": "Shirataki Ayam Cah Jamur",
+    "description": "Shirataki With Stir-Fried Chicken Meat, Mushrooms And Cabbage",
+    "section": "shirataki"
+  },
+  {
+    "price": "53182",
+    "name": "Shirataki Ayam Cah Cabai",
+    "description": "Shirataki With Chicken Meat Cooked With Gm'S Signature Chili Sauce And Pieces Of Green Chili And Red Chilies",
+    "section": "shirataki"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Dumplings",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "20455",
+    "name": "Siomay Goreng",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "20455",
+    "name": "Siomay",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "18637",
+    "name": "Soup Dumplings (5 Pieces)",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "30910",
+    "name": "Meatball Soup (5 Pieces)",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "23637",
+    "name": "Spicy Mayo Seafood Balls",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "27728",
+    "name": "Krispi Chips Salted Egg",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "10910",
+    "name": "Krispi Chips Thai Sauce",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "13637",
+    "name": "Krispi Chips Spicy Mayo Sauce",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "25000",
+    "name": "Krispi Chips Flaming Comet",
+    "description": "Snack Made From Fried Dumpling Skin Topped With Spicy And Savory Heart'S Seasoning",
+    "section": "side dish"
+  },
+  {
+    "price": "25000",
+    "name": "Krispi Chips Mala",
+    "description": "Crispy Dumpling Skin Mixed With Savory And Spicy Mala Seasoning",
+    "section": "side dish"
+  },
+  {
+    "price": "30455",
+    "name": "Meatball Tofu (1 Piece)",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "40910",
+    "name": "Complete Meatball Mix",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "30455",
+    "name": "Sweet And Spicy Fried Meatball Tofu",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "25000",
+    "name": "Krispi Chips Black Garlic",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "25000",
+    "name": "Krispi Chips Sambal Matah",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "25000",
+    "name": "Krispi Chips Jagung Bakar",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "40455",
+    "name": "Krispi Chips Truffle",
+    "description": "",
+    "section": "side dish"
+  },
+  {
+    "price": "25910",
+    "name": "Paket Nikmat Hemat 1",
+    "description": "White Rice, Chacha Pepper Chicken, Meatballs, Crispy Chips, Caisim, Gravy",
+    "section": "nikmat hemat"
+  },
+  {
+    "price": "28637",
+    "name": "Paket Nikmat Hemat 2",
+    "description": "Boiled Noodles, Cha Pepper Chicken, Crispy Chips, Caisim, Gravy",
+    "section": "nikmat hemat"
+  },
+  {
+    "price": "34546",
+    "name": "Paket Nikmat Hemat 3",
+    "description": "Boiled Noodles, Gm Special Mushroom Chicken, Fried Dumplings, Otak-Otak, Caisim, Gravy",
+    "section": "nikmat hemat"
+  },
+  {
+    "price": "42273",
+    "name": "Paket Nikmat Hemat 4",
+    "description": "Boiled Noodles, Gm Special Mushroom Chicken, Fried Dumplings, Meatballs, Fried Dumplings, Caisim, Gravy",
+    "section": "nikmat hemat"
+  },
+  {
+    "price": "40455",
+    "name": "Paket Mia",
+    "description": "Special Noodle Gm Jr + Aqua + Gift",
+    "section": "kids meal"
+  },
+  {
+    "price": "42728",
+    "name": "Sam Package 1",
+    "description": "Special Noodle Gm Boiled Dumplings + Aqua + Gift",
+    "section": "kids meal"
+  },
+  {
+    "price": "43637",
+    "name": "Sam Package 2",
+    "description": "Special Fried Dumplings + Aqua + Lalapan",
+    "section": "kids meal"
+  },
+  {
+    "price": "39546",
+    "name": "Paket Tim 1",
+    "description": "Fried Chicken Rice Jr + Aqua + Prize",
+    "section": "kids meal"
+  },
+  {
+    "price": "49091",
+    "name": "Paket Tim 2",
+    "description": "Chicken Katsu Mayo Jr Rice + Aqua + Gift",
+    "section": "kids meal"
+  },
+  {
+    "price": "69091",
+    "name": "Ayam Panggang Char",
+    "description": "Boneless Chicken Pieces Baked In Charsiu Sauce, Served With Caisim And Warm Gravy",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "73637",
+    "name": "Butter Fried Chicken",
+    "description": "Crispy And Juicy Fried Chicken Combined With Special Butter Sauce With Bakmi Gm Sweet And Savory",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "59546",
+    "name": "Ayam Goreng",
+    "description": "Fried Chicken With Gm Style Marinated, Served With Special Sambal",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "50000",
+    "name": "Ayam Goreng Saus Thai",
+    "description": "Thai And Served Marinated Chicken With Thai Style Of Gm",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "48637",
+    "name": "Ayam Cah Cabe",
+    "description": "Chicken Meat Cooked With Gm'S Style Chili Sauce And Green Chili Pieces And Red Chilies",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "57273",
+    "name": "Ayam Cah Jamur",
+    "description": "Stir-Fried Chicken Meat With Mushrooms, Cauliflower Beans And Onions",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "92728",
+    "name": "Daging Sapi Cah Cabe",
+    "description": "Beef Cooked With Gm'S Style Chili Sauce And Green Chili Pieces And Red Chilies",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "87273",
+    "name": "Black Pepper Beef Broccoli",
+    "description": "Broccoli Cooked With Beef And Black Pepper Sauce",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "54091",
+    "name": "Cap Cay",
+    "description": "Vegetables Cooked With Chicken, Shrimp, Otak-Otak Meatballs, Fish Meatballs",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "20455",
+    "name": "Brokoli Saus Tiram",
+    "description": "Broccoli With Oyster Sauce, Choose Your Favorite Size: Small / Regular",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "13182",
+    "name": "Caisim Saus Tiram",
+    "description": "Caisim With Oyster Sauce, Choose Your Favorite Size: Small / Regular",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "13182",
+    "name": "Taoge Saus Tiram",
+    "description": "Bean Sprouts With Oyster Sauce, Choose Your Favorite Size: Small / Regular",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "13637",
+    "name": "Pokchoy Saus Tiram",
+    "description": "Pokchoy With Oyster Sauce, Choose Your Favorite Size: Small / Regular",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "30910",
+    "name": "Baby Buncis Ayam Krispi",
+    "description": "Stir-Fried Baby Beans With Roasted Chicken, Sliced Chili And Topped With Fried Dumpling Skin",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "27273",
+    "name": "Taoge Cah Teri",
+    "description": "",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "68182",
+    "name": "Ayam Katsu Sambal Matah",
+    "description": "",
+    "section": "ala carte & vegetable"
+  },
+  {
+    "price": "50000",
+    "name": "Fu Yung Hai",
+    "description": "Omelette With A Mixture Of Vegetables, Chicken And Shrimp Served With Sweet And Sour Sauce",
+    "section": "ala carte & vegetable"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "price": "93500",
+    "name": "Steamed Fruit",
+    "description": "Black Tea + Passion Fruit + Orange + Fresh Fruits",
+    "section": "orange series"
+  },
+  {
+    "price": "68750",
+    "name": "Osmanthus Orange",
+    "description": "Stir-Fried Meatballs + Orange",
+    "section": "orange series"
+  },
+  {
+    "price": "68750",
+    "name": "Noodles",
+    "description": "High Thigh Pouch Tea + Orange",
+    "section": "orange series"
+  },
+  {
+    "price": "68750",
+    "name": "Green Tea Orange",
+    "description": "Green Tea + Orange",
+    "section": "orange series"
+  },
+  {
+    "price": "86625",
+    "name": "Peach Oolong Tea With Mousse",
+    "description": "Dong Ding Oolong Tea + Peach + Mousse",
+    "section": "peach series"
+  },
+  {
+    "price": "94875",
+    "name": "Iced Peach Oolong Tea",
+    "description": "Dong Ding Oolong Tea + Peach Flesh",
+    "section": "peach series"
+  },
+  {
+    "price": "86625",
+    "name": "Peach Green Tea With Mousse",
+    "description": "Green Tea + Peach + Mousse",
+    "section": "peach series"
+  },
+  {
+    "price": "94875",
+    "name": "Iced Peach Green Tea",
+    "description": "Green Tea + Peach Flesh",
+    "section": "peach series"
+  },
+  {
+    "price": "5500",
+    "name": "Paper Bag (Wajib Plus)",
+    "description": "1 Paper Bag Max 2 Drinks, If More Than 2 Drinks Then Must Be Added With Paper Bag According To The Number Of Orders",
+    "section": "packaging (wajib plus)"
+  },
+  {
+    "price": "93500",
+    "name": "Steamed Fruit",
+    "description": "Black Tea + Orange + Fruit + Fresh Fruit",
+    "section": "popular items"
+  },
+  {
+    "price": "81125",
+    "name": "Osmanthus Mango",
+    "description": "Stir-Fried Meatballs + Mango",
+    "section": "popular items"
+  },
+  {
+    "price": "81125",
+    "name": "Noodle Milk Tea",
+    "description": "High Mountain Pouchong Tea+Cream+Bubble",
+    "section": "popular items"
+  },
+  {
+    "price": "68750",
+    "name": "Creamy Mango Tart",
+    "description": "High Mountain Pouchong Tea + Mango + Mousse",
+    "section": "popular items"
+  },
+  {
+    "price": "81125",
+    "name": "Bugble Milk Tea",
+    "description": "Black Tea + Cream + Bubble",
+    "section": "popular items"
+  },
+  {
+    "price": "68750",
+    "name": "Fresh Milk With Brown Sugar Bubble",
+    "description": "Fresh Milk + Brown Sugar + Bubble",
+    "section": "popular items"
+  },
+  {
+    "price": "68750",
+    "name": "Sweet Ding Omelete Tea",
+    "description": "Dong Ding Oolong Tea + Fresh Milk",
+    "section": "popular items"
+  },
+  {
+    "price": "68750",
+    "name": "Cassia Black Tea With Mousse",
+    "description": "Cassia Black Tea + Mousse",
+    "section": "popular items"
+  },
+  {
+    "price": "68750",
+    "name": "Green Tea With Passion Fruit",
+    "description": "Green Tea + Passion Fruit",
+    "section": "popular items"
+  },
+  {
+    "price": "61875",
+    "name": "Honey Osmanthus Oolong Tea (Iced Only)",
+    "description": "Osmanthus Oolong Tea + Honey",
+    "section": "popular items"
+  },
+  {
+    "price": "61875",
+    "name": "Lemon Condensed Milk",
+    "description": "Lemon Juice + + Milk",
+    "section": "popular items"
+  },
+  {
+    "price": "75625",
+    "name": "Creamy Lemon Tart",
+    "description": "High Mountain Pouchong Tea + Lemon Juice + Mousse",
+    "section": "popular items"
+  },
+  {
+    "price": "53625",
+    "name": "Cassia Black Tea ( Pure Tea)",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "53625",
+    "name": "Dong Ding Oolong Tea ( Pure Tea)",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "53625",
+    "name": "Black Tea (Pcre Tea)",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "53625",
+    "name": "High Mountain Pouchong Tea ( Pure Tea )",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "53625",
+    "name": "Osmanthus Oolong Tea ( Pure Tea)",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "53625",
+    "name": "Green Tea (Package Tea)",
+    "description": "Ice / Hot Tea Chicha San At A Layer Of 2000 Mdl - 200 Mdl So That Chicha San Sambal Tea Contains L - Theanine Which Can Use Mushrooms",
+    "section": "tea / customize your drink"
+  },
+  {
+    "price": "20625",
+    "name": "Cocontut Jelly",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "20625",
+    "name": "Bugble",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "20625",
+    "name": "Konjac",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "20625",
+    "name": "Grabs Jelly",
+    "description": "",
+    "section": "topping"
+  },
+  {
+    "price": "103125",
+    "name": "Bubble Green Milk Tea With Taro",
+    "description": "Green Tea + Cream + Taro Paste + Bubble",
+    "section": "seasonal items"
+  },
+  {
+    "price": "103125",
+    "name": "Green Tea Latte With Taro Ball",
+    "description": "Green Tea + Fresh Milk + Taro Ball",
+    "section": "seasonal items"
+  },
+  {
+    "price": "103125",
+    "name": "Green Milk Tea With Taro Ball & Paste",
+    "description": "Green Tea + Cream + Taro Ball + Taro Paste",
+    "section": "seasonal items"
+  },
+  {
+    "price": "103125",
+    "name": "Dong Ding With Taro Paste & Bubble",
+    "description": "Dong Ding Oolong Tea+ Cream+ Taro Paste + Bubble",
+    "section": "seasonal items"
+  },
+  {
+    "price": "103125",
+    "name": "Black Tea With Taro Ball & Paste",
+    "description": "Black Tea + Cream + Taro Paste + Taro Ball",
+    "section": "seasonal items"
+  },
+  {
+    "price": "96250",
+    "name": "Fresh Milk With Taro Ball & Paste",
+    "description": "Fresh Milk + Taro Ball + Taro Paste",
+    "section": "seasonal items"
+  }
+]

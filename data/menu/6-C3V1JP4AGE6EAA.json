@@ -1,0 +1,578 @@
+[
+  {
+    "price": "58364",
+    "name": "#B1G1 Paket Reguler Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Reguler + Se'I Sapi Reguler FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "52636",
+    "name": "#B1G1 Paket Reguler Sei Sapi x Sei Ayam",
+    "description": "Se'I Sapi Reguler + Se'I Ayam Reguler FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "46909",
+    "name": "#B1G1 Paket Reguler Sei Ayam x Sei Ayam",
+    "description": "Se'I Ayam Reguler + Se'I Ayam Reguler FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "55091",
+    "name": "#B1G1 Paket Reguler Sei Campur x Sei Campur",
+    "description": "Se'I Campur Reguler + Se'I Campur Reguler FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "74182",
+    "name": "#B1G1 Paket Jumbo Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Jumbo + Se'I Sapi Jumbo FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "180909",
+    "name": "Platter Sapi",
+    "description": "5-7 Porsi: Se'i Sapi + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "today's offer"
+  },
+  {
+    "price": "126412",
+    "name": "Platter Ayam",
+    "description": "5-7 Porsi: Se'i Ayam + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "today's offer"
+  },
+  {
+    "price": "153636",
+    "name": "Platter Campur",
+    "description": "5-7 Porsi: Se'i Campur + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "today's offer"
+  },
+  {
+    "price": "49341",
+    "name": "Se'I Sapi Jumbo Free Es Teh Celoteh + Extra Se'I Sapi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "37227",
+    "name": "Se'l Ayam Jumbo Free Es Teh Celoteh + Extra Se'l Ayam",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "47864",
+    "name": "Se'l Campur Jumbo Free Es Teh Celoteh + Extra Se'l Sapi",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "32727",
+    "name": "Paket Sei Ayam Jumbo FREE Sprite",
+    "description": "Sei Ayam Jumbo + Sprite",
+    "section": "today's offer"
+  },
+  {
+    "price": "40727",
+    "name": "Paket Sei Campur Jumbo FREE Sprite",
+    "description": "Sei Campur Jumbo + Sprite",
+    "section": "today's offer"
+  },
+  {
+    "price": "42545",
+    "name": "Paket Sei Sapi Jumbo FREE Sprite",
+    "description": "Sei Sapi Jumbo + Sprite",
+    "section": "today's offer"
+  },
+  {
+    "price": "81600",
+    "name": "#B1G1 Paket Jumbo Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Jumbo + Se'I Sapi Jumbo FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "65400",
+    "name": "#B1G1 Paket Jumbo Sei Ayam x Sei Ayam",
+    "description": "Se'I Ayam Jumbo + Se'I Ayam Jumbo FREE 2 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Combo 2 Ayam Reguler x Sei Sapi Longboard",
+    "description": "Se'I Ayam Reguler + Se'I Ayam Reguler + Se'I Sapi Longboard",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Combo Sapi-Ayam Reguler X Sei Campur Longboard",
+    "description": "Se'I Sapi Reguler + Se'I Ayam Reguler + Se'I Campur Longboard",
+    "section": "today's offer"
+  },
+  {
+    "price": "91295",
+    "name": "Combo 2 Sei Ayam Longboard",
+    "description": "2 Se'I Ayam Longboard FREE 3 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "159250",
+    "name": "Combo 2 Sei Sapi Longboard",
+    "description": "2 Se'I Sapi Longboard FREE 3 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "140932",
+    "name": "Combo 2 Sei Campur Longboard",
+    "description": "2 Se'I Campur Longboard FREE 3 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "125273",
+    "name": "Combo Sei Sapi Longboard + Sei Ayam Longboard",
+    "description": "Se'I Sapi Longboard + Se'I Ayam Longboard FREE 3 Es Teh Celoteh",
+    "section": "today's offer"
+  },
+  {
+    "price": "49318",
+    "name": "Buy 1 Get 1 (1 Paket Se'i Sapi free 1 Paket Se'i Ayam) Sambal Luat/Matah",
+    "description": "Paket Sei Sapi Sambal Lu'at/Matah + Paket Sei Ayam sambal Luat/Matah",
+    "section": "today's offer"
+  },
+  {
+    "price": "1",
+    "name": "SE’INDONESIA Customer Care",
+    "description": "Silahkan kirim kritik dan saran kamu kepada kami melalui WhatsApp Customer Service SE’INDONESIA",
+    "section": "se’indonesia care"
+  },
+  {
+    "price": "58364",
+    "name": "#B1G1 Paket Reguler Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Reguler + Se'I Sapi Reguler FREE 2 Es Teh Celoteh",
+    "section": "buy 1 get 1 ricebox"
+  },
+  {
+    "price": "52636",
+    "name": "#B1G1 Paket Reguler Sei Sapi x Sei Ayam",
+    "description": "Se'I Sapi Reguler + Se'I Ayam Reguler FREE 2 Es Teh Celoteh",
+    "section": "buy 1 get 1 ricebox"
+  },
+  {
+    "price": "46909",
+    "name": "#B1G1 Paket Reguler Sei Ayam x Sei Ayam",
+    "description": "Se'I Ayam Reguler + Se'I Ayam Reguler FREE 2 Es Teh Celoteh",
+    "section": "buy 1 get 1 ricebox"
+  },
+  {
+    "price": "55091",
+    "name": "#B1G1 Paket Reguler Sei Campur x Sei Campur",
+    "description": "Se'I Campur Reguler + Se'I Campur Reguler FREE 2 Es Teh Celoteh",
+    "section": "buy 1 get 1 ricebox"
+  },
+  {
+    "price": "74182",
+    "name": "#B1G1 Paket Jumbo Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Jumbo + Se'I Sapi Jumbo FREE 2 Es Teh Celoteh",
+    "section": "buy 1 get 1 ricebox"
+  },
+  {
+    "price": "180909",
+    "name": "Platter Sapi",
+    "description": "5-7 Porsi: Se'i Sapi + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "new menu - se'iloyang bersama"
+  },
+  {
+    "price": "126412",
+    "name": "Platter Ayam",
+    "description": "5-7 Porsi: Se'i Ayam + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "new menu - se'iloyang bersama"
+  },
+  {
+    "price": "153636",
+    "name": "Platter Campur",
+    "description": "5-7 Porsi: Se'i Campur + Nasi Daun Jeruk Nampah Sedang + Sambal Luat",
+    "section": "new menu - se'iloyang bersama"
+  },
+  {
+    "price": "18500",
+    "name": "Bakso Goreng",
+    "description": "Bakso Goreng Isi 4 pcs",
+    "section": "new menu - side dish"
+  },
+  {
+    "price": "18500",
+    "name": "Egg Chicken Roll",
+    "description": "Egg Chicken Roll Isi 3 pcs",
+    "section": "new menu - side dish"
+  },
+  {
+    "price": "18500",
+    "name": "Udang Keju",
+    "description": "Udang Keju Isi 2 pcs",
+    "section": "new menu - side dish"
+  },
+  {
+    "price": "49341",
+    "name": "Se'I Sapi Jumbo Free Es Teh Celoteh + Extra Se'I Sapi",
+    "description": "",
+    "section": "combo jumbo"
+  },
+  {
+    "price": "37227",
+    "name": "Se'l Ayam Jumbo Free Es Teh Celoteh + Extra Se'l Ayam",
+    "description": "",
+    "section": "combo jumbo"
+  },
+  {
+    "price": "47864",
+    "name": "Se'l Campur Jumbo Free Es Teh Celoteh + Extra Se'l Sapi",
+    "description": "",
+    "section": "combo jumbo"
+  },
+  {
+    "price": "32727",
+    "name": "Paket Sei Ayam Jumbo FREE Sprite",
+    "description": "Sei Ayam Jumbo + Sprite",
+    "section": "sprite bundling"
+  },
+  {
+    "price": "40727",
+    "name": "Paket Sei Campur Jumbo FREE Sprite",
+    "description": "Sei Campur Jumbo + Sprite",
+    "section": "sprite bundling"
+  },
+  {
+    "price": "42545",
+    "name": "Paket Sei Sapi Jumbo FREE Sprite",
+    "description": "Sei Sapi Jumbo + Sprite",
+    "section": "sprite bundling"
+  },
+  {
+    "price": "81600",
+    "name": "#B1G1 Paket Jumbo Sei Sapi x Sei Sapi",
+    "description": "Se'I Sapi Jumbo + Se'I Sapi Jumbo FREE 2 Es Teh Celoteh",
+    "section": "brand week festival"
+  },
+  {
+    "price": "65400",
+    "name": "#B1G1 Paket Jumbo Sei Ayam x Sei Ayam",
+    "description": "Se'I Ayam Jumbo + Se'I Ayam Jumbo FREE 2 Es Teh Celoteh",
+    "section": "brand week festival"
+  },
+  {
+    "price": "90000",
+    "name": "Combo 2 Ayam Reguler x Sei Sapi Longboard",
+    "description": "Se'I Ayam Reguler + Se'I Ayam Reguler + Se'I Sapi Longboard",
+    "section": "hanya 99k - seimbilan seimbilan (exclusive di grab)"
+  },
+  {
+    "price": "90000",
+    "name": "Combo Sapi-Ayam Reguler X Sei Campur Longboard",
+    "description": "Se'I Sapi Reguler + Se'I Ayam Reguler + Se'I Campur Longboard",
+    "section": "hanya 99k - seimbilan seimbilan (exclusive di grab)"
+  },
+  {
+    "price": "91295",
+    "name": "Combo 2 Sei Ayam Longboard",
+    "description": "2 Se'I Ayam Longboard FREE 3 Es Teh Celoteh",
+    "section": "buy 1 get 1 longboard"
+  },
+  {
+    "price": "159250",
+    "name": "Combo 2 Sei Sapi Longboard",
+    "description": "2 Se'I Sapi Longboard FREE 3 Es Teh Celoteh",
+    "section": "buy 1 get 1 longboard"
+  },
+  {
+    "price": "140932",
+    "name": "Combo 2 Sei Campur Longboard",
+    "description": "2 Se'I Campur Longboard FREE 3 Es Teh Celoteh",
+    "section": "buy 1 get 1 longboard"
+  },
+  {
+    "price": "125273",
+    "name": "Combo Sei Sapi Longboard + Sei Ayam Longboard",
+    "description": "Se'I Sapi Longboard + Se'I Ayam Longboard FREE 3 Es Teh Celoteh",
+    "section": "buy 1 get 1 longboard"
+  },
+  {
+    "price": "49318",
+    "name": "Buy 1 Get 1 (1 Paket Se'i Sapi free 1 Paket Se'i Ayam) Sambal Luat/Matah",
+    "description": "Paket Sei Sapi Sambal Lu'at/Matah + Paket Sei Ayam sambal Luat/Matah",
+    "section": "spesial promo"
+  },
+  {
+    "price": "40909",
+    "name": "Ricebox Se'I Ayam Jumbo Lu'at",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Ayam Jumbo + Sambal Lu'at",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "42727",
+    "name": "Ricebox Se'I Ayam Jumbo Matah",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Ayam Jumbo + Sambal Matah",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "42727",
+    "name": "Ricebox Se'I Ayam Jumbo BBQ",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Ayam Jumbo + BBQ Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "42727",
+    "name": "Ricebox Se'I Ayam Jumbo Blackpepper",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Ayam Jumbo + Blackpepper Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "42727",
+    "name": "Ricebox Se'I Ayam Jumbo Chili Oil",
+    "description": "Nasi Jumbo + Krispy Kangkung + Se'I Ayam Jumbo + Chili Oil",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "53182",
+    "name": "Ricebox Se'I Sapi Jumbo Lu'at",
+    "description": "Nasi Jumbo + Kangkung Krispy + Se'I Sapi Jumbo + Sambal Lu'at",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "54091",
+    "name": "Ricebox Se'I Sapi Jumbo Matah",
+    "description": "Nasi Jumbo + Kangkung Krispy + Se'I Sapi Jumbo + Sambal Matah",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "54091",
+    "name": "Ricebox Se'I Sapi Jumbo BBQ",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + BBQ Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "54091",
+    "name": "Ricebox Se'I Sapi Jumbo Blackpepper",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + Blackpepper Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "54091",
+    "name": "Ricebox Se'I Sapi Jumbo Chili Oil",
+    "description": "Nasi Jumbo + Krispy Kangkung + Se'I Sapi Jumbo + Chili Oil",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "50909",
+    "name": "Ricebox Se'I Campur Jumbo Lu'at",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + Se'I Ayam Jumbo + Sambal Lu'at",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "52273",
+    "name": "Ricebox Se'I Campur Jumbo Matah",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + Se'I Ayam Jumbo + Sambal Matah",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "52273",
+    "name": "Ricebox Se'I Campur Jumbo BBQ",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + Se'I Ayam Jumbo + BBQ Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "52273",
+    "name": "Ricebox Se'I Campur Jumbo Blackpepper",
+    "description": "Nasi Jumbo + Crispy Kangkoong + Se'I Sapi Jumbo + Se'I Ayam Jumbo + Blackpepper Sauce",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "52273",
+    "name": "Ricebox Se'I Campur Jumbo Chili Oil",
+    "description": "Nasi Jumbo + Krispy Kangkung + Se'I Sapi Jumbo + Se'I Ayam Jumbo + Chili Oil",
+    "section": "ricebox jumbo"
+  },
+  {
+    "price": "30455",
+    "name": "Ricebox Se'I Ayam Reguler Lu'at",
+    "description": "Nasi + Crispy Kangkoong + Se'I Ayam + Sambal Lu'at",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "31818",
+    "name": "Ricebox Se'I Ayam Reguler Matah",
+    "description": "Nasi + Crispy Kangkoong + Se'I Ayam + Sambal Matah",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "31818",
+    "name": "Ricebox Se'I Ayam Reguler BBQ",
+    "description": "Nasi + Crispy Kangkoong + Se'I Ayam + BBQ Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "31818",
+    "name": "Ricebox Se'I Ayam Reguler Blackpepper",
+    "description": "Nasi + Crispy Kangkoong + Se'I Ayam + Blackpepper Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "31818",
+    "name": "Ricebox Se'I Ayam Reguler Chili Oil",
+    "description": "Nasi + Krispy Kangkung + Se'I Ayam + Chili Oil",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "40000",
+    "name": "Ricebox Se'I Sapi Reguler Lu'at",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Sambal Lu'at",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Ricebox Se'I Sapi Reguler Matah",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Sambal Matah",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Ricebox Se'I Sapi Reguler BBQ",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + BBQ Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Ricebox Se'I Sapi Reguler Blackpepper",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Blackpepper Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Ricebox Se'I Sapi Reguler Chili Oil",
+    "description": "Nasi + Krispy Kangkung + Se'I Sapi + Chili Oil",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "37273",
+    "name": "Ricebox Se'I Campur Reguler Lu'at",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Se'I Ayam + Sambal Lu'at",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "38636",
+    "name": "Ricebox Se'I Campur Reguler Matah",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Se'I Ayam + Sambal Matah",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "38636",
+    "name": "Ricebox Se'I Campur Reguler BBQ",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Se'I Ayam + BBQ Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "38636",
+    "name": "Ricebox Se'I Campur Reguler Blackpepper",
+    "description": "Nasi + Crispy Kangkoong + Se'I Sapi + Se'I Ayam + Blackpepper Sauce",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "38636",
+    "name": "Ricebox Se'I Campur Reguler Chili Oil",
+    "description": "Nasi + Krispy Kangkung + Se'I Sapi + Sei Ayam + Chili Oil",
+    "section": "ricebox reguler"
+  },
+  {
+    "price": "57273",
+    "name": "Longboard Se'I Ayam",
+    "description": "150 gram Se'I Ayam + Crispy Kangkoong",
+    "section": "longboard"
+  },
+  {
+    "price": "109545",
+    "name": "Longboard Se'I Sapi",
+    "description": "150 gram Se'I Sapi + Crispy Kangkoong",
+    "section": "longboard"
+  },
+  {
+    "price": "95455",
+    "name": "Longboard Se'I Campur",
+    "description": "150 gram Se'I (Sapi & Ayam) + Crispy Kangkoong",
+    "section": "longboard"
+  },
+  {
+    "price": "8636",
+    "name": "Es Teh Manis",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "10000",
+    "name": "Es Lemon Tea",
+    "description": "Es Lemon Tea",
+    "section": "ala carte"
+  },
+  {
+    "price": "7727",
+    "name": "Nasi Putih",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "9091",
+    "name": "Nasi Daun Jeruk",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "9545",
+    "name": "Krispy Kangkung",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "Sambal Lu’at",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "Sambal Matah",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "BBQ Sauces",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "BlackPepper Sauces",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "Chili Oil",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "6818",
+    "name": "Telur Mata Sapi",
+    "description": "",
+    "section": "ala carte"
+  },
+  {
+    "price": "7727",
+    "name": "Extra Sei Ayam",
+    "description": "25gr Sei Ayam",
+    "section": "add ons"
+  },
+  {
+    "price": "14091",
+    "name": "Extra Sei Sapi",
+    "description": "25gr Sei Sapi",
+    "section": "add ons"
+  }
+]

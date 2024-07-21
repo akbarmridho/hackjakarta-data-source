@@ -1,0 +1,309 @@
+[
+  {
+    "price": "18000",
+    "name": "Juice Strwberry",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Sirsak",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Tomat",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Dragon Fruit Juice",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Mangga",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Terong Belanda",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Wortel",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "20000",
+    "name": "Juice Kiwi",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "20000",
+    "name": "Juice Sunkist",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Jambu",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Belimbing",
+    "description": "",
+    "section": "aneka juice"
+  },
+  {
+    "price": "12000",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "9000",
+    "name": "S-Tea With Ice",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "4000",
+    "name": "Teh Tawar Hangat",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "hausss"
+  },
+  { "price": "8000", "name": "Aqua", "description": "", "section": "hausss" },
+  {
+    "price": "13000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "13000",
+    "name": "Warm Orange",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hanget",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "9000",
+    "name": "Bottled Tea With Ice",
+    "description": "",
+    "section": "hausss"
+  },
+  {
+    "price": "7000",
+    "name": "Shrimp Crackers",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "3500",
+    "name": "Crackers",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7000",
+    "name": "Gendar Crackers",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "3000",
+    "name": "Tempeh",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "3000",
+    "name": "Tofu",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "10000",
+    "name": "Emping Jumbo",
+    "description": "Seasoned Chips With Sweet And Savory Salty Taste",
+    "section": "additional"
+  },
+  {
+    "price": "7000",
+    "name": "Potato Cakes",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "9000",
+    "name": "Telor Asin Brebes",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "22000",
+    "name": "Paket Nasi Kauning Telor Bento",
+    "description": "Yellow Rice+Egg Balado + Cakes+ Scrambled Tempe/Fried Kenrang Sauce+Crackers+Sambal",
+    "section": "additional"
+  },
+  {
+    "price": "24000",
+    "name": "Bento Chicken Yellow Rice Package",
+    "description": "Yellow Rice+Fried Chicken + Potato Cakes + Scrambled Tempe/Fried Liver Potato Sauce + Crackers + Fried Chili Sauce",
+    "section": "additional"
+  },
+  {
+    "price": "12000",
+    "name": "Emping",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "25000",
+    "name": "Creamy Coffee",
+    "description": "",
+    "section": "buko pandan and creamy coffee"
+  },
+  {
+    "price": "25000",
+    "name": "Buko Pandan",
+    "description": "",
+    "section": "buko pandan and creamy coffee"
+  },
+  {
+    "price": "30000",
+    "name": "Ayam Goreng Sby",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken + Rice Package + Tofu / Tempeh With Chili Sauce",
+    "description": "",
+    "section": "chicken"
+  },
+  {
+    "price": "20000",
+    "name": "Fruit Soup",
+    "description": "",
+    "section": "fruit soup"
+  },
+  {
+    "price": "27000",
+    "name": "Soto Ayam",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Soto Campur",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Beef Soto",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Beef Leg Soto",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "37000",
+    "name": "Soto Babat",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "37000",
+    "name": "Soto Paru",
+    "description": "",
+    "section": "sotoo yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Sop Iga Cabe Hijau",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Sop Iga Balado",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Sop Iga Bakar",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "39000",
+    "name": "Sop Iga Sapi",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Beef Feet Soup",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Sop Daging Sapi",
+    "description": "",
+    "section": "soupp yanti"
+  },
+  {
+    "price": "38000",
+    "name": "Sop Campur",
+    "description": "",
+    "section": "soupp yanti"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "price": "22000",
+    "name": "Butter Croissant",
+    "description": "Flaky, Classic & Buttery",
+    "section": "croissants"
+  },
+  {
+    "price": "22000",
+    "name": "Cheese Croissant",
+    "description": "Flaky, Classic & Buttery Croissant With Diced Cheese",
+    "section": "croissants"
+  },
+  {
+    "price": "22000",
+    "name": "Chocolate Croissant",
+    "description": "Flaky, Classic & Buttery Croissant With Chocolate Combined",
+    "section": "croissants"
+  },
+  {
+    "price": "22000",
+    "name": "Pain Au Chocolat",
+    "description": "Something To Satisfy Your Chocolate Cravings",
+    "section": "croissants"
+  },
+  {
+    "price": "31500",
+    "name": "Chocolate Cromboloni",
+    "description": "Flaky, Buttery, Bite Of Deliciousness With Sweet And Creamy Chocolate Filling",
+    "section": "croissants"
+  },
+  {
+    "price": "31500",
+    "name": "Vanilla Cromboloni",
+    "description": "Flaky, Buttery, Bite Of Deliciousness With Sweet And Creamy Vanilla Filling",
+    "section": "croissants"
+  },
+  {
+    "price": "22000",
+    "name": "Almond Croissant",
+    "description": "Flaky, Classic & Buttery Croissant With Almond Filling",
+    "section": "croissants"
+  },
+  {
+    "price": "22000",
+    "name": "Smoked Beef Croissant",
+    "description": "Flaky, Classic & Buttery Croissant With Creamy Mayo And Smoked Beef Inside",
+    "section": "croissants"
+  },
+  {
+    "price": "34000",
+    "name": "Sausage Croissant",
+    "description": "Bring More Flavor To Your Palate",
+    "section": "croissants"
+  },
+  {
+    "price": "25000",
+    "name": "Mini Butter Croissants",
+    "description": "Flaky, Classic & Buttery In Mini Version",
+    "section": "croissants"
+  },
+  {
+    "price": "16000",
+    "name": "Cream Cheese Topping Pie",
+    "description": "Crunchy Pastry Topped With Cream Cheese & Sweet Pineapple",
+    "section": "pastries"
+  },
+  {
+    "price": "16000",
+    "name": "Choco Topping Pie",
+    "description": "Pastry Topped With Melted Sweet Chocolate & Crunchy Almond",
+    "section": "pastries"
+  },
+  {
+    "price": "16000",
+    "name": "Apple Pie",
+    "description": "Crunchy Pastry Filled With Apple Jam",
+    "section": "pastries"
+  },
+  {
+    "price": "19000",
+    "name": "Tuna Mentai Puff",
+    "description": "Unique Taste Combination Of Tuna & Mentai Sauce With Sweet Corn",
+    "section": "pastries"
+  },
+  {
+    "price": "16000",
+    "name": "Danish Custard Raisin",
+    "description": "Danish Pastry With Creamy Custard Filling And Sweet Raisins",
+    "section": "pastries"
+  },
+  {
+    "price": "22000",
+    "name": "Fruits Pastry",
+    "description": "Pastry With Sweetened Cream Custard And Fresh Fruits In Every Bite",
+    "section": "pastries"
+  },
+  {
+    "price": "16000",
+    "name": "Hazelnut Pie",
+    "description": "A Pie With The Goodness Of Hazelnut",
+    "section": "pastries"
+  },
+  {
+    "price": "19000",
+    "name": "Almond Cruffin",
+    "description": "A Cruffin With Flaky Almond Taste Inside",
+    "section": "pastries"
+  },
+  {
+    "price": "12500",
+    "name": "Tiger Bread",
+    "description": "crunchy baked soft boule",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Choco Flat",
+    "description": "Flat but full of chocolate sweetness",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Hokkaido Parmesan Cheese Bread",
+    "description": "Soft Bun Filled With Cheddar Cheese And Topped With Parmesan Cheese",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Srikaya Bun",
+    "description": "Rich In Flavor And Sensational Taste Of Kaya Spread",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Floss Roll",
+    "description": "Classic Soft Bun Topped With Beef Floss",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Double Cheese Bun",
+    "description": "2 Kind Of Cheese Inside Sweet Bun Ready To Double Up Your Joyful Day",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Choco Twist",
+    "description": "Soft And Fluffy Bread, Full Of Chocolate In Every Bites",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Cheese Polo",
+    "description": "Tasty And Crunchy Biscuit Like Bun With Cheese Filling",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Chocolate Polo",
+    "description": "Tasty And Crunchy Biscuit Like Bun With Chocolate Filling",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Pineapple Brioche",
+    "description": "Combination Of Pineapple And Custard In A Bun",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Strawberry Brioche",
+    "description": "Soft Bun With Sweet Custard And Strawberry Jam",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Cheese Brioche",
+    "description": "Combination Of Cheese And Custard In A Bun",
+    "section": "bread"
+  },
+  {
+    "price": "19000",
+    "name": "Cream Cheese Bagel",
+    "description": "Cream Cheese Soft Bagel Topped With Seeds",
+    "section": "bread"
+  },
+  {
+    "price": "56500",
+    "name": "Chocolate Babka",
+    "description": "A Loaf Rich Of Melted Chocolate Flavor",
+    "section": "bread"
+  },
+  {
+    "price": "34500",
+    "name": "German Bread",
+    "description": "Big Bun Rich In Seeds And Raisins",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Choco Cheese Bun",
+    "description": "Chocolate And Cheese Inside Sweet Bun",
+    "section": "bread"
+  },
+  {
+    "price": "44000",
+    "name": "Cinnamon Roll",
+    "description": "Soft Yet Moist Sweet Bread With A Touch Of Cinnamon Spice",
+    "section": "bread"
+  },
+  {
+    "price": "22000",
+    "name": "Hokkaido Boule",
+    "description": "Buttery Soft Bread With A Touch Of Sweetness",
+    "section": "bread"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Meatball",
+    "description": "sweet and savory Bolognese sauce in fried bun",
+    "section": "fried buns"
+  },
+  {
+    "price": "16000",
+    "name": "Fried Ragout",
+    "description": "creamy chicken and vegetable fried bun",
+    "section": "fried buns"
+  },
+  {
+    "price": "31500",
+    "name": "Croque Monsieur",
+    "description": "sourdough sandwich with Béchamel sauce and smoked beef",
+    "section": "sandwiches"
+  },
+  {
+    "price": "12500",
+    "name": "Chocolate Pudding",
+    "description": "Soft chocolate pudding with vanilla cream",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "38000",
+    "name": "Cheese Stick",
+    "description": "crispy stick rich in cheese",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "12500",
+    "name": "Crème Caramel",
+    "description": "Soft vanilla pudding with sweet caramel sauce",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "16000",
+    "name": "Bread Pudding",
+    "description": "Soft bread mixed with a hint of cinnamon and raisin",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "31500",
+    "name": "Garlic Butter Stick",
+    "description": "baked baguette with garlic butter on top",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "25000",
+    "name": "Petite Palmiers",
+    "description": "never ending goodness of palmier with sugar sprinkles",
+    "section": "snacks & desserts"
+  },
+  {
+    "price": "10000",
+    "name": "Eternal+ 330Ml",
+    "description": "Mineral Water",
+    "section": "beverages"
+  }
+]

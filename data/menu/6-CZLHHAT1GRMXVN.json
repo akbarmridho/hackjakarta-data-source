@@ -1,0 +1,506 @@
+[
+  {
+    "price": "15000",
+    "name": "Fried Chicken Feet With Rice",
+    "description": "Soft Bone Chicken Feet + Rice + Sambal",
+    "section": "#joyly"
+  },
+  {
+    "price": "10000",
+    "name": "Soft Bone Fried Chicken Feet",
+    "description": "Soft Bone Fried Chicken Feet + Chili Sauce",
+    "section": "#joyly"
+  },
+  {
+    "price": "29000",
+    "name": "Rica Rica Pedas Ayam + Nasi",
+    "description": "Rica Rica Cooked Chicken + Rice",
+    "section": "#joyly"
+  },
+  {
+    "price": "29000",
+    "name": "Crunchy Chicken Soft Bone + Rice",
+    "description": "1/4 Soft Bone Chicken + Rice + Sambal + Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "29000",
+    "name": "Smashed Chicken With Smashed Sambal + Rice",
+    "description": "1/4 Smashed Chicken And Sambal + Rice + Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Smashed Chicken With Geprek Sambal",
+    "description": "1/4 Chicken Pounded And Sambal + Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Sambel Goreng Ayam Mayonais",
+    "description": "Chicken Cooked With Spices + Mayonnaise",
+    "section": "#joyly"
+  },
+  {
+    "price": "29000",
+    "name": "Green Chili Chicken + Rice",
+    "description": "Chicken With Green Sauce + Rice + Sambal + Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Ayam Rica Rica",
+    "description": "1/4 Chicken Cooked In Rica Rica Spicy Ala Pawon",
+    "section": "#joyly"
+  },
+  {
+    "price": "23000",
+    "name": "Ayam Sambel Ijo Bilis",
+    "description": "Fried Chicken + Bilis Green Sambal + Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Fried Soft Bone Chicken",
+    "description": "Tender Bone Chicken + Lalapan + Sambal",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Soft Bone Crunchy Chicken",
+    "description": "Soft Bone Crunchy Chicken + Lalapan + Sambal",
+    "section": "#joyly"
+  },
+  {
+    "price": "25000",
+    "name": "Soft Bone Wings",
+    "description": "Soft Bone Wings Filled With Three + Sambal And Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "15000",
+    "name": "Paha Pentung Tulang Lunak",
+    "description": "Soft Bone Roasted Thigh + Sambal Lalapan",
+    "section": "#joyly"
+  },
+  {
+    "price": "29000",
+    "name": "Kalasan Chicken + Rice",
+    "description": "",
+    "section": "#joyly"
+  },
+  {
+    "price": "24000",
+    "name": "Ayam Kalasan Sambel Limau",
+    "description": "",
+    "section": "#joyly"
+  },
+  {
+    "price": "85000",
+    "name": "Grilled Soft Bones Chicken",
+    "description": "1 Grilled Chicken + Lalapan + Sambal",
+    "section": "#joyly"
+  },
+  {
+    "price": "70000",
+    "name": "Fried Soft Bone Bekak Chicken",
+    "description": "1 Chicken + Lalapan + Sambal",
+    "section": "#joyly"
+  },
+  {
+    "price": "85000",
+    "name": "Grilled Kalasan Bekak Chicken",
+    "description": "1 Chicken + Lalapan + Sambal 5U",
+    "section": "#joyly"
+  },
+  {
+    "price": "75000",
+    "name": "Fried Kalasan Bekak Chicken",
+    "description": "1 Chicken + Lalapan + Sambal 5U",
+    "section": "#joyly"
+  },
+  {
+    "price": "15000",
+    "name": "Green Sambal Baby Squid",
+    "description": "",
+    "section": "sambel"
+  },
+  {
+    "price": "3000",
+    "name": "Extra Sambel Ijo Jilis",
+    "description": "Green Sambal",
+    "section": "sambel"
+  },
+  {
+    "price": "3000",
+    "name": "Extra Sambel Galak",
+    "description": "",
+    "section": "sambel"
+  },
+  {
+    "price": "10000",
+    "name": "Jengkol Green Chili Sauce Bilis",
+    "description": "",
+    "section": "sambel"
+  },
+  {
+    "price": "7000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "egg"
+  },
+  {
+    "price": "7000",
+    "name": "Rolled Omelette",
+    "description": "",
+    "section": "egg"
+  },
+  {
+    "price": "6000",
+    "name": "Telur Dadar",
+    "description": "Omelet",
+    "section": "egg"
+  },
+  {
+    "price": "7000",
+    "name": "Salted Egg",
+    "description": "Duck Eggs",
+    "section": "egg"
+  },
+  {
+    "price": "5000",
+    "name": "Tofu Pepes",
+    "description": "Tofu + Egg + Spices",
+    "section": "pepes"
+  },
+  {
+    "price": "7000",
+    "name": "Pepes Jamur Tiram",
+    "description": "Pepes Oyster Mushrooms",
+    "section": "pepes"
+  },
+  {
+    "price": "10000",
+    "name": "Pepes Teri",
+    "description": "Anchovies + Young Mango + Spices Spices",
+    "section": "pepes"
+  },
+  {
+    "price": "15000",
+    "name": "Indonesian Fish Dish Made By Spiced Rastrelliger Steamed In Wrapped Banana Leaf",
+    "description": "Seasoned Fish Seasoned With Spices",
+    "section": "pepes"
+  },
+  {
+    "price": "12000",
+    "name": "3T Tofu Tempeh Egg",
+    "description": "Tofu And Egg Tempeh",
+    "section": "combo"
+  },
+  {
+    "price": "26000",
+    "name": "Paket Combo D",
+    "description": "Catfish Green Sauce + Rice + Teh Pucuk + Lalapan + Sambal",
+    "section": "combo"
+  },
+  {
+    "price": "33000",
+    "name": "Paket Combo C",
+    "description": "Rica Rica Cooked Chicken + Teh Pucuk + Rice",
+    "section": "combo"
+  },
+  {
+    "price": "33000",
+    "name": "Paket Combo B",
+    "description": "Chicken With Green Sauce + Rice + Topper Tea + Sambal + Lalapan",
+    "section": "combo"
+  },
+  {
+    "price": "33000",
+    "name": "Paket Combo A",
+    "description": "Crunchy Chicken + Rice + Teh Pucuk + Sambal + Lalapan",
+    "section": "combo"
+  },
+  {
+    "price": "26000",
+    "name": "Milkfish Presto + Rice",
+    "description": "Milkfish Presto + Rice + Lalapan + Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "20000",
+    "name": "Milkfish Presto",
+    "description": "Fried Milkfish",
+    "section": "fish"
+  },
+  {
+    "price": "17000",
+    "name": "Smoked Fish + Rice",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "12000",
+    "name": "Smoked Fish With Green Chili Sauce",
+    "description": "",
+    "section": "fish"
+  },
+  {
+    "price": "60000",
+    "name": "1 Pack Of Milkfish Cake",
+    "description": "Otak-Otak Milkfish + Gak Sambal + Ijo Bilis Sambal",
+    "section": "fish"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Pomfret Fish",
+    "description": "Fried Cabbage, Chili Sauce, Lalapan",
+    "section": "fish"
+  },
+  {
+    "price": "40000",
+    "name": "Fried Gourami Fish",
+    "description": "Fried Gourame Fish + Lalapan + Sambal 5U / Crispy Sambal / Green Sambal Bilis",
+    "section": "fish"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Tilapia Fish",
+    "description": "Fried Tilapia Fish + Lalapan + Sambal 5U / Sambal Gabak / Green Sambal Bilis",
+    "section": "fish"
+  },
+  {
+    "price": "18000",
+    "name": "Urap Rice + Tuna Fish/ Salted",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "17000",
+    "name": "Nasi Pecel Madiun Omelet",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "15000",
+    "name": "Just A Pecel Of Madiun",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "20000",
+    "name": "Fried Egg Pecel Rice",
+    "description": "Fried Egg Pecel Rice + Crackers/Crackers (Optional)",
+    "section": "various rice"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "11500",
+    "name": "Heart Banana Oblok Oblok",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "10000",
+    "name": "Tumis Pare Bilis",
+    "description": "Stir-Fried Bitter Gourd Vermicelli Of Pawon",
+    "section": "sayuran"
+  },
+  {
+    "price": "15000",
+    "name": "Oblok Oblok Durian Flower",
+    "description": "",
+    "section": "sayuran"
+  },
+  {
+    "price": "15000",
+    "name": "Cap Cay Sayur",
+    "description": "Capcay With Special Pawon Maki",
+    "section": "sayuran"
+  },
+  {
+    "price": "25000",
+    "name": "Cap Cay Udang",
+    "description": "Special Cap Cay Shrimp Of Pawon",
+    "section": "sayuran"
+  },
+  {
+    "price": "10000",
+    "name": "Spicy Blamed Kangkung",
+    "description": "Pawon Special Kangkung",
+    "section": "sayuran"
+  },
+  {
+    "price": "7000",
+    "name": "Chocolate Drink",
+    "description": "Belgian Chocolate Taste",
+    "section": "minuman"
+  },
+  {
+    "price": "3000",
+    "name": "Mineral Water",
+    "description": "Air Mineral Botol",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Teh Manis",
+    "description": "There Are Options: Warm / Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es Jeruk Manis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Jeruk Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Kombucha Tea 250Ml",
+    "description": "Sweet, Slightly Sweet And Sour Drink",
+    "section": "minuman"
+  },
+  {
+    "price": "5500",
+    "name": "Teh Pucuk",
+    "description": "Pucuk Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "22000",
+    "name": "Lele Siram Sambel Ijo Bilis + Nasi",
+    "description": "",
+    "section": "lele goreng"
+  },
+  {
+    "price": "18000",
+    "name": "Green Bilis Sambal Catfish",
+    "description": "",
+    "section": "lele goreng"
+  },
+  {
+    "price": "100000",
+    "name": "Paket 2",
+    "description": "2 Smashed Chicken + 2 Rice + 2 Teh Pucuk, Free Takjil",
+    "section": "#iftar withgrab"
+  },
+  {
+    "price": "100000",
+    "name": "Paket 3",
+    "description": "2 Chicken Green Sambal + 2 Rice + 2 Teh Pucuk, Free Takjil",
+    "section": "#iftar withgrab"
+  },
+  {
+    "price": "90000",
+    "name": "Paket 4",
+    "description": "2 Milkfish Presto + 2 Rice + 2 Teh Pucuk, Free Takjil",
+    "section": "#iftar withgrab"
+  },
+  {
+    "price": "33000",
+    "name": "Iftar Package",
+    "description": "Crunchy Chicken + Rice + Teh Pucuk + Gravy",
+    "section": "iftar package"
+  },
+  {
+    "price": "5000",
+    "name": "Chicken Potato Fritters",
+    "description": "Chicken Cake",
+    "section": "potato cakes"
+  },
+  {
+    "price": "6000",
+    "name": "Traktir Driver Mu Es Coklat",
+    "description": "Right Away, We Provide The Chocolate Cake",
+    "section": "traktir driver"
+  },
+  {
+    "price": "29000",
+    "name": "Traktir Driver Ayam Tulang Lunak Pakai Nasi",
+    "description": "We Provide It Right Away To The Driver",
+    "section": "traktir driver"
+  },
+  {
+    "price": "17000",
+    "name": "Treat Drivers To Nasi Pecel Madiun",
+    "description": "Right Away, We Provide It To The Pecel Rice Driver",
+    "section": "traktir driver"
+  },
+  {
+    "price": "5000",
+    "name": "Traktir Driver Teh Pucuk",
+    "description": "Immediately We Provide It To The Topper Tea",
+    "section": "traktir driver"
+  },
+  {
+    "price": "3000",
+    "name": "Keripik Singkong",
+    "description": "Cassava Chips",
+    "section": "crackers"
+  },
+  {
+    "price": "2000",
+    "name": "White Canned Crackers",
+    "description": "Can / Pcs Crackers",
+    "section": "crackers"
+  },
+  {
+    "price": "3500",
+    "name": "Cattle Skin Crackers",
+    "description": "Beef Skin Crackers",
+    "section": "crackers"
+  },
+  {
+    "price": "25000",
+    "name": "Duck Rendang + Rice",
+    "description": "Duck Rendang + Rice",
+    "section": "duck"
+  },
+  {
+    "price": "20000",
+    "name": "Peking Duck Rendang",
+    "description": "Peking Duck Rendang",
+    "section": "duck"
+  },
+  {
+    "price": "28000",
+    "name": "Bebek Peking Kremes",
+    "description": "Duck + Crunchy Bits + Lalapan + Green Sambal Bilis / Crispy Sambal",
+    "section": "duck"
+  },
+  {
+    "price": "28000",
+    "name": "Bebek Peking Goreng Sambel Ijo Bilis",
+    "description": "Fried Duck + Chili Sauce + Lalapan",
+    "section": "duck"
+  },
+  {
+    "price": "28000",
+    "name": "Rica Rica Bebek Peking Pedas",
+    "description": "Duck Cooked In Rica Rica Style Pawon",
+    "section": "duck"
+  },
+  {
+    "price": "25000",
+    "name": "Sop Iga Sapi",
+    "description": "Fresh Ribs",
+    "section": "sop"
+  },
+  {
+    "price": "29000",
+    "name": "1 Beef Rib Soup, 1 White Rice",
+    "description": "Beef Rib Soup + Rice",
+    "section": "sop"
+  }
+]

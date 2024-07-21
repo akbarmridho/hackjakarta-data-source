@@ -1,0 +1,614 @@
+[
+  {
+    "price": "63800",
+    "name": "Beli 2 Gratis 1 Teh Violet",
+    "description": "2 Cubes Tea Free 1 Lemon Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "63800",
+    "name": "Beli 2 Gratis 1 Teh Violet",
+    "description": "2 Cubes Tea Free 1 Lemon Tea",
+    "section": "special offer"
+  },
+  {
+    "price": "27500",
+    "name": "Espresso Creamy",
+    "description": "Black Coffee With Soft Foam Cream And A Fragrant Stock Aroma",
+    "section": "mendadak krimi"
+  },
+  {
+    "price": "27500",
+    "name": "Creamy Tea",
+    "description": "Tasted Tea With Soft Foam Cream And Aroma Of Stock",
+    "section": "mendadak krimi"
+  },
+  {
+    "price": "27500",
+    "name": "Milk Creamy Coffee",
+    "description": "Milk Coffee With Soft Foam Cream And A Fragrant Aroma Of Stock",
+    "section": "mendadak krimi"
+  },
+  {
+    "price": "31900",
+    "name": "Melati Koko",
+    "description": "Hydrococo With Peach And Lychee Combined With Toni Water And Coconut Jelly",
+    "section": "suddenly coconut"
+  },
+  {
+    "price": "31900",
+    "name": "Mango Koko",
+    "description": "Mango Creamy With Freshmilk Combined With Hydroco",
+    "section": "suddenly coconut"
+  },
+  {
+    "price": "31900",
+    "name": "Kopi Koko",
+    "description": "Codbrew With Peach And Lychee Combined With Hydroco",
+    "section": "suddenly coconut"
+  },
+  {
+    "price": "27500",
+    "name": "Rosella Koko",
+    "description": "Rosella Tea With Peach And Lychee Combined With Hydrococo And Toni Water",
+    "section": "suddenly coconut"
+  },
+  {
+    "price": "31900",
+    "name": "Coco Chocolate",
+    "description": "Chocolate Liqued With Hydro Coco And Waven Kalpa Topping",
+    "section": "suddenly coconut"
+  },
+  {
+    "price": "11000",
+    "name": "Almond Milk",
+    "description": "Change Milk",
+    "section": "extra additional minuman"
+  },
+  {
+    "price": "11000",
+    "name": "Oat Milk",
+    "description": "Change Milk",
+    "section": "extra additional minuman"
+  },
+  {
+    "price": "9900",
+    "name": "Exta Duren",
+    "description": "",
+    "section": "extra additional minuman"
+  },
+  {
+    "price": "7700",
+    "name": "Extra Shot",
+    "description": "",
+    "section": "extra additional minuman"
+  },
+  {
+    "price": "36300",
+    "name": "Nasi Merem Melek Contemporary",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "42900",
+    "name": "Brake Literacy Chicken Rice",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "45100",
+    "name": "Nasi Merem Melek Dori",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "47300",
+    "name": "Delicious Rice With Meat",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "47300",
+    "name": "Shrimp Blinking Rice",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "45100",
+    "name": "Nasi Merem Melek Cumi",
+    "description": "Fried Rice Topped With Your Choice Of Meat On Top ( Complemented With A Separate Kore Sambal)",
+    "section": "literacy rice"
+  },
+  {
+    "price": "36300",
+    "name": "Daur Baur Milk Coffee",
+    "description": "Coffee Milk With Palm Sugar",
+    "section": "daur baur series"
+  },
+  {
+    "price": "36300",
+    "name": "Susu Daur Baur Plain",
+    "description": "Oaf And Almond Milk + Palm Sugar",
+    "section": "daur baur series"
+  },
+  {
+    "price": "36300",
+    "name": "Susu Daur Baur Vanila",
+    "description": "Oat And Almond Milk + Vanilla",
+    "section": "daur baur series"
+  },
+  {
+    "price": "36300",
+    "name": "Susu Daur Baur Melon",
+    "description": "Oat And Almond Milk + Melon",
+    "section": "daur baur series"
+  },
+  {
+    "price": "19800",
+    "name": "Ginger Drink",
+    "description": "Only Pandaa",
+    "section": "series not coffee"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Chocolate",
+    "description": "A Mix Of Belgian Chocolate And Dark Chocolate",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Chocolate Ice",
+    "description": "A Mix Of Belgian Chocolate With Dark Chocolate",
+    "section": "series not coffee"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Taro Latte",
+    "description": "Taro And Milk Are Of All People Salad",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Ice Taro Latte",
+    "description": "Taro And All People'S Milk",
+    "section": "series not coffee"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Matcha Latte",
+    "description": "Saraa And Milk + Matcha Ice Cream Makes Its Own",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Ice Matcha Latte",
+    "description": "Saraa And Milk + Matcha Ice Cream Makes Its Own",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Love Potion",
+    "description": "Strawberry Asli + Susu + Yoghurt + Mint Blended",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Mango Lassie",
+    "description": "Mango + Yogurt + Mint Blended",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Rosberi",
+    "description": "Rosella + Strawberry",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Teh Violet",
+    "description": "Rosella, Mint, Rose, Blue Curcao",
+    "section": "series not coffee"
+  },
+  {
+    "price": "19800",
+    "name": "Teh Ella",
+    "description": "Rose And Rosella Marinated Tea",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "This Is Milk Tea",
+    "description": "Milk + Earl Gray",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Teh Melon",
+    "description": "Tea And Melon",
+    "section": "series not coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Teh Apel",
+    "description": "Tea And Apple",
+    "section": "series not coffee"
+  },
+  {
+    "price": "19800",
+    "name": "Es Kunci Nako",
+    "description": "Fresh Sweet Taste From Fresh Squeezed Oranges",
+    "section": "series not coffee"
+  },
+  {
+    "price": "19800",
+    "name": "Es Lemon Kocok",
+    "description": "Fresh Sour Taste From Original Lemon Juice",
+    "section": "series not coffee"
+  },
+  {
+    "price": "38500",
+    "name": "Mie Ayam Chili Oil",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "38500",
+    "name": "Mie Ayam Nako",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "36300",
+    "name": "Cuanki",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "49500",
+    "name": "Nasi Goreng Kambing",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "38500",
+    "name": "Fried Noodles",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "38500",
+    "name": "Kwetiaw Goreng",
+    "description": "",
+    "section": "noodle/kwetiaw/meatballs"
+  },
+  {
+    "price": "25300",
+    "name": "Es Kopi Nako",
+    "description": "Nasi Kopi Susu, Sono'S Special Milk Coffee",
+    "section": "nako coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Es Kopi Nako Se-Trong",
+    "description": "Double Espresso",
+    "section": "nako coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Lovely Iced Coffee",
+    "description": "Coffee, Milk And Honey",
+    "section": "nako coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Es Kopi Nako Duren",
+    "description": "Iced Coffee Milk With Real Durian",
+    "section": "nako coffee series"
+  },
+  {
+    "price": "29700",
+    "name": "Coffee Kah-Lua",
+    "description": "Ice Coffee Flavor-Lua",
+    "section": "kah-lua series"
+  },
+  {
+    "price": "31900",
+    "name": "Chocolate Drink",
+    "description": "Are-Lua + Chocolate",
+    "section": "kah-lua series"
+  },
+  {
+    "price": "31900",
+    "name": "Fruit Coffee",
+    "description": "Codbrew With Peach And Lychee Fruit Flavor",
+    "section": "seri coldbrew"
+  },
+  {
+    "price": "31900",
+    "name": "Cactus Coffee",
+    "description": "Coldbrew, Apel, Rose, Agave",
+    "section": "seri coldbrew"
+  },
+  {
+    "price": "31900",
+    "name": "Kopi Tonic",
+    "description": "Coldbrew, Tonic",
+    "section": "seri coldbrew"
+  },
+  {
+    "price": "31900",
+    "name": "Honey Coffee",
+    "description": "Codbrew, Honey",
+    "section": "seri coldbrew"
+  },
+  {
+    "price": "31900",
+    "name": "Melon Coffee",
+    "description": "Coldbrew, Melon",
+    "section": "seri coldbrew"
+  },
+  {
+    "price": "44000",
+    "name": "Plater Nako",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "24200",
+    "name": "Grilled Banana",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "33000",
+    "name": "Reverse Tofu",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "27500",
+    "name": "Fried Tapioca",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "38500",
+    "name": "Bolabi",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "16500",
+    "name": "Cassava",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "24200",
+    "name": "Salt Chili Tofu",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "24200",
+    "name": "Kentang Goreng",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "33000",
+    "name": "Kentang Sosis",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "38500",
+    "name": "Kentang Nugget",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "38500",
+    "name": "Karaage Potatoes",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "38500",
+    "name": "Fish Cake",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "33000",
+    "name": "Taichan",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "24200",
+    "name": "Tempe Mendoan",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "18700",
+    "name": "Fried Bananas",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "29700",
+    "name": "Donat Siram",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "29700",
+    "name": "Nako Banana",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "29700",
+    "name": "Toast",
+    "description": "",
+    "section": "nako snacks"
+  },
+  {
+    "price": "25300",
+    "name": "Hot Black Coffee",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "29700",
+    "name": "Ice Black Coffee",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "20900",
+    "name": "Espresso 1 Shot",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "23100",
+    "name": "Espresso 2 Shot",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Cappuccino",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Ice Cappuccino Ala Nako",
+    "description": "Cappuccino With Vanilla Ice Cream Shake",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Vanila Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Ice Vanila Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Caramel Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Ice Caramel Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "27500",
+    "name": "Hot Pandan Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Es Pandan Latte",
+    "description": "",
+    "section": "regular coffee series"
+  },
+  {
+    "price": "31900",
+    "name": "Rose Tonic",
+    "description": "Rosella Tea, Calksy With Toni Water",
+    "section": "roasted house series"
+  },
+  {
+    "price": "31900",
+    "name": "Flower Tea",
+    "description": "Tea, Rosella And Agave",
+    "section": "roasted house series"
+  },
+  {
+    "price": "31900",
+    "name": "Su-Ma-Ja",
+    "description": "Milk, Honey And Ginger",
+    "section": "roasted house series"
+  },
+  {
+    "price": "25300",
+    "name": "Hot Coffee Nusantara",
+    "description": "Milk Coffee + Pandan + Coconut",
+    "section": "not a regular coffee"
+  },
+  {
+    "price": "29700",
+    "name": "Es Kopi Nusantara",
+    "description": "Milk Coffee + Pandan + Coconut",
+    "section": "not a regular coffee"
+  },
+  {
+    "price": "31900",
+    "name": "Avocado Coffee",
+    "description": "Avocado Coffee",
+    "section": "not a regular coffee"
+  },
+  {
+    "price": "25300",
+    "name": "Nakopresso",
+    "description": "Espresso And Milk + Palm Sugar",
+    "section": "not a regular coffee"
+  },
+  {
+    "price": "27500",
+    "name": "Chocopresso",
+    "description": "Chocolate Taste Of Coffee",
+    "section": "not a regular coffee"
+  },
+  {
+    "price": "115500",
+    "name": "Black Coffee 1 Liter",
+    "description": "Black Coffee In A Bottle",
+    "section": "bottle series"
+  },
+  {
+    "price": "33000",
+    "name": "Black Coffee 270Ml",
+    "description": "Black Coffee In A Bottle Pack",
+    "section": "bottle series"
+  },
+  {
+    "price": "16500",
+    "name": "Black Coffee 130Ml",
+    "description": "Black Coffee With Bottle Packaging",
+    "section": "bottle series"
+  },
+  {
+    "price": "16500",
+    "name": "Nako Coffee 130Ml",
+    "description": "",
+    "section": "bottle series"
+  },
+  {
+    "price": "33000",
+    "name": "Nako Coffee 270Ml",
+    "description": "",
+    "section": "bottle series"
+  },
+  {
+    "price": "115500",
+    "name": "Nako Coffee 1L",
+    "description": "",
+    "section": "bottle series"
+  }
+]

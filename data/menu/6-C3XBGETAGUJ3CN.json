@@ -1,0 +1,308 @@
+[
+  {
+    "price": "39000",
+    "name": "Mbk - Honey Jackfruit",
+    "description": "With Honey Jackfruit Variant From Steamed Bakpia Otak With Sponge Special Soft Jackfruit Of Honey Plus With Filling",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mango Arumanis Drink",
+    "description": "With A Variety Of Original Mangoes From Steamed Bakpia Otak With Sponge",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Tiramisu Crepe",
+    "description": "With Tiramisu Variant From Matah Steamed Bakpia With Soft Flavored Sponge Tiramisu Filled With Cucumber Tiramisu Filling Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Chocoreo Lezato",
+    "description": "With Delicious Chocoreo Variant From Steamed Bakpia Otak With Sponge Soft Vanilla Flavor With Jam Filling Melted Chocolate Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Keju Cheddar",
+    "description": "With Cheddar Cheese Variant From Matah Steamed Bakpia With Soft Flavored Sponge Cheese With A Dense Cuard Cheese Filling Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Matcha Latte",
+    "description": "With Matcha Latte Variant From Matah Steamed Bakpia With Soft Flavored Sponge Matcha Filled With Cu Bestard Matcha Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Red Velvet",
+    "description": "With Red Velvet Variant From Matah Steamed Bakpia With Soft Flavored Sponge Red Velvet With Cheese Filling Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Stroberi Ciwidey",
+    "description": "With A Strawberries Of Ciwidey From Steamed Bakpia Otak With Sponge Soft Taste Strawberries With Cuestard Filling Crispy Strawberries Inside",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Durian Musang King",
+    "description": "With A Variety Of Raj'S Signature Durian Variants From Raj Steamed Bakpia Otak With Sponge Soft Taste Of Durian With Cuestard Filling Dense Durian Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Avocado Butter",
+    "description": "With Avocado Variant From Matah Steamed Bakpia With Soft Flavored Sponge Avocado Filled With Cu Bestard Avocado Butter Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Kurma Ajwa",
+    "description": "With Ajwa'S Signature Broth Variant From Matah Steamed Bakpia With Soft Flavored Sponge Ajwa'S Special Bulma With Cuestard Filling Kurma Filled With Filling.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Rock Melon",
+    "description": "With A Rock Melon Variant From Matah Steamed Bakpia With Soft Flavored Sponge Melon Filled With Cubard Melon Dense Inside",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Choco Pandan",
+    "description": "With Choco Pandan Variant From Steamed Bakpia Otak With Sponge Soft Pandan Flavors With Jam Filling Melted Chocolate Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Pandan Wangi",
+    "description": "With Fragrant Pandan Variants From Steamed Bakpia Otak With Sponge Soft-Flavored Pandan Filling With Cugud Srikaya Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - King Banana",
+    "description": "With Banana Sauce, Raj From Matah Steamed Bakpia With Soft Flavored Sponge Bananas With Banana Vinegar Filling Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Green Beans",
+    "description": "With Green Bean Variant From Matah Steamed Bakpia With Soft Flavored Sponge Green Beans Filled With Green Bean Vinegar Dense Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Caffe Latte",
+    "description": "With A Variant Of Caffe Latte From Matah Steamed Bakpia With Soft Flavored Sponge",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Blackforest",
+    "description": "With Black Forest Variant From Matah Steamed Bakpia With Soft Flavored Sponge Black Forest Filled With Blueberry Jam Melted Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Brownies Cokelat",
+    "description": "With Chocolate Brownies Variant From Steamed Bakpia Otak With Sponge Soft Brownies Flavored With Jam Filling Melted Chocolate Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "39000",
+    "name": "Mbk - Chocolate Milk",
+    "description": "With Chocolate Milk Variant From Matah Steamed Bakpia With Soft Flavored Sponge Chocolate Milk With Chocolate Jam Filling Melted Inside.",
+    "section": "steamed mataram bakpia"
+  },
+  {
+    "price": "1000",
+    "name": "Plastik",
+    "description": "",
+    "section": "packaging"
+  },
+  {
+    "price": "45000",
+    "name": "Dessert Cake - Black Forest",
+    "description": "",
+    "section": "siliwangi dessert cake"
+  },
+  {
+    "price": "45000",
+    "name": "Dessert Cake - Original Cheese",
+    "description": "",
+    "section": "siliwangi dessert cake"
+  },
+  {
+    "price": "45000",
+    "name": "Dessert Cake - Mocha Coffee",
+    "description": "",
+    "section": "siliwangi dessert cake"
+  },
+  {
+    "price": "45000",
+    "name": "Dessert Cake - Avocado Butter",
+    "description": "",
+    "section": "siliwangi dessert cake"
+  },
+  {
+    "price": "45000",
+    "name": "Dessert Cake - Red Velvet",
+    "description": "",
+    "section": "siliwangi dessert cake"
+  },
+  {
+    "price": "15000",
+    "name": "Coco Nico Coconut Juice",
+    "description": "Fresh Fruit Juice Original Coconut Combined With The Best Milk And Nata Coco, Makes The Combination Of Delicious Cococo Flavor, Fresh And Healthy.",
+    "section": "minuman"
+  },
+  {
+    "price": "39000",
+    "name": "Black Pink",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Durian Montong",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Black Forest",
+    "description": "With Black Forest Variant From Siliwangi Bolu Kukus, This Variant Has A Full Taste Of Luxury. The Chocolate Cake Mix Is Coated With Blueberry Jam Inside As Well As The Addition Of Premium Chocolate Topping On Top Which Is Appetizing And Makes This Product Special To Be Enjoyed With The Family.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Pandan Wangi",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Butter Avocado",
+    "description": "With Avocado Fruit Flavor, This Variant Is Made Special For The Legit Fruit Pent And The Aroma Of Avocado. Has Three Layers Of Colors Of Green Colors, The Middle Of Yellow Layers, And Green Layers.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Brownies Coklat",
+    "description": "With Selected Chocolate Flavors, Steamed Sponge Which Has Three Layers Of Colors Are Layers Of White Chocolate, The Middle Layers Of Young Chocolate, And An Old Chocolate Layer.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Durian Musang King",
+    "description": "The Combination Of Crispy Durian Raj From Classic Siliwaniwangi, This Is Also A Taste Full Of Luxury. Durian Durian Mixture Of Raj, Coated With Durian Chocolate Jam, Too, Extra Topping In Grated Chocolate Topping.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Cokelat Tiramisu",
+    "description": "Tiramisu Chocolate Variant From The Classic Siliwangi Classic Maximum Because It Has Two Different Layers Of Sponge, Which Is The First Layer Of Chocolate Flavor And The Layer Of Flavors Of Teramisu. Also With Extra Chocolate Cream In The Middle Of The Cucumber And Consume On The Top.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Tiramisu",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Matcha Latte",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Sticky Rice Pandan",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Salted Egg",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Brownies Susu",
+    "description": "",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Cheddar Cheese",
+    "description": "With Cheddar Cheese Variants From Siliwangi Steamed Bolu, This Variant Is Savory And Cheese Cake. The Combination Of A Soft Cheddar Cheese And Coated With Sprinkled With Oreos Inside, Also Extra Topping Of Cheese On Top Of Abundant Cheese And A Sprinkling Of Sprinkling Of Cheese On Top.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Chocolate Milk",
+    "description": "With Chocolate Milk Flavor Variant From Siliwangi Steamed Bolu, Has 1 Layer Of Vanilla Which Makes It Abundant Taste. The Sponge Coated With Chocolate Milk And Abundant Sprinkling Of Chocolate Grated On Top.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Cheese Brownies",
+    "description": "With Brownies Cheese Variant From Siliwangi Steamed Bolu. The Combination Of Chocolate And Savory Cheese Combined Into One Sponge. And A Combination Of Abundant Grated Grated Sprinkling Of Grated Grated Cheese On Top.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Chocolate Oreos",
+    "description": "With The Variants Of Bureo From Siliwangi Steamed Bolu, 3 Layers Of Colors Are From Oreos On Top, The Chocolate Flavored Cakes In The Middle And Lower Layers Of Oreo. Of Course Filling The Van Topping And Abundant Sprinkling Of Cheese",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Lembang Milk",
+    "description": "With The Milk Taste Of Bandung'S Signature Legung, It Has Three Layers Of Colors, The Middle Of Crispy White Chocolate, And A Lower Layer Of White People As Shown In The Selected Fresh Milk.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Stroberi Ciwidey",
+    "description": "With A Distinctive Strawberries Taste Of Ciwiy, Bandung, This Strawberries Variant Has Three Layers Of Young Red Coated, The Middle Of White Layer, And A Unique Young Layer Of Cheese And Textures Inside The Seasoning Of Availability",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Bogor Coffee",
+    "description": "With The Bogor Coffee Flavor, This Variant Is Very Special With The Aroma That Is Very Fragrant With The Aroma Of Coffee. There Are 3 Layers Of Colors In The Cake Are Young Chocolate, The Middle Of White Chocolate, And Lower Chocolate Layers.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Coconut Sticky Rice",
+    "description": "With The Taste Of Coconuts And Coconuts, The Variants That Have Three Layers Of Color Are An Old Layer Of Purple, The Middle Layers Of White, And The Poured Layers Of Anchovies Together Taste, Combined With Abundant Topping Of Cheese And Abundant Sprinkling Of Cheese On Top",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Talas Bogor",
+    "description": "With The Distinctive Bogor Taro Taste As The Characteristics Of Bogor Have A Unique Variant That Has Three Layers Of Purple Colors, The Middle Layers Of Yellow, And Lower Layer Of Mango Pearls As The Fruit For The Family Or At Home Of Relatives.",
+    "section": "classic sponge cake siliwangi"
+  },
+  {
+    "price": "39000",
+    "name": "Indramayu Mango",
+    "description": "With Other Special Indonesian Mango Flavors From Siliwangi Steamed Cakes Has Three Layers Of Color On Top Of Yellow, The Middle Layer Of Oranese, And The Lower Layers Of Yellow.",
+    "section": "classic sponge cake siliwangi"
+  }
+]

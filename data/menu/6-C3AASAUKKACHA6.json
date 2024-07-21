@@ -1,0 +1,134 @@
+[
+  {
+    "price": "34000",
+    "name": "Sate Ayam 10Tusuk+Lontong 2Pis",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "25500",
+    "name": "Sate Ayam 10Tusuk",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "51000",
+    "name": "Sate Ayam 20Tusuk",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "76000",
+    "name": "Sate Ayam 30Tusuk",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "101000",
+    "name": "Sate Ayam 40Tusuk",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "126000",
+    "name": "Sate Ayam 50Tusuk",
+    "description": "Chicken Satay With Peanut Sauce",
+    "section": "chicken satay with peanut sauce"
+  },
+  {
+    "price": "11000",
+    "name": "White Rice",
+    "description": "One Portion",
+    "section": "rice with rice cake"
+  },
+  {
+    "price": "17000",
+    "name": "Lontong 3Pis",
+    "description": "Poton Liver G",
+    "section": "rice with rice cake"
+  },
+  {
+    "price": "11000",
+    "name": "Lontong 2Pis",
+    "description": "It Can Be Cut Can Be Cut",
+    "section": "rice with rice cake"
+  },
+  {
+    "price": "9500",
+    "name": "Te Botol",
+    "description": "Bottled Tea",
+    "section": "ari minum"
+  },
+  {
+    "price": "12000",
+    "name": "Good Day",
+    "description": "Good Day",
+    "section": "ari minum"
+  },
+  {
+    "price": "12000",
+    "name": "Fanta",
+    "description": "Fanta",
+    "section": "ari minum"
+  },
+  {
+    "price": "12000",
+    "name": "Coca Cola",
+    "description": "Coca Cola",
+    "section": "ari minum"
+  },
+  {
+    "price": "12000",
+    "name": "Sprite",
+    "description": "Sprite",
+    "section": "ari minum"
+  },
+  {
+    "price": "3000",
+    "name": "Cheap Water",
+    "description": "Mineral Water",
+    "section": "ari minum"
+  },
+  {
+    "price": "8000",
+    "name": "Aqua 500Mil",
+    "description": "Aqua",
+    "section": "ari minum"
+  },
+  {
+    "price": "34000",
+    "name": "Sate Taichan 10Tusuk +Lontong 2Pis",
+    "description": "Sate Taichan Lontong",
+    "section": "sate tainchan"
+  },
+  {
+    "price": "25500",
+    "name": "Sate Tainchan 10Tusuk",
+    "description": "Sate Tainchan",
+    "section": "sate tainchan"
+  },
+  {
+    "price": "51000",
+    "name": "Sate Tainchan 20Tusk",
+    "description": "Tainchan Satay",
+    "section": "sate tainchan"
+  },
+  {
+    "price": "76000",
+    "name": "Sate Tainchan 30Tusuk",
+    "description": "Tainchan Satay",
+    "section": "sate tainchan"
+  },
+  {
+    "price": "101000",
+    "name": "Sate Tainchan 40Tuauk",
+    "description": "Tainchan Satay",
+    "section": "sate tainchan"
+  },
+  {
+    "price": "127000",
+    "name": "Sate Tainchan 50Tusuk",
+    "description": "Tainchan Satay",
+    "section": "sate tainchan"
+  }
+]

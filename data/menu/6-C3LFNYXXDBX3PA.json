@@ -1,0 +1,266 @@
+[
+  {
+    "price": "3000",
+    "name": "1 Duck Head",
+    "description": "",
+    "section": "duck package"
+  },
+  {
+    "price": "36000",
+    "name": "Black Spiced Duck Rice",
+    "description": "Rice, Duck",
+    "section": "duck package"
+  },
+  {
+    "price": "36000",
+    "name": "Black Spiced Chicken Rice",
+    "description": "Chicken Rice",
+    "section": "duck package"
+  },
+  {
+    "price": "36000",
+    "name": "Green Sambal Mashed Duck Rice",
+    "description": "Rice, Duck, Green Sauce",
+    "section": "duck package"
+  },
+  {
+    "price": "30000",
+    "name": "Black Spiced Duck Liver Gizzard Rice",
+    "description": "Rice, Liver Gizzard, Black Seasoning",
+    "section": "duck package"
+  },
+  {
+    "price": "36000",
+    "name": "Green Sambal Mashed Chicken Rice",
+    "description": "Rice, Chicken,",
+    "section": "duck package"
+  },
+  {
+    "price": "43000",
+    "name": "Nasbek+Ti Gizzard Black Spices",
+    "description": "Rice, Duck, Liver Gizzard",
+    "section": "duck package"
+  },
+  {
+    "price": "40000",
+    "name": "Black Seasoned Duck Rice With Tempeh Tofu",
+    "description": "Rice, Duck, Tempeh Tofu",
+    "section": "duck package"
+  },
+  {
+    "price": "40000",
+    "name": "Black Seasoned Chicken Rice With Tempeh Tofu",
+    "description": "Rice, Chicken, Black Seasoning, Tofu And Tempe",
+    "section": "duck package"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Rice With Green Chili Sauce And Tofu Tempeh",
+    "description": "Rice, Chicken, Green Sambal",
+    "section": "duck package"
+  },
+  {
+    "price": "48000",
+    "name": "Super Jumbo Green Chili Sauce Smashed Duck Rice",
+    "description": "Rice, Duck",
+    "section": "duck package"
+  },
+  {
+    "price": "48000",
+    "name": "Super Jumbo Black Spiced Duck Rice",
+    "description": "Rice, Jumbo Duck",
+    "section": "duck package"
+  },
+  {
+    "price": "68000",
+    "name": "Duck Rice Package For Two",
+    "description": "2 Rice, 2 Duck, 2 Pieces Of Mineral Water 600Ml",
+    "section": "duck package"
+  },
+  {
+    "price": "68000",
+    "name": "Fried Chicken Rice Package For Two",
+    "description": "2 Rice, 2 Chicken, 2 Lemonral Water 600Ml",
+    "section": "duck package"
+  },
+  {
+    "price": "3000",
+    "name": "Canned Crackers",
+    "description": "Crackers",
+    "section": "sambel package"
+  },
+  {
+    "price": "3000",
+    "name": "Tempe Goreng",
+    "description": "Tempeh",
+    "section": "sambel package"
+  },
+  {
+    "price": "3000",
+    "name": "Fried Tofu",
+    "description": "Fried Tofu",
+    "section": "sambel package"
+  },
+  {
+    "price": "8000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "sambel package"
+  },
+  {
+    "price": "5000",
+    "name": "Bumbu Hitam",
+    "description": "Black Seasoning",
+    "section": "sambel package"
+  },
+  {
+    "price": "5000",
+    "name": "Sambel Ijo",
+    "description": "Sambal",
+    "section": "sambel package"
+  },
+  {
+    "price": "15000",
+    "name": "Jus Wortel",
+    "description": "Carrots, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Jus Tomat",
+    "description": "Tomato, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Jus Melon",
+    "description": "Melon, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Mango Juice",
+    "description": "Mango, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Apple Juice",
+    "description": "Apple Fruit, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Pear Juice",
+    "description": "Pier, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Dragon Fruit Juice",
+    "description": "Dragon Fruit, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Avocado Juice",
+    "description": "Avocado, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Sunkist Juice",
+    "description": "Sunkist Oranges, Sugar, Milk",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Jus Strowbery",
+    "description": "Strowbery,Susu,Gula",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Young Coconut Juice",
+    "description": "Young Coconut, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Jus Jambu",
+    "description": "Guava, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Jus Sirsak",
+    "description": "Soursop, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Jus Durian",
+    "description": "Durian, Milk, Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Banana Juice",
+    "description": "Banana Sugar",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Pucuk Harum",
+    "description": "Pucuk Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Aqua Ltr/1500Ml",
+    "description": "Mimerale Water",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Aqua 600Ml",
+    "description": "Minral Water",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Jeruk Peras Hangat",
+    "description": "Squeezed Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Jeruk Peras",
+    "description": "Squeezed Oranges, Sugar, Ice Cubes",
+    "section": "minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "Plain Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Teh Tawar Hangat",
+    "description": "Plain Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "Tea, Sugar, Hot Water",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "Tea, Ice Cubes, Sugar",
+    "section": "minuman"
+  }
+]

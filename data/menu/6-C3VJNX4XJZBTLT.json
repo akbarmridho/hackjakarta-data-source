@@ -1,0 +1,76 @@
+[
+  {
+    "price": "47200",
+    "name": "Menu Tour De Sarinah",
+    "description": "",
+    "section": "tds"
+  },
+  {
+    "price": "59000",
+    "name": "Cracker Variety",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "47200",
+    "name": "Crackers",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "53100",
+    "name": "Fried Lenggang Fishcake",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "14160",
+    "name": "White Rice",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "44250",
+    "name": "Submarine",
+    "description": "",
+    "section": "food"
+  },
+  { "price": "59000", "name": "Model", "description": "", "section": "food" },
+  {
+    "price": "73750",
+    "name": "Catfish Pindang",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "53100",
+    "name": "Various Pempek 1 Portion",
+    "description": "Contains 3",
+    "section": "food"
+  },
+  { "price": "59000", "name": "Tekwan", "description": "", "section": "food" },
+  {
+    "price": "53100",
+    "name": "Grilled Lenggang",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "70800",
+    "name": "Martabak Kari",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "79650",
+    "name": "Bone Pindang",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "59000",
+    "name": "Celor Noodles",
+    "description": "",
+    "section": "food"
+  }
+]

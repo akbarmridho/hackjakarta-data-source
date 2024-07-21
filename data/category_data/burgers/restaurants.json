@@ -1,48 +1,27 @@
 [
-    {
-        "name": "Moon Chicken (Korean Fried Chicken) - Cikini",
-        "tags": [
-            "Chicken",
-            "Fast Food",
-            "Korean",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/moon-chicken-korean-fried-chicken-cikini-delivery/6-C2AUFF3ULNUCNE?"
-    },
-    {
-        "name": "Hot Side Story (Spicy Fried Chicken) - Cikini",
-        "tags": [
-            "Chicken",
-            "Fast Food",
-            "Rice",
-            "International"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/hot-side-story-spicy-fried-chicken-cikini-delivery/6-C4JHVGMCFBTGLJ?"
-    },
-    {
-        "name": "Johnny Rockets - Sahid Sudirman",
-        "tags": [
-            "International",
-            "Snack",
-            "Fast Food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/johnny-rockets-sahid-sudirman-delivery/IDGFSTI000002pd?"
-    },
-    {
-        "name": "Chicken Burger by Hangry - Cikini",
-        "tags": [
-            "Chicken",
-            "Snack",
-            "Korean"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/chicken-burger-by-hangry-cikini-delivery/6-C4KHDELJHA5HNE?"
-    },
-    {
-        "name": "Keblenger Burger - Gandul",
-        "tags": [
-            "Burgers",
-            "Fast Food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/keblenger-burger-gandul-delivery/6-C26FEVDDVVD2AA?"
-    }
+  {
+    "name": "Moon Chicken (Korean Fried Chicken) - Cikini",
+    "tags": ["Chicken", "Fast Food", "Korean", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/moon-chicken-korean-fried-chicken-cikini-delivery/6-C2AUFF3ULNUCNE?"
+  },
+  {
+    "name": "Hot Side Story (Spicy Fried Chicken) - Cikini",
+    "tags": ["Chicken", "Fast Food", "Rice", "International"],
+    "link": "https://food.grab.com/id/en/restaurant/hot-side-story-spicy-fried-chicken-cikini-delivery/6-C4JHVGMCFBTGLJ?"
+  },
+  {
+    "name": "Johnny Rockets - Sahid Sudirman",
+    "tags": ["International", "Snack", "Fast Food"],
+    "link": "https://food.grab.com/id/en/restaurant/johnny-rockets-sahid-sudirman-delivery/IDGFSTI000002pd?"
+  },
+  {
+    "name": "Chicken Burger by Hangry - Cikini",
+    "tags": ["Chicken", "Snack", "Korean"],
+    "link": "https://food.grab.com/id/en/restaurant/chicken-burger-by-hangry-cikini-delivery/6-C4KHDELJHA5HNE?"
+  },
+  {
+    "name": "Keblenger Burger - Gandul",
+    "tags": ["Burgers", "Fast Food"],
+    "link": "https://food.grab.com/id/en/restaurant/keblenger-burger-gandul-delivery/6-C26FEVDDVVD2AA?"
+  }
 ]

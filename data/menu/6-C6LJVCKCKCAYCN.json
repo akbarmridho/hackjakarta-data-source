@@ -1,0 +1,170 @@
+[
+  {
+    "price": "80000",
+    "name": "Pandan Dough Chocolate Banana Package + Special Beef",
+    "description": "Sweet Banana Chocolate Aroma Pandan + Chicken Egg Special Beef",
+    "section": "paket manis + telor"
+  },
+  {
+    "price": "69000",
+    "name": "Sweet Chocolate Peanut Package + Special Chicken Meat",
+    "description": "Chocolate Peanut Sweet Martabak + Special Chicken Egg Martabak + Chicken Meat",
+    "section": "paket manis + telor"
+  },
+  {
+    "price": "78000",
+    "name": "Special Chicken Meat Package + Banana Cheese + Mini Cheese",
+    "description": "Shredded Chicken Egg Martabak + Banana Cheese Special + Mini Cheese (You Can Choose The Special Sweetness With 2 Flavors)",
+    "section": "paket manis + telor"
+  },
+  {
+    "price": "65000",
+    "name": "Martel Bebek Extra Daging Sapi Istimewa",
+    "description": "Extra Duck Eggs + Extra Beef + Taliwang Special Seasoning",
+    "section": "duck egg martabak"
+  },
+  {
+    "price": "53000",
+    "name": "Special Beef Leaf Duck Martabak",
+    "description": "Duck Eggs + Beef + Taij'S Special Seasoning",
+    "section": "duck egg martabak"
+  },
+  {
+    "price": "52000",
+    "name": "Martel Bebek Extra Daging Ayam Istimewa",
+    "description": "Extra Egg + Extra Chicken Meat + Taliwang Special Seasoning",
+    "section": "duck egg martabak"
+  },
+  {
+    "price": "43000",
+    "name": "Martel Bebek Daging Ayam Spesial",
+    "description": "2 Duck Eggs + Shredded Chicken + Tahuk'S Special Seasoning",
+    "section": "duck egg martabak"
+  },
+  {
+    "price": "38000",
+    "name": "Martel Ayam ( Daging Sapi Spesial)",
+    "description": "2 Chicken Eggs With Special Blend Of Spices Filled With Minced Beef",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "43500",
+    "name": "Martel Ayam (Extra Daging Sapi Istimewa)",
+    "description": "3 Chicken Eggs With Takuk'S Special Seasoning Filled With Extra Beef",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "40500",
+    "name": "Martel Ayam8 (Extra Daging Ayam Istimewa)",
+    "description": "3 Chicken Eggs With A Special Blend Of Spices Filled With Extra Shredded Chicken Meat",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "35000",
+    "name": "Martel Ayam (Daging Ayam Spesial)",
+    "description": "2 Chicken Eggs, With Tahuk'S Special Blended Seasoning Filled With Shredded Chicken Meat + Fresh Onions",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "35000",
+    "name": "Special Sausage",
+    "description": "2 Chicken Eggs + Sausage + Taliwang Special Seasoning",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "40000",
+    "name": "Sosis Istimewa",
+    "description": "3 Chicken Eggs + Extra Sausage + Tahuk'S Special Seasoning",
+    "section": "martabak telor ayam"
+  },
+  {
+    "price": "38000",
+    "name": "Manis Istimewa Pandan",
+    "description": "Pandan Dough + Free To Choose Flavor (If There Is No Note Given, Blueberry Cheese)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "38000",
+    "name": "Manis Istimewa Adonan Red Velvet",
+    "description": "Red Velvet Dough + Free To Choose Flavors (If There Is No Note Given With Chocolate Cheese",
+    "section": "martabak manis"
+  },
+  {
+    "price": "34000",
+    "name": "Sweet Regular Cheese + Milk",
+    "description": "Cheese + Milk",
+    "section": "martabak manis"
+  },
+  {
+    "price": "37000",
+    "name": "Manis Extra Spesial 2 Rasa",
+    "description": "Raisin Chocolate / Banana Chocolate / Banana Cheese / Raisin Cheese (If There Is No Note Provided In Banana Cheese)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "39000",
+    "name": "Manis Istimewa 3 Rasa",
+    "description": "(Free To Choose Flavor) Chocolate + Nuts + Cheese / Banana Chocolate Cheese / Raisins Chocolate Cheese",
+    "section": "martabak manis"
+  },
+  {
+    "price": "35000",
+    "name": "Manis Spesial 2 Rasa",
+    "description": "Chocolate, Cheese, Nuts, Blueberry, Strawberry (Free To Choose Flavor If There Is No Note Provided Peanuts + Chocolate)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "38000",
+    "name": "Manis Istimewa Black Forest",
+    "description": "Free To Choose Max Flavor 3 Flavors (If There Is No Note Provided Chocolate + Peanuts + Cheese)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "34000",
+    "name": "Manis Reguler Coklat + Susu",
+    "description": "Chocolate + Milk",
+    "section": "martabak manis"
+  },
+  {
+    "price": "31000",
+    "name": "Regular Sweets One Flavor",
+    "description": "Choose One Blueberry / Strawberry Flavor / Peanut (If There Is No Note Provided Blueberry)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "31000",
+    "name": "Regular Sweets One Flavor",
+    "description": "Choose One Blueberry / Strawberry Flavor / Peanut (If There Is No Note Provided Blueberry)",
+    "section": "martabak manis"
+  },
+  {
+    "price": "4700",
+    "name": "Mini Coklat + Susu",
+    "description": "Sweet Martabak Mini Chocolate Milk",
+    "section": "manis mini"
+  },
+  {
+    "price": "4700",
+    "name": "Mini Keju + Susu",
+    "description": "Mini Cheese Sweet Martabak + Milk",
+    "section": "manis mini"
+  },
+  {
+    "price": "4700",
+    "name": "Mini Blueberry + Susu",
+    "description": "Mini Sweet Martabak Taste Of Blueberry Milk",
+    "section": "manis mini"
+  },
+  {
+    "price": "4700",
+    "name": "Mini Kacang + Susu",
+    "description": "Mini Sweet Martabak Chocolate Flavor",
+    "section": "manis mini"
+  },
+  {
+    "price": "5200",
+    "name": "Manis Mini Custom Rasa",
+    "description": "Free To Choose A Maximum Taste 2 Flavors (Cheese, Chocolate, Strawberry, Blueberry, Peanuts) If There Are No Note Provided Randomly",
+    "section": "manis mini"
+  }
+]

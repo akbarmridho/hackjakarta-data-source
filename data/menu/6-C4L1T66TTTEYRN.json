@@ -1,0 +1,176 @@
+[
+  {
+    "price": "37878",
+    "name": "Beef Black Pepper Noodles",
+    "description": "Smashed Mee, Sweet And Savory Black Pepper Seasoning, Black Slice Meat, Mustard Greens, Wonton Skin. (Halal)",
+    "section": "special menu : mee lada hitam"
+  },
+  {
+    "price": "25484",
+    "name": "Mee Lada Hitam Ayam",
+    "description": "Mee Flat, Sweet And Savory Black Pepper Seasoning, Black Pepper Chicken, Mustard Greens, Wonton Skin. (Halal)",
+    "section": "special menu : mee lada hitam"
+  },
+  {
+    "price": "22737",
+    "name": "Boxmie Original - Ayam Cincang",
+    "description": "Homemade Fresh Noodles. Tastes: Salty, Savory, Slightly Sweet. With Special Minced Chicken. (Halal)",
+    "section": "boxmie basic"
+  },
+  {
+    "price": "22737",
+    "name": "Boxmie Aromatic Garlic - Ayam Cincang",
+    "description": "Homemade Fresh Noodles. Tastes: Salty, Savory Onions / Garlic. With Special Minced Chicken. (Halal)",
+    "section": "boxmie basic"
+  },
+  {
+    "price": "18737",
+    "name": "Boxmie Polosan",
+    "description": "Plain Noodles Without Toppings. Choice Of Spices: Original / Aromatic Garlic (Halal)",
+    "section": "boxmie basic"
+  },
+  {
+    "price": "22737",
+    "name": "Chicken Minced Curly Noodles",
+    "description": "Homemade Curly Noodles, Minced Chicken, Mustard Greens, Fried Dumpling Skin. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "35242",
+    "name": "Mie Keriting Bulgogi",
+    "description": "Homemade Curly Noodles, Beef Bulgogi, Mustard Greens, Fried Dumpling Skin. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "25636",
+    "name": "Mie Keriting Dumpling Ayam",
+    "description": "Homemade Fresh Noodles. Original Seasonings: Original / Aromatic Garlic. With 2 Pcs Dumpling, Special Minced Chicken Wrapped In Asian Skin Wrapped. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "29545",
+    "name": "Mie Keriting Ayam Karaage Rica",
+    "description": "Homemade Curly Noodles, Chicken Karaage Rica, Mustard Greens, Fried Dumpling Skin. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "29545",
+    "name": "Mie Keriting Spicy Chicken Karaage",
+    "description": "Homemade Curly Noodles, Spicy Sauce Karaage Chicken, Mustard Greens, Wonton Skin. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "35242",
+    "name": "Red Spice Beef Curly Noodles",
+    "description": "Homemade Fresh Noodles. Spices: Original / Aromatic Garlic. With Special Meat Seasoned With Indonesian Spices, Produce A Spicy And Savory Taste. (Halal)",
+    "section": "mie keriting"
+  },
+  {
+    "price": "35242",
+    "name": "Boxmie Bulgogi",
+    "description": "Homemade Fresh Noodles. Original / Aromatic Garlic. With Bulgogi, Meat Marinated With A Special Korean Seasoning. (Halal)",
+    "section": "boxmie signature combo"
+  },
+  {
+    "price": "29545",
+    "name": "Boxmie Spicy Chicken Karaage",
+    "description": "Homemade Fresh Noodles. Seasonings: Original / Aromatic Garlic. Topped With Special Japanese Karaage Chicken With Sambal Rica. (Halal)",
+    "section": "boxmie signature combo"
+  },
+  {
+    "price": "25636",
+    "name": "Boxmie Chicken Dumpling",
+    "description": "Homemade Fresh Noodles. Original Seasonings: Original / Aromatic Garlic. With 2 Pcs Dumpling, Special Minced Chicken Wrapped In Asian Skin Wrapped. (Halal)",
+    "section": "boxmie signature combo"
+  },
+  {
+    "price": "29545",
+    "name": "Boxmie Ayam Rica Karaage",
+    "description": "Homemade Fresh Noodles. Seasonings: Original / Aromatic Garlic. Topped With Special Japanese Karaage Chicken With Sambal Rica. (Halal)",
+    "section": "boxmie signature combo"
+  },
+  {
+    "price": "35242",
+    "name": "Red Spiced Beef Box",
+    "description": "Homemade Fresh Noodles. Spices: Original / Aromatic Garlic. With Special Meat Seasoned With Indonesian Spices, Produce A Spicy And Savory Taste. (Halal)",
+    "section": "boxmie signature combo"
+  },
+  {
+    "price": "28858",
+    "name": "Box Mee Hot Chili Oil - Fried Egg",
+    "description": "Homemade Wide Noodles, Chilli Oil Noodes (Canola Oil), Its Hot Spicy And Savory Fish, With Fried Egg, Fried Wonton Skin And Mustard Greens. (Halal)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "31545",
+    "name": "Box Mee Hot Chili Oil - Chicken Dumpling (2 Pcs)",
+    "description": "Homemade Wide Noodles, Chicken Oil Noodes (Canola Oil), Its Hot Spicy And Savory Fish, With 2 Pcs Of Chicken Dumplings, Fried Skin And Dumplings. (Halal)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "28858",
+    "name": "Box Mee Hot Chili Oil - Ayam Cincang",
+    "description": "Homemade Wide Noodles, Chilli Oil Noodes (Canola Oil), Its Hot Spicy And Savory Fish, With Minced Chicken, Fried Wonton Skin And Mustard Greens)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "28858",
+    "name": "Hot Curly Noodle Chili Olil - Fried Egg",
+    "description": "Homemade Curly Noodles, Chilli Oil (Canola Oil), Its Hot Spicy And Savory Fish, With Fried Egg, Fried Wonton Skin And Mustard Greens. (Halal)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "31545",
+    "name": "Hot Curly Noodle Chili Olel - Dumplings",
+    "description": "Homemade Curly Noodles, Chicken Oil (Canola Oil), Its Hot Spicy And Savory Fish, With 2 Pcs Of Chicken Dumplings, Skin Dumplings And Fried Dumplings. (Halal)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "28858",
+    "name": "Hot Curly Noodle Chili Olel - Minced Chicken",
+    "description": "Homemade Curly Noodles, Chilli Oil (Canola Oil), Its Hot Spicy And Savory Fish, With Minced Chicken, Fried Wonton Skin And Mustard Greens)",
+    "section": "mee hot chili oil"
+  },
+  {
+    "price": "23500",
+    "name": "Chicken Dumpling (5 Pcs)",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "21500",
+    "name": "Chicken Roll (4 Pcs)",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "14858",
+    "name": "Pangsit Ayam Goreng (3 Pcs)",
+    "description": "Homemade, Savory Fried Chicken Dumplings Special Nagih. (Halal)",
+    "section": "sides"
+  },
+  {
+    "price": "16500",
+    "name": "Otak-Otak (6 Pcs)",
+    "description": "Fried Otak-Otak.",
+    "section": "sides"
+  },
+  {
+    "price": "15858",
+    "name": "Walik Shrimp Tofu (3 Pcs)",
+    "description": "",
+    "section": "sides"
+  },
+  {
+    "price": "9500",
+    "name": "Teh Pucuk",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "7800",
+    "name": "Air Mineral (Bottled)",
+    "description": "",
+    "section": "drinks"
+  }
+]

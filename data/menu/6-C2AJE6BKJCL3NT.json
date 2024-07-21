@@ -1,0 +1,236 @@
+[
+  {
+    "price": "16150",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "15725",
+    "name": "Jasmine Milk Tea",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "15725",
+    "name": "Sweet Sugar Caramel",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19975",
+    "name": "Arome Oreo Brown Sugar",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19975",
+    "name": "Arome Regal Brown Sugar",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "16150",
+    "name": "Chocolate",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "15725",
+    "name": "Salted Sugar Caramel",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "16150",
+    "name": "Pinky Love",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19975",
+    "name": "Oreo Regal Milk Boba Sugar",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "16150",
+    "name": "Matcha Latte",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "18500",
+    "name": "Peach Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "18500",
+    "name": "Lime Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "18500",
+    "name": "Strawberry Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "56000",
+    "name": "Coffee Series C",
+    "description": "Choco Machiatto Coffe + Brown Sugar Machiatto Coffe + Strawberry Machiatto Coffe",
+    "section": "paket coffee series"
+  },
+  {
+    "price": "58000",
+    "name": "Coffee Series B",
+    "description": "Chocolate Matcho Coffee + Brown Sugar Machiatto Coffee + Latte Machiatto Coffee",
+    "section": "paket coffee series"
+  },
+  {
+    "price": "55040",
+    "name": "Coffee Series A",
+    "description": "Choco Machiatto Coffee + Brown Sugar Machiatto Coffee + Matcha Machiatto Coffee",
+    "section": "paket coffee series"
+  },
+  {
+    "price": "16150",
+    "name": "Red Velvet",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "15725",
+    "name": "Jasmine Milk Tea",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "15725",
+    "name": "Sweet Sugar Caramel",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "19975",
+    "name": "Arome Oreo Brown Sugar",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "19975",
+    "name": "Arome Regal Brown Sugar",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "16150",
+    "name": "Chocolate",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "15725",
+    "name": "Salted Sugar Caramel",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "16150",
+    "name": "Pinky Love",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "19975",
+    "name": "Oreo Regal Milk Boba Sugar",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "16150",
+    "name": "Matcha Latte",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "19000",
+    "name": "Mocca",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "19000",
+    "name": "Sweet Purple",
+    "description": "",
+    "section": "caramel boba"
+  },
+  {
+    "price": "21300",
+    "name": "Matcha Machiatto Coffee",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "25000",
+    "name": "Latte Machiatto",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "25000",
+    "name": "Choco Machiatto Coffe",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "22500",
+    "name": "Brown Sugar Machiatto Coffe",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "22500",
+    "name": "Strawberry Machiatto Coffe",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "44000",
+    "name": "Buy 2 Get 3 (C)",
+    "description": "Red Velvet + Brown Sugar Machiatto Coffee + Free Jasmine Milk Tea",
+    "section": "paket rame-rame"
+  },
+  {
+    "price": "47000",
+    "name": "Buy 2 Get 3 (B)",
+    "description": "Matcha Latte + Choco Machiatto Coffee + Free Sweet Sugar Caramel",
+    "section": "paket rame-rame"
+  },
+  {
+    "price": "44000",
+    "name": "Buy 2 Get 3 (A)",
+    "description": "Pinky Love + Arome Oreo Brown Sugar + Free Jasmine Milk Tea",
+    "section": "paket rame-rame"
+  },
+  {
+    "price": "5000",
+    "name": "Boba",
+    "description": "",
+    "section": "add toping"
+  },
+  {
+    "price": "2000",
+    "name": "Regal",
+    "description": "",
+    "section": "add toping"
+  },
+  {
+    "price": "2000",
+    "name": "Oreo",
+    "description": "",
+    "section": "add toping"
+  }
+]

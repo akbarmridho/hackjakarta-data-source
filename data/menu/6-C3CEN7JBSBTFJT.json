@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "30000",
+    "name": "Kriptok Pedas Daun Jeruk",
+    "description": "2 Pedas Daun Jeruk & 2 Spicy Cheese",
+    "section": "kriptok"
+  },
+  {
+    "price": "30000",
+    "name": "Kriptok Spicy Cheese",
+    "description": "3 Pedas Daun Jeruk & 2 Spicy Cheese",
+    "section": "kriptok"
+  },
+  {
+    "price": "100000",
+    "name": "Ambyar Bundling Kriptok",
+    "description": "4 Pedas Daun Jeruk & 2 Spicy Cheese",
+    "section": "kriptok"
+  },
+  {
+    "price": "85000",
+    "name": "CHOCO HAZELNUT DESSERT BOX",
+    "description": "",
+    "section": "new product"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Full Cookies Milkbun",
+    "description": "",
+    "section": "milk bun series"
+  },
+  {
+    "price": "85000",
+    "name": "Milk Bun Dessert Box",
+    "description": "",
+    "section": "milk bun series"
+  },
+  {
+    "price": "50000",
+    "name": "Lips Lava Milk Bun",
+    "description": "",
+    "section": "milk bun series"
+  },
+  {
+    "price": "60000",
+    "name": "Choco Lava Nutella",
+    "description": "",
+    "section": "choco lava"
+  },
+  {
+    "price": "60000",
+    "name": "Choco Lava Belgium",
+    "description": "",
+    "section": "choco lava"
+  },
+  {
+    "price": "60000",
+    "name": "Choco Lava Choco milk",
+    "description": "",
+    "section": "choco lava"
+  },
+  {
+    "price": "60000",
+    "name": "Crombomini Belgium",
+    "description": "",
+    "section": "crombomini"
+  },
+  {
+    "price": "60000",
+    "name": "Crombomini Choco quin",
+    "description": "",
+    "section": "crombomini"
+  },
+  {
+    "price": "60000",
+    "name": "Crombomini Nutella",
+    "description": "",
+    "section": "crombomini"
+  },
+  {
+    "price": "60000",
+    "name": "Crombomini Choco milk",
+    "description": "",
+    "section": "crombomini"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Wings Samyang",
+    "description": "",
+    "section": "samyang series"
+  },
+  {
+    "price": "35000",
+    "name": "Rice Bowl Chicken Samyang",
+    "description": "",
+    "section": "samyang series"
+  },
+  {
+    "price": "50000",
+    "name": "Almond Choco",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "15000",
+    "name": "Dougnuts",
+    "description": "",
+    "section": "lainnya"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Full Cookies Cheese",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok full cookies Choco quin",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Baby Joy",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Full Cookies Belgium",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Full Cookies Tiramisu",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Coco Cookies Choco Hazelnut",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snakctok Full Cookies Choco Milk",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Coco Cookies Choco Milk",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snakctok Full Cookies Choco Hazelnut",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Cookies Koko Pink",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Full Cookies Pink",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "50000",
+    "name": "Snacktok Merdeka",
+    "description": "",
+    "section": "snacktok"
+  },
+  {
+    "price": "75000",
+    "name": "Brow Box Matcha",
+    "description": "",
+    "section": "matcha series"
+  },
+  {
+    "price": "85000",
+    "name": "Matcha Dessert Box",
+    "description": "",
+    "section": "matcha series"
+  },
+  {
+    "price": "50000",
+    "name": "Snack Tok Full Cookies Matcha",
+    "description": "",
+    "section": "matcha series"
+  },
+  {
+    "price": "45000",
+    "name": "Matcha Layer",
+    "description": "",
+    "section": "matcha series"
+  },
+  {
+    "price": "75000",
+    "name": "Red Velvet Dessert Box FREE CHOCO BON BON",
+    "description": "buttercake red velvet premium dan cream cheese khas bittersweet",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Tiramisu Dessert Box FREE CHOCO BON BON",
+    "description": "perpaduan antara cheese, coffe dan buttercake coffeee",
+    "section": "dessert box"
+  },
+  {
+    "price": "70000",
+    "name": "Say cheese Dessert Box",
+    "description": "dengan sauce keju yang melimpah",
+    "section": "dessert box"
+  },
+  {
+    "price": "70000",
+    "name": "Milk bath Dessert Box",
+    "description": "Kombinasi antara buttercake vanilla , keju dan susu khas Bittersweet",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Milk Bun Desssert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Turkish Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Choco Quin Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Belgium Dessert Box",
+    "description": "menggunakan full Dark Chocolate",
+    "section": "dessert box"
+  },
+  {
+    "price": "65000",
+    "name": "Red Velvet Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Lotus Dessert box",
+    "description": "perpaduan antara selai Lotus Biscoff dan Cream Cheese",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Cookies and Cream Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "65000",
+    "name": "Tiramisu Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Choco Milk Dessert Box",
+    "description": "perpaduan antara butter cake , chocolate cad burry dan cream cheese",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Durian Dessert Box",
+    "description": "perpaduan antara butter cake chocolate,Durian dan sauce chocolate belgium",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Ccs Dessert Box",
+    "description": "perpaduan antara sauce keju, chocolate belgium dan caramel",
+    "section": "dessert box"
+  },
+  {
+    "price": "60000",
+    "name": "Salad Buah Dessert box",
+    "description": "berbagai potong -potongan buah segar dengan sauce youghurt khas bittersweet",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Milo Dessert Box",
+    "description": "full off milo chocolate",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Regal Dessert Box",
+    "description": "menggunakan olahan cookies regal di padukan dengan sauce gold caramel chocolate khas bittersweet",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Sugar Berry Dessert Box",
+    "description": "perpaduan antara youghurt , cream cheese dan suace berry khas bittersweet",
+    "section": "dessert box"
+  },
+  {
+    "price": "55000",
+    "name": "Nastar Dessert Box",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Turkish Dessert Box FREE CHOCO BON BON",
+    "description": "perpaduan antara chocolate belgium, mouses, dan buttercake chocolate",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Cookies N Cream Dessert Box FREE CHOCO BON BON",
+    "description": "Perpaduan antara butter cake dan cookies and cream yang sangat fenomenal",
+    "section": "dessert box"
+  },
+  {
+    "price": "85000",
+    "name": "Choco Honey dessert Box",
+    "description": "menggunakan olahan chocolate toblerone yang dipadukan dengan cream cheese dan buttercake",
+    "section": "dessert box"
+  },
+  {
+    "price": "60000",
+    "name": "Kurma Dessert Box",
+    "description": "ukuran box 9 x 9x 5 cm",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Choco Quin Dessert Box FREE CHOCO BON BON",
+    "description": "",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Pop Corn Dessert Box",
+    "description": "Pop Corn Dessert Box",
+    "section": "dessert box"
+  },
+  {
+    "price": "75000",
+    "name": "Browbox Lotus",
+    "description": "Brownies cup dengan sauce lotus",
+    "section": "brow box"
+  },
+  {
+    "price": "70000",
+    "name": "Browbox Cheese Velvet",
+    "description": "brownies cup dengan sauce cheese",
+    "section": "brow box"
+  },
+  {
+    "price": "75000",
+    "name": "Brow Box Choco Milk",
+    "description": "brownies cup dengan sauce cadburry chocolate",
+    "section": "brow box"
+  },
+  {
+    "price": "65000",
+    "name": "Brow Box Dulce De Leche",
+    "description": "",
+    "section": "brow box"
+  },
+  {
+    "price": "70000",
+    "name": "Browbox Belgium",
+    "description": "Brownies cup dengan sauce belgium chocolate",
+    "section": "brow box"
+  },
+  {
+    "price": "70000",
+    "name": "Browbox Regal",
+    "description": "brownies cup dengan sauce golden caramel chocolate",
+    "section": "brow box"
+  },
+  {
+    "price": "55000",
+    "name": "Cheese cake Choco Milk",
+    "description": "base cheese cake khas bittersweet dengan sauce cad burry chocolate",
+    "section": "sliced cake"
+  },
+  {
+    "price": "25000",
+    "name": "Swiss Roll Lotus",
+    "description": "bolu gulung khas bittersweet dengan sauce lotus biscoff",
+    "section": "sliced cake"
+  },
+  {
+    "price": "25000",
+    "name": "Swiss Roll Choco Hazelnut",
+    "description": "bolu gulung khas bittersweet dengan perpaduan antara chocolate nutella dan belgium chocolate",
+    "section": "sliced cake"
+  },
+  {
+    "price": "45000",
+    "name": "Eclairs",
+    "description": "2 soes kering dengan varian lotus biscoff dan belgium chocolate",
+    "section": "sliced cake"
+  },
+  {
+    "price": "60000",
+    "name": "Black Forrest",
+    "description": "Blackforesst dengan sauce berry yang premium",
+    "section": "sliced cake"
+  },
+  {
+    "price": "55000",
+    "name": "Cheese Cake Cookies and Cream",
+    "description": "base cheese cake khas bittersweet dengan sauce chocolate cookies and cream",
+    "section": "sliced cake"
+  },
+  {
+    "price": "55000",
+    "name": "Cheese Cake Lotus",
+    "description": "base cheese cake khas bittersweet dengan sauce lotus biscoff",
+    "section": "sliced cake"
+  },
+  {
+    "price": "25000",
+    "name": "Turkish Coffee",
+    "description": "premium coffee khas bittersweet di padukan dengan chocolate belgium",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "25000",
+    "name": "Lava nutella Coffe",
+    "description": "premium coffee khas bittersweet di padukan dengan chocolate nutella",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "25000",
+    "name": "Ice belgium",
+    "description": "ice chocolate full chocolate belgium no sugar",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "20000",
+    "name": "Espresso caramel",
+    "description": "premium coffee khas bittersweet di padukan dengan sauce caramel khas bittersweet",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "20000",
+    "name": "Kopi susu",
+    "description": "premium coffee susu khas bittersweet",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "15000",
+    "name": "Thai Tea",
+    "description": "Thai tea khas Bittersweet",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "20000",
+    "name": "Bubble Gum",
+    "description": "Bubble Gum khas Bittersweet",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "20000",
+    "name": "Red Velvet drink",
+    "description": "Red velvet Drink khas bittersweet",
+    "section": "drink - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash Strawberry",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour strawberry",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash kiwi",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour kiwi",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash orange",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour orange",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash Lychee",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour lychee",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash Lemon",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour lemon",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash Mango",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour mango",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "23000",
+    "name": "Squash Mix fruit",
+    "description": "minuman soda khas bitterswet di padukan dengan flavour beberapa buah pilihan",
+    "section": "squash - nya bittersweet"
+  },
+  {
+    "price": "45000",
+    "name": "Banofee pie Chocolate",
+    "description": "Premium banoffee khas bittersweet dipadukan dengan chocolate belgium",
+    "section": "banofee pie"
+  },
+  {
+    "price": "45000",
+    "name": "Banofee pie Orginal",
+    "description": "Premium banoffee khas bittersweet",
+    "section": "banofee pie"
+  },
+  {
+    "price": "45000",
+    "name": "Banofee pie Lotus",
+    "description": "Premium banoffee khas bittersweet dipadukan lotus biscoff",
+    "section": "banofee pie"
+  },
+  {
+    "price": "45000",
+    "name": "Choco Hazelnut Layer",
+    "description": "",
+    "section": "layer puff"
+  },
+  {
+    "price": "45000",
+    "name": "Choco Milk Layer",
+    "description": "",
+    "section": "layer puff"
+  },
+  {
+    "price": "45000",
+    "name": "Lotus Layer",
+    "description": "",
+    "section": "layer puff"
+  },
+  {
+    "price": "45000",
+    "name": "Cheese Layer",
+    "description": "",
+    "section": "layer puff"
+  },
+  {
+    "price": "45000",
+    "name": "Caramel layer",
+    "description": "Puff Pastry dipadukan dengan almond dan suace caramel khas bittersweet",
+    "section": "layer puff"
+  },
+  {
+    "price": "45000",
+    "name": "3 Pcs Doughnuts",
+    "description": "Varian rasa : cheese salted caramel , choco hazelnut, choco milk, red velvet & tiramisu ( silahkan note untuk varian rasa & apa bila stock kosong akan dikirim random )",
+    "section": "doughnuts"
+  },
+  {
+    "price": "60000",
+    "name": "4 Pcs Doughnuts",
+    "description": "Varian rasa : cheese salted caramel , choco hazelnut, choco milk, red velvet & tiramisu ( silahkan note untuk varian rasa & apa bila stock kosong akan dikirim random )",
+    "section": "doughnuts"
+  },
+  {
+    "price": "150000",
+    "name": "10 Pcs Doughnuts",
+    "description": "Varian rasa : cheese salted caramel , choco hazelnut, choco milk, red velvet & tiramisu ( silahkan note untuk varian rasa & apa bila stock kosong akan dikirim random )",
+    "section": "doughnuts"
+  },
+  {
+    "price": "60000",
+    "name": "Buy 2 Get 2 Doughnuts",
+    "description": "Varian rasa : cheese salted caramel , choco hazelnut, choco milk, red velvet & tiramisu ( silahkan note untuk varian rasa & apa bila stock kosong akan dikirim random )",
+    "section": "doughnuts"
+  },
+  {
+    "price": "35000",
+    "name": "Mix Finger Food",
+    "description": "gabungan antara sosis ,bakso,chicken dan waffle fries yang disiram dengan cheese sauce",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Crispy",
+    "description": "chicken crispy dengan suace cheese khas bittersweet",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "30000",
+    "name": "Tahu Boom Cheese isi 4 pcs",
+    "description": "tahu goreng tepung khas bittersweet by najla yg membuat ini menjadi lebih speasial",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "30000",
+    "name": "Tahu Boom Cheese isi 4 pcs ( no sayur )",
+    "description": "tahu goreng tepung no sayurkhas bittersweet by najla yg membuat ini menjadi lebih speasial",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "85000",
+    "name": "Tahu Boom Cheese isi 12 pcs",
+    "description": "tahu goreng tepung no sayurkhas bittersweet by najla yg membuat ini menjadi lebih speasial",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "30000",
+    "name": "French Fries",
+    "description": "kentang goreng lebih premium dengan suace cheese khas bittersweet",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "25000",
+    "name": "chicken crispy spicy",
+    "description": "",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "30000",
+    "name": "Spicy Chicken Potato",
+    "description": "Chicken Strip dengan Flavour khas Bittersweet",
+    "section": "snack - nya bittersweet"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Tiramisu",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Cad burry",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll saycheese",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Cheese salted caramell",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll palm sugar",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Hazelnut",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Lotus",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Turkish",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Toblerone",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll regal",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "25000",
+    "name": "Cinnamon roll Belgium",
+    "description": "",
+    "section": "cinnamon roll"
+  },
+  {
+    "price": "45000",
+    "name": "Aglio olio",
+    "description": "pasta yang dimasak dengan olive oil ,bawang putih dan smoked beef dengan ditambahan chilli flakes",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Nasi Goreng Chicken Mozarella",
+    "description": "nasi goreng khas bitetrsweet denagn topping chicken mozarellla",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Nasi gila",
+    "description": "nasi putih dengan topping Gillan khas bittersweet",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Kibo",
+    "description": "perpaduan antara nasi goreng dan mie goreng khas bittersweet",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Chicken Crispy Cheese",
+    "description": "nasi putih dengan topping chicken crispy cheese",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Nasi Goreng gila",
+    "description": "nasi goreng khas bittersweet dengan topping gilaan khas bittersweet",
+    "section": "main course"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Godok Original",
+    "description": "mie godok original khas bittersweet by najla",
+    "section": "main course"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Godok Shirataki",
+    "description": "mie godok dengan mie shirataki yang khas bittersweet",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Mie Godok Tomyum",
+    "description": "mie godok tomyum dengan tomyum paste khas bitterswett",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Mie Godok Tomyum Shirataki",
+    "description": "mie godok tomyum dengan tomyum paste khas bitterswett dan mie shirataki",
+    "section": "main course"
+  },
+  {
+    "price": "60000",
+    "name": "Chicken Grilled",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Goreng Bittersweet",
+    "description": "nasi goreng khas Bittersweet dengan topping telur dan kerupuk",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Goreng Kota",
+    "description": "nasi goreng khas Bittersweet dengan topping telur dan kerupuk",
+    "section": "main course"
+  },
+  {
+    "price": "40000",
+    "name": "Mie Goreng Bittersweet",
+    "description": "mie goreng khas Bittersweet dengan topping telur dan kerupuk",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Spaghetti Goreng Bittersweet",
+    "description": "pasta dnegan bumbu nuansa jawa ditambah dengan extra telur",
+    "section": "main course"
+  },
+  {
+    "price": "50000",
+    "name": "Carbonara Garlic Chicken",
+    "description": "pasta dengan dimasak dengan saus carbonara khas bittersweet by najla",
+    "section": "main course"
+  },
+  {
+    "price": "50000",
+    "name": "Red Carbonara Garlic chicken",
+    "description": "pasta dengan dimasak dengan saus pedascarbonara khas bittersweet by najla",
+    "section": "main course"
+  },
+  {
+    "price": "50000",
+    "name": "Carbonara Garlic Beef Salami",
+    "description": "pasta dengan dimasak dengan saus carbonara khas bittersweet by najla dan beef salami didalam nya",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Goreng tomyum",
+    "description": "nasi goreng dipadukan dengan tomyam paste khas Bittersweet dengan topping telur dan kerupuk",
+    "section": "main course"
+  },
+  {
+    "price": "70000",
+    "name": "Mac and Cheese Savoury Pack",
+    "description": "16 x 10,5 cm",
+    "section": "main course"
+  },
+  {
+    "price": "70000",
+    "name": "Lasagna Savoury Pack",
+    "description": "16 x 10,5 cm",
+    "section": "main course"
+  },
+  {
+    "price": "55000",
+    "name": "Chicken Cordon Bleu",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "55000",
+    "name": "Bittersweet Meatball",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "50000",
+    "name": "Premium Bolognese Chicken",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "100000",
+    "name": "Spaghetti Bechamel",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "100000",
+    "name": "Mac and Cheese",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "100000",
+    "name": "Lasagna",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Spicy Chicken Burger",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "45000",
+    "name": "Spicy Crispy Chicken with French Fries",
+    "description": "",
+    "section": "main course"
+  },
+  {
+    "price": "55000",
+    "name": "Cheese Cake Choco Quin",
+    "description": "",
+    "section": "slice cake"
+  },
+  {
+    "price": "27500",
+    "name": "Tiramisu Cheese cake",
+    "description": "( cup mini )",
+    "section": "cake slice"
+  },
+  {
+    "price": "25000",
+    "name": "Swiss Roll Berry",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "40000",
+    "name": "Volcano Lava Tiramisu",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "40000",
+    "name": "Volcano Lava Cookies and Cream",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "55000",
+    "name": "Coffee Cheese Cake",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "60000",
+    "name": "Martabak Cake",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "60000",
+    "name": "Caramel Peanut Buttercake",
+    "description": "",
+    "section": "cake slice"
+  },
+  {
+    "price": "175000",
+    "name": "Banting Ambyar Online 1",
+    "description": "Turkish Dessert Box, Banoffee Pie Original FREE Havana Choco",
+    "section": "ambyar banting juli"
+  },
+  {
+    "price": "210000",
+    "name": "Banting Ambyar Online 2",
+    "description": "Choco Quin Dessert Box , Milk Bath Dessert Box, FREE Banoffee Pie Original",
+    "section": "ambyar banting juli"
+  },
+  {
+    "price": "265000",
+    "name": "Banting Ambyar Online 3",
+    "description": "Turkish Dessert Box, Choco Quin Dessert Box, Havana Choco Pack FREE Snacktok Full Cookies Choco Milk",
+    "section": "ambyar banting juli"
+  },
+  {
+    "price": "135000",
+    "name": "Banting Bundling Grabfood 1",
+    "description": "Turkish Dessert Box, Snacktok Full cookies cookies and cream",
+    "section": "bundling banting grabfood"
+  },
+  {
+    "price": "170000",
+    "name": "Banting Bundling Grabfood 2",
+    "description": "Red Velvet Dessert Box, Snacktok Full Cookies Choco milk, choco milk layer",
+    "section": "bundling banting grabfood"
+  },
+  {
+    "price": "225000",
+    "name": "Banting Bundling Grabfood 3",
+    "description": "Choco Quin Dessert Box, Tiramisu Dessert Box, Choco Bon Bon , Havana Choco",
+    "section": "bundling banting grabfood"
+  },
+  {
+    "price": "520000",
+    "name": "Aisyah Hampers",
+    "description": "Terdiri dari 4 varian dessert box yaitu : Turkish Dessert Box, Belgium Dessert Box, Choco Milk Dessert Box, Choco Quin Dessert Box",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "650000",
+    "name": "Rahiel Hampers",
+    "description": "Terdiri dari 4 varian cookies yaitu : Kastengel Cookies , Putri salju cookies, nastar cookies , Almond choco",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "640000",
+    "name": "Sahara Hampers",
+    "description": "Terdiri dari 2 varian cookies & 2 varian dessert box yaitu :Kastengel Cookies, nastar cookies & Turkish Dessert Box, Lotus Dessert Box",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "520000",
+    "name": "Zulaikha Hampers",
+    "description": "Terdiri dari 2 varian cookies & 2 varian dessert box yaitu :Putri salju cookies, nastar cookies & Turkish Dessert Box, Lotus Dessert Box",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "420000",
+    "name": "Dalela Hampers",
+    "description": "Terdiri dari 2 varian cookies yaitu :Putri salju cookies, nastar cookies",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "450000",
+    "name": "Madeeha Hampers",
+    "description": "Terdiri dari 2 varian cookies yaitu :Kastengel Cookies, nastar cookies",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "325000",
+    "name": "Sarah Hampers",
+    "description": "Terdiri dari 2 varian dessert Box yaitu :Turkish Dessert Box, Lotus Dessert Box",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "375000",
+    "name": "Aladdin Hampers",
+    "description": "Terdiri dari 2 varian cookies yaitu :Kastengel Cookies, Putri Salju Cookies",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "120000",
+    "name": "Almond Choco Cookies",
+    "description": "",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "150000",
+    "name": "Kastengel Cookies",
+    "description": "",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "150000",
+    "name": "Nastar Cookies",
+    "description": "",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "120000",
+    "name": "Putri salju Cookies",
+    "description": "",
+    "section": "ramadan hampers"
+  },
+  {
+    "price": "180000",
+    "name": "Bundling Milk Bund Series",
+    "description": "1 Lips lava Milk Bund, 1 Snacktok Full Cookies Milk Bund, 1 Layer puff Milk Bund",
+    "section": "milk bund series"
+  },
+  {
+    "price": "60000",
+    "name": "Lips Lava Cheese",
+    "description": "",
+    "section": "lips lava"
+  },
+  {
+    "price": "60000",
+    "name": "LIps Lava Nutella",
+    "description": "",
+    "section": "lips lava"
+  },
+  {
+    "price": "60000",
+    "name": "Lips Lava Matcha",
+    "description": "",
+    "section": "lips lava"
+  },
+  {
+    "price": "60000",
+    "name": "Lips Lava Tiramisu",
+    "description": "",
+    "section": "lips lava"
+  },
+  {
+    "price": "130000",
+    "name": "Aliyah Hampers Vol 2",
+    "description": "Cheese layer & Nutella Layer",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "130000",
+    "name": "Daleela Hampers Vol 2",
+    "description": "Cad Burry Layer & Matcha Layer",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "310000",
+    "name": "Aladin Hampers Vol 2",
+    "description": "Nastar & Almond raya",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "140000",
+    "name": "Madeeha Hampers Vol 2",
+    "description": "Full Cookies Nutella & Full Cookies Cad burry",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "210000",
+    "name": "Ameena Hampers Vol 2",
+    "description": "Matcha & Belgium",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "210000",
+    "name": "Sarah Hampers Vol 2",
+    "description": "Turkish & Lotus",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "310000",
+    "name": "Sofia Hampers",
+    "description": "Putri Salju & Kastengel",
+    "section": "hampers bittersweet vol 2"
+  },
+  {
+    "price": "150000",
+    "name": "Kastengel Cookies",
+    "description": "",
+    "section": "cookies bittersweet by najla"
+  },
+  {
+    "price": "120000",
+    "name": "Putri Salju Cookies",
+    "description": "",
+    "section": "cookies bittersweet by najla"
+  },
+  {
+    "price": "150000",
+    "name": "Nastar Cookies",
+    "description": "",
+    "section": "cookies bittersweet by najla"
+  },
+  {
+    "price": "120000",
+    "name": "Almond Raya",
+    "description": "",
+    "section": "cookies bittersweet by najla"
+  },
+  {
+    "price": "35000",
+    "name": "Pull me up cake chocolate hazelnut",
+    "description": "buttercake chocolate dengan sauce chocolate khas bittersweet sensasi tempting dengan proses penyajian",
+    "section": "pull me up cake"
+  },
+  {
+    "price": "35000",
+    "name": "Pull me up cake say cheese",
+    "description": "buttercake vanilla dengan sauce cheese khas bittersweet sensasi tempting dengan proses penyajian",
+    "section": "pull me up cake"
+  },
+  {
+    "price": "35000",
+    "name": "Pull me up cake tiramisu",
+    "description": "buttercake coffee dengan sauce cheese coffe khas bittersweet sensasi tempting dengan proses penyajian",
+    "section": "pull me up cake"
+  },
+  {
+    "price": "35000",
+    "name": "Pull me up cake lotus",
+    "description": "buttercake coffee dengan sauce lotus khas bittersweet sensasi tempting dengan proses penyajian",
+    "section": "pull me up cake"
+  },
+  {
+    "price": "350000",
+    "name": "Big Box Cad burry",
+    "description": "perpaduan antara butter cake , chocolate cad burry dan cream cheese dengan ukuran 4 kali lebih besar",
+    "section": "big box"
+  },
+  {
+    "price": "350000",
+    "name": "Big Box Toblerone",
+    "description": "menggunakan olahan chocolate toblerone yang dipadukan dengan cream cheese dan buttercake dengan ukuran 4 kali lebih besar",
+    "section": "big box"
+  },
+  {
+    "price": "325000",
+    "name": "Big Box Turkish",
+    "description": "perpaduan antara chocolate belgium, mouses, dan buttercake chocolate dengan ukuran 4 kali lebih besar",
+    "section": "big box"
+  },
+  {
+    "price": "325000",
+    "name": "Big Box Red velvet",
+    "description": "buttercake red velvet premium dan cream cheese khas bittersweet dengan ukuran 4 kali lebih besar",
+    "section": "big box"
+  },
+  {
+    "price": "40000",
+    "name": "VOLCANO CAKE TIRAMISU",
+    "description": "",
+    "section": "new menu"
+  },
+  {
+    "price": "40000",
+    "name": "VOlCANO CAKE COOKIES N CREAM",
+    "description": "",
+    "section": "new menu"
+  }
+]

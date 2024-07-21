@@ -1,0 +1,278 @@
+[
+  {
+    "price": "36364",
+    "name": "Crispy Chicken Burger FREE Ice Tea",
+    "description": "1 Moonbun Chicken Burger + Fresh Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "68182",
+    "name": "B1G1 Crispy Chicken Burger FREE 2 Ice Tea",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "68182",
+    "name": "B1G1 Hot Nashville Chicken Burger FREE 2 Ice Tea",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "36364",
+    "name": "Hot Nashville Chicken Sandwich FREE Ice Tea",
+    "description": "1 Hot Nashville Chicken Burger + Fresh Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "36364",
+    "name": "Crispy Chicken Burger FREE Ice Tea",
+    "description": "1 Moonbun Chicken Burger + Fresh Ice Tea",
+    "section": "best combo!"
+  },
+  {
+    "price": "68182",
+    "name": "B1G1 Crispy Chicken Burger FREE 2 Ice Tea",
+    "description": "",
+    "section": "best combo!"
+  },
+  {
+    "price": "68182",
+    "name": "B1G1 Hot Nashville Chicken Burger FREE 2 Ice Tea",
+    "description": "",
+    "section": "best combo!"
+  },
+  {
+    "price": "36364",
+    "name": "Hot Nashville Chicken Sandwich FREE Ice Tea",
+    "description": "1 Hot Nashville Chicken Burger + Fresh Ice Tea",
+    "section": "best combo!"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun Big Bang (Crispy Chicken Burger)",
+    "description": "Soft potato bun, crispy chicken thigh, secret sauce, with Flavors of the Galaxy",
+    "section": "moonbun by moon chicken"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun Honey Garlaxy (Crispy Chicken Burger)",
+    "description": "Soft potato bun, crispy chicken thigh, secret sauce, with Flavors of the Galaxy",
+    "section": "moonbun by moon chicken"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun K-Jun Star (Crispy Chicken Burger)",
+    "description": "Soft potato bun, crispy chicken thigh, secret sauce, with Flavors of the Galaxy",
+    "section": "moonbun by moon chicken"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun Smokey Comet (Crispy Chicken Burger)",
+    "description": "Soft potato bun, crispy chicken thigh, secret sauce, with Flavors of the Galaxy",
+    "section": "moonbun by moon chicken"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun Gangjeong (Crispy Chicken Burger)",
+    "description": "Soft potato bun, crispy chicken thigh, secret sauce, with Flavors of the Galaxy",
+    "section": "moonbun by moon chicken"
+  },
+  {
+    "price": "36364",
+    "name": "Hot Nashville Chicken Burger A La Carte",
+    "description": "Burger ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan!",
+    "section": "hot burger by hot side story"
+  },
+  {
+    "price": "77273",
+    "name": "10 Pcs Korean Chicken Wings",
+    "description": "Pilih 2 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "42727",
+    "name": "5 Pcs Korean Chicken Wings",
+    "description": "5 Pcs Korean Chicken Wings. Pilih 1 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "86364",
+    "name": "10 pcs Chicken Wings Hot Nashville A La Carte",
+    "description": "Sayap ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin kamu ketagihan. Cocok untuk snacking time!",
+    "section": "spicy chicken wings"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Hot Nashville A La Carte",
+    "description": "Sayap ayam goreng dengan saus Nashville yang pedasnya smokey dari cayenne pepper yang bikin ketagihan! Cocok untuk snack time!",
+    "section": "spicy chicken wings"
+  },
+  {
+    "price": "86364",
+    "name": "10 pcs Chicken Wings Fire Mala A La Carte",
+    "description": "Sayap ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Cocok untuk snacking time!",
+    "section": "spicy chicken wings"
+  },
+  {
+    "price": "45455",
+    "name": "5 pcs Chicken Wings Fire Mala A La Carte",
+    "description": "Sayap ayam goreng dengan saus Mala yang pedasnya mengigit dan aromatik. Cocok untuk snack time!",
+    "section": "spicy chicken wings"
+  },
+  {
+    "price": "6364",
+    "name": "Truffle Mayo Sauce",
+    "description": "Saos mayo dengan rasa dan aroma truffle yang unik",
+    "section": "sauces"
+  },
+  {
+    "price": "6364",
+    "name": "Pickle Mayo Sauce",
+    "description": "Saus mayo dipadu dengan cita rasa asam manis acar",
+    "section": "sauces"
+  },
+  {
+    "price": "6364",
+    "name": "Cheddar Cheese Sauce",
+    "description": "Saus keju cheddar yang lembut dan kental dengan cita rasa gurih keju",
+    "section": "sauces"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Honey Mustard Sauce",
+    "description": "",
+    "section": "sauces"
+  },
+  {
+    "price": "7273",
+    "name": "Extra Mentai Sauce",
+    "description": "",
+    "section": "sauces"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Garlic Mayo",
+    "description": "",
+    "section": "sauces"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Egg Mayo",
+    "description": "",
+    "section": "sauces"
+  },
+  {
+    "price": "16364",
+    "name": "Bread Pudding Sticks (Roti Panggang)",
+    "description": "Roti deep-fried yang gurih dan manis serta crispy pada bagian luar dan lembut di dalam, bikin kamu mau lagi dan lagi!",
+    "section": "extras"
+  },
+  {
+    "price": "6364",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "extras"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "drinks"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "drinks"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "drinks"
+  },
+  {
+    "price": "8182",
+    "name": "Sweet Tropical",
+    "description": "Minuman pereda pedas dengan paduan buah tropikal sirsak dan guava yang memberikan sensasi manis yang segar!",
+    "section": "drinks"
+  },
+  {
+    "price": "16364",
+    "name": "ACCHAi! (350ml)",
+    "description": "Daripada cari masalah, mending chai masala! Minuman signature ACCHA yang diracik dari susu dan rempah pilihan. 100% enak!",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Coca-Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Zero Coca-Cola",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Fanta",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Sprite",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Frestea Apple Lemongrass",
+    "description": "",
+    "section": "drinks"
+  }
+]

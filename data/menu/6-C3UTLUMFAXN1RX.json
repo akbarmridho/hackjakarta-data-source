@@ -1,0 +1,638 @@
+[
+  {
+    "price": "24500",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Meatball + Omelet",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Nasi Goreng Gila Seafood",
+    "description": "Fried Rice, Sprinkled With Great Crazy Sauce With Seafood Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "15500",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "15500",
+    "name": "Nasi Goreng Sosis",
+    "description": "Fried Rice + Scrambled Egg + Delicious Sausage",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "15500",
+    "name": "Meatball Fried Rice",
+    "description": "Fried Rice + Scrambled Eggs + Delicious Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Crazy Chicken Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Chicken Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Crazy Beef Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Beef Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Nasi Goreng Seafood",
+    "description": "Fried Rice + Scrambled Egg + Seafood + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Shrimp Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Shrimp + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Squid Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Squid + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Beef Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Beef + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Nasi Goreng Mawut",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Noodles + Super Great Meatballs",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Nasi Goreng Seafood Lada Hitam",
+    "description": "Fried Rice Without Soy Sauce Poured In Seafood Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Black Pepper Shrimp Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Black Pepper Squid Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "24500",
+    "name": "Black Pepper Beef Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "23500",
+    "name": "Black Pepper Chicken Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Chicken Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Capcay Rice",
+    "description": "White Rice + Fried Capcay Of Chicken",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Nasi Siram Ayam",
+    "description": "Fried Rice Without Soy Sauce + Chicken + Meatballs + Various Vegetables",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "5000",
+    "name": "White Rice",
+    "description": "White Rice",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20500",
+    "name": "Black Pepper Chicken White Rice",
+    "description": "White Rice Doused With Black Pepper Chicken Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20500",
+    "name": "Black Seafood White Rice",
+    "description": "White Rice Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "18000",
+    "name": "Shrimp Black Pepper Rice",
+    "description": "White Rice Doused In Black Pepper Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "18000",
+    "name": "Black Pepper Squid White Rice",
+    "description": "White Rice Doused In Black Pepper Squid That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20000",
+    "name": "Black Pepper Beef White Rice",
+    "description": "White Rice Doused With Black Pepper Beef Sauce That Makes You Addicted",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "20500",
+    "name": "Crazy Rice",
+    "description": "White Rice Doused With Gila Sauce + Chicken + Meatballs + Sausage + Various Vegetables.",
+    "section": "crazy fried rice"
+  },
+  {
+    "price": "22500",
+    "name": "Fried Kwetiau With Beef",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Kwetiau Fried Squid",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Shrimp Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Kwetiau Goreng Seafood",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Special Fried Kuey Teow",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiau Goreng Gila",
+    "description": "Fried Kwetiau, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Noodle Soup",
+    "description": "Boiled Noodles + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Mie Goreng Ayam",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Goreng Gila",
+    "description": "Fried Noodles, Doused With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Vermicelli Soup",
+    "description": "Boiled Vermicelli + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Bihun Goreng Seafood",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "25000",
+    "name": "Bihun Goreng Gila",
+    "description": "Fried Vermicelli, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Special Fried Vermicelli",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Bihun Goreng Ayam",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Shrimp Fried Vermicelli",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Bihun Goreng Cumi",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "20000",
+    "name": "Beef Fried Vermicelli",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Mie Goreng Seafood",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Shrimp Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Squid Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "22500",
+    "name": "Beef Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "20500",
+    "name": "I Fu Mie",
+    "description": "Crispy Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "20000",
+    "name": "Lo Mie",
+    "description": "Crispy Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "18000",
+    "name": "Kwetiau Soup",
+    "description": "Boiled Kwetiau + Chicken + Vegetables + Egg And Meatballs",
+    "section": "noodles / vermicelli / flat noodles"
+  },
+  {
+    "price": "7000",
+    "name": "Es Lemon Tea",
+    "description": "Lemon Tea Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Jeruk Hangat",
+    "description": "Warm Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Manis Hangat",
+    "description": "Hot Sweet Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Es Jeruk",
+    "description": "Orange Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Lemon Tea Hangat",
+    "description": "Warm Lemon Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "32000",
+    "name": "Special Fried Rice, Free Sweet Iced Tea",
+    "description": "Special Fried Rice + Sweet Ice Tea",
+    "section": "recommended"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Fried Noodles, Free Sweet Iced Tea",
+    "description": "Chicken Fried Noodles + Sweet Ice Tea",
+    "section": "recommended"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Goreng Ayam, Free Es Teh Manis",
+    "description": "Chicken Fried Rice + Sweet Ice Tea",
+    "section": "recommended"
+  },
+  {
+    "price": "25000",
+    "name": "Fuyunghai",
+    "description": "Assorted Vegetables + Flour + Egg + Delicious Sweet And Sour Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Cumi Saus Tiram",
+    "description": "Flour Fried Squid + Oyster Sauce Cooked With Our Special Spices",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Flour Squid",
+    "description": "Flour Fried Squid + Mayonce + Sambal Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Cumi Asam Manis",
+    "description": "Flour Fried Squid + Fresh Sweet And Sour Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "45000",
+    "name": "Gurame Padang Sauce",
+    "description": "Fried Gourame + Savory Salty Padang Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Udang Saus Tiram",
+    "description": "Flour Fried Shrimp + Oyster Sauce Cooked With Our Special Spices",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Butter Fried Shrimp",
+    "description": "Fried Flour Shrimp + Great Butter Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Udang Goreng Rica - Rica",
+    "description": "Flour Fried Shrimp + The Spiciness Of The Great Rica-Rica Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Soy Sauce Fried Prawns",
+    "description": "Fried Flour Shrimp + Great Soy Sauce Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Sweet And Sour Shrimp",
+    "description": "Flour Fried Shrimp + Fresh Sweet And Sour Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Flour Shrimp",
+    "description": "Flour Fried Shrimp + Mayonce + Chili Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Padang Sauce Prawns",
+    "description": "Fried Shrimp + Savory Salty Padang Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "45000",
+    "name": "Gurame Asam Manis",
+    "description": "Fried Flour Gourame Fillet + Fresh Sweet And Sour Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "45000",
+    "name": "Gurame Rica - Rica",
+    "description": "Fried Gourame + The Spiciness Of Rica-Rica Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "45000",
+    "name": "Oyster Sauce Gourami",
+    "description": "Fried Flour Gourame Fillet + Oyster Sauce Cooked With Our Special Spices",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "40000",
+    "name": "Gurame Goreng",
+    "description": "Fried Gourame + Soy Sauce Sambal.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Butter Fried Squid",
+    "description": "Flour Fried Squid + Butter Sauce Cooked With Our Signature Spices",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Fried Squid With Soy Sauce",
+    "description": "Flour Fried Squid + Its Great Soy Sauce",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Padang Sauce Squid",
+    "description": "",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Black Pepper Beef",
+    "description": "Beef + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Seafood Lada Hitam",
+    "description": "Seafood + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Black Pepper Chicken",
+    "description": "Chicken + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Cumi Lada Hitam",
+    "description": "Squid + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "25000",
+    "name": "Black Pepper Shrimp",
+    "description": "Shrimp + Various Vegetables + Spicy Black Pepper Sauce.",
+    "section": "ayam / seafood / sapi"
+  },
+  {
+    "price": "22500",
+    "name": "Cap Cay Goreng Sapi",
+    "description": "Stir-Fried Vegetables + Beef + Savory And Delicious Meatballs.",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Cap Cay Goreng Seafood",
+    "description": "Stir-Fried Various Vegetables + Seafood + Savory And Delicious Meatballs.",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Cumi Cah Jagung Muda",
+    "description": "Stir-Fried Young Vegetables + Squid",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Cah Kangkung Seafood",
+    "description": "Stir-Fried Kale Vegetables + Seafood",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Water Spinach Sautee Shrimp",
+    "description": "Stir-Fried Kale Vegetables + Shrimp",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Udang Cah Brokoli",
+    "description": "Sauteed Broccoli Vegetables + Shrimp",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Sauteed Shrimp Cauliflower",
+    "description": "Sauteed Cauliflower Beans + Shrimp",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Young Corn Sautee Shrimp",
+    "description": "Stir-Fried Young Corn Vegetables + Shrimp",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Stir-Fried Water Spinach Squid",
+    "description": "Stir-Fried Kale Vegetables + Squid",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Cumi Cah Brokoli",
+    "description": "Sauteed Broccoli Vegetables + Squid",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Squid Cauliflower Cauliflower",
+    "description": "Sauteed Cauliflower Beans + Squid",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Gravy Cap Cay",
+    "description": "Assorted Vegetables + Chicken Cooked With Delicious Broth.",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Cap Cay Kuah Seafood",
+    "description": "Assorted Vegetables + Seafood Cooked With Delicious Broth.",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Stir-Fried Beef Gravy Cap Cai",
+    "description": "Assorted Vegetables + Beef Cooked With Delicious Broth.",
+    "section": "sayuran"
+  },
+  {
+    "price": "20000",
+    "name": "Plain Tofu Sapo",
+    "description": "Tofu Japan + Various Vegetables + Savory Beef Broth",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Tofu Sapo",
+    "description": "Tofu Japan + Various Vegetables + Savory Chicken Broth",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Sapo Tofu Seafood",
+    "description": "Tofu Japan + Various Vegetables + Savory Seafood Broth",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Beef Tofu Sapo",
+    "description": "Tofu Japan + Various Vegetables + Savory Beef Broth",
+    "section": "sayuran"
+  },
+  {
+    "price": "22500",
+    "name": "Pak Coy Seafood",
+    "description": "Stir-Fried Pakcoy Vegetables + Seafood",
+    "section": "sayuran"
+  },
+  {
+    "price": "20000",
+    "name": "Pak Coy Ayam",
+    "description": "Stir-Fried Pakcoy Vegetables + Chicken",
+    "section": "sayuran"
+  },
+  {
+    "price": "20000",
+    "name": "Sop Ayam",
+    "description": "Vegetable Soup + Delicious Chicken Broth",
+    "section": "sayuran"
+  }
+]

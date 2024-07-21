@@ -1,0 +1,548 @@
+[
+  {
+    "price": "158500",
+    "name": "Favorite Package",
+    "description": "1 Special Egg Martabak + 1 Martabak 1/2 Cheese 1/2 Ckw",
+    "section": "promo of the month"
+  },
+  {
+    "price": "328900",
+    "name": "Paket Rame-Rame",
+    "description": "2 Special Egg Martabak + 1 Martabak 1/2 Cheese 1/2 Ckw + 1 Complete Martabak",
+    "section": "promo of the month"
+  },
+  {
+    "price": "55000",
+    "name": "Plain Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "69900",
+    "name": "Chocolate Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "69500",
+    "name": "Peanut Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "69900",
+    "name": "Peanut Chocolate Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "73000",
+    "name": "Sesame Nut Chocolate Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "79900",
+    "name": "Cheese Martabak",
+    "description": "Sweet Martabak Served With Cheese Topping",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "84900",
+    "name": "Chocolate Cheese Martabak",
+    "description": "Sweet Martabak Served With Chocolate Cheese Topping",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "91500",
+    "name": "Complete Martabak",
+    "description": "Sesame Chocolate Cheese",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "73000",
+    "name": "1/2 Cheese 1/2 Chocolate",
+    "description": "Sweet Martabak Served With Half Cheese Topping And Half Chocolate",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "79900",
+    "name": "1/2 Cheese 1/2 Chocolate Sesame Nuts",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "88000",
+    "name": "1/2 Cheese 1/2 Chocolate Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "94500",
+    "name": "1/2 Complete 1/2 Cheese",
+    "description": "Sesame Chocolate Cheese",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "80500",
+    "name": "1/2 Chocolate Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "88000",
+    "name": "Cheese Corn Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "88000",
+    "name": "1/2 Cheese 1/2 Corn Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "95900",
+    "name": "Cheese Banana Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "95900",
+    "name": "1/2 Cheese 1/2 Banana Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "90900",
+    "name": "Chocolate Banana Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "112000",
+    "name": "Martabak Nutella",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "124000",
+    "name": "Nutella Cheese Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "112000",
+    "name": "1/2 Nutella 1/2 Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "117500",
+    "name": "Ovomaltine Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "129000",
+    "name": "Cheese Ovomaltine Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "117500",
+    "name": "1/2 Ovomaltine 1/2 Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "105000",
+    "name": "Martabak Skippy",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "110000",
+    "name": "Martabak Skippy Coklat",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "119000",
+    "name": "Skippy Cheese Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "130500",
+    "name": "Martabak Lotus Biscoff",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "151500",
+    "name": "Lotus Biscoff Cheese Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "131500",
+    "name": "1/2 Lotus Biscoff 1/2 Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "136500",
+    "name": "Martabak Lotus Biscoff Coklat",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "121000",
+    "name": "1/2 Lotus Biscoff 1/2 Coklat",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "103500",
+    "name": "Martabak Silverqueen",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "113000",
+    "name": "Martabak Toblerone",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "120000",
+    "name": "Toblerone Cheese Martabak",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "115000",
+    "name": "1/2 Toblerone 1/2 Cheese",
+    "description": "",
+    "section": "martabak manis original"
+  },
+  {
+    "price": "159500",
+    "name": "Cheese (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "141500",
+    "name": "1/2 Cheese 1/2 Chocolate (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "159500",
+    "name": "Chocolate Cheese (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "167500",
+    "name": "Complete (Tebal Wisman)",
+    "description": "Sesame Chocolate Cheese",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "159500",
+    "name": "1/2 Cheese 1/2 Chocolate Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "163900",
+    "name": "1/2 Complete Cheese (Tebal Tourist)",
+    "description": "Sesame Chocolate Cheese",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "148500",
+    "name": "1/2 Cheese 1/2 Chocolate Sesame Nuts (Tetebal Tourists)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "145200",
+    "name": "1/2 Chocolate 1/2 Chocolate Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "163500",
+    "name": "Cheese Corn (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "163500",
+    "name": "1/2 Cheese/2 Corn Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "169500",
+    "name": "Banana Cheese (Sweet Sesame Ball)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "169500",
+    "name": "1/2 Cheese/2 Banana Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "175500",
+    "name": "Nutella Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "157500",
+    "name": "1/2 Nutella 1/2 Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "181500",
+    "name": "Ovomaltine Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "169500",
+    "name": "1/2 Ovomaltine 1/2 Cheese (Tebal Foreign Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "169500",
+    "name": "Skippy Keju (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "197500",
+    "name": "Lotus Biscoff Cheese (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "178500",
+    "name": "1/2 Lotus Biscoff 1/2 Keju (Tebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "154000",
+    "name": "Toblerone Cheese (Tebal Tourist)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "148500",
+    "name": "1/2 Toblerone 1/2 Cheese (Tetebal Wisman)",
+    "description": "",
+    "section": "martabak manis topping tebal wisman"
+  },
+  {
+    "price": "121000",
+    "name": "Martabak Pizza 4 Flavors",
+    "description": "Sweet Martabak Served Like A Pizza With 4 Choices Of Toppings",
+    "section": "martabak manis pizza 4 rasa & 8 rasa"
+  },
+  {
+    "price": "132000",
+    "name": "Martabak Pizza 8 Rasa",
+    "description": "Sweet Martabak Served Like A Pizza With 8 Flavors",
+    "section": "martabak manis pizza 4 rasa & 8 rasa"
+  },
+  {
+    "price": "78900",
+    "name": "Special Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "78900",
+    "name": "Special Chicken Egg Martabak (Beef Filling)",
+    "description": "Using Chicken Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "84900",
+    "name": "Spicy Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "94500",
+    "name": "Corned Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "89900",
+    "name": "Cheese Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "100500",
+    "name": "Cheese Corned Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "94900",
+    "name": "Martabak Telor Indomie",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "110000",
+    "name": "Martabak Telor Indomie Kornet",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "104900",
+    "name": "Indomie Cheese Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "116500",
+    "name": "Indomie Corned Cheese Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "108900",
+    "name": "Martabak Telor Samyang",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "117500",
+    "name": "Cheese Samyang Egg Martabak",
+    "description": "Duck Eggs, Filled With Beef",
+    "section": "egg martabak"
+  },
+  {
+    "price": "36500",
+    "name": "Plain Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Cheese Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Chocolate Cheese Thin Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Complete Tipker Martabak",
+    "description": "Sesame Chocolate Cheese",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Chocolate Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Peanut Chocolate Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "43500",
+    "name": "Sesame Nut Chocolate Thin Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "60000",
+    "name": "Martabak Tipker Nutella",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "67000",
+    "name": "Nutella Cheese Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "63000",
+    "name": "Ovomaltine Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "67000",
+    "name": "Ovomaltine Cheese Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "60000",
+    "name": "Martabak Tipker Skippy",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "67000",
+    "name": "Skippy Cheese Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "63000",
+    "name": "Martabak Tipker Lotus Biscoff",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "67000",
+    "name": "Martabak Tipker Lotus Biscoff Cheese",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "60000",
+    "name": "Silverqueen Tipker Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "63000",
+    "name": "Martabak Tipker Toblerone",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  },
+  {
+    "price": "67000",
+    "name": "Cheese Tobler Bone Martabak",
+    "description": "",
+    "section": "sweet thin dry martabak (tipker)"
+  }
+]

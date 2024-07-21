@@ -1,0 +1,68 @@
+[
+  {
+    "price": "25000",
+    "name": "Egg Meatball Chicken Noodles",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "25000",
+    "name": "Tendon Meatball Chicken Noodles",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "20000",
+    "name": "Small Meatball Chicken Noodles",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "16000",
+    "name": "Mie Ayam",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "18000",
+    "name": "Bakso Urat",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "25000",
+    "name": "Jumbo Tendon Meatballs",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "20000",
+    "name": "Egg Meatballs",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "18000",
+    "name": "Bakso Kecil",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "26000",
+    "name": "Meatball + Egg",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "20000",
+    "name": "Tofu Tendon Meatballs",
+    "description": "",
+    "section": "menu"
+  },
+  {
+    "price": "20000",
+    "name": "Egg Meatballs + Tofu",
+    "description": "",
+    "section": "menu"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "price": "16530",
+    "name": "Paket Lele Komplit Sambal Geprek",
+    "description": "Rice+Lele+Tempe/Tofu+Sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "13920",
+    "name": "Paket Geprek",
+    "description": "Rice, Chicken, Red Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "13920",
+    "name": "Paket Geprek Sambel Ijo",
+    "description": "Rice, Chicken, Green Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "17400",
+    "name": "Paket Geprek Komplit",
+    "description": "Rice, Chicken, Tofu/Tempeh, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "17400",
+    "name": "Paket Geprek Sambel Ijo Komplit",
+    "description": "Rice, Chicken, Tofu/Tempeh, Green Sauce, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "10440",
+    "name": "Tofu/Temppe Geprek Package",
+    "description": "Rice, 3 Pieces, Tofu/Tempeh, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "18705",
+    "name": "Paket Indomie Geprek",
+    "description": "Indomie, Chicken, Chili Sauce, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "18705",
+    "name": "Paket Indomie Geprek Sambel Ijo",
+    "description": "Indomie, Chicken, Green Sambal Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22250",
+    "name": "Paket Ayam Bakar Paha",
+    "description": "Rice, Grilled Chicken Thighs Size 4, Sambal Separated, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "20445",
+    "name": "Paket Indomie Geprek Komplit",
+    "description": "Indomie, Chicken, Tofu/Tempeh, Chili Sauce, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24475",
+    "name": "Paket Ayam Bakar Paha Komplit",
+    "description": "Rice, Grilled Chicken Thighs Size 4, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "20445",
+    "name": "Paket Indomie Geprek Sambel Ijo Komplit",
+    "description": "Indomie, Chicken, Tofu/Tempeh, Green Sauce, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "21750",
+    "name": "Paket Geprek Komplit + Indomie",
+    "description": "Rice+Chicken+Tempe/Tofu+Indomie",
+    "section": "today's offer"
+  },
+  {
+    "price": "20010",
+    "name": "Complete Smashed Package + Nutrisari Ice",
+    "description": "Rice+Chicken+Tempe/Tofu+Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "19140",
+    "name": "Complete Smashed Package + Sweet Iced Tea",
+    "description": "Rice+Chicken+Tempe/Tofu+Sweet Iced Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "19575",
+    "name": "Paket Geprek + Indomie",
+    "description": "Rice+Chicken+Indomie",
+    "section": "today's offer"
+  },
+  {
+    "price": "18270",
+    "name": "Smashed Package + Nutrisari Ice",
+    "description": "Rice + Chicken + Nutrisari Ice",
+    "section": "today's offer"
+  },
+  {
+    "price": "17400",
+    "name": "Smashed Package + Sweet Iced Tea",
+    "description": "Rice + Chicken + Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "16020",
+    "name": "Medium Grilled Chicken Package",
+    "description": "Rice, Medium Grilled Chicken, Small, Separate Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "18245",
+    "name": "Medium Complete Grilled Chicken Package",
+    "description": "Rice, Medium/Small Grilled Chicken, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "23585",
+    "name": "Paket Ayam Bakar Dada",
+    "description": "Grilled Chicken Breast Rice 4 Separate Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "25365",
+    "name": "Complete Grilled Chicken Breast Package",
+    "description": "Rice, Grilled Chicken Breast Size 4, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "12900",
+    "name": "Crazy Fried Rice",
+    "description": "Rice, Egg, Chicken, Lalapan, Crackers",
+    "section": "today's offer"
+  },
+  {
+    "price": "12000",
+    "name": "Ayam Geprek",
+    "description": "Chicken, Red Sauce, Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "12000",
+    "name": "Ayam Geprek Sambal Ijo",
+    "description": "Chicken, Green Sambal, Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "13500",
+    "name": "Medium Grilled Chicken",
+    "description": "Medium Grilled Chicken, Sweet Spicy, Separate Sambal, Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "17000",
+    "name": "Ayam Bakar Paha",
+    "description": "Grilled Chicken Thighs, Sweet Spicy, Sambal Separated, Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "18000",
+    "name": "Ayam Bakar Dada",
+    "description": "Grilled Chicken Breast, Sweet Spicy, Chili Sauce, Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "11500",
+    "name": "Lele Goreng Sambal Geprek",
+    "description": "Catfish + Chili Sauce + Lalapan",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "4500",
+    "name": "Shrimp Crackers",
+    "description": "One Pack Of Two",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "6500",
+    "name": "Indomie Goreng",
+    "description": "Indomie",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "5000",
+    "name": "Fried Tempeh/Tofu",
+    "description": "3 Pieces Of Tofu/Tempeh",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "5000",
+    "name": "White Rice",
+    "description": "Rice",
+    "section": "two brothers main menu"
+  },
+  {
+    "price": "16530",
+    "name": "Paket Lele Komplit Sambal Geprek",
+    "description": "Rice+Lele+Tempe/Tofu+Sambal",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "13920",
+    "name": "Paket Geprek",
+    "description": "Rice, Chicken, Red Sambal, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "13920",
+    "name": "Paket Geprek Sambel Ijo",
+    "description": "Rice, Chicken, Green Sambal, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "17400",
+    "name": "Paket Geprek Komplit",
+    "description": "Rice, Chicken, Tofu/Tempeh, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "17400",
+    "name": "Paket Geprek Sambel Ijo Komplit",
+    "description": "Rice, Chicken, Tofu/Tempeh, Green Sauce, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "10440",
+    "name": "Tofu/Temppe Geprek Package",
+    "description": "Rice, 3 Pieces, Tofu/Tempeh, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "18705",
+    "name": "Paket Indomie Geprek",
+    "description": "Indomie, Chicken, Chili Sauce, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "18705",
+    "name": "Paket Indomie Geprek Sambel Ijo",
+    "description": "Indomie, Chicken, Green Sambal Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "20445",
+    "name": "Paket Indomie Geprek Komplit",
+    "description": "Indomie, Chicken, Tofu/Tempeh, Chili Sauce, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "20445",
+    "name": "Paket Indomie Geprek Sambel Ijo Komplit",
+    "description": "Indomie, Chicken, Tofu/Tempeh, Green Sauce, Lalapan",
+    "section": "two brothers punches package menu"
+  },
+  {
+    "price": "21750",
+    "name": "Paket Geprek Komplit + Indomie",
+    "description": "Rice+Chicken+Tempe/Tofu+Indomie",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "20010",
+    "name": "Complete Smashed Package + Nutrisari Ice",
+    "description": "Rice+Chicken+Tempe/Tofu+Vegetables",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "19140",
+    "name": "Complete Smashed Package + Sweet Iced Tea",
+    "description": "Rice+Chicken+Tempe/Tofu+Sweet Iced Tea",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "19575",
+    "name": "Paket Geprek + Indomie",
+    "description": "Rice+Chicken+Indomie",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "18270",
+    "name": "Smashed Package + Nutrisari Ice",
+    "description": "Rice + Chicken + Nutrisari Ice",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "17400",
+    "name": "Smashed Package + Sweet Iced Tea",
+    "description": "Rice + Chicken + Sweet Ice Tea",
+    "section": "two brothers economical geprek package"
+  },
+  {
+    "price": "16020",
+    "name": "Medium Grilled Chicken Package",
+    "description": "Rice, Medium Grilled Chicken, Small, Separate Sambal, Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "18245",
+    "name": "Medium Complete Grilled Chicken Package",
+    "description": "Rice, Medium/Small Grilled Chicken, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "23585",
+    "name": "Paket Ayam Bakar Dada",
+    "description": "Grilled Chicken Breast Rice 4 Separate Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "25365",
+    "name": "Complete Grilled Chicken Breast Package",
+    "description": "Rice, Grilled Chicken Breast Size 4, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "22250",
+    "name": "Paket Ayam Bakar Paha",
+    "description": "Rice, Grilled Chicken Thighs Size 4, Sambal Separated, Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "24475",
+    "name": "Paket Ayam Bakar Paha Komplit",
+    "description": "Rice, Grilled Chicken Thighs Size 4, Tofu Tempeh, Separate Sambal, Lalapan",
+    "section": "two brothers grilled chicken package"
+  },
+  {
+    "price": "12900",
+    "name": "Crazy Fried Rice",
+    "description": "Rice, Egg, Chicken, Lalapan, Crackers",
+    "section": "two brothers of fried rice menu"
+  },
+  {
+    "price": "18000",
+    "name": "Nasi Goreng Gila Sosis",
+    "description": "Rice, Egg, Chicken,Extra Sausage, Lalapan, Crackers",
+    "section": "two brothers of fried rice menu"
+  },
+  {
+    "price": "18000",
+    "name": "Meatball Crazy Fried Rice",
+    "description": "Rice, Egg, Chicken,Extra Meatballs, Lalapan, Crackers",
+    "section": "two brothers of fried rice menu"
+  },
+  {
+    "price": "18000",
+    "name": "Crazy Fried Rice With Fish Cake",
+    "description": "Rice, Egg, Chicken,Extra Otak2, Lalapan, Crackers",
+    "section": "two brothers of fried rice menu"
+  },
+  {
+    "price": "22500",
+    "name": "Special Crazy Fried Rice",
+    "description": "Rice, Egg, Chicken, Sausage, Otak2, Meatballs, Omelet, Lalapan, Crackers",
+    "section": "two brothers of fried rice menu"
+  },
+  {
+    "price": "8000",
+    "name": "Pop Ice Duren",
+    "description": "Pop Ice, Milk, Ice",
+    "section": "two brothers drinks"
+  },
+  {
+    "price": "8000",
+    "name": "Pop Ice Strawbery",
+    "description": "Pop Ice, Milk, Ice",
+    "section": "two brothers drinks"
+  },
+  {
+    "price": "8000",
+    "name": "Pop Ice Chocolate",
+    "description": "Pop Ice, Milk, Ice",
+    "section": "two brothers drinks"
+  },
+  {
+    "price": "8000",
+    "name": "Pop Ice Melon",
+    "description": "Pop Ice, Milk, Ice",
+    "section": "two brothers drinks"
+  },
+  {
+    "price": "8000",
+    "name": "Pop Ice Taro",
+    "description": "Pop Ice, Milk, Ice",
+    "section": "two brothers drinks"
+  }
+]

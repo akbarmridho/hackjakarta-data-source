@@ -1,0 +1,86 @@
+[
+  {
+    "price": "30000",
+    "name": "Complete Fried Chicken Thigh Rice",
+    "description": "Rice + Chicken Thigh + Tempeh + Tofu + Lalapan + Green Sambal/ Red Sambal",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Complete Chest Set Chicken Rice",
+    "description": "Rice + Chicken + Tempeh + Tofu + Lalapan + Green Sambal / Red Sambal",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Duck Rice",
+    "description": "Rice + Duck + Duck Seasoning + Lalapan + Green Sambal + Red Sambal",
+    "section": "food"
+  },
+  {
+    "price": "20000",
+    "name": "Small Penyet Chicken Rice",
+    "description": "Rice + Chicken + Lalapan + Green Sambal / Red Sambal",
+    "section": "food"
+  },
+  {
+    "price": "27000",
+    "name": "Seasoned Chicken Breast Rice",
+    "description": "Rice + Chicken + Lalapan + Red Sambal",
+    "section": "food 1"
+  },
+  {
+    "price": "27000",
+    "name": "Nasi Ayam Paha Bumbu",
+    "description": "Rice + Chicken + Lalapan + Red Sambal",
+    "section": "food 1"
+  },
+  {
+    "price": "27000",
+    "name": "Breast Penyet Chicken Rice",
+    "description": "Rice + Chicken Breast + Lalapan + Green Sambal/ Red Sambal",
+    "section": "food 1"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Thigh Rice",
+    "description": "Rice + Chicken Thigh + Lalapan + Green Sambal/ Red Sambal",
+    "section": "food 1"
+  },
+  {
+    "price": "27000",
+    "name": "Honey Grilled Chicken Rice",
+    "description": "Rice + Chicken + Lalapan + Sambal",
+    "section": "food 1"
+  },
+  {
+    "price": "35000",
+    "name": "Seasoned Duck Rice Package And Aqua 600Ml",
+    "description": "Rice + Duck + Seasoning + Aqua + Lalapan + Red / Green Sambal",
+    "section": "paket makanan"
+  },
+  {
+    "price": "35000",
+    "name": "Package Of Fried Chicken Breast And Aqua 600Ml",
+    "description": "Rice + Chicken + Aqua (Cold Or Not) + Tempeh + Tofu + Lalapan + Red / Green Sambal",
+    "section": "paket makanan"
+  },
+  {
+    "price": "35000",
+    "name": "Package Of Fried Chicken Thigh And Aqua 600Ml",
+    "description": "Rice + Chicken + Aqua (Cold Or Not) + Lalapan + Tofu + Tempe + Red / Green Sambal",
+    "section": "paket makanan"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Pucuk 350Ml",
+    "description": "Free Or Regular",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Aqua 600Ml",
+    "description": "Free Or Regular",
+    "section": "minuman"
+  }
+]

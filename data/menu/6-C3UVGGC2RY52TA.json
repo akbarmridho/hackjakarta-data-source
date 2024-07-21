@@ -1,0 +1,506 @@
+[
+  {
+    "price": "40909",
+    "name": "Haus Pahala 1",
+    "description": "Green Thai Tea (L) + Choco Hazelnut (M) + Strawberry Tea (L)",
+    "section": "today's offer"
+  },
+  {
+    "price": "40910",
+    "name": "Haus Pahala 2",
+    "description": "Thai Tea (L) + Taro (L) + Mango Tea (L)",
+    "section": "today's offer"
+  },
+  {
+    "price": "31818",
+    "name": "Oat Coffee Caramel Macchiato",
+    "description": "Coffee With Oat Inside And Extra Whipped Cream And A Delicious Caramel Sauce",
+    "section": "coffee series"
+  },
+  {
+    "price": "14091",
+    "name": "Kopassus (Thirst Milk Coffee)",
+    "description": "Coffee With A Mixture Of Milk And Caramel",
+    "section": "coffee series"
+  },
+  {
+    "price": "17727",
+    "name": "Palm Sugar Iced Coffee Milk (Kpr)",
+    "description": "",
+    "section": "coffee series"
+  },
+  {
+    "price": "40909",
+    "name": "Haus Pahala 1",
+    "description": "Green Thai Tea (L) + Choco Hazelnut (M) + Strawberry Tea (L)",
+    "section": "thirsty for the palestine thighs"
+  },
+  {
+    "price": "40910",
+    "name": "Haus Pahala 2",
+    "description": "Thai Tea (L) + Taro (L) + Mango Tea (L)",
+    "section": "thirsty for the palestine thighs"
+  },
+  {
+    "price": "26364",
+    "name": "Choco Crunhcy Ice Cream",
+    "description": "",
+    "section": "crunchy series"
+  },
+  {
+    "price": "25455",
+    "name": "Choco Cheese Crunchy Made With Take It",
+    "description": "",
+    "section": "crunchy series"
+  },
+  {
+    "price": "38182",
+    "name": "Choco Crunchy Toast",
+    "description": "",
+    "section": "crunchy series"
+  },
+  {
+    "price": "25000",
+    "name": "Choco Lava Float",
+    "description": "",
+    "section": "tamvan series"
+  },
+  {
+    "price": "26364",
+    "name": "Choco Avocado Float",
+    "description": "",
+    "section": "tamvan series"
+  },
+  {
+    "price": "22727",
+    "name": "Ice Cream Cup Coklat",
+    "description": "",
+    "section": "tamvan series"
+  },
+  {
+    "price": "15455",
+    "name": "Makaroni Goreng",
+    "description": "The Sensation Of Macaroni Emang Is The Most Suitable For Delicious Snacks! (Serve In Singum Packaging With 80 Gram Weight)",
+    "section": "pedes cyin"
+  },
+  {
+    "price": "16364",
+    "name": "Basreng",
+    "description": "Noodles Try This Savory Baso Fried Using Your Favorite Seasoning Variant! (Served In 18 Gram Packaging)",
+    "section": "pedes cyin"
+  },
+  {
+    "price": "15455",
+    "name": "Keripik Tempe Goreng",
+    "description": "Taste The Crispy Chips That Are Guaranteed To Make You Addicted! (Served In Lontong Wrapock Packaging With 80 Grams)",
+    "section": "pedes cyin"
+  },
+  {
+    "price": "16364",
+    "name": "Usus Goreng",
+    "description": "Combination Of Crispy Intestine Combination With Spicy Seasoning And Guaranteed To Be Delicious! (Served In 60 Gram Packaging)",
+    "section": "pedes cyin"
+  },
+  {
+    "price": "7727",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "10000",
+    "name": "Green Thai Tea",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "15000",
+    "name": "Cookies & Cream",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "15000",
+    "name": "Choco Green Tea",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "15000",
+    "name": "Ovaltine",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "15000",
+    "name": "Taro",
+    "description": "",
+    "section": "classic series"
+  },
+  {
+    "price": "14545",
+    "name": "Teh Tarik",
+    "description": "The Special Freshness Of Tea Mixed With Creamy Milk, Sweet And Cold Is Ready To Taste Really Good!",
+    "section": "classic series"
+  },
+  {
+    "price": "10455",
+    "name": "Steamed Milk Bread",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "12273",
+    "name": "Chocolate Steamed Buns",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "14091",
+    "name": "Cheese Steamed Buns",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "14091",
+    "name": "Roti Kukus Strawberry",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "14091",
+    "name": "Roti Kukus Blueberry",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "15455",
+    "name": "Roti Kukus Chocomaltine",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "17273",
+    "name": "Chocolate Cheese Steamed Buns",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "18182",
+    "name": "Roti Kukus Blueberry Keju",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "18182",
+    "name": "Roti Kukus Chocomaltine Keju",
+    "description": "",
+    "section": "ganjel roti kukus"
+  },
+  {
+    "price": "17727",
+    "name": "Ice Cream Vanilla With Boba",
+    "description": "",
+    "section": "ice cream cup"
+  },
+  {
+    "price": "17727",
+    "name": "Ice Cream Vanilla With Oreo",
+    "description": "",
+    "section": "ice cream cup"
+  },
+  {
+    "price": "17727",
+    "name": "Ice Cream Vanilla With Mango",
+    "description": "",
+    "section": "ice cream cup"
+  },
+  {
+    "price": "17727",
+    "name": "Ice Cream Vanilla With Strawberry",
+    "description": "",
+    "section": "ice cream cup"
+  },
+  {
+    "price": "19091",
+    "name": "Cotton Candy",
+    "description": "Combination Of Coconut But Drink? Is That It? You Can Use Cream Cheese, Just Try It!",
+    "section": "special drinks"
+  },
+  {
+    "price": "16364",
+    "name": "Choco Lava",
+    "description": "",
+    "section": "choco series"
+  },
+  {
+    "price": "16364",
+    "name": "Choco Hazelnut",
+    "description": "",
+    "section": "choco series"
+  },
+  {
+    "price": "17727",
+    "name": "Choco Avocado",
+    "description": "",
+    "section": "choco series"
+  },
+  {
+    "price": "20455",
+    "name": "Thai Tea Cheese",
+    "description": "Thai Drinks Are Complemented With A Savory Cream Cheese Blend. Nagih!",
+    "section": "cheese series"
+  },
+  {
+    "price": "21818",
+    "name": "Green Tea Cheese",
+    "description": "The Sensation Of Thai Drinks But The Combination Of Green Tea, The More Savory Uses Special Cream Cheese.",
+    "section": "cheese series"
+  },
+  {
+    "price": "21818",
+    "name": "Ovaltine Cheese",
+    "description": "Ovtine Uses Cream Cheese? Sweet, Savory, Still Notaky!",
+    "section": "cheese series"
+  },
+  {
+    "price": "21818",
+    "name": "Oreo Cheese",
+    "description": "Combination Of Oreos And Legit Milk Ready To Be Sprinkled With A Savory Cream Cheese!",
+    "section": "cheese series"
+  },
+  {
+    "price": "21818",
+    "name": "Taro Cheese",
+    "description": "Fragrant And Special Taste Of Taro Empang There Are No Anise. Enjoys Cold-Cold Using Cream Cheese!",
+    "section": "cheese series"
+  },
+  {
+    "price": "25455",
+    "name": "Choco Lava Cheese",
+    "description": "Well, It'S Favorite! Choco Pasta And Cheese Cream Perfect!",
+    "section": "cheese series"
+  },
+  {
+    "price": "24091",
+    "name": "Choco Hazelnut Cheese",
+    "description": "Hazelnut Peanut Flavor Only? How Long Is It? Completed With Cream Cheese!",
+    "section": "cheese series"
+  },
+  {
+    "price": "19091",
+    "name": "Lychee Yakult",
+    "description": "",
+    "section": "yakult series"
+  },
+  {
+    "price": "19091",
+    "name": "Mango Yakult",
+    "description": "",
+    "section": "yakult series"
+  },
+  {
+    "price": "17727",
+    "name": "Boba Brown Sugar Fresh Milk",
+    "description": "",
+    "section": "boba series"
+  },
+  {
+    "price": "17727",
+    "name": "Boba Brown Sugar Milk Tea",
+    "description": "",
+    "section": "boba series"
+  },
+  {
+    "price": "15455",
+    "name": "Lychee Tea",
+    "description": "Sweet, Fresh, Lychee Jelly Bonus! Ready To Be Wrapped In Your Thigh!",
+    "section": "tea series"
+  },
+  {
+    "price": "15455",
+    "name": "Strawberry Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "15455",
+    "name": "Mango Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "6364",
+    "name": "Jasmine Tea",
+    "description": "",
+    "section": "tea series"
+  },
+  {
+    "price": "26364",
+    "name": "Lemon Tea Yakult",
+    "description": "",
+    "section": "haus x lemon rrq"
+  },
+  {
+    "price": "17273",
+    "name": "Fresh Lemon Tea",
+    "description": "",
+    "section": "haus x lemon rrq"
+  },
+  {
+    "price": "28182",
+    "name": "Drink Beng Beng Cream Caramel",
+    "description": "",
+    "section": "haus x beng beng"
+  },
+  {
+    "price": "12727",
+    "name": "Bubble Gum Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Thai Tea Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Mango Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Taro Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Lychee Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Cotton Candy Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Greenn Tea Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "12727",
+    "name": "Chocolate Silky Pudding",
+    "description": "",
+    "section": "silky pudding"
+  },
+  {
+    "price": "25455",
+    "name": "Roti Bakar Susu Cream Butter",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "29545",
+    "name": "Chocolate Toast",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "29545",
+    "name": "Cheese Toast",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "29545",
+    "name": "Roti Bakar Strawberry",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "29545",
+    "name": "Roti Bakar Blueberry",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "30909",
+    "name": "Roti Bakar Chocomaltine",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "30909",
+    "name": "Chocolate Cheese Toast",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "36818",
+    "name": "Roti Bakar Blueberry Keju",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "41818",
+    "name": "Cheese Chocomaltine Toast",
+    "description": "",
+    "section": "ganjel toast"
+  },
+  {
+    "price": "14091",
+    "name": "Roti Maryam Susu",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "16364",
+    "name": "Roti Maryam Coklat",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "17727",
+    "name": "Maryam Cheese Bread",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "17727",
+    "name": "Roti Maryam Strawberry",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "17727",
+    "name": "Roti Maryam Blueberry",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "20455",
+    "name": "Roti Maryam Chocomaltine",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "20455",
+    "name": "Chocolate Cheese Maryam Bread",
+    "description": "",
+    "section": "ganjel roti maryam"
+  },
+  {
+    "price": "22727",
+    "name": "Roti Maryam Blueberry Keju",
+    "description": "",
+    "section": "ganjel roti maryam"
+  }
+]

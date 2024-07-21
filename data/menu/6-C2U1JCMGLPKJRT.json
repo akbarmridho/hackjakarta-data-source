@@ -1,0 +1,272 @@
+[
+  {
+    "price": "43182",
+    "name": "Mongolian Chicken",
+    "description": "Potongan ayam dengan saus mongolian yang manis dan gurih",
+    "section": "hadir kembali!"
+  },
+  {
+    "price": "32273",
+    "name": "LITE Salted Egg Chicken Polos",
+    "description": "Salted egg chicken polos porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "32273",
+    "name": "LITE Salted Egg Chicken Original",
+    "description": "Salted egg chicken original porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "35909",
+    "name": "LITE Spicy Salted Egg Chicken",
+    "description": "Spicy salted egg chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "35364",
+    "name": "LITE Salted Egg Chicken Pedas Jeruk",
+    "description": "Salted egg chicken pedas jeruk porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "32636",
+    "name": "LITE SEC Founder's Signature",
+    "description": "Salted egg chicken founder's signature porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "30455",
+    "name": "LITE Kung Pao Chicken",
+    "description": "Kung pao chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "32273",
+    "name": "LITE Mongolian Chicken",
+    "description": "Mongolian chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "30455",
+    "name": "LITE Black Pepper Chicken",
+    "description": "Blackpepper chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "31364",
+    "name": "LITE General Tso Chicken",
+    "description": "General tso chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "30455",
+    "name": "LITE Sambalado Chicken",
+    "description": "Sambalado chicken porsi lite (tanpa telur)",
+    "section": "sec bowl lite"
+  },
+  {
+    "price": "61364",
+    "name": "Seckaligus",
+    "description": "Kombinasi 2 Menu Ayam, telur dan nasi",
+    "section": "seckaligus"
+  },
+  {
+    "price": "44091",
+    "name": "Salted Egg Chicken Polos",
+    "description": "Tanpa cabe rawit di dalam saus salted egg. Tidak pedas sama sekali.",
+    "section": "reguler"
+  },
+  {
+    "price": "44091",
+    "name": "Salted Egg Chicken Original",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "47727",
+    "name": "Spicy Salted Egg Chicken",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "47182",
+    "name": "Salted Egg Chicken Pedas Jeruk",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "44455",
+    "name": "Salted Egg Chicken Founder's Signature",
+    "description": "Cara khas founder Sec Bowl makan salted egg chicken.- Ditaburi irisan cabe rawit fresh yang super banyak.",
+    "section": "reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Kung Pao Chicken",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "43182",
+    "name": "Mongolian Chicken",
+    "description": "Potongan ayam dengan saus mongolian yang manis dan gurih",
+    "section": "reguler"
+  },
+  {
+    "price": "42273",
+    "name": "Black Pepper Chicken",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "39000",
+    "name": "General Tso Chicken",
+    "description": "Potongan ayam goreng yang dibalur dengan saus lengket General Tso yang rasanya manis-manis gurih. Menu ini tidak disajikan dengan telur mata sapi.",
+    "section": "reguler"
+  },
+  {
+    "price": "41364",
+    "name": "Sambalado Chicken",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "40455",
+    "name": "Spicy Thai Basil Chicken",
+    "description": "",
+    "section": "reguler"
+  },
+  {
+    "price": "97727",
+    "name": "Salted Egg Chicken Polos (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "97727",
+    "name": "Salted Egg Chicken Original (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "102273",
+    "name": "Spicy Salted Egg Chicken (Chicken Only)",
+    "description": "Lauk Saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "99909",
+    "name": "Salted Egg Chicken Pedas Jeruk (Chicken Only)",
+    "description": "Lauk Saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "98636",
+    "name": "SEC Founder's Signature (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "95000",
+    "name": "Kung Pao Chicken (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "95455",
+    "name": "Mongolian Chicken (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "95000",
+    "name": "Black Pepper Chicken (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "90818",
+    "name": "General Tso Chicken (Chicken Only)",
+    "description": "Lauk Saja. Tanpa Nasi Dan Telur. Potongan ayam goreng yang dibalur dengan saus lengket General Tso yang rasanya manis-manis gurih.",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "89545",
+    "name": "Sambalado Chicken (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "89545",
+    "name": "Spicy Thai Basil Chicken (Chicken Only)",
+    "description": "Lauk saja. Tanpa Nasi dan Telur",
+    "section": "ala carte (chicken only)"
+  },
+  {
+    "price": "38636",
+    "name": "Capcay Polos",
+    "description": "Sayuran untuk melengkapi makanan kamu (tanpa nasi putih)",
+    "section": "sayur"
+  },
+  {
+    "price": "8636",
+    "name": "Nasi Putih",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "3636",
+    "name": "Extra Salted Egg Sauce",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7727",
+    "name": "Telur Mata Sapi",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "7727",
+    "name": "Telur Dadar",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "1364",
+    "name": "Cabe Rawit Kecap",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "1818",
+    "name": "Cabe Rawit (tanpa kecap)",
+    "description": "",
+    "section": "additional"
+  },
+  {
+    "price": "5455",
+    "name": "Aqua 600 ML",
+    "description": "600 ML",
+    "section": "drink"
+  },
+  {
+    "price": "7273",
+    "name": "Teh Botol 450 ML",
+    "description": "450 ML",
+    "section": "drink"
+  },
+  {
+    "price": "17273",
+    "name": "Es Sari Tebu Lemon",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "14545",
+    "name": "Es Sari Tebu Murni",
+    "description": "",
+    "section": "drink"
+  }
+]

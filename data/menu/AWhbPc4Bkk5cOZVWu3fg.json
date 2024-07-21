@@ -1,0 +1,368 @@
+[
+  {
+    "price": "33000",
+    "name": "Capcay + Rice Package",
+    "description": "Fried Capcay + Rice",
+    "section": "menu paket"
+  },
+  {
+    "price": "35000",
+    "name": "Black Pepper Chicken + Rice",
+    "description": "Chicken Of Black Pepper",
+    "section": "menu paket"
+  },
+  {
+    "price": "35000",
+    "name": "Ayam Rica +Nasi",
+    "description": "Spicy Rica Seasoned Chicken",
+    "section": "menu paket"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Chicken + Rice",
+    "description": "Butter Soy Sauce Chicken",
+    "section": "menu paket"
+  },
+  {
+    "price": "22000",
+    "name": "Mie Goreng Ayam",
+    "description": "Noodles, Chicken, Baso, Eggs, Vegetables",
+    "section": "fried noodle menu"
+  },
+  {
+    "price": "25000",
+    "name": "Noodle Soup",
+    "description": "",
+    "section": "fried noodle menu"
+  },
+  {
+    "price": "26000",
+    "name": "Shrimp Fried Noodles",
+    "description": "Shrimp Eggs Mustard Greens Cauliflower Garlic Etc",
+    "section": "fried noodle menu"
+  },
+  {
+    "price": "26000",
+    "name": "Squid Fried Noodles",
+    "description": "Squid Noodles Mustard Greens Of Green Onions",
+    "section": "fried noodle menu"
+  },
+  {
+    "price": "30000",
+    "name": "Mun Tofu Chicken",
+    "description": "Tofu, Chicken, Eggs",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "30000",
+    "name": "Fuyunghai",
+    "description": "Cauliflower Chicken Scallions Carrots Egg",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "28000",
+    "name": "Lo Mie",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "30000",
+    "name": "Sapo Tofu Seafood",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "28000",
+    "name": "Capcay Gravy",
+    "description": "Just Like More Chives Fried Capcai",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "30000",
+    "name": "Sop Ayam",
+    "description": "Chicken Carrot Potatoes Cauliflower Leaves Tomato Onions Etc",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "28000",
+    "name": "Capcay Goreng",
+    "description": "",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "35000",
+    "name": "Chicken Tofu Sapo",
+    "description": "Tofu (Tofu) Carrot Of Chicken Mustard Greens, White Bombay, Etc",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "18000",
+    "name": "Kangkung Cah Saus Tiram",
+    "description": "Water Spinach Kale, Oyster Sauce",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "30000",
+    "name": "Ifu Mie",
+    "description": "Dry Fried Noodles (Vegetable Mustard Greens, Mustard Greens, White Chicken Meatballs Etc.)",
+    "section": "vegetable menu"
+  },
+  {
+    "price": "30000",
+    "name": "Butter Fried Chicken",
+    "description": "Butter Chicken With Worcestershire Sauce",
+    "section": "menu ayam"
+  },
+  {
+    "price": "33000",
+    "name": "Ayam Goreng Rica-Rica",
+    "description": "Grilled Chicken Chili Tomatoes Tomato Sauce Onions",
+    "section": "menu ayam"
+  },
+  {
+    "price": "30000",
+    "name": "Crispy Chicken",
+    "description": "Tomato Flour Chicken Carrot, Cucumber, Tomato Sauce (Sweet Sambal)",
+    "section": "menu ayam"
+  },
+  {
+    "price": "34000",
+    "name": "Bistik Ayam",
+    "description": "Potato Chicken (Fried Flour) Butter Sauce",
+    "section": "menu ayam"
+  },
+  {
+    "price": "36000",
+    "name": "Shrimp Layered Chicken",
+    "description": "Thin Shrimp Gravet In Minced Shrimp Fried In Flour ( Butter Sauce)",
+    "section": "menu ayam"
+  },
+  {
+    "price": "30000",
+    "name": "Salted Fish Fried Rice + Stinky Beans",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "27000",
+    "name": "Nasi Goreng Seafood",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "30000",
+    "name": "Shrimp Fried Rice",
+    "description": "Soy Sauce Prawn Garlic Rice",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "30000",
+    "name": "Squid Fried Rice",
+    "description": "Soy Sauce Garlic Leaf Squid Rice",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "25000",
+    "name": "Salted Fish Fried Rice",
+    "description": "Salted Fish Rice, Spring Onions, Garlic Soy Sauce",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "30000",
+    "name": "Nasi Goreng Pete",
+    "description": "Pete Scallion White Rice Soy Sauce Egg",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "9000",
+    "name": "Sunny Side Up",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "28000",
+    "name": "Mie Goreng Ayam",
+    "description": "",
+    "section": "fried rice menu"
+  },
+  {
+    "price": "30000",
+    "name": "Bihun Goreng Ayam",
+    "description": "Rice Vermicelli Cauliflower Mustard Greens Chicken Eggs, Baso Soy Sauce White Onions",
+    "section": "vermicelli menu"
+  },
+  {
+    "price": "33000",
+    "name": "Bihun Goreng Seafood",
+    "description": "Green Cauliflower Vermicelli Green Onions Squid Soy Sauce Shrimp",
+    "section": "vermicelli menu"
+  },
+  {
+    "price": "30000",
+    "name": "Bihun Goreng Cumi",
+    "description": "Vermicelli Squid With Garlic Soy Sauce",
+    "section": "vermicelli menu"
+  },
+  {
+    "price": "30000",
+    "name": "Shrimp Fried Vermicelli",
+    "description": "Cauliflower Vermicelli Green Egg Shrimp With Garlic Soy Sauce",
+    "section": "vermicelli menu"
+  },
+  {
+    "price": "30000",
+    "name": "Kwetiaw Fried Aya",
+    "description": "Kwetiaw Cabbage Mustard Greens Chicken Egg Baso",
+    "section": "kwetiaw menu"
+  },
+  {
+    "price": "33000",
+    "name": "Kwetiaw Goreng Seafood",
+    "description": "Shrimp Squid Kwetiaw Eggs Green Mustard Greens",
+    "section": "kwetiaw menu"
+  },
+  {
+    "price": "30000",
+    "name": "Kwetiaw Goreng Cumi",
+    "description": "Squid Kwetiaw Cauliflower Mustard Greens, Egg, Garlic Soy Sauce",
+    "section": "kwetiaw menu"
+  },
+  {
+    "price": "30000",
+    "name": "Kwetiaw Fried Shrimp",
+    "description": "Kwetiaw Garlic Shrimp",
+    "section": "kwetiaw menu"
+  },
+  {
+    "price": "35000",
+    "name": "Floured Fried Squid",
+    "description": "Flour Squid Sauce (Beef)",
+    "section": "squid menu"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Fried Squid",
+    "description": "Soy Sauce Butter Squid",
+    "section": "squid menu"
+  },
+  {
+    "price": "35000",
+    "name": "Cumi Goreng Rica Rica",
+    "description": "Squid Bombay Chilli Leaves Onion Sauce Etc",
+    "section": "squid menu"
+  },
+  {
+    "price": "35000",
+    "name": "Cumi Goreng Asam Manis",
+    "description": "Squid, Sweet And Sour Sauce Etc",
+    "section": "squid menu"
+  },
+  {
+    "price": "35000",
+    "name": "Floured Fried Shrimp",
+    "description": "Butter Sauce Flour",
+    "section": "shrimp menu"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Fried Shrimp",
+    "description": "Butter Sauce Shrimp",
+    "section": "shrimp menu"
+  },
+  {
+    "price": "35000",
+    "name": "Udang Goreng Rica Rica",
+    "description": "Shrimp With Ricay Seasoning, Scallions, Etc.",
+    "section": "shrimp menu"
+  },
+  {
+    "price": "35000",
+    "name": "Sweet And Sour Fried Shrimp",
+    "description": "Carrot Cucumber Tomato Sauce Etc",
+    "section": "shrimp menu"
+  },
+  {
+    "price": "4000",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Jeruk Anget",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "4000",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "Ice... Tea.. Sugar..",
+    "section": "menu minuman"
+  },
+  {
+    "price": "3000",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "menu minuman"
+  },
+  {
+    "price": "20000",
+    "name": "Flour Tuna",
+    "description": "Floured Meat, Maizena, Butter Sauce",
+    "section": "fish menu"
+  },
+  {
+    "price": "26000",
+    "name": "Tuna Rica Rica",
+    "description": "Tuna Meat, Rica Rica Seasoning",
+    "section": "fish menu"
+  },
+  {
+    "price": "25000",
+    "name": "Tuna Asam Manis",
+    "description": "Tuna Meat, Sweet And Sour Sauce",
+    "section": "fish menu"
+  },
+  {
+    "price": "50000",
+    "name": "Gurame Asam Manis",
+    "description": "Dry Fried Gourame, Sweet And Sour Seasoning",
+    "section": "fish menu"
+  },
+  {
+    "price": "50000",
+    "name": "Gurame Rica Rica",
+    "description": "Dry Fried Gourame, Rica Rica Spicy Seasoning",
+    "section": "fish menu"
+  },
+  {
+    "price": "50000",
+    "name": "Gourami Flour With Soy Sauce",
+    "description": "Butter Sauce Etc",
+    "section": "fish menu"
+  }
+]

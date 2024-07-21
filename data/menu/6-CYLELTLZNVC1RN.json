@@ -1,0 +1,752 @@
+[
+  {
+    "price": "227273",
+    "name": "Party Pack #Cendolyoshinoya",
+    "description": "Party Pack isi 10 cendol + GRATIS 1 Bantal Cendol. Maksimum Quantity pembelian yaitu 1",
+    "section": "today's offer"
+  },
+  {
+    "price": "93636",
+    "name": "Mabar Ber-4",
+    "description": "2 Hot Deal (H/O/T) + 2 Big Fried Chicken + 2 Nasi",
+    "section": "today's offer"
+  },
+  {
+    "price": "45455",
+    "name": "B2F1 Es Cendol",
+    "description": "Beli 2 GRATIS 1 Es Cendol Yoshinoya! Tersedia pilihan Es Cendol Gula Aren dan Es Pink Cendol. Makin nikmat dan segar!!",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Favorit 1",
+    "description": "Nikmatnya HOT Deal H ditambah dengan irisan daging sapi 100% U.S. Beef rasa manis gurih. Pasti lebih puasss !!!",
+    "section": "today's offer"
+  },
+  {
+    "price": "70000",
+    "name": "Favorit 3",
+    "description": "1 Beef Bowl Regular (Blackpepper)) + 1 Kani Cream Croquette",
+    "section": "today's offer"
+  },
+  {
+    "price": "117273",
+    "name": "Mabar A",
+    "description": "2 Beef Bowl Regular (Ori/Yaki) + 1 Chicken Karaage",
+    "section": "today's offer"
+  },
+  {
+    "price": "171818",
+    "name": "Mabar B",
+    "description": "3 Beef Bowl Reg (Ori/Yaki) + 1 Crispy Chicken + 3 Crispy Greens",
+    "section": "today's offer"
+  },
+  {
+    "price": "140909",
+    "name": "Yuk Ber-4",
+    "description": "2 Beef Bowl Regular (Ori/Yaki) + 2 HOT Deal (H/O/T)",
+    "section": "today's offer"
+  },
+  {
+    "price": "79091",
+    "name": "Promo Duo Pedas",
+    "description": "Beli 2 Sambal lebih hemat, lebih pedas dan lebih puas…!!!",
+    "section": "today's offer"
+  },
+  {
+    "price": "46363",
+    "name": "Promo Gorengan Rame Rame",
+    "description": "3 Crispy Chicken + 3 Chicken Roll + 3 Egg Roll",
+    "section": "today's offer"
+  },
+  {
+    "price": "130000",
+    "name": "Promo Kenyang Ber-2",
+    "description": "2 Beef Bowl + Taro Milk 18Oz + 2 Miso Soup",
+    "section": "today's offer"
+  },
+  {
+    "price": "68182",
+    "name": "Promo Hemat Ayam",
+    "description": "3 Paket Hemat BFC (1 Paket = Big Fried Chicken + Nasi)",
+    "section": "today's offer"
+  },
+  {
+    "price": "71818",
+    "name": "Promo Hot Deal Ber-3",
+    "description": "Buy 3 Hot Deal Packages O / T Discount 15%. Surely More Satisfying...!",
+    "section": "today's offer"
+  },
+  {
+    "price": "93636",
+    "name": "Mabar Ber-4",
+    "description": "2 Hot Deal (H/O/T) + 2 Big Fried Chicken + 2 Nasi",
+    "section": "economical eating together!"
+  },
+  {
+    "price": "26363",
+    "name": "Garlic Chicken Teriyaki",
+    "description": "Nikmatnya potongan daging ayam dimasak dengan saus Jepang Premium Garlic Teriyaki",
+    "section": "garlic chicken teriyaki [must try!!!]"
+  },
+  {
+    "price": "35454",
+    "name": "Exclusive Set A With Red Hot Chili",
+    "description": "Kombinasi sempurna ayam tanpa tulang dimasak dengan saus Jepang Premium Garlic Teriyaki dipadukan dengan sensasi pedas sambal merah + Nasi",
+    "section": "garlic chicken teriyaki [must try!!!]"
+  },
+  {
+    "price": "35454",
+    "name": "Exclusive Set B With Crispy Greens",
+    "description": "Kombinasi sempurna ayam tanpa tulang dimasak dengan saus Jepang Premium Garlic Teriyaki dipadukan dengan renyahnya Crispy Greens + Nasi",
+    "section": "garlic chicken teriyaki [must try!!!]"
+  },
+  {
+    "price": "69090",
+    "name": "Spy X Family Kids Meal Single Set - Beef",
+    "description": "1 Kids Meal (Varian Beef Original / Yakiniku) + 1 Standee Spy x Family",
+    "section": "spy x family kids meal"
+  },
+  {
+    "price": "58181",
+    "name": "Spy X Family Kids Meal Single Set - Crispy Chicken",
+    "description": "1 Kids Meal (Varian Crispy Chicken) + 1 Standee Spy x Family",
+    "section": "spy x family kids meal"
+  },
+  {
+    "price": "57272",
+    "name": "Spy X Family Kids Meal Single Set - Mix Seafood",
+    "description": "1 Kids Meal (Varian Mix Seafood) + 1 Standee Spy x Family",
+    "section": "spy x family kids meal"
+  },
+  {
+    "price": "286363",
+    "name": "Spy X Family Kids Meal Complete Set",
+    "description": "5 Kids Meal (Mix Varian) + 5 Standee + 1 Diorama (Action / Party)",
+    "section": "spy x family kids meal"
+  },
+  {
+    "price": "136363",
+    "name": "Pillow Anya & Chimera",
+    "description": "Super Soft High Quality Material, Cozy to Hug Pillow. Front & Back Side with Anya & Chimera Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "136363",
+    "name": "Pillow Peanut",
+    "description": "Super Soft High Quality Material, Cozy to Hug Pillow. Front & Back Side with Peanut Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "136363",
+    "name": "Pillow Anya & Penguin",
+    "description": "Super Soft High Quality Material, Cozy to Hug Pillow. Front & Back Side with Anya & Penguin Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "136363",
+    "name": "Pillow Bond Forger",
+    "description": "Super Soft High Quality Material, Cozy to Hug Pillow. Front & Back Side with Bond Forger Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Anya & Bond",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Anya & Bond Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Purple Anya",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Purple Anya Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Anya & Damian",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Anya & Damian Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Bond Forger",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Bond Forger Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch The Forgers",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with The Forgers Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Peanut",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Peanut Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Action",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Action Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "24545",
+    "name": "Pouch Television",
+    "description": "Multipurpose Pouch. Size 23 x 14 cm. Front & Back Side with Television Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "13636",
+    "name": "Folder Forgers Party",
+    "description": "Cute Plastic Folder F4 Size. Front & Back Side with The Forgers Party Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "13636",
+    "name": "Folder Anya & Damian",
+    "description": "Cute Plastic Folder F4 Size. Front & Back Side with Anya & Damian Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "13636",
+    "name": "Folder Anya & Becky",
+    "description": "Cute Plastic Folder F4 Size. Front & Back Side with Anya & Becky Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "13636",
+    "name": "Folder Family Walk",
+    "description": "Cute Plastic Folder F4 Size. Front & Back Side with the Forgers Family Walk Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "136363",
+    "name": "Bowl Anya Forger",
+    "description": "Premium Ceramic Bowl with Anya Forger Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "68181",
+    "name": "Mug Bond Forger",
+    "description": "Premium Ceramic Mug with Bond Forger Design",
+    "section": "spy x family official merchandise"
+  },
+  {
+    "price": "227273",
+    "name": "Party Pack #Cendolyoshinoya",
+    "description": "Party Pack isi 10 cendol + GRATIS 1 Bantal Cendol. Maksimum Quantity pembelian yaitu 1",
+    "section": "party pack"
+  },
+  {
+    "price": "45455",
+    "name": "B2F1 Es Cendol",
+    "description": "Beli 2 GRATIS 1 Es Cendol Yoshinoya! Tersedia pilihan Es Cendol Gula Aren dan Es Pink Cendol. Makin nikmat dan segar!!",
+    "section": "beli 2 gratis 1"
+  },
+  {
+    "price": "50000",
+    "name": "Favorit 1",
+    "description": "Nikmatnya HOT Deal H ditambah dengan irisan daging sapi 100% U.S. Beef rasa manis gurih. Pasti lebih puasss !!!",
+    "section": "grabfood exclusive"
+  },
+  {
+    "price": "70000",
+    "name": "Favorit 3",
+    "description": "1 Beef Bowl Regular (Blackpepper)) + 1 Kani Cream Croquette",
+    "section": "grabfood exclusive"
+  },
+  {
+    "price": "117273",
+    "name": "Mabar A",
+    "description": "2 Beef Bowl Regular (Ori/Yaki) + 1 Chicken Karaage",
+    "section": "grabfood exclusive"
+  },
+  {
+    "price": "171818",
+    "name": "Mabar B",
+    "description": "3 Beef Bowl Reg (Ori/Yaki) + 1 Crispy Chicken + 3 Crispy Greens",
+    "section": "grabfood exclusive"
+  },
+  {
+    "price": "140909",
+    "name": "Yuk Ber-4",
+    "description": "2 Beef Bowl Regular (Ori/Yaki) + 2 HOT Deal (H/O/T)",
+    "section": "grabfood exclusive"
+  },
+  {
+    "price": "70000",
+    "name": "Beef Pack",
+    "description": "Irisan daging sapi 100% U.S Beef dalam kemasan 160gr. Tersedia 3 varian (Original, Yakiniku, Blackpepper)",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "45454",
+    "name": "Red Chili 200Gr",
+    "description": "Mantap pedasnya!! Cocok untuk segala hidangan. Tanpa bahan pengawet. Ukuran 200gr per Botol",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "45454",
+    "name": "Garlic Sambal Korek 200Gr",
+    "description": "Sambal Ulek Cabe Asli dalam kemasan botol 200 gr. Cocok dimakan dengan berbagai menu. Pedas, Mantap, Jelas Lebih Puasss...!",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "62727",
+    "name": "Taro Milk 1 Liter",
+    "description": "Ice Taro Milk dengan ukuran 1 Liter",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "62727",
+    "name": "Matcha Latte 1 Liter",
+    "description": "High Grade Matcha + Fresh Milk dengan ukuran 1 Liter",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "62727",
+    "name": "Lychee Jelly Tea 1 Liter",
+    "description": "Ice Lychee Jelly Tea dengan ukuran 1 Liter",
+    "section": "#yoshinoyadi home"
+  },
+  {
+    "price": "22727",
+    "name": "Palm Sugar Cendol Ice",
+    "description": "1 Es Cendol gula aren yang manis ditambah dengan boba brown sugar, nikmat dan segar dengan ukuran 10 oz !!!",
+    "section": "dessert"
+  },
+  {
+    "price": "80909",
+    "name": "Palm Sugar Cendol Ice 1L",
+    "description": "Es Cendol gula aren yang manis, nikmat dan segar dengan ukuran 1L !!!",
+    "section": "dessert"
+  },
+  {
+    "price": "22727",
+    "name": "Pink Cendol",
+    "description": "SERUU!! RASA BARU. Es Pink Cendol dengan Coconut Jelly dan Tropical Boba. Ukuran 10 oz.",
+    "section": "dessert"
+  },
+  {
+    "price": "77272",
+    "name": "Paket Puas Gorengan Udang + Beef Bowl (R) + Drink",
+    "description": "Paket Hemat Beef Bowl (Original/Yakiniku/Blackpepper) Ukuran Sedang + 3 Pcs Gorengan Udang + Drink (Ocha/Golda/Floridina)",
+    "section": "satisfied package"
+  },
+  {
+    "price": "71818",
+    "name": "Paket Puas Gorengan Ayam + Beef Bowl (R) + Drink",
+    "description": "Paket Hemat Beef Bowl (Original/Yakiniku/Blackpepper) Ukuran Sedang + 3 Pcs Gorengan Ayam + Drink (Ocha/Golda/Floridina)",
+    "section": "satisfied package"
+  },
+  {
+    "price": "65454",
+    "name": "Paket Puas Gorengan Ayam + Teriyaki Chicken + Drink",
+    "description": "Paket Hemat Teriyaki Chicken Bowl + 3 Pcs Gorengan Ayam + Drink (Ocha/Golda/Floridina)",
+    "section": "satisfied package"
+  },
+  {
+    "price": "70909",
+    "name": "Paket Puas Gorengan Udang + Teriyaki Chicken + Drink",
+    "description": "Paket Hemat Teriyaki Chicken Bowl + 3 Pcs Gorengan Udang + Drink (Ocha/Golda/Floridina)",
+    "section": "satisfied package"
+  },
+  {
+    "price": "79091",
+    "name": "Promo Duo Pedas",
+    "description": "Beli 2 Sambal lebih hemat, lebih pedas dan lebih puas…!!!",
+    "section": "promo super hemat"
+  },
+  {
+    "price": "46363",
+    "name": "Promo Gorengan Rame Rame",
+    "description": "3 Crispy Chicken + 3 Chicken Roll + 3 Egg Roll",
+    "section": "promo super hemat"
+  },
+  {
+    "price": "130000",
+    "name": "Promo Kenyang Ber-2",
+    "description": "2 Beef Bowl + Taro Milk 18Oz + 2 Miso Soup",
+    "section": "promo super hemat"
+  },
+  {
+    "price": "68182",
+    "name": "Promo Hemat Ayam",
+    "description": "3 Paket Hemat BFC (1 Paket = Big Fried Chicken + Nasi)",
+    "section": "promo super hemat"
+  },
+  {
+    "price": "29090",
+    "name": "Super Deal Bfc (Big Fried Chicken)",
+    "description": "Ayam Goreng Besar Tanpa Tulang (1 Pc) Dan Nasi",
+    "section": "paket super hemat"
+  },
+  {
+    "price": "34545",
+    "name": "Super Deal Karaage",
+    "description": "Ayam Goreng Dengan Bumbu Khas Jepang (4 Pcs) Dan Nasi",
+    "section": "paket super hemat"
+  },
+  {
+    "price": "71818",
+    "name": "Promo Hot Deal Ber-3",
+    "description": "Buy 3 Hot Deal Packages O / T Discount 15%. Surely More Satisfying...!",
+    "section": "hot deal"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Deal - Paket H",
+    "description": "1 Chicken Katsu + Nasi + Sambal Korek Bawang, Pedas & Mantaap. Jelas Lebih Puasss...!",
+    "section": "hot deal"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Deal - Paket O",
+    "description": "2 Golden Roll + 2 Mix Seafood Coin + Nasi + Sambal Korek Bawang, Pedas & Mantaap. Jelas Lebih Puasss...!",
+    "section": "hot deal"
+  },
+  {
+    "price": "28182",
+    "name": "Hot Deal - Paket T",
+    "description": "2 Chicken Roll + 2 Mix Seafood Coin + Nasi + Sambal Korek Bawang, Pedas & Mantaap. Jelas Lebih Puasss...!",
+    "section": "hot deal"
+  },
+  {
+    "price": "55454",
+    "name": "Kids Meal Beef (Free Toy)",
+    "description": "Paket Makan Anak - Anak : Beef (Original/Yakiniku) + Nasi + Crispy Greens + Minum + 1 Free Toy",
+    "section": "kids meal"
+  },
+  {
+    "price": "44545",
+    "name": "Kids Meal Crispy Chicken (Free Toy)",
+    "description": "Paket Makan Anak - Anak : Crispy Chicken + Nasi + Crispy Greens + Minum + 1 Free Toy",
+    "section": "kids meal"
+  },
+  {
+    "price": "43636",
+    "name": "Kids Meal Mix Seafood (Free Toy)",
+    "description": "Paket Makan Anak - Anak : 1 pcs MSC + 2 Kani + Nasi + Crispy Greens + Minum + 1 Free Toy",
+    "section": "kids meal"
+  },
+  {
+    "price": "50909",
+    "name": "Original Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Asin Gurih Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "50909",
+    "name": "Yakiniku Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Manis Gurih Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "54545",
+    "name": "Blackpepper Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Saus Blackpepper Yang Pedas Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "60000",
+    "name": "Original Beef Bowl (R) + Onsen Egg",
+    "description": "Original Beef Bowl dengan Onsen Egg, telur tradisional paling favorit di Jepang, dengan teknik masak khusus menghasilkan putih telur seperti puding halus dan kuning telur yang meleleh lezat.",
+    "section": "beef bowl"
+  },
+  {
+    "price": "60000",
+    "name": "Yakiniku Beef Bowl (R) + Onsen Egg",
+    "description": "Yakiniku Beef Bowl dengan Onsen Egg, telur tradisional paling favorit di Jepang, dengan teknik masak khusus menghasilkan putih telur seperti puding halus dan kuning telur yang meleleh lezat.",
+    "section": "beef bowl"
+  },
+  {
+    "price": "63636",
+    "name": "Blackpepper Beef Bowl (R) + Onsen Egg",
+    "description": "Blackpepper Beef Bowl dengan Onsen Egg, telur tradisional paling favorit di Jepang, dengan teknik masak khusus menghasilkan putih telur seperti puding halus dan kuning telur yang meleleh lezat.",
+    "section": "beef bowl"
+  },
+  {
+    "price": "67272",
+    "name": "Double Beef Original (R)",
+    "description": "2X Lebih Banyak Irisan Daging Sapi 100% U.S Beef Rasa Asin Gurih Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "67272",
+    "name": "Double Beef Yakiniku (R)",
+    "description": "2X Lebih Banyak Irisan Daging Sapi 100% U.S. Beef Rasa Manis Gurih Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "70909",
+    "name": "Double Beef Blackpepper (R)",
+    "description": "2X Lebih Banyak Irisan Daging Sapi 100% U.S. Beef Saus Blackpepper Yang Pedas Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "57272",
+    "name": "Egg Mayo Original Beef (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Asin Gurih Dengan Dengan Topping Campuran Telur Dan Mayonaise Yang Disajikan Di Atas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "57272",
+    "name": "Red Hot Chilli Original Beef (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Asin Gurih Dengan Topping Sambal Merah Pedas Yang Disajikan Di Atas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "57272",
+    "name": "Red Hot Chilli Yakiniku Beef (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Manis Gurih Dengan Topping Sambal Merah Pedas Yang Disajikan Di Atas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "57272",
+    "name": "Crispy Greens Original Bowl (R)",
+    "description": "Irisan daging sapi 100% U.S. Beef rasa asin gurih dengan topping crispy greens yang disajikan di atas nasi, ukuran sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "57272",
+    "name": "Crispy Greens Yakiniku Bowl (R)",
+    "description": "Irisan daging sapi 100% U.S. Beef rasa manis gurih dengan topping crispy greens yang disajikan di atas nasi, ukuran sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "50909",
+    "name": "Veggie Original Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Asin Gurih Dengan Sayuran Segar Yang Disajikan Di Atas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "50909",
+    "name": "Veggie Yakiniku Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Rasa Manis Gurih Dengan Sayuran Segar Yang Disajikan Di Atas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "54545",
+    "name": "Veggie Blackpepper Beef Bowl (R)",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Saus Blackpepper Yang Pedas Dengan Sayuran Segar Yang Disajikan Diatas Nasi, Ukuran Sedang",
+    "section": "beef bowl"
+  },
+  {
+    "price": "38181",
+    "name": "Egg Mayo Tori Don (One Size)",
+    "description": "Ayam Goreng Tanpa Tulang Dengan Topping Campuran Telur Dan Mayonaise Yang Disajikan Di Atas Nasi",
+    "section": "chicken bowl"
+  },
+  {
+    "price": "38181",
+    "name": "Red Hot Chilli Tori Don (One Size)",
+    "description": "Ayam Goreng Tanpa Tulang Dengan Topping Sambal Merah Pedas Yang Disajikan Di Atas Nasi",
+    "section": "chicken bowl"
+  },
+  {
+    "price": "38181",
+    "name": "Blackpepper Tori Don (One Size)",
+    "description": "Ayam Goreng Tanpa Tulang Dengan Topping Saus Blackpepper Pedas Yang Disajikan Di Atas Nasi",
+    "section": "chicken bowl"
+  },
+  {
+    "price": "44545",
+    "name": "Teriyaki Chicken Bowl (One Size)",
+    "description": "Irisan daging ayam panggang tanpa tulang dengan saus manis teriyaki & sayuran segar yang disajikan di atas nasi",
+    "section": "chicken bowl"
+  },
+  {
+    "price": "51818",
+    "name": "Shrimp Bowl (One Size)",
+    "description": "Potongan Udang Dibalut Tepung Renyah Dengan Saus Creamy Tartar Yang Disajikan Di Atas Nasi",
+    "section": "other bowl"
+  },
+  {
+    "price": "43636",
+    "name": "Ebi Shrimp Bowl (One Size)",
+    "description": "Potongan Udang Dibalut Tepung Renyah Dengan Saus Egg Mayo Yang Disajikan Di Atas Nasi",
+    "section": "other bowl"
+  },
+  {
+    "price": "31818",
+    "name": "Veggie Bowl (R)",
+    "description": "Sayuran Segar Yang Ditumis Dengan Bumbu Spesial Disajikan Di Atas Nasi Dalam Mangkuk Ukuran Sedang",
+    "section": "other bowl"
+  },
+  {
+    "price": "72727",
+    "name": "Combo Set Teriyaki + Beef",
+    "description": "Kombinasi Teriyaki Chicken, Beef (Pilih 1 Dari 3 Varian Rasa: Original, Yakiniku, Dan Blackpepper) & Sayuran Segar Yang Disajikan Di Atas Nasi",
+    "section": "other bowl"
+  },
+  {
+    "price": "72727",
+    "name": "Combo Set Karage + Beef",
+    "description": "Kombinasi Chicken Karage, Beef (Pilih 1 dari 3 varian rasa: Original, Yakiniku, dan Blackpepper) & crispy greens yang disajikan di atas nasi",
+    "section": "other bowl"
+  },
+  {
+    "price": "23636",
+    "name": "Golden Roll (4 Pcs)",
+    "description": "Daging Ayam Pilihan Yang Diolah Dan Dibalut Lapisan Telur Lembut.",
+    "section": "side dish"
+  },
+  {
+    "price": "23636",
+    "name": "Kani Cream Croquette",
+    "description": "4 Pcs Gorengan Kroket Yang Renyah Dengan Campuran Kani Dan Keju Yang Creamy Didalamnya",
+    "section": "side dish"
+  },
+  {
+    "price": "27272",
+    "name": "Crispy Chicken",
+    "description": "5 Pcs Ayam Goreng Tanpa Tulang Yang Renyah",
+    "section": "side dish"
+  },
+  {
+    "price": "28181",
+    "name": "Chicken Karaage",
+    "description": "4 Pcs Ayam Goreng Dengan Bumbu Khas Jepang",
+    "section": "side dish"
+  },
+  {
+    "price": "27272",
+    "name": "Egg Roll",
+    "description": "3 Pcs Gorengan Isi Campuran Daging Udang Dan Telur",
+    "section": "side dish"
+  },
+  {
+    "price": "40000",
+    "name": "Ebi Fry",
+    "description": "3 Pcs Gorengan Udang Dibalut Dengan Tepung Renyah",
+    "section": "side dish"
+  },
+  {
+    "price": "42727",
+    "name": "Shrimp Cutlet",
+    "description": "Potongan Udang Goreng Yang Dibalut Dengan Tepung Renyah",
+    "section": "side dish"
+  },
+  {
+    "price": "36363",
+    "name": "Teriyaki Chicken Only",
+    "description": "Daging paha ayam utuh yang dipanggang dan disiram dengan saus teriyaki manis (tanpa nasi dan sayuran)",
+    "section": "extra's"
+  },
+  {
+    "price": "10000",
+    "name": "Miso Soup",
+    "description": "Sup Tradisional Jepang Dengan Rasa Gurih",
+    "section": "extra's"
+  },
+  {
+    "price": "42727",
+    "name": "Original Beef Only",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Dengan Rasa Asin Gurih (Tanpa Nasi)",
+    "section": "extra's"
+  },
+  {
+    "price": "42727",
+    "name": "Yakiniku Beef Only",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Dengan Rasa Manis Gurih (Tanpa Nasi)",
+    "section": "extra's"
+  },
+  {
+    "price": "46363",
+    "name": "Blackpepper Beef Only",
+    "description": "Irisan Daging Sapi 100% U.S. Beef Dengan Saus Blackpepper Pedas (Tanpa Nasi)",
+    "section": "extra's"
+  },
+  {
+    "price": "22727",
+    "name": "Veggie Only",
+    "description": "Sayuran Segar Yang Dimasak Dengan Bumbu Spesial (Tanpa Nasi)",
+    "section": "extra's"
+  },
+  {
+    "price": "9090",
+    "name": "Rice Only",
+    "description": "Nasi Putih",
+    "section": "extra's"
+  },
+  {
+    "price": "9091",
+    "name": "Onsen Egg",
+    "description": "Telur tradisional paling favorit di Jepang, dengan teknik masak khusus menghasilkan putih telur seperti puding halus dan kuning telur yang meleleh lezat.",
+    "section": "topping"
+  },
+  {
+    "price": "6364",
+    "name": "Topping Sambal Korek Bawang",
+    "description": "Sambal Ulek Cabe Asli. Pedas, Mantap, Jelas Lebih Puasss...!",
+    "section": "topping"
+  },
+  {
+    "price": "6364",
+    "name": "Egg Mayo",
+    "description": "Topping Saus Campuran Telur Dan Mayonaise Cocok Disantap Dengan Original Beef Bowl",
+    "section": "topping"
+  },
+  {
+    "price": "6364",
+    "name": "Red Chili",
+    "description": "Topping Sambal Merah Pedas Cocok Disantap Dengan Semua Menu Makanan",
+    "section": "topping"
+  },
+  {
+    "price": "6364",
+    "name": "Crispy Greens",
+    "description": "Topping crispy greens renyah cocok disantap dengan semua menu makanan",
+    "section": "topping"
+  },
+  {
+    "price": "23636",
+    "name": "Lychee Jelly Tea",
+    "description": "Minuman rasa baru lychee dengan campuran jelly lychee yang disajikan dingin",
+    "section": "drink"
+  },
+  {
+    "price": "23636",
+    "name": "Sparkling Mango",
+    "description": "Minuman bersoda rasa mangga disajikan dingin",
+    "section": "drink"
+  },
+  {
+    "price": "23636",
+    "name": "Honey Lemon Tea",
+    "description": "Minuman dengan perpaduan manisnya madu dan segarnya potongan buah lemon yang disajikan dingin",
+    "section": "drink"
+  },
+  {
+    "price": "23636",
+    "name": "Iced Matcha Latte",
+    "description": "Minuman rasa teh hijau dengan campuran susu disajikan dingin",
+    "section": "drink"
+  },
+  {
+    "price": "23636",
+    "name": "Iced Taro Milk",
+    "description": "Minuman rasa talas dengan campuran susu disajikan dingin",
+    "section": "drink"
+  },
+  {
+    "price": "10909",
+    "name": "Ocha (Cold)",
+    "description": "Teh Hijau Asli Jepang Disajikan Dingin",
+    "section": "drink"
+  },
+  {
+    "price": "10909",
+    "name": "Air Mineral",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "10909",
+    "name": "Floridina",
+    "description": "",
+    "section": "drink"
+  }
+]

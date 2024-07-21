@@ -1,0 +1,224 @@
+[
+  {
+    "price": "33637",
+    "name": "Fried Indomie With Spicy Chicken And Chicken Mentai",
+    "description": "Indomie Goreng Smashed Chicken Seasoned With Chunks Of Premium Chicken And Premium Mentai Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "33637",
+    "name": "Chicken Rice Mentai Reguler",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "190000",
+    "name": "Salmon Kani Mentai Rice 20X20",
+    "description": "Kani Mentai Rice 20X20 For 5-7 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "36225",
+    "name": "Chicken Mentai Shirataki Regular",
+    "description": "Shirataki Noodles Seasoned With Premium Chicken Pieces And Premium Mentai Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "41400",
+    "name": "Chicken Mentai Premium",
+    "description": "Shirataki Noodles Seasoned With Premium Chicken Pieces And Extra Premium Mentai Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "135000",
+    "name": "Chicken Rice Mentai Party Size 25X25",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 6-8 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "112500",
+    "name": "Chicken Rice Mentai Party Size 20X20",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 4-6 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "67500",
+    "name": "Chicken Rice Mentai Party Size 10X20",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 2-3 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "228000",
+    "name": "Salmon Kani Mentai Rice 25X25",
+    "description": "Kani Mentai Rice 25X25 For 7-9 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "38812",
+    "name": "Chicken Rice Mentai Premium",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce Pieces Of Extra Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "38812",
+    "name": "Fried Indomie With Spicy Crushed Chicken Mentai",
+    "description": "Indomie Fried Kani Mentai Smashed Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "52000",
+    "name": "Salmon Shirataki Kani Mentai Premium",
+    "description": "Kani Mentai Premium Salmon Portion 1 Extra Topping",
+    "section": "today's offer"
+  },
+  {
+    "price": "56250",
+    "name": "Salmon Mentai Rice Premium",
+    "description": "More Premium Kani Rice Salmon To 1 Portion Of Toppings",
+    "section": "today's offer"
+  },
+  {
+    "price": "103787",
+    "name": "Salmon Kani Mentai Rice 10X20",
+    "description": "Kani Mentai Rice 10X20 For 2-3 People",
+    "section": "today's offer"
+  },
+  {
+    "price": "38812",
+    "name": "Original Fried Indomie With Salmon Kani Mentai",
+    "description": "Indomie Original Mentai Salmon",
+    "section": "today's offer"
+  },
+  {
+    "price": "36000",
+    "name": "Mentai Dimsum",
+    "description": "Dimsum With Mentai Sauce Contains 6 Portions",
+    "section": "today's offer"
+  },
+  {
+    "price": "44200",
+    "name": "Regular Salmon Shirataki Kani Mentai",
+    "description": "Shirataki Kani Mentai Salmon Regular For 1 Person",
+    "section": "today's offer"
+  },
+  {
+    "price": "45000",
+    "name": "Regular Salmon Mentai Rice",
+    "description": "Kani Rice Regular Size Salmon For 1 Person",
+    "section": "today's offer"
+  },
+  {
+    "price": "33637",
+    "name": "Fried Indomie With Spicy Chicken And Chicken Mentai",
+    "description": "Indomie Goreng Smashed Chicken Seasoned With Chunks Of Premium Chicken And Premium Mentai Sauce",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "33637",
+    "name": "Chicken Rice Mentai Reguler",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "36225",
+    "name": "Chicken Mentai Shirataki Regular",
+    "description": "Shirataki Noodles Seasoned With Premium Chicken Pieces And Premium Mentai Sauce",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "41400",
+    "name": "Chicken Mentai Premium",
+    "description": "Shirataki Noodles Seasoned With Premium Chicken Pieces And Extra Premium Mentai Sauce",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "135000",
+    "name": "Chicken Rice Mentai Party Size 25X25",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 6-8 People",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "112500",
+    "name": "Chicken Rice Mentai Party Size 20X20",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 4-6 People",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "67500",
+    "name": "Chicken Rice Mentai Party Size 10X20",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce For 2-3 People",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "38812",
+    "name": "Chicken Rice Mentai Premium",
+    "description": "Seasoned Japanese Rice With Pieces Of Premium Chicken And Premium Mentai Sauce Pieces Of Extra Chicken",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "37375",
+    "name": "Indomie Goreng Original Chicken Mentai",
+    "description": "Original Fried Indomie Seasoned With Premium Chicken Pieces And Premium Mentai Sauce",
+    "section": "chicken mentai"
+  },
+  {
+    "price": "190000",
+    "name": "Salmon Kani Mentai Rice 20X20",
+    "description": "Kani Mentai Rice 20X20 For 5-7 People",
+    "section": "party size"
+  },
+  {
+    "price": "228000",
+    "name": "Salmon Kani Mentai Rice 25X25",
+    "description": "Kani Mentai Rice 25X25 For 7-9 People",
+    "section": "party size"
+  },
+  {
+    "price": "103787",
+    "name": "Salmon Kani Mentai Rice 10X20",
+    "description": "Kani Mentai Rice 10X20 For 2-3 People",
+    "section": "party size"
+  },
+  {
+    "price": "38812",
+    "name": "Fried Indomie With Spicy Crushed Chicken Mentai",
+    "description": "Indomie Fried Kani Mentai Smashed Chicken",
+    "section": "mentai fried indomie"
+  },
+  {
+    "price": "38812",
+    "name": "Original Fried Indomie With Salmon Kani Mentai",
+    "description": "Indomie Original Mentai Salmon",
+    "section": "mentai fried indomie"
+  },
+  {
+    "price": "36000",
+    "name": "Mentai Dimsum",
+    "description": "Dimsum With Mentai Sauce Contains 6 Portions",
+    "section": "mentai dimsum"
+  },
+  {
+    "price": "52000",
+    "name": "Salmon Shirataki Kani Mentai Premium",
+    "description": "Kani Mentai Premium Salmon Portion 1 Extra Topping",
+    "section": "shirataki kani mentai"
+  },
+  {
+    "price": "44200",
+    "name": "Regular Salmon Shirataki Kani Mentai",
+    "description": "Shirataki Kani Mentai Salmon Regular For 1 Person",
+    "section": "shirataki kani mentai"
+  },
+  {
+    "price": "56250",
+    "name": "Salmon Mentai Rice Premium",
+    "description": "More Premium Kani Rice Salmon To 1 Portion Of Toppings",
+    "section": "mentai rice kani"
+  },
+  {
+    "price": "45000",
+    "name": "Regular Salmon Mentai Rice",
+    "description": "Kani Rice Regular Size Salmon For 1 Person",
+    "section": "mentai rice kani"
+  }
+]

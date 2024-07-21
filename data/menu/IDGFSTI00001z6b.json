@@ -1,0 +1,658 @@
+[
+  {
+    "price": "37000",
+    "name": "Soto Ayam",
+    "description": "Clear Broth Without Santen",
+    "section": "serba serbu"
+  },
+  {
+    "price": "37000",
+    "name": "Soto Madura",
+    "description": "Meat, Lungs,",
+    "section": "serba serbu"
+  },
+  {
+    "price": "37000",
+    "name": "Soto Sulung",
+    "description": "Meat, Lung, Tripe, Intestines, Liver",
+    "section": "serba serbu"
+  },
+  {
+    "price": "52000",
+    "name": "Sate Ayam",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "34000",
+    "name": "Fried Chicken Rice",
+    "description": "Rice + Fried Chicken + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Chicken Rice",
+    "description": "Rice + Grilled Chicken + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Nasi Lele Goreng",
+    "description": "Rice + Fried Catfish + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Catfish Rice",
+    "description": "Rice + Grilled Catfish + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Fried Goldfish Rice",
+    "description": "Rice + Fried Masal Fish + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Grilled Goldfish Rice",
+    "description": "Rice + Grilled Masal Fish + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "34000",
+    "name": "Presto Milkfish Rice",
+    "description": "Rice + Milkfish Presto + Urap + Cucumber/Fried Eggplant + Sambal",
+    "section": "menu with rice"
+  },
+  {
+    "price": "24000",
+    "name": "Milkfish Presto",
+    "description": "One Presto Bandeng Fried With Eggs",
+    "section": "food"
+  },
+  {
+    "price": "37000",
+    "name": "Mixed Tofu",
+    "description": "Tofu With Gravy, Petis, Cassava, Yellow Noodles And Salad Leaves And Chewy Beef + Prawn Crackers",
+    "section": "food"
+  },
+  {
+    "price": "37000",
+    "name": "Tahu Gunting",
+    "description": "Fried Tofu, Potato Pieces, Lontong Doused With Peanut Sauce And Petis + Shrimp Crackers",
+    "section": "food"
+  },
+  {
+    "price": "37000",
+    "name": "Egg Tofu",
+    "description": "Omelette With A Mixture Of Tofu, And Potatoes Doused With Peanut Sauce And Petis + Shrimp Crackers",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Pecel Lele Goreng",
+    "description": "Fried Catfish With Shrimp Paste And Lalapan",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Pecel Lele Bakar",
+    "description": "Grilled Catfish With Shrimp Paste And Lalapan",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Fried Carp Fish",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Grilled Carp Fish",
+    "description": "Grilled Masal Fish With Shrimp Paste And Lalapan",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Ayam Goreng",
+    "description": "Fried Chicken With Shrimp Paste And Lalapan",
+    "section": "food"
+  },
+  {
+    "price": "24000",
+    "name": "Ayam Bakar",
+    "description": "Grilled Chicken With Shrimp Paste And Lalapan",
+    "section": "food"
+  },
+  {
+    "price": "14000",
+    "name": "Sayur Asam",
+    "description": "",
+    "section": "food"
+  },
+  { "price": "16000", "name": "Urap", "description": "", "section": "food" },
+  {
+    "price": "15000",
+    "name": "Fresh Vegetables",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "62000",
+    "name": "Sate Kambing",
+    "description": "Goat Satay With Peanut/Soy Sauce Seasoning",
+    "section": "food"
+  },
+  {
+    "price": "30000",
+    "name": "Pecel Sayur",
+    "description": "Vegetables With Peanut Sauce",
+    "section": "food"
+  },
+  {
+    "price": "32000",
+    "name": "Gado - Gado",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "37000",
+    "name": "Mixed Vegetable With Peanut Sauce",
+    "description": "Gado - Gado Completed With Lontong",
+    "section": "food"
+  },
+  { "price": "30000", "name": "Karedok", "description": "", "section": "food" },
+  {
+    "price": "25000",
+    "name": "Nasi Rames Telor",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "14000",
+    "name": "Sayur Bayam",
+    "description": "",
+    "section": "food"
+  },
+  {
+    "price": "45000",
+    "name": "Rawon",
+    "description": "",
+    "section": "sop / soto"
+  },
+  {
+    "price": "47000",
+    "name": "Tongseng Kambing",
+    "description": "",
+    "section": "sop / soto"
+  },
+  {
+    "price": "41000",
+    "name": "Tongseng Ayam",
+    "description": "",
+    "section": "sop / soto"
+  },
+  {
+    "price": "53000",
+    "name": "Beef Rib Soup",
+    "description": "",
+    "section": "sop / soto"
+  },
+  {
+    "price": "37000",
+    "name": "Beef Soto",
+    "description": "Pure Meat",
+    "section": "sop / soto"
+  },
+  {
+    "price": "36000",
+    "name": "Combination Stir Fried Water Spinach",
+    "description": "Stir-Fried Kale + Bean Sprouts + Chicken + Meatballs + Shrimp",
+    "section": "chinese food"
+  },
+  {
+    "price": "32000",
+    "name": "Stir Fried Water Spinach With Chicken",
+    "description": "Stir-Fried Kale + Chicken",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Udang Goreng Saus Asam Manis",
+    "description": "Fried Shrimp With Sweet And Sour Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Butter Fried Shrimp",
+    "description": "Fried Shrimp With Butter Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Udang Goreng Saus Tiram",
+    "description": "Fried Shrimp With Oyster Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "36000",
+    "name": "Cap Cay Goreng",
+    "description": "",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Kuey Teow",
+    "description": "Fried Kwetiau + Chicken + Egg + Liver Gizzard + Fried/Omelet Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "39000",
+    "name": "Kwetiau Goreng Ayam",
+    "description": "Fried Kwetiau + Chicken + Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Vermicelli",
+    "description": "Fried Vermicelli + Chicken + Egg + Liver Gizzard + Fried/Omelet Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "39000",
+    "name": "Bihun Goreng Ayam",
+    "description": "Fried Vermicelli + Chicken + Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "44000",
+    "name": "Fu Yung Hai",
+    "description": "Flour + Chicken + Egg + Vegetables",
+    "section": "chinese food"
+  },
+  {
+    "price": "44000",
+    "name": "I Fu Mie",
+    "description": "Noodles + Vegetables + Meatballs + Chicken + Soup",
+    "section": "chinese food"
+  },
+  {
+    "price": "44000",
+    "name": "Mie Cap Cay",
+    "description": "Noodles With Cap Cay Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "44000",
+    "name": "Mie Sirem",
+    "description": "Egg Stir-Fried Noodles + Vegetable Soup And Chicken",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Chicken + Egg + Liver Gizzard + Fried/Omelet Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "39000",
+    "name": "Mie Goreng Ayam",
+    "description": "Fried Noodles + Chicken + Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Nasi Sirem",
+    "description": "Stir-Fried Rice With Eggs + Vegetable Soup And Chicken",
+    "section": "chinese food"
+  },
+  {
+    "price": "52000",
+    "name": "Nasi Goreng Kambing Spesial",
+    "description": "Fried Rice + Mutton + Fried/Omelet Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "47000",
+    "name": "Nasi Goreng Kambing",
+    "description": "Fried Rice + Mutton",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Chicken + Egg + Liver Gizzard + Omelet / Fried Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "39000",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Chicken + Egg",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Bistik",
+    "description": "Fried Chicken Pieces With Soy Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Saus Tiram",
+    "description": "Fried Chicken Pieces With Oyster Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Nanking",
+    "description": "Fried Flour Chicken Pieces + Potatoes With Butter Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Kuluyuk Chicken",
+    "description": "Fried Chicken Pieces With Sweet And Sour Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Ayam Rica Rica",
+    "description": "Fried Chicken Pieces With Rica Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "45000",
+    "name": "Butter Fried Chicken",
+    "description": "Fried Chicken Pieces With Butter Sauce",
+    "section": "chinese food"
+  },
+  {
+    "price": "54000",
+    "name": "Cingur Rujak",
+    "description": "",
+    "section": "rujak"
+  },
+  {
+    "price": "59000",
+    "name": "Rujak Cingur Lontong",
+    "description": "",
+    "section": "rujak"
+  },
+  {
+    "price": "19000",
+    "name": "Ekstra Daging Cingur",
+    "description": "8 Pieces Of Extra Ingur Meat",
+    "section": "rujak"
+  },
+  {
+    "price": "31000",
+    "name": "Indonesian Sweet And Spicy Rujak",
+    "description": "",
+    "section": "rujak"
+  },
+  {
+    "price": "5500",
+    "name": "Tofu/Tempe",
+    "description": "1 Piece",
+    "section": "additional menu"
+  },
+  {
+    "price": "9000",
+    "name": "Peanut Brittle",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "3400",
+    "name": "White Crackers",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "10000",
+    "name": "Lontong",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "9500",
+    "name": "Salted Egg",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "9500",
+    "name": "Telor Balado",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "8000",
+    "name": "Prawn Crackers",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "7500",
+    "name": "Balado Tofu",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "5500",
+    "name": "Sambel",
+    "description": "",
+    "section": "additional menu"
+  },
+  {
+    "price": "22000",
+    "name": "Dragon Fruit Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Strawberry",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Tomat",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Kedondong",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Lemon",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Jeruk",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Belimbing",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "34000",
+    "name": "Kopyor Juice",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Sirsak",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "22000",
+    "name": "Juice Jambu",
+    "description": "",
+    "section": "juice"
+  },
+  {
+    "price": "26000",
+    "name": "Mix Juice",
+    "description": "2 Kinds Of Fruit",
+    "section": "juice"
+  },
+  {
+    "price": "18000",
+    "name": "Es Lemon Teh",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Prima 600Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "23000",
+    "name": "Lychee Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "24000",
+    "name": "Es Kelapa Bulat",
+    "description": "One Whole Coconut With Its Filling",
+    "section": "minuman"
+  },
+  {
+    "price": "24000",
+    "name": "Combination Coconut Ice",
+    "description": "With A Mix Of Oranges",
+    "section": "minuman"
+  },
+  {
+    "price": "19000",
+    "name": "Es Kelapa Muda",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Es Teler",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "23000",
+    "name": "Es Alpukat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Grass Jelly Syrup Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26000",
+    "name": "Es Campur",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "18000",
+    "name": "Es Soda Susu",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "23000",
+    "name": "Happy Milk Soda Ice",
+    "description": "With A Mixture Of Red Syrup",
+    "section": "minuman"
+  },
+  {
+    "price": "9500",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12000",
+    "name": "Es Kopi",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "16000",
+    "name": "Jeruk Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "9000",
+    "name": "Hot Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Milk Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Hot Milk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3400",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Teh Manis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "37000",
+    "name": "Kopyor Ice",
+    "description": "",
+    "section": "minuman"
+  }
+]

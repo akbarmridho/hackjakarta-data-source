@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "36364",
+    "name": "Kung Pao Chicken Rice",
+    "description": "Chinese Style Dish, Kung Pao Chicken Rice, A Combination Of White Rice With Omelet Eggs With Pieces Of Delicious Flour Fried Chicken Fillet Covered With Savory Sauce And Chili Sliced Peanut Sauce",
+    "section": "d'cost x a'yummy! (top menu)"
+  },
+  {
+    "price": "43636",
+    "name": "Tori Curry Ramen",
+    "description": "Japanese-Style Dish, Ramen In Savory Gravy With A Soft Bbq Chicken Slices, Spring Onions, And Boiled Eggs",
+    "section": "d'cost x a'yummy! (top menu)"
+  },
+  {
+    "price": "30909",
+    "name": "Korean Spicy Chicken Rice",
+    "description": "Korean Style Dish, White Rice With Omelet Egg Added With Crispy Chicken Slices Wrapped In Korean Sauce And Sprinkled With Sesame Seeds",
+    "section": "d'cost x a'yummy! (top menu)"
+  },
+  {
+    "price": "32727",
+    "name": "Salted Egg Chicken Rice",
+    "description": "Favorite Menu From Singapore, Salted Egg Sauce Chicken Rice, Fried Flour Chicken Covered With A Savory Salted Egg Sauce And Creamy, Abundant Nestang Taste",
+    "section": "d'cost x a'yummy! (top menu)"
+  },
+  {
+    "price": "42727",
+    "name": "Chicken Rice Fillet With Sweet And Sour Sauce",
+    "description": "",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "48182",
+    "name": "Kremes Fried Chicken Rice",
+    "description": "",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "44545",
+    "name": "Fish Rice Fillet With Sweet Sour Sauce",
+    "description": "",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "50000",
+    "name": "Grilled Chicken Rice",
+    "description": "",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "31364",
+    "name": "Nasi Capcay Seafood",
+    "description": "Combination Of Rice With Delicious Capcay Seafood",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "48182",
+    "name": "Beef Rice With Butter Sauce",
+    "description": "",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "42727",
+    "name": "Salted Egg Sauce Chicken Rice",
+    "description": "Savory Chicken Fillet With Salted Egg Sauce With Capcay",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "42727",
+    "name": "Chicken Rice Fillet With Salt Chili",
+    "description": "Tasty Chicken Fillet, Spicy Salt Chili Salt With Capcay (Shrimpled With Capcay)",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "44545",
+    "name": "Salted Egg Sauce Fish Rice",
+    "description": "Savory Fish Fillet Covered With Salted Egg Sauce Served With Capcay",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "39091",
+    "name": "Nasi Omelete Seafood",
+    "description": "Combination Of Manyus Rice With Delicious Omelete Seafood",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "32727",
+    "name": "Japanese Tofu Rice With Padang Sauce",
+    "description": "Warm Rice Combined With Legit Tofu, Japanese, Savory Padang Sauce (Shrimpled With Chili).",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "44545",
+    "name": "Chili Salt Fish Rice",
+    "description": "Combination Of Fish Fillet Which Is Tender And Tasty With Chili Salt Spices Served With Capcay (Shrimpled With Chili)",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "42727",
+    "name": "Butter Fried Chicken Rice",
+    "description": "3 Pieces Of Delicious Butter Fried Chicken Served With Capcay",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "32727",
+    "name": "Japanese Tofu Rice With Oyster Sauce",
+    "description": "Combination Of Rice With Soft Tofu, Japanese In Oyster Sauce",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "44091",
+    "name": "Nasi Ayam Geprek Sambal Korek",
+    "description": "The Delicious Smashed Chicken Is Served With Korek Sambal. (Shrimpled With Chili).",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "42727",
+    "name": "Shrimp Paste Fried Chicken Rice",
+    "description": "3 Pieces Of Fried Chicken With Delicious Shrimp Paste Served With Capcay",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "42727",
+    "name": "Nasi Ayam Cabe Ijo",
+    "description": "3 Pieces Of Green Chili Fried Chicken Served With Capcay (Shrimpled With Chilies)",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "48182",
+    "name": "Black Pepper Beef Rice",
+    "description": "100% Australian Beef And Delicious Black Pepper Sauce Served With Capcay",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "43909",
+    "name": "Curry Fish Rice",
+    "description": "Rice And Spicy Curry Fish Savory Accompanied By Your Daily Chips. (Shrimpled With Chilies)",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "48182",
+    "name": "Beef Steak Rice",
+    "description": "Beef Steak With 100% Australian Beef And Capcay That Makes You Addicted!",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "48182",
+    "name": "Fried Beef Rice With Sambal Korek",
+    "description": "Korek Sambal With 100% Australian Beef And Capcay For Your Day-Fire!",
+    "section": "paket kenyang"
+  },
+  {
+    "price": "29091",
+    "name": "Junior Warrior 1",
+    "description": "White Rice + Fillet Fish + Chicken Wing + Sweet And Sour Sauce + Gravy",
+    "section": "junior swordsman"
+  },
+  {
+    "price": "31818",
+    "name": "Junior Warrior 2",
+    "description": "White Rice + Chicken Fillet + Shrimp Mayo",
+    "section": "junior swordsman"
+  },
+  {
+    "price": "34091",
+    "name": "Junior Warrior 3",
+    "description": "Spaghetti Bolognese + Fried Shrimp",
+    "section": "junior swordsman"
+  },
+  {
+    "price": "30000",
+    "name": "Junior Warrior 4",
+    "description": "",
+    "section": "junior swordsman"
+  },
+  {
+    "price": "30727",
+    "name": "Spaghetti Bolognese",
+    "description": "",
+    "section": "what's new d'cost!"
+  },
+  {
+    "price": "30909",
+    "name": "Bronze 3",
+    "description": "White Rice + Capcay + Fish Fillet In Sweet And Sour Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "30455",
+    "name": "Bronze 1",
+    "description": "White Rice + Capcay + Chicken Fillet In Sweet And Sour Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "32727",
+    "name": "Dbowl 4",
+    "description": "White Rice + Salted Egg Crispy Chicken Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "31818",
+    "name": "Bronze 2",
+    "description": "White Rice + Capcay + Chicken Fillet Green Chili",
+    "section": "set personal"
+  },
+  {
+    "price": "38182",
+    "name": "Silver 3",
+    "description": "White Rice + Capcay + Fish Fillet In Sweet Sour Sauce + Oyster Mushrooms Chili Salt",
+    "section": "set personal"
+  },
+  {
+    "price": "32727",
+    "name": "Dbowl 5",
+    "description": "White Rice + Crispy Fish Honey Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "39091",
+    "name": "Silver 2",
+    "description": "White Rice + Capcay + Chicken Fillet Matah Sambal+ Oyster Mushrooms Chilli Salt",
+    "section": "set personal"
+  },
+  {
+    "price": "36364",
+    "name": "Silver 1",
+    "description": "White Rice + Capcay + Chicken Fillet In Sweet Sour Sauce + Fried Tofu Salt Chili",
+    "section": "set personal"
+  },
+  {
+    "price": "35455",
+    "name": "Dbowl 8",
+    "description": "Nasi Putih + Honey Chicker Wings",
+    "section": "set personal"
+  },
+  {
+    "price": "32727",
+    "name": "Dbowl 9",
+    "description": "White Rice + Fish Fillet In Mango Sambal",
+    "section": "set personal"
+  },
+  {
+    "price": "32727",
+    "name": "Dbowl 6",
+    "description": "White Rice + Salted Egg Crispy Fish Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "45455",
+    "name": "Gold 2",
+    "description": "White Rice + Sweet And Sour Fillet Chicken + Young Beans A Singapore + Fried Tofu Salt Chili + Matah Sambal",
+    "section": "set personal"
+  },
+  {
+    "price": "47727",
+    "name": "Gold 3",
+    "description": "White Rice + Shrimp Paste + Crispy Fried Shrimp + Singapore Beans + Shrimp Paste",
+    "section": "set personal"
+  },
+  {
+    "price": "52727",
+    "name": "Platinum 1",
+    "description": "White Rice + Capcay + Chicken Fillet In Sweet Sour Sauce + Fried Squid + Fried Tofu Salt Chili",
+    "section": "set personal"
+  },
+  {
+    "price": "52727",
+    "name": "Platinum 2",
+    "description": "White Rice + Butter Fried Chicken + Crispy Fried Shrimp + Young Beans Ala Singapore + Salt Chili Fried Tofu + Shrimp Paste",
+    "section": "set personal"
+  },
+  {
+    "price": "52727",
+    "name": "Platinum 3",
+    "description": "White Rice + Singapore Beans + Chicken Fillet In Sweet Sour Sauce + Fish Fillet In Manggo Sambal + Chilli Salted Oyster Mushroom",
+    "section": "set personal"
+  },
+  {
+    "price": "23636",
+    "name": "Super Hemat 1",
+    "description": "White Rice + Capcay + Oyster Mushroom Salt (Shrimpled With Chili)",
+    "section": "set personal"
+  },
+  {
+    "price": "23636",
+    "name": "Super Hemat 2",
+    "description": "White Rice + Capcay + Salt Chili Fried Tofu (Shrimpled With Chilies)",
+    "section": "set personal"
+  },
+  {
+    "price": "23636",
+    "name": "Super Hemat 3",
+    "description": "White Rice + Capcay + Oyster Japanese Tofu In Oyster Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "29545",
+    "name": "Dbowl 1",
+    "description": "White Rice + Crispy Chicken Korek Sambal",
+    "section": "set personal"
+  },
+  {
+    "price": "29545",
+    "name": "Dbowl 2",
+    "description": "White Rice + Matah Crispy Chicken",
+    "section": "set personal"
+  },
+  {
+    "price": "29545",
+    "name": "Dbowl 3",
+    "description": "White Rice + Crispy Chicken Honey Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "38182",
+    "name": "Dbowl 7",
+    "description": "White Rice + Crispy Shrimp Salted Egg Sauce",
+    "section": "set personal"
+  },
+  {
+    "price": "43636",
+    "name": "Gold 1",
+    "description": "White Rice + Spiced Chicken + Crispy Fried Shrimp + Capcay + Korek Sambal",
+    "section": "set personal"
+  },
+  {
+    "price": "40000",
+    "name": "Garlic Young Green Beans",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "48818",
+    "name": "Japanese Tofu With Padang Sauce",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "48818",
+    "name": "Japanese Tofu With Salted Egg Sauce",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "24909",
+    "name": "Sayur Asem",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "47909",
+    "name": "Buncis Muda Ala Singapore",
+    "description": "Young Beans Vegetable Dishes With A Combination Of Spicy Savory (Shrimpled With Chilies)",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "47909",
+    "name": "Japanese Tofu Oyster Sauce",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "62909",
+    "name": "Sapo Tofu Seafood",
+    "description": "Sapo Tofu And Seafood Dishes With Spicy And Savory Taste",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "41818",
+    "name": "Shrimp Paste Water Spinach",
+    "description": "Kale Dish With Spicy And Savory Balacan Spices (Shrimpled With Chili Sambal)",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "41818",
+    "name": "Salt Chili Fried Tofu",
+    "description": "Processed Tofu With A Combination Of Spicy And Savory Salt Chili Combination (Shrimpling Chili)",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "29545",
+    "name": "Garlic Water Spinach",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "36364",
+    "name": "Capcay Seafood",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "39545",
+    "name": "Jamur Tiram Cabe Garam",
+    "description": "Crispy Mushroom Mix With A Combination Of Spicy And Savory Salt Chili (Shrimpling Chili)",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "29545",
+    "name": "Bean Sprouts Cah Tofu",
+    "description": "",
+    "section": "menu sharing - sayuran & tofu"
+  },
+  {
+    "price": "95455",
+    "name": "Spicy Grilled Patin Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "95455",
+    "name": "Soy Sauce Grilled Patin Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "97273",
+    "name": "Hong Kong Steamed Shark Catfish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "95455",
+    "name": "Ikan Patin Tim Nyonya",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "53636",
+    "name": "Tom Yum Seafood",
+    "description": "Tomy Yum Dish Filled With Prawns, Green Mussels, Fish Balls And Mushrooms (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "105455",
+    "name": "Medium Fried Gourami Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "65818",
+    "name": "Platter Seafood Goreng",
+    "description": "Fried Seafood Platter Served With Shrimp Filling, Fish Cake, Head Squid, Oysters And Beans",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "108455",
+    "name": "Ikan Gurami Goreng Saus Asam Manis",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "65818",
+    "name": "Platter Seafood Saus Padang",
+    "description": "Seafood Sauce Served With Prawn Filling + Clams + Corn (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "100909",
+    "name": "Soup Bawal Asam Pedas",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "108182",
+    "name": "Medium Grilled Gourami Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58182",
+    "name": "Fish Fillet With Sweet And Sour Sauce",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "85000",
+    "name": "Shrimp Curry",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "108182",
+    "name": "Spicy Grilled Gourami Fish",
+    "description": "Grilled Gourame Dish With Spicy And Savory Sensation (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "100000",
+    "name": "Spicy Grilled Pomfret Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "108182",
+    "name": "Ikan Gurami Goreng Sambal Ijo",
+    "description": "A Fried Gourame Dish Served With Spicy And Savory Green Sambal (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "101818",
+    "name": "Fried Pomfret With Matah Sambal",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "109091",
+    "name": "Ikan Gurami Bakar Sambal Matah",
+    "description": "Grilled Gourame Dishes Served With Spicy And Savory Matah Sambal (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "100000",
+    "name": "Medium Grilled Pomfret Fish",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "35818",
+    "name": "Green Mussels With Padang Sauce",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "100000",
+    "name": "Fried Pomfret Fish With Green Chili Sauce",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "72273",
+    "name": "Salted Egg Sauce Fried Squid",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "72273",
+    "name": "Padang Sauce Squid",
+    "description": "A Delicious Squid Dish Served With Spicy And Savory Padang Sauce",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "84091",
+    "name": "Honey Grilled Squid",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "80455",
+    "name": "Udang Goreng Cabe Garam",
+    "description": "A Fried Shrimp Dish Served With Spicy And Savory Salt Chili Seasoning (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "80455",
+    "name": "Salted Egg Sauce Fried Shrimp",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58727",
+    "name": "Mango Sauce Fish Fillet",
+    "description": "Dish Of Fillet Fish Served With Spicy And Sweet Mango Sauce",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58182",
+    "name": "Salted Fish Fillet With Egg Sauce",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58182",
+    "name": "Ikan Fillet Cabe Garam",
+    "description": "Crispy Fish Dish Combined With Savory And Spicy Salt Chili Flavor",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58182",
+    "name": "Fish Fillet With Sambal Matah",
+    "description": "Crispy Fish Dish Combined With Savory And Spicy Matah Sambal",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "60818",
+    "name": "Omelete Seafood",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "58182",
+    "name": "Ikan Fillet Cabe Ijo",
+    "description": "Crispy Fish Dish Combined With Savory And Spicy Green Chilies",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "70455",
+    "name": "Floured Fried Squid",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "78636",
+    "name": "Grilled Shrimp",
+    "description": "6 Delicious Grilled Shrimp Skewers Completed With Soy Sauce And Sambal",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "77727",
+    "name": "Udang Saus Mayonaise",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "78636",
+    "name": "Padang Sauce Prawns",
+    "description": "A Delicious Shrimp Dish Served With Spicy And Savory Padang Sauce",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "78636",
+    "name": "Butter Fried Shrimp",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "78636",
+    "name": "Honey Grilled Shrimp",
+    "description": "6 Skewers Of Shrimp Grilled With Delicious Honey Sauce",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "77727",
+    "name": "Shrimp With Black Pepper Sauce",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "90455",
+    "name": "Capit Kepiting Saus Telur Asin",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "90818",
+    "name": "Capit Kepiting Saus Lada Hitam",
+    "description": "",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "90818",
+    "name": "Capit Kepiting Saus Padang",
+    "description": "A Seafood Capit Dish Combined With Spicy Savory Padang Sauce (Shrimpled With Chili)",
+    "section": "menu sharing - seafood"
+  },
+  {
+    "price": "53636",
+    "name": "Shrimp Paste Fried Chicken",
+    "description": "6 Pieces Fried Chicken With Delicious Shrimp Paste",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "58182",
+    "name": "Ayam Cabe Ijo",
+    "description": "6 Pieces Of Fried Chicken Covered With Green Chilies",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "71727",
+    "name": "Beef In Butter Sauce",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "58182",
+    "name": "Butter Fried Chicken",
+    "description": "6 Pieces Of Fried Chicken With Fragrant And Savory Butter Sauce",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "71818",
+    "name": "Black Pepper Beef",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "54000",
+    "name": "Ayam Fillet Saus Asam Manis",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "52273",
+    "name": "Ayam Fillet Sambal Matah",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "52273",
+    "name": "Chicken Fillet With Salted Egg Sauce",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "52273",
+    "name": "Ayam Fillet Cabe Garam",
+    "description": "Chicken Pieces Combined With A Savory And Spicy Salt Chili Flavor (Shrimpling Chili)",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "56364",
+    "name": "Spiced Fried Chicken",
+    "description": "6 Pieces Fried Chicken With Savory And Legit Spices",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "51636",
+    "name": "Honey Chicken Wings",
+    "description": "8 Pieces Of Chicken Wings Covered With A Delicious Honey Sauce",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "72182",
+    "name": "Butter Beef Steak",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "72182",
+    "name": "Sapi Goreng Sambal Korek",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "55455",
+    "name": "Sop Daging",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "53182",
+    "name": "Curry Chicken",
+    "description": "",
+    "section": "menu sharing - ayam & sapi"
+  },
+  {
+    "price": "43636",
+    "name": "Bihun Godog",
+    "description": "A Dish Of God Vermicelli Served With Spicy And Savory Gravy (Shrimpling Chili)",
+    "section": "other menu"
+  },
+  {
+    "price": "51273",
+    "name": "Nasi Goreng Seafood",
+    "description": "Ala D'Cost Fried Rice Dish Served With Spicy And Savory Flavors (Medium Chilies)",
+    "section": "other menu"
+  },
+  {
+    "price": "45000",
+    "name": "Kwetiau Goreng Special",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "43818",
+    "name": "Nasi Goreng Special",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "52273",
+    "name": "Kwetiau Goreng Seafood",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "51273",
+    "name": "Nasi Goreng Seafood Oriental",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "53182",
+    "name": "Fried Kwetiau With Beef",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "52273",
+    "name": "Kwetiau Siram Seafood",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "37909",
+    "name": "Nasi Goreng Telor",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "44727",
+    "name": "Mie Godog",
+    "description": "A Dish Of Spicy And Savory Noodles (Shrimpling Chili)",
+    "section": "other menu"
+  },
+  {
+    "price": "51273",
+    "name": "Nasi Goreng Tom Yum",
+    "description": "A Dish Of Spicy And Savory Tom Yum Fried Rice (Cooked With A Spicy And Savory Taste)",
+    "section": "other menu"
+  },
+  {
+    "price": "30000",
+    "name": "Tempe Geprek",
+    "description": "Tempeh Dish Served With Smashed Sambal",
+    "section": "other menu"
+  },
+  {
+    "price": "51364",
+    "name": "Bakmi Goreng Seafood",
+    "description": "Alafood-Style Fried Noodle Dish Served With A Spicy And Savory Taste (Shrimpled With Chilies)",
+    "section": "other menu"
+  },
+  {
+    "price": "51364",
+    "name": "Bihun Goreng Seafood",
+    "description": "Alafood-Style Fried Vermicelli Dish Served With A Spicy And Savory Taste (Medium Chili Sambal)",
+    "section": "other menu"
+  },
+  {
+    "price": "10909",
+    "name": "White Rice",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "23273",
+    "name": "Kentang Goreng",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "27273",
+    "name": "Fried Tofu",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "26364",
+    "name": "Tempe Mendoan",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "37909",
+    "name": "Fried Egg Noodles",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "43818",
+    "name": "Bakmi Goreng Special",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "37909",
+    "name": "Fried Egg Vermicelli",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "34545",
+    "name": "Fish Ball Soup",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "43818",
+    "name": "Bihun Goreng Special",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "24727",
+    "name": "Tempe Goreng",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "8909",
+    "name": "Sambal Korek",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "8909",
+    "name": "Sambal Matah",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "8909",
+    "name": "Mango Sambal",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "8909",
+    "name": "Shrimp Paste Sambal",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "47818",
+    "name": "Hejo Fried Rice",
+    "description": "",
+    "section": "other menu"
+  },
+  {
+    "price": "29091",
+    "name": "Kroket",
+    "description": "Smooth Potatoes Filled With Minced Beef Mixed With Carrots, Cheese And Milk. Soft And Savory When Eaten.",
+    "section": "snack"
+  },
+  {
+    "price": "27727",
+    "name": "Snow Fried Bananas",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "25909",
+    "name": "Risoles",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "25909",
+    "name": "Tape Roll",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "25909",
+    "name": "Singkong Goreng",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "30636",
+    "name": "Bakso Ikan Goreng",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "40364",
+    "name": "Fan Fried Tofu",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "26818",
+    "name": "Es Cendol Nangka",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Teh Pucuk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "36364",
+    "name": "Avocado Float",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "17727",
+    "name": "Tubruk Coffee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "31818",
+    "name": "Es Jeruk Murni",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "13636",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "33636",
+    "name": "Avocado Juice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "27727",
+    "name": "Es Timun Serut",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "34545",
+    "name": "Pure Coconut Orange Ice",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "27727",
+    "name": "Es Kelapa Muda",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "30455",
+    "name": "Iced Greentea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "28636",
+    "name": "Coffee Float",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12727",
+    "name": "Teh Manis",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "25909",
+    "name": "Es Milo",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "31818",
+    "name": "Sparkling Coconut",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "27455",
+    "name": "Thai Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "27455",
+    "name": "Happy Soda",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "35455",
+    "name": "Es Campur",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22545",
+    "name": "Es Lemon Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26545",
+    "name": "Jus Jambu",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "26545",
+    "name": "Jus Sirsak",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7727",
+    "name": "Air Mineral 330 Ml",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "10545",
+    "name": "Teh Tawar",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "11455",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "29636",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "28182",
+    "name": "Yakult Lychee",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "30909",
+    "name": "Tori Dry Ramen",
+    "description": "A Special Japanese Dish, Non Gravy Ramen With Savory Spices Topped With Sliced Bbq Chicken, Soft Onions, And Boiled Eggs",
+    "section": "d'cost x a'yummy (ramen)"
+  },
+  {
+    "price": "42273",
+    "name": "Tori Miso Ramen",
+    "description": "A Special Japanese Dish, The Ramen In Delicious Noodle Soup With A Soft Bbq Chicken Slices, Spring Onions, And Boiled Eggs",
+    "section": "d'cost x a'yummy (ramen)"
+  },
+  {
+    "price": "44545",
+    "name": "Katsu Miso Ramen",
+    "description": "A Special Japanese Dish, Ramen In Savory Soup With Crispy Katsu Chicken Topping, Scallions, And Boiled Eggs",
+    "section": "d'cost x a'yummy (ramen)"
+  },
+  {
+    "price": "45909",
+    "name": "Katsu Curry Ramen",
+    "description": "Japanese Style Dish, Ramen In Savory Gravy With Crispy Katsu Chicken Topping, Scallions, And Boiled Eggs",
+    "section": "d'cost x a'yummy (ramen)"
+  },
+  {
+    "price": "27273",
+    "name": "Javanese Fried Rice",
+    "description": "Indonesia'S Signature Dish, Fried Rice With Chicken Cutlets And Carrots Plus Omelet Topping, It Becomes A Favorite Menu That Has Never Miss.",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "30909",
+    "name": "Yum Nasi Ayam Geprek",
+    "description": "Indonesia'S Signature Dish, A Combination Of White Rice With Scrambled Eggs And Crunchy Bits Of Smashed Chicken Wrapped In Korek Sambal",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "30909",
+    "name": "Black Pepper Chicken Rice",
+    "description": "Chinese Style Dish, Black Pepper Chicken Rice, Fried Flour Fillet Chicken Covered With A Savory, Spicy And Delicious Black Pepper Sauce",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "32727",
+    "name": "Butter Sauce Chicken Rice",
+    "description": "Chinese Negeri Dish, Butter Sauce Chicken Rice, Fried Flour Fillet Covered With Yummy Butter Sauce",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "30909",
+    "name": "Sweet And Sour Chicken Rice",
+    "description": "A-Style Dish, Sweet And Sour Sauce Chicken Rice, Fried Flour Chicken Fillet Covered With Thick Sauce With A Blend Of Flavors And Sweet Taste",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "32727",
+    "name": "Tori Katsu Don",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Topped With Katsu Crispy Chicken Pieces Wrapped In Special Katsu Sauce And Extra Salad",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "32727",
+    "name": "Tori Curry Don",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Egg Complemented With Katsu Crispy Chicken Pieces Wrapped In A Savory Curry Sauce And Extra Salad",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "27273",
+    "name": "Chicken Egg Roll Rice",
+    "description": "A Special Japanese Dish, A Combination Of White Rice With Omelet Egg Complemented With Chicken Egg Roll Pieces And Extra Salad",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "36364",
+    "name": "Honey Chicken Wings Rice",
+    "description": "Korean Style Dish, White Rice With Omelet Egg Plus Chunks Of Chicken Wings Wrapped In Delicious Honey Sauce And A Sprinkling Of Sesame Vegetables",
+    "section": "d'cost x a'yummy (meals)"
+  },
+  {
+    "price": "30909",
+    "name": "Thai Sauce Chicken Rice",
+    "description": "Thai Dish, Thai Sauce Chicken Rice, Delicious White Rice With Omelet Topped With Crispy Chicken Pieces",
+    "section": "d'cost x a'yummy (meals)"
+  }
+]

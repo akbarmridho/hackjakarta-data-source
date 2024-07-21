@@ -1,0 +1,693 @@
+[
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Egg Chicken Roll + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Egg Chicken Roll 2 Pcs, Rice, Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Shrimp Roll + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Shrimp Roll 2 Pcs, Rice, Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Tori Ball + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Tori Ball 2 Pcs, Rice, Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "18349",
+    "name": "Chicken Gyoza 3 Pcs",
+    "description": "New Snack Menu Made From Hokben Chicken Meat Wrapped In 3 Pcs Of Dumpling Skin",
+    "section": "hoka bites"
+  },
+  {
+    "price": "25855",
+    "name": "Chicken Gyoza 5 Pcs",
+    "description": "New Snack Menu Made From Hokben Chicken Meat Wrapped In Dumpling Skin Contains 5 Pcs",
+    "section": "hoka bites"
+  },
+  {
+    "price": "20017",
+    "name": "Salad Udon",
+    "description": "A Combination Of Udon And Various Kinds Of Vegetables Such As Lettuce, Cheek Corn And Cherry Tomatoes With Egg Topping And Dressing Sauce Served In A Cup",
+    "section": "salad hokben"
+  },
+  {
+    "price": "43787",
+    "name": "Spicy Ramen Large",
+    "description": "Ramen With Spicy Chicken Broth In A Large Portion Completed With Chasiu Chicken Topping, Tamago, Pakcoy, Scallions And Slices Of Mushrooms.",
+    "section": "hoka ramen"
+  },
+  {
+    "price": "34613",
+    "name": "Spicy Ramen Reguler",
+    "description": "Ramen With Spicy Chicken Broth In A Regular Portion Completed With Chasiu Chicken Topping, Tamago, Pakcoy, Scallions And Slices Of Mushrooms",
+    "section": "hoka ramen"
+  },
+  {
+    "price": "41285",
+    "name": "Wafu Shoyu Ramen",
+    "description": "Ramen With A Savory Shot Sauce Spiced With Chasiu Chicken Topping And Tamago.",
+    "section": "new menu ramen"
+  },
+  {
+    "price": "55463",
+    "name": "Wafu Curry Ramen",
+    "description": "Ramen With Japanese Curry Sauce Completed With Beef Topping And Ni Tamago.",
+    "section": "new menu ramen"
+  },
+  {
+    "price": "41285",
+    "name": "Hokkaido Miso Ramen Large",
+    "description": "Ramen With Large Portion Of Noodle Sauce Spiced With Chasiu Chicken Tori Soboro, Tiago, Pakcoy, Corn And Unshrimpled.",
+    "section": "hoka ramen menu"
+  },
+  {
+    "price": "41285",
+    "name": "Tori Paitan Ramen Large",
+    "description": "Ramen With Large Portion Of Chicken Broth Completed With Chasiu Chicken Topping, Tamago, Pakcoy, Scallions And Nori.",
+    "section": "hoka ramen menu"
+  },
+  {
+    "price": "32111",
+    "name": "Hokkaido Miso Ramen Reguler",
+    "description": "Ramen With A Regular Portion Of Noodles In A Regular Portion Completed With Chasiu Chicken Tori Soboro, Tamago, Pakcoy, Corn And Unshrimped Butter.",
+    "section": "hoka ramen menu"
+  },
+  {
+    "price": "32111",
+    "name": "Tori Paitan Ramen Reguler",
+    "description": "Ramen With Chicken Broth In A Regular Portion Completed With Chasiu Chicken Topping, Tamago, Pakcoy, Scallions And Nori.",
+    "section": "hoka ramen menu"
+  },
+  {
+    "price": "42953",
+    "name": "Beef Sukiyaki Don",
+    "description": "The Beef Menu Is Seasoned Toce Sukiyaki Served With The Choice Of Donburi, Completed With Tofu And Shirataki.",
+    "section": "tempura don & beef sukiyaki don"
+  },
+  {
+    "price": "38366",
+    "name": "Tempura Moriawase",
+    "description": "Tempura Set Consisting Of 2 Pcs Of Ebi Tempura, 1 Pc Dumpling, 1 Pc Sweet Potato, 1 Pc Of Legage Complemented With Tempura Sauce",
+    "section": "tempura don & beef sukiyaki don"
+  },
+  {
+    "price": "42953",
+    "name": "Tempura Don",
+    "description": "Tempura Set Served In 1 Bowl With Rice And Ten Don Sauce",
+    "section": "tempura don & beef sukiyaki don"
+  },
+  {
+    "price": "27523",
+    "name": "Chicken Curryaki",
+    "description": "Boneless Chicken Meat Cooked With Onions And Japanese Curry Sauce",
+    "section": "chicken curry yaki"
+  },
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Egg Chicken Roll + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Egg Chicken Roll 2 Pcs, Rice, Egg",
+    "section": "super bowl"
+  },
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Shrimp Roll + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Shrimp Roll 2 Pcs, Rice, Egg",
+    "section": "super bowl"
+  },
+  {
+    "price": "34613",
+    "name": "Super Bowl Beef + Tori Ball + Egg",
+    "description": "Beef Teriyaki / Beef Yakiniku, Tori Ball 2 Pcs, Rice, Egg",
+    "section": "super bowl"
+  },
+  {
+    "price": "32945",
+    "name": "Iced Coffee 500 Ml With Milk & Brown Sugar",
+    "description": "A Product Of Premium Coffee Beans Made With A Mixture Of Fresh Milk And Palm Sugar Packaged In A Bottle Of 500 Ml",
+    "section": "iced coffee ganbatte"
+  },
+  {
+    "price": "59217",
+    "name": "Premium Set Beef Teriyaki",
+    "description": "Rice, Beef Teriyaki, 1 Chicken Katsu, Pickles And Cold Ocha.",
+    "section": "set menu"
+  },
+  {
+    "price": "59217",
+    "name": "Premium Set Beef Yakiniku",
+    "description": "Rice, Beef Yakiniku, 1 Chicken Katsu, Pickles And Cold Ocha.",
+    "section": "set menu"
+  },
+  {
+    "price": "59217",
+    "name": "Premium Set Seafood Beef Teriyaki",
+    "description": "Rice, Beef Teriyaki, 1 Ebi Furai, 1 Ekkado, 1 Shrimp Roll, Pickles And Cold Ocha",
+    "section": "set menu"
+  },
+  {
+    "price": "59217",
+    "name": "Premium Set Seafood Beef Yakiniku",
+    "description": "Rice, Beef Yakiniku, 1 Ebi Furai, 1 Ekkado, 1 Shrimp Roll, Pickles And Cold Ocha",
+    "section": "set menu"
+  },
+  {
+    "price": "48791",
+    "name": "Favorite Set Chicken Teriyaki",
+    "description": "Nasi, Chicken Teriyaki, 1 Tori Ball, 1 Egg Chicken Roll, 1 Shrimp Roll Acar Dan Cold Ocha.",
+    "section": "set menu"
+  },
+  {
+    "price": "48791",
+    "name": "Favorite Set Chicken Yakiniku",
+    "description": "Nasi, Chicken Yakiniku, 1 Tori Ball, 1 Egg Chicken Roll, 1 Shrimp Roll, Acar Dan Cold Ocha.",
+    "section": "set menu"
+  },
+  {
+    "price": "31277",
+    "name": "Value Set 3",
+    "description": "Nasi, 2 Egg Chicken Roll, 2 Shrimp Roll, Acar Dan Cold Ocha",
+    "section": "set menu"
+  },
+  {
+    "price": "26937",
+    "name": "Crispy Chicken Karaage",
+    "description": "4 Pcs Crispy Chicken Karaage",
+    "section": "snacks"
+  },
+  {
+    "price": "21685",
+    "name": "Takoyaki 5 Pcs",
+    "description": "Small Food In The Form Of Small Balls With Octopus Baby Pieces.",
+    "section": "snacks"
+  },
+  {
+    "price": "24187",
+    "name": "Shumay Steam 5 Pcs",
+    "description": "Processed Shrimp And Chicken Product Wrapped In Dumpling Skin And Cooked With Steamed Method.",
+    "section": "snacks"
+  },
+  {
+    "price": "24187",
+    "name": "Shumay Furai 5 Pcs",
+    "description": "Processed Shrimp Product And Chicken Wrapped In Dumpling Skin And Cooked With The Deep Frying Oil Method.",
+    "section": "snacks"
+  },
+  {
+    "price": "12094",
+    "name": "Chicken Tofu (1 Pc)",
+    "description": "Made From Selected Tofu, Served With Processed Chicken Meat And Served With Spring Onions And Hokben'S Signature Chicken Broth.",
+    "section": "snacks"
+  },
+  {
+    "price": "36698",
+    "name": "Mentai Takoyaki",
+    "description": "Takoyaki Doused With Hokben'S Signature Mentai Sauce Topped With Hatsuoboshi And Nori",
+    "section": "snacks"
+  },
+  {
+    "price": "34613",
+    "name": "Takoyaki Original",
+    "description": "Takoyaki Doused With Tare Sauce And Mayonnaise Of Hokben Topped With Hatsuoboshi",
+    "section": "snacks"
+  },
+  {
+    "price": "32111",
+    "name": "Blackpepper Miso Chicken",
+    "description": "Boneless Grilled Chicken Seasoned With Blackpepper Sauce Noodles",
+    "section": "main menu"
+  },
+  {
+    "price": "39200",
+    "name": "Beef Teriyaki",
+    "description": "Premium Beef Cooked In Onions And Using Hokben'S Signature Teriyaki Sauce.",
+    "section": "main menu"
+  },
+  {
+    "price": "39200",
+    "name": "Beef Yakiniku",
+    "description": "Premium Beef Cooked In Onions And Paprika Green Using Hokben'S Signature Hokben Sauce.",
+    "section": "main menu"
+  },
+  {
+    "price": "30026",
+    "name": "Chicken Teriyaki",
+    "description": "Boneless Chicken Cooked In Onion Pieces And Hokben'S Signature Teriyaki Sauce.",
+    "section": "main menu"
+  },
+  {
+    "price": "30026",
+    "name": "Chicken Yakiniku",
+    "description": "Boneless Chicken Meat Cooked In Onions And Paprika Green Using Hokben'S Signature Hokben Sauce.",
+    "section": "main menu"
+  },
+  {
+    "price": "43787",
+    "name": "Hot & Spicy Beef Teriyaki",
+    "description": "Boneless Chicken Meat Cooked With Onions And Sliced Chilies Seasoned Using Teriyaki Sauce With A Spicy Taste",
+    "section": "main menu"
+  },
+  {
+    "price": "34613",
+    "name": "Hot & Spicy Chicken Teriyaki",
+    "description": "Premium Beef Cooked With Onions And Sliced Chilies Seasoned Using Teriyaki Sauce With A Spicy Taste",
+    "section": "main menu"
+  },
+  {
+    "price": "38366",
+    "name": "Paket 1 Hokben Fried Chicken",
+    "description": "1 Pc Of Special Hokben Fried Chicken Served In A Package Including Rice, Ice Lemon Tea Pickles",
+    "section": "hokben fried chicken"
+  },
+  {
+    "price": "51293",
+    "name": "Paket 2 Hokben Fried Chicken",
+    "description": "2 Pcs Of Special Hokben Fried Chicken Served In A Package Including Rice, Ice Lemon Tea Pickles",
+    "section": "hokben fried chicken"
+  },
+  {
+    "price": "22102",
+    "name": "A La Carte Hokben Fried Chicken 1 Pc",
+    "description": "1 Pc Of Special Hokben Fried Chicken",
+    "section": "hokben fried chicken"
+  },
+  {
+    "price": "38366",
+    "name": "A La Carte Hokben Fried Chicken 2 Pcs",
+    "description": "2 Pcs Of Special Hokben Fried Chicken",
+    "section": "hokben fried chicken"
+  },
+  {
+    "price": "150126",
+    "name": "A La Carte Hokben Fried Chicken 9 Pcs",
+    "description": "9 Pcs Of Special Hokben Fried Chicken",
+    "section": "hokben fried chicken"
+  },
+  {
+    "price": "25674",
+    "name": "Kori Konyaku Chocolate 500 Ml",
+    "description": "Hokben Special Drinks With Chocolate Flavor And Extra Chocolate Jelly In A 500 Ml Bottle",
+    "section": "koori konnyaku 500 ml"
+  },
+  {
+    "price": "25674",
+    "name": "Kori Konyaku Strawberry 500 Ml",
+    "description": "Hokben Special Drinks With Strawberry Flavor And Extra Jelly Strawberry In A 500 Ml Bottle",
+    "section": "koori konnyaku 500 ml"
+  },
+  {
+    "price": "35030",
+    "name": "Paket Blackpepper Miso Chicken",
+    "description": "Blackpepper Mix Chicken + Rice + Drink",
+    "section": "menu paket"
+  },
+  {
+    "price": "37458",
+    "name": "Simple Set Teriyaki 1 Upgrade Blackpepper Miso Chicken",
+    "description": "Rice, Blackpepper Mix Chicken, 2 Egg Chicken Roll, Pickles",
+    "section": "menu paket"
+  },
+  {
+    "price": "37458",
+    "name": "Simple Set Teriyaki 2 Upgrade Blackpepper Miso Chicken",
+    "description": "Nasi, Blackpepper Miso Chicken, 2 Shrimp Roll, Acar.",
+    "section": "menu paket"
+  },
+  {
+    "price": "58382",
+    "name": "Bento Special 4",
+    "description": "Rice, Pickles, Beef Teriyaki, 1 Tori No Teba, 1 Ebi Furai, 1 Ebi Fried",
+    "section": "menu paket"
+  },
+  {
+    "price": "58382",
+    "name": "Bento Special 3",
+    "description": "Rice, Pickles, Beef Yakiniku, 1 Tori No Teba, 1 Ebi Furai, 1 Ebi Fried",
+    "section": "menu paket"
+  },
+  {
+    "price": "58382",
+    "name": "Bento Special 2",
+    "description": "Rice, Pickles, Beef Yakiniku, 1 Tori No Teba And 1 Kani Roll",
+    "section": "menu paket"
+  },
+  {
+    "price": "53795",
+    "name": "Bento Special 1",
+    "description": "Rice, Pickles, Chicken Teriyaki, 1 Tori No Teba And 1 Ebi Furai",
+    "section": "menu paket"
+  },
+  {
+    "price": "51293",
+    "name": "Paket A",
+    "description": "Rice, Pickles, Beef Yakiniku, 1 Tori Ball, 2 Shrimp Rolls",
+    "section": "menu paket"
+  },
+  {
+    "price": "45038",
+    "name": "Paket B",
+    "description": "Rice, Pickles, Chicken Yakiniku, 2 Egg Chicken Roll, 1 Ebi Furai",
+    "section": "menu paket"
+  },
+  {
+    "price": "51293",
+    "name": "Paket C",
+    "description": "Rice, Pickles, Beef Teriyaki, 1 Tori Ball, 2 Shrimp Rolls",
+    "section": "menu paket"
+  },
+  {
+    "price": "45038",
+    "name": "Paket D",
+    "description": "Nasi, Acar, Chicken Teriyaki, 2 Egg Chicken Roll, 1 Ebi Furai",
+    "section": "menu paket"
+  },
+  {
+    "price": "50460",
+    "name": "Simple Set Beef Teriyaki 1",
+    "description": "Rice, Beef Teriyaki, 2 Egg Chicken Roll, Pickles",
+    "section": "menu paket"
+  },
+  {
+    "price": "50460",
+    "name": "Simple Set Beef Teriyaki 2",
+    "description": "Rice, Beef Teriyaki, 2 Shrimp Roll, Pickles.",
+    "section": "menu paket"
+  },
+  {
+    "price": "50460",
+    "name": "Simple Set Beef Yakiniku 1",
+    "description": "Rice, Beef Yakiniku, 2 Egg Chicken Roll, Pickles",
+    "section": "menu paket"
+  },
+  {
+    "price": "50460",
+    "name": "Simple Set Beef Yakiniku 2",
+    "description": "Rice, Beef Yakiniku, 2 Shrimp Roll, Pickles.",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Simple Set Chicken Teriyaki 1",
+    "description": "Nasi, Chicken Teriyaki, 2 Egg Chicken Roll, Acar",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Simple Set Chicken Teriyaki 2",
+    "description": "Rice, Chicken Teriyaki, 2 Shrimp Roll, Pickles.",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Simple Set Chicken Yakiniku 1",
+    "description": "Rice, Chicken Yakiniku, 2 Egg Chicken Roll, Pickles",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Simple Set Chicken Yakiniku 2",
+    "description": "Rice, Chicken Yakiniku, 2 Shrimp Roll, Pickles.",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Kidzu Bento 1",
+    "description": "Rice, 3 Egg Chicken Rolls, Scramble Egg, Peas With Milo Drink",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Kidzu Bento 2",
+    "description": "Rice, 3 Tori Balls, Scramble Egg, Peas With Milo Drinks",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Kidzu Bento 3",
+    "description": "Rice, 1 Ebi Furai, 1 Crispy Chicken Karaage, Scramble Egg, Peas With Milo",
+    "section": "menu paket"
+  },
+  {
+    "price": "37949",
+    "name": "Kidzu Bento 4",
+    "description": "Rice, 1 Hokben Fried Chicken, Scramble Egg, Peas With Milo Drinks",
+    "section": "menu paket"
+  },
+  {
+    "price": "25021",
+    "name": "Hoka Hemat 2",
+    "description": "Rice, Pickles, 2 Tori Balls And 2 Egg Chicken Rolls",
+    "section": "economical menu"
+  },
+  {
+    "price": "25021",
+    "name": "Hoka Hemat 4",
+    "description": "Rice, Pickles, 4 Shrimp Rolls",
+    "section": "economical menu"
+  },
+  {
+    "price": "25021",
+    "name": "Hoka Hemat 1",
+    "description": "Rice, Pickles, 1 Ekkado And 3 Egg Chicken Rolls.",
+    "section": "economical menu"
+  },
+  {
+    "price": "25021",
+    "name": "Hoka Hemat 3",
+    "description": "Rice, Pickles, 2 Egg Chicken Rolls, 2 Shrimp Rolls.",
+    "section": "economical menu"
+  },
+  {
+    "price": "31277",
+    "name": "Egg Chicken Roll (6 Pcs)",
+    "description": "Processed Product Of Chicken Meat Rolled In An Omelet And Cooked Using The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "36698",
+    "name": "Ekkado (5 Pcs)",
+    "description": "A Special Hokben Product Made From Quail Eggs Layered With Processed Shrimp Meat, Wrapped In Tofu Skin And Cooked Using The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "30026",
+    "name": "Shrimp Roll (5 Pcs)",
+    "description": "Produced From Processed Shrimp Wrapped In Eggs And Breadcrumbs, Cooked Using The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "30026",
+    "name": "Chicken Katsu (1 Pc)",
+    "description": "Breaded Boneless Chicken Breast And Special Hokben Spices Cooked Using The Deep Frying Oil Method So That It Is Crispy On The Outside, Soft In The Inside.",
+    "section": "a la carte"
+  },
+  {
+    "price": "27940",
+    "name": "Tori No Teba (2 Pcs)",
+    "description": "A Special Hokben Product Made From Chicken Wings Containing Processed Chicken Meat, Cooked With The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "30026",
+    "name": "Kani Roll (2 Pcs)",
+    "description": "Produced From Processed Formula Wrapped In Tofu Skin And Cooked With The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "31277",
+    "name": "Tori Ball (5 Pcs)",
+    "description": "Produced From Processed Chicken Breast Meat Coated With Breadcrumbs And Cooked With The Deep Frying Oil Method",
+    "section": "a la carte"
+  },
+  {
+    "price": "36698",
+    "name": "Ebi Furai (4 Pcs)",
+    "description": "Processed Shrimp Product That Is Breaded, Cooked With The Deep Frying Oil Method.",
+    "section": "a la carte"
+  },
+  {
+    "price": "54629",
+    "name": "Sukiyaki",
+    "description": "Made From Premium Beef, Japanese Tofu, Shirake, Chicory, Chicory, Green Onions, Onions And Cooked With Sukiyaki Sauce Of Hokben.",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "19183",
+    "name": "Chicken Tofu (2 Pcs)",
+    "description": "Made From Selected Tofu, Served With Processed Chicken Meat And Served With Spring Onions And Hokben'S Signature Chicken Broth.",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "22519",
+    "name": "Shrimp Ball (3 Pcs)",
+    "description": "Meatballs Made From Processed Shrimp And Served With Spring Onions And Special Hokben Chicken Broth",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "19183",
+    "name": "Shrimp Dumpling (3 Pcs)",
+    "description": "Made From Processed Shrimp Wrapped In Wonton Skin And Served With Scallions And Special Broth.",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "9175",
+    "name": "Clear Soup",
+    "description": "Soup With A Savory Clear Broth Of Chicken Mixed With Pieces Of Silken Tofu (Tofu) And Green Onion Topping.",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "15847",
+    "name": "Shirataki Soup",
+    "description": "Soup With A Savory Clear Broth Of Chicken Mixed With Shirataki Noodles And Topping Of Green Onions.",
+    "section": "sukiyaki & soup"
+  },
+  {
+    "price": "12928",
+    "name": "Es Ogura",
+    "description": "Red Beans Served With Sugar Water, Coconut Milk And Shaved Ice For Salad.",
+    "section": "dessert"
+  },
+  {
+    "price": "19183",
+    "name": "Es Sarang Burung",
+    "description": "Jelly And Long Fruit Served With Sugar Water And Shaved Iced As Food.",
+    "section": "dessert"
+  },
+  {
+    "price": "19361",
+    "name": "Coklat Puding",
+    "description": "Pudding With Aroma And Chocolate Flavor.",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Caramel",
+    "description": "Soft Pudding With Special Caramel Sauce.",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Taro",
+    "description": "Pudding With Soft Texture With Aroma And Taro Taste",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Mango",
+    "description": "Pudding With Soft Texture With Aroma And Mango Taste",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Green Tea",
+    "description": "Pudding With Soft Texture With Aroma And Green Tea Flavor",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Red Velvet",
+    "description": "Pudding With Soft Texture With Aroma And Red Velvet Flavor",
+    "section": "dessert"
+  },
+  {
+    "price": "17677",
+    "name": "Soft Pudding Bubble Gum",
+    "description": "Pudding With Soft Texture With The Aroma And Aroma Of Bubble",
+    "section": "dessert"
+  },
+  {
+    "price": "21044",
+    "name": "Kori Konyaku Chocolate",
+    "description": "Hokben Special Drinks With Chocolate Flavor And Extra Chocolate Jelly",
+    "section": "dessert"
+  },
+  {
+    "price": "21268",
+    "name": "Konnyaku Strawberry",
+    "description": "Hokben Special Drinks With Strawberry Flavor And Extra Jelly Strawberry",
+    "section": "dessert"
+  },
+  {
+    "price": "18349",
+    "name": "Matcha Milk Berry 250 Ml",
+    "description": "Matcha Drink Made With A Mixture Of Fresh Milk And Strawberry Syrup Packaged In 250 Ml Bottles",
+    "section": "drinks"
+  },
+  {
+    "price": "16681",
+    "name": "Iced Coffee Ganbatte 250 Ml",
+    "description": "Premium Coffee Beans Made From A Mixture Of Fresh Milk And Palm Sugar Packaged In 250 Ml Bottle",
+    "section": "drinks"
+  },
+  {
+    "price": "9175",
+    "name": "Ocha",
+    "description": "Special Cold And Fresh Japanese Green Tea.",
+    "section": "drinks"
+  },
+  {
+    "price": "17515",
+    "name": "Ocha Lychee Tea",
+    "description": "Lycheeh Drink Produced From Ocha (Green Tea) Added With A Special Lycheeh Flavour From Lyci Syrup, With Extra Lyci Fruit And Nata De Coco Crispy Which Produces A Distinctive Sweet Tea And Refreshing.",
+    "section": "drinks"
+  },
+  {
+    "price": "17515",
+    "name": "Melon Juice",
+    "description": "Original Fruit Juice Made From Selected Fresh Melon.",
+    "section": "drinks"
+  },
+  {
+    "price": "17515",
+    "name": "Orange Juice",
+    "description": "Original Fruit Juice Made From Selected Fresh Oranges.",
+    "section": "drinks"
+  },
+  {
+    "price": "9592",
+    "name": "Bottled Tea Box Of Sosro",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10843",
+    "name": "Milo With Ice",
+    "description": "",
+    "section": "drinks"
+  },
+  { "price": "8758", "name": "Aqua", "description": "", "section": "drinks" },
+  {
+    "price": "12627",
+    "name": "Hokben Sambal Extra Pedas",
+    "description": "Hokben Extra Hot Chili Sauce As A Complement Of Hokben Menu",
+    "section": "extra menu"
+  },
+  {
+    "price": "8758",
+    "name": "Nasi Hokben",
+    "description": "Cooked Using Hokben Special Rice",
+    "section": "extra menu"
+  },
+  {
+    "price": "15847",
+    "name": "Salad Hokben",
+    "description": "Consists Of Pickles, Frugal Cabbage, Special Hokben Salad Served In A Cup",
+    "section": "extra menu"
+  },
+  {
+    "price": "22102",
+    "name": "Creamy Ebi Korokke 3 Pcs",
+    "description": "Snack Menu Made From French Fries Mixed With Chunks Of Shrimp With Creamy Flavors Filled With 3 Pcs",
+    "section": "menu snacks - creamy ebi korokke"
+  },
+  {
+    "price": "34613",
+    "name": "Creamy Ebi Korokke 5 Pcs",
+    "description": "Snack Menu Made From French Fries Mixed With Chunks Of Shrimp With A Creamy Taste Contains 5 Pcs",
+    "section": "menu snacks - creamy ebi korokke"
+  }
+]

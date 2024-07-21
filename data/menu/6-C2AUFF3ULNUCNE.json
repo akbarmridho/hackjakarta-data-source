@@ -1,0 +1,578 @@
+[
+  {
+    "price": "23637",
+    "name": "3 Pcs Korean Chicken Wings Rice Set",
+    "description": "3 Pcs Korean Chicken Wings dengan Nasi. Pilih 1 rasa.",
+    "section": "today's offer"
+  },
+  {
+    "price": "71819",
+    "name": "10 Pcs Korean Chicken Wings + Free Topping",
+    "description": "10 Pcs Korean Chicken Wings Free 1 topping. Pilih 2 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "136363",
+    "name": "20 Pcs Korean Chicken Wings + Free 2 Toppings",
+    "description": "20 Pcs Korean Chicken Wings. Pilih 4 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "5 Pcs Korean Chicken Wings + Jumeokbap + FREE Sweet Ice Tea",
+    "description": "5 Pcs Korean Chicken Wings + Nasi Jumeokbap Free Sweet Ice Tea. Pilih 1 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "49091",
+    "name": "2 Pcs Moon Fried Chicken Jumeokbap Set + Sweet Ice Tea",
+    "description": "2 Pcs Moon Fried Chicken + Nasi Jumeokbap + Minum (Sweet Ice Tea). Pilih 1 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "45455",
+    "name": "Moonbun + 3 Korean Chicken Wings",
+    "description": "MoonBun dengan 3 Pcs Korean Chicken Wings. Pilih 1 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "90909",
+    "name": "4 Pcs Moon Fried Chicken + 2 Jumeokbap",
+    "description": "4 Pcs Moon Fried Chicken Rice Set Jumeokbap. Pilih 2 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "2 Pcs Moon Fried Chicken Rice Set + 5 Pcs Korean Chicken Wings Rice Set",
+    "description": "2 Pcs Moon Fried Chicken Rice Set dengan 5 Pcs Korean Chicken Wings Rice Set. Pilih 2 rasa",
+    "section": "today's offer"
+  },
+  {
+    "price": "22727",
+    "name": "Tteokbokki Red Sauce",
+    "description": "Tteokbokki tepung beras dengan otak otak ikan berpadu saus merah khas korea special andalan Moon Chicken!",
+    "section": "today's offer"
+  },
+  {
+    "price": "30909",
+    "name": "Meteor Tteokbokki + Free Extra Kimchi",
+    "description": "Meteor Tteokbokki Red Sauce dengan Free Kimchi",
+    "section": "today's offer"
+  },
+  {
+    "price": "45455",
+    "name": "#FoodHack : Korean Classic Duo",
+    "description": "Cobain Hack Seru! 1 Pc Moon Fried Chicken + Original Tteokbokki ala Moon Chicken!",
+    "section": "today's offer"
+  },
+  {
+    "price": "15910",
+    "name": "FREE Upsize Pink Lemonade Tea",
+    "description": "Hanya untuk kamu! Harga spesial untuk Pink Lemonade Tea UPSIZE!",
+    "section": "today's offer"
+  },
+  {
+    "price": "23637",
+    "name": "3 Pcs Korean Chicken Wings Rice Set",
+    "description": "3 Pcs Korean Chicken Wings dengan Nasi. Pilih 1 rasa.",
+    "section": "flash sale"
+  },
+  {
+    "price": "71819",
+    "name": "10 Pcs Korean Chicken Wings + Free Topping",
+    "description": "10 Pcs Korean Chicken Wings Free 1 topping. Pilih 2 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "136363",
+    "name": "20 Pcs Korean Chicken Wings + Free 2 Toppings",
+    "description": "20 Pcs Korean Chicken Wings. Pilih 4 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "50000",
+    "name": "5 Pcs Korean Chicken Wings + Jumeokbap + FREE Sweet Ice Tea",
+    "description": "5 Pcs Korean Chicken Wings + Nasi Jumeokbap Free Sweet Ice Tea. Pilih 1 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "49091",
+    "name": "2 Pcs Moon Fried Chicken Jumeokbap Set + Sweet Ice Tea",
+    "description": "2 Pcs Moon Fried Chicken + Nasi Jumeokbap + Minum (Sweet Ice Tea). Pilih 1 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "45455",
+    "name": "Moonbun + 3 Korean Chicken Wings",
+    "description": "MoonBun dengan 3 Pcs Korean Chicken Wings. Pilih 1 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "90909",
+    "name": "4 Pcs Moon Fried Chicken + 2 Jumeokbap",
+    "description": "4 Pcs Moon Fried Chicken Rice Set Jumeokbap. Pilih 2 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "80000",
+    "name": "2 Pcs Moon Fried Chicken Rice Set + 5 Pcs Korean Chicken Wings Rice Set",
+    "description": "2 Pcs Moon Fried Chicken Rice Set dengan 5 Pcs Korean Chicken Wings Rice Set. Pilih 2 rasa",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "22727",
+    "name": "Tteokbokki Red Sauce",
+    "description": "Tteokbokki tepung beras dengan otak otak ikan berpadu saus merah khas korea special andalan Moon Chicken!",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "30909",
+    "name": "Meteor Tteokbokki + Free Extra Kimchi",
+    "description": "Meteor Tteokbokki Red Sauce dengan Free Kimchi",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "45455",
+    "name": "#FoodHack : Korean Classic Duo",
+    "description": "Cobain Hack Seru! 1 Pc Moon Fried Chicken + Original Tteokbokki ala Moon Chicken!",
+    "section": "moonlander deals"
+  },
+  {
+    "price": "15910",
+    "name": "FREE Upsize Pink Lemonade Tea",
+    "description": "Hanya untuk kamu! Harga spesial untuk Pink Lemonade Tea UPSIZE!",
+    "section": "sweet deals by dari pada"
+  },
+  {
+    "price": "9090.909",
+    "name": "Our Sister Brands",
+    "description": "Cobain Brand Hangry lainnya: Moon Chicken, Ayam Koplo, Hot Side Story (Spicy Chicken), San Gyu (Japanese), Accha (Indian), Ayam Goreng Bu Tumbar, Wai Thai Food, dan Kopi Dari Pada",
+    "section": "hangry care unit"
+  },
+  {
+    "price": "46364",
+    "name": "2 Pcs Moon Fried Chicken Cheesy Stardust Rice Set",
+    "description": "2 Pcs Moon Fried Chicken dengan Nasi dengan pilihan rasa Keju yang Sweet dan Milky rasa terbaru dari Moon Chicken!",
+    "section": "new flavor! cheesy stardust🧀⭐"
+  },
+  {
+    "price": "50909",
+    "name": "2 Pcs Moon Fried Chicken Cheesy Stardust Complete Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi + Corn Tea dengan pilihan rasa Keju yang Sweet dan Milky rasa terbaru dari Moon Chicken!",
+    "section": "new flavor! cheesy stardust🧀⭐"
+  },
+  {
+    "price": "42727",
+    "name": "5 Pcs Korean Chicken Wings Cheesy Stardust",
+    "description": "5 Pcs Korean Chicken Wings dengan pilihan rasa Keju yang Sweet dan Milky rasa terbaru dari Moon Chicken!",
+    "section": "new flavor! cheesy stardust🧀⭐"
+  },
+  {
+    "price": "77273",
+    "name": "10 Pcs Korean Chicken Wings Cheesy Stardust",
+    "description": "10 Pcs Korean Chicken Wings dengan pilihan rasa Keju yang Sweet dan Milky rasa terbaru dari Moon Chicken!",
+    "section": "new flavor! cheesy stardust🧀⭐"
+  },
+  {
+    "price": "27273",
+    "name": "Moon Chicken Skin Cheesy Stardust",
+    "description": "Kulit ayam garing dengan pilihan rasa Keju yang Sweet dan Milky rasa terbaru dari Moon Chicken!",
+    "section": "new flavor! cheesy stardust🧀⭐"
+  },
+  {
+    "price": "42727",
+    "name": "5 Pcs Korean Chicken Wings",
+    "description": "5 Pcs Korean Chicken Wings. Pilih 1 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "77273",
+    "name": "10 Pcs Korean Chicken Wings",
+    "description": "Pilih 2 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "154545",
+    "name": "20 Pcs Korean Chicken Wings",
+    "description": "Pilih 4 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "49091",
+    "name": "5 Pcs Korean Chicken Wings Rice Set",
+    "description": "5 Pcs Korean Chicken Wings + Nasi. Pilih 1 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "84545",
+    "name": "10 Pcs Korean Chicken Wings Rice Set",
+    "description": "10 Pcs Korean Chicken Wings + Nasi. Pilih 2 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "53636",
+    "name": "5 Pcs Korean Chicken Wings Complete Set",
+    "description": "5 Pcs Korean Chicken Wings + Nasi + Minum (Korean Corn Tea). Pilih 1 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "89091",
+    "name": "10 Pcs Korean Chicken Wings Complete Set",
+    "description": "10 Pcs Korean Chicken Wings + Nasi + Minum (Korean Corn Tea). Pilih 2 rasa",
+    "section": "korean chicken wings"
+  },
+  {
+    "price": "30909",
+    "name": "1 Pc Moon Fried Chicken Rice Set",
+    "description": "1 Pc Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "26364",
+    "name": "1 Pc Moon Fried Chicken Rice Set (Fun-Size)",
+    "description": "1 Pcs Moon Fried Chicken (drumstick/wings) + Nasi. Pilih 1 rasa.",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "46364",
+    "name": "2 Pcs Moon Fried Chicken Rice Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi. Pilih 1 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "38182",
+    "name": "2 Pcs Moon Fried Chicken Rice Set (Fun-Size)",
+    "description": "",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "35455",
+    "name": "1 Pc Moon Fried Chicken Complete Set",
+    "description": "1 Pcs Moon Fried Chicken + Nasi + Minum (Korean Corn Tea). Pilih 1 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "50909",
+    "name": "2 Pcs Moon Fried Chicken Complete Set",
+    "description": "2 Pcs Moon Fried Chicken + Nasi + Minum (Korean Corn Tea). Pilih 1 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "40000",
+    "name": "2 Pcs Moon Fried Chicken Ala Carte",
+    "description": "Pilih 1 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "114545",
+    "name": "6 Pcs Moon Fried Chicken Ala Carte",
+    "description": "6 Pcs Moon Fried Chicken. Pilih 2 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "169545",
+    "name": "9 Pcs Moon Fried Chicken Ala Carte",
+    "description": "Pilih 3 rasa",
+    "section": "moon fried chicken"
+  },
+  {
+    "price": "34545",
+    "name": "Moonbun (Crispy Chicken Burger)",
+    "description": "Burger dengan potato bun yang lembut, paha ayam crispy tanpa tulang, saus creamy, dengan pilihan Flavors of the Galaxy",
+    "section": "moonbun"
+  },
+  {
+    "price": "42273",
+    "name": "Meteor Chicken Rice",
+    "description": "Popcorn Chicken (boneless) + Nasi + Telur Mata Sapi + Extra Mayo. Pilih 1 rasa",
+    "section": "rice bowl"
+  },
+  {
+    "price": "181818",
+    "name": "Moon Box MFC",
+    "description": "(untuk sharing) 4pcs Moon Fried Chicken + 2 porsi Pop Corn Chicken (Boneless) + 4 Nasi + 2 Toppings",
+    "section": "co-moon-all (sharing pack)"
+  },
+  {
+    "price": "181818",
+    "name": "Moon Box Wings",
+    "description": "(untuk sharing) 10pcs Korean Chicken Wings + 2 porsi Pop Corn Chicken (Boneless) + 4 Nasi + 2 Toppings",
+    "section": "co-moon-all (sharing pack)"
+  },
+  {
+    "price": "62273",
+    "name": "XL Meteor Chicken (Chicken Only, 2x Portion)",
+    "description": "2x porsi Popcorn Chicken (boneless) + Extra Mayo. Pilih 1 rasa",
+    "section": "co-moon-all (sharing pack)"
+  },
+  {
+    "price": "20000",
+    "name": "Sweet Honey Pop Bowl",
+    "description": "Rice bowl ayam goreng dengan saus manis madu. Dilengkapi telur orak-arik",
+    "section": "pop bowl (value meal)"
+  },
+  {
+    "price": "20000",
+    "name": "Hot Spicy Pop Bowl",
+    "description": "Rice bowl ayam goreng dengan saus pedas manis. Dilengkapi telur orak-arik",
+    "section": "pop bowl (value meal)"
+  },
+  {
+    "price": "20000",
+    "name": "Gangnam Glaze Pop Bowl",
+    "description": "Rice bowl ayam goreng dengan saus rempah ala Korea. Dilengkapi telur orak-arik",
+    "section": "pop bowl (value meal)"
+  },
+  {
+    "price": "33636",
+    "name": "Meteor Chicken Tteokbokki",
+    "description": "Popcorn Chicken (boneless) dengan Tteokbokki serta otak - otak ikan yang berpadu saus merah khas korea andalan Moon Chicken",
+    "section": "korean street snacks"
+  },
+  {
+    "price": "27273",
+    "name": "Moon Mandu (Moon Snack)",
+    "description": "5pcs Mandu goreng Korea isi ayam dan sayur cincang.",
+    "section": "korean street snacks"
+  },
+  {
+    "price": "18182",
+    "name": "3 Pcs Moon Mandu",
+    "description": "3pcs Mandu goreng Korea isi ayam dan sayur cincang.",
+    "section": "korean street snacks"
+  },
+  {
+    "price": "27273",
+    "name": "Korean Chicken Skin (Moon Snack)",
+    "description": "Kulit ayam garing dengan Flavors of the Galaxy. Pilih 1 rasa",
+    "section": "korean street snacks"
+  },
+  {
+    "price": "25909",
+    "name": "Nasi Putih Ayam Geprek Seutuhnya by AYAM KOPLO",
+    "description": "Nasi Ayam Geprek Seutuhnya + pilihan sambal Nusantara",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "47273",
+    "name": "Aburi Gyudon (Beef Rice Bowl) by SAN GYU",
+    "description": "Menu Beef Gyudon ala San Gyu, menggunakan 100% daging sapi US Premium yang sedikit dibakar, memberikan kamu sensasi smokey yang nikmat di porsi menu makan mu. (alat makan diberikan saat request).",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "45364",
+    "name": "Butter Chicken + Naan by ACCHA",
+    "description": "(NEW PORTION,MORE CHICKEN) Best Seller! Potongan ayam panggang dicampur kuah kari tomat & saus butter yang creamy!Disajikan sama roti naan(Tambahkan Masala Sachet agar lebih gurih)",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "33636",
+    "name": "1 pc Hot Nashville Fried Chicken Rice Set by HOT SIDE STORY",
+    "description": "Dare to try the hottest chicken in town! Nashville chicken with rice, select your spiciness level!",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "25909",
+    "name": "Nasi Ayam Goreng Penyet Ketumbar by AYAM BU TUMBAR",
+    "description": "Nasi Ayam Goreng Penyet Ketumbar + Pilihan Sambal Nusantara",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "31818",
+    "name": "Tomyum Seafood Fried Rice by WAI THAI FOOD",
+    "description": "Nasi goreng Tom Yum ala Thai dengan topping bakso seafood dan telur sunny side up.",
+    "section": "foods by other hangry brands"
+  },
+  {
+    "price": "15909",
+    "name": "Es Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi espresso dengan susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Blonde Creamy Latte",
+    "description": "Minuman non-Coffee unik khas Dari Pada, campuran susu creamy dan gula aren premium yang kaya akan rasa",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Korean Strawberry Milk",
+    "description": "Es susu strawberry ala Korea yang fruity dan creamy. Cocok untuk penyuka minuman manis",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Pink Lemonade Tea",
+    "description": "Butterfly Pea Flower Tea dicampur dengan buah lemon segar",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Thai Tea",
+    "description": "Menggunakan teh asli dari Thailand yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "15909",
+    "name": "Earl Grey Milk Tea",
+    "description": "Perpaduan teh early grey dengan signature creamy milk Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "15909",
+    "name": "Premium Matcha Latte (Green Tea)",
+    "description": "Menggunakan teh hijau asli dari Jepang yang dipadukan dengan susu creamy khas Dari Pada",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Premium Chocolate (Es Coklat)",
+    "description": "Minuman susu coklat kental diolah dari kakao pilihan. Cocok untuk pecinta coklat sejati",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Ice Cafe Latte",
+    "description": "Perpaduan kopi espresso dan susu creamy, pilihan klasik pencinta kopi",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "13636",
+    "name": "Iced Coffee Americano",
+    "description": "Es kopi hitam dengan espresso house blend khas Dari Pada. Teman sempurna untuk meningkatkan produktivitas saat bekerja",
+    "section": "kopi dari pada by hangry"
+  },
+  {
+    "price": "3636",
+    "name": "Ice Tea (Es Teh Tawar)",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "4545",
+    "name": "Sweet Ice Tea (Es Teh Manis)",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Extra Kimchi",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "12727",
+    "name": "Extra Jumeokbap (Korean seasoned rice)",
+    "description": "Nasi ala Korea dengan rumput laut dan wijen",
+    "section": "extra"
+  },
+  {
+    "price": "13636",
+    "name": "Extra Spicy Jumeokbap",
+    "description": "Nasi ala Korea dengan rumput laut, wijen, dan Korean Hot Sauce",
+    "section": "extra"
+  },
+  {
+    "price": "7273",
+    "name": "Extra Rice",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Truffle Mayo Sauce",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Garlic Mayo",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "6364",
+    "name": "Extra Egg Mayo",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "4545",
+    "name": "Extra Honey Mustard Sauce",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7273",
+    "name": "Extra Mentai Sauce",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "455",
+    "name": "Extra Chili & Tomato Sauce",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "5455",
+    "name": "Extra Korean Corn Tea",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Coca-Cola",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Zero Coca-Cola",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Fanta",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Sprite",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "11818",
+    "name": "Extra Frestea Apple Lemongrass",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "54091",
+    "name": "Meteor Rice + Coca Cola",
+    "description": "",
+    "section": "#cokecombodeals"
+  },
+  {
+    "price": "58182",
+    "name": "2 Pcs Moon Fried Chicken Rice Set + Coca Cola",
+    "description": "",
+    "section": "#cokecombodeals"
+  },
+  {
+    "price": "54545",
+    "name": "5 Pcs Korean Chicken Wings + Coca Cola",
+    "description": "",
+    "section": "#cokecombodeals"
+  },
+  {
+    "price": "39091",
+    "name": "Korean Chicken Skin + Coca Cola",
+    "description": "",
+    "section": "#cokecombodeals"
+  }
+]

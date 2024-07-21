@@ -1,0 +1,668 @@
+[
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang",
+    "description": "Selamat Makan Nasi Omelet Udang By Chef Arnold hanya 55K",
+    "section": "today's offer"
+  },
+  {
+    "price": "53636",
+    "name": "Single Deals",
+    "description": "Pembelian 1 Nasi Omelet Udang + 1 Minuman Hanya 59ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "90000",
+    "name": "Couple Deals",
+    "description": "Pembelian 2 Nasi Omelet Udang + 2 Minuman Hanya 99ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "130910",
+    "name": "Group Deals",
+    "description": "Pembelian 3 Nasi Omelet Udang + 3 Minuman Hanya 144ribu",
+    "section": "today's offer"
+  },
+  {
+    "price": "59091",
+    "name": "Rujak Seasoned Chicken Rice",
+    "description": "3 Hours Slow Cooked Chicken, Mangkokku Kulit Crispy, And Bumbu Rujak",
+    "section": "today's offer"
+  },
+  {
+    "price": "40910",
+    "name": "Ala Carte Mangkokku Baso Goreng (3pcs)",
+    "description": "Baso goreng renyah diluar lembut didalam dengan 3 pilihan saus mangkokku",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "59000",
+    "name": "Mangkokku Beef Onsen",
+    "description": "Nasi pulen,irisan daging US dengan telur rebus khas jepang (telur setengah matang)",
+    "section": "today's offer"
+  },
+  {
+    "price": "59000",
+    "name": "Beef with Sambal Korek",
+    "description": "Nasi pulen,irisan daging US dan sambal korek",
+    "section": "today's offer"
+  },
+  {
+    "price": "59000",
+    "name": "Omu Beef Mayo",
+    "description": "Nasi pulen, Irisan Daging Sapi US, telur omelette setengah matang, dan mayonaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "59091",
+    "name": "Nasi Ayam Ala Hainan",
+    "description": "Slow cooked chicken, mangkokku kulit crispy, crispy garlic, cherry tomato and hainan style sambal",
+    "section": "today's offer"
+  },
+  {
+    "price": "53636",
+    "name": "Nasi Ayam Tangkap Saus Tartar",
+    "description": "Ayam tangkap, sunny side up, gari ginger, and tartar sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "29909",
+    "name": "Nasi Campur Crispy",
+    "description": "Nasi pulen dengan campuran kulit crispy, tahu crispy, telur ceplok setengah matang dan sambal ijo atau sambal korek",
+    "section": "today's offer"
+  },
+  {
+    "price": "45364",
+    "name": "Fried Chicken With Sambal Ijo",
+    "description": "Nasi pulen, ayam tepung gurih, berbalur dengan sambal ijo dan telur ceplok setengah matang",
+    "section": "today's offer"
+  },
+  {
+    "price": "44455",
+    "name": "Beef With Sambal Korek Bawang",
+    "description": "Nasi pulen,irisan daging US dan sambal korek",
+    "section": "today's offer"
+  },
+  {
+    "price": "45364",
+    "name": "Fried Chicken With Sambal korek",
+    "description": "Nasi pulen, ayam tepung gurih, berbalur dengan sambal korek bawang dan telur ceplok setengah matang",
+    "section": "today's offer"
+  },
+  {
+    "price": "26273",
+    "name": "Flash Sale - Endog Burger Mayo",
+    "description": "Fluffy Rice, Burger Cutlets, Omellete Egg And Mayonnaise",
+    "section": "today's offer"
+  },
+  {
+    "price": "34455",
+    "name": "Flash Sale - Nugget Crunchy Tartar",
+    "description": "Rice Bowl Chicken Nugget Crispy Dengan Saus Tartar Creamy Dan Telur Omu Yang Lembut.",
+    "section": "today's offer"
+  },
+  {
+    "price": "36273",
+    "name": "Flash Sale - Nasi Ayam Sesame Mayo",
+    "description": "Pulen Rice, Savory Flour Chicken, Covered With Sesame Sauce And Half-Cooked Fried Eggs",
+    "section": "today's offer"
+  },
+  {
+    "price": "39000",
+    "name": "Flash Sale - Ayam Tangkap With Tartar Sauce",
+    "description": "Jackfruit, Sunny Side Up, Gari Ginger, And Tartar Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "45364",
+    "name": "Flash Sale - Mangkokku Beef Onsen",
+    "description": "Fluffy Rice, Us Cutlet With Japanese Style Poached Egg (Half-Boiled Egg)",
+    "section": "today's offer"
+  },
+  {
+    "price": "49909",
+    "name": "Buy 1 Get 1 A",
+    "description": "Tahu Bumbu Garlic + Endog Burger Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "63545",
+    "name": "Buy 1 Get 1 B",
+    "description": "Nasi Ayam Sesame Mayo + Nasi Campur Crispy (sambal korek)",
+    "section": "today's offer"
+  },
+  {
+    "price": "69909",
+    "name": "Buy 1 Get 1 C",
+    "description": "Fried Chicken Sambal Ijo + Nugget Crunchy Tartar",
+    "section": "today's offer"
+  },
+  {
+    "price": "81727",
+    "name": "Buy 1 Get 1 D",
+    "description": "Mangkokku Beef Onsen  + Fried Chicken Sambal Korek",
+    "section": "today's offer"
+  },
+  {
+    "price": "88091",
+    "name": "Buy 1 Get 1 E",
+    "description": "Mangkokku Beef Onsen  + Mangkokku Beef Onsen",
+    "section": "today's offer"
+  },
+  {
+    "price": "80818",
+    "name": "Paket Cuan A",
+    "description": "Fried chicken sambal korek + Endog burger mayo + Tahu Bumbu Garlic",
+    "section": "today's offer"
+  },
+  {
+    "price": "93546",
+    "name": "Paket Cuan B",
+    "description": "Fried Chicken Sambal Ijo + Crispy Mixed Rice (Green Sambal) + Enddog Burger Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan C",
+    "description": "Sesame Chicken Rice + Fried Chicken Green Sambal + Rice Mixed Crispy (Rek Sambal)",
+    "section": "today's offer"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan D",
+    "description": "Mangkokku beef onsen + Fried chicken sambal ijo + Tahu Bumbu Garlic",
+    "section": "today's offer"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan E",
+    "description": "Mangkokku beef onsen + Fried chicken sambal korek + Nasi Ayam Sesame Mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "127181",
+    "name": "Cuan Berlima A",
+    "description": "5x Endog burger mayo",
+    "section": "today's offer"
+  },
+  {
+    "price": "127182",
+    "name": "Cuan Berlima B",
+    "description": "5x Tahu Bumbu Garlic",
+    "section": "today's offer"
+  },
+  {
+    "price": "172636",
+    "name": "Cuan Berlima C",
+    "description": "5x Fried chicken sambal korek",
+    "section": "today's offer"
+  },
+  {
+    "price": "172637",
+    "name": "Cuan Berlima D",
+    "description": "5x Nugget Crunchy tartar",
+    "section": "today's offer"
+  },
+  {
+    "price": "199909",
+    "name": "Cuan Berlima E",
+    "description": "5x Mangkokku beef onsen",
+    "section": "today's offer"
+  },
+  {
+    "price": "27181",
+    "name": "Snack Time A",
+    "description": "Melatea + Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "today's offer"
+  },
+  {
+    "price": "36272",
+    "name": "Snack Time B",
+    "description": "Lemonade van java + Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "today's offer"
+  },
+  {
+    "price": "39000",
+    "name": "Snack Time C",
+    "description": "Pistachio latte +Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "today's offer"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang",
+    "description": "Selamat Makan Nasi Omelet Udang By Chef Arnold hanya 55K",
+    "section": "colabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "53636",
+    "name": "Single Deals",
+    "description": "Pembelian 1 Nasi Omelet Udang + 1 Minuman Hanya 59ribu",
+    "section": "colabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "90000",
+    "name": "Couple Deals",
+    "description": "Pembelian 2 Nasi Omelet Udang + 2 Minuman Hanya 99ribu",
+    "section": "colabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "130910",
+    "name": "Group Deals",
+    "description": "Pembelian 3 Nasi Omelet Udang + 3 Minuman Hanya 144ribu",
+    "section": "colabfornation dailybox x mangkokku"
+  },
+  {
+    "price": "59091",
+    "name": "Rujak Seasoned Chicken Rice",
+    "description": "3 Hours Slow Cooked Chicken, Mangkokku Kulit Crispy, And Bumbu Rujak",
+    "section": "new menu"
+  },
+  {
+    "price": "40910",
+    "name": "Ala Carte Mangkokku Baso Goreng (3pcs)",
+    "description": "Baso goreng renyah diluar lembut didalam dengan 3 pilihan saus mangkokku",
+    "section": "new menu"
+  },
+  {
+    "price": "50000",
+    "name": "Nasi Omelet Udang",
+    "description": "",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "59000",
+    "name": "Mangkokku Beef Onsen",
+    "description": "Nasi pulen,irisan daging US dengan telur rebus khas jepang (telur setengah matang)",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "59000",
+    "name": "Beef with Sambal Korek",
+    "description": "Nasi pulen,irisan daging US dan sambal korek",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "59000",
+    "name": "Omu Beef Mayo",
+    "description": "Nasi pulen, Irisan Daging Sapi US, telur omelette setengah matang, dan mayonaise",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "59091",
+    "name": "Nasi Ayam Ala Hainan",
+    "description": "Slow cooked chicken, mangkokku kulit crispy, crispy garlic, cherry tomato and hainan style sambal",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "53636",
+    "name": "Nasi Ayam Tangkap Saus Tartar",
+    "description": "Ayam tangkap, sunny side up, gari ginger, and tartar sauce",
+    "section": "promo serbu - rice bowl seru 15ribu"
+  },
+  {
+    "price": "29909",
+    "name": "Nasi Campur Crispy",
+    "description": "Nasi pulen dengan campuran kulit crispy, tahu crispy, telur ceplok setengah matang dan sambal ijo atau sambal korek",
+    "section": "puedes poll"
+  },
+  {
+    "price": "45364",
+    "name": "Fried Chicken With Sambal Ijo",
+    "description": "Nasi pulen, ayam tepung gurih, berbalur dengan sambal ijo dan telur ceplok setengah matang",
+    "section": "puedes poll"
+  },
+  {
+    "price": "44455",
+    "name": "Beef With Sambal Korek Bawang",
+    "description": "Nasi pulen,irisan daging US dan sambal korek",
+    "section": "puedes poll"
+  },
+  {
+    "price": "45364",
+    "name": "Fried Chicken With Sambal korek",
+    "description": "Nasi pulen, ayam tepung gurih, berbalur dengan sambal korek bawang dan telur ceplok setengah matang",
+    "section": "puedes poll"
+  },
+  {
+    "price": "26273",
+    "name": "Flash Sale - Endog Burger Mayo",
+    "description": "Fluffy Rice, Burger Cutlets, Omellete Egg And Mayonnaise",
+    "section": "flash sale"
+  },
+  {
+    "price": "34455",
+    "name": "Flash Sale - Nugget Crunchy Tartar",
+    "description": "Rice Bowl Chicken Nugget Crispy Dengan Saus Tartar Creamy Dan Telur Omu Yang Lembut.",
+    "section": "flash sale"
+  },
+  {
+    "price": "36273",
+    "name": "Flash Sale - Nasi Ayam Sesame Mayo",
+    "description": "Pulen Rice, Savory Flour Chicken, Covered With Sesame Sauce And Half-Cooked Fried Eggs",
+    "section": "flash sale"
+  },
+  {
+    "price": "39000",
+    "name": "Flash Sale - Ayam Tangkap With Tartar Sauce",
+    "description": "Jackfruit, Sunny Side Up, Gari Ginger, And Tartar Sauce",
+    "section": "flash sale"
+  },
+  {
+    "price": "45364",
+    "name": "Flash Sale - Mangkokku Beef Onsen",
+    "description": "Fluffy Rice, Us Cutlet With Japanese Style Poached Egg (Half-Boiled Egg)",
+    "section": "flash sale"
+  },
+  {
+    "price": "49909",
+    "name": "Buy 1 Get 1 A",
+    "description": "Tahu Bumbu Garlic + Endog Burger Mayo",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "63545",
+    "name": "Buy 1 Get 1 B",
+    "description": "Nasi Ayam Sesame Mayo + Nasi Campur Crispy (sambal korek)",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "69909",
+    "name": "Buy 1 Get 1 C",
+    "description": "Fried Chicken Sambal Ijo + Nugget Crunchy Tartar",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "81727",
+    "name": "Buy 1 Get 1 D",
+    "description": "Mangkokku Beef Onsen  + Fried Chicken Sambal Korek",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "88091",
+    "name": "Buy 1 Get 1 E",
+    "description": "Mangkokku Beef Onsen  + Mangkokku Beef Onsen",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "80818",
+    "name": "Paket Cuan A",
+    "description": "Fried chicken sambal korek + Endog burger mayo + Tahu Bumbu Garlic",
+    "section": "cuan package"
+  },
+  {
+    "price": "93546",
+    "name": "Paket Cuan B",
+    "description": "Fried Chicken Sambal Ijo + Crispy Mixed Rice (Green Sambal) + Enddog Burger Mayo",
+    "section": "cuan package"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan C",
+    "description": "Sesame Chicken Rice + Fried Chicken Green Sambal + Rice Mixed Crispy (Rek Sambal)",
+    "section": "cuan package"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan D",
+    "description": "Mangkokku beef onsen + Fried chicken sambal ijo + Tahu Bumbu Garlic",
+    "section": "cuan package"
+  },
+  {
+    "price": "114455",
+    "name": "Paket Cuan E",
+    "description": "Mangkokku beef onsen + Fried chicken sambal korek + Nasi Ayam Sesame Mayo",
+    "section": "cuan package"
+  },
+  {
+    "price": "127181",
+    "name": "Cuan Berlima A",
+    "description": "5x Endog burger mayo",
+    "section": "paket cuan berlima"
+  },
+  {
+    "price": "127182",
+    "name": "Cuan Berlima B",
+    "description": "5x Tahu Bumbu Garlic",
+    "section": "paket cuan berlima"
+  },
+  {
+    "price": "172636",
+    "name": "Cuan Berlima C",
+    "description": "5x Fried chicken sambal korek",
+    "section": "paket cuan berlima"
+  },
+  {
+    "price": "172637",
+    "name": "Cuan Berlima D",
+    "description": "5x Nugget Crunchy tartar",
+    "section": "paket cuan berlima"
+  },
+  {
+    "price": "199909",
+    "name": "Cuan Berlima E",
+    "description": "5x Mangkokku beef onsen",
+    "section": "paket cuan berlima"
+  },
+  {
+    "price": "27181",
+    "name": "Snack Time A",
+    "description": "Melatea + Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "snacktime"
+  },
+  {
+    "price": "36272",
+    "name": "Snack Time B",
+    "description": "Lemonade van java + Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "snacktime"
+  },
+  {
+    "price": "39000",
+    "name": "Snack Time C",
+    "description": "Pistachio latte +Ala Carte Mangkokku Kulit Crispy (Small) atau Ala carte Tahu Crispy (8pcs) (pilih salah satu)",
+    "section": "snacktime"
+  },
+  {
+    "price": "27182",
+    "name": "Endog Burger Mayo",
+    "description": "Fluffy Rice, Burger Cutlets, Half Boiled Egg Omellete And Mayonnaise",
+    "section": "rice bowl"
+  },
+  {
+    "price": "31727",
+    "name": "Garlic Seasoned Tofu",
+    "description": "White Rice, Fried Tofu With Savory Garlic Seasoning, Fried Eggs",
+    "section": "rice bowl"
+  },
+  {
+    "price": "40818",
+    "name": "Nugget Crunchy Tartar",
+    "description": "Crispy Chicken Nugget Rice Bowl With Creamy Tartar Sauce And Soft Omu Egg.",
+    "section": "rice bowl"
+  },
+  {
+    "price": "36273",
+    "name": "Crispy Mixed Rice",
+    "description": "Fluffy Rice With A Mixture Of Crispy Skin, Crispy Tofu, Half Cooked Fried Egg And Sambal Of Green Sambal Or Korek Sambal",
+    "section": "rice bowl"
+  },
+  {
+    "price": "53545",
+    "name": "Fried Chicken With Sambal Ijo",
+    "description": "Pulen Rice, Savory Flour Chicken, Covered With Sambal Ijo And Half-Cooked Fried Eggs",
+    "section": "rice bowl"
+  },
+  {
+    "price": "53545",
+    "name": "Fried Chicken With Sambal Korek Bawang",
+    "description": "Pulen Rice, Savory Flour Chicken And Korek Sambal Korek Onions And Half Cooked Fried Eggs",
+    "section": "rice bowl"
+  },
+  {
+    "price": "53545",
+    "name": "Rice With Chicken Sesame Mayo",
+    "description": "Pulen Rice, Savory Flour Chicken, Covered With Sesame Sauce And Half-Cooked Fried Eggs",
+    "section": "rice bowl"
+  },
+  {
+    "price": "53636",
+    "name": "Nasi Ayam Tangkap Saus Tartar",
+    "description": "Ayam tangkap, telur ceplok setengah matang, gari ginger, and tartar sauce",
+    "section": "rice bowl"
+  },
+  {
+    "price": "59091",
+    "name": "Rujak Seasoned Chicken Rice",
+    "description": "3 Hours Slow Cooked Chicken, Mangkokku Kulit Crispy, And Bumbu Rujak",
+    "section": "rice bowl"
+  },
+  {
+    "price": "59000",
+    "name": "Beef With Sambal Korek",
+    "description": "Fluffy Rice, Us Beef Slices And Korek Sambal",
+    "section": "rice bowl"
+  },
+  {
+    "price": "59000",
+    "name": "Mangkokku Beef Onsen",
+    "description": "Fluffy Rice, Us Sliced Beef With Japanese Style Boiled Egg (Half-Boiled Egg)",
+    "section": "rice bowl"
+  },
+  {
+    "price": "59000",
+    "name": "Ommu Beef Mayo",
+    "description": "Fluffy Rice, Us Beef Slices, Soft-Boiled Egg Omelette And Mayonnaise",
+    "section": "rice bowl"
+  },
+  {
+    "price": "59091",
+    "name": "Nasi Ayam Ala Hainan",
+    "description": "Slow cooked chicken, mangkokku kulit crispy, crispy garlic, cherry tomato and hainan style sambal",
+    "section": "rice bowl"
+  },
+  {
+    "price": "13545",
+    "name": "Ala Carte Mangkokku Crispy Skin (Small)",
+    "description": "( Kulit Crispy Only )",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "24455",
+    "name": "Ala Carte Tofu Crispy (8 Pcs)",
+    "description": "Crispy Fried Tofu With Savory Spices That Make You Addicted",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "36273",
+    "name": "Ala Carte Mangkokku Crispy Skin (Large)",
+    "description": "( Kulit Crispy Only )",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "40909",
+    "name": "Ala Carte Mangkokku Baso Goreng (3Pcs)",
+    "description": "Crispy Fried Baso Inside With 3 Choices Of My Bowl Of Sauces",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "54545",
+    "name": "Ala Carte Fried Chicken With Sambal Korek",
+    "description": "Side Dish Only For Two (Chicken Only)",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "72636",
+    "name": "Ala Carte Beef Onion Sauce With Onsen Egg",
+    "description": "Side Dish Only For Two (Beef Only + 2 Onsen Eggs (Half-Boiled Japanese Style Egg)",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "72636",
+    "name": "Ala Carte Beef With Sambal Kowang",
+    "description": "Side Dish Only For Two (Beef Only + Korek Onion Sambal)",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "9000",
+    "name": "White Rice",
+    "description": "",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "9091",
+    "name": "Onsen Egg",
+    "description": "Half-Boiled Japanese Style Boiled Egg",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "10000",
+    "name": "Onion Chili Sauce",
+    "description": "",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "10909",
+    "name": "Burger Slice",
+    "description": "",
+    "section": "ala carte (lauk aja)"
+  },
+  {
+    "price": "18091",
+    "name": "Jasmine Nut",
+    "description": "Special Fragrant Fragrant Ice Tea Drink",
+    "section": "drink"
+  },
+  {
+    "price": "24455",
+    "name": "Nut Lemonade Van Java",
+    "description": "The Sweetness Of French Eggplant With Lemon Indonesian Original Tea",
+    "section": "drink"
+  },
+  {
+    "price": "18091",
+    "name": "Long Black Food",
+    "description": "A Mix Of Double Shot Of Pure Coffee And Mineral Water.",
+    "section": "drink"
+  },
+  {
+    "price": "30818",
+    "name": "Nut Pistachio Latte",
+    "description": "Coffee With Creamy Milk And Pistachio Peanut Syrup.",
+    "section": "drink"
+  },
+  {
+    "price": "63545",
+    "name": "Numinum Long Black Story 1 Liter",
+    "description": "A Mix Of Double Shot Of Pure Coffee And Mineral Water.",
+    "section": "drink"
+  },
+  {
+    "price": "69000",
+    "name": "Nut Lemonade Van Java 1 Liter",
+    "description": "The Sweetness Of French Eggplant With Lemon Indonesian Original Tea",
+    "section": "drink"
+  },
+  {
+    "price": "88091",
+    "name": "Nut Pistachio Latte 1 Liter",
+    "description": "Coffee With Creamy Milk And Pistachio Peanut Syrup.",
+    "section": "drink"
+  },
+  {
+    "price": "10909",
+    "name": "Mineral Water",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "4545",
+    "name": "Mangkokku Speech",
+    "description": "Write Your Order With Special Person",
+    "section": "mixed vegetables"
+  }
+]

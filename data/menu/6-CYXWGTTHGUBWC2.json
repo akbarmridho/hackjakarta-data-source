@@ -1,0 +1,351 @@
+[
+  {
+    "price": "13000",
+    "name": "BROWN SUGAR BOBA FRESH MILK REGULAR",
+    "description": "1 BROWN SUGAR BOBA FRESH MILK REGULAR",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Brown Sugar Boba Fresh Milk Large",
+    "description": "1 Brown Sugar Boba Fresh Milk Large",
+    "section": "today's offer"
+  },
+  {
+    "price": "16000",
+    "name": "Crunchy Signature Kakao Regular",
+    "description": "1 Crunchy Signature Sisao Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Crunchy Signature Kakao Large",
+    "description": "1 Crunchy Signature Sisao Large",
+    "section": "today's offer"
+  },
+  {
+    "price": "13000",
+    "name": "Signature Matcha Dalgona With Pudding Regular",
+    "description": "1 Signature Matcha Dalgona With Regular Pudding",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "Signature Matcha Dalgona With Pudding Large",
+    "description": "1 Signature Matcha Dalgona With Pudding Large",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "Salted Caramel Boba Fresh Milk Regular",
+    "description": "1 Salted Caramel Boba Fresh Milk Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "23000",
+    "name": "Salted Caramel Boba Fresh Milk Large",
+    "description": "1 Salted Caramel Boba Fresh Milk Large",
+    "section": "today's offer"
+  },
+  {
+    "price": "18000",
+    "name": "Brown Sugar Boba Fresh Milk Large",
+    "description": "1 Brown Sugar Boba Fresh Milk Large",
+    "section": "xiboba forever large"
+  },
+  {
+    "price": "20000",
+    "name": "Crunchy Signature Kakao Large",
+    "description": "1 Crunchy Signature Sisao Large",
+    "section": "xiboba forever large"
+  },
+  {
+    "price": "20000",
+    "name": "Signature Matcha Dalgona With Pudding Large",
+    "description": "1 Signature Matcha Dalgona With Pudding Large",
+    "section": "xiboba forever large"
+  },
+  {
+    "price": "23000",
+    "name": "Salted Caramel Boba Fresh Milk Large",
+    "description": "1 Salted Caramel Boba Fresh Milk Large",
+    "section": "xiboba forever large"
+  },
+  {
+    "price": "13000",
+    "name": "BROWN SUGAR BOBA FRESH MILK REGULAR",
+    "description": "1 BROWN SUGAR BOBA FRESH MILK REGULAR",
+    "section": "xiboba forever regular"
+  },
+  {
+    "price": "16000",
+    "name": "Crunchy Signature Kakao Regular",
+    "description": "1 Crunchy Signature Sisao Regular",
+    "section": "xiboba forever regular"
+  },
+  {
+    "price": "13000",
+    "name": "Signature Matcha Dalgona With Pudding Regular",
+    "description": "1 Signature Matcha Dalgona With Regular Pudding",
+    "section": "xiboba forever regular"
+  },
+  {
+    "price": "15000",
+    "name": "Salted Caramel Boba Fresh Milk Regular",
+    "description": "1 Salted Caramel Boba Fresh Milk Regular",
+    "section": "xiboba forever regular"
+  },
+  {
+    "price": "18000",
+    "name": "Brown Sugar Boba Fresh Milk",
+    "description": "",
+    "section": "the boba series"
+  },
+  {
+    "price": "20000",
+    "name": "Brown Sugar Boba Milk Tea",
+    "description": "",
+    "section": "the boba series"
+  },
+  {
+    "price": "20000",
+    "name": "Salted Caramel Boba Fresh Milk",
+    "description": "",
+    "section": "the boba series"
+  },
+  {
+    "price": "21000",
+    "name": "Brown Sugar Boba Coffee",
+    "description": "Espresso Combined With Pure Palm Sugar And Milk, Served With But Oca Pearl And Homemade Macchia Brulee",
+    "section": "the boba series"
+  },
+  {
+    "price": "17000",
+    "name": "Brown Sugar Grass Jelly Fresh Milk",
+    "description": "",
+    "section": "grass jelly series"
+  },
+  {
+    "price": "19000",
+    "name": "Salted Caramel Grass Jelly Fresh Milk",
+    "description": "",
+    "section": "grass jelly series"
+  },
+  {
+    "price": "21000",
+    "name": "Earl Grey Grass Jelly Milk Tea",
+    "description": "",
+    "section": "grass jelly series"
+  },
+  {
+    "price": "18000",
+    "name": "Brown Sugar Dalgona Boba",
+    "description": "",
+    "section": "dalgoba series"
+  },
+  {
+    "price": "21000",
+    "name": "Salted Caramel Dalgona Boba",
+    "description": "",
+    "section": "dalgoba series"
+  },
+  {
+    "price": "19000",
+    "name": "Signature Dalgona Boba",
+    "description": "",
+    "section": "dalgoba series"
+  },
+  {
+    "price": "16000",
+    "name": "Dirty Matcha Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "matcha dalgona series"
+  },
+  {
+    "price": "18000",
+    "name": "Signature Matcha Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "matcha dalgona series"
+  },
+  {
+    "price": "20000",
+    "name": "Sakura Matcha Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "matcha dalgona series"
+  },
+  {
+    "price": "21000",
+    "name": "Signature Biscoff Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "biscoff dalgona series x ldp"
+  },
+  {
+    "price": "22000",
+    "name": "Dirty Biscoff Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "biscoff dalgona series x ldp"
+  },
+  {
+    "price": "23000",
+    "name": "Salted Caramel Biscoff Dalgona With Hokkaido Milk Pudding",
+    "description": "",
+    "section": "biscoff dalgona series x ldp"
+  },
+  {
+    "price": "21000",
+    "name": "Crunchy Signature Kakao",
+    "description": "",
+    "section": "kakao series"
+  },
+  {
+    "price": "23000",
+    "name": "Crunchy Dirty Mokao",
+    "description": "",
+    "section": "kakao series"
+  },
+  {
+    "price": "8000",
+    "name": "Hot Americano",
+    "description": "Espresso Which Has Been Shaved With Hot Water",
+    "section": "xi kopi series"
+  },
+  {
+    "price": "10000",
+    "name": "Iced Americano",
+    "description": "Espresso Which Has Been Shaved With Water, Served With Ice",
+    "section": "xi kopi series"
+  },
+  {
+    "price": "13000",
+    "name": "Iced Coffee Latte",
+    "description": "Espresso Combined With Fresh Milk And Served With Ice",
+    "section": "xi kopi series"
+  },
+  {
+    "price": "13000",
+    "name": "Hot Brown Sugar Coffee Latte",
+    "description": "Espresso Combined With Pure Palm Sugar And Milk",
+    "section": "xi kopi series"
+  },
+  {
+    "price": "13000",
+    "name": "Iced Brown Sugar Coffee Latte",
+    "description": "Espresso Combined With Pure Palm Sugar And Milk, Served With Ice",
+    "section": "xi kopi series"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "Jasine Tea Combined With Sugar And Served With Ice",
+    "section": "xi iced tea series"
+  },
+  {
+    "price": "8000",
+    "name": "Lychee Iced Tea",
+    "description": "Lychee Flavored Jasa With Sugar And Served With Ice",
+    "section": "xi iced tea series"
+  },
+  {
+    "price": "8000",
+    "name": "Macchiato Iced Tea",
+    "description": "Jasine Tea Served With Homemade Macchiato Cream And Ice",
+    "section": "xi iced tea series"
+  },
+  {
+    "price": "11000",
+    "name": "Coffee Iced Tea",
+    "description": "Espresso Combined With Jasmine Tea And Sugar And Served With Ice",
+    "section": "xi iced tea series"
+  },
+  {
+    "price": "18000",
+    "name": "Mango Milk With Toppings",
+    "description": "New Drink From Xboba With A Combination Of Mango Flavor And Milk Served With A Variety Of Toppings (Boba, Pudding Mango And Mango Jelly)",
+    "section": "new menu"
+  },
+  {
+    "price": "22000",
+    "name": "Mango Matcha Milk With Toppings",
+    "description": "New Drink From Xboba With A Combination Of Mango Flavors And Premium Matcha Served With Various Choices Of Toppings (Bok Sambal/Hokkado Milk Pudding)",
+    "section": "new menu"
+  },
+  {
+    "price": "18000",
+    "name": "Mango Jasmine Tea With Toppings",
+    "description": "The Fresh Drink Of Mango Flavored Mango Combined With Various Choices Of Toppings (Boba/ Mango Jelly/Bobak Macchiato/ Mangoli Makchiato)",
+    "section": "new menu"
+  },
+  {
+    "price": "20000",
+    "name": "Iced Coffee Matcha",
+    "description": "Unique Coffee Combined With Premium Matcha From Xboba",
+    "section": "new menu"
+  },
+  {
+    "price": "24000",
+    "name": "Iced Coffee Matcha With Boba",
+    "description": "Unique Coffee Combined With Premium Matcha Served With Boba Topping",
+    "section": "new menu"
+  },
+  {
+    "price": "19000",
+    "name": "Brown Sugar Boba Sundae",
+    "description": "X Bo Ba Cream Plus Brown Sugar Boba With Choice Of Vanilla/Twist Ice Cream",
+    "section": "signature xiboba ice cream"
+  },
+  {
+    "price": "19000",
+    "name": "Signature Biscoff Sundae",
+    "description": "X Bo Ba Cream Plus Biscoff With A Choice Of Vanilla/Thigh/Twist Ice",
+    "section": "signature xiboba ice cream"
+  },
+  {
+    "price": "19000",
+    "name": "Salted Caramel Boba Sundae",
+    "description": "X Bo Ba Cream Ice Cream Plus Salted Caramel And Boba With Choice Of Vanilla Ice Cream/Thigh/Twist",
+    "section": "signature xiboba ice cream"
+  },
+  {
+    "price": "19000",
+    "name": "Crunchy Choco Boba Sundae",
+    "description": "X Bo Ba Cream Plus Crunchy Choco And Boba With Choice Of Vanilla Ice Cream/Thigh/Twist",
+    "section": "signature xiboba ice cream"
+  },
+  {
+    "price": "19000",
+    "name": "Mango Boba Sundae",
+    "description": "X Bo Ba Cream Plus Mango Jelly And Boba With Choice Of Vanilla/Thigh Ice Cream/Twist",
+    "section": "signature xiboba ice cream"
+  },
+  {
+    "price": "18000",
+    "name": "Xichocolate Signature",
+    "description": "",
+    "section": "xicoklat series"
+  },
+  {
+    "price": "20000",
+    "name": "Xichocolate Coffee",
+    "description": "",
+    "section": "xicoklat series"
+  },
+  {
+    "price": "22000",
+    "name": "Xichocolate Boba",
+    "description": "",
+    "section": "xicoklat series"
+  },
+  {
+    "price": "30000",
+    "name": "Croffle",
+    "description": "",
+    "section": "bobafle series"
+  },
+  {
+    "price": "37000",
+    "name": "Stainless Straw",
+    "description": "",
+    "section": "accessories"
+  },
+  { "price": "4500", "name": "Roti", "description": "", "section": "roti" }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "price": "16000",
+    "name": "Back To School 1",
+    "description": "1 Cream Soup + 1 Fanta Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "16000",
+    "name": "Back To School 2",
+    "description": "1 Spaghetti Deluxe + 1 Fanta Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "21500",
+    "name": "Back To School 3",
+    "description": "1 Twisty + 1 Fanta Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "21500",
+    "name": "Back To School 4",
+    "description": "1 Yakiniku Don + Fanta Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "40500",
+    "name": "Jagoan Hemat 1",
+    "description": "1 pc Chicken + 1 Rice + 1 Coca-Cola Medium",
+    "section": "hot deals"
+  },
+  {
+    "price": "53500",
+    "name": "Jagoan Hemat 2",
+    "description": "2 pcs Chicken + 1 Rice + 1 Coca-Cola Medium",
+    "section": "hot deals"
+  },
+  {
+    "price": "32000",
+    "name": "Jagoan Puas 1",
+    "description": "1 Rice + 1 Pc Chicken + 1 Coca-Cola Reguler",
+    "section": "hot deals"
+  },
+  {
+    "price": "32000",
+    "name": "Jagoan Puas 2",
+    "description": "1 Crispy Burger + 3 Pcs Chicken Ball + 1 Coca-Cola Reguler",
+    "section": "hot deals"
+  },
+  {
+    "price": "34000",
+    "name": "Paket Seru 1",
+    "description": "1 Pc Chicken + 1 Crispy Burger",
+    "section": "hot deals"
+  },
+  {
+    "price": "21500",
+    "name": "Paket Seru 2",
+    "description": "1 Spaghetty Delux + 1 Mocca Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "32000",
+    "name": "Paket Seru 3",
+    "description": "1 Fish Burger + 1 Mocca Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "23500",
+    "name": "Paket Seru 4",
+    "description": "1 Pc Chicken + 1 Rice",
+    "section": "hot deals"
+  },
+  {
+    "price": "17000",
+    "name": "Float Festive",
+    "description": "2 Buttercream Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "55500",
+    "name": "Burger Fest Colonel",
+    "description": "2 Colonel Burger + 1 Coca Cola Medium",
+    "section": "hot deals"
+  },
+  {
+    "price": "10500",
+    "name": "Macaroni Supreme",
+    "description": "Macaroni Supreme",
+    "section": "hot deals"
+  },
+  {
+    "price": "13000",
+    "name": "Cheese Macaroni Supreme",
+    "description": "Cheese Macaroni Supreme",
+    "section": "hot deals"
+  },
+  {
+    "price": "55000",
+    "name": "Super Komplit 1",
+    "description": "1 Crispy Burger + Half Winger + 1 French Fries Reg + 1 Coca-Cola reg.",
+    "section": "hot deals"
+  },
+  {
+    "price": "49000",
+    "name": "Super Komplit 2",
+    "description": "1 Pc Chicken + 1 Rice + 1 Cream Soup + 1 Mocha Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "54500",
+    "name": "Super Komplit 3",
+    "description": "1 Pc Chicken + 1 Rice + 1 porsi Chicken Strips + 1 Mocha Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "64000",
+    "name": "Super Komplit 4",
+    "description": "1 Pc Chicken + 1 Rice + 1 Colonel Burger + 1 Mocha Float",
+    "section": "hot deals"
+  },
+  {
+    "price": "139000",
+    "name": "Super Family",
+    "description": "5 Pcs Chicken + 3 Pcs Rice + 3 Coca Cola Medium",
+    "section": "hot deals"
+  },
+  {
+    "price": "46000",
+    "name": "Super Besar New 1",
+    "description": "1 Pcs Chicken + 1 Rice + 1 Coca Cola Medium + 1 Pcs KFC Soup",
+    "section": "hot deals"
+  },
+  {
+    "price": "61000",
+    "name": "Super Besar New 2",
+    "description": "2 Pcs Chicken + 1 Rice + 1 Coca Cola Medium + 1 Pc KFC Soup",
+    "section": "hot deals"
+  },
+  {
+    "price": "45000",
+    "name": "Hemat Berdua",
+    "description": "2pcs Chicken + 2 Rice + 2 Coca Cola pet 250ml (Potongan ayam mengikuti ketersediaan di store)",
+    "section": "hot deals"
+  },
+  {
+    "price": "18000",
+    "name": "Avocado Float",
+    "description": "Avocado Float",
+    "section": "new product"
+  },
+  {
+    "price": "22500",
+    "name": "Don Series With Egg",
+    "description": "1 porsi Don Series + 1 Egg",
+    "section": "new product"
+  },
+  {
+    "price": "56000",
+    "name": "Kombo OR Burger Single",
+    "description": "1 OR Burger Single + 1 French Fries Reguler + 1 Coca-Cola Reguler",
+    "section": "kombo"
+  },
+  {
+    "price": "67000",
+    "name": "Kombo OR Burger Double",
+    "description": "1 OR Burger Double + 1 French Fries Reguler + 1 Coca-Cola Reguler",
+    "section": "kombo"
+  },
+  {
+    "price": "58000",
+    "name": "Kombo Colonel Burger",
+    "description": "1 Colonel Burger + 1 French Fries Reguler + 1 Coca-Cola Reguler",
+    "section": "kombo"
+  },
+  {
+    "price": "44500",
+    "name": "Kombo Crispy Burger",
+    "description": "1 Crispy Burger + 1 French Fries Reguler + 1 Coca-Cola Reguler",
+    "section": "kombo"
+  },
+  {
+    "price": "50500",
+    "name": "Kombo Fish Burger",
+    "description": "1 Fish Burger + 1 French Fries Reguler + 1 Coca-Cola Reguler",
+    "section": "kombo"
+  },
+  {
+    "price": "15000",
+    "name": "Breakfast Combo 1",
+    "description": "1 Original Porridge + Hot Tea / Hot Coffee",
+    "section": "kombo"
+  },
+  {
+    "price": "23500",
+    "name": "Breakfast Combo 2",
+    "description": "1 Chicken Porridge + Hot Tea / Hot Coffee",
+    "section": "kombo"
+  },
+  {
+    "price": "39500",
+    "name": "Chaki Kids Meal A Dessert",
+    "description": "1pcs Chicken + 1 Rice + 1 Ovaltine +1 Puding",
+    "section": "chaki kids meal"
+  },
+  {
+    "price": "39500",
+    "name": "Chaki Kids Meal B Dessert",
+    "description": "1pcs Crispy Burger + 1 French Fries + 1 Ovaltine + 1 Puding",
+    "section": "chaki kids meal"
+  },
+  {
+    "price": "39500",
+    "name": "Chaki Kids Meal A",
+    "description": "1 Pc Chicken + 1 Rice + 1 Ovaltine 125 ml + Toys",
+    "section": "chaki kids meal"
+  },
+  {
+    "price": "39500",
+    "name": "Chaki Kids Meal B",
+    "description": "1 Crispy Burger + French Fries + Ovaltine 125 ml + Toys",
+    "section": "chaki kids meal"
+  },
+  {
+    "price": "179000",
+    "name": "9 Pcs Bucket",
+    "description": "9 Pcs Bucket",
+    "section": "kfc bucket"
+  },
+  {
+    "price": "92500",
+    "name": "Snack Bucket BBQ 1",
+    "description": "1 Porsi French Fries Large + 4 pcs Chicken Strips + 1 KFC Winger + 6 pcs Chicken Balls + Bumbu BBQ",
+    "section": "kfc bucket"
+  },
+  {
+    "price": "78500",
+    "name": "Snack Bucket BBQ 2",
+    "description": "1 Porsi French Fries Large + 2 pcs Chicken Strips + 1 KFC Winger + 6 pcs Chicken Balls + Bumbu BBQ",
+    "section": "kfc bucket"
+  },
+  {
+    "price": "97000",
+    "name": "Winger Bucket",
+    "description": "7 Pc Half Winger",
+    "section": "kfc bucket"
+  },
+  {
+    "price": "21500",
+    "name": "1 Pc Chicken",
+    "description": "1 Pc Chicken",
+    "section": "alacarte chicken"
+  },
+  {
+    "price": "21000",
+    "name": "Crispy Strips",
+    "description": "Crispy Strips",
+    "section": "alacarte chicken"
+  },
+  {
+    "price": "25500",
+    "name": "KFC Winger",
+    "description": "2 Wingette + 2 Drumette",
+    "section": "alacarte chicken"
+  },
+  {
+    "price": "31500",
+    "name": "OR Burger Single",
+    "description": "OR Burger Single",
+    "section": "alacarte"
+  },
+  {
+    "price": "16500",
+    "name": "Chick Ball Seasoning",
+    "description": "Chick Ball Seasoning",
+    "section": "alacarte"
+  },
+  {
+    "price": "29000",
+    "name": "Fun Fries",
+    "description": "Fun Fries",
+    "section": "alacarte"
+  },
+  {
+    "price": "42500",
+    "name": "OR Burger Double",
+    "description": "OR Burger Double",
+    "section": "alacarte"
+  },
+  {
+    "price": "33500",
+    "name": "Colonel Burger",
+    "description": "Colonel Burger",
+    "section": "alacarte"
+  },
+  {
+    "price": "29500",
+    "name": "Fish Burger",
+    "description": "Fish Burger",
+    "section": "alacarte"
+  },
+  {
+    "price": "23500",
+    "name": "Spaghetti Supreme",
+    "description": "Spaghetti Supreme",
+    "section": "alacarte"
+  },
+  {
+    "price": "21000",
+    "name": "Twisty",
+    "description": "Twisty",
+    "section": "alacarte"
+  },
+  {
+    "price": "22500",
+    "name": "French Fries Reguler",
+    "description": "French Fries Reguler",
+    "section": "alacarte"
+  },
+  {
+    "price": "28000",
+    "name": "French Fries Large",
+    "description": "French Fries Large",
+    "section": "alacarte"
+  },
+  {
+    "price": "11000",
+    "name": "Perkedel",
+    "description": "Perkedel",
+    "section": "alacarte"
+  },
+  {
+    "price": "11000",
+    "name": "Rice",
+    "description": "Rice",
+    "section": "alacarte"
+  },
+  {
+    "price": "5000",
+    "name": "Tote Bag",
+    "description": "1 pc Tote Bag/Kantong Ramah Lingkungan Cukup untuk 2 Bucket Besar KFC",
+    "section": "alacarte"
+  },
+  {
+    "price": "14500",
+    "name": "Cream Puff 1 Pcs",
+    "description": "Cream Puff 1 Pcs",
+    "section": "alacarte"
+  },
+  {
+    "price": "24500",
+    "name": "Cream Puff 2 Pcs",
+    "description": "Cream Puff 2 Pcs",
+    "section": "alacarte"
+  },
+  {
+    "price": "61500",
+    "name": "Cream Puff 5 Pcs",
+    "description": "Cream Puff 5 Pcs",
+    "section": "alacarte"
+  },
+  {
+    "price": "9500",
+    "name": "Pudding",
+    "description": "Pudding",
+    "section": "alacarte"
+  },
+  {
+    "price": "18000",
+    "name": "Chicken Skin",
+    "description": "Chicken Skin",
+    "section": "alacarte"
+  },
+  {
+    "price": "29000",
+    "name": "Winger Seasoning",
+    "description": "Winger Seasoning",
+    "section": "alacarte"
+  },
+  {
+    "price": "12500",
+    "name": "KFC Soup",
+    "description": "KFC Soup",
+    "section": "goceng +"
+  },
+  {
+    "price": "13500",
+    "name": "Mango Float",
+    "description": "Mango Float",
+    "section": "goceng +"
+  },
+  {
+    "price": "12500",
+    "name": "Cream Soup",
+    "description": "Cream Soup",
+    "section": "goceng +"
+  },
+  {
+    "price": "13000",
+    "name": "Spaghetti deluxe",
+    "description": "Spaghetti deluxe",
+    "section": "goceng +"
+  },
+  {
+    "price": "13000",
+    "name": "Alacarte Egg",
+    "description": "1 porsi Alacarte Egg",
+    "section": "goceng +"
+  },
+  {
+    "price": "18000",
+    "name": "Yakiniku Don",
+    "description": "1 Porsi Yakiniku Don",
+    "section": "goceng ++"
+  },
+  {
+    "price": "18500",
+    "name": "Crispy Burger",
+    "description": "Crispy Burger",
+    "section": "goceng ++"
+  },
+  {
+    "price": "18000",
+    "name": "Oriental Don",
+    "description": "1 Porsi Oriental Don",
+    "section": "goceng ++"
+  },
+  {
+    "price": "18000",
+    "name": "Mocha Float",
+    "description": "Mocha Float",
+    "section": "goceng ++"
+  },
+  {
+    "price": "18000",
+    "name": "Yubari Float",
+    "description": "Yubari Float",
+    "section": "goceng ++"
+  },
+  {
+    "price": "10000",
+    "name": "Mineral Water",
+    "description": "Mineral Water",
+    "section": "beverages"
+  },
+  {
+    "price": "13500",
+    "name": "Lovlychee Float",
+    "description": "Lovlychee Float",
+    "section": "beverages"
+  },
+  {
+    "price": "13500",
+    "name": "Coca Cola",
+    "description": "Coca-Cola",
+    "section": "beverages"
+  },
+  {
+    "price": "13500",
+    "name": "Sprite",
+    "description": "Sprite",
+    "section": "beverages"
+  },
+  {
+    "price": "13500",
+    "name": "Fanta",
+    "description": "Fanta",
+    "section": "beverages"
+  },
+  {
+    "price": "16000",
+    "name": "Pukis 2Pc",
+    "description": "2 pcs Pukis pilihan rasa",
+    "section": "dessert corner"
+  },
+  {
+    "price": "23500",
+    "name": "Pukis 3Pc",
+    "description": "3 pcs Pukis pilihan rasa",
+    "section": "dessert corner"
+  },
+  {
+    "price": "37500",
+    "name": "Pukis 5Pc",
+    "description": "5 pcs Pukis pilihan rasa",
+    "section": "dessert corner"
+  },
+  {
+    "price": "10000",
+    "name": "1pc Donut",
+    "description": "1pc Donut",
+    "section": "donut"
+  },
+  {
+    "price": "53500",
+    "name": "1/2dz Donut",
+    "description": "6 Pcs Donut",
+    "section": "donut"
+  },
+  {
+    "price": "30000",
+    "name": "Kombo Spesial Blended",
+    "description": "Kombo Spesial Blended",
+    "section": "promo kfc coffee"
+  },
+  {
+    "price": "20500",
+    "name": "Hot Cappucino",
+    "description": "Hot Cappucino",
+    "section": "hot beverage"
+  },
+  {
+    "price": "21000",
+    "name": "Hot Americano",
+    "description": "Hot Americano",
+    "section": "hot beverage"
+  },
+  {
+    "price": "22000",
+    "name": "Hot Cafe Latte",
+    "description": "Hot Cafe Latte",
+    "section": "hot beverage"
+  },
+  {
+    "price": "25000",
+    "name": "Hot Chocolate",
+    "description": "Hot Chocolate",
+    "section": "hot beverage"
+  },
+  {
+    "price": "10000",
+    "name": "Hot Tea",
+    "description": "Hot Tea",
+    "section": "hot beverage"
+  },
+  {
+    "price": "13500",
+    "name": "Espresso Con Panna",
+    "description": "Espresso Con Panna",
+    "section": "hot beverage"
+  },
+  {
+    "price": "14500",
+    "name": "Hazelnut Coffee",
+    "description": "Hazelnut Coffee",
+    "section": "hot beverage"
+  },
+  {
+    "price": "11000",
+    "name": "Single Espresso",
+    "description": "Single Espresso",
+    "section": "hot beverage"
+  },
+  {
+    "price": "17500",
+    "name": "Krusher Cookies N Cream",
+    "description": "Krusher Cookies N Cream",
+    "section": "krushers"
+  },
+  {
+    "price": "17500",
+    "name": "Krusher Double Chocolate",
+    "description": "Krusher Double Chocolate",
+    "section": "krushers"
+  },
+  {
+    "price": "18000",
+    "name": "Es Kopi Susu",
+    "description": "Es Kopi Susu",
+    "section": "cold beverage"
+  },
+  {
+    "price": "17000",
+    "name": "Ice Latte",
+    "description": "Ice Latte",
+    "section": "cold beverage"
+  },
+  {
+    "price": "16000",
+    "name": "Ice Lemon Tea",
+    "description": "Ice Lemon Tea",
+    "section": "cold beverage"
+  },
+  {
+    "price": "22000",
+    "name": "Ice Americano",
+    "description": "Ice Americano",
+    "section": "cold beverage"
+  },
+  {
+    "price": "27000",
+    "name": "Ice Blanded Cappucino",
+    "description": "Ice Blanded Cappucino",
+    "section": "ice blended"
+  },
+  {
+    "price": "29000",
+    "name": "Ice Blanded Chocolate",
+    "description": "Ice Blanded Chocolate",
+    "section": "ice blended"
+  }
+]

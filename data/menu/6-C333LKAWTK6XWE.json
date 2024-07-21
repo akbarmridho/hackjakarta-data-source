@@ -1,0 +1,506 @@
+[
+  {
+    "price": "262500",
+    "name": "Party Pack 3",
+    "description": "4 Crunchy Taco Supreme Beef, 2 Chickstar, 2 Nacho Fries, Pico De Galo, Kickin, Creamy Jalapeno",
+    "section": "hot deals"
+  },
+  {
+    "price": "157500",
+    "name": "Party Pack 2",
+    "description": "2 Grilled Stuff Burrito + 3 Chocodilla + 2 Cheesy Chips",
+    "section": "hot deals"
+  },
+  {
+    "price": "26000",
+    "name": "Kombo Fresh Bowl",
+    "description": "Fresh Bowl + Lemonade",
+    "section": "hot deals"
+  },
+  {
+    "price": "262500",
+    "name": "Party Pack 4",
+    "description": "2 Cheesy Burrito + 3 Naked Chicken Taco + 2 Nacho Fries + Pico De Galo + Kickin + Creamy Jalapeno",
+    "section": "hot deals"
+  },
+  {
+    "price": "26000",
+    "name": "Kombo Spicy Bowl",
+    "description": "Spicy Bowl + Lemonade",
+    "section": "hot deals"
+  },
+  {
+    "price": "26000",
+    "name": "Kombo Pico Bowl",
+    "description": "Pico Bowl + Lemonade",
+    "section": "hot deals"
+  },
+  {
+    "price": "5000",
+    "name": "Purple Bag",
+    "description": "Purple Bag",
+    "section": "hot deals"
+  },
+  {
+    "price": "157500",
+    "name": "Party Pack 1",
+    "description": "2 Chicken Quasadilla + 3 Cheesy Roll + 2 Cheesy Chips",
+    "section": "hot deals"
+  },
+  {
+    "price": "15500",
+    "name": "Mushroom Soup",
+    "description": "1 Cup Mushroom Soup",
+    "section": "new product"
+  },
+  {
+    "price": "36500",
+    "name": "Bell Rice Kebuli",
+    "description": "Seasoned Kebuli Rice, Protein (Ground Chicken/Beef), Sambal, Pico De Gallo, Lettuce, Nacho Chips",
+    "section": "new product"
+  },
+  {
+    "price": "42000",
+    "name": "Naked Chicken Chips With Cheese",
+    "description": "Naked Chicken Chips + Nacho Cheese",
+    "section": "new product"
+  },
+  {
+    "price": "81000",
+    "name": "Mexican Wings 8",
+    "description": "8 Pcs Mexican Wings",
+    "section": "new product"
+  },
+  {
+    "price": "47000",
+    "name": "Mexican Wings 4",
+    "description": "4 Pcs Mexican Wings",
+    "section": "new product"
+  },
+  {
+    "price": "26000",
+    "name": "Taco Rice Original",
+    "description": "Crunchy Taco, Mexican Rice, Protein, Sour Cream, Lettuce, Tomato",
+    "section": "new product"
+  },
+  {
+    "price": "47000",
+    "name": "Combo Taco Rice Original",
+    "description": "1 Taco Rice Original + 1 Nacho Chips + 1 Lemonade",
+    "section": "new product"
+  },
+  {
+    "price": "26000",
+    "name": "Taco Rice Cheese Lovers",
+    "description": "Crunchy Taco, Mexican Rice, Protein, Cheese Mix, Nacho Sauce",
+    "section": "new product"
+  },
+  {
+    "price": "47000",
+    "name": "Combo Taco Cheese Lovers",
+    "description": "1 Taco Rice Cheese + 1 Nacho Chips + 1 Lemonade",
+    "section": "new product"
+  },
+  {
+    "price": "79000",
+    "name": "Combo Naked Chicken Taco",
+    "description": "Naked Chicken Taco, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "73500",
+    "name": "Combo Chicken Quesadilla",
+    "description": "Chicken Quisadilla, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "73500",
+    "name": "Combo Kickin Chicken Taco",
+    "description": "Two Kickin Chicken Tac, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "63000",
+    "name": "Combo Cheese Quesadilla",
+    "description": "Quisadilla Cheese, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "63000",
+    "name": "Combo Crunchy Taco Supreme",
+    "description": "Two Crunchy Taco Supreme, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "63000",
+    "name": "Combo Soft Taco Supreme",
+    "description": "Two Soft Taco Supreme, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "58000",
+    "name": "Combo Crunchy Taco",
+    "description": "Two Crunchy Taco, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "58000",
+    "name": "Combo Soft Taco",
+    "description": "Two Soft Taco, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "63000",
+    "name": "Combo Grilled Stuft Buritto",
+    "description": "Grilled Stuffed Burrito, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "79000",
+    "name": "Combo Chessy Stuft Buritto",
+    "description": "Cheesy Burrito, Nacho Chips, Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "63000",
+    "name": "Combo Bell Rice Kebuli",
+    "description": "Bell Rice Kebuli + 2Pcs Chicken Wings + Lemonade",
+    "section": "meal"
+  },
+  {
+    "price": "21000",
+    "name": "Fresh Bowl",
+    "description": "Kebuli Rice + Protein + Lettuce + Tomatoes",
+    "section": "ala carte"
+  },
+  {
+    "price": "21000",
+    "name": "Spicy Bowl",
+    "description": "Kebuli Rice + Protein + Lettuce + Korek Sambal",
+    "section": "ala carte"
+  },
+  {
+    "price": "21000",
+    "name": "Pico Bowl",
+    "description": "Kebuli Rice + Protein + Chips + Pico De Galo",
+    "section": "ala carte"
+  },
+  {
+    "price": "42000",
+    "name": "Cheesy Burrito",
+    "description": "1 Cheesy Burrito",
+    "section": "ala carte"
+  },
+  {
+    "price": "42000",
+    "name": "Chicken Quesadilla",
+    "description": "Grilled Chicken, Creamy Jalapeno Sauce And Two Cheese Blend Melted Inside A Grilled Flour Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "63000",
+    "name": "2 Kickin' Chicken Tacos",
+    "description": "Crispy Chicken, Kickin' Sauce, Lettuce, Pico De Gallo Salsa And 2 Cheese Blend, Inside A Soft Flour Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "52500",
+    "name": "Chickstar",
+    "description": "A Star Shaped Wrap With Crispy Chicken, Lettuce, Pico De Gallo Salsa, Kickin' Sauce And Nacho Cheese Sauce.",
+    "section": "ala carte"
+  },
+  {
+    "price": "47000",
+    "name": "Naked Chicken Taco",
+    "description": "An All Chicken Taco Shell With Ranch Sauce, Lettuce, Tomatoes And Cheese",
+    "section": "ala carte"
+  },
+  {
+    "price": "52500",
+    "name": "Loaded Fries Medium",
+    "description": "Shareable Seasoned Fries Topped With Ground Chicken, Nacho Cheese Sauce, Ranch Sauce And Pico De Gallo Salsa (Medium Size)",
+    "section": "ala carte"
+  },
+  {
+    "price": "52500",
+    "name": "2 Crunchy Taco Supreme",
+    "description": "Seasoned Beef, Lettuce, Sour Cream, Hot Sauce, Tomatoes And Cheddar Cheese In A Crunchy Tortilla",
+    "section": "ala carte"
+  },
+  {
+    "price": "52500",
+    "name": "2 Soft Taco Supreme",
+    "description": "Seasoned Beef, Lettuce, Sour Cream, Hot Sauce, Tomatoes And Cheddar Cheese In A Soft Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "26000",
+    "name": "Crunchy Taco Supreme",
+    "description": "Seasoned Beef, Lettuce, Sour Cream, Hot Sauce, Tomatoes And Cheddar Cheese In A Crunchy Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "26000",
+    "name": "Soft Taco Supreme",
+    "description": "Seasoned Beef, Lettuce, Sour Cream, Hot Sauce, Tomatoes And Cheddar Cheese In A Soft Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "42000",
+    "name": "Grilled Stuft Burrito",
+    "description": "Grilled Chicken, Nacho Cheese Sauce, Lettuce, Pico De Gallo Salsa, Hot Sauce, Ranch Sauce And A 2 Cheese Blend, Wrapped Inside A Grilled Flour Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "26000",
+    "name": "Crunchy Taco",
+    "description": "Seasoned Chicken, Lettuce, Cheddar Cheese And Hot Sauce Inside A Crunchy Corn Taco Shell.",
+    "section": "ala carte"
+  },
+  {
+    "price": "26000",
+    "name": "Soft Taco",
+    "description": "Seasoned Chicken, Lettuce, Cheddar Cheese And Hot Sauce Inside A Soft Flour Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "31500",
+    "name": "Loaded Griller",
+    "description": "Ground Chicken, Nacho Cheese Sauce, Nacho Chips, Jalapeno Sauce, Wrapped Inside A Grilled Flour Tortilla.",
+    "section": "ala carte"
+  },
+  {
+    "price": "73500",
+    "name": "Loaded Fries",
+    "description": "Shareable Seasoned Fries Topped With Ground Chicken, Nacho Cheese Sauce, Ranch Sauce And Pico De Gallo Salsa.",
+    "section": "ala carte"
+  },
+  {
+    "price": "73500",
+    "name": "Loaded Nachos",
+    "description": "Shareable Seasoned Nacho Chips, Pico De Gallo Salsa, Sour Cream, Nacho Cheese Sauce And Seasoned Ground Chicken.",
+    "section": "ala carte"
+  },
+  {
+    "price": "79000",
+    "name": "Shareable Platter",
+    "description": "Cheese Quesadilla, Fries, 1 Naked Chicken Chips, Creamy Rans & Lava Sauce",
+    "section": "specialties"
+  },
+  {
+    "price": "8500",
+    "name": "Creamy Ranch",
+    "description": "Creamy Ranch",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Creamy Jalapeno",
+    "description": "Creamy Jalapeo?",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Nacho Cheese Sauce",
+    "description": "Nacho Cheese Sauce",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Sour Cream",
+    "description": "Sour Cream",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Pico De Gallo Salsa",
+    "description": "Pico De Gallo Salsa",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Kickin' Sauce",
+    "description": "Pickin' Sauce",
+    "section": "dips"
+  },
+  {
+    "price": "8500",
+    "name": "Avocado Guacamole",
+    "description": "Avocado Guacamole",
+    "section": "dips"
+  },
+  {
+    "price": "21000",
+    "name": "Sprite Float",
+    "description": "Sprite Float Series",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Lemonade",
+    "description": "Lemonade",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Cola Float",
+    "description": "Cola Float Series",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Fanta Float",
+    "description": "Fanta Float Series",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Cola Lemonade",
+    "description": "Cola Lemonade",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "21000",
+    "name": "Pink Lemonade",
+    "description": "Pink Lemonade",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "15500",
+    "name": "Coke",
+    "description": "Coke",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "15500",
+    "name": "Sprite",
+    "description": "Sprite",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "15500",
+    "name": "Fanta Strawberry",
+    "description": "Strawberry Rasa",
+    "section": "beverages - soft drinks"
+  },
+  {
+    "price": "10500",
+    "name": "Mineral Water",
+    "description": "Mineral Water 330 Ml",
+    "section": "beverages - others"
+  },
+  {
+    "price": "15500",
+    "name": "Cheesy Roll",
+    "description": "Cheesy Roll",
+    "section": "snacks"
+  },
+  {
+    "price": "26000",
+    "name": "Nacho Fries",
+    "description": "Seasoned Fries With Nacho Cheese Sauce",
+    "section": "snacks"
+  },
+  {
+    "price": "26000",
+    "name": "Cheesy Chips",
+    "description": "Seasoned Nacho Chips With Nacho Cheese Sauce",
+    "section": "snacks"
+  },
+  {
+    "price": "31500",
+    "name": "Cheese Quesadilla",
+    "description": "Creamy Jalapeno Sauce And Two Cheese Blend Melted Inside A Grilled Flour Tortilla.",
+    "section": "snacks"
+  },
+  {
+    "price": "26000",
+    "name": "Fries",
+    "description": "Seasoned Fries",
+    "section": "snacks"
+  },
+  {
+    "price": "10500",
+    "name": "Hot Tea",
+    "description": "1 Cup Hot Tea",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "15500",
+    "name": "Espresso",
+    "description": "1 Cup Of Espresso",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "15500",
+    "name": "Hot Americano",
+    "description": "1 Cup Hot Americano",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Hot Cafe Latte",
+    "description": "1 Cup Of Hot Caf Latte",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Hot Cappucino",
+    "description": "1 Cup Of Hot Cappuccino",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Hot Cafe Mocha",
+    "description": "1 Cup Hot Caf� Mocha",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "15500",
+    "name": "Hot Chocolate",
+    "description": "1 Cup Hot Chocolate",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "15500",
+    "name": "Iced Americano",
+    "description": "1 Cup Iced Americano",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Iced Cafe Latte",
+    "description": "1 Cup Of Iced Caf Latte",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "15500",
+    "name": "Iced Chocolate",
+    "description": "1 Cup Iced Chocolate",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Iced Mocha",
+    "description": "1 Cup Iced Mocha",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "26000",
+    "name": "English Breakfast Tea",
+    "description": "English Breakfast Tea",
+    "section": "beverages - coffee/tea"
+  },
+  {
+    "price": "21000",
+    "name": "Cinnamon Tostada",
+    "description": "Cinnamon Tostada",
+    "section": "dessert"
+  },
+  {
+    "price": "21000",
+    "name": "Chocodilla",
+    "description": "Chocodilla",
+    "section": "dessert"
+  }
+]

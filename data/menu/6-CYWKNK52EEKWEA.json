@@ -1,0 +1,236 @@
+[
+  {
+    "price": "8000",
+    "name": "Jeruk Panas",
+    "description": "Hot Oranges",
+    "section": "menu"
+  },
+  {
+    "price": "10000",
+    "name": "Es Jeruk",
+    "description": "Fresh Orange Ice",
+    "section": "menu"
+  },
+  {
+    "price": "12000",
+    "name": "Jus Jambu Biji",
+    "description": "Fresh Seed Juice",
+    "section": "menu"
+  },
+  {
+    "price": "14500",
+    "name": "Avocado Juice",
+    "description": "Fresh Avocado Juice",
+    "section": "menu"
+  },
+  {
+    "price": "22000",
+    "name": "Complete Meatballs",
+    "description": "Big Meatballs Small Meatballs Completed With Yellow Noodles, Vermicelli, Celery And Fried Onions",
+    "section": "menu"
+  },
+  {
+    "price": "19000",
+    "name": "Smooth Meatballs",
+    "description": "Soft Meatballs Completed With Yellow Noodles, Vermicelli, Fried Onions And Celery",
+    "section": "menu"
+  },
+  {
+    "price": "30000",
+    "name": "Spiced Fried Duck",
+    "description": "Soft Fried Duck, Savory Taste With Spices (Blm Including Rice)",
+    "section": "menu"
+  },
+  {
+    "price": "18000",
+    "name": "Spiced Fried Chicken",
+    "description": "Soft Spiced Fried Chicken With Savory Spices (Blm Including Rice)",
+    "section": "menu"
+  },
+  {
+    "price": "40000",
+    "name": "Sop Janda",
+    "description": "Soft, Fresh, Spicy And Sour Rib Soup",
+    "section": "menu"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "Fluffy White Rice Per Portion",
+    "section": "menu"
+  },
+  {
+    "price": "12000",
+    "name": "Duck Liver Gizzards",
+    "description": "Fried Liver Gizzard",
+    "section": "menu"
+  },
+  {
+    "price": "1200",
+    "name": "Duck Neck",
+    "description": "Savory Duck Neck",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Es Milo",
+    "description": "Milo Milk Special Taste Served Cold2",
+    "section": "menu"
+  },
+  {
+    "price": "15000",
+    "name": "Hot Milo",
+    "description": "Special Taste Of Sweet Milo Milk Delicious",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Hot Coffee Ori (Kopi Hitam Panas)",
+    "description": "Thai'S Signature Black Coffee Served With Great Hot Fragrant",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Vanilla Latte",
+    "description": "The Aroma Of Vanilla Is Combined With A Great Coffee",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Milky Lhycee",
+    "description": "Fresh Milk Combined With Special Lhycee Flavor Makes The Day2 Excited",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Hot Chocolate Banana",
+    "description": "Hot Drink Tastes Sweet And Soft Banana Chocolate",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Milo Coffee",
+    "description": "The Combination Of Thai Authentic Fragrant Thai Coffee Flavor With Abundant Milo Taste Makes Perfect Blends Like Many People",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Milky Vanilla",
+    "description": "The Combination Of Fresh And Fragrant Vanilla Milk Makes The Body More Fresh",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Vanilla Green Tea",
+    "description": "Thai Green Tea A Blend With Fragrant Vanillas, Sweet And Fresh",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Green Tea",
+    "description": "A Blend Of Ori Tea And Fresh Thai Green Tea And Healthy",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Ice Coffee Ori",
+    "description": "Yummy Fresh Thai Coffee Drinked Cold",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Ice Thai Coffee",
+    "description": "A Blend Of Thai Coffee And Milk, Fresh Coffee Taste Makes It Mouthful",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Tea Taro",
+    "description": "Taro Flavors Are Fresh Sweet And Trending Taste",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Green Tea Ori",
+    "description": "Thai Special Green Tea That Tastes Fresh Sweet And Is Served For Health",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Tea Choco Banana",
+    "description": "Thai Tea With Banana Chocolate Flavor, Fresh Sweet And Soft Taste Smooth Smeared",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Tea Choco Ori",
+    "description": "Thai Chocolate Flavor, Fresh Sweet Taste Makes Your Mouth Great",
+    "section": "menu"
+  },
+  {
+    "price": "18750",
+    "name": "Rachacha Thai Tea Ori",
+    "description": "Original Thai Tea Filling Which Tastes Really Freshly Thai Tea",
+    "section": "menu"
+  },
+  {
+    "price": "17500",
+    "name": "Mango Juice (Musiman)",
+    "description": "Fresh Mango Juice",
+    "section": "menu"
+  },
+  {
+    "price": "15000",
+    "name": "Singaporean Otak-Otak Jumbo Per Pieces",
+    "description": "Jumbo Sized Cassava, Savory, Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "12500",
+    "name": "Sosis Jumbo Per Pcs",
+    "description": "Savory Large Size Sausage Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "12500",
+    "name": "Egg Chicken Roll",
+    "description": "Egg Chicken Roll Gurih, Isi 3 Pcs Per Porsi",
+    "section": "menu"
+  },
+  {
+    "price": "11000",
+    "name": "Bakso Ikan Goreng",
+    "description": "Savory Fish Meatballs Contains 3 Pcs Per Portion, Completed With Mayonnaise Sambal Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "11000",
+    "name": "Fried Shrimp Meatballs",
+    "description": "Savory Shrimp Meatballs Contains 3 Pcs Per Portion, Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "11000",
+    "name": "Fish Cake Bulat Isi Ayam",
+    "description": "Round Fish Cake Filled With Savory Chicken 3 Pcs Per Portion, Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "10000",
+    "name": "Fish Cake Gepeng Jumbo",
+    "description": "Savory Flattened Fish Cake Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "5000",
+    "name": "Fish Roll (Harga Per Pcs)",
+    "description": "Savory Fish Roll, Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  },
+  {
+    "price": "12500",
+    "name": "French Fries (Kentang Goreng)",
+    "description": "French Fries Are Savory And Crispy, Completed With Mayonnaise Chili Sauce",
+    "section": "menu"
+  }
+]

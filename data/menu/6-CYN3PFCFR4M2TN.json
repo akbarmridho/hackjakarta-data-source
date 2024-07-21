@@ -1,0 +1,836 @@
+[
+  {
+    "price": "69000",
+    "name": "5Pc Ayam Crispy Chicken",
+    "description": "5 pcs Ayam. Resep Ayam Lebih Renyah dan Gurih.",
+    "section": "today's offer"
+  },
+  {
+    "price": "75000",
+    "name": "5Pc Ayam Crispy + 3 Rice",
+    "description": "5 pcs Ayam + 3 Nasi. Resep Ayam Lebih Renyah dan Gurih.",
+    "section": "today's offer"
+  },
+  {
+    "price": "33000",
+    "name": "1 Ayam Spicy 🌶️ + Nasi",
+    "description": "1 Ayam Spicy 🌶️ + Nasi [ 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯 ]",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "42000",
+    "name": "Cheese Whopper® Jr",
+    "description": "Cheese Whopper® Jr",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "33000",
+    "name": "1 Ayam Crispy + Nasi",
+    "description": "1 Ayam Crispy + Nasi [ 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯 ]",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "27000",
+    "name": "Fries Medium",
+    "description": "Fries Medium",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "32500",
+    "name": "Cheeseburger",
+    "description": "Cheeseburger",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Burger",
+    "description": "Chicken Burger",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "20999",
+    "name": "Super Float Coke",
+    "description": "Super Float Coke",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "29999",
+    "name": "BBQ Beef Burger",
+    "description": "",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "15500",
+    "name": "Cheesy Fries",
+    "description": "Cheesy Fries",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "28001",
+    "name": "Milo Float + Fries Regular",
+    "description": "Milo Float + Fries Regular",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "33501",
+    "name": "Beef Burger",
+    "description": "Beef Burger",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "33499",
+    "name": "Chicken Cheese Burger",
+    "description": "Chicken Cheese Burger Ala Carte",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "38999",
+    "name": "BOGO Sundae Kurma",
+    "description": "BOGO Sundae Kurma",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "15500",
+    "name": "King Saver Choco Pie",
+    "description": "Double Choco Pie",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "3500",
+    "name": "Add On Sambal Terasi",
+    "description": "Sambal Terasi",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "1000",
+    "name": "Add On Kremes",
+    "description": "Kremes",
+    "section": "king saver : semua menu @19k"
+  },
+  {
+    "price": "48000",
+    "name": "Blitz 2 Ayam Crispy",
+    "description": "2pc Ayam Crispy",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "40500",
+    "name": "Chicken Burger + Fries",
+    "description": "Chicken Burger + Fries Regular",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "49999",
+    "name": "Blitz 2 Chicken Burger",
+    "description": "2 Chicken Burger",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "36000",
+    "name": "Blitz 2 Ayam Mix",
+    "description": "1pc Ayam Crispy + 1pc Ayam Spicy 🌶️",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "49000",
+    "name": "Blitz Chicken Burger + 1 Ayam Crispy",
+    "description": "Chicken Burger + 1 Ayam Crispy [ 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯 ]",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "44000",
+    "name": "Blitz Mozzarella Cheeseburger",
+    "description": "Mozzarella Cheeseburger",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "42500",
+    "name": "Blitz Chicken Cheese Burger + Coke",
+    "description": "Chicken Cheese Burger + Coke Regular",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "41000",
+    "name": "Blitz 1Pcs Ayam Kremes Sambal Terasi + Rice",
+    "description": "Ramadhan Special - 1 Pc Ayam Kremes Sambal Terasi + Rice [ 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯 ]",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "44000",
+    "name": "Blitz 1 Ayam Spicy 🌶️ + 2 Nasi",
+    "description": "1 Ayam Spicy 🌶️ + 2 Nasi [ 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯 ]",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "43500",
+    "name": "Blitz BBQ Beef Rasher",
+    "description": "BBQ Beef Rasher",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "44000",
+    "name": "Blitz 1 Ayam Crispy + 2 Nasi",
+    "description": "1 Ayam Crispy + 2 Nasi",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "38000",
+    "name": "Blitz Cheeseburger Supreme",
+    "description": "Cheeseburger Supreme",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "33000",
+    "name": "Blitz Milo Dinosaur + Milo Cookies n Cream",
+    "description": "Milo Dinosaur dan Milo Cookies n Cream",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "42000",
+    "name": "Blitz Spicy Cheese Whopper® Jr🌶️",
+    "description": "Spicy Cheese Whopper® JR 🌶️",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "38000",
+    "name": "Blitz Royal Chicken Burger",
+    "description": "Royal Chicken Burger",
+    "section": "blitz: semua menu @ 25k"
+  },
+  {
+    "price": "44501",
+    "name": "King Paket! 1 Ayam Crispy",
+    "description": "1 Ayam Crispy + Nasi + Coke",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "44501",
+    "name": "King Paket! 1 Ayam Spicy",
+    "description": "1 Ayam Spicy + Nasi + Coke",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "36000",
+    "name": "King Paket! BBQ Burger",
+    "description": "BBQ Burger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "36000",
+    "name": "King Paket! Beef Burger",
+    "description": "Beef Burger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "36000",
+    "name": "King Paket! Cheesy Beef Burger",
+    "description": "Cheesy Beef Burger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "36000",
+    "name": "King Paket! Chicken Burger",
+    "description": "Chicken Burger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "48000",
+    "name": "King Paket! Cheeseburger",
+    "description": "Cheeseburger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "60500",
+    "name": "King Paket! Mozzarella Cheeseburger",
+    "description": "Mozzarella Cheeseburger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "55000",
+    "name": "King Paket! Cheeseburger Supreme",
+    "description": "Cheeseburger Supreme + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "55000",
+    "name": "King Paket! Royal Chicken Burger",
+    "description": "Royal Chicken Burger + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "60000",
+    "name": "King Paket! Cheese Whopper Jr",
+    "description": "Cheese Whopper Jr + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "60000",
+    "name": "King Paket! Spicy Cheese Whopper® Jr🌶️",
+    "description": "Spicy Cheese Whopper® Jr🌶️ + Regular Fries + Regular Drink",
+    "section": "king paket hemat @ 31.5k"
+  },
+  {
+    "price": "69000",
+    "name": "5Pc Ayam Crispy Chicken",
+    "description": "5 pcs Ayam. Resep Ayam Lebih Renyah dan Gurih.",
+    "section": "promo hari ini - 5 @69k"
+  },
+  {
+    "price": "75000",
+    "name": "5Pc Ayam Crispy + 3 Rice",
+    "description": "5 pcs Ayam + 3 Nasi. Resep Ayam Lebih Renyah dan Gurih.",
+    "section": "promo hari ini - 5 @69k"
+  },
+  {
+    "price": "134000",
+    "name": "2 Cheese Whopper® Jr + 2 Chicken Burger",
+    "description": "2 Cheese Whopper® Jr + 2 Chicken Burger",
+    "section": "promo hari ini - 5 @69k"
+  },
+  {
+    "price": "115000",
+    "name": "2 Cheeseburger + 2 Chicken Burger",
+    "description": "2 Cheeseburger + 2 Chicken Burger",
+    "section": "promo hari ini - 5 @69k"
+  },
+  {
+    "price": "111000",
+    "name": "2 Chicken Cheese Burger + 2 Chicken Burger",
+    "description": "2 Chicken Cheese Burger + 2 Chicken Burger",
+    "section": "promo hari ini - 5 @69k"
+  },
+  {
+    "price": "41500",
+    "name": "Paket 1Pcs Ayam Kremes Sambal Terasi",
+    "description": "1Pcs Ayam Kremes Sambal Terasi + Rice + Drink",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "63500",
+    "name": "Paket 2Pcs Ayam Kremes Sambal Terasi",
+    "description": "2Pcs Ayam Kremes Sambal Terasi + Rice + Drink",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "63500",
+    "name": "KingBox Ayam Kremes Sambal Terasi",
+    "description": "1Pcs Ayam Kremes Sambal Terasi + Cheeseburger + Rice + Drink",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "120500",
+    "name": "Paket Rame-Rame : Ayam Kremes Sambal Terasi",
+    "description": "1Pcs Ayam Kremes Sambal Terasi + 1Pcs Ayam Crispy + Cheese Whopper® JR + 2 Rice + Fries + 3 Jasmine Tea",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "33000",
+    "name": "1Pcs Ayam Kremes Sambal Terasi",
+    "description": "1Pcs Ayam Kremes Sambal Terasi",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "51000",
+    "name": "2Pcs Ayam Kremes Sambal Terasi",
+    "description": "2Pcs Ayam Kremes Sambal Terasi",
+    "section": "ayam kremes sambal terasi (limited time menu)"
+  },
+  {
+    "price": "72001",
+    "name": "Kids Meal Beef Burger + Mainan",
+    "description": "Kids Beef Burger + Fries + Ice Milo + Mainan ( Pilihan mainan tergantung pada ketersediaan toko )",
+    "section": "kids meal with toys"
+  },
+  {
+    "price": "72001",
+    "name": "Kids Meal Chicken Burger + Mainan",
+    "description": "Kids Chicken Burger + Fries + Ice Milo + Mainan ( Pilihan mainan tergantung pada ketersediaan toko )",
+    "section": "kids meal with toys"
+  },
+  {
+    "price": "66501",
+    "name": "Kids Meal Paket 1pc Ayam + Mainan",
+    "description": "1pc Ayam + Rice + Ice Milo + Mainan ( Pilihan mainan tergantung pada ketersediaan toko )",
+    "section": "kids meal with toys"
+  },
+  {
+    "price": "80000",
+    "name": "BOGO Paket 1Pc Ayam Crispy",
+    "description": "2Pc ayam+ 2 nasi + 2 coke regular. Resep ayam lebih renyah dan gurih.",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "184000",
+    "name": "Promo Paket 5Pc Ayam Crispy",
+    "description": "5Pc Ayam Crispy + 3 Rice + 3 Coke Regular",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "184000",
+    "name": "Promo Paket 5pc Ayam Mix",
+    "description": "3 pcs Ayam Crispy + 2 pcs Ayam Spicy + 3 Nasi + 3 Frestea Jasmine Tea",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "137000",
+    "name": "Combo Kenyang Burger",
+    "description": "Cheese Whopper®Jr + Cheeseburger + 2 Regular Coke + 2 King Fusion Cookies n Cream",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "82500",
+    "name": "Paket Cheese Whopper® Meal",
+    "description": "Cheese Whopper® + Fries + Drink",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "82500",
+    "name": "Paket Spicy Cheese Whopper®🌶️",
+    "description": "Spicy Cheese Whopper® + Fries + Drink",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "84500",
+    "name": "Paket Cheeseburger XL",
+    "description": "Cheeseburger XL + Fries + Drink",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "84500",
+    "name": "Paket Mozzarella Cheeseburger XL",
+    "description": "Mozzarella Cheeseburger XL + Fries + Coke",
+    "section": "#cokecombodeals ayam + burger"
+  },
+  {
+    "price": "43500",
+    "name": "Paket Crispy 1",
+    "description": "1 pc Ayam Crispy + Nasi + Coke Medium [ Rasa Baru, Enaknya sampe gigitan terakhir ! ] 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "43500",
+    "name": "Paket Spicy 1 🌶️",
+    "description": "1 pc Ayam Spicy + Nasi + Coke Medium 𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "62000",
+    "name": "Paket Crispy 2",
+    "description": "2 pcs Ayam Crispy + Nasi + Coke Medium [ Rasa Baru, Enaknya sampe gigitan terakhir ! ]",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "62000",
+    "name": "Paket Spicy 2 🌶️",
+    "description": "2 pcs Ayam Spicy + Nasi + Coke Medium",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "90000",
+    "name": "5 pcs Ayam Crispy",
+    "description": "5 pcs Ayam Crispy",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "90000",
+    "name": "5 pcs Ayam Spicy 🌶️",
+    "description": "5 pcs Ayam Spicy 🌶️",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "90000",
+    "name": "5 pcs Ayam Mix",
+    "description": "3 pcs Ayam Crispy + 2 pcs Ayam Spicy",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "24000",
+    "name": "1 Pc Ayam Crispy",
+    "description": "",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "18000",
+    "name": "1 pc Ayam Spicy 🌶️",
+    "description": "1 pc Ayam Spicy 🌶️",
+    "section": "king's chicken [ rasa baru ]"
+  },
+  {
+    "price": "100500",
+    "name": "Paket BBQ Angus Burger Medium",
+    "description": "BBQ Angus Burger + Fries Medium + Coke Medium",
+    "section": "gold collection"
+  },
+  {
+    "price": "111500",
+    "name": "King Box BBQ Angus Burger Medium",
+    "description": "BBQ Angus Burger + 1 pc Ayam + Nasi + Coke Medium",
+    "section": "gold collection"
+  },
+  {
+    "price": "84000",
+    "name": "BBQ Angus Burger",
+    "description": "BBQ Angus Burger Ala Carte 100% Australian angus patty dengan saus mayonaise dan special saus bbq, ditambah tomat, fresh lettuce, dan fried onion, beef rasher juga melty American cheese yang dibalut dengan multigrain brioche bun yang lembut",
+    "section": "gold collection"
+  },
+  {
+    "price": "100500",
+    "name": "Paket Cheese Lava Angus Burger Medium",
+    "description": "Cheese Lava Angus + Medium Fries + Medium Coke",
+    "section": "gold collection"
+  },
+  {
+    "price": "69000",
+    "name": "King Box Royal Chicken Regular",
+    "description": "Royal Chicken Burger + 1 pc Ayam + Nasi + Coke Regular",
+    "section": "king box deals"
+  },
+  {
+    "price": "69000",
+    "name": "King Box Cheeseburger Supreme",
+    "description": "Cheeseburger Supreme + 1 pc Ayam + Nasi + Coke Regular",
+    "section": "king box deals"
+  },
+  {
+    "price": "63500",
+    "name": "King Box Cheeseburger",
+    "description": "1 pc Ayam Crispy + Nasi + Cheeseburger + Regular Coke",
+    "section": "king box deals"
+  },
+  {
+    "price": "69000",
+    "name": "King Box Double Cheeseburger",
+    "description": "Double Cheeseburger + 1 pc Ayam + Nasi + Coke Regular",
+    "section": "king box deals"
+  },
+  {
+    "price": "75000",
+    "name": "King Box Mozzarella Cheeseburger",
+    "description": "Mozzarella Cheeseburger + 1 pc Ayam + Nasi + Coke Regular",
+    "section": "king box deals"
+  },
+  {
+    "price": "73000",
+    "name": "King Box Cheese Whopper® JR Medium",
+    "description": "Cheese Whopper® Jr + 1 pc Ayam + Nasi + Medium Drink",
+    "section": "king box deals"
+  },
+  {
+    "price": "73000",
+    "name": "King Box Spicy Cheese Whopper® JR 🌶️ Medium",
+    "description": "Spicy Cheese Whopper® Jr + 1 pc Ayam + Nasi + Medium Drink",
+    "section": "king box deals"
+  },
+  {
+    "price": "95000",
+    "name": "King Box Cheese Whopper® Medium",
+    "description": "Cheese Whopper® + 1 pc Ayam + Nasi + Medium Drink",
+    "section": "king box deals"
+  },
+  {
+    "price": "95000",
+    "name": "King Box Spicy Cheese Whopper® 🌶️",
+    "description": "Spicy Cheese Whopper® 🌶️ + 1 pc Ayam + Nasi + Coke Medium",
+    "section": "king box deals"
+  },
+  {
+    "price": "97000",
+    "name": "King Box Cheeseburger XL",
+    "description": "Cheeseburger XL + 1 pc Ayam + Nasi + Medium Coke",
+    "section": "king box deals"
+  },
+  {
+    "price": "97000",
+    "name": "King Box Mozzarella Cheeseburger XL",
+    "description": "Mozarella Cheeseburger XL + 1pc Ayam + Nasi + Medium Coke",
+    "section": "king box deals"
+  },
+  {
+    "price": "32500",
+    "name": "Cheeseburger",
+    "description": "100% daging sapi Australia juicy yang dipanggang sempurna dengan kesegaran acar, saus mustard, saus tomat, dan potongan keju yang gurih, serta dibungkus dengan roti bun panggang lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "43000",
+    "name": "Double Cheeseburger",
+    "description": "Double 100% daging sapi Australia juicy yang dipanggang sempurna dengan kesegaran acar, saus mustard, saus tomat, dan potongan keju yang gurih, serta dibungkus dengan roti bun panggang lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "44000",
+    "name": "Mozzarella Cheeseburger",
+    "description": "Juicy Flame-grilled Australian beef patty with Mozzarella cheese and cheese sauce",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "38000",
+    "name": "Cheeseburger Supreme",
+    "description": "100% daging sapi Australia juicy yang dipanggang sempurna dengan kesegaran acar, Beef Rasher, Saus mustard, saus tomat, dan potongan keju yang gurih, serta dibungkus dengan roti bun panggang lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "38000",
+    "name": "Royal Chicken Burger",
+    "description": "Chicken patty fillet juicy renyah tanpa MSG dengan daun selada fresh dan saus mayonnaise special, juga melty American cheese dibalut bun lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "42000",
+    "name": "Cheese Whopper® JR",
+    "description": "100% daging sapi Australian juicy yang dipanggang sempurna, dengan pickle renyah, daun selada dan tomat fresh, fried onion caramelize, dibalut mayonnaise dan ketchup, juga melty American cheese dan bun lembut bertabur wijen.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "45500",
+    "name": "Spicy Cheese Whopper® JR 🌶️",
+    "description": "Spicy Cheese Whopper®. 100% daging sapi Australian juicy yang dipanggang sempurna, dengan pickle renyah, daun selada dan tomat fresh, fried onion, dibalut mayonnaise dan saus bulgogi special, melty cheese dan bun lembut bertabur wijen.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "66000",
+    "name": "Cheese Whopper®",
+    "description": "100% daging sapi Australian juicy yang dipanggang sempurna, dengan pickle renyah, daun selada dan tomat fresh, fried onion caramelize, dibalut mayonnaise dan ketchup, juga melty American cheese dan bun lembut bertabur wijen.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "66000",
+    "name": "Spicy Cheese Whopper® 🌶️",
+    "description": "100% daging sapi Australian juicy yang dipanggang sempurna, dengan pickle renyah, daun selada dan tomat fresh, fried onion caramelize, dibalut mayonnaise dan saus bulgogi special, juga melty American cheese dan bun lembut bertabur wijen.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "68000",
+    "name": "Mozzarella Cheeseburger XL Burger",
+    "description": "Ukuran besar 100% daging sapi Australia juicy yang dipanggang sempurna dengan taburan keju Mozzarella dan potongan keju Swiss yang gurih, saus tomat dan saus keju, serta dibungkus dengan roti bun panggang lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "64000",
+    "name": "Cheeseburger XL",
+    "description": "Ukuran besar 100% daging sapi Australia juicy yang dipanggang sempurna dengan kesegaran acar, saus mustard, saus tomat, dan potongan keju yang gurih, serta dibungkus dengan roti bun panggang lembut.",
+    "section": "ala carte burger & cheese whopper®"
+  },
+  {
+    "price": "20500",
+    "name": "Fusion Kitkat®",
+    "description": "Es krim vanilla yang creamy di padukan dengan Kit Kat spread yang crunchy",
+    "section": "side & dessert"
+  },
+  {
+    "price": "22000",
+    "name": "Medium Fries",
+    "description": "Medium Fries",
+    "section": "side & dessert"
+  },
+  {
+    "price": "27000",
+    "name": "Fries Large",
+    "description": "Fries ukuran Large",
+    "section": "side & dessert"
+  },
+  {
+    "price": "15500",
+    "name": "Cheesy Fries",
+    "description": "Cheesy Fries ukuran Regular",
+    "section": "side & dessert"
+  },
+  {
+    "price": "10500",
+    "name": "Rice [ Nasi ]",
+    "description": "",
+    "section": "side & dessert"
+  },
+  {
+    "price": "15500",
+    "name": "King Fusion Cookies 'n Cream.",
+    "description": "Ice cream vanilla yang lembut dipadukan dengan Cookies crumble",
+    "section": "side & dessert"
+  },
+  {
+    "price": "15500",
+    "name": "Choco Pie",
+    "description": "Pie isi Coklat Double",
+    "section": "side & dessert"
+  },
+  {
+    "price": "16500",
+    "name": "Milo Dinosaur Regular",
+    "description": "Es Milo segar di padukan dengan ice cream vanilla dan Milo powder.",
+    "section": "side & dessert"
+  },
+  {
+    "price": "12000",
+    "name": "Regular Coke",
+    "description": "Regular Coke",
+    "section": "beverages"
+  },
+  {
+    "price": "20500",
+    "name": "Medium Coke",
+    "description": "Medium Coke",
+    "section": "beverages"
+  },
+  {
+    "price": "20500",
+    "name": "Medium Sprite",
+    "description": "Medium Sprite",
+    "section": "beverages"
+  },
+  {
+    "price": "20500",
+    "name": "Medium Fanta",
+    "description": "Medium Fanta",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Coke Large",
+    "description": "Coke Large",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Sprite Large",
+    "description": "Sprite Large",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Fanta Large",
+    "description": "Fanta Large",
+    "section": "beverages"
+  },
+  {
+    "price": "21000",
+    "name": "Super Float [Pilihan Rasa]",
+    "description": "Fanta/coke/ yang segar dengan toping es krim vanilla",
+    "section": "beverages"
+  },
+  {
+    "price": "16000",
+    "name": "Regular Ice Milo",
+    "description": "Regular Ice Milo",
+    "section": "beverages"
+  },
+  {
+    "price": "24000",
+    "name": "Medium Ice Milo",
+    "description": "Iced Chocolate",
+    "section": "beverages"
+  },
+  {
+    "price": "12000",
+    "name": "Regular Jasmine Tea",
+    "description": "Regular Jasmine Tea",
+    "section": "beverages"
+  },
+  {
+    "price": "21000",
+    "name": "Medium Jasmine Tea",
+    "description": "Medium Jasmine Tea",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Jasmine Tea Large",
+    "description": "Jasmine Tea Large",
+    "section": "beverages"
+  },
+  {
+    "price": "20500",
+    "name": "Medium Lemon Tea",
+    "description": "Medium Lemon Tea",
+    "section": "beverages"
+  },
+  {
+    "price": "22000",
+    "name": "Lemon Tea Large",
+    "description": "Lemon Tea Large",
+    "section": "beverages"
+  },
+  {
+    "price": "18000",
+    "name": "Ice Nescafe Vanilla Latte",
+    "description": "Iced Vanilla Latte",
+    "section": "beverages"
+  },
+  {
+    "price": "19000",
+    "name": "Iced Mango Peach",
+    "description": "Iced Mango Peach",
+    "section": "beverages"
+  },
+  {
+    "price": "44000",
+    "name": "Paket 1Pc Crispy Chicken Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "68500",
+    "name": "Paket 2Pc Crispy Chicken Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "109000",
+    "name": "King Box Cheese Whopper® Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "89001",
+    "name": "King Box Cheese Whopper® Jr Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "96500",
+    "name": "Paket Cheese Whopper® Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "76501",
+    "name": "Paket Cheese Whopper® Jr Cheese Dunk Medium",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "80000",
+    "name": "Cheese Whopper® Cheese Dunk",
+    "description": "Whopper disajikan dengan 1 cup cheese saus yang bercita rasa gurih dan autentik “real cheese\".",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "57500",
+    "name": "Cheese Whopper® Jr Cheese Dunk",
+    "description": "Whopper Jr disajikan dengan 1 cup cheese saus yang bercita rasa gurih dan autentik “real cheese”.",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "38500",
+    "name": "1Pc Crispy Chicken Cheese Dunk",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "62500",
+    "name": "2Pc Crispy Chicken Cheese Dunk",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "36000",
+    "name": "Fries Cheese Dunk",
+    "description": "",
+    "section": "new! cheese dunk"
+  },
+  {
+    "price": "14000",
+    "name": "Cheese Dunk Sauce",
+    "description": "",
+    "section": "new! cheese dunk"
+  }
+]

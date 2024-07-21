@@ -1,0 +1,351 @@
+[
+  {
+    "price": "2500",
+    "name": "Teh Tawar Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  { "price": "6250", "name": "S Tea", "description": "", "section": "minuman" },
+  {
+    "price": "12500",
+    "name": "Jeruk Panas",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6250",
+    "name": "Mineral Water '600Ml'",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Es Jeruk",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "22500",
+    "name": "Jeruk Murni",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "6250",
+    "name": "Teh Botol",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Teh Manis Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "3750",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "23750",
+    "name": "Chicken Noodles",
+    "description": "",
+    "section": "chicken noodle 'unit'"
+  },
+  {
+    "price": "30000",
+    "name": "Dumpling Chicken Noodles",
+    "description": "",
+    "section": "chicken noodle 'unit'"
+  },
+  {
+    "price": "30000",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "chicken noodle 'unit'"
+  },
+  {
+    "price": "30000",
+    "name": "Special Chicken Noodles",
+    "description": "",
+    "section": "chicken noodle 'unit'"
+  },
+  {
+    "price": "38750",
+    "name": "Bakmi Ayam Ceker",
+    "description": "",
+    "section": "chicken noodle 'unit'"
+  },
+  {
+    "price": "13750",
+    "name": "Chicken Noodles",
+    "description": "",
+    "section": "chicken noodles 'hasi portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Dumpling Chicken Noodles",
+    "description": "",
+    "section": "chicken noodles 'hasi portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "chicken noodles 'hasi portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Special Chicken Noodles",
+    "description": "",
+    "section": "chicken noodles 'hasi portion'"
+  },
+  {
+    "price": "37500",
+    "name": "Chicken Noodles",
+    "description": "",
+    "section": "bakmi ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Dumpling Chicken Noodles",
+    "description": "",
+    "section": "bakmi ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Meatball Chicken Noodles",
+    "description": "",
+    "section": "bakmi ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Special Chicken Noodles",
+    "description": "",
+    "section": "bakmi ayam 'jumbo'"
+  },
+  {
+    "price": "30000",
+    "name": "Dumpling Chicken Vermicelli",
+    "description": "",
+    "section": "a la carte chicken vermicelli"
+  },
+  {
+    "price": "30000",
+    "name": "Special Chicken Vermicelli",
+    "description": "",
+    "section": "a la carte chicken vermicelli"
+  },
+  {
+    "price": "23750",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "a la carte chicken vermicelli"
+  },
+  {
+    "price": "30000",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "a la carte chicken vermicelli"
+  },
+  {
+    "price": "25000",
+    "name": "Dumpling Chicken Vermicelli",
+    "description": "",
+    "section": "chicken vermicelli 'half portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Special Chicken Vermicelli",
+    "description": "",
+    "section": "chicken vermicelli 'half portion'"
+  },
+  {
+    "price": "13750",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "chicken vermicelli 'half portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "chicken vermicelli 'half portion'"
+  },
+  {
+    "price": "46250",
+    "name": "Dumpling Chicken Vermicelli",
+    "description": "",
+    "section": "jumbo's chicken vermicelli"
+  },
+  {
+    "price": "46250",
+    "name": "Special Chicken Vermicelli",
+    "description": "",
+    "section": "jumbo's chicken vermicelli"
+  },
+  {
+    "price": "37500",
+    "name": "Chicken Vermicelli",
+    "description": "",
+    "section": "jumbo's chicken vermicelli"
+  },
+  {
+    "price": "46250",
+    "name": "Meatball Chicken Vermicelli",
+    "description": "",
+    "section": "jumbo's chicken vermicelli"
+  },
+  {
+    "price": "23750",
+    "name": "Kwetiaw Chicken",
+    "description": "",
+    "section": "kwetiaw ayam 'per piece'"
+  },
+  {
+    "price": "30000",
+    "name": "Dumpling Chicken Kwetiaw",
+    "description": "",
+    "section": "kwetiaw ayam 'per piece'"
+  },
+  {
+    "price": "30000",
+    "name": "Kwetiaw Chicken Meatballs",
+    "description": "",
+    "section": "kwetiaw ayam 'per piece'"
+  },
+  {
+    "price": "30000",
+    "name": "Kwetiaw Ayam Spesial",
+    "description": "",
+    "section": "kwetiaw ayam 'per piece'"
+  },
+  {
+    "price": "38750",
+    "name": "Kwetiaw Ayam Ceker",
+    "description": "",
+    "section": "kwetiaw ayam 'per piece'"
+  },
+  {
+    "price": "13750",
+    "name": "Kwetiaw Chicken",
+    "description": "",
+    "section": "kwetiaw ayam 'hah portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Dumpling Chicken Kwetiaw",
+    "description": "",
+    "section": "kwetiaw ayam 'hah portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiaw Chicken Meatballs",
+    "description": "",
+    "section": "kwetiaw ayam 'hah portion'"
+  },
+  {
+    "price": "25000",
+    "name": "Kwetiaw Ayam Spesial",
+    "description": "",
+    "section": "kwetiaw ayam 'hah portion'"
+  },
+  {
+    "price": "37500",
+    "name": "Kwetiaw Chicken",
+    "description": "",
+    "section": "kwetiaw ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Dumpling Chicken Kwetiaw",
+    "description": "",
+    "section": "kwetiaw ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Kwetiaw Chicken Meatballs",
+    "description": "",
+    "section": "kwetiaw ayam 'jumbo'"
+  },
+  {
+    "price": "46250",
+    "name": "Kwetiaw Ayam Spesial",
+    "description": "",
+    "section": "kwetiaw ayam 'jumbo'"
+  },
+  {
+    "price": "13750",
+    "name": "Beef Meatball Soup",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "13750",
+    "name": "Meatball + Dumpling",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "13750",
+    "name": "Dumpling Soup",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "15000",
+    "name": "Meatball Dumplings + Chicken Feet",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "3750",
+    "name": "Fried Dumplings",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "22500",
+    "name": "Ceker Ayam '1 Porsi'",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "13750",
+    "name": "Chicken Feet 'Half Portion'",
+    "description": "",
+    "section": "beef meatballs 'sout of portion'"
+  },
+  {
+    "price": "27500",
+    "name": "Beef Meatball Soup",
+    "description": "",
+    "section": "beef meatballs 'unit"
+  },
+  {
+    "price": "27500",
+    "name": "Meatball + Dumpling",
+    "description": "",
+    "section": "beef meatballs 'unit"
+  },
+  {
+    "price": "25000",
+    "name": "Dumpling Soup",
+    "description": "",
+    "section": "beef meatballs 'unit"
+  },
+  {
+    "price": "33000",
+    "name": "Meatball Dumplings + Chicken Feet",
+    "description": "",
+    "section": "beef meatballs 'unit"
+  }
+]

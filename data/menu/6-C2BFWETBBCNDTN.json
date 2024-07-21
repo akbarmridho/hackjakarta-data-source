@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "22500",
+    "name": "Chicken Fried Rice Sweet Iced Tea",
+    "description": "Chicken Fried Rice Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Fried Noodle Sweet Iced Tea",
+    "description": "Chicken Fried Noodles Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Capcay Rice Sweet Iced Tea",
+    "description": "Capcay Rice Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Seafood Fried Rice Sweet Iced Tea",
+    "description": "Seafood Fried Rice Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "28000",
+    "name": "Seafood Crazy Fried Rice Sweet Iced Tea",
+    "description": "Seafood Crazy Fried Rice Sweet Ice Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Meatball + Omelet",
+    "section": "today's offer"
+  },
+  {
+    "price": "20274",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Super Great Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Seafood Crazy Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Crazy Sauce With Seafood Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Beef Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Beef Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Chicken Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Chicken Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Shrimp + Super Great Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Mawut Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Noodles + Super Great Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Chicken Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Chicken Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "20274",
+    "name": "Fried Rice With Meatballs",
+    "description": "Fried Rice + Scrambled Eggs + Delicious Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "20274",
+    "name": "Sausage Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Delicious Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Seafood Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Seafood + Super Great Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Seafood Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Seafood Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Squid Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Squid + Super Great Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Fried Rice With Black Pepper",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Beef",
+    "description": "Beef + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Squid",
+    "description": "Flour Fried Squid + Its Great Soy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Shrimp With Oyster Sauce",
+    "description": "Flour Fried Shrimp + Oyster Sauce Cooked With Our Special Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Chicken",
+    "description": "Flour Fried Chicken + Great Soy Sauce Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Water Spinach With Water",
+    "description": "Stir-Fried Kale Vegetables + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Stir Fried Beef",
+    "description": "Assorted Vegetables + Beef Cooked With Delicious Broth.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Beef Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Gravy Rice Noodle",
+    "description": "Boiled Vermicelli + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Beef Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Lo Noodles",
+    "description": "Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Noodle Soup",
+    "description": "Boiled Noodles + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Stir-Fried Kwetiau",
+    "description": "Fried Kwetiau Without Soy Sauce + Chicken + Meatballs + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "27404",
+    "name": "Crazy Fried Kwetiau",
+    "description": "Fried Kwetiau, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "27404",
+    "name": "Crazy Fried Rice Noodles",
+    "description": "Fried Vermicelli, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "I Fu Mie",
+    "description": "Crispy Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Fried Noodles",
+    "description": "Fried Noodles, Doused With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Flush Rice Noodles",
+    "description": "Fried Vermicelli Without Soy Sauce + Chicken + Meatballs + Various Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Gravy Kwetiau",
+    "description": "Boiled Kwetiau + Chicken + Vegetables + Egg And Meatballs",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Squid Tirame Sauce",
+    "description": "Flour Fried Squid + Oyster Sauce Cooked With Our Special Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "26040",
+    "name": "Deepfried Chicken",
+    "description": "Flour Fried Chicken + Mayonce + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Seafood",
+    "description": "Seafood + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Kuluyuk Squid",
+    "description": "Flour Fried Squid + Sweet And Sour Sauce + Various Vegetables.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Sweet Sour Squid",
+    "description": "Flour Fried Squid + Fresh Sweet And Sour Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Shrimp",
+    "description": "Fried Flour Shrimp + Great Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26040",
+    "name": "Flour Shrimp",
+    "description": "Flour Fried Shrimp + Mayonce + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Cah Cabbage",
+    "description": "Sauteed Cauliflower Beans + Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Squid With Cabbage",
+    "description": "Sauteed Cauliflower Beans + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Prawns Cah Kaleng",
+    "description": "Stir-Fried Kale Vegetables + Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Padang Sauce Squid",
+    "description": "Fried Squid + Savory Salty Padang Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Chicken",
+    "description": "Chicken + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Prawn Cah Young Corn",
+    "description": "Stir-Fried Young Vegetables + Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Shrimp",
+    "description": "Flour Fried Shrimp + The Spiciness Of The Great Rica-Rica Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Kuluyuk Shrimp",
+    "description": "Flour Fried Shrimp + Sweet And Sour Sauce + A Variety Of Vegetables.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Chicken",
+    "description": "Flour Fried Chicken + Great Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Padangnese Fried Chicken",
+    "description": "Flour Fried Chicken + Savory Salty Padang Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Young And Sour Squid",
+    "description": "Stir-Fried Young Vegetables + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Squid Cah Broccoli",
+    "description": "Sauteed Broccoli Vegetables + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Squid",
+    "description": "Flour Fried Squid + Great Butter Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Water Spinach",
+    "description": "Stir-Fried Kale Vegetables + Squid",
+    "section": "today's offer"
+  },
+  {
+    "price": "26040",
+    "name": "Fuyunghai",
+    "description": "Assorted Vegetables + Flour + Egg + Delicious Sweet And Sour Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Cah Broccoli",
+    "description": "Sauteed Broccoli Vegetables + Shrimp",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Chicken",
+    "description": "Flour Fried Chicken + The Spiciness Of Rica-Rica Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Prawns With Padang Sauce",
+    "description": "Fried Shrimp + Savory Salty Padang Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper",
+    "description": "Squid + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Shrimp",
+    "description": "Shrimp + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Shrimp",
+    "description": "Fried Flour Shrimp + Great Soy Sauce Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26040",
+    "name": "Sweet Sour Chicken",
+    "description": "Flour Fried Chicken + Fresh Sweet And Sour Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Squid",
+    "description": "Flour Fried Squid + The Spiciness Of Rica-Rica Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26040",
+    "name": "Flour Squid",
+    "description": "Flour Fried Squid + Mayonce + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28520",
+    "name": "Sweet And Sour Shrimp",
+    "description": "Flour Fried Shrimp + Fresh Sweet And Sour Sauce.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Sapo Tofu",
+    "description": "Tofu Japan + Various Vegetables + Savory Chicken Broth",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Gravy",
+    "description": "Assorted Vegetables + Chicken Cooked With Delicious Broth.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Capcay Kuah Seafood",
+    "description": "Assorted Vegetables + Seafood Cooked With Delicious Broth.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Stir Fried Capcay",
+    "description": "Stir-Fried Vegetables + Beef + Savory And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Soup",
+    "description": "Vegetable Soup + Delicious Chicken Broth",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Pak Coy Seafood",
+    "description": "Stir-Fried Pakcoy Vegetables + Seafood",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Seafood Tofu Sapo",
+    "description": "Tofu Japan + Various Vegetables + Savory Seafood Broth",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Capcay Goreng Seafood",
+    "description": "Stir-Fried Various Vegetables + Seafood + Savory And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Fried Capcay",
+    "description": "Stir-Fried Various Vegetables + Chicken + Savory And Delicious Meatballs.",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Beef Sapo Tofu",
+    "description": "Tofu Japan + Various Vegetables + Savory Beef Broth",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Pak Coy Chicken",
+    "description": "Stir-Fried Pakcoy Vegetables + Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Black Pepper Seafood Rice",
+    "description": "White Rice Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Black Pepper Squid Rice",
+    "description": "White Rice Doused In Black Pepper Squid That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "24180",
+    "name": "Rice With Black Pepper Sauce",
+    "description": "White Rice Doused In Black Pepper Sauce That Makes You Addicted",
+    "section": "today's offer"
+  },
+  {
+    "price": "32700",
+    "name": "Nasi goreng ayam",
+    "description": "nasi goreng yang dipadukan dengan irisan bakso dan ayam, dan sayuran dengan toping kerupuk dan acar yang enak.",
+    "section": "flashsale cuma 1000 only on grabfood"
+  },
+  {
+    "price": "22500",
+    "name": "Chicken Fried Rice Sweet Iced Tea",
+    "description": "Chicken Fried Rice Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "25000",
+    "name": "Chicken Fried Noodle Sweet Iced Tea",
+    "description": "Chicken Fried Noodles Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "28000",
+    "name": "Capcay Rice Sweet Iced Tea",
+    "description": "Capcay Rice Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "25000",
+    "name": "Seafood Fried Rice Sweet Iced Tea",
+    "description": "Seafood Fried Rice Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "28000",
+    "name": "Seafood Crazy Fried Rice Sweet Iced Tea",
+    "description": "Seafood Crazy Fried Rice Sweet Ice Tea",
+    "section": "paket hemat"
+  },
+  {
+    "price": "27466",
+    "name": "Special Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Meatball + Omelet",
+    "section": "fried rice"
+  },
+  {
+    "price": "20274",
+    "name": "Chicken Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Super Great Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Seafood Crazy Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Crazy Sauce With Seafood Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Beef Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Beef Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Chicken Fried Rice",
+    "description": "Fried Rice, Sprinkled With Great Gila Sauce With Chicken Topping + Meatballs + Sausage And Various Vegetables",
+    "section": "fried rice"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Shrimp + Super Great Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "fried rice"
+  },
+  {
+    "price": "21948",
+    "name": "Mawut Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Chicken + Noodles + Super Great Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Chicken Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Chicken Sauce That Makes You Addicted",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Black Pepper Sauce That Makes You Addicted",
+    "section": "fried rice"
+  },
+  {
+    "price": "20274",
+    "name": "Fried Rice With Meatballs",
+    "description": "Fried Rice + Scrambled Eggs + Delicious Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "20274",
+    "name": "Sausage Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Delicious Sausage",
+    "section": "fried rice"
+  },
+  {
+    "price": "24180",
+    "name": "Seafood Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Seafood + Super Great Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Black Pepper Seafood Fried Rice",
+    "description": "Fried Rice Without Soy Sauce Poured In Seafood Black Pepper Sauce That Makes You Addicted",
+    "section": "fried rice"
+  },
+  {
+    "price": "21948",
+    "name": "Squid Fried Rice",
+    "description": "Fried Rice + Scrambled Egg + Squid + Super Great Meatballs",
+    "section": "fried rice"
+  },
+  {
+    "price": "27466",
+    "name": "Fried Rice With Black Pepper",
+    "description": "Fried Rice Without Soy Sauce Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "fried rice"
+  },
+  {
+    "price": "24676",
+    "name": "Beef Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Gravy Rice Noodle",
+    "description": "Boiled Vermicelli + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Beef Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Beef And Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Lo Noodles",
+    "description": "Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Noodle Soup",
+    "description": "Boiled Noodles + Chicken + Various Vegetables + Egg And Meatballs",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Stir-Fried Kwetiau",
+    "description": "Fried Kwetiau Without Soy Sauce + Chicken + Meatballs + Various Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "27404",
+    "name": "Crazy Fried Kwetiau",
+    "description": "Fried Kwetiau, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Shrimp Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Shrimp And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Squid Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Squid And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "27404",
+    "name": "Crazy Fried Rice Noodles",
+    "description": "Fried Vermicelli, Drizzled With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "I Fu Mie",
+    "description": "Crispy Noodles That Are Poured In Chicken Broth + Meatballs + Various Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Chicken Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Delicious Chicken And Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Rice Noodles",
+    "description": "Fried Vermicelli + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "27466",
+    "name": "Crazy Fried Noodles",
+    "description": "Fried Noodles, Doused With A Variety Of Meatballs + Sausage + Chicken And A Variety Of Savory Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Flush Rice Noodles",
+    "description": "Fried Vermicelli Without Soy Sauce + Chicken + Meatballs + Various Vegetables",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Gravy Kwetiau",
+    "description": "Boiled Kwetiau + Chicken + Vegetables + Egg And Meatballs",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Seafood Fried Noodles",
+    "description": "Fried Noodles + Scrambled Egg + Vegetables + Seafood And Delicious Meatballs.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "24676",
+    "name": "Special Fried Kwetiau",
+    "description": "Fried Kwetiau + Scrambled Egg + Vegetables + Chicken + Meatballs + Omelet.",
+    "section": "noodle / rice noodle / kwetiaw"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Beef",
+    "description": "Beef + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Squid",
+    "description": "Flour Fried Squid + Its Great Soy Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Shrimp With Oyster Sauce",
+    "description": "Flour Fried Shrimp + Oyster Sauce Cooked With Our Special Spices",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Chicken",
+    "description": "Flour Fried Chicken + Great Soy Sauce Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Squid Tirame Sauce",
+    "description": "Flour Fried Squid + Oyster Sauce Cooked With Our Special Spices",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "26040",
+    "name": "Deepfried Chicken",
+    "description": "Flour Fried Chicken + Mayonce + Chili Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Seafood",
+    "description": "Seafood + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Kuluyuk Squid",
+    "description": "Flour Fried Squid + Sweet And Sour Sauce + Various Vegetables.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Sweet Sour Squid",
+    "description": "Flour Fried Squid + Fresh Sweet And Sour Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Shrimp",
+    "description": "Fried Flour Shrimp + Great Butter Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "26040",
+    "name": "Flour Shrimp",
+    "description": "Flour Fried Shrimp + Mayonce + Chili Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Cah Cabbage",
+    "description": "Sauteed Cauliflower Beans + Shrimp",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Squid With Cabbage",
+    "description": "Sauteed Cauliflower Beans + Squid",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Prawns Cah Kaleng",
+    "description": "Stir-Fried Kale Vegetables + Shrimp",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Padang Sauce Squid",
+    "description": "Fried Squid + Savory Salty Padang Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Chicken",
+    "description": "Chicken + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Prawn Cah Young Corn",
+    "description": "Stir-Fried Young Vegetables + Shrimp",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Shrimp",
+    "description": "Flour Fried Shrimp + The Spiciness Of The Great Rica-Rica Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Kuluyuk Shrimp",
+    "description": "Flour Fried Shrimp + Sweet And Sour Sauce + A Variety Of Vegetables.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Chicken",
+    "description": "Flour Fried Chicken + Great Butter Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Padangnese Fried Chicken",
+    "description": "Flour Fried Chicken + Savory Salty Padang Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Young And Sour Squid",
+    "description": "Stir-Fried Young Vegetables + Squid",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Squid Cah Broccoli",
+    "description": "Sauteed Broccoli Vegetables + Squid",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Butter Fried Squid",
+    "description": "Flour Fried Squid + Great Butter Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Water Spinach",
+    "description": "Stir-Fried Kale Vegetables + Squid",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "26040",
+    "name": "Fuyunghai",
+    "description": "Assorted Vegetables + Flour + Egg + Delicious Sweet And Sour Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Shrimp Cah Broccoli",
+    "description": "Sauteed Broccoli Vegetables + Shrimp",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Chicken",
+    "description": "Flour Fried Chicken + The Spiciness Of Rica-Rica Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Prawns With Padang Sauce",
+    "description": "Fried Shrimp + Savory Salty Padang Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper",
+    "description": "Squid + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Black Pepper Shrimp",
+    "description": "Shrimp + Various Vegetables + Meatballs + Spicy Black Pepper Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Soy Sauce Fried Shrimp",
+    "description": "Fried Flour Shrimp + Great Soy Sauce Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "26040",
+    "name": "Sweet Sour Chicken",
+    "description": "Flour Fried Chicken + Fresh Sweet And Sour Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Rica-Rica Fried Squid",
+    "description": "Flour Fried Squid + The Spiciness Of Rica-Rica Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "26040",
+    "name": "Flour Squid",
+    "description": "Flour Fried Squid + Mayonce + Sambal Sauce",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "28520",
+    "name": "Sweet And Sour Shrimp",
+    "description": "Flour Fried Shrimp + Fresh Sweet And Sour Sauce.",
+    "section": "chicken seafood"
+  },
+  {
+    "price": "21948",
+    "name": "Stirfried Water Spinach With Water",
+    "description": "Stir-Fried Kale Vegetables + Seafood",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Stir Fried Beef",
+    "description": "Assorted Vegetables + Beef Cooked With Delicious Broth.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Sapo Tofu",
+    "description": "Tofu Japan + Various Vegetables + Savory Chicken Broth",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Gravy",
+    "description": "Assorted Vegetables + Chicken Cooked With Delicious Broth.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Capcay Kuah Seafood",
+    "description": "Assorted Vegetables + Seafood Cooked With Delicious Broth.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Stir Fried Capcay",
+    "description": "Stir-Fried Vegetables + Beef + Savory And Delicious Meatballs.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Soup",
+    "description": "Vegetable Soup + Delicious Chicken Broth",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Pak Coy Seafood",
+    "description": "Stir-Fried Pakcoy Vegetables + Seafood",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Seafood Tofu Sapo",
+    "description": "Tofu Japan + Various Vegetables + Savory Seafood Broth",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Capcay Goreng Seafood",
+    "description": "Stir-Fried Various Vegetables + Seafood + Savory And Delicious Meatballs.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Chicken Fried Capcay",
+    "description": "Stir-Fried Various Vegetables + Chicken + Savory And Delicious Meatballs.",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Beef Sapo Tofu",
+    "description": "Tofu Japan + Various Vegetables + Savory Beef Broth",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Pak Coy Chicken",
+    "description": "Stir-Fried Pakcoy Vegetables + Chicken",
+    "section": "vegetables"
+  },
+  {
+    "price": "24180",
+    "name": "Black Pepper Seafood Rice",
+    "description": "White Rice Doused With Black Pepper Sauce That Makes You Addicted",
+    "section": "black pepper rice"
+  },
+  {
+    "price": "24180",
+    "name": "Black Pepper Squid Rice",
+    "description": "White Rice Doused In Black Pepper Squid That Makes You Addicted",
+    "section": "black pepper rice"
+  }
+]

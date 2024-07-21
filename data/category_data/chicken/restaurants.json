@@ -1,180 +1,102 @@
 [
-    {
-        "name": "Ayam Penyet Dan Nasi Bebek Suramadu - Kebon Kelapa",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-dan-nasi-bebek-suramadu-kebon-kelapa-delivery/6-C2XWTUMUTT2JRN?"
-    },
-    {
-        "name": "Nasi Bebek Idaman 88 Khas Madura - Kebon Kacang",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-idaman-88-khas-madura-kebon-kacang-delivery/6-C22TL2JHKA4TJA?"
-    },
-    {
-        "name": "KFC - Prapatan Tugu Tani",
-        "tags": [
-            "Chicken",
-            "Fast Food",
-            "International"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea?"
-    },
-    {
-        "name": "NASI BEBEK&AYAM BAKAR IBU MUSLIAH GAMBIR - Gambir",
-        "tags": [
-            "Chicken",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-ayam-bakar-ibu-musliah-gambir-gambir-delivery/6-C3LFNYXXDBX3PA?"
-    },
-    {
-        "name": "Nasi Goreng Seafood Bos RT - Kebon Sirih",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Noodles"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?"
-    },
-    {
-        "name": "RM Sederhana (SA) - Juanda",
-        "tags": [
-            "Chicken",
-            "Padang",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-juanda-delivery/6-CYV3LN5FBEJBNT?"
-    },
-    {
-        "name": "Nasi Bebek Serundeng Cak Sadik - Petojo Selatan",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-serundeng-cak-sadik-petojo-selatan-delivery/6-C2BKEY52JTNUHE?"
-    },
-    {
-        "name": "Gurame & Nasi Timbel Putri Ayu - Petojo Selatan",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gurame-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CZC1FFTARGAVWA?"
-    },
-    {
-        "name": "Solaria - Sarinah Jakarta",
-        "tags": [
-            "Indonesian",
-            "Rice",
-            "Seafood"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/solaria-sarinah-jakarta-delivery/6-C4JYKCKBE3N2J2?"
-    },
-    {
-        "name": "Pondok Sibungsu - Kh. Wahid Hasyim",
-        "tags": [
-            "Chinese",
-            "Seafood",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?"
-    },
-    {
-        "name": "Ayam Bakar Geprek Ibu May - Kebon Sirih",
-        "tags": [
-            "Chicken",
-            "Bakso & Soto"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?"
-    },
-    {
-        "name": "Dapur Sunda Kuningan Bu May - Kebon Sirih",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/dapur-sunda-kuningan-bu-may-kebon-sirih-delivery/6-C2KWVAEDNTAZAJ?"
-    },
-    {
-        "name": "Burger King - Cideng Jakarta",
-        "tags": [
-            "Chicken",
-            "Fast Food",
-            "International"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?"
-    },
-    {
-        "name": "Nasi Uduk Ayam Tulang Lunak Waroeng Pak Eddy - Kebon Sirih",
-        "tags": [
-            "Chicken",
-            "Beverages",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?"
-    },
-    {
-        "name": "Nasi Bebek Bumbu Hitam Bu Maya khas. Madura - Kebon Sirih",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-bumbu-hitam-bu-maya-khas-madura-kebon-sirih-delivery/6-C4LGRXKYT7JBGX?"
-    },
-    {
-        "name": "Ayam Bang Dava, Nasi Geprek & Popcorn - Kemayoran",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Fast Food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-bang-dava-nasi-geprek-popcorn-kemayoran-delivery/6-C4JFC4MHNKKJAX?"
-    },
-    {
-        "name": "Gurame Bakar & Nasi Timbel Putri Ayu - Petojo Selatan",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Indonesian"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CYLBC7VTDGJZNT?"
-    },
-    {
-        "name": "Pagi Sore Malam Masakan Padang - DapurHub Thamrin",
-        "tags": [
-            "Chicken",
-            "Padang",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/pagi-sore-malam-masakan-padang-dapurhub-thamrin-delivery/6-C3MGPCDHKCLGUE?"
-    },
-    {
-        "name": "SeIndonesia (Sei Sapi dan Ayam) - Lakuliner Thamrin",
-        "tags": [
-            "Chicken",
-            "Rice",
-            "Fast Food"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/seindonesia-sei-sapi-dan-ayam-lakuliner-thamrin-delivery/6-C3V1JP4AGE6EAA?"
-    },
-    {
-        "name": "Ayam Goreng Bakar Aulia - Senen",
-        "tags": [
-            "Chicken",
-            "Indonesian",
-            "Rice"
-        ],
-        "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bakar-aulia-senen-delivery/6-C2XFE74CVPW3PE?"
-    }
+  {
+    "name": "Ayam Penyet Dan Nasi Bebek Suramadu - Kebon Kelapa",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-penyet-dan-nasi-bebek-suramadu-kebon-kelapa-delivery/6-C2XWTUMUTT2JRN?"
+  },
+  {
+    "name": "Nasi Bebek Idaman 88 Khas Madura - Kebon Kacang",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-idaman-88-khas-madura-kebon-kacang-delivery/6-C22TL2JHKA4TJA?"
+  },
+  {
+    "name": "KFC - Prapatan Tugu Tani",
+    "tags": ["Chicken", "Fast Food", "International"],
+    "link": "https://food.grab.com/id/en/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea?"
+  },
+  {
+    "name": "NASI BEBEK&AYAM BAKAR IBU MUSLIAH GAMBIR - Gambir",
+    "tags": ["Chicken", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-ayam-bakar-ibu-musliah-gambir-gambir-delivery/6-C3LFNYXXDBX3PA?"
+  },
+  {
+    "name": "Nasi Goreng Seafood Bos RT - Kebon Sirih",
+    "tags": ["Chicken", "Rice", "Noodles"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?"
+  },
+  {
+    "name": "RM Sederhana (SA) - Juanda",
+    "tags": ["Chicken", "Padang", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/rm-sederhana-sa-juanda-delivery/6-CYV3LN5FBEJBNT?"
+  },
+  {
+    "name": "Nasi Bebek Serundeng Cak Sadik - Petojo Selatan",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-serundeng-cak-sadik-petojo-selatan-delivery/6-C2BKEY52JTNUHE?"
+  },
+  {
+    "name": "Gurame & Nasi Timbel Putri Ayu - Petojo Selatan",
+    "tags": ["Chicken", "Rice", "Seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/gurame-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CZC1FFTARGAVWA?"
+  },
+  {
+    "name": "Solaria - Sarinah Jakarta",
+    "tags": ["Indonesian", "Rice", "Seafood"],
+    "link": "https://food.grab.com/id/en/restaurant/solaria-sarinah-jakarta-delivery/6-C4JYKCKBE3N2J2?"
+  },
+  {
+    "name": "Pondok Sibungsu - Kh. Wahid Hasyim",
+    "tags": ["Chinese", "Seafood", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?"
+  },
+  {
+    "name": "Ayam Bakar Geprek Ibu May - Kebon Sirih",
+    "tags": ["Chicken", "Bakso & Soto"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?"
+  },
+  {
+    "name": "Dapur Sunda Kuningan Bu May - Kebon Sirih",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/dapur-sunda-kuningan-bu-may-kebon-sirih-delivery/6-C2KWVAEDNTAZAJ?"
+  },
+  {
+    "name": "Burger King - Cideng Jakarta",
+    "tags": ["Chicken", "Fast Food", "International"],
+    "link": "https://food.grab.com/id/en/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?"
+  },
+  {
+    "name": "Nasi Uduk Ayam Tulang Lunak Waroeng Pak Eddy - Kebon Sirih",
+    "tags": ["Chicken", "Beverages", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?"
+  },
+  {
+    "name": "Nasi Bebek Bumbu Hitam Bu Maya khas. Madura - Kebon Sirih",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/nasi-bebek-bumbu-hitam-bu-maya-khas-madura-kebon-sirih-delivery/6-C4LGRXKYT7JBGX?"
+  },
+  {
+    "name": "Ayam Bang Dava, Nasi Geprek & Popcorn - Kemayoran",
+    "tags": ["Chicken", "Rice", "Fast Food"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-bang-dava-nasi-geprek-popcorn-kemayoran-delivery/6-C4JFC4MHNKKJAX?"
+  },
+  {
+    "name": "Gurame Bakar & Nasi Timbel Putri Ayu - Petojo Selatan",
+    "tags": ["Chicken", "Rice", "Indonesian"],
+    "link": "https://food.grab.com/id/en/restaurant/gurame-bakar-nasi-timbel-putri-ayu-petojo-selatan-delivery/6-CYLBC7VTDGJZNT?"
+  },
+  {
+    "name": "Pagi Sore Malam Masakan Padang - DapurHub Thamrin",
+    "tags": ["Chicken", "Padang", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/pagi-sore-malam-masakan-padang-dapurhub-thamrin-delivery/6-C3MGPCDHKCLGUE?"
+  },
+  {
+    "name": "SeIndonesia (Sei Sapi dan Ayam) - Lakuliner Thamrin",
+    "tags": ["Chicken", "Rice", "Fast Food"],
+    "link": "https://food.grab.com/id/en/restaurant/seindonesia-sei-sapi-dan-ayam-lakuliner-thamrin-delivery/6-C3V1JP4AGE6EAA?"
+  },
+  {
+    "name": "Ayam Goreng Bakar Aulia - Senen",
+    "tags": ["Chicken", "Indonesian", "Rice"],
+    "link": "https://food.grab.com/id/en/restaurant/ayam-goreng-bakar-aulia-senen-delivery/6-C2XFE74CVPW3PE?"
+  }
 ]

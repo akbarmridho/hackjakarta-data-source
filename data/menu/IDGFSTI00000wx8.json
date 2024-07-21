@@ -1,0 +1,482 @@
+[
+  {
+    "price": "78000",
+    "name": "Cheap Durian 1",
+    "description": "3 Dum Dum Thai Tea",
+    "section": "today's offer"
+  },
+  {
+    "price": "78000",
+    "name": "Cheap 2",
+    "description": "3 Dum Dum Thai Coffee",
+    "section": "today's offer"
+  },
+  {
+    "price": "82000",
+    "name": "Cheap 3",
+    "description": "1 Green Tea , 1 Coffee Milo , 1 Dark Chocolate",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Original Thai Tea (Small)",
+    "description": "",
+    "section": "small cup"
+  },
+  {
+    "price": "26000",
+    "name": "Thai Green Tea (Small)",
+    "description": "",
+    "section": "small cup"
+  },
+  {
+    "price": "25000",
+    "name": "Thai Coffee (Small)",
+    "description": "",
+    "section": "small cup"
+  },
+  {
+    "price": "26000",
+    "name": "Milo Coffee (Small)",
+    "description": "",
+    "section": "small cup"
+  },
+  {
+    "price": "27000",
+    "name": "Dark Chocolate (Small)",
+    "description": "",
+    "section": "small cup"
+  },
+  {
+    "price": "30000",
+    "name": "Dumdum Aren Thai Coffee",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "28000",
+    "name": "Dumdum Thai Coffee",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "25000",
+    "name": "Dumdum Thai Black Coffee",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "29000",
+    "name": "Dumdum Milo Coffee",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "30000",
+    "name": "Thai Coffee Caramel",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "29000",
+    "name": "Thai Coffee Mocca",
+    "description": "",
+    "section": "thai coffee series"
+  },
+  {
+    "price": "28000",
+    "name": "Thai Coffee",
+    "description": "Beli Thai Coffee Series, Diskon 50% Small Cup Rp.28000",
+    "section": "promo thai coffee series"
+  },
+  {
+    "price": "30000",
+    "name": "Thai Coffee Caramel",
+    "description": "Beli Thai Coffee Series, Diskon 50% Small Cup Rp.30000",
+    "section": "promo thai coffee series"
+  },
+  {
+    "price": "30000",
+    "name": "Aren Thai Coffee",
+    "description": "Beli Thai Coffee Series, Diskon 50% Small Cup Rp.30000",
+    "section": "promo thai coffee series"
+  },
+  {
+    "price": "29000",
+    "name": "Thai Coffee Moca",
+    "description": "Beli Thai Coffee Series, Diskon 50% Small Cup Rp.29000",
+    "section": "promo thai coffee series"
+  },
+  {
+    "price": "27000",
+    "name": "Passion Fruit Black Tea",
+    "description": "",
+    "section": "passion fruit"
+  },
+  {
+    "price": "27000",
+    "name": "Passion Fruit Green Tea",
+    "description": "",
+    "section": "passion fruit"
+  },
+  {
+    "price": "30000",
+    "name": "Passion Fruit Black Tea With Konjac Balls",
+    "description": "",
+    "section": "passion fruit"
+  },
+  {
+    "price": "30000",
+    "name": "Passion Fruit Green Tea With Konjac Balls",
+    "description": "",
+    "section": "passion fruit"
+  },
+  {
+    "price": "78000",
+    "name": "Cheap Durian 1",
+    "description": "3 Dum Dum Thai Tea",
+    "section": "cheap durian"
+  },
+  {
+    "price": "78000",
+    "name": "Cheap 2",
+    "description": "3 Dum Dum Thai Coffee",
+    "section": "cheap durian"
+  },
+  {
+    "price": "82000",
+    "name": "Cheap 3",
+    "description": "1 Green Tea , 1 Coffee Milo , 1 Dark Chocolate",
+    "section": "cheap durian"
+  },
+  {
+    "price": "26000",
+    "name": "Lychee Tea",
+    "description": "",
+    "section": "lychee series"
+  },
+  {
+    "price": "28000",
+    "name": "Lychee Yakult Tea",
+    "description": "",
+    "section": "lychee series"
+  },
+  {
+    "price": "27000",
+    "name": "Lychee Strawberry Tea",
+    "description": "",
+    "section": "lychee series"
+  },
+  {
+    "price": "30000",
+    "name": "Dumilo Original",
+    "description": "",
+    "section": "milo"
+  },
+  {
+    "price": "30000",
+    "name": "Dumilo Dinosaur",
+    "description": "",
+    "section": "milo"
+  },
+  {
+    "price": "31000",
+    "name": "Dumilo Caramel",
+    "description": "",
+    "section": "milo"
+  },
+  {
+    "price": "24000",
+    "name": "Dumdum Thai Black Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "33000",
+    "name": "Dumdum Honey Lime Black Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "26000",
+    "name": "Dumdum Thai Lime Black Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "30000",
+    "name": "Dumdum Aren Thai Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "28000",
+    "name": "Dumdum Thai Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "34000",
+    "name": "Roasted Thai Tea Special Topping",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "28000",
+    "name": "Roasted Thai Tea",
+    "description": "",
+    "section": "thai tea"
+  },
+  {
+    "price": "27000",
+    "name": "Dumdum Thai Lime Green Tea",
+    "description": "",
+    "section": "green tea"
+  },
+  {
+    "price": "34000",
+    "name": "Dumdum Honey Lime Green Tea",
+    "description": "",
+    "section": "green tea"
+  },
+  {
+    "price": "31000",
+    "name": "Dumdum Aren Green Tea",
+    "description": "",
+    "section": "green tea"
+  },
+  {
+    "price": "29000",
+    "name": "Dumdum Thai Green Tea",
+    "description": "",
+    "section": "green tea"
+  },
+  {
+    "price": "30000",
+    "name": "Dumdum Dark Chocolate",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "30000",
+    "name": "Dumdum Hazelnut Chocolate",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "29000",
+    "name": "Hot Dumdum Dark Chocolate",
+    "description": "",
+    "section": "hot chocolate"
+  },
+  {
+    "price": "29000",
+    "name": "Hot Dumdum Hazelnut Chocolate",
+    "description": "",
+    "section": "hot chocolate"
+  },
+  {
+    "price": "24000",
+    "name": "Hot Dumdum Thai Black Coffee",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "27000",
+    "name": "Hot Dumdum Thai Coffee",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "28000",
+    "name": "Hot Dumdum Milo Coffee",
+    "description": "",
+    "section": "hot coffee"
+  },
+  {
+    "price": "25000",
+    "name": "Hot Dumdum Thai Lime Black Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "26000",
+    "name": "Hot Dumdum Thai Lime Green Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "28000",
+    "name": "Hot Dumdum Thai Green Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "23000",
+    "name": "Hot Dumdum Thai Black Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "32000",
+    "name": "Hot Dumdum Honey Lime Black Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "33000",
+    "name": "Hot Dumdum Honey Lime Green Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "27000",
+    "name": "Hot Dumdum Thai Tea",
+    "description": "",
+    "section": "hot tea"
+  },
+  {
+    "price": "94000",
+    "name": "Bottled Dum Dum Coffee Aren",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "92000",
+    "name": "Bottled Dum Dum Milo Coffee",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "94000",
+    "name": "Bottled Dum Dum Dark Chocolate",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "94000",
+    "name": "Bottled Dum Dum Thai Tea Aren",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "94000",
+    "name": "Bottled Dum Dum Green Tea Aren",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "89000",
+    "name": "Bottled Dum Dum Thai Tea",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "92000",
+    "name": "Bottled Dum Dum Green Tea",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "89000",
+    "name": "Bottled Dum Dum Thai Coffee",
+    "description": "",
+    "section": "bottled 1 litre"
+  },
+  {
+    "price": "31000",
+    "name": "Chocolate Caramel",
+    "description": "",
+    "section": "dumdum dark chocolate"
+  },
+  {
+    "price": "32000",
+    "name": "Thai Tea Original + Packaging Barbie",
+    "description": "",
+    "section": "barbie series"
+  },
+  {
+    "price": "33000",
+    "name": "Dreamy Berry Milk Tea",
+    "description": "",
+    "section": "barbie series"
+  },
+  {
+    "price": "30000",
+    "name": "Chocolate Strawberry",
+    "description": "",
+    "section": "strawberry in love"
+  },
+  {
+    "price": "29000",
+    "name": "Strawberry Thai Tea",
+    "description": "",
+    "section": "strawberry in love"
+  },
+  {
+    "price": "26000",
+    "name": "Strawberry Tea",
+    "description": "",
+    "section": "strawberry in love"
+  },
+  {
+    "price": "27000",
+    "name": "Milo Nut Coffee Macchiato + Dumboba",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "27000",
+    "name": "Mocha Macchiato + Dumboba",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "22000",
+    "name": "Black Tea Macchiato",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "24000",
+    "name": "Chocolate Macchiato",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "25000",
+    "name": "Thai Coffee Macchiato Aren + Dumboba",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "25000",
+    "name": "Thai Tea Macchiato Aren + Dumboba",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "26000",
+    "name": "Thai Green Tea Macchiato Aren + Dumboba",
+    "description": "",
+    "section": "dumboba series"
+  },
+  {
+    "price": "27000",
+    "name": "Milo Coffee Biscoff Macchiato",
+    "description": "",
+    "section": "biscoff macchiato series"
+  },
+  {
+    "price": "27000",
+    "name": "Dark Chocolate Biscoff Macchiato",
+    "description": "",
+    "section": "biscoff macchiato series"
+  },
+  {
+    "price": "26000",
+    "name": "Thai Tea Biscoff Macchiato",
+    "description": "",
+    "section": "biscoff macchiato series"
+  }
+]

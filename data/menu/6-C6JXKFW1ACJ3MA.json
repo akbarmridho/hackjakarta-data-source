@@ -1,0 +1,194 @@
+[
+  {
+    "price": "124200",
+    "name": "Enampiller",
+    "description": "Darmi Almond M @2Cup + Darmi Cookies M @2Cup + Darmi Mocca M @2Cup",
+    "section": "today's offer"
+  },
+  {
+    "price": "63000",
+    "name": "Happy For Three",
+    "description": "Darmi Cookies M + Darmi Vanilla M + Darmi Almond M",
+    "section": "today's offer"
+  },
+  {
+    "price": "124200",
+    "name": "Enampiller",
+    "description": "Darmi Almond M @2Cup + Darmi Cookies M @2Cup + Darmi Mocca M @2Cup",
+    "section": "promo bundling"
+  },
+  {
+    "price": "94000",
+    "name": "Four Friends",
+    "description": "Darmi Almond M @2Cup + Darmi Chocolate M @2Cup",
+    "section": "promo bundling"
+  },
+  {
+    "price": "63000",
+    "name": "Happy For Three",
+    "description": "Darmi Cookies M + Darmi Vanilla M + Darmi Almond M",
+    "section": "promo bundling"
+  },
+  {
+    "price": "44000",
+    "name": "Nyusu Dua",
+    "description": "Darmi Vanilla M + Darmi Cookies M",
+    "section": "promo bundling"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Cookies",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan oreo dan gula alami membuat harimu semakin ceria",
+    "section": "favorite si mbok"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Regal",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan biskuit regal dan gula alami yang dapat menjadi minuman pelepas dahagamu",
+    "section": "favorite si mbok"
+  },
+  {
+    "price": "21000",
+    "name": "Darmi Strawberry",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan buah strawberry dan gula alami pasti lebih enak",
+    "section": "favorite si mbok"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Greentea",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa greentea dan gula alami yang dapat menyegarkan tenggorokanmu",
+    "section": "favorite cucu"
+  },
+  {
+    "price": "18000",
+    "name": "Darmi Vanilla",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa vanilla dan gula alami yang dapat memanjakan lidahmu",
+    "section": "favorite cucu"
+  },
+  {
+    "price": "18000",
+    "name": "Darmi Chocolate",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa coklat dan gula alami membuat harimu semakin berwarna",
+    "section": "favorite cucu"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Taro",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa taro dan gula alami. Yang nggak doyan susu aja bisa ketagihan!",
+    "section": "darmi special"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Greentea",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa greentea dan gula alami yang dapat menyegarkan tenggorokanmu",
+    "section": "darmi special"
+  },
+  {
+    "price": "18000",
+    "name": "Darmi Vanilla",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa vanilla dan gula alami yang dapat memanjakan lidahmu",
+    "section": "darmi special"
+  },
+  {
+    "price": "18000",
+    "name": "Darmi Chocolate",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa coklat dan gula alami membuat harimu semakin berwarna",
+    "section": "darmi special"
+  },
+  {
+    "price": "17000",
+    "name": "Darmi Grape",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa anggur dan gula alami yang dapat menghilangkan dahaga",
+    "section": "darmi special"
+  },
+  {
+    "price": "17000",
+    "name": "Darmi Mocca",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan rasa moka dan gula alami membuat tubuhmu semakin segar",
+    "section": "darmi special"
+  },
+  {
+    "price": "14000",
+    "name": "Darmi Plain",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan gula alami yang nggak bikin kantong kosong!",
+    "section": "darmi special"
+  },
+  {
+    "price": "24000",
+    "name": "Darmi Teh Tarik",
+    "description": "Susu Sapi Pasteurisasi berpadu dengan Teh Tarik yang khas yang semakin memunculkan Cita Rasa Indonesia",
+    "section": "darmi premium"
+  },
+  {
+    "price": "22000",
+    "name": "Darmi Cadbury",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan cokelat cadburry dan gula alami. Selamat tinggal penat!",
+    "section": "darmi premium"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Cookies",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan oreo dan gula alami membuat harimu semakin ceria",
+    "section": "darmi premium"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Cheese",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan keju dan gula alami menambah semangat menjalani aktivitas",
+    "section": "darmi premium"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Regal",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan biskuit regal dan gula alami yang dapat menjadi minuman pelepas dahagamu",
+    "section": "darmi premium"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Choco Oat",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan oat choco dan gula alami yang dapat dijadikan mood boostermu",
+    "section": "darmi premium"
+  },
+  {
+    "price": "24000",
+    "name": "Darmi Mango",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan potongan buah manggga dan gula alami yang membuat harimu semakin menyenangkan",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "23000",
+    "name": "Darmi Almond",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan kacang almond dan gula alami yang membuat harimu tidak akan biasa lagi",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "22000",
+    "name": "Darmi Lychee",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan buah leci dan gula alami membuat tubuhmu semakin sehat",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "21000",
+    "name": "Darmi Strawberry",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan buah strawberry dan gula alami pasti lebih enak",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "21000",
+    "name": "Darmi Banana",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan buah pisang dan gula alami yang mengeyangkan",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "20000",
+    "name": "Darmi Melon",
+    "description": "Susu sapi pasteurisasi ditambahkan dengan buah melon dan gula alami yang menyehatkan",
+    "section": "darmi fresh"
+  },
+  {
+    "price": "23000",
+    "name": "Dates Juice",
+    "description": "Paste Seasoned Milk Combined With Real Grma And Natural Sugar, The Sweetness Does Not Run Out-Proof!",
+    "section": "menu seasonal"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "price": "40000",
+    "name": "Indomie With Egg And Cashew Level 3",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "35000",
+    "name": "Indomie + Egg Ketoprak",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "33000",
+    "name": "Special Indomie Ketoprak",
+    "description": "",
+    "section": "combo deals diskon 25%"
+  },
+  {
+    "price": "28000",
+    "name": "Ketoprak Telor Dadar",
+    "description": "Ketoprak Served With Selected Quality Spices",
+    "section": "happy hours jajan malam"
+  },
+  {
+    "price": "28000",
+    "name": "Ketoprak Sunny Side Up Eggs",
+    "description": "Ketoprak Served With Selected Quality Spices",
+    "section": "ketoprak"
+  },
+  {
+    "price": "28000",
+    "name": "Boiled Egg Ketoprak",
+    "description": "Ketoprak Served With Selected Quality Spices",
+    "section": "ketoprak"
+  },
+  {
+    "price": "23000",
+    "name": "Ketoprak Special Without Eggs",
+    "description": "Ketoprak Served With Selected Quality Spices",
+    "section": "ketoprak"
+  },
+  {
+    "price": "29000",
+    "name": "Duck Egg Ketoprak",
+    "description": "Ketoprak + Duck Eggs Served With Selected Spices",
+    "section": "ketoprak"
+  },
+  {
+    "price": "43000",
+    "name": "Level 2 Cashew Egg Ketoprak",
+    "description": "50% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "35000",
+    "name": "Level 3 Cashew Egg Ketoprak",
+    "description": "35% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "35000",
+    "name": "Level 2 Cashew Nut Ketoprak",
+    "description": "50% Cashews Mixed With Selected Peanuts And Guaranteed The Quality",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "44000",
+    "name": "Indomie With Egg And Cashew Level 2",
+    "description": "50% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "33000",
+    "name": "Special Spicy Indomie Ketoprak",
+    "description": "Smashed Indomie Without Eggs",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "36000",
+    "name": "Ketoprak Indomie Geprek Pedes+Telor",
+    "description": "Ketoprak Indomie + Egg",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "50000",
+    "name": "Ketoprak Egg Cashews Level 1",
+    "description": "100% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "44000",
+    "name": "Ketoprak Cashew Level 1",
+    "description": "100% Quality Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "33000",
+    "name": "Special Ketoprak Cashew Level 3",
+    "description": "35% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "55000",
+    "name": "Indomie With Egg And Cashew Level 1",
+    "description": "100% Cashews",
+    "section": "ketoprak cashew variant package"
+  },
+  {
+    "price": "40000",
+    "name": "Buy 1 Gate 1 Ketoprak Special",
+    "description": "Buy 1 Free 1",
+    "section": "buy 1 gate 1"
+  },
+  {
+    "price": "35000",
+    "name": "Ketoprak Cashew Sausage Level 3",
+    "description": "30% Fried Sausage Peanuts One Sliced/Bulet",
+    "section": "viral sausage ketoprak"
+  },
+  {
+    "price": "40000",
+    "name": "Ketoprak Cashew Sausage Level 2",
+    "description": "50% Sausage Glass Menuts One Sliced / Boiled",
+    "section": "viral sausage ketoprak"
+  },
+  {
+    "price": "50000",
+    "name": "Ketoprak Sosis Cashew Level 1",
+    "description": "100% Fried Sausage Nuts Two Pieces Cut Into 2 / Bulet",
+    "section": "viral sausage ketoprak"
+  },
+  {
+    "price": "32000",
+    "name": "One Egg Sausage Ketoprak",
+    "description": "Egg Sausage Ketoprak One Fried Sausage Cut Into 2 / Bulet",
+    "section": "viral sausage ketoprak"
+  },
+  {
+    "price": "28000",
+    "name": "Special Sausage Ketoprak",
+    "description": "Fried Sausage Ketoprak Cut Into 2 / One Tail",
+    "section": "viral sausage ketoprak"
+  },
+  {
+    "price": "7000",
+    "name": "Xtra Telor Dadar",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "7000",
+    "name": "Xtra Telor Ceplok",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "7000",
+    "name": "Xtra Telor Rebus",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "5000",
+    "name": "Xtra Rice Cake",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "5000",
+    "name": "Xtra Crackers",
+    "description": "One Pack Of Fried Crackers",
+    "section": "mistoping"
+  },
+  {
+    "price": "3000",
+    "name": "Extra Tofu",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "8000",
+    "name": "Xtra Telor Asin Bebek",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "3000",
+    "name": "Mistoping 1 Sosis Goreng",
+    "description": "Cutlets / 1 Fried Sausage",
+    "section": "mistoping"
+  },
+  {
+    "price": "4000",
+    "name": "Mistoping Sosis",
+    "description": "1 Fried Sausage Cut / Porridge",
+    "section": "mistoping"
+  },
+  {
+    "price": "10000",
+    "name": "Indomie Goreng",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "12000",
+    "name": "Indomie Boiled Peanut Egg",
+    "description": "Indom Boiled In A Peanut Sauce",
+    "section": "mistoping"
+  },
+  {
+    "price": "14000",
+    "name": "Indomie Telor Ceplok / Dadar / Rebus",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "15000",
+    "name": "Indomie Viral Peanut Sauce",
+    "description": "",
+    "section": "mistoping"
+  },
+  {
+    "price": "18000",
+    "name": "Ketoprak For Dever",
+    "description": "",
+    "section": "traktir buat driver"
+  },
+  {
+    "price": "15000",
+    "name": "Fruit Juice Free Taste For Drivers",
+    "description": "",
+    "section": "traktir buat driver"
+  },
+  {
+    "price": "10000",
+    "name": "Coconut Ice For Driver",
+    "description": "",
+    "section": "traktir buat driver"
+  },
+  {
+    "price": "6000",
+    "name": "Es Teh Manis Buat Drever",
+    "description": "",
+    "section": "traktir buat driver"
+  },
+  {
+    "price": "7000",
+    "name": "Air Aqua 600 Ml",
+    "description": "Aqua Water 600 Ml",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "10000",
+    "name": "Air Aqua 1500 Ml",
+    "description": "",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Red Guava Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "aneka minuman"
+  },
+  {
+    "price": "15000",
+    "name": "Red Guava Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Juice Strowberry",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Tamarillo Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Red Dragon Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Sweet Fragrant Mango Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh Liquid",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Millon Fruit Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Soursop Fruit Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Banana Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Avocado Juice",
+    "description": "Sweetened Condensed Milk Sugar And Chocolate And Milk Indomilk Fresh Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Just Jeruk Lemon",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "13500",
+    "name": "Blembeng Fruit Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Pisang Mix Strowbery",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Mangga Mix Jeruk Lemon",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "20000",
+    "name": "Juice Alpukat Di Taburi Nestle Milo",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Juice Tomat Mix Wortel",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Mangga Mix Wortel",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Jeruk Lemon Mix Strowbery",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "14000",
+    "name": "Es Jeruk Lemon Peres",
+    "description": "Lemon Peres Orange Ice",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "10000",
+    "name": "Susu Dancow Panas",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "10000",
+    "name": "Hot White Dancow Milk",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "10000",
+    "name": "White Dancow Milk Ice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "10000",
+    "name": "Es Susu Dancow Coklat",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "4500",
+    "name": "Plain Iced Tea",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "6000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "6000",
+    "name": "Es Nutri Sari Sesuai Selera",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "12000",
+    "name": "Juice Semangka",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "13000",
+    "name": "Juice Pepaya",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Pineapple Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Sunkist Orange Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Pear Juice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Juice Nanas Mix Pepaya",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Mixed Strawberry Pear Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Apel Mix Strowbery",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Juice Strowbery Mix Nanas",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Juice Pepaya Mix Wortel",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "17000",
+    "name": "Red Grape Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "18000",
+    "name": "Watermelon Mix Apple Juice",
+    "description": "Sweetened Condensed Milk Sugar And Milk Indomilk Fresh",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "10000",
+    "name": "Coconut Ice White/Red Sugar",
+    "description": "Sugar Coconut Ice",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "15000",
+    "name": "Brown/White Sugar Orange Coconut Ice",
+    "description": "",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "20000",
+    "name": "Coconut Milk Ice + Syrup",
+    "description": "Ice Coconut Milk Syrup",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Es Kelapa Sirup",
+    "description": "Coconut Sugar Syrup In Cap",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "16000",
+    "name": "Milk Coconut Ice",
+    "description": "Iced Tea Milk On Cap",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "25000",
+    "name": "Pure Green Coconut In Plastic",
+    "description": "Sugar Or Not",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "20000",
+    "name": "Kelapa Bulet Murni Di Papas / Di Plastik",
+    "description": "Bullet Coconut With Sugar / No",
+    "section": "various fruit juices"
+  },
+  {
+    "price": "35000",
+    "name": "Various Fruit Salads In Sirami Mayonnaise",
+    "description": "Mayonnaise Fruit Salad + Milk In A Box Of 650 Ml",
+    "section": "various fruit soup and fruit salad"
+  },
+  {
+    "price": "35000",
+    "name": "Various Grated Cheese Fruit Salad Size 650 Ml",
+    "description": "Fruit Salad In The Nougut Milk Pack + Cheesebox Size 650Ml",
+    "section": "various fruit soup and fruit salad"
+  },
+  {
+    "price": "35000",
+    "name": "Fresh Mixed Fruit Soup",
+    "description": "Fruit Soup In A Size 650 Ml",
+    "section": "various fruit soup and fruit salad"
+  },
+  {
+    "price": "65000",
+    "name": "Two Boxs Of Mango Fruit + Red Dragons Package",
+    "description": "Package Of Two Boxes Of Size 650Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "50000",
+    "name": "Package Of Two Melon Boxes + Papaya Fruit Cut Into Pieces",
+    "description": "Package Of Two Boxes Of Size 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "35000",
+    "name": "4 Flavors Cut Fruit",
+    "description": "Fruit Cutlets 4 Flavors In A Size Of 650Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "32000",
+    "name": "Cut Fragrant Mango",
+    "description": "Cut Fruit In A Size 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "35000",
+    "name": "Various Cut Pineapple",
+    "description": "Pineapple Fruit Cut Into A Size Of 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "50000",
+    "name": "Cut Apples",
+    "description": "Apple Fruit Sliced In A Size Of 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "35000",
+    "name": "Cut Fruit 3 Flavors",
+    "description": "Milon Watermelon Papaya In A Box Of 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "30000",
+    "name": "Watermelon Cut Fruit",
+    "description": "Fruit Cutlets Of Watermelon In A Box Of 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "33000",
+    "name": "Cut Dragon Fruit",
+    "description": "Dragon Fruit Slices Cut Into A Size Of 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "25000",
+    "name": "Various Cut Papaya Fruits",
+    "description": "Cut Fruit Cutlets Of Homepaya Box 650 Ml",
+    "section": "various cut fruits"
+  },
+  {
+    "price": "45000",
+    "name": "Mixed Cut Fruit",
+    "description": "Cut Fruit Mixed With 650 Ml Box",
+    "section": "various cut fruits"
+  }
+]

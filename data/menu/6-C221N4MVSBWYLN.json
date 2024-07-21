@@ -1,0 +1,315 @@
+[
+  {
+    "price": "61490",
+    "name": "Paket Single Set A",
+    "description": "Beef Teppanyaki Mentaiko+ Miso Soup + Fried Wonton + Teh Pucuk",
+    "section": "paket single double"
+  },
+  {
+    "price": "68640",
+    "name": "Paket Single Set B",
+    "description": "Chicken Teaki Chilli Garlic/Matah Sambal + Bento Dory/Chicken + 2 Tecuk Tea",
+    "section": "paket single double"
+  },
+  {
+    "price": "100454",
+    "name": "Paket Double Set A",
+    "description": "Chicken Teppanyaki+ Bento Dory / Chicken+ 2 Teh Pucuk",
+    "section": "paket single double"
+  },
+  {
+    "price": "88636",
+    "name": "Paket Double Set B",
+    "description": "Chicken Teppanyaki + Beef Teppan Ranen / Spicy Beef Ramen + 2 Teh Pucuk",
+    "section": "paket single double"
+  },
+  {
+    "price": "71500",
+    "name": "Beef Cheese Teppan",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Tamago Teppan",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Sambal Ijo",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Blackpepper",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Mentaiko",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Fried Egg",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Yasai",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Chilli Garlic",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Beef Teppanyaki Sambal Matah",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Beef Teppanyaki",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "71500",
+    "name": "Beef Garlic Cheese Teppan",
+    "description": "",
+    "section": "beef rice bowl"
+  },
+  {
+    "price": "71500",
+    "name": "Beef Teppanyaki + Miso",
+    "description": "",
+    "section": "signature rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Chicken Teppanyaki + Miso",
+    "description": "",
+    "section": "signature rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Fish Steak Teppanyaki + Miso",
+    "description": "",
+    "section": "signature rice bowl"
+  },
+  {
+    "price": "128700",
+    "name": "Full Together - 1",
+    "description": "2 Beef Teppanyaki+ 2 Miso + 2 Ocha",
+    "section": "full for two"
+  },
+  {
+    "price": "117000",
+    "name": "Kenyang Beruda - 2",
+    "description": "2 Chicken Teaki + 2 Meatballs + 2 Ocha",
+    "section": "full for two"
+  },
+  {
+    "price": "71500",
+    "name": "Bento A (Beef Bento)",
+    "description": "Rice + Beef Teaki + Yasai Itame + Chikuwa + Noodles",
+    "section": "set bento"
+  },
+  {
+    "price": "65000",
+    "name": "Bento B (Chicken Bento)",
+    "description": "Rice + Chicken Teaki + Yasai Itame + Fish Cake + Ocha",
+    "section": "set bento"
+  },
+  {
+    "price": "65000",
+    "name": "Bento C ( Dory Bento)",
+    "description": "Rice + Dory Katsu + Yasai Itame + Chicken Karagee + Noodles",
+    "section": "set bento"
+  },
+  {
+    "price": "58500",
+    "name": "Ramen Chicken Teppanyaki",
+    "description": "Kie Ramen + Chicken Teaki + Chikuwa + Tamago + Nori",
+    "section": "ramen series"
+  },
+  {
+    "price": "58500",
+    "name": "Ramen Spicy Chicken Teppan",
+    "description": "Kie Ramen + Chicken Teaki + Chikuwa + Tamago + Nori + Chilli",
+    "section": "ramen series"
+  },
+  {
+    "price": "62400",
+    "name": "Ramen Beef Teppanyaki",
+    "description": "Kie Ramen + Beef Teaki + Chikuwa + Tamago + Nori",
+    "section": "ramen series"
+  },
+  {
+    "price": "62400",
+    "name": "Ramen Spicy Beef Teppan",
+    "description": "Kie Ramen + Beef Teaki + Chikuwa + Tamago + Nori + Chili",
+    "section": "ramen series"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Tamago",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Chicken Garlic Cheese Teppan",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "65000",
+    "name": "Chicken Cheese Teppan",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Sambal Ijo",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "62400",
+    "name": "Chicken Teppanyaki Blackpepper",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Fried Egg",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Yasai",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Chilli Garlic",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Sambal Matah",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "58500",
+    "name": "Chicken Teppanyaki Mentaiko",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "52000",
+    "name": "Chicken Teppanyaki",
+    "description": "",
+    "section": "value chicken rice bowl"
+  },
+  {
+    "price": "45500",
+    "name": "Beef Blacpepper Japanese Fried Rice",
+    "description": "",
+    "section": "yakimeshi/japanese fried rice"
+  },
+  {
+    "price": "36400",
+    "name": "Japanese Fried Rice",
+    "description": "",
+    "section": "yakimeshi/japanese fried rice"
+  },
+  {
+    "price": "36400",
+    "name": "Chicken Teriyaki Japanese Fried Rice",
+    "description": "",
+    "section": "yakimeshi/japanese fried rice"
+  },
+  {
+    "price": "45500",
+    "name": "Japanese Noodle Spicy Terriyaki",
+    "description": "",
+    "section": "yakisoba/japanese noddle"
+  },
+  {
+    "price": "52000",
+    "name": "Japanese Noodle Beef Teriyaki",
+    "description": "",
+    "section": "yakisoba/japanese noddle"
+  },
+  {
+    "price": "23400",
+    "name": "Chicken Karage",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "23400",
+    "name": "Kamaboko",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "7800",
+    "name": "Crispy Skin Chicken",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "6500",
+    "name": "Crispy Skin",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "23400",
+    "name": "Ice Lychee Tea",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "23400",
+    "name": "Ice Strawberry Tea",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "9100",
+    "name": "Mineral Water",
+    "description": "",
+    "section": "drink"
+  },
+  { "price": "7800", "name": "Ocha", "description": "", "section": "drink" },
+  {
+    "price": "7800",
+    "name": "Miso Soup",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "7800",
+    "name": "White Rice",
+    "description": "",
+    "section": "others"
+  }
+]

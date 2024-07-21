@@ -1,0 +1,992 @@
+[
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Crispy Chicken",
+    "description": "2Pcs Crispy Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Cajun Grilled Chicken + Signature Crispy Chicken",
+    "description": "Cajun Grilled Chicken + Signature Crispy Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Grilled Chicken",
+    "description": "2Pcs Grilled Chicken",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 6 Garlic Parmesan Popcorn + Cajun Fries",
+    "description": "Poppin 6 Garlic Parmesan Popcorn + Cajun Fries",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Classic Sandwich",
+    "description": "Classic Sandwich",
+    "section": "today's offer"
+  },
+  {
+    "price": "40500",
+    "name": "Poppin Classic Chicken Cheese Sandwich",
+    "description": "Classic Chicken Cheese Sandwich",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Spicy Sandwich",
+    "description": "Spicy Sandwich",
+    "section": "today's offer"
+  },
+  {
+    "price": "40500",
+    "name": "Poppin Spicy Chicken Cheese Sandwich",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Chicken Tenders + Cajun Fries",
+    "description": "2Pcs Chicken Tenders + Cajun Fries Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2 Cajun Fries",
+    "description": "2 Cajun Fries Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Crispy Chicken + Cajun Fries",
+    "description": "Crispy Chicken + Cajun Fries Regular",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Cajun Fries + Mashed Potato",
+    "description": "Cajun Fries Regular + Mashed Potato",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Mashed Potato + 3Pcs Chicken Tenders",
+    "description": "Mashed Potato + 3Pcs Chicken Tenders",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Chicken Wings Bulgogi BBQ",
+    "description": "5 Chicken Wings Bulgogi BBQ",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Wings Sweet and Sour",
+    "description": "5Pc Wings Sweet and Sour",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Wings Hot Sauce",
+    "description": "5Pc Wings Hot Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin BOGO 2Pc Buttermilk Chicken Tenders",
+    "description": "4Pc Buttermilk Chicken Tenders",
+    "section": "today's offer"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin BOGO 3 Wings",
+    "description": "6Pc Classic Wings",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Crispy Chicken + Rice",
+    "description": "Crispy Chicken + Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken + Rice",
+    "description": "Grilled Chicken + Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "Spicy Chicken + Rice",
+    "description": "Spicy Chicken + Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "28001",
+    "name": "Crispy Chicken + Cajun Rice",
+    "description": "Crispy Chicken + Cajun Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "28001",
+    "name": "Grilled Chicken + Cajun Rice",
+    "description": "Grilled Chicken + Cajun Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "28001",
+    "name": "Spicy Chicken + Cajun Rice",
+    "description": "Spicy Chicken + Cajun Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "19700",
+    "name": "Chillz Kitkat®",
+    "description": "Chillz Kitkat®",
+    "section": "today's offer"
+  },
+  {
+    "price": "12000",
+    "name": "Coke Float",
+    "description": "Coke Float",
+    "section": "today's offer"
+  },
+  {
+    "price": "10000",
+    "name": "Iced Milo",
+    "description": "Iced Milo",
+    "section": "today's offer"
+  },
+  {
+    "price": "25000",
+    "name": "4pc Classic Chicken Popcorn + Regular Fries",
+    "description": "4pc Classic Chicken Popcorn + Regular Fries",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Signature Crispy Chicken",
+    "description": "5pc Signature Crispy Chicken Ala Carte",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Cajun Grilled Chicken",
+    "description": "5pc Cajun Grilled Chicken Ala Carte",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Mix Chicken",
+    "description": "5pc Mix Chicken Ala Carte [ 3 Signature Crispy Chicken + 2 Cajun Grilled Chicken ]",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "5pc Signature Crispy Chicken + 3 Rice",
+    "description": "5pc Signature Crispy Chicken + 3 Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "99000",
+    "name": "5pc Cajun Grilled Chicken + 3 Rice",
+    "description": "5pc Cajun Grilled Chicken + 3 Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "99001",
+    "name": "5pc Mix Chicken + 3 Rice",
+    "description": "3 Signature Crispy Chicken + 2 Cajun Grilled Chicken + 3 Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Pop Paket! 1Pcs Signature Crispy Chicken",
+    "description": "Signature Crispy Chicken + Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Pop Paket! 1Pcs Cajun Grilled Chicken 🌶️",
+    "description": "Cajun Grilled Chicken 🌶️ + Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "35800",
+    "name": "Pop Paket! 1Pcs Signature Spicy Chicken 🌶️🔥",
+    "description": "Signature Spicy Chicken 🌶️🔥 + Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "36300",
+    "name": "Pop Paket! 1Pcs Signature Crispy Chicken with Cajun Rice",
+    "description": "Signature Crispy Chicken + Cajun Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "36300",
+    "name": "Pop Paket! 1Pcs Cajun Grilled Chicken 🌶️with Cajun Rice",
+    "description": "Cajun Grilled Chicken 🌶️ + Cajun Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "40600",
+    "name": "Pop Paket! 1Pcs Signature Spicy Chicken 🌶️🔥with Cajun Rice",
+    "description": "Signature Spicy Chicken 🌶️🔥 + Cajun Rice + Coke",
+    "section": "today's offer"
+  },
+  {
+    "price": "30000",
+    "name": "3Pcs Cajun Grilled Chicken Wings",
+    "description": "3Pcs Cajun Grilled Chicken Wings",
+    "section": "new grilled wings - must try"
+  },
+  {
+    "price": "47500",
+    "name": "5Pcs Cajun Grilled Chicken Wings",
+    "description": "5Pcs Cajun Grilled Chicken Wings",
+    "section": "new grilled wings - must try"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Crispy Chicken",
+    "description": "2Pcs Crispy Chicken",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Cajun Grilled Chicken + Signature Crispy Chicken",
+    "description": "Cajun Grilled Chicken + Signature Crispy Chicken",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Grilled Chicken",
+    "description": "2Pcs Grilled Chicken",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 6 Garlic Parmesan Popcorn + Cajun Fries",
+    "description": "Poppin 6 Garlic Parmesan Popcorn + Cajun Fries",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Classic Sandwich",
+    "description": "Classic Sandwich",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "40500",
+    "name": "Poppin Classic Chicken Cheese Sandwich",
+    "description": "Classic Chicken Cheese Sandwich",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Spicy Sandwich",
+    "description": "Spicy Sandwich",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "40500",
+    "name": "Poppin Spicy Chicken Cheese Sandwich",
+    "description": "",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2Pcs Chicken Tenders + Cajun Fries",
+    "description": "2Pcs Chicken Tenders + Cajun Fries Regular",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 2 Cajun Fries",
+    "description": "2 Cajun Fries Regular",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Crispy Chicken + Cajun Fries",
+    "description": "Crispy Chicken + Cajun Fries Regular",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Cajun Fries + Mashed Potato",
+    "description": "Cajun Fries Regular + Mashed Potato",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin Mashed Potato + 3Pcs Chicken Tenders",
+    "description": "Mashed Potato + 3Pcs Chicken Tenders",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Chicken Wings Bulgogi BBQ",
+    "description": "5 Chicken Wings Bulgogi BBQ",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Wings Sweet and Sour",
+    "description": "5Pc Wings Sweet and Sour",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin 5 Wings Hot Sauce",
+    "description": "5Pc Wings Hot Sauce",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin BOGO 2Pc Buttermilk Chicken Tenders",
+    "description": "4Pc Buttermilk Chicken Tenders",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "35000",
+    "name": "Poppin BOGO 3 Wings",
+    "description": "6Pc Classic Wings",
+    "section": "poppin deals @ 35k"
+  },
+  {
+    "price": "25000",
+    "name": "Crispy Chicken + Rice",
+    "description": "Crispy Chicken + Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "25000",
+    "name": "Grilled Chicken + Rice",
+    "description": "Grilled Chicken + Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "25000",
+    "name": "Spicy Chicken + Rice",
+    "description": "Spicy Chicken + Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "28001",
+    "name": "Crispy Chicken + Cajun Rice",
+    "description": "Crispy Chicken + Cajun Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "28001",
+    "name": "Grilled Chicken + Cajun Rice",
+    "description": "Grilled Chicken + Cajun Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "28001",
+    "name": "Spicy Chicken + Cajun Rice",
+    "description": "Spicy Chicken + Cajun Rice",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "19700",
+    "name": "Chillz Kitkat®",
+    "description": "Chillz Kitkat®",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "12000",
+    "name": "Coke Float",
+    "description": "Coke Float",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "10000",
+    "name": "Iced Milo",
+    "description": "Iced Milo",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "25000",
+    "name": "4pc Classic Chicken Popcorn + Regular Fries",
+    "description": "4pc Classic Chicken Popcorn + Regular Fries",
+    "section": "pop star menu @ 25k"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Signature Crispy Chicken",
+    "description": "5pc Signature Crispy Chicken Ala Carte",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Cajun Grilled Chicken",
+    "description": "5pc Cajun Grilled Chicken Ala Carte",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "80000",
+    "name": "5pc Mix Chicken",
+    "description": "5pc Mix Chicken Ala Carte [ 3 Signature Crispy Chicken + 2 Cajun Grilled Chicken ]",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "99000",
+    "name": "5pc Signature Crispy Chicken + 3 Rice",
+    "description": "5pc Signature Crispy Chicken + 3 Rice",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "99000",
+    "name": "5pc Cajun Grilled Chicken + 3 Rice",
+    "description": "5pc Cajun Grilled Chicken + 3 Rice",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "99001",
+    "name": "5pc Mix Chicken + 3 Rice",
+    "description": "3 Signature Crispy Chicken + 2 Cajun Grilled Chicken + 3 Rice",
+    "section": "paket heran (hemat ramean) - 5 @ 80k"
+  },
+  {
+    "price": "31500",
+    "name": "Pop Paket! 1Pcs Signature Crispy Chicken",
+    "description": "Signature Crispy Chicken + Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "31500",
+    "name": "Pop Paket! 1Pcs Cajun Grilled Chicken 🌶️",
+    "description": "Cajun Grilled Chicken 🌶️ + Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "35800",
+    "name": "Pop Paket! 1Pcs Signature Spicy Chicken 🌶️🔥",
+    "description": "Signature Spicy Chicken 🌶️🔥 + Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "36300",
+    "name": "Pop Paket! 1Pcs Signature Crispy Chicken with Cajun Rice",
+    "description": "Signature Crispy Chicken + Cajun Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "36300",
+    "name": "Pop Paket! 1Pcs Cajun Grilled Chicken 🌶️with Cajun Rice",
+    "description": "Cajun Grilled Chicken 🌶️ + Cajun Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "40600",
+    "name": "Pop Paket! 1Pcs Signature Spicy Chicken 🌶️🔥with Cajun Rice",
+    "description": "Signature Spicy Chicken 🌶️🔥 + Cajun Rice + Coke",
+    "section": "pop paket hemat @ 31.5k"
+  },
+  {
+    "price": "41500",
+    "name": "Paket 1Pc Signature Crispy Chicken",
+    "description": "1Pc Signature Crispy Chicken + Rice + Lemon Tea [𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯]",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "54500",
+    "name": "Paket 2pc Signature Crispy Chicken",
+    "description": "2 Signature Spicy Chicken + 1 Rice + 1 Lemon Tea Medium",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "145000",
+    "name": "Paket 5Pcs Classic Chicken",
+    "description": "5 Classic Chicken [ 3 Besar + 2 Kecil ] + 3 Rice + 3 Lemon Tea Medium",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "120000",
+    "name": "5Pc Signature Crispy Chicken",
+    "description": "5 Classic Chicken [ 3 Besar + 2 Kecil ]",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "54000",
+    "name": "2Pc Signature Crispy Chicken",
+    "description": "2pc Signature Crispy Chicken yang renyah dan telah dimarinasi selama 12 jam",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "25500",
+    "name": "1Pc Signature Crispy Chicken",
+    "description": "1pc Signature Crispy chicken yang renyah dan telah dimarinasi selama 12 jam",
+    "section": "signature crispy chicken"
+  },
+  {
+    "price": "44501",
+    "name": "Paket 1Pc New Orleans Spicy Chicken 🌶️🔥",
+    "description": "1 New Orleans Spicy Chicken 🌶️🔥 + 1 Rice + 1 Lemon Tea [𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯]",
+    "section": "signature spicy chicken 🌶️🔥"
+  },
+  {
+    "price": "61001",
+    "name": "Paket 2pc Signature Spicy Chicken 🌶️🔥",
+    "description": "2pc Signature Spicy Chicken 🌶️🔥 + 1 Rice + 1 Lemon Tea",
+    "section": "signature spicy chicken 🌶️🔥"
+  },
+  {
+    "price": "136500",
+    "name": "5pc Signature Spicy Chicken 🌶️🔥",
+    "description": "5pc Signature Spicy Chicken 🌶️🔥 [ 3 Besar + 2 Kecil ]",
+    "section": "signature spicy chicken 🌶️🔥"
+  },
+  {
+    "price": "57000",
+    "name": "2 Signature Spicy Chicken 🌶️🔥",
+    "description": "2 Signature Spicy Chicken 🌶️🔥",
+    "section": "signature spicy chicken 🌶️🔥"
+  },
+  {
+    "price": "28500",
+    "name": "1pc Signature Spicy Chicken🌶️🔥",
+    "description": "1pc Signature Spicy Chicken🌶️🔥",
+    "section": "signature spicy chicken 🌶️🔥"
+  },
+  {
+    "price": "44501",
+    "name": "Paket 1Pc Cajun Grilled Chicken 🌶",
+    "description": "1 Cajun Grilled Chicken 🌶 + 1 Rice + 1 Lemon Tea [𝘗𝘰𝘵𝘰𝘯𝘨𝘢𝘯 𝘢𝘺𝘢𝘮 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢 𝘵𝘦𝘳𝘨𝘢𝘯𝘵𝘶𝘯𝘨 𝘬𝘦𝘵𝘦𝘳𝘴𝘦𝘥𝘪𝘢𝘢𝘯 𝘥𝘪 𝘵𝘰𝘬𝘰 𝘱𝘢𝘥𝘢 𝘴𝘢𝘢𝘵 𝘱𝘦𝘮𝘦𝘴𝘢𝘯𝘢𝘯/𝘱𝘦𝘯𝘨𝘪𝘳𝘪𝘮𝘢𝘯]",
+    "section": "cajun grilled chicken 🌶"
+  },
+  {
+    "price": "61001",
+    "name": "Paket 2Pcs Louisiana Grilled Chicken 🌶",
+    "description": "Paket 2Pcs Louisiana Grilled Chicken 🌶",
+    "section": "cajun grilled chicken 🌶"
+  },
+  {
+    "price": "136500",
+    "name": "5 Cajun Grilled Chicken 🌶",
+    "description": "5 Louisiana Grilled Chicken 🌶",
+    "section": "cajun grilled chicken 🌶"
+  },
+  {
+    "price": "57000",
+    "name": "2Pc Cajun Grilled Chicken 🌶",
+    "description": "2Pc Cajun Grilled Chicken 🌶",
+    "section": "cajun grilled chicken 🌶"
+  },
+  {
+    "price": "28500",
+    "name": "1Pc Cajun Grilled Chicken 🌶",
+    "description": "1Pc Louisiana Grilled Chicken 🌶",
+    "section": "cajun grilled chicken 🌶"
+  },
+  {
+    "price": "72001",
+    "name": "Paket Buttermilk Chicken Cheese Sandwich",
+    "description": "1 Classic Chicken Sandwich Cheese + Cajun Fries + Coke Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "72001",
+    "name": "Paket Buttermilk Spicy Chicken Cheese Sandwich 🌶",
+    "description": "1 Buttermilk Spicy Chicken Cheese Sandwich + 1 Cajun Fries + Coke Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "66000",
+    "name": "Paket Buttermilk Crispy Chicken Sandwich",
+    "description": "1 Buttermilk Chicken Sandwich + 1 Cajun Fries + Coke Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "66000",
+    "name": "Paket Buttermilk Spicy Chicken Sandwich",
+    "description": "1 Buttermilk Spicy Chicken Sandwich + 1 Cajun Fries + Coke Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "78000",
+    "name": "Paket Buttermilk Chicken Cheese Sandwich with Egg",
+    "description": "Buttermilk Crispy Chicken Cheese Sandwich with Egg + Cajun Fries + Jasmine Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "78000",
+    "name": "Paket Buttermilk Spicy Chicken Cheese Sandwich with Egg",
+    "description": "Buttermilk Spicy Chicken Cheese Sandwich with Egg + Cajun Fries + Jasmine Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "72001",
+    "name": "Paket Buttermilk Chicken Sandwich with Egg",
+    "description": "Buttermilk Chicken Sandwich Egg + Cajun Fries + Jasmine Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "72001",
+    "name": "Paket Buttermilk Spicy Chicken Sandwich with Egg",
+    "description": "Buttermilk Spicy Chicken Sandwich with Egg + Cajun Fries + Jasmine Medium",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "54500",
+    "name": "Buttermilk Chicken Cheese Sandwich",
+    "description": "Buttermilk Chicken Cheese Sandwich",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "54500",
+    "name": "Buttermilk Spicy Chicken Cheese Sandwich 🌶",
+    "description": "Buttermilk Spicy Chicken Cheese Sandwich 🌶",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "48500",
+    "name": "Buttermilk Chicken Sandwich",
+    "description": "Classic Chicken Sandwich",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "48500",
+    "name": "Buttermilk Spicy Chicken Sandwich 🌶",
+    "description": "Spicy Chicken Sandwich 🌶",
+    "section": "buttermilk chicken sandwich"
+  },
+  {
+    "price": "25000",
+    "name": "4 Buttermilk Chicken Popcorn Garlic Parmesan",
+    "description": "4 Buttermilk Chicken Popcorn Garlic Parmesan",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "25000",
+    "name": "4 Chicken Popcorn Cajun",
+    "description": "4 Chicken Popcorn Cajun",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "25000",
+    "name": "4 Chicken Popcorn Classic",
+    "description": "4 Chicken Popcorn Classic",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "39500",
+    "name": "8 Chicken Popcorn Garlic Parmesan",
+    "description": "8 Chicken Popcorn Garlic Parmesan",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "39500",
+    "name": "8 Chicken Popcorn Cajun",
+    "description": "8 Chicken Popcorn Cajun",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "39500",
+    "name": "8 Chicken Popcorn Classic",
+    "description": "8 Chicken Popcorn Classic",
+    "section": "buttermilk chicken popcorn"
+  },
+  {
+    "price": "30000",
+    "name": "3Pcs Cajun Grilled Chicken Wings",
+    "description": "3Pcs Cajun Grilled Chicken Wings",
+    "section": "chicken wings"
+  },
+  {
+    "price": "47500",
+    "name": "5Pcs Cajun Grilled Chicken Wings",
+    "description": "5Pcs Cajun Grilled Chicken Wings",
+    "section": "chicken wings"
+  },
+  {
+    "price": "48000",
+    "name": "5 Chicken Wings Spicy Sauce 🌶🌶",
+    "description": "5 Chicken Wings Spicy Sauce 🌶🌶",
+    "section": "chicken wings"
+  },
+  {
+    "price": "48000",
+    "name": "5 Chicken Wings Asian Sweet & Sour",
+    "description": "5 Chicken Wings Asian Sweet & Sour",
+    "section": "chicken wings"
+  },
+  {
+    "price": "48000",
+    "name": "5 Chicken Wings Bulgogi BBQ",
+    "description": "5 Chicken Wings Bulgogi BBQ",
+    "section": "chicken wings"
+  },
+  {
+    "price": "36500",
+    "name": "5 Chicken Wings Classic [ No Sauce ]",
+    "description": "5 Chicken Wings Classic [ No Sauce ]",
+    "section": "chicken wings"
+  },
+  {
+    "price": "29500",
+    "name": "3 Chicken Wings Spicy Sauce 🌶🌶",
+    "description": "3 Chicken Wings Spicy Sauce 🌶🌶",
+    "section": "chicken wings"
+  },
+  {
+    "price": "29500",
+    "name": "3 Chicken Wings Bulgogi BBQ",
+    "description": "3 Chicken Wings Bulgogi BBQ",
+    "section": "chicken wings"
+  },
+  {
+    "price": "29500",
+    "name": "3 Chicken Wings Asian Sweet & Sour",
+    "description": "3 Chicken Wings Asian Sweet & Sour",
+    "section": "chicken wings"
+  },
+  {
+    "price": "22501",
+    "name": "3 Chicken Wings Classic [ No Sauce ]",
+    "description": "3 Chicken Wings Classic [ No Sauce ]",
+    "section": "chicken wings"
+  },
+  {
+    "price": "35000",
+    "name": "3 Buttermilk Chicken Strips",
+    "description": "3 Buttermilk Chicken Strips",
+    "section": "buttermilk chicken strips"
+  },
+  {
+    "price": "24000",
+    "name": "2 Buttermilk Chicken Strips",
+    "description": "2 Buttermilk Chicken Strips",
+    "section": "buttermilk chicken strips"
+  },
+  {
+    "price": "44501",
+    "name": "1 Signature Crispy Chicken + 1 Rice + 1 Cold Milo",
+    "description": "1 Signature Crispy Chicken + 1 Rice + 1 Cold Milo",
+    "section": "kids meal"
+  },
+  {
+    "price": "38500",
+    "name": "2 Classic Tenders + 1 Rice + 1 Cold Milo",
+    "description": "2 Classic Tenders + 1 Rice+ 1 Cold Milo",
+    "section": "kids meal"
+  },
+  {
+    "price": "38500",
+    "name": "4 Buttermilk Chicken Popcorn + 1 Rice + 1 Cold Milo",
+    "description": "4 Buttermilk Chicken Popcorn + 1 Rice + 1 Cold Milo",
+    "section": "kids meal"
+  },
+  {
+    "price": "38500",
+    "name": "4 Chicken Pop (Garlic Parmesan) + 1 Rice + 1 Cold Milo",
+    "description": "4 Chicken Pop (Garlic Parmesan) + 1 Rice + 1 Cold Milo",
+    "section": "kids meal"
+  },
+  {
+    "price": "15500",
+    "name": "Mashed Potato Chicken Gravy",
+    "description": "Mashed Potato Chicken Gravy",
+    "section": "snack"
+  },
+  {
+    "price": "36000",
+    "name": "Cajun Fries Large",
+    "description": "Cajun Fries Large",
+    "section": "snack"
+  },
+  {
+    "price": "30000",
+    "name": "Cajun Fries Medium",
+    "description": "Cajun Fries Medium",
+    "section": "snack"
+  },
+  {
+    "price": "24000",
+    "name": "Cajun Fries Regular",
+    "description": "Cajun Fries Regular",
+    "section": "snack"
+  },
+  {
+    "price": "24000",
+    "name": "Onion Ring Medium",
+    "description": "Onion Ring Medium",
+    "section": "snack"
+  },
+  {
+    "price": "16000",
+    "name": "Onion Ring Regular",
+    "description": "Onion Ring Regular",
+    "section": "snack"
+  },
+  {
+    "price": "11000",
+    "name": "Round Sunny Side Egg",
+    "description": "Round Sunny Side Egg 🍳",
+    "section": "snack"
+  },
+  {
+    "price": "15500",
+    "name": "Cajun Rice 🌶",
+    "description": "Cajun Rice 🌶",
+    "section": "snack"
+  },
+  {
+    "price": "10000",
+    "name": "Rice",
+    "description": "Rice",
+    "section": "snack"
+  },
+  {
+    "price": "20500",
+    "name": "Chillz KitKat®",
+    "description": "Chillz [made with] KitKat® Spread",
+    "section": "desserts"
+  },
+  {
+    "price": "20500",
+    "name": "Berry Crunch Chillz",
+    "description": "Berry Crunch Chillz",
+    "section": "desserts"
+  },
+  {
+    "price": "24000",
+    "name": "Choco Brownie Chillz",
+    "description": "Choco Brownie Chillz",
+    "section": "desserts"
+  },
+  {
+    "price": "14000",
+    "name": "Sundae Chocolate",
+    "description": "Sundae Chocolate",
+    "section": "desserts"
+  },
+  {
+    "price": "14000",
+    "name": "Sundae Strawberry",
+    "description": "Sundae Strawberry",
+    "section": "desserts"
+  },
+  {
+    "price": "14000",
+    "name": "Sundae Vanilla",
+    "description": "Sundae Vanilla",
+    "section": "desserts"
+  },
+  {
+    "price": "20900",
+    "name": "Coke Medium",
+    "description": "Coke Medium",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Coke Large",
+    "description": "Coke Large",
+    "section": "beverages"
+  },
+  {
+    "price": "20900",
+    "name": "Fanta Medium",
+    "description": "Fanta Medium",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Fanta Large",
+    "description": "Fanta Large",
+    "section": "beverages"
+  },
+  {
+    "price": "20900",
+    "name": "Sprite Medium",
+    "description": "Sprite Medium",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Sprite Large",
+    "description": "Sprite Large",
+    "section": "beverages"
+  },
+  {
+    "price": "20900",
+    "name": "Jasmine Tea Medium",
+    "description": "Jasmine Tea Medium",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Jasmine Tea Large",
+    "description": "Jasmine Tea Large",
+    "section": "beverages"
+  },
+  {
+    "price": "20900",
+    "name": "Lemon Tea Medium",
+    "description": "Lemon Tea Medium",
+    "section": "beverages"
+  },
+  {
+    "price": "27500",
+    "name": "Lemon Tea Large",
+    "description": "Lemon Tea Large",
+    "section": "beverages"
+  },
+  {
+    "price": "21501",
+    "name": "Coke Float Large",
+    "description": "Coke Float Large",
+    "section": "beverages"
+  },
+  {
+    "price": "21501",
+    "name": "Milo Float Large",
+    "description": "Milo Float Large",
+    "section": "beverages"
+  },
+  {
+    "price": "10000",
+    "name": "Mineral Water",
+    "description": "Mineral Water",
+    "section": "beverages"
+  },
+  {
+    "price": "9000",
+    "name": "New Orleans Hot Sauce 🌶️🔥",
+    "description": "New Orleans Hot Sauce 🌶️🔥",
+    "section": "sauce"
+  },
+  {
+    "price": "9000",
+    "name": "Asian Sweet & Sour Sauce",
+    "description": "Asian Sweet & Sour Sauce",
+    "section": "sauce"
+  },
+  {
+    "price": "9000",
+    "name": "Bulgogi BBQ Sauce",
+    "description": "Bulgogi BBQ Sauce",
+    "section": "sauce"
+  },
+  {
+    "price": "9000",
+    "name": "Mayonnaise Sauce",
+    "description": "Mayonnaise Sauce",
+    "section": "sauce"
+  },
+  {
+    "price": "9000",
+    "name": "Spicy Mayonnaise Sauce",
+    "description": "Spicy Mayonnaise Sauce",
+    "section": "sauce"
+  }
+]

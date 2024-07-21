@@ -1,0 +1,276 @@
+[
+  {
+    "price": "4000",
+    "name": "Chocolate",
+    "description": "Coklat Meses",
+    "section": "chocolate"
+  },
+  {
+    "price": "5000",
+    "name": "Chocolate Banana",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "6000",
+    "name": "Chocolate Nuts",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "6000",
+    "name": "Milo Chocolate",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "7500",
+    "name": "Chocolate Banana Nut",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "7500",
+    "name": "Milo Banana Chocolate",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "8500",
+    "name": "Chocolate Cheese",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "9500",
+    "name": "Banana Chocolate Cheese",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "9500",
+    "name": "Milo Chocolate Cheese",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "11000",
+    "name": "Milo Banana Chocolate Cheese",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "11000",
+    "name": "Chocolate Cheese Peanut",
+    "description": "",
+    "section": "chocolate"
+  },
+  {
+    "price": "6000",
+    "name": "Milk Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "7500",
+    "name": "Banana Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "8500",
+    "name": "Milo Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "8500",
+    "name": "Nut Milk Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "9500",
+    "name": "Almond Milk Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "9500",
+    "name": "Milo Banana Cheese",
+    "description": "",
+    "section": "cheese"
+  },
+  {
+    "price": "9500",
+    "name": "Nutella",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "11000",
+    "name": "Nutella Nuts",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "12000",
+    "name": "Nutella Almond",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "13000",
+    "name": "Nutella Cheese",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "15000",
+    "name": "Nutella Nut Cheese",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "16000",
+    "name": "Nutella Almond Keju",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "16000",
+    "name": "Nutella & Skippy",
+    "description": "",
+    "section": "nutella"
+  },
+  {
+    "price": "14000",
+    "name": "Ovomaltine Cheese",
+    "description": "",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "11000",
+    "name": "Banana Ovomaltine",
+    "description": "",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "9500",
+    "name": "Ovomaltine",
+    "description": "",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "17000",
+    "name": "Ovomaltine Biscoff",
+    "description": "",
+    "section": "ovomaltine"
+  },
+  {
+    "price": "9500",
+    "name": "Silverqueen",
+    "description": "Original Silverqueen",
+    "section": "silverqueen"
+  },
+  {
+    "price": "14000",
+    "name": "Silverqueen Cheese",
+    "description": "",
+    "section": "silverqueen"
+  },
+  {
+    "price": "8500",
+    "name": "Greentea",
+    "description": "",
+    "section": "greentea"
+  },
+  {
+    "price": "11000",
+    "name": "Greentea Coklat",
+    "description": "",
+    "section": "greentea"
+  },
+  {
+    "price": "14000",
+    "name": "Cheese Green Tea",
+    "description": "",
+    "section": "greentea"
+  },
+  {
+    "price": "16000",
+    "name": "Greentea Chocolate Cheese",
+    "description": "",
+    "section": "greentea"
+  },
+  {
+    "price": "5000",
+    "name": "Strawberry",
+    "description": "",
+    "section": "other"
+  },
+  {
+    "price": "5000",
+    "name": "Blueberry",
+    "description": "",
+    "section": "other"
+  },
+  {
+    "price": "9500",
+    "name": "Strawberry Cheese",
+    "description": "",
+    "section": "other"
+  },
+  {
+    "price": "9500",
+    "name": "Blueberry Keju",
+    "description": "",
+    "section": "other"
+  },
+  {
+    "price": "4000",
+    "name": "Banana Milk",
+    "description": "",
+    "section": "other"
+  },
+  { "price": "7500", "name": "Skippy", "description": "", "section": "other" },
+  { "price": "6000", "name": "Regal", "description": "", "section": "other" },
+  { "price": "9500", "name": "Biscoff", "description": "", "section": "other" },
+  { "price": "6000", "name": "Oreo", "description": "", "section": "other" },
+  {
+    "price": "15000",
+    "name": "Es Matcha",
+    "description": "Ice Matcha Ala Cafe Cup",
+    "section": "drinks by djaja abadi"
+  },
+  {
+    "price": "10000",
+    "name": "Variant Iced Tea",
+    "description": "",
+    "section": "drinks by djaja abadi"
+  },
+  {
+    "price": "15000",
+    "name": "Es Milo",
+    "description": "",
+    "section": "drinks by djaja abadi"
+  },
+  {
+    "price": "13000",
+    "name": "Variant Iced Coffee Milk",
+    "description": "Es Kopi Susu Tetangga Recipe Djja, Plus Your Favorite Taste",
+    "section": "drinks by djaja abadi"
+  },
+  {
+    "price": "17000",
+    "name": "People'S Iced Milk Coffee",
+    "description": "Es Kopi Susu Tetangga, Plus The Savory Palm Sugar",
+    "section": "drinks by djaja abadi"
+  },
+  {
+    "price": "15000",
+    "name": "Es Kopi Susu",
+    "description": "Es Kopi Susu Tetangga Recipe Djja",
+    "section": "drinks by djaja abadi"
+  }
+]

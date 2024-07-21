@@ -1,0 +1,128 @@
+[
+  {
+    "price": "49000",
+    "name": "Hainam Chicken Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "59000",
+    "name": "Nasi Ayam Hainam Jumbo",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "39000",
+    "name": "Chicken Team Rice",
+    "description": "",
+    "section": "various rice"
+  },
+  {
+    "price": "99000",
+    "name": "Paket Ber 2",
+    "description": "1/2 Hainam Chicken + 2 Hainam Rice Portions",
+    "section": "set menu promo"
+  },
+  {
+    "price": "76000",
+    "name": "Paket Hemat Ber 2",
+    "description": "1/4 Hainam Chicken + 2 Hainam Rice",
+    "section": "set menu promo"
+  },
+  {
+    "price": "142000",
+    "name": "Paket Hemat Ber 4",
+    "description": "1/2 Hainam Chicken + 4 Hainam Rice Portions",
+    "section": "set menu promo"
+  },
+  {
+    "price": "196000",
+    "name": "Paket Ber 4",
+    "description": "1 Hainam Chicken + 4 Hainam Rice Portions",
+    "section": "set menu promo"
+  },
+  {
+    "price": "56000",
+    "name": "Hainam Chicken 1/4 Tail",
+    "description": "",
+    "section": "ayam hainam"
+  },
+  {
+    "price": "89000",
+    "name": "Hainam Chicken 1/2 Tail",
+    "description": "",
+    "section": "ayam hainam"
+  },
+  {
+    "price": "172000",
+    "name": "Hainam Chicken 1 Tail",
+    "description": "",
+    "section": "ayam hainam"
+  },
+  {
+    "price": "7000",
+    "name": "Soy Sauce Egg",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "49000",
+    "name": "Gohiong Ayam",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "13000",
+    "name": "Hainam Rice",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "10000",
+    "name": "White Rice",
+    "description": "",
+    "section": "others"
+  },
+  {
+    "price": "13000",
+    "name": "Chinese New Year Topper",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Merry Christmas",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Congratulations",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Anniversary",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "13000",
+    "name": "Topper Birthday",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "259000",
+    "name": "Tumpeng 4 Packs",
+    "description": "",
+    "section": "hampers fuk kee"
+  },
+  {
+    "price": "199000",
+    "name": "Hampers Fukkee 4-5P",
+    "description": "",
+    "section": "hampers fuk kee"
+  }
+]

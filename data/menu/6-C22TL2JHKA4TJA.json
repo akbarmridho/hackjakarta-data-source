@@ -1,0 +1,122 @@
+[
+  {
+    "price": "6000",
+    "name": "Sate Kulit Ayam Goreng",
+    "description": "Savory",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "24000",
+    "name": "Upper Thigh Duck Rice",
+    "description": "Special Black Spices Of Madura",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Green Sambal Black Spiced Fried Duck Rice",
+    "description": "Special Salt Island",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Green Sambal Black Seasoned Chicken Fried Rice",
+    "description": "Serundeng",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Wing Fried Duck Rice",
+    "description": "Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "42000",
+    "name": "Double Duck Rice/2 Pieces Of Black Spices Sambal Ijo",
+    "description": "Serundeng",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "53000",
+    "name": "Nasi Bebek Super Jumbo",
+    "description": "Special Madura Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Green Chili Sauce Black Thigh Duck Thigh Rice",
+    "description": "Serundeng",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "24000",
+    "name": "Green Sambal Black Spiced Breast Duck Rice",
+    "description": "Serundeng",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Green Chili Black Seasoned Duck Rice",
+    "description": "Serundeng",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "30000",
+    "name": "Chicken Thigh Rice",
+    "description": "Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "23000",
+    "name": "Breast Fried Duck Rice",
+    "description": "Black Seasoning Doused",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "20000",
+    "name": "Duck Liver Gizzard Rice",
+    "description": "Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "20000",
+    "name": "Duck Only",
+    "description": "Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "10000",
+    "name": "Ati Ampela Saja",
+    "description": "Black Seasoning",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "5009",
+    "name": "Madurese Spices",
+    "description": "",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "6000",
+    "name": "Duck Head Only",
+    "description": "",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "6000",
+    "name": "Tofu Tempeh",
+    "description": "Only",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "6500",
+    "name": "White Rice",
+    "description": "Only 1 Portion",
+    "section": "duck and fried chicken rice"
+  },
+  {
+    "price": "5000",
+    "name": "Duck Head Only",
+    "description": "Savory",
+    "section": "duck and fried chicken rice"
+  }
+]

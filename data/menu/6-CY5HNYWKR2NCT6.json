@@ -1,0 +1,236 @@
+[
+  {
+    "price": "15000",
+    "name": "Mochi Dango Snack",
+    "description": "5 Pcs Soft And Chewy Vanilla Mochi Balls.",
+    "section": "snack"
+  },
+  {
+    "price": "22500",
+    "name": "Mochi Bomb Snack",
+    "description": "Special Mochi Soft Beef From Sauteed Inside 1 Nutella, 2 Ovomaltine 2 Biscoff.",
+    "section": "snack"
+  },
+  {
+    "price": "100500",
+    "name": "Daisuki Daifuku 6 Pcs",
+    "description": "A Chewy Japanese Snack With Full Of Flavor In It. There Are Midnight Choco, Snowy Berry, Matchoco, Cocoa Berry. Fresh Season Is Coming. We Got Another Chewy Japanese Snack You'Ll Love. There Are Snowy Mandarin, Snowy Mango And Strawberry Cheesecake. Choose Your Favorite Now!",
+    "section": "daisuki daifuku series"
+  },
+  {
+    "price": "33500",
+    "name": "Daisuki Daifuku 2 Pcs",
+    "description": "A Chewy Japanese Snack With Full Of Flavor In It. There Are Midnight Choco, Snowy Berry, Matchoco, Cocoa Berry. Fresh Season Is Coming. We Got Another Chewy Japanese Snack You'Ll Love. There Are Snowy Mandarin, Snowy Mango And Strawberry Cheesecake. Choose Your Favorite Now!",
+    "section": "daisuki daifuku series"
+  },
+  {
+    "price": "31250",
+    "name": "Original Matcha (R)",
+    "description": "The Best Accompaniments From Miami And Fresh Milk",
+    "section": "signature premium"
+  },
+  {
+    "price": "37500",
+    "name": "Tokyo Banana Milk (R)",
+    "description": "Snack #1 Combined With Fresh Milk, And A Soft Banana Mochi Topping",
+    "section": "signature premium"
+  },
+  {
+    "price": "35000",
+    "name": "Crispy Crunch Matcha (R)",
+    "description": "Matcha, Black Beans, Dan Ditaburi Dengan Topping Crispy Rice",
+    "section": "signature premium"
+  },
+  {
+    "price": "37500",
+    "name": "Biscoff Cheesecake (R)",
+    "description": "Campuran Nikmat Dari Fresh Milk Dan Hokkaido Cheese Cream Dengan Selai Lotus Biscoff (Dan Biscoff Crumble)",
+    "section": "signature premium"
+  },
+  {
+    "price": "25000",
+    "name": "Suisse Molten Chocolate",
+    "description": "Fried Premium Chocolate With A Creamy Sensation",
+    "section": "latte series"
+  },
+  {
+    "price": "25000",
+    "name": "Omotesando Latte (R)",
+    "description": "Milk Coffee Ice Guaranteed To Be Your Favorite",
+    "section": "latte series"
+  },
+  {
+    "price": "27500",
+    "name": "Tiramisu Rum Koffee (R)",
+    "description": "Delicious Rum Flavor Mixed With Sweet Tiramisu, Fresh Milk, And Coffee",
+    "section": "latte series"
+  },
+  {
+    "price": "15000",
+    "name": "Roasted Black Tea (L)",
+    "description": "The Original Fresh Tea Freshness Made From Roaest",
+    "section": "tea series"
+  },
+  {
+    "price": "15000",
+    "name": "Sencha Jasmine (L)",
+    "description": "Jasinanese Taste Mixed With Green Tea. Choice Of Classic Favorite.",
+    "section": "tea series"
+  },
+  {
+    "price": "15000",
+    "name": "Lemon Tea (L)",
+    "description": "Iced Tea And Lemon Completed With Slices Of Fresh Lemon",
+    "section": "tea series"
+  },
+  {
+    "price": "20000",
+    "name": "Mango Lime Tea (L)",
+    "description": "Fresh Ice Tea With Mango Fruit Cutlets, And Lime Slices",
+    "section": "tea series"
+  },
+  {
+    "price": "20000",
+    "name": "Koji Citrus Tea (L)",
+    "description": "Fragrant Snacks, Lemon Juice, And Sliced Lime That Makes You Aonion Right Away",
+    "section": "tea series"
+  },
+  {
+    "price": "20000",
+    "name": "Suika Berry Tea",
+    "description": "Aromatic Jasinated With Sweet Watermelon, Juicy Strawberry And Fresh Lime.",
+    "section": "tea series"
+  },
+  {
+    "price": "25000",
+    "name": "Dango Milk Tea",
+    "description": "The Sensation Of Fragrant Black Tea, Butter Cream, And Fresh Milk. Completed With Andgo Mochi Toppings (Including Andgo Mochi)",
+    "section": "milk tea series"
+  },
+  {
+    "price": "31250",
+    "name": "Mochi Bomb Milk Tea",
+    "description": "Mochi Bombo Milk Tea Black Tea, Fresh Milk, And Butter Cream, Topped With Your Choice Of Mochib Bomb.",
+    "section": "milk tea series"
+  },
+  {
+    "price": "17500",
+    "name": "Hanami Milk Tea (R)",
+    "description": "A Blend Of Black Tea And Fresh Milk That Makes Your Day More Cheerful (Not Including Vanilla Mochi)",
+    "section": "milk tea series"
+  },
+  {
+    "price": "22500",
+    "name": "Mochi Milk Tea (R)",
+    "description": "Black Tea, Fresh Milk, And Special Mochi Topping Of Shishu (Including Vanilla Mochi)",
+    "section": "milk tea series"
+  },
+  {
+    "price": "20000",
+    "name": "Honey Milk Tea (R)",
+    "description": "Black Tea, Cream, And Sweet Honey (Not Including Vanilla Mochi)",
+    "section": "milk tea series"
+  },
+  {
+    "price": "7500",
+    "name": "Hokkaido Cheese Cream",
+    "description": "Speciality Cream",
+    "section": "additional topping"
+  },
+  {
+    "price": "7500",
+    "name": "Butterscotch Cream",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "6250",
+    "name": "Meguro Vanilla Mochi",
+    "description": "Shushu'S Upgrade Handmade Mochi, Reformulated To Perfection With Chewier Texture And Pleasing Vanilla Flavor",
+    "section": "additional topping"
+  },
+  {
+    "price": "6250",
+    "name": "Banana Mochi",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "6250",
+    "name": "Crystal Jelly",
+    "description": "",
+    "section": "additional topping"
+  },
+  {
+    "price": "31250",
+    "name": "Meguro Vanilla Mochi 150Gr",
+    "description": "",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "43750",
+    "name": "Hokkaido Cheese Cream 350Ml",
+    "description": "",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "31250",
+    "name": "Banana Mochi - 150Gr",
+    "description": "",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "68750",
+    "name": "Sencha Jasmine (Bottle)",
+    "description": "Rich Jasmine Flavor Blended In The Perfectness Of Green Tea. A Classic Choice.",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "68750",
+    "name": "Roasted Black Tea (Bottle)",
+    "description": "Expertly Roasted Black Tea, Producing A True Quality And Distinct Taste To Your Cup.",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "123750",
+    "name": "Suisse Molten Chocolate (Bottle)",
+    "description": "A Smooth Sensation From Premium Swiss Chocolate.",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "106250",
+    "name": "Omotesando Latte - (Bottle - 1 Litre)",
+    "description": "An Unforgettable Classic Wake-Me-Up: Blend Of Finest Coffee Cream And Heartwarming Fresh Milk",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "112500",
+    "name": "Tiramisu Rum Koffee - (Bottle - 1 Litre)",
+    "description": "Daringly Fragrant Rum And Sweet Tiramisu Flavor In Fresh Milk Base, Swirled Over With Coffee Cream.",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "156250",
+    "name": "Tokyo Banana Milk(Bottle)",
+    "description": "The Original Taste Of Tokyo'S #1 Treat, Reimagined Into A Heavenly Blend Of Fresh Milk, Delicate Banana Flavor, And The Fluffiest Banana Mochi.",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "93750",
+    "name": "Hanami Milk Tea (1L)",
+    "description": "Original Blend Of Black Tea And Fresh Milk Swirled Together, A Light Sip For Springtime. Meguro Vanilla Mochi Is Included",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "106250",
+    "name": "Mochi Milk Tea (Botol 1L)",
+    "description": "",
+    "section": "menu 1liter"
+  },
+  {
+    "price": "106250",
+    "name": "Honey Milk Tea (1L)",
+    "description": "",
+    "section": "menu 1liter"
+  }
+]

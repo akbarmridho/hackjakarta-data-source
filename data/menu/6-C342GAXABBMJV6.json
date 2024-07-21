@@ -1,0 +1,326 @@
+[
+  {
+    "price": "51000",
+    "name": "Paket 1",
+    "description": "Passion Fruti Jasmine Tea, Milk Tea With 2 Topping (M), Strawberry Mi-Shake",
+    "section": "today's offer"
+  },
+  {
+    "price": "49000",
+    "name": "Paket 2",
+    "description": "Crunchy Bits Mixed Milk Tea, Fresh Squeezed Lemonade, Passion Fruit Jamine",
+    "section": "today's offer"
+  },
+  {
+    "price": "46000",
+    "name": "Paket 3",
+    "description": "Boba Sundae, Strawberry Lucky Sundae, Chocolate Lucky Sundae",
+    "section": "today's offer"
+  },
+  {
+    "price": "51000",
+    "name": "Paket 1",
+    "description": "Passion Fruti Jasmine Tea, Milk Tea With 2 Topping (M), Strawberry Mi-Shake",
+    "section": "paket menu"
+  },
+  {
+    "price": "49000",
+    "name": "Paket 2",
+    "description": "Crunchy Bits Mixed Milk Tea, Fresh Squeezed Lemonade, Passion Fruit Jamine",
+    "section": "paket menu"
+  },
+  {
+    "price": "46000",
+    "name": "Paket 3",
+    "description": "Boba Sundae, Strawberry Lucky Sundae, Chocolate Lucky Sundae",
+    "section": "paket menu"
+  },
+  {
+    "price": "24000",
+    "name": "Pearl Milk Tea (L)",
+    "description": "Mellow And Full-Bodied With Chewypearls How Tasty!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Pearl Milk Tea (M)",
+    "description": "Mellow And Full-Bodied With Chewypearls How Tasty!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "24000",
+    "name": "Oats Milk Tea (L)",
+    "description": "Oatmeal Granules Paired With Rich Milk Tea, Great!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Oats Milk Tea (M)",
+    "description": "Oatmeal Granules Paired With Rich Milk Tea, Great!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "24000",
+    "name": "Coconut Jelly Milk Tea (L)",
+    "description": "Smooth Coconut Jelly, Fabulous!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Coconut Jelly Milk Tea (M)",
+    "description": "Smooth Coconut Jelly, Fabulous!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "24000",
+    "name": "Red Bean Milk Tea (L)",
+    "description": "Sweet Glutinous Red Beans Blend Inmellow Milk Tea, Sweet Every Day!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Red Bean Milk Tea (M)",
+    "description": "Sweet Glutinous Red Beans Blend Inmellow Milk Tea, Sweet Every Day!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Brown Sugar Pearl Milk Tea (M)",
+    "description": "Soft And Chewy Brown Sugar Pearls!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "24000",
+    "name": "Supreme Mixed Milk Tea (L)",
+    "description": "A Variety Of Condiments, A Large Cup!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "24000",
+    "name": "Milk Tea With 2 Toppings (L)",
+    "description": "Smooth Brown Sugar Jelly And Coconut Jelly,Fabulous!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "21000",
+    "name": "Milk Tea With 2 Toppings (M)",
+    "description": "Smooth Brown Sugar Jelly And Coconut Jelly,Fabulous!",
+    "section": "milk tea series"
+  },
+  {
+    "price": "12000",
+    "name": "Fresh Squeezed Lemonade",
+    "description": "Always Loved By Men, Women Andkids!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "14000",
+    "name": "Lemon Jasmine Tea",
+    "description": "Fresh Ice Cream + Jasmine Tea ?Fresh And Elegant, Refreshing Andsmooth!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "14000",
+    "name": "Lemon Earl Grey Tea",
+    "description": "Fresh Ice Cream + Earl Grey Tea, Long-Lasting Freshness Mellow Andfull-Bodied!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "22000",
+    "name": "Passion Fruit Jasmine Tea",
+    "description": "Sour And Sweet With Abundant Toppings",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "12000",
+    "name": "Original Jasmine Tea",
+    "description": "Fresh And Elegant, Refreshing Andsmooth!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "15000",
+    "name": "Jasmine Tea With 2 Toppings",
+    "description": "Long-Lasting Freshness Mellow Andfull-Bodied!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "12000",
+    "name": "Original Earl Grey Tea",
+    "description": "Long-Lasting Freshness Mellow Andfull-Bodied!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "15000",
+    "name": "Earl Grey Tea With 2 Toppings",
+    "description": "Long-Lasting Freshness Mellow Andfull-Bodied!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "17000",
+    "name": "Kiwi Fruit Tea",
+    "description": "Sweet And Sour Of Kiwi Has High Vit-C!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "18000",
+    "name": "Peach Earl Grey Tea",
+    "description": "",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "24000",
+    "name": "Creamy Mango Boba",
+    "description": "Classic Hong Kong-Style Withabundant Toppings Popular For Men,Women And Kids!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "24000",
+    "name": "Hawaiian Fruit Tea",
+    "description": "Sour And Sweet With Abundant Toppings",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "18000",
+    "name": "Mango Oats Jasmine Tea",
+    "description": "Oatmeal With Fresh Jasmine Tea?Fresh And Elegant, Refreshing Andsmooth!",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "15000",
+    "name": "Grape Fruit Tea",
+    "description": "",
+    "section": "real fruit tea and original tea"
+  },
+  {
+    "price": "18000",
+    "name": "Kiwi Smoothies",
+    "description": "Sweet And Sour Of Kiwi Has High Vit-C! Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Strawberry Mi-Shake",
+    "description": "Shake Before Drinking, The Taste Is More Delicious!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Boba Mi-Shake",
+    "description": "",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Chocolate Cookies Smoothies",
+    "description": "Cookies Slices Matched With Ice Cream.Rich Taste And Flavor. The Sweetnessis Perfect!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Oreo Sundae",
+    "description": "",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Mi-Sundae Red Bean",
+    "description": "",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Strawberry Lucky Sundae",
+    "description": "Sweet Strawberry Jam, Full-Bodice Cream Classic Salad The Restaurant! Sausage On The Box! (Based On The Available Stock Availability)",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Chocolate Lucky Sundae",
+    "description": "Sweet Chocolate Sauce, Full-Bodiedice Cream Classic Beats The Rest!Surprise Ingredient On The Bottom!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Boba Sundae",
+    "description": "Sweet Brown Sugar, Chewy Pearls Full-Bodied Ice Cream, Tastes Fabulous!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Strawberry Smoothies",
+    "description": "Sweet Strawberry Jam, Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "15000",
+    "name": "Ice Cream Jasmine Tea",
+    "description": "Long-Lasting Freshness Mellow Andfull-Bodied! Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "15000",
+    "name": "Ice Cream Earl Grey Tea",
+    "description": "Long-Lasting Freshness Mellow Andfull-Bodied! Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Mi-Sundae Mango",
+    "description": "Sweet Mango Jam, Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Mango Smoothies",
+    "description": "Sweet Mango Jam, Full-Bodiedice Cream Classic Beats The Rest!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Grape Sundae",
+    "description": "",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "18000",
+    "name": "Grape Mi-Shake",
+    "description": "Sweet Grape Jam, Shake Before Drinking, The Taste Is More Delicious!",
+    "section": "fresh ice cream and tea"
+  },
+  {
+    "price": "28000",
+    "name": "Snow King Water Bottle 700Ml",
+    "description": "",
+    "section": "tumbler"
+  },
+  {
+    "price": "70000",
+    "name": "Water Bottle Big Head 1400Ml",
+    "description": "",
+    "section": "tumbler"
+  },
+  {
+    "price": "80000",
+    "name": "Snow King Fruit Stirring Cup Orange",
+    "description": "",
+    "section": "tumbler"
+  },
+  {
+    "price": "80000",
+    "name": "Snow King Fruit Stirring Cup Ice Cream",
+    "description": "",
+    "section": "tumbler"
+  },
+  {
+    "price": "80000",
+    "name": "Snow King Fruit Stirring Cup Strawberry",
+    "description": "",
+    "section": "tumbler"
+  },
+  {
+    "price": "80000",
+    "name": "Snow King Fruit Stirring Peach",
+    "description": "",
+    "section": "tumbler"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "price": "24900",
+    "name": "Rice Box Chicken With Shrimp Paste Sambal",
+    "description": "White Rice, Delicious Shrimp Paste Chicken, And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Rice Box Ayam Sambal Matah",
+    "description": "White Rice, Matah Sambal Chicken, And Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Fish Roll",
+    "description": "White Rice, Vegetables, Fish Roll With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Sosis",
+    "description": "White Rice, Vegetables, Chicken Sausages With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Meatballs",
+    "description": "White Rice, Vegetables, Beef Meatballs With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Nugget",
+    "description": "White Rice, Vegetables, Chicken Nugget With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Ayam Karage",
+    "description": "White Rice, Vegetables, Chicken Karaage With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Ayam Gunting",
+    "description": "White Rice, Chicken Meat With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Original",
+    "description": "Delicious Chicken Steak + Fried Potatoes + Mayo Vegetable Salad + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31820",
+    "name": "Bento Fries Chicken Steak Cheese",
+    "description": "Chicken Steak With Cheese Sauce Flavor + French Fries + Vegetable Salad + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Bbq",
+    "description": "Chicken Steak With Spicy Barbeque Sauce Flavor + Fried Potatoes + Mayo Vegetable Salad + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Hot Spicy",
+    "description": "Chicken Steak With Spicy Hot Sauce Flavor + French Fries + Vegetable Salad + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Blackpaper",
+    "description": "Chicken Steak With Black Pepper Sauce Flavor + Fried Potatoes + Vegetable Salad + Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Teriyaki",
+    "description": "Chicken Steak With Teriyaki Sauce Flavor + Fried Potatoes + Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Original",
+    "description": "Delicious Chicken Steak + White Rice + Mayo Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "27840",
+    "name": "Bento Rice Chicken Steak Cheese",
+    "description": "Chicken Steak With Cheese Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Bbq",
+    "description": "Chicken Steak With Spicy Barbeque Sauce Flavor + White Rice + Mayo Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Hot Spicy",
+    "description": "Chicken Steak With Spicy Hot Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Blackpaper",
+    "description": "Chicken Steak With Black Pepper Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Teriyaki",
+    "description": "Chicken Steak With Teriyaki Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Original",
+    "description": "Rice, Vegetable Salad Mayo, Chicken Meat, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "27880",
+    "name": "Bento Chicken Cheese",
+    "description": "Rice, Vegetable Salad Mayo, Cheese Sauce Chicken, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Bbq Pedas",
+    "description": "Rice, Mayo Vegetable Salad, Sweet Bbq Spicy Chicken Meat, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Hot Spicy",
+    "description": "Rice, Vegetable Salad Mayo, Hot Spicy Sauce Chicken, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Blackpaper",
+    "description": "Rice, Vegetable Salad Mayo, Black Pepper Chicken Meat, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Teriyaki",
+    "description": "Rice, Vegetable Salad Mayo, Teriyaki Sauce Chicken, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Original",
+    "description": "Rice, Vegetable Salad Mayo, Kebab Meat, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "27880",
+    "name": "Bento Chicken Slice Cheese",
+    "description": "Rice, Vegetable Salad Mayo, Cheese Sauce Kebab Meat, And Sambal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Bbq Pedas",
+    "description": "Rice, Mayo Salad, Beef Kebab Sauce Sweet Bbq Spicy",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Teriyaki",
+    "description": "Rice, Mayo Salad, Beef Kebab Teriyaki Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Blackpaper",
+    "description": "Rice, Mayo Salad, Beef Kebab Black Paper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Hot Spicy",
+    "description": "White Rice, Mayo Salad And Beef Kebab Hot Spicy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Fish Roll 3Pcs",
+    "description": "White Rice, Vegetable Salad, Fish Roll With Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Katsu",
+    "description": "Rice, Vegetable Salad, Chicken Katsu, And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Fishroll",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Fishroll Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Meatball",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Meatball Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Sausage",
+    "description": "Rice, Mayo Vegetable Salad, Japanese Chicken Sausage Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Fries Yakitori Chicken",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Chicken Meat Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Fish Roll",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Fishroll Satay With Sauce That Suits Your Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Sausage",
+    "description": "Rice, Sausage Yakitori, Vegetable Salad, Sauce And Flavor Choice",
+    "section": "today's offer"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Meatball",
+    "description": "Rice, Chickenkitori Meatballs, Vegetable Salad, Sauce And Flavor Choices",
+    "section": "today's offer"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Rice Yakitori Chicken",
+    "description": "Rice, Chicken Yakitori, Vegetable Salad, Sauce And Flavor Choice",
+    "section": "today's offer"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Rice Yakitori Beef Kebab",
+    "description": "Rice, Chicken, Kebab Meat, Vegetable Salad, Sauce And Choice Of Flavour",
+    "section": "today's offer"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Fishroll",
+    "description": "Special Japanese Satay Fishroll 5 Skewers",
+    "section": "today's offer"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Sosis Ayam",
+    "description": "Japanese Chicken Sausage Satay 5 Skewers",
+    "section": "today's offer"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Meatballs",
+    "description": "Japanese Meatball Special Satay 5 Skewers",
+    "section": "today's offer"
+  },
+  {
+    "price": "26100",
+    "name": "Yakitori Ayam",
+    "description": "Special Japanese Chicken Satay 5 Skewers",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Bistik Ayam",
+    "description": "White Rice Wrapped In Savory Butter + Chicken Steak With Your Choice Of Sauce + Fried Egg + Mayo Vegetable Salad",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Steak Ayam",
+    "description": "White Rice Wrapped In Savory Butter + Chicken Steak With Your Choice Of Sauce + Fried Egg + Mayo Salad",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Karage",
+    "description": "Rice With Savory Butter, Egg And Chicken Karage And Selected Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Fish Roll",
+    "description": "White Rice Wrapped In Savory Butter Topping Fish Roll, Fried Eggs, Vegetables And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Katsu",
+    "description": "Rice Wrapped In Savory Butter Topped With Chicken Katsu And Egg",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Sausage Kimbo",
+    "description": "Rice With Savory Butter, Egg And Beef Kimbo Sausage 6 Pcs And Selected Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Meatball",
+    "description": "Rice With Savory Butter, Egg And Beef Meatballs And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Nugget",
+    "description": "Rice With Savory Butter, Egg And Chicken Nugget And Selected Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Fish Roll & Egg",
+    "description": "White Rice, Fish Roll, Fried Egg And Your Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Meatball Egg",
+    "description": "Rice, Beef Meatballs, Eggs, With A Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Sausage Egg",
+    "description": "Rice, Sausage, Egg With Choice Of Flavor",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Chicken Nugget Egg",
+    "description": "Rice, Chicken Nugget, Egg With Choice Of Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Steak",
+    "description": "Rice, Fried Egg, Chicken Steak With Savory Cheese Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Katsu",
+    "description": "White Rice, Chicken Katsu With Delicious Cheese Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Karage",
+    "description": "White Rice, Fish Roll Topping, Fried Eggs And Cheese Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Fish Roll",
+    "description": "Rice, Fish Roll, Fried Egg, With Cheese Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Sausage",
+    "description": "Rice, Chicken Sausage, Fried Eggs, Cheese Sauce,Parsley",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Nugget",
+    "description": "Rice, Chicken Nugget, Eggs, Cheese Sauce, Parsley",
+    "section": "today's offer"
+  },
+  {
+    "price": "21600",
+    "name": "Seblak Spesial Nikmat",
+    "description": "Eggs, Sausage, Meatballs, Crackers, Vegetables And Delicious Seblak Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "15660",
+    "name": "Delicious Plain Egg Soup",
+    "description": "Eggs With Delicious Gravy And Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "17400",
+    "name": "Egg Soup + Delicious Sausage",
+    "description": "Eggs, Sausage And Delicious Seasonings",
+    "section": "today's offer"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Meatball",
+    "description": "Rice, Beef Meatballs, Fried Eggs, Cheese Sauce,Parsley",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Chicken Crazy Rice",
+    "description": "Nasi Gila With Boneless Chicken + Vegetables + Lalapan + Special Seasoning",
+    "section": "today's offer"
+  },
+  {
+    "price": "20400",
+    "name": "Egg Crazy Rice",
+    "description": "Rice + Scrambled Eggs Mixed With Special Seasonings And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Fishroll Crazy Rice",
+    "description": "Rice + Fishroll Mixed With Special Spices And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "17400",
+    "name": "Egg Soup + Delicious Meatballs",
+    "description": "Eggs, Gravy And Delicious Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Sausage Crazy Rice",
+    "description": "Rice + Chicken Sausage Mixed With Special Seasonings And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "20010",
+    "name": "Delicious Egg Soup + Fish Roll",
+    "description": "Eggs, Fish Roll Kuah And Delicious Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Nasi Gila Bakso",
+    "description": "Rice + Beef Meatballs Mixed With Special Spices And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "25500",
+    "name": "Special Crazy Rice",
+    "description": "Rice, Scrambled Eggs, Chicken Sausage, Beef Meatballs, Beef Kebabs, Vegetables, And Special Spices",
+    "section": "today's offer"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Bistik Ayam",
+    "description": "Instian Fried Noodles, Chicken Steak, Mayo Vegetable Salad, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Chicken Steak",
+    "description": "Instan Fried Noodles, Chicken Steak, Vegetable Salad Mayo, And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Chicken Katsu",
+    "description": "Instan Fried Noodles, Chicken Katsu, Vegetable Salad Mayo And Chili Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "14400",
+    "name": "Delicious Hot And Spicy Cracker Stew With Egg",
+    "description": "Eggs, Vegetables, Crackers, And Delicious Delicious Gravy",
+    "section": "today's offer"
+  },
+  {
+    "price": "16800",
+    "name": "Seblak Chicken Meat",
+    "description": "Boneless Chicken, Eggs, Wet Crackers And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "16800",
+    "name": "Seblak Sosis Nikmat",
+    "description": "Sausage, Egg, Crackers, Vegetables And Delicious Seblak Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "16800",
+    "name": "Delicious Sundanese Dish Made By Stewed Crackers With Meatballs",
+    "description": "Meatballs, Eggs, Crackers, Vegetables And Delicious Seblak Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "16800",
+    "name": "Delicious Spicy Cracker Stew With Fish Roll",
+    "description": "Fish Roll, Egg, Crackers, Vegetables And Delicious Seblak Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "20880",
+    "name": "Telur Kuah + Daging Ayam Nikmat",
+    "description": "Eggs, Soy Sauce Chicken, Vegetables And Special Seasonings",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Rice+Flok Egg Pontianak",
+    "description": "Rice, Fried Eggs With Delicious Soy Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24030",
+    "name": "Nasi Telur Dadar Full Topping",
+    "description": "Omelette Rice Topped With Chicken Sausage, Beef Meatballs, Kebab Beef, Vegetables And Chili Suit Your Taste",
+    "section": "today's offer"
+  },
+  {
+    "price": "19580",
+    "name": "Nasi Telur Dadar & Daging Ayam",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "16910",
+    "name": "Nasi Telur Dadar&Sosis",
+    "description": "Omelette Rice With Chicken Sausage",
+    "section": "today's offer"
+  },
+  {
+    "price": "16910",
+    "name": "Rice With Omelette And Meatball",
+    "description": "Omelet Rice With Beef Meatball",
+    "section": "today's offer"
+  },
+  {
+    "price": "15130",
+    "name": "Plain Omelette Rice",
+    "description": "",
+    "section": "today's offer"
+  },
+  {
+    "price": "19550",
+    "name": "Nasi Goreng Telur Dadar",
+    "description": "Fried Rice, Omelet, Vegetables. Level 1-3",
+    "section": "today's offer"
+  },
+  {
+    "price": "19550",
+    "name": "Fried Rice With Fried Egg",
+    "description": "Fried Rice, Eggs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Nasi Goreng Sosis",
+    "description": "Fried Rice, Sausage And Vegetables.",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Meatball Fried Rice",
+    "description": "Fried Rice, Meatballs And Vegetables.",
+    "section": "today's offer"
+  },
+  {
+    "price": "17000",
+    "name": "Regular Fried Rice With Shrimp Paste",
+    "description": "Fried Rice, Shrimp Paste And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "18700",
+    "name": "Egg Shrimp Paste Fried Rice",
+    "description": "Fried Rice, Mixed Egg/Ceplok, Shrimp Paste, And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "21250",
+    "name": "Nasi Goreng Fish Roll",
+    "description": "Fried Rice (Soy Sauce/Without Soy Sauce) + Fish Roll 2 Pcs, And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "23800",
+    "name": "Special Shrimp Paste Fried Rice",
+    "description": "Fried Rice, Eggs, Chicken Sausage, Beef Meatballs And Vegetables",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Rice Box Chicken With Shrimp Paste Sambal",
+    "description": "White Rice, Delicious Shrimp Paste Chicken, And Lalapan",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24900",
+    "name": "Rice Box Ayam Sambal Matah",
+    "description": "White Rice, Matah Sambal Chicken, And Lalapan",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Fish Roll",
+    "description": "White Rice, Vegetables, Fish Roll With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Sosis",
+    "description": "White Rice, Vegetables, Chicken Sausages With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Meatballs",
+    "description": "White Rice, Vegetables, Beef Meatballs With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Nugget",
+    "description": "White Rice, Vegetables, Chicken Nugget With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Ayam Karage",
+    "description": "White Rice, Vegetables, Chicken Karaage With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "24070",
+    "name": "Rice Box Ayam Gunting",
+    "description": "White Rice, Chicken Meat With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "30000",
+    "name": "Rice Box Ayam Sambal Limau",
+    "description": "White Rice, Delicious 5U Chicken And Lalapan",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "30000",
+    "name": "Rice Box Ayam Sambal Geprek",
+    "description": "White Rice, Smashed Sambal Chicken And Lalapan",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "29000",
+    "name": "Rice Box Ebi Furai",
+    "description": "White Rice, Vegetables, Ebi Furai With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "29000",
+    "name": "Rice Box Shrimp Roll",
+    "description": "White Rice, Vegetables, Shrimp Roll With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "29000",
+    "name": "Rice Box Beef Kebab",
+    "description": "White Rice, Vegetables, Tury Kebab Meat With Your Choice Of Sauce",
+    "section": "rice box fix best seller"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Original",
+    "description": "Delicious Chicken Steak + Fried Potatoes + Mayo Vegetable Salad + Chili Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "31820",
+    "name": "Bento Fries Chicken Steak Cheese",
+    "description": "Chicken Steak With Cheese Sauce Flavor + French Fries + Vegetable Salad + Chili Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Bbq",
+    "description": "Chicken Steak With Spicy Barbeque Sauce Flavor + Fried Potatoes + Mayo Vegetable Salad + Chili Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Hot Spicy",
+    "description": "Chicken Steak With Spicy Hot Sauce Flavor + French Fries + Vegetable Salad + Chili Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Blackpaper",
+    "description": "Chicken Steak With Black Pepper Sauce Flavor + Fried Potatoes + Vegetable Salad + Chili Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "30100",
+    "name": "Bento Fries Chicken Steak Teriyaki",
+    "description": "Chicken Steak With Teriyaki Sauce Flavor + Fried Potatoes + Vegetable Salad + Sambal Sauce",
+    "section": "bento fries chicken steak crispy"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Original",
+    "description": "Delicious Chicken Steak + White Rice + Mayo Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "27840",
+    "name": "Bento Rice Chicken Steak Cheese",
+    "description": "Chicken Steak With Cheese Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Bbq",
+    "description": "Chicken Steak With Spicy Barbeque Sauce Flavor + White Rice + Mayo Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Hot Spicy",
+    "description": "Chicken Steak With Spicy Hot Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Blackpaper",
+    "description": "Chicken Steak With Black Pepper Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "26100",
+    "name": "Bento Rice Chicken Steak Teriyaki",
+    "description": "Chicken Steak With Teriyaki Sauce Flavor + White Rice + Vegetable Salad + Sambal Sauce",
+    "section": "bento rice chicken steak"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Original",
+    "description": "Rice, Vegetable Salad Mayo, Chicken Meat, And Sambal Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "27880",
+    "name": "Bento Chicken Cheese",
+    "description": "Rice, Vegetable Salad Mayo, Cheese Sauce Chicken, And Sambal Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Bbq Pedas",
+    "description": "Rice, Mayo Vegetable Salad, Sweet Bbq Spicy Chicken Meat, And Sambal Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Hot Spicy",
+    "description": "Rice, Vegetable Salad Mayo, Hot Spicy Sauce Chicken, And Sambal Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Blackpaper",
+    "description": "Rice, Vegetable Salad Mayo, Black Pepper Chicken Meat, And Chili Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Teriyaki",
+    "description": "Rice, Vegetable Salad Mayo, Teriyaki Sauce Chicken, And Sambal Sauce",
+    "section": "special chicken bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Original",
+    "description": "Rice, Vegetable Salad Mayo, Kebab Meat, And Sambal Sauce",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "27880",
+    "name": "Bento Chicken Slice Cheese",
+    "description": "Rice, Vegetable Salad Mayo, Cheese Sauce Kebab Meat, And Sambal Sauce",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Bbq Pedas",
+    "description": "Rice, Mayo Salad, Beef Kebab Sauce Sweet Bbq Spicy",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Teriyaki",
+    "description": "Rice, Mayo Salad, Beef Kebab Teriyaki Sauce",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Blackpaper",
+    "description": "Rice, Mayo Salad, Beef Kebab Black Paper Sauce",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "26240",
+    "name": "Bento Chicken Slice Hot Spicy",
+    "description": "White Rice, Mayo Salad And Beef Kebab Hot Spicy Sauce",
+    "section": "special chicken slice bento"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Fish Roll 3Pcs",
+    "description": "White Rice, Vegetable Salad, Fish Roll With Your Choice Of Sauce",
+    "section": "bento simple"
+  },
+  {
+    "price": "25500",
+    "name": "Bento Chicken Katsu",
+    "description": "Rice, Vegetable Salad, Chicken Katsu, And Your Choice Of Sauce",
+    "section": "bento simple"
+  },
+  {
+    "price": "30000",
+    "name": "Bento Ebi Furai 3Pcs",
+    "description": "Rice, Vegetable Salad, Ebi Furai 2 Pcs, And Your Choice Of Sauce",
+    "section": "bento simple"
+  },
+  {
+    "price": "30000",
+    "name": "Bento Shrimp Roll 3Pcs",
+    "description": "Rice, Vegetable Salad, Shrimp Roll 3 Pcs, And Your Choice Of Sauce",
+    "section": "bento simple"
+  },
+  {
+    "price": "30000",
+    "name": "Bento Egg Chicken Roll 3Pcs",
+    "description": "White Rice, Vegetable Salad, Egg Chicken Roll 3 Pcs",
+    "section": "bento simple"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Fishroll",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Fishroll Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Meatball",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Meatball Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Fries Yakitori Sausage",
+    "description": "Rice, Mayo Vegetable Salad, Japanese Chicken Sausage Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Fries Yakitori Chicken",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Chicken Meat Satay With Sauce That Suits Your Taste, And Chili Sauce",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Fish Roll",
+    "description": "Rice, Vegetable Salad Mayo, Japanese Fishroll Satay With Sauce That Suits Your Taste",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Sausage",
+    "description": "Rice, Sausage Yakitori, Vegetable Salad, Sauce And Flavor Choice",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "24940",
+    "name": "Bento Rice Yakitori Meatball",
+    "description": "Rice, Chickenkitori Meatballs, Vegetable Salad, Sauce And Flavor Choices",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Rice Yakitori Chicken",
+    "description": "Rice, Chicken Yakitori, Vegetable Salad, Sauce And Flavor Choice",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "28380",
+    "name": "Bento Rice Yakitori Beef Kebab",
+    "description": "Rice, Chicken, Kebab Meat, Vegetable Salad, Sauce And Choice Of Flavour",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "33000",
+    "name": "Bento Fries Yakitori Beef Kebab",
+    "description": "Rice, Vegetable Salad, Special Japanese Beef Kebab Satay With Sauce And Chili Sauce",
+    "section": "bento yakitori"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Fishroll",
+    "description": "Special Japanese Satay Fishroll 5 Skewers",
+    "section": "yakitori yummy"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Sosis Ayam",
+    "description": "Japanese Chicken Sausage Satay 5 Skewers",
+    "section": "yakitori yummy"
+  },
+  {
+    "price": "21750",
+    "name": "Yakitori Meatballs",
+    "description": "Japanese Meatball Special Satay 5 Skewers",
+    "section": "yakitori yummy"
+  },
+  {
+    "price": "26100",
+    "name": "Yakitori Ayam",
+    "description": "Special Japanese Chicken Satay 5 Skewers",
+    "section": "yakitori yummy"
+  },
+  {
+    "price": "30000",
+    "name": "Yakitori Beef Kebab",
+    "description": "Japanese Beef Special Satay Beef Kebab 5 Skewers",
+    "section": "yakitori yummy"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Bistik Ayam",
+    "description": "White Rice Wrapped In Savory Butter + Chicken Steak With Your Choice Of Sauce + Fried Egg + Mayo Vegetable Salad",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Steak Ayam",
+    "description": "White Rice Wrapped In Savory Butter + Chicken Steak With Your Choice Of Sauce + Fried Egg + Mayo Salad",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Karage",
+    "description": "Rice With Savory Butter, Egg And Chicken Karage And Selected Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Fish Roll",
+    "description": "White Rice Wrapped In Savory Butter Topping Fish Roll, Fried Eggs, Vegetables And Your Choice Of Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Katsu",
+    "description": "Rice Wrapped In Savory Butter Topped With Chicken Katsu And Egg",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Sausage Kimbo",
+    "description": "Rice With Savory Butter, Egg And Beef Kimbo Sausage 6 Pcs And Selected Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Meatball",
+    "description": "Rice With Savory Butter, Egg And Beef Meatballs And Your Choice Of Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "31500",
+    "name": "Butter Rice Chicken Nugget",
+    "description": "Rice With Savory Butter, Egg And Chicken Nugget And Selected Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Beef Kebab",
+    "description": "White Rice Wrapped In Savory Butter + Beef Kebab Meat With Your Choice Of Sauce + Fried Egg + Mayo Vegetable Salad",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Beef Kebab Katsu",
+    "description": "Savory Butter Rice, Fried Egg, Beef Katsu Kebab With Your Choice Of Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Tempura Beef Kebab",
+    "description": "Savory Butter Rice, Fried Eggs, With Tempura Beef Kebabs And Your Choice Of Sauce",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Ebi Furai",
+    "description": "Rice Wrapped In Savory Butter Topped With Ebi Furai 3 Pcs And Eggs",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Chicken Egg Roll",
+    "description": "Rice Wrapped In Savory Butter Topped With Chicken Egg Roll 3 Pcs And Egg",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "35000",
+    "name": "Butter Rice Shrimp Roll",
+    "description": "Rice Wrapped In Savory Butter Topped With 3 Pcs Of Shrimp Rolls And Eggs",
+    "section": "butter rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Fish Roll & Egg",
+    "description": "White Rice, Fish Roll, Fried Egg And Your Choice Of Sauce",
+    "section": "bowl fix"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Meatball Egg",
+    "description": "Rice, Beef Meatballs, Eggs, With A Choice Of Sauce",
+    "section": "bowl fix"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Sausage Egg",
+    "description": "Rice, Sausage, Egg With Choice Of Flavor",
+    "section": "bowl fix"
+  },
+  {
+    "price": "28200",
+    "name": "Bowl Fix Chicken Nugget Egg",
+    "description": "Rice, Chicken Nugget, Egg With Choice Of Sauce",
+    "section": "bowl fix"
+  },
+  {
+    "price": "30000",
+    "name": "Bowl Fix Beef Egg",
+    "description": "Rice,Smoked Beef, Eggs With Choice Of Flavour",
+    "section": "bowl fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Steak",
+    "description": "Rice, Fried Egg, Chicken Steak With Savory Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Katsu",
+    "description": "White Rice, Chicken Katsu With Delicious Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Chicken Karage",
+    "description": "White Rice, Fish Roll Topping, Fried Eggs And Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Fish Roll",
+    "description": "Rice, Fish Roll, Fried Egg, With Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Sausage",
+    "description": "Rice, Chicken Sausage, Fried Eggs, Cheese Sauce,Parsley",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Nugget",
+    "description": "Rice, Chicken Nugget, Eggs, Cheese Sauce, Parsley",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "28200",
+    "name": "Cheese Rice Meatball",
+    "description": "Rice, Beef Meatballs, Fried Eggs, Cheese Sauce,Parsley",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Rice Bistik Ayam",
+    "description": "Rice, Fried Eggs, Chicken Steak With Savory Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Rice Shrimp Roll",
+    "description": "White Rice, Shrimp Roll With Delicious Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Rice Beef Kebab",
+    "description": "Rice, Kebab Beef, Eggs, Cheese Sauce,Parsley",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Rice Ebi Furai",
+    "description": "White Rice, Ebi Furai With Delicious Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "30000",
+    "name": "Cheese Rice Chicken Eggroll",
+    "description": "White Rice, Chicken Eggroll With Delicious Cheese Sauce",
+    "section": "cheese rice fix"
+  },
+  {
+    "price": "25500",
+    "name": "Chicken Crazy Rice",
+    "description": "Nasi Gila With Boneless Chicken + Vegetables + Lalapan + Special Seasoning",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "20400",
+    "name": "Egg Crazy Rice",
+    "description": "Rice + Scrambled Eggs Mixed With Special Seasonings And Vegetables",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "21250",
+    "name": "Fishroll Crazy Rice",
+    "description": "Rice + Fishroll Mixed With Special Spices And Vegetables",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "21250",
+    "name": "Sausage Crazy Rice",
+    "description": "Rice + Chicken Sausage Mixed With Special Seasonings And Vegetables",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "21250",
+    "name": "Nasi Gila Bakso",
+    "description": "Rice + Beef Meatballs Mixed With Special Spices And Vegetables",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "25500",
+    "name": "Special Crazy Rice",
+    "description": "Rice, Scrambled Eggs, Chicken Sausage, Beef Meatballs, Beef Kebabs, Vegetables, And Special Spices",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "30000",
+    "name": "Meat Crazy Rice Kebab",
+    "description": "Rice + Kebab Beef Mixed With Special Seasonings And Vegetables",
+    "section": "delicious crazy rice"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Bistik Ayam",
+    "description": "Instian Fried Noodles, Chicken Steak, Mayo Vegetable Salad, And Chili Sauce",
+    "section": "mie bento"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Chicken Steak",
+    "description": "Instan Fried Noodles, Chicken Steak, Vegetable Salad Mayo, And Chili Sauce",
+    "section": "mie bento"
+  },
+  {
+    "price": "26400",
+    "name": "Mie Bento Chicken Katsu",
+    "description": "Instan Fried Noodles, Chicken Katsu, Vegetable Salad Mayo And Chili Sauce",
+    "section": "mie bento"
+  },
+  {
+    "price": "30000",
+    "name": "Mie Bento Tempura Beef Kebab",
+    "description": "Fried Noodles, Vegetable Salad, Tempura Beef Kebabs Tury",
+    "section": "mie bento"
+  },
+  {
+    "price": "30000",
+    "name": "Mie Bento Beef Kebab Katsu",
+    "description": "Fried Noodles, Vegetable Salad With Beef Katsu",
+    "section": "mie bento"
+  }
+]

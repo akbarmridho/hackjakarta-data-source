@@ -1,0 +1,170 @@
+[
+  {
+    "price": "117000",
+    "name": "Paket Lengkap 3 Porsi",
+    "description": "1 Nasi Samcan, 1 Nasi Babi Goreng, 1 Nasi Ham, 2 sambal matah & 1 sambal cuboy",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "Duo Bagor",
+    "description": "1 Nasi Babi Goreng Matah & 1 Nasi Babi Goreng Cuboy",
+    "section": "today's offer"
+  },
+  {
+    "price": "80000",
+    "name": "Si Manis & Si Gurih",
+    "description": "1 Nasi Samcan Matah & 1 Ham Cuboy",
+    "section": "today's offer"
+  },
+  {
+    "price": "61000",
+    "name": "Promo Ham Alacarte",
+    "description": "1 Ham Alacarte, 1 Sambal Matah & 1 Sambal Cuboy",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "Ala Carte Fried Ham",
+    "description": "Fried Hammaling 12 Pcs",
+    "section": "today's offer"
+  },
+  {
+    "price": "117000",
+    "name": "Paket Lengkap 3 Porsi",
+    "description": "1 Nasi Samcan, 1 Nasi Babi Goreng, 1 Nasi Ham, 2 sambal matah & 1 sambal cuboy",
+    "section": "paket cuan"
+  },
+  {
+    "price": "80000",
+    "name": "Duo Bagor",
+    "description": "1 Nasi Babi Goreng Matah & 1 Nasi Babi Goreng Cuboy",
+    "section": "paket cuan"
+  },
+  {
+    "price": "80000",
+    "name": "Si Manis & Si Gurih",
+    "description": "1 Nasi Samcan Matah & 1 Ham Cuboy",
+    "section": "paket cuan"
+  },
+  {
+    "price": "61000",
+    "name": "Promo Ham Alacarte",
+    "description": "1 Ham Alacarte, 1 Sambal Matah & 1 Sambal Cuboy",
+    "section": "paket cuan"
+  },
+  {
+    "price": "43000",
+    "name": "Fried Rice With Sambal Cuboy",
+    "description": "Rice With Crispy Fried Spiced Up With Cuboy Sauce",
+    "section": "rice"
+  },
+  {
+    "price": "43000",
+    "name": "Fried With Matah Sauce",
+    "description": "Rice With Crispy Fried With Delicious Matah Sambal",
+    "section": "rice"
+  },
+  {
+    "price": "42000",
+    "name": "Fried Ham Rice",
+    "description": "Savory Fried Hammaling Served With Warm Rice",
+    "section": "rice"
+  },
+  {
+    "price": "45000",
+    "name": "Soy Sauce Rice",
+    "description": "Delicious Sweet Samcan Served With Warm Rice",
+    "section": "rice"
+  },
+  {
+    "price": "43500",
+    "name": "Fried Ham Rice + Egg +",
+    "description": "Delicious Ham Plus Sunny Side Up Eggs, The More Joss",
+    "section": "egg package"
+  },
+  {
+    "price": "51500",
+    "name": "Soy Sauce Rice + Egg +",
+    "description": "Sweet Samcan Plus Savory Sunny Side Up To Be Even More Delicious",
+    "section": "egg package"
+  },
+  {
+    "price": "44500",
+    "name": "Fried Rice + Egg +",
+    "description": "Crispy Fried With Your Choice Of Sambal Plus Sunny Side Up Eggs",
+    "section": "egg package"
+  },
+  {
+    "price": "66000",
+    "name": "Ala Carte Fried Ham",
+    "description": "Fried Hammaling 12 Pcs",
+    "section": "ala carte"
+  },
+  {
+    "price": "64000",
+    "name": "Samcan Kecap Ala Carte",
+    "description": "Samcan With Sweet Seasoning That Can Be Enjoyed Together",
+    "section": "ala carte"
+  },
+  {
+    "price": "49000",
+    "name": "Fried With Squid Ala Carte",
+    "description": "Crispy Fried Topped With A Savory Cuboy Sambal",
+    "section": "ala carte"
+  },
+  {
+    "price": "49000",
+    "name": "Fried With Matah Ala Carte",
+    "description": "Crispy Fried Topped With Matah Sambal",
+    "section": "ala carte"
+  },
+  {
+    "price": "7000",
+    "name": "Omelette",
+    "description": "Tolong tulis diletakkan di menu apa, jika tidak akan kami letakkan random :)",
+    "section": "extra"
+  },
+  {
+    "price": "7000",
+    "name": "Beef Side Up",
+    "description": "Please Write In The Menu, If We Will Not Be Taro Random :)",
+    "section": "extra"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "Yuk Plus White Rice So You Can Add Full",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Squid Sambal",
+    "description": "Extra Cuboy Sambal To Make It More Spicy",
+    "section": "extra"
+  },
+  {
+    "price": "5000",
+    "name": "Matah Sauce",
+    "description": "Extra Matah Sambal Is More Delicious",
+    "section": "extra"
+  },
+  {
+    "price": "500",
+    "name": "Extra Sendok",
+    "description": "",
+    "section": "extra"
+  },
+  {
+    "price": "7500",
+    "name": "Pucuk Tea (350Ml)",
+    "description": "",
+    "section": "drink"
+  },
+  {
+    "price": "6000",
+    "name": "Mineral Water (600Ml)",
+    "description": "",
+    "section": "drink"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "price": "35000",
+    "name": "Spesial Gulai 1",
+    "description": "1 Potong Ayam + 1 Nasi",
+    "section": "spesial gulai"
+  },
+  {
+    "price": "60000",
+    "name": "Spesial Gulai 2",
+    "description": "2 Potong Ayam + 2 Nasi",
+    "section": "spesial gulai"
+  },
+  {
+    "price": "14000",
+    "name": "French Fries",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "7000",
+    "name": "Fried Soup",
+    "description": "",
+    "section": "snack"
+  },
+  {
+    "price": "48000",
+    "name": "Ferari Package 3",
+    "description": "Nasi Putih + 2 Pcs Forever Crispy (Besar + Kecil) + Minuman (Red Sparkling/Lemon Tea/)",
+    "section": "package"
+  },
+  {
+    "price": "29500",
+    "name": "Ferri 2 Package",
+    "description": "White Rice + Crispy Foreve (Lower Thigh/Wing) + Drink (Red Sponge/Lemon Tea/)",
+    "section": "package"
+  },
+  {
+    "price": "32000",
+    "name": "Ferris Package 1",
+    "description": "Nasi Putih + Forever Crispy (Paha Atas/Dada) + Minuman (Red Sparkling/Lemon Tea/Air Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "45000",
+    "name": "Merri 3 Package",
+    "description": "Nasi Putih + 2 Pcs Red Crispy (Besar + Kecil) + Minuman (Red Sparkling/Lemon Tea/Air Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "28000",
+    "name": "Merri 2 Package",
+    "description": "White Rice + Crispy Red (Lower Thigh/Wing) + (Red Sprinkling/Lemon Tea/Mineral Water/Co-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "31000",
+    "name": "Merri 1 Package",
+    "description": "Nasi Putih + Red Crispy (Paha Atas/Dada) + Minuman (Red Sparkling/Lemon Tea/Air Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "39500",
+    "name": "Combi 3",
+    "description": "White Rice + 2 Pcs Of Original Crispy Chicken (Large + Small) + Drink (Red Sponge/Lemon Tea)",
+    "section": "package"
+  },
+  {
+    "price": "25000",
+    "name": "Combi 2 Package",
+    "description": "White Rice + Crispy Original Chicken (Lower Thigh/Wing) + Drink (Red Sponge/Lemon Tea/Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "28500",
+    "name": "Combi 1 Package",
+    "description": "White Rice + Crispy Original Chicken (Upper Thigh/Breast) + Drink (Red Sponge/Lemon Tea/Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "32000",
+    "name": "Package Vw 3",
+    "description": "Nasi Putih + Fillet Forever + Minuman (Red Sparkling/Lemon Tea/)",
+    "section": "package"
+  },
+  {
+    "price": "31000",
+    "name": "Package Vw 2",
+    "description": "Nasi Putih + Fillet Red + Minuman (Red Sparkling/Lemon Tea/Air Mineral/Coca-Cola)",
+    "section": "package"
+  },
+  {
+    "price": "28500",
+    "name": "Package Vw 1",
+    "description": "White Rice + Original Fillet + Drink (Red Sponge/Lemon Tea (Lemon Tea",
+    "section": "package"
+  },
+  {
+    "price": "7000",
+    "name": "White Rice",
+    "description": "",
+    "section": "a la carte"
+  },
+  {
+    "price": "18000",
+    "name": "Geprek Crispy Chicken S",
+    "description": "Crispy Original Chicken With Smashed Sambal",
+    "section": "a la carte"
+  },
+  {
+    "price": "21000",
+    "name": "Geprek Crispy Chicken L",
+    "description": "Crispy Original Chicken With Smashed Sambal",
+    "section": "a la carte"
+  },
+  {
+    "price": "18000",
+    "name": "Forever Crispy Chicken S",
+    "description": "Crispy Fried Chicken Nashville",
+    "section": "a la carte"
+  },
+  {
+    "price": "21000",
+    "name": "Forever Crispy Chicken L",
+    "description": "Ayam Nashville Crispy",
+    "section": "a la carte"
+  },
+  {
+    "price": "16500",
+    "name": "Red Crispy Chicken S",
+    "description": "Crispy Red Chicken (Level 1-5)",
+    "section": "a la carte"
+  },
+  {
+    "price": "19500",
+    "name": "Red Crispy Chicken L",
+    "description": "Crispy Red Chicken (Level 1-5)",
+    "section": "a la carte"
+  },
+  {
+    "price": "17000",
+    "name": "Original Crispy Chicken",
+    "description": "Crispy Original Chicken",
+    "section": "a la carte"
+  },
+  {
+    "price": "14000",
+    "name": "Original Crispy Chicken",
+    "description": "Crispy Original Chicken",
+    "section": "a la carte"
+  },
+  {
+    "price": "21000",
+    "name": "Fillet Forelver",
+    "description": "Crispy Nashville Chicken Fillet",
+    "section": "a la carte"
+  },
+  {
+    "price": "19500",
+    "name": "Fillet Red",
+    "description": "Ayam Fillet Merah Crispy (Level 1-5)",
+    "section": "a la carte"
+  },
+  {
+    "price": "17000",
+    "name": "Fillet Original",
+    "description": "Ayam Fillet Original Crispy",
+    "section": "a la carte"
+  },
+  {
+    "price": "7000",
+    "name": "Geprek Sambal",
+    "description": "Smashed Sambal",
+    "section": "addping"
+  },
+  {
+    "price": "5000",
+    "name": "Cheese Sauce",
+    "description": "Salted Cheese Sauce",
+    "section": "addping"
+  },
+  {
+    "price": "5000",
+    "name": "Spicy Sauce Bulgogi",
+    "description": "Spicy Bulgogi Sauce",
+    "section": "addping"
+  },
+  {
+    "price": "10000",
+    "name": "Red Quarterling",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "10000",
+    "name": "Lemon Tea",
+    "description": "Lemon Tea Ice",
+    "section": "drinks"
+  },
+  {
+    "price": "22000",
+    "name": "Hot Coffee Latte",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "18000",
+    "name": "Hot Black Coffee",
+    "description": "",
+    "section": "drinks"
+  },
+  {
+    "price": "26000",
+    "name": "Thick Chocolate",
+    "description": "Chocolate Ice/Chocolate Frape + Fresh Milk",
+    "section": "drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Thick Hazelnut Coffee",
+    "description": "Ice Coffee/Sppresso + Fresh Milk + Hazelnut Syrup",
+    "section": "drinks"
+  },
+  {
+    "price": "28000",
+    "name": "Thick Vanilla Coffee",
+    "description": "Ice Coffee/Icesso + Fresh Milk + Vanilla Syrup",
+    "section": "drinks"
+  },
+  {
+    "price": "26000",
+    "name": "Thick Avocado Latte",
+    "description": "Fresh Milk + Avocado Frape",
+    "section": "drinks"
+  },
+  {
+    "price": "22000",
+    "name": "Thick Brown Sugar Coffee",
+    "description": "Iced Coffee/Icesso + Fresh Milk + Palm Sugar",
+    "section": "drinks"
+  },
+  {
+    "price": "7000",
+    "name": "Mineral Water",
+    "description": "Mineral Water 600Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "7000",
+    "name": "Coca Cola",
+    "description": "Coca-Cola 250Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "7000",
+    "name": "Fanta",
+    "description": "Beef 250Ml",
+    "section": "drinks"
+  },
+  {
+    "price": "35000",
+    "name": "Package With Spicy Anti Galau",
+    "description": "Rice (Nasi Uduk/Y Yellow Rice) + Crispy Chicken (Original/Red) + Matah Sambal",
+    "section": "af x fitcar"
+  },
+  {
+    "price": "35000",
+    "name": "Gogak Sambal Package",
+    "description": "Rice (Nasi Uduk/Y Yellow Rice) + Crispy Chicken (Original/Red) + Madura Black Sambal",
+    "section": "af x fitcar"
+  },
+  {
+    "price": "35000",
+    "name": "Package Of Beefing Sambal",
+    "description": "Rice (Nasi Uduk/Yellow Rice) + Crispy Chicken (Original/Red) + Bajak Sambal",
+    "section": "af x fitcar"
+  },
+  {
+    "price": "25000",
+    "name": "Sambal Crush Chicken Rice Bowl",
+    "description": "Rice + Shredded Chicken (Original / Red) + Smashed Sambal + Cucumber",
+    "section": "rice bowl"
+  },
+  {
+    "price": "25000",
+    "name": "Forever Chicken Rice Bowl",
+    "description": "Rice + Chicken Fillet + Foreve Seasoning + Cucumber",
+    "section": "rice bowl"
+  },
+  {
+    "price": "25000",
+    "name": "Bulgogi Chicken Rice Bowl",
+    "description": "Rice + Chicken Fillet + Bulgogi Sauce + Cucumber",
+    "section": "rice bowl"
+  },
+  {
+    "price": "25000",
+    "name": "Geprek Chicken Rice Bowl",
+    "description": "Rice + Chicken Fillet + Smashed Sambal + Cucumber",
+    "section": "rice bowl"
+  }
+]

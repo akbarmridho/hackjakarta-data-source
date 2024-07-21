@@ -1,0 +1,338 @@
+[
+  {
+    "price": "47300",
+    "name": "SATE PEDAS LOMBOK",
+    "description": "Sate ayam gemoy (5 tusuk) dengan marinasi bumbu pedas gurih, dilumuri sambal bulayak biar makin nampol. Disajikan dengan acar.",
+    "section": "today's offer"
+  },
+  {
+    "price": "47300",
+    "name": "SATE AYAM BUMBU MARANGGI",
+    "description": "Sate ayam gemoy (5 tusuk) dengan marinasi bumbu maranggi kebanggaan warga Purwakarta. Disajikan dengan sambal tomat, komplit!",
+    "section": "today's offer"
+  },
+  {
+    "price": "47300",
+    "name": "SATE BUMBU KACANG",
+    "description": "Sate ayam gemoy (5 tusuk) pake bumbu kacang gerobakan favorit semua people. Disajikan dengan acar.",
+    "section": "today's offer"
+  },
+  {
+    "price": "47300",
+    "name": "SATE LILIT CELUP",
+    "description": "Nyate sensasi baru! Sate lilit ayam (5 tusuk) ala Bali yang diguyur kuah gulai spesial. Disajikan dengan sambal kecombrang.",
+    "section": "today's offer"
+  },
+  {
+    "price": "47300",
+    "name": "Sate Taichan Gemoy",
+    "description": "Bikin nagih! 5 tusuk Sate ayam ndut & gemoy pake sambal khas taichan ala Jaksel & kaldu ayam",
+    "section": "today's offer"
+  },
+  {
+    "price": "47300",
+    "name": "SATE PEDAS LOMBOK",
+    "description": "Sate ayam gemoy (5 tusuk) dengan marinasi bumbu pedas gurih, dilumuri sambal bulayak biar makin nampol. Disajikan dengan acar.",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "47300",
+    "name": "SATE AYAM BUMBU MARANGGI",
+    "description": "Sate ayam gemoy (5 tusuk) dengan marinasi bumbu maranggi kebanggaan warga Purwakarta. Disajikan dengan sambal tomat, komplit!",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "47300",
+    "name": "SATE BUMBU KACANG",
+    "description": "Sate ayam gemoy (5 tusuk) pake bumbu kacang gerobakan favorit semua people. Disajikan dengan acar.",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "47300",
+    "name": "SATE LILIT CELUP",
+    "description": "Nyate sensasi baru! Sate lilit ayam (5 tusuk) ala Bali yang diguyur kuah gulai spesial. Disajikan dengan sambal kecombrang.",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "35200",
+    "name": "Crispy Cireng",
+    "description": "Tepung tapioka goreng dengan bumbu renyah, disajikan dengan saus pedas manis",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "38500",
+    "name": "Kentang Goreng",
+    "description": "Kentang goreng dengan pilihan bumbu tabur BBQ atau Jagung Bakar",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "35200",
+    "name": "Tahu Lada Garam",
+    "description": "Tahu goreng renyah pake taburan bawang putih, cabe rawit & daun bawang",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "47300",
+    "name": "Sate Taichan Gemoy",
+    "description": "Bikin nagih! 5 tusuk Sate ayam ndut & gemoy pake sambal khas taichan ala Jaksel & kaldu ayam",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "31900",
+    "name": "Tempe Mendoan",
+    "description": "Tempe goreng khas Jawa yang diiris tipis dengan adonan tradisional dan potongan daun bawang. Disajikan dengan saus kecap biar makin afdol! (3 pcs /porsi)",
+    "section": "jajanan keroyokan"
+  },
+  {
+    "price": "214500",
+    "name": "Jajan Berempat",
+    "description": "Nasi Goreng Gila + Crispy Cireng + Mie Tek Tek Pak Min + Brown Butter Chicken Rice",
+    "section": "jajan hemat ramean"
+  },
+  {
+    "price": "191400",
+    "name": "JUARANYA NASGOR BUNDLE",
+    "description": "Nasi Goreng Gila + Nasi Goreng Teri Medan + Crispy Cireng",
+    "section": "juaranya nasgor bundle"
+  },
+  {
+    "price": "46200",
+    "name": "Bakso Halus Gerobakan",
+    "description": "Bakso sapi spesial ala gerobakan, dengan isi 5 bakso halus, mie kuning, bihun, tahu, tetelan, dan kuah medok racikan rahasia Bang Maul",
+    "section": "bakso gerobakan people"
+  },
+  {
+    "price": "60500",
+    "name": "Bakso Campur Gerobakan",
+    "description": "Bakso sapi spesial ala gerobakan, dengan isi 3 bakso halus, 2 bakso urat, tahu, mie kuning, bihun, tetelan, dan kuah medok racikan rahasia Bang Maul",
+    "section": "bakso gerobakan people"
+  },
+  {
+    "price": "105000",
+    "name": "Protein Only - Salted Egg Chicken",
+    "description": "225gr popcorn chicken (tanpa nasi) diguyur saus telur asin yang gurih. Menu andalan anak hits!",
+    "section": "promo protein"
+  },
+  {
+    "price": "105000",
+    "name": "Protein Only - Brown Butter Chicken",
+    "description": "225gr popcorn chicken (tanpa nasi) dioles saus mentega gurih nan nikmat",
+    "section": "promo protein"
+  },
+  {
+    "price": "105000",
+    "name": "Protein Only - Ayam Sambal Korek",
+    "description": "225gr popcorn chicken (tanpa nasi) pake sambel korek khas TPC. Pedesnya bikin merem melek!",
+    "section": "promo protein"
+  },
+  {
+    "price": "53900",
+    "name": "Nasi Goreng Sei Kecombrang",
+    "description": "Next level! Nasi goreng dengan irisan bunga kecombrang, empuknya sei sapi yang smokey, dan kerupuk renyah. Rasanya bikin nyaman~",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "57200",
+    "name": "Nasi Goreng Teri Medan",
+    "description": "Nasi goreng gurih dengan teri medan renyah",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "49500",
+    "name": "Nasi Goreng Cumi Bejo",
+    "description": "Nasi goreng dengan topping cumi asin cabe ijo khas The People’s Cafe dan kerupuk renyah. Pedesnya bikin nagih!",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "49500",
+    "name": "Nasi Goreng Chili Oil",
+    "description": "Nasi goreng chili oil yang viral dengan topping udang, ikan dori, dan kerupuk renyah. Pedes & gurih nampol!",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "57200",
+    "name": "Nasi Guyur Tikungan",
+    "description": "Perpaduan unik nasi goreng sapi dengan gurihnya kuah gulai spesial! Disajikan bareng kerupuk bawang, enaknya beda!",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "57200",
+    "name": "Nasi Goreng Gila",
+    "description": "Nasi goreng gila campur aduk pake sosis ayam, bakso sapi, sayur, dan kerupuk. Level pedas: mulut manis (tidak pedas), mulut tetangga (sedang), mulut netizen (pedas mampus)",
+    "section": "nasgor tungku"
+  },
+  {
+    "price": "38500",
+    "name": "Siomay Abang Abang",
+    "description": "Siomay dengan tahu, kentang,dan bumbu kacang karya khas abang-abang",
+    "section": "jajanan tanggal tua"
+  },
+  {
+    "price": "38500",
+    "name": "Batagor",
+    "description": "Jajanan favorit barudak Bandung, disiram saus kacang khas abang gerobakan. (3 pcs /porsi)",
+    "section": "jajanan tanggal tua"
+  },
+  {
+    "price": "31900",
+    "name": "Otak-Otak Crispy",
+    "description": "Otak-otak olahan ikan tenggiri yang digoreng crispy. Ditabur bumbu BBQ biar makin gurih & nagih! (4 pcs / portion).",
+    "section": "jajanan tanggal tua"
+  },
+  {
+    "price": "38500",
+    "name": "Bubur Ayam Kota",
+    "description": "Bubur ala gerobakan isi ayam suwir, bawang goreng, kacang, telor, kerupuk. Makannya boleh diaduk boleh enggak, sesuai selera.",
+    "section": "jajanan tanggal tua"
+  },
+  {
+    "price": "52800",
+    "name": "Mie Tek Tek Pak Min",
+    "description": "\"Mie tektek gerobakan isi telur, ayam, sayur. Pedesnya suka-suka! Level pedas: mulut manis (tidak pedas), mulut tetangga (sedang), mulut netizen (pedas mampus)\"",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "57200",
+    "name": "Kwetiau Goreng Peranakan",
+    "description": "Kwetiau goreng dengan sayur dan saus gurih khas oriental. Pilihan topping : sapi/seafood",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "57200",
+    "name": "Ayam Geprek TPC",
+    "description": "Ayam geprek khas The People's Cafe dengan sambal nusantara . Pilihan Sambal : Matah/Korek/Bawang/Keju/Merah Spesial/Ijo",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "49500",
+    "name": "Dumpling Uncle Wok",
+    "description": "Pangsit dimasak dengan wok nya Uncle Wok. Dilumuri saus a la char kwey teow Singapura",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "57200",
+    "name": "Brown Butter Chicken",
+    "description": "Nasi ayam goreng tepung yang dioles saus mentega gurih nan nikmat.",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "63800",
+    "name": "Beef Gyu Don",
+    "description": "Nasi dan daging sapi iris tipis yang ditumis sampe empuk dengan saus yakiniku.",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "217800",
+    "name": "Geprek Gokil",
+    "description": "Ayam geprek khas The People's Cafe buat makan rame-rame dengan topping keju dan aneka sambal.",
+    "section": "jajanan sos laper"
+  },
+  {
+    "price": "63800",
+    "name": "Tongseng Boyolali",
+    "description": "Tongseng isi ayam atau sapi, dihiasin potongan kol dan tomat. Seger. Pilihan : Ayam/Sapi",
+    "section": "jajanan penghangat hati"
+  },
+  {
+    "price": "63800",
+    "name": "Soto Betawi",
+    "description": "Soto Betawi buatan Babe isi daging sapi, kentang, tomat. Lengkap pake nasi putih.",
+    "section": "jajanan penghangat hati"
+  },
+  {
+    "price": "41800",
+    "name": "Mie Nyonya Bun",
+    "description": "Bakmi ayam klasik isi jamur dan sayur, lengkap dengan pangsit goreng",
+    "section": "jajanan penghangat hati"
+  },
+  {
+    "price": "52800",
+    "name": "American Grilled Cheese Sandwich",
+    "description": "Ropang ala Uncle Sam dengan campuran keju cheddar dan mozzarella yang meleleh",
+    "section": "jajanan ala bule"
+  },
+  {
+    "price": "63800",
+    "name": "Spaghetti Bolognese",
+    "description": "Spaghetti klasik dengan saus bolognaise dan daging sapi cincang.",
+    "section": "jajanan ala bule"
+  },
+  {
+    "price": "63800",
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti dengan saus cream telur, bawang, keju parmesan dan ayam ham",
+    "section": "jajanan ala bule"
+  },
+  {
+    "price": "30800",
+    "name": "Burjo Madura",
+    "description": "Bubur hangat isi kacang ijo dan ketan item, pake santan dan gula aren yang semanis si dia.",
+    "section": "jajanan semanis kamu"
+  },
+  {
+    "price": "38500",
+    "name": "Pisang Goreng Madu ala TPC",
+    "description": "Pisang goreng tradisional dengan balutan adonan tepung yang renyah dan topping madu dan keju",
+    "section": "jajanan semanis kamu"
+  },
+  {
+    "price": "38500",
+    "name": "Pisang Aroma Coklat",
+    "description": "Pisang manis dan coklat meses dibalut dengan kulit lumpia yang renyah. (4 pcs /porsi)",
+    "section": "jajanan semanis kamu"
+  },
+  {
+    "price": "45000",
+    "name": "Shaken Espresso Latte.",
+    "description": "Shaken Espresso Latte",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "38500",
+    "name": "Kopi Pandan Aren",
+    "description": "Pandan enchanced with signature Gula Nusantara,creamy milk and batavia blend espresso",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "38500",
+    "name": "Kopi Ube",
+    "description": "A tasty combination of Batavia Blend Espresso and Creamy Ube",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "49500",
+    "name": "Iced Mocha",
+    "description": "Chocolate ganache, espresso, fresh milk & sugar",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "39600",
+    "name": "Kopi Rempah",
+    "description": "Batavia Blend Espresso with a punch of flavor from Nusantara Spices Milk and Cinnamon powder",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "39600",
+    "name": "Iced Kopi Susu Batavia",
+    "description": "A perfect combination of Batavia Blend Espresso, Creamy Milk and Signature Gula Nusantara.",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "49500",
+    "name": "Salted Caramel Latte.",
+    "description": "Salred Caramel Latte",
+    "section": "coffee by djournal coffee"
+  },
+  {
+    "price": "1500",
+    "name": "Plastic Spoon & Fork",
+    "description": "Plastic Spoon & Fork",
+    "section": "utensils"
+  },
+  {
+    "price": "0",
+    "name": "ISMAYA Group Care",
+    "description": "Ada keluhan mengenai pesananmu? ISMAYA GROUP Customer Care siap membantu! Kirimkan screenshot pesanan, struk beserta foto produk ke Whatsapp ISMAYA Care di 0817 831 363",
+    "section": "ismaya group care"
+  }
+]

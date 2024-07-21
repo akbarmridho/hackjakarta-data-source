@@ -1,0 +1,242 @@
+[
+  {
+    "price": "3000",
+    "name": "Sate Taichan Pertusuk",
+    "description": "Taichan Satay Per Skewer",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "10 Tusuk Sate Taichan Campur",
+    "description": "10 Taichan Skewers With Skin In The Middle, With Spicy And Savory Taichan Sambal",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "10 Tusuk Sate Taichan Full Kulit",
+    "description": "Taichan Satay Full Skin Contains 10 With Taichan Sambal Which Is Dense And Tasty",
+    "section": "sate"
+  },
+  {
+    "price": "30000",
+    "name": "10 Tusuk Sate Taichan Full Daging",
+    "description": "Taichan Satay Filled With Full Meat With Spicy Taichan Sambal And Savory Contains 10 Pieces",
+    "section": "sate"
+  },
+  {
+    "price": "29000",
+    "name": "Taichan Mentega Campur",
+    "description": "Butter Taichan Mixed",
+    "section": "sate"
+  },
+  {
+    "price": "29000",
+    "name": "Taichan Mentega Full Kulit",
+    "description": "Butter Taichan Full Skin",
+    "section": "sate"
+  },
+  {
+    "price": "30000",
+    "name": "Taichan Mentega Full Daging",
+    "description": "Butter Taichan Full Of Meat",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "Taichan Goreng Campur",
+    "description": "Tqichan Goreng Campur",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "10 Tusuk Sate Kulit Goreng Taichan",
+    "description": "10 Skewers Of Fried Skin",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "Taichan Goreng Full Daging",
+    "description": "Fried Taichan Full Of Meat",
+    "section": "sate"
+  },
+  {
+    "price": "59000",
+    "name": "20 Tusuk Sate Taichan Free 2 Tusuk",
+    "description": "20 Skewers Of Taichan Satay Free 2 Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "88000",
+    "name": "30 Tusuk Sate Taichan Free 3 Tusuk",
+    "description": "30 Skewers Free 3 Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "145000",
+    "name": "50 Tusuk Sate Taichan Free 5 Tusuk",
+    "description": "50 Taichan Skewers Free 5 Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "290000",
+    "name": "100 Tusuk Sate Taichan Free 5 Lontong",
+    "description": "100 Tusuk Sate Taichan Free 5 Lontong",
+    "section": "sate"
+  },
+  {
+    "price": "290000",
+    "name": "100 Tusuk Sate Taichan Free 10 Tusuk",
+    "description": "100 Skewers Of Taichan Satay Free 10 Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "26000",
+    "name": "Paket Mie Goreng 5 Tusuk Sate Taichan",
+    "description": "Fried Noodles And 5 Taichan Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "35000",
+    "name": "Mie Goreng 10 Tusuk Sate Taichan",
+    "description": "Fried Noodles 10 Skewers Of Taichan Satay",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "10 Skewers Madurese Peanut Sauce",
+    "description": "Madura Satay With Peanut Sauce 10 Skewers",
+    "section": "sate"
+  },
+  {
+    "price": "8000",
+    "name": "Butter Rice",
+    "description": "Butter Rice",
+    "section": "sate"
+  },
+  {
+    "price": "6000",
+    "name": "White Rice",
+    "description": "Rice 1 Portion",
+    "section": "sate"
+  },
+  {
+    "price": "5000",
+    "name": "Lontong",
+    "description": "Lontong",
+    "section": "sate"
+  },
+  {
+    "price": "4500",
+    "name": "Sambal Taichan",
+    "description": "",
+    "section": "sate"
+  },
+  {
+    "price": "3000",
+    "name": "Skin Crackers",
+    "description": "Skin Crackers",
+    "section": "sate"
+  },
+  {
+    "price": "45000",
+    "name": "Sate Maranggi Sambal Oncom",
+    "description": "10 Skewers Of Maranggi Sambal Oncom And Soy Sauce Sambal",
+    "section": "sate"
+  },
+  {
+    "price": "28500",
+    "name": "10 Skewers Of Flour Skin Satay",
+    "description": "10 Skewers Of Flour Skin With Taichan Sambal",
+    "section": "sate"
+  },
+  {
+    "price": "145000",
+    "name": "Phk 5",
+    "description": "50 Taichan Skewers + 1 Lontong + Mineral Water 1500 Ml + 1 Skin Crackers",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "73500",
+    "name": "Phk 4",
+    "description": "20 Skewers Of Taichan Satay + 1 Lontong + Mineral Water 1500 Ml + 1 Skin Crackers",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "41000",
+    "name": "Phk 3",
+    "description": "10 Skewers Of Taichan Satay + 1 Lontong + Mineral Water 600 Ml + 1 Skin Crackers",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "38000",
+    "name": "Phk 2",
+    "description": "10 Taichan Skewers + 1 Lontong + Mineral Water 600 Ml",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "33000",
+    "name": "Phk 1",
+    "description": "10 Taichan Skewers + 1 Lontong",
+    "section": "paket hemat kenyang"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Taichan Box Styrofoam",
+    "description": "10 Taichan Skewers, Lontong, Sambal Taichan Separate, Lime",
+    "section": "paket sate box"
+  },
+  {
+    "price": "35000",
+    "name": "Sate Ayam Box Styrofoam",
+    "description": "10 Skewers Of Chicken, Lontong, Peanut Sauce And Separate Sambal",
+    "section": "paket sate box"
+  },
+  {
+    "price": "37000",
+    "name": "Sate Taichan Bix Bento",
+    "description": "10 Taichan Skewers, Lontong, Separate Taichan Sambal",
+    "section": "paket sate box"
+  },
+  {
+    "price": "37000",
+    "name": "Sate Ayam Box Bento",
+    "description": "10 Skewers, Lontong, Peanut Sauce And Separate Sambal",
+    "section": "paket sate box"
+  },
+  {
+    "price": "8000",
+    "name": "Air Club 1500Ml",
+    "description": "\"Honeyml\" Water",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Club Mineral Water 600Ml",
+    "description": "Mineral Water 600Ml",
+    "section": "minuman"
+  },
+  {
+    "price": "6500",
+    "name": "Teh Pucuk",
+    "description": "Pucuk Tea",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es Milo",
+    "description": "Milo Ice",
+    "section": "minuman"
+  },
+  {
+    "price": "8000",
+    "name": "Es Good Day Cappucino",
+    "description": "Good Iced Good Esy Cappuccino",
+    "section": "minuman"
+  },
+  {
+    "price": "5000",
+    "name": "Sweet Iced Tea",
+    "description": "Sweet Ice Tea",
+    "section": "minuman"
+  }
+]

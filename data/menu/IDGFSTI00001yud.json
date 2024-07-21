@@ -1,0 +1,555 @@
+[
+  {
+    "price": "71500",
+    "name": "2X Creamy Salmon Don",
+    "description": "Flavor-Sead Salmon In Creamy Sauce, Shredded Sweet Potato, Nori, Tomatoes, Spring Onions",
+    "section": "today's offer"
+  },
+  {
+    "price": "66000",
+    "name": "B1G1 Fyre Special",
+    "description": "2X Bowls Frozenbowl / Bonfish / Mix",
+    "section": "today's offer"
+  },
+  {
+    "price": "38500",
+    "name": "Buy 1 Get 1 Coffee",
+    "description": "2X American / Latte / Cappuccino",
+    "section": "today's offer"
+  },
+  {
+    "price": "210375",
+    "name": "3X Torched",
+    "description": "Flame-Sead Salmon And Salmon Belly, Gobo Roots, Shiita, Red Radish, Edmame, Nori, Tobiko",
+    "section": "today's offer"
+  },
+  {
+    "price": "110000",
+    "name": "1X Poke + 1X Matcha Latte",
+    "description": "1X Poke Bowl (Small) + 1X Matcha Latte / Other Drinks",
+    "section": "today's offer"
+  },
+  {
+    "price": "71500",
+    "name": "Matcha Latte Bundle",
+    "description": "2X Matcha Latte",
+    "section": "today's offer"
+  },
+  {
+    "price": "71500",
+    "name": "2X Creamy Salmon Don",
+    "description": "Flavor-Sead Salmon In Creamy Sauce, Shredded Sweet Potato, Nori, Tomatoes, Spring Onions",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "66000",
+    "name": "B1G1 Fyre Special",
+    "description": "2X Bowls Frozenbowl / Bonfish / Mix",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "38500",
+    "name": "Buy 1 Get 1 Coffee",
+    "description": "2X American / Latte / Cappuccino",
+    "section": "buy 1 get 1"
+  },
+  {
+    "price": "210375",
+    "name": "3X Torched",
+    "description": "Flame-Sead Salmon And Salmon Belly, Gobo Roots, Shiita, Red Radish, Edmame, Nori, Tobiko",
+    "section": "poke bundle"
+  },
+  {
+    "price": "110000",
+    "name": "1X Poke + 1X Matcha Latte",
+    "description": "1X Poke Bowl (Small) + 1X Matcha Latte / Other Drinks",
+    "section": "poke + matcha bundle"
+  },
+  {
+    "price": "71500",
+    "name": "Matcha Latte Bundle",
+    "description": "2X Matcha Latte",
+    "section": "matcha party"
+  },
+  {
+    "price": "99000",
+    "name": "Amonna Hua",
+    "description": "Salmon, White Sauce, Scrambled Eggs, Avocado, Toasted Sourdben, Microgreens, Mustard Seeds",
+    "section": "special menu"
+  },
+  {
+    "price": "55000",
+    "name": "Houjicha Maple Latte",
+    "description": "Hojicha Latte With Maple Syrup",
+    "section": "special menu"
+  },
+  {
+    "price": "71500",
+    "name": "Creamy Salmon Don",
+    "description": "Flavor-Sead Salmon In Creamy Sauce, Shredded Sweet Potato, Nori, Tomatoes, Spring Onions",
+    "section": "poke bowl"
+  },
+  {
+    "price": "93500",
+    "name": "Space Poke",
+    "description": "Salmon, Tuna, Avocado, Purple Pickle, Tempura Crunch, White Sauce",
+    "section": "poke bowl"
+  },
+  {
+    "price": "82500",
+    "name": "Chef'S Bowl",
+    "description": "Salmon In White Sauce, Crispy Nori, Tomato, Spring Onion, Furikake",
+    "section": "poke bowl"
+  },
+  {
+    "price": "71500",
+    "name": "Honu-Lulululu",
+    "description": "Tuna With Shoyu, Nori, Spring Onion, Cucumber",
+    "section": "poke bowl"
+  },
+  {
+    "price": "82500",
+    "name": "Superbowl",
+    "description": "Salmon With Miso Lemon, Avocado, Crispy Kale, Edamame, Carrots, Cucumber",
+    "section": "poke bowl"
+  },
+  {
+    "price": "82500",
+    "name": "Torched",
+    "description": "Flame Seared Salmon And Salmon Belly, Gobo Roots, Shiitake, Red Radish, Edamame, Nori, Tobiko",
+    "section": "poke bowl"
+  },
+  {
+    "price": "77000",
+    "name": "Two & Two",
+    "description": "Salmon & Tuna With Creamy Sauce, Wakame, Lettuce, Carrots, Tempura Crunch",
+    "section": "poke bowl"
+  },
+  {
+    "price": "77000",
+    "name": "Wayo",
+    "description": "Salmon With Wasabi Mayo Sauce, Avocado, Edamame, Tobiko, Radish, Spring Onion, Coconut Crunch",
+    "section": "poke bowl"
+  },
+  {
+    "price": "82500",
+    "name": "Yugo",
+    "description": "Salmon With Shoyu, Edamame, Wakame, Tobiko, Japanese Purple Pickle",
+    "section": "poke bowl"
+  },
+  {
+    "price": "55000",
+    "name": "Tofu Curry",
+    "description": "Tofu, Carrot, Potato, Curry Sauce",
+    "section": "poke bowl"
+  },
+  {
+    "price": "71500",
+    "name": "Thank You, Nex",
+    "description": "Tuna/Salmon, Cucumber, Nori, Shredded Sweet Potato, Tobiko",
+    "section": "poke bowl"
+  },
+  {
+    "price": "88000",
+    "name": "The Kahuna",
+    "description": "120Gr Salmon/Tuna/Both With Garlic Oil And Wakame",
+    "section": "kameha-meha series"
+  },
+  {
+    "price": "88000",
+    "name": "The Maui",
+    "description": "120Gr Salmon/Tuna/Both With Spicy Mayo And Spring Onion",
+    "section": "kameha-meha series"
+  },
+  {
+    "price": "99000",
+    "name": "Grilled Salmon",
+    "description": "Pan-Grilled Salmon With Unagi Sauce, Edamame, Red Radish, Carrot, Lemon Slice, And Rice Mixed With Nori & Black Sesame Seed",
+    "section": "not so poke"
+  },
+  {
+    "price": "38500",
+    "name": "Salmon Head",
+    "description": "",
+    "section": "not so poke"
+  },
+  {
+    "price": "66000",
+    "name": "Chicken Katsu Curry",
+    "description": "Chicken Katsu, Carrot, Potato With Curry Sauce",
+    "section": "not so poke"
+  },
+  {
+    "price": "55000",
+    "name": "Chicken Teriyaki",
+    "description": "Chicken With Teriyaki Sauce, Salad Mix With Creamy Sauce",
+    "section": "not so poke"
+  },
+  {
+    "price": "66000",
+    "name": "Bonfire",
+    "description": "Salmon With Spicy Creamy Sauce, Lettuce, Carrots, Cucumber, Salmon Skin, Onion",
+    "section": "not so poke"
+  },
+  {
+    "price": "66000",
+    "name": "Fyrebowl",
+    "description": "Cooked Salmon With Spicy Mayo, Carrots, Gobo Rooots, Pickled Cucumber, Shiitake, Shallots",
+    "section": "not so poke"
+  },
+  {
+    "price": "55000",
+    "name": "Nori Taco Creamy Salmon",
+    "description": "Salmon With Creamy Sauce, Avocado, Cucumber, Sushi Rice Wraped In A Nori Taco",
+    "section": "nori tacos"
+  },
+  {
+    "price": "55000",
+    "name": "A-Ok Salmon",
+    "description": "Flame Seared Salmon, Shiitake, Red Radish And Edamame Served In A Nori Taco",
+    "section": "nori tacos"
+  },
+  {
+    "price": "44000",
+    "name": "A-Ok Taco Tuna",
+    "description": "Tuna, Avocado, Tomato, And Fresh Lime Seruded In A Nori Taco",
+    "section": "nori tacos"
+  },
+  {
+    "price": "35200",
+    "name": "Dab-Dab Chiko",
+    "description": "Mochiko Chicken With Dab-Dab Spicy Sauce, White Rice, Cucumber, Pink Pickle",
+    "section": "mochiko bowls"
+  },
+  {
+    "price": "45100",
+    "name": "Ori Chiko",
+    "description": "Mochiko Chicken With Creamy Sauce, White Rice, Kaki-Mochi Crumble, Beni Shoga",
+    "section": "mochiko bowls"
+  },
+  {
+    "price": "16500",
+    "name": "Korokke",
+    "description": "Deep-Fried Salmon/Chicken And Potato Balls With Curry Dipping Sauce",
+    "section": "small plates"
+  },
+  {
+    "price": "38500",
+    "name": "Onigiri Butter Rice",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "33000",
+    "name": "Sweet Potato Fries",
+    "description": "With Dumplings, Mayo",
+    "section": "small plates"
+  },
+  {
+    "price": "22000",
+    "name": "Edamame",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "44000",
+    "name": "Ahi Dip",
+    "description": "Tuna, Avocado, Tomato, Fresh Menu Serund On The Corn Chips",
+    "section": "small plates"
+  },
+  {
+    "price": "16500",
+    "name": "Salmon Skin",
+    "description": "",
+    "section": "small plates"
+  },
+  {
+    "price": "82500",
+    "name": "Hojicha Marble Cake",
+    "description": "By Gourame",
+    "section": "dessert"
+  },
+  {
+    "price": "55000",
+    "name": "Daifuku Pink Strawberry Matcha",
+    "description": "By Koujigenki",
+    "section": "dessert"
+  },
+  {
+    "price": "55000",
+    "name": "Daifuku Nama Chocolate",
+    "description": "By Koujigenki",
+    "section": "dessert"
+  },
+  {
+    "price": "49500",
+    "name": "Daifuku Original Matcha",
+    "description": "By Koujigenki",
+    "section": "dessert"
+  },
+  {
+    "price": "49500",
+    "name": "Matcha White Chocolate Cookies",
+    "description": "White Chocolate, Matcha Doh, And Embellished With Freeze-Dried Strawberry Crumbs",
+    "section": "dessert"
+  },
+  {
+    "price": "63800",
+    "name": "Hojicha Tartmisu",
+    "description": "By Gourame",
+    "section": "dessert"
+  },
+  {
+    "price": "38500",
+    "name": "Matcha Lime Soda",
+    "description": "Matcha With Lime, Mint, Honey & Soda (Iced Only)",
+    "section": "matcha"
+  },
+  {
+    "price": "33000",
+    "name": "Ginger Lemon Matcha",
+    "description": "Matcha With Ginger & Lemon",
+    "section": "matcha"
+  },
+  {
+    "price": "49500",
+    "name": "Spice Matcha Latte",
+    "description": "Matcha With Cinnamon, Turmeric & Milk / Oatmilk",
+    "section": "matcha"
+  },
+  {
+    "price": "49500",
+    "name": "Matcha Latte",
+    "description": "Matcha With Honey And Milk / Oatmilk",
+    "section": "matcha"
+  },
+  {
+    "price": "22000",
+    "name": "Matcha",
+    "description": "",
+    "section": "matcha"
+  },
+  {
+    "price": "44000",
+    "name": "Plum Tea",
+    "description": "Tea With Plum Syrup, Plum Fruit",
+    "section": "hojicha & tea"
+  },
+  {
+    "price": "38500",
+    "name": "Hojicha Latte",
+    "description": "Hojicha With Honey & Milk / Oatmilk",
+    "section": "hojicha & tea"
+  },
+  {
+    "price": "38500",
+    "name": "Chocolate",
+    "description": "",
+    "section": "coffee"
+  },
+  { "price": "41800", "name": "Mocha", "description": "", "section": "coffee" },
+  {
+    "price": "38500",
+    "name": "Cappuccino",
+    "description": "",
+    "section": "coffee"
+  },
+  {
+    "price": "38500",
+    "name": "Latte",
+    "description": "Espresso With Fresh Milk / Oat Milk",
+    "section": "coffee"
+  },
+  {
+    "price": "33000",
+    "name": "Americano",
+    "description": "",
+    "section": "coffee"
+  },
+  {
+    "price": "60500",
+    "name": "Forest Green Smoothie",
+    "description": "Banana, Mango, Dates, Cinnamon, Kale, Peanut Butter, Spicy By Now",
+    "section": "smoothies"
+  },
+  {
+    "price": "60500",
+    "name": "Coffee Date Smoothie",
+    "description": "Banana, Coconut, Coffee, Cashew, Dates, Cinnamon By Kini",
+    "section": "smoothies"
+  },
+  {
+    "price": "60500",
+    "name": "Chocolate Dreams",
+    "description": "Banana, Cacao, Cacao Nibs, Caswew, Oats, Daes",
+    "section": "smoothies"
+  },
+  {
+    "price": "60500",
+    "name": "Pineapple Juice",
+    "description": "100 Percent Fresh Pineapple Juice, No Added Sugar",
+    "section": "juice"
+  },
+  {
+    "price": "55000",
+    "name": "Sunset Juice",
+    "description": "Cold-Pressed Juice With Orange, Carrot, Apple, Lemon",
+    "section": "juice"
+  },
+  {
+    "price": "51700",
+    "name": "Nastar Mocktail",
+    "description": "Pineapple Juice With Special Sour Sauce By The Signature Bar",
+    "section": "juice"
+  },
+  {
+    "price": "33000",
+    "name": "Extra Tuna",
+    "description": "60Gr Extra Tuna",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "White Rice",
+    "description": "",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Brown Rice",
+    "description": "",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Furikake",
+    "description": "",
+    "section": "extra topping"
+  },
+  {
+    "price": "19800",
+    "name": "Tobiko",
+    "description": "",
+    "section": "extra topping"
+  },
+  {
+    "price": "8250",
+    "name": "Egg",
+    "description": "",
+    "section": "extra topping"
+  },
+  {
+    "price": "38500",
+    "name": "Salmon",
+    "description": "Salmon",
+    "section": "extra topping"
+  },
+  {
+    "price": "44000",
+    "name": "Salmon Torched",
+    "description": "Salmon Torched",
+    "section": "extra topping"
+  },
+  {
+    "price": "22000",
+    "name": "Chicken",
+    "description": "Chicken",
+    "section": "extra topping"
+  },
+  {
+    "price": "5500",
+    "name": "Tempura Crunch",
+    "description": "Tempura Crunch",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Wakame",
+    "description": "Wakame",
+    "section": "extra topping"
+  },
+  {
+    "price": "22000",
+    "name": "Avocado",
+    "description": "Avocado",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Nori",
+    "description": "Nori",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Nori Crispy",
+    "description": "Crispy Nori",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Mushroom",
+    "description": "Mushroom",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Edamame",
+    "description": "Edamame",
+    "section": "extra topping"
+  },
+  {
+    "price": "11000",
+    "name": "Gobo Roots",
+    "description": "Gobo Roots",
+    "section": "extra topping"
+  },
+  {
+    "price": "5500",
+    "name": "Pink Ginger",
+    "description": "Pink Ginger",
+    "section": "extra topping"
+  },
+  {
+    "price": "3300",
+    "name": "Extra Honu Sauce & Togarashi",
+    "description": "",
+    "section": "extra sauce"
+  },
+  {
+    "price": "11000",
+    "name": "Two & Two Creamy Sauce",
+    "description": "Two & Two Creamy Sauce",
+    "section": "extra sauce"
+  },
+  {
+    "price": "11000",
+    "name": "Chef'S Bowl White Sauce",
+    "description": "Chef'S Bowl White Sauce",
+    "section": "extra sauce"
+  },
+  {
+    "price": "11000",
+    "name": "Creamy Wasabi Sauce",
+    "description": "Creamy Wasabi Sauce",
+    "section": "extra sauce"
+  },
+  {
+    "price": "11000",
+    "name": "Bonfire Spicy Mayo Sauce",
+    "description": "Bonfire Spicy Mayo Sauce",
+    "section": "extra sauce"
+  },
+  {
+    "price": "11000",
+    "name": "Peanut Sauce",
+    "description": "Peanut Sauce",
+    "section": "extra sauce"
+  },
+  {
+    "price": "2200",
+    "name": "Cutlery",
+    "description": "Cutlery",
+    "section": "cuttlery"
+  }
+]

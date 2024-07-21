@@ -1,0 +1,716 @@
+[
+  {
+    "price": "35600",
+    "name": "Bundling Dessert Series",
+    "description": "Bundling Promo To Buy 2 Menus Of Dessert Series For More Saving",
+    "section": "today's offer"
+  },
+  {
+    "price": "20100",
+    "name": "Buko Pandan 300 Ml",
+    "description": "Pandan Buko",
+    "section": "today's offer"
+  },
+  {
+    "price": "18300",
+    "name": "Es Teler",
+    "description": "Jackfruit, Young Coconut, Avocado, Jelly, Kolang - Kaling",
+    "section": "today's offer"
+  },
+  {
+    "price": "19500",
+    "name": "Es Campur Segar",
+    "description": "Avocado, Jackfruit, Sago Pearl, Young Coconut, Kolang Kaling, Jelly",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Black Pepper Crispy Chicken Steak Rice",
+    "description": "Rice - Vegetables - Scrambled Tempeh - Chicken Steak - Black Pepper Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "18900",
+    "name": "Nasi Steak Ayam Crispy Original",
+    "description": "Rice - Vegetables - Scrambled Tempeh - Chicken Steak - Orginal Sauce",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Tongseng Sapi",
+    "description": "1 Portion Of Beef",
+    "section": "today's offer"
+  },
+  {
+    "price": "38080",
+    "name": "B1G1 ( 2Box ) Nasi Chicken Katsu",
+    "description": "2 Boxes Of Chicken Katsu Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "20500",
+    "name": "Nasi Chicken Katsu",
+    "description": "Rice - Chicken Katsu - Vegetables - Orek - Choice Of Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "40150",
+    "name": "Paket 2 Box Nasi All Varian",
+    "description": "2 Boxes Of Rice All Variants",
+    "section": "today's offer"
+  },
+  {
+    "price": "22100",
+    "name": "Buy1 Free Gorengan",
+    "description": "Choose 1 Main Menu Free 1 Fried Food",
+    "section": "today's offer"
+  },
+  {
+    "price": "20000",
+    "name": "7 Pcs Dimsum",
+    "description": "Chicken Shrimp Dimsum",
+    "section": "today's offer"
+  },
+  {
+    "price": "15000",
+    "name": "5 Pcs Dimsum",
+    "description": "Chicken Shrimp Dimsum",
+    "section": "today's offer"
+  },
+  {
+    "price": "39300",
+    "name": "Bundling 2 Mie Ayam Crispy All Varian",
+    "description": "2 Crispy Chicken Noodles Menu All Variants",
+    "section": "today's offer"
+  },
+  {
+    "price": "39300",
+    "name": "Bundling 2 Nasi Ayam Crispy All Varian",
+    "description": "2 Menus Of Crispy Chicken Rice",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Geprek Chicken Rice",
+    "description": "Rice - Spicy Smashed Chicken Gizzard - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Crushed Mackarel Tuna Fish Rice",
+    "description": "Rice - Smashed Tuna Fish - Vegetables - Tempeh Orek - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Smashed Cue Fish Rice",
+    "description": "Rice - Smashed Tempeh - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Fried Catfish Rice",
+    "description": "Rice - Smashed Catfish - Scrambled Tempeh - Cucumber - Cabbage",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Balado Sambal Salted Fish Rice",
+    "description": "Rice - Salted Fish Balado - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Presto Milkfish Rice",
+    "description": "Rice - Milkfish Presto - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Squid Rice With Oyster Sauce",
+    "description": "Rice - Stir-Fried Oyster Sauce - Vegetables - Tempeh Orek - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Rice Fillet Teriyaki",
+    "description": "Rice - Fillet Chicken (Boneless) Teriyaki - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Stewed Chicken Rice",
+    "description": "Rice - Stewed Chicken - Scrambled Tempeh - Vegetables - Chili Sauce - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Opor Chicken Rice",
+    "description": "Rice - Chicken Curry - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Rendang Chicken Rice",
+    "description": "Rice - Chicken Rendang - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Grilled Chicken Rice",
+    "description": "Rice - Grilled Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Nasi Ayam Cabe Ijo",
+    "description": "Rice - Green Chili Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "24900",
+    "name": "Fried Chicken Rice",
+    "description": "Rice - Fried Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "Ceplok Egg Rice",
+    "description": "Rice - Fried Egg - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "Nasi Telor Dadar",
+    "description": "Rice - Omelet Egg - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "Tuna Fish Rice",
+    "description": "Rice - Tuna Fish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "19900",
+    "name": "Cue Fish Rice",
+    "description": "Rice - Squid Fish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "22000",
+    "name": "Catfish Rice",
+    "description": "Rice - Catfish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "today's offer"
+  },
+  {
+    "price": "1",
+    "name": "If There Is An Error Menu / Complaints Can Contact Our Whatsapp 0851-51-52-0794",
+    "description": "Info : Nasiramesbude.Id / 0851-5502-0794",
+    "section": "accepting large quantities. info :"
+  },
+  {
+    "price": "20000",
+    "name": "Traktir Driver",
+    "description": "Come On, Share With Your Relatives. This Menu Will Immediately Be Given To The Drivers, Thank You :)",
+    "section": "treat driver partners"
+  },
+  {
+    "price": "35600",
+    "name": "Bundling Dessert Series",
+    "description": "Bundling Promo To Buy 2 Menus Of Dessert Series For More Saving",
+    "section": "dessert series"
+  },
+  {
+    "price": "20100",
+    "name": "Buko Pandan 300 Ml",
+    "description": "Pandan Buko",
+    "section": "dessert series"
+  },
+  {
+    "price": "18300",
+    "name": "Es Teler",
+    "description": "Jackfruit, Young Coconut, Avocado, Jelly, Kolang - Kaling",
+    "section": "dessert series"
+  },
+  {
+    "price": "19500",
+    "name": "Es Campur Segar",
+    "description": "Avocado, Jackfruit, Sago Pearl, Young Coconut, Kolang Kaling, Jelly",
+    "section": "dessert series"
+  },
+  {
+    "price": "17000",
+    "name": "Milk Coconut Ice",
+    "description": "Milk Coconut Ice",
+    "section": "dessert series"
+  },
+  {
+    "price": "16000",
+    "name": "Es Kelapa",
+    "description": "Coconut Ice",
+    "section": "dessert series"
+  },
+  {
+    "price": "19900",
+    "name": "Black Pepper Crispy Chicken Steak Rice",
+    "description": "Rice - Vegetables - Scrambled Tempeh - Chicken Steak - Black Pepper Sauce",
+    "section": "chicken steak"
+  },
+  {
+    "price": "18900",
+    "name": "Nasi Steak Ayam Crispy Original",
+    "description": "Rice - Vegetables - Scrambled Tempeh - Chicken Steak - Orginal Sauce",
+    "section": "chicken steak"
+  },
+  {
+    "price": "24900",
+    "name": "Tongseng Sapi",
+    "description": "1 Portion Of Beef",
+    "section": "serba murah & kenyang"
+  },
+  {
+    "price": "38080",
+    "name": "B1G1 ( 2Box ) Nasi Chicken Katsu",
+    "description": "2 Boxes Of Chicken Katsu Rice",
+    "section": "serba murah & kenyang"
+  },
+  {
+    "price": "20500",
+    "name": "Nasi Chicken Katsu",
+    "description": "Rice - Chicken Katsu - Vegetables - Orek - Choice Of Sambal - Lalapan",
+    "section": "serba murah & kenyang"
+  },
+  {
+    "price": "40150",
+    "name": "Paket 2 Box Nasi All Varian",
+    "description": "2 Boxes Of Rice All Variants",
+    "section": "serba murah & kenyang"
+  },
+  {
+    "price": "22100",
+    "name": "Buy1 Free Gorengan",
+    "description": "Choose 1 Main Menu Free 1 Fried Food",
+    "section": "serba murah & kenyang"
+  },
+  {
+    "price": "9000",
+    "name": "Wrapped Rice Full Package",
+    "description": "Rice - Choice Of Main Menu - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "save rice wraps"
+  },
+  {
+    "price": "20000",
+    "name": "7 Pcs Dimsum",
+    "description": "Chicken Shrimp Dimsum",
+    "section": "chicken shrimp dimsum"
+  },
+  {
+    "price": "15000",
+    "name": "5 Pcs Dimsum",
+    "description": "Chicken Shrimp Dimsum",
+    "section": "chicken shrimp dimsum"
+  },
+  {
+    "price": "39300",
+    "name": "Bundling 2 Mie Ayam Crispy All Varian",
+    "description": "2 Crispy Chicken Noodles Menu All Variants",
+    "section": "promo bundling 2024"
+  },
+  {
+    "price": "39300",
+    "name": "Bundling 2 Nasi Ayam Crispy All Varian",
+    "description": "2 Menus Of Crispy Chicken Rice",
+    "section": "promo bundling 2024"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Geprek Chicken Rice",
+    "description": "Rice - Spicy Smashed Chicken Gizzard - Vegetables - Sambal - Lalapan",
+    "section": "#promogeprek"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Crushed Mackarel Tuna Fish Rice",
+    "description": "Rice - Smashed Tuna Fish - Vegetables - Tempeh Orek - Lalapan",
+    "section": "#promogeprek"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Smashed Cue Fish Rice",
+    "description": "Rice - Smashed Tempeh - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "#promogeprek"
+  },
+  {
+    "price": "19900",
+    "name": "Ambyar Spicy Fried Catfish Rice",
+    "description": "Rice - Smashed Catfish - Scrambled Tempeh - Cucumber - Cabbage",
+    "section": "#promogeprek"
+  },
+  {
+    "price": "25000",
+    "name": "Nasi Ayam Crispy Original",
+    "description": "Rice - Original Crispy Chicken - Scrambled Tempeh - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "25000",
+    "name": "Mie Goreng Ayam Crispy Original",
+    "description": "Stir-Fried Noodles - Original Crispy Chicken - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Ayam Crispy Sambal Geprek",
+    "description": "Rice - Crispy Chicken - Smashed Sambal - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Goreng Ayam Crispy Sambal Geprek",
+    "description": "Stir-Fried Noodles - Crispy Chicken - Smashed Sambal - Scrambled Tempeh - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Crispy Chicken Rice With Shrimp Paste Sauce",
+    "description": "Rice - Crispy Chicken - Shrimp Paste - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Goreng Ayam Crispy Sambal Terasi",
+    "description": "Stir-Fried Noodles - Crispy Chicken - Shrimp Paste - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Nasi Ayam Crispy Cabe Ijo",
+    "description": "Rice - Crispy Chicken - Green Chili Sauce - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Goreng Ayam Crispy Cabe Ijo",
+    "description": "Stir-Fried Noodles - Crispy Chicken - Green Chili Sambal - Scrambled Tempeh - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Crispy Rendang Chicken Rice",
+    "description": "Rice - Crispy Chicken - Rendang Seasoning - Tempeh Orek - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "26000",
+    "name": "Mie Goreng Ayam Crispy Rendang",
+    "description": "Stir Fried Noodles - Crispy Chicken - Rendang Seasoning - Scrambled Tempeh - Lalapan",
+    "section": "ayam crispy series ( new )"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Empal Rice",
+    "description": "Rice - Empal Beef - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "deals daging sapi diskon 25%"
+  },
+  {
+    "price": "33000",
+    "name": "Rendang Beef Rice",
+    "description": "Rice - Rendang Meat - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "deals daging sapi diskon 25%"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Teriyaki Rice",
+    "description": "Rice - Beef Teriyaki - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "deals daging sapi diskon 25%"
+  },
+  {
+    "price": "27000",
+    "name": "Balado Sambal Salted Fish Rice",
+    "description": "Rice - Salted Fish Balado - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "#dailybude"
+  },
+  {
+    "price": "27000",
+    "name": "Presto Milkfish Rice",
+    "description": "Rice - Milkfish Presto - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "#dailybude"
+  },
+  {
+    "price": "27000",
+    "name": "Squid Rice With Oyster Sauce",
+    "description": "Rice - Stir-Fried Oyster Sauce - Vegetables - Tempeh Orek - Sambal - Lalapan",
+    "section": "#dailybude"
+  },
+  {
+    "price": "27000",
+    "name": "Chicken Rice Fillet Teriyaki",
+    "description": "Rice - Fillet Chicken (Boneless) Teriyaki - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "#dailybude"
+  },
+  {
+    "price": "30000",
+    "name": "Clam Rice With Oyster Sauce",
+    "description": "Rice With Oyster Sauce + Scrambled Tempeh + Vegetables + Chili Sauce + Lalapan",
+    "section": "#dailybude"
+  },
+  {
+    "price": "24900",
+    "name": "Stewed Chicken Rice",
+    "description": "Rice - Stewed Chicken - Scrambled Tempeh - Vegetables - Chili Sauce - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "24900",
+    "name": "Opor Chicken Rice",
+    "description": "Rice - Chicken Curry - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "24900",
+    "name": "Rendang Chicken Rice",
+    "description": "Rice - Chicken Rendang - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "24900",
+    "name": "Grilled Chicken Rice",
+    "description": "Rice - Grilled Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "24900",
+    "name": "Nasi Ayam Cabe Ijo",
+    "description": "Rice - Green Chili Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "24900",
+    "name": "Fried Chicken Rice",
+    "description": "Rice - Fried Chicken - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "22000",
+    "name": "Ceplok Egg Rice",
+    "description": "Rice - Fried Egg - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "22000",
+    "name": "Nasi Telor Dadar",
+    "description": "Rice - Omelet Egg - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "22000",
+    "name": "Tuna Fish Rice",
+    "description": "Rice - Tuna Fish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "19900",
+    "name": "Cue Fish Rice",
+    "description": "Rice - Squid Fish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "22000",
+    "name": "Catfish Rice",
+    "description": "Rice - Catfish - Scrambled Tempeh - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "20000",
+    "name": "Scrambled Tempeh Rice",
+    "description": "Rice - Tempeh Orek - Vegetables - Sambal - Lalapan",
+    "section": "rames bude rice"
+  },
+  {
+    "price": "80000",
+    "name": "5 Pcs Ayam Crispy",
+    "description": "5 Pcs Crispy Chicken",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "48000",
+    "name": "3 Pcs Ayam Crispy",
+    "description": "3 Pcs Of Crispy Chicken",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "16000",
+    "name": "1 Pcs Ayam Crispy",
+    "description": "1 Pc Of Crispy Chicken",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "89000",
+    "name": "Cup 250 Gram Empal Daging Sapi",
+    "description": "Beef Empal 250 Gram - Sambal - Lalapan",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "70000",
+    "name": "Cup 250 Gram Daging Sapi Teriyaki",
+    "description": "Teriyaki Beef 250 Gram - Sambal - Lalapan",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "70000",
+    "name": "Cup 250 Gram Daging Rendang Sapi",
+    "description": "Beef Rendang 250 Gram - Sambal - Lalapan",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "55000",
+    "name": "Cup 250 Gram Cumi Saos Tiram",
+    "description": "Squid Oyster Sauce 250 Grams - Sambal - Lalapan",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "38000",
+    "name": "Cup 250 Gram Kerang Saos Tiram",
+    "description": "Oyster Sauce 250 Gram - Sambal - Lalapan",
+    "section": "a la carte bude"
+  },
+  {
+    "price": "13500",
+    "name": "* Tambahan Telor Dadar",
+    "description": "1Pcs Telor Dadar",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Extra Milkfish Presto",
+    "description": "1 Pc Of Presto Fish",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Chicken Opor",
+    "description": "1 Piece Of Chicken Curry",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Grilled Chicken",
+    "description": "1 Piece Of Grilled Chicken",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Green Chili Chicken",
+    "description": "1 Piece Of Green Chili Chicken",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Stewed Chicken",
+    "description": "1 Piece Of Stewed Chicken",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Rendang Chicken",
+    "description": "1 Piece Of Chicken Rendang",
+    "section": "add ons"
+  },
+  {
+    "price": "13500",
+    "name": "Additional Fried Chicken",
+    "description": "1 Piece Of Fried Chicken",
+    "section": "add ons"
+  },
+  {
+    "price": "3500",
+    "name": "Emping",
+    "description": "",
+    "section": "another menu"
+  },
+  {
+    "price": "10000",
+    "name": "Urab",
+    "description": "Urab 1 Portion Of Cup",
+    "section": "another menu"
+  },
+  {
+    "price": "10000",
+    "name": "1 Cup Sayur Asem",
+    "description": "Sayur Asem",
+    "section": "another menu"
+  },
+  {
+    "price": "13900",
+    "name": "Peanut Sauce Pecel",
+    "description": "Vegetable Pecel - Peanut Sauce - Fried Tempeh Orek",
+    "section": "another menu"
+  },
+  {
+    "price": "2000",
+    "name": "Fried Foods",
+    "description": "Fried Food - Price Per Unit",
+    "section": "another menu"
+  },
+  {
+    "price": "3000",
+    "name": "Crackers",
+    "description": "",
+    "section": "another menu"
+  },
+  {
+    "price": "3000",
+    "name": "Perkedel",
+    "description": "Cake",
+    "section": "another menu"
+  },
+  {
+    "price": "8500",
+    "name": "Rice",
+    "description": "",
+    "section": "another menu"
+  },
+  {
+    "price": "7500",
+    "name": "Salted Egg",
+    "description": "Telor Asin",
+    "section": "another menu"
+  },
+  {
+    "price": "7000",
+    "name": "Sweet Iced Tea",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Le Mineral",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "7000",
+    "name": "Teh Manis Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "12500",
+    "name": "Jeruk Hangat",
+    "description": "",
+    "section": "minuman"
+  },
+  {
+    "price": "33000",
+    "name": "Beef Jerky Rice",
+    "description": "Rice - Beef Jerky - Vegetables - Scrambled Tempeh - Sambal - Lalapan",
+    "section": "#eidpackage of meat"
+  },
+  {
+    "price": "1000",
+    "name": "Premium Cutlery Set",
+    "description": "Spoon - Tisue - Toothpick",
+    "section": "1 set of premium cutlery"
+  }
+]
