@@ -1,0 +1,20 @@
+{
+  "name": "hackjakarta-data-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/selenium-webdriver": "^4.1.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
