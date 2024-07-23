@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/anthropic": "^0.2.6",
+    "axios": "^1.7.2",
     "d3-dsv": "^2.0.0",
     "langchain": "^0.2.10",
     "selenium-webdriver": "^4.23.0"
