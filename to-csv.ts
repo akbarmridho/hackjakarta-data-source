@@ -20,26 +20,22 @@ interface RestaurantWithMenu extends RestaurantTransformedJSON {
 }
 
 interface CsvData {
-  restaurantId: string;
-  restaurantName: string;
+  menuId: string;
   restaurantCuisine: string;
-  restaurantLink: string;
   restaurantTags: string;
   menuName: string;
   menuDescription: string;
-  menuPrice: string;
   menuSections: string;
-  menuId: string;
 }
 
 function buildString(data: CsvData[]): string {
   let resultString: string = "";
 
   resultString =
-    "restaurantId;restaurantName;restaurantCuisine;restaurantLink;restaurantTags;menuName;menuDescription;menuPrice;menuSections;menuId\n";
+    "restaurantCuisine;restaurantTags;menuName;menuDescription;menuSections;menuId\n";
 
   for (const each of data) {
-    resultString += `${each.restaurantId};${each.restaurantName};${each.restaurantCuisine};${each.restaurantLink};${each.restaurantTags};${each.menuName};${each.menuDescription};${each.menuPrice};${each.menuSections};${each.menuId}\n`;
+    resultString += `${each.restaurantCuisine};${each.restaurantTags};${each.menuName};${each.menuDescription};${each.menuSections};${each.menuId}\n`;
   }
 
   return resultString;
@@ -57,14 +53,14 @@ function buildString(data: CsvData[]): string {
   for (const restaurant of data) {
     for (const [i, menu] of restaurant.menu.entries()) {
       result.push({
-        restaurantId: restaurant.id,
-        restaurantName: restaurant.name,
+        // restaurantId: restaurant.id,
+        // restaurantName: restaurant.name,
         restaurantCuisine: restaurant.cuisine.join(","),
-        restaurantLink: restaurant.link,
+        // restaurantLink: restaurant.link,
         restaurantTags: restaurant.tags.join(","),
         menuName: menu.name,
         menuDescription: menu.description,
-        menuPrice: menu.price.toString(),
+        // menuPrice: menu.price.toString(),
         menuSections: menu.section.join(","),
         menuId: `${restaurant.id}-${i}`,
       });
@@ -73,11 +69,11 @@ function buildString(data: CsvData[]): string {
 
   await fs.writeFile("data.csv", buildString(result), { encoding: "utf-8" });
 
-  const batchSize = 50;
+  const batchSize = 20;
 
   for (let i = 0; i < result.length / batchSize; i++) {
-    const startIdx = i * 50;
-    const endIdx = Math.min((i + 1) * 50, result.length);
+    const startIdx = i * batchSize;
+    const endIdx = Math.min((i + 1) * batchSize, result.length);
     await fs.writeFile(
       `batch/batch_${i}.csv`,
       buildString(result.slice(startIdx, endIdx)),

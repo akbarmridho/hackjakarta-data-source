@@ -1,44 +1,44 @@
-process.env["LANGCHAIN_TRACING_V2"] = "true";
-process.env["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com";
-process.env["LANGCHAIN_API_KEY"] =
-  "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";
-
 import { ChatAnthropic } from "@langchain/anthropic";
 import { ChatPromptTemplate } from "@langchain/core/prompts";
-import { AIMessageChunk } from "@langchain/core/messages";
 import fs from "fs/promises";
+import fss from "fs";
 
-`
-LANGCHAIN_TRACING_V2=true
-LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-LANGCHAIN_API_KEY="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"
-`;
+process.env["LANGCHAIN_TRACING_V2"] = "true";
+process.env["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com";
+process.env["LANGCHAIN_API_KEY"] = "";
 
 const basePrompt = `
-You are a helpful data scientist.
-
 I attached a CSV file that is separated by semicolon with the following columns.
-- restaurantId -> primary key of the restaurant.
-- restaurantName -> the name of the restaurant
-- restaurantCuisine -> cuisines that is served by this restaurant.
-- restaurantLink -> the url of the restaurant.
-- restaurantTags -> tags of the food that is served by this restaurant.
-- menuName -> the name of the nemu.
-- menuDescription -> the description of the nemu. could be empty
-- menuPrice -> the price of the menu
-- menuId -> the id of the menu
+- menuId -> menu id.
+- menuName -> menu name.
+- menuDescription -> menu description. could be empty.
+- restaurantTags -> restaurant tags.
+- restaurantCuisine -> restaurant cuisine.
 
 Do not change any value for the data and do not delete any row.
 
-Create a new column named class. This only have two value, such as drink and food.
+Your task is to return these columns.
+- menuId
+- menuName
+- menuTag -> tag associated with this menu
+- dishType -> types separated with comma. Could be drink or food
+- menuType -> appetizer, dessert, main course, etc
+- cuisine -> indonesian, chinese, indian, etc. Try to return approximate cuisine type, do not write international.
+- associatedKeywords -> unique association with this menu
+- flavor -> spicy, sweet, sour, etc
+- portion -> estimate menu portion for x person based on menuName. Write only the number.
+- mealTime -> usual mealtime, whether breakfast, lunch, dinner, or anytime
+- occasion -> food occasion, whether casual, event, formmal, etc
 
-For each data, your job is to classify whether the data refer to a food or drink and set the value for class for the data.
 
 You must return the csv data, do not add additional comment. Return result in csv with the same format as I mentioned before.
 `;
 
-const APIKEY =
-  "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";
+function sleep(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+const APIKEY = "";
 (async function main() {
   //
   const model = new ChatAnthropic({
@@ -46,25 +46,35 @@ const APIKEY =
     model: "claude-3-5-sonnet-20240620",
   });
 
-  const data = await fs.readFile("batch/batch_0.csv", { encoding: "utf-8" });
-
   const prompt = ChatPromptTemplate.fromMessages([
     ["system", "You are an expert data scientist"],
     ["human", basePrompt],
     ["human", "{data}"],
   ]);
 
-  const prom = await prompt.format({ data });
-
   const chain = prompt.pipe(model);
 
-  const result = await chain.invoke({ data: data });
+  const batches = await fs.readdir("batch");
 
-  await fs.writeFile("prompt.txt", prom as string, {
-    encoding: "utf8",
-  });
+  for (const batch of batches) {
+    const exist = fss.existsSync(`batch_classified/${batch}`);
 
-  await fs.writeFile("result.txt", result.content as string, {
-    encoding: "utf8",
-  });
+    if (exist) {
+      continue;
+    }
+
+    console.log(`generating for ${batch}`);
+
+    const data = await fs.readFile(`batch/${batch}`, {
+      encoding: "utf-8",
+    });
+
+    const result = await chain.invoke({ data: data });
+
+    await fs.writeFile(`batch_classified/${batch}`, result.content as string, {
+      encoding: "utf8",
+    });
+
+    await sleep(5000);
+  }
 })();

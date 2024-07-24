@@ -12,11 +12,14 @@
   "dependencies": {
     "@langchain/anthropic": "^0.2.6",
     "axios": "^1.7.2",
+    "csv-parse": "^5.5.6",
     "d3-dsv": "^2.0.0",
+    "json-2-csv": "^5.5.4",
     "langchain": "^0.2.10",
     "selenium-webdriver": "^4.23.0"
   },
   "devDependencies": {
+    "@types/d3-dsv": "^3.0.7",
     "@types/node": "^20.14.11",
     "@types/selenium-webdriver": "^4.1.24",
     "prettier": "^3.3.3",
