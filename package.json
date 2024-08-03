@@ -11,12 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/anthropic": "^0.2.6",
+    "@langchain/openai": "^0.2.5",
     "axios": "^1.7.2",
     "csv-parse": "^5.5.6",
     "d3-dsv": "^2.0.0",
     "json-2-csv": "^5.5.4",
     "langchain": "^0.2.10",
-    "selenium-webdriver": "^4.23.0"
+    "selenium-webdriver": "^4.23.0",
+    "tsx": "^4.16.2"
   },
   "devDependencies": {
     "@types/d3-dsv": "^3.0.7",
